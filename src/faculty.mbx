@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+    <title>Faculty Writing Advice</title>
+    <introduction>
+        <list-of elements="section" scope="chapter"/>
+    </introduction>
+    <section>
+        <title>Mistyped/misformatted quotations that haven't been proofread</title>
+        <p>When you quote something, you are exactly replicating the words, phrases, and sentences of another source. Therefore, whenever you are quoting something directly, it's always a good idea to make sure you copy the quotation exactly as it appears in the source. Otherwise, you're inadvertently changing what the quote is saying! But sometimes when you write longer and more complicated quotes, you may forget to insert commas or emphases, type a wrong word, or end the quote incorrectly. Besides simply trying to copy the quote exactly, there are a few other guidelines to keep in mind while incorporating quotes into your writing.</p>
+        <figure>
+            <image width="50%" source="images/LM-CircleLogoAmpersand"/>
+        </figure>
+        <list>
+            <title>Quoting complete sentences:</title>
+            <dl>
+                <li>
+                    <title>Enclose the quote within two sets of quotation marks.</title>
+                    <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote. For instance, take the following sentences:</p>
+                    <blockquote>
+                        <p>According to the first<ndash/>year seminar student, <q>The CWLT is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
+                    </blockquote>
+                    <p>In the first<ndash/>year seminar student's reaction to going to the CWLT, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
+                </li>
+                <li>
+                    <title>Preface the quote with a comma after the preceding word.</title>
+                    <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote. For instance:</p>
+                    <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the CWLT, then!</q></p>
+                </li>
+                <li>
+                    <title>Capitalize the quoted sentence.</title>
+                    <p>If you are quoting a complete sentence, capitalize the first letter of the quoted sentence.</p>
+                    <p>The CWLT states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all Puget Sound students to achieve their academic goals.</q></p>
+                    <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
+                </li>
+                <li>
+                    <title>End each quoted sentence within the quotation marks.</title>
+                    <p>If you are ending your sentence with a quoted sentence, end the quote with a period, exclamation point, or ellipsis before the final set of quotation marks.</p>
+                </li>
+                <li>
+                    <title>For quoted sentences that are dissected within your sentence, use grammar that makes the sentence continuous.</title>
+                    <p>If you are breaking your quoted sentence into two parts, end the first part with a comma and do not capitalize the second part.</p>
+                    <p><q>I'm kind of scared to make a writing appointment,</q> the first<ndash/>year student acknowledged, <q>but I think I will anyway.</q></p>
+                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the CWLT are very nice and accommodating.</q></p>
+                </li>
+                <li>
+                    <title>If you are quoting a condensed sentence, use an ellipsis to replace omitted source material.</title>
+                    <p>Sometimes the information you want to quote will be near the beginning or end of a long sentence or passage, but the material in between may not be applicable or useful to you. If this is the case, you can use an ellipsis (<ellipsis/>) to replace the material you are omitting. However, it's important that the material you are replacing does not change the meaning or intent of the source material.</p>
+                    <p>According to the director of the CWLT, Professor Julie Christoph, <q>The Center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration<ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
+                    <p>Because any quote comes from a larger context, an ellipsis is only needed at the beginning or end of a quote if it would appear otherwise that the entire sentence was quoted.</p>
+                    <p>For example, if this were the original sentence, <q>I have never seen The Postmen play a game, but I really enjoy watching Ultimate Frisbee games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/><nbsp/>I really enjoy watching Ultimate Frisbee games<nbsp/><ellipsis/><nbsp/>.</q></p>
+                </li>
+                <li>
+                    <title>If you are quoting a sentence with an informality or deviation from <xref ref="SAE">Standard American English</xref> or emphasis in the source material, acknowledge that within or after the quote.</title>
+                    <p>Sometimes direct quotes have spelling or grammatical deviations from <xref ref="SAE"><init>SAE</init></xref>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations" autoname="yes"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
+                    <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <sq><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></sq> at the CWLT?</q></p>
+                    <p>The class responded, <q><em>Of course</em> we're going to the <sq>Long Night Against Procrastination</sq> [emphasis in original].</q></p>
+                </li>
+                <li>
+                    <title>If you are quoting a sentence that omits or replaces an important subject, person, or noun with a pronoun, use brackets to identify the missing item.</title>
+                    <p>Sometimes sentences omit a previously referred<ndash/>to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun.</p>
+                    <p>The writing advisor emphasized, <q>[The CWLT] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
+                    <p><q>Additionally, if you need a coffee or tea break, it [the CWLT] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
+                </li>
+            </dl>
+        </list>
+        <list>
+            <title>Quoting fragments:</title>
+            <dl>
+                <li>
+                    <title>Enclose the quote within two sets of quotation marks.</title>
+                </li>
+                <li>
+                    <title>Quoted fragments should not be capitalized.</title>
+                    <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.</p>
+                    <p><blockquote>Although Jordan knew the due date for the lab report was impending, they remarked that they felt a <q>sudden spasm of panic</q> when they realized the report was due tomorrow.</blockquote></p>
+                    <p>Anxious about their upcoming organic chemistry exam, the student noted that their appointment with the chemistry subject tutor made them feel <q>calm and collected.</q></p>
+                </li>
+                <li>
+                    <title>Incorporate quoted fragment into syntax of sentence.</title>
+                    <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallel-sentence-structure" autoname="yes"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically<ndash/>correct and complete.</p>
+                    <p>After their meeting with Rachael Shelden, Coordinator of Learning Support Services, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
+                </li>
+            </dl>
+        </list>
+        <paragraphs>
+            <title>Quoting blocks of text:</title>
+            <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
+            <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.</p>
+            <p>According to its website, the CWLT emphasizes how easy it is to make an appointment:</p>
+            <blockquote>
+                <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.340</p>
+                <p>Students can also request appointments by using the forms for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
+            </blockquote>
+        </paragraphs>
+    </section>
+    <section>
+        <title>Spell check errors </title>
+        <figure>
+            <image width="50%" source="images/LM-Spellcheck"/>
+        </figure>
+        <p>Computer technologies have undeniably improved the speed and accuracy of our writing abilities, particularly through the use of automatic spelling and grammar checkers in many word processors. While these checkers can be useful, it is easy to become over<ndash/>reliant on these technologies as a replacement of individual proofreading; you can simply run a document through <q>spell<ndash/>check,</q> accept the corrections, and suddenly you are error<ndash/>free! However, we often forget that computers can't read our minds. In fact, many simple spelling and grammar errors actually can be caused by an over<ndash/>dependence on auto<ndash/>checkers, with word processors replacing your misspelled words with incorrect suggestions based on common Web word<ndash/>distortions. For instance, a sentence stating, <q>I definantly saw something fishy going on</q> would be auto<ndash/>corrected to <q>I defiantly saw something fishy going on,</q> which has a meaning different than what the writer originally intended (<q>definitely</q>). It's important to remember that computer auto<ndash/>checkers, while useful, should not be used as a replacement for manual proofreading. Carefully read through your document, give it to a friend, and/or take it to the CWLT for some help with proofreading strategies (though don't expect the CWLT to actually do all the proofreading for you). Below is a list of commonly misspelled words that often are auto<ndash/>corrected to very different words.</p>
+        <todo>Get "Top 20-Misspellings and autocorrect" PDF</todo>
+    </section>
+    <section xml:id="problems-with-parallel-sentence-structure">
+        <title>Problems with parallel sentence structure</title>
+        <introduction>
+            <p>Parallel sentence structure is a common pattern used to illustrate two or more ideas, items, or phrases that are equally emphasized in a sentence. It's helpful to use parallel structure when you want to include a list of something or apply a series of words, phrases, or clauses to the same adjective or pronoun. This condenses the sentence, making it more efficient and less repetitive. For instance, say Polly likes to do three things. One way of listing those three things would be to write, <q>Polly likes to read books, likes to drink coffee, and likes to pet cats.</q> But that's a pretty tedious sentence. Instead, you could use parallel structure to condense the sentence: <q>Polly likes to read books, drink coffee, and pet cats.</q> In this sentence, the verb phrase <q>likes to</q> applies equally to the infinitive phrases <q>read books,</q> <q>drink coffee,</q> and <q>pet cats.</q></p>
+            <p>However, sometimes it's easy to lose yourself while using parallel sentence structure by being inconsistent with your word, phrase, or clause forms. For instance, consider this common incorrect rewriting of the above sentence: <q>Polly likes to read books, drink coffee, and petting cats.</q> This is incorrect parallel sentence structure because the word forms are not the same; the verb phrase <q>likes to</q> applies to reading books and drinking coffee, but not to petting cats because the verb <q>petting</q> takes care of itself. The sentence indicates that Polly <q>likes to read books,</q> <q>likes to drink coffee,</q> and <q>likes to petting cats,</q> which has too many active verbs (<q>likes to</q> and <q>petting</q>). By replacing the infinitive form of <q>to pet</q> with the gerund form <q>petting,</q> the sentence now doesn't make very much sense. Sometimes inconsistent forms can be tricky to identify, especially when you have a series of complex clauses or phrases. Below are some common examples of parallel structure errors to watch out for.</p>
+        </introduction>
+        <subsection>
+            <title>Mixing word forms</title>
+            <p>The above sentence is an example of mixing word forms (to read, to drink, and petting). If you have a verb that applies to two or more of the items in the series, it must apply to all items equally in order to preserve correct parallel structure. Take the following example of mixing word forms:</p>
+            <blockquote>
+                <p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and has lots of windows.</q></p>
+            </blockquote>
+            <p>In this sentence, the attributes <q>calm</q> and <q>quiet</q> equally share the verb <q>is</q>: Oppenheimer <q>is calm</q> and <q>is quiet.</q> However, the last attribute in the series (<q>has lots of windows</q>), departs from this structure by introducing another verb, <q>has,</q> to characterize the attribute <q>lots of windows,</q> throwing the series out of balance. If <q>is</q> is applied equally to each attribute, Oppenheimer <q>is calm,</q> <q>is quiet,</q> and <q>is has lots of windows.</q> To fix this mixed word form, you must do one of two things: 1) either break up the attributes into two different items using the conjunction <q>and</q> or 2) arrange the attributes so they share a single verb and adhere to the parallel structure. Examples of these fixes are shown below:</p>
+            <ol>
+                <li><p><q>Oppenheimer is a relaxing place to study; it is calm and quiet and has lots of windows.</q></p></li>
+                <li><p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
+            </ol>
+            <figure>
+                <image width="50%" source="images/LM-Oppenheimer"/>
+            </figure>
+        </subsection>
+        <subsection>
+            <title>Mixing clause forms</title>
+            <p>The same rule may be applied to a series of complex clauses. If you have a verb that applies to two or more clauses in the series, it must apply equally to all clauses in order to maintain parallel structure. Take the following example of mixing clause forms:</p>
+            <blockquote>
+                <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, more <sq>for<ndash/>here</sq> options, and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+            </blockquote>
+            <p>In this sentence, Diversions has cut a lot of waste by doing two things: 1) offering mug discounts, free Cup Karma drinks, and more <sq>for<ndash/>here</sq> options and 2) encouraging people to recycle. While the first three clauses in the series (discounts, drinks, and options) all share the verb <q>offering</q> equally, the fourth clause (recycling lids and sleeves) only uses the verb <q>encouraging.</q> To correct this sentence to preserve parallel structure, you have to insert the conjunction <q>and</q> between the second and third clauses to distinguish what Diversions is <q>offering</q> from what it is <q>encouraging.</q> Take the corrected revision:</p>
+            <blockquote>
+                <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <sq>for<ndash/>here</sq> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+            </blockquote>
+        </subsection>
+        <subsection>
+            <title>Two nouns following one adjective</title>
+            <p>When you have two or more nouns following an adjective, that adjective must apply to all nouns equally. This can be a tricky mistake to identify; when we read, we often only think to apply the adjective to the noun that immediately follows it in the sentence. However, it's important to make sure that either all nouns share the same adjective equally or each noun has its own adjective in a series. Take the following example of an adjective that is incorrectly applied to both nouns:</p>
+            <blockquote>
+                <p><q>The Cellar's rambunctious atmosphere and array of ice cream flavors make it a good place to go to unwind.</q></p>
+            </blockquote>
+            <p>This sentence indicates that the adjective <q>rambunctious</q> applies to both <q>atmosphere</q> and <q>array of ice cream flavors.</q> While the first association makes sense, it would be strange to describe an array of ice cream flavors as <q>rambunctious.</q> Instead, both nouns must either share an adjective that describes both of them or they must have their own adjectives. To fix this sentence, you can do one of two things:<ol>
+            <li>
+                <p>add an adjective that applies to <q>array of ice cream flavors</q></p>
+                <blockquote>
+                    <p><q>The Cellar's rambunctious atmosphere and its array of ice cream flavors make it a good place to go to unwind.</q></p>
+                </blockquote>
+            </li>
+            <li>
+                <p>repeat the pronoun before <q>array</q> to prevent the misperception that it is a <q>rambunctious array</q></p>
+                <blockquote>
+                    <p><q>The Cellar's rambunctious atmosphere and diverse array of ice cream flavors make it a good place to go to unwind.</q></p>
+                </blockquote>
+            </li></ol></p>
+        </subsection>
+        <subsection>
+            <title>Lists after a colon</title>
+            <p>When you have a list after a colon, the parallel structure rule should be equally applied to all items in that list. Take this example of a list that does not follow parallel structure:</p>
+            <blockquote>
+                <p><q>The sandwich station at the <acro>SUB</acro> has the following spread options: hummus, pesto, mayo, mustard, and it also has relish.</q></p>
+            </blockquote>
+            <p>This list breaks parallel structure with the last item, <q>it also has relish,</q> which adds both a subject (<q>it</q>) and verb (<q>has</q>) to the list item (<q>relish</q>). To make this sentence adhere to parallel structure, the list item must be in the same form as the other items in the list:</p>
+            <blockquote>
+                <p><q>The sandwich station at the <acro>SUB</acro> has the following spread options: hummus, pesto, mayo, mustard, and relish.</q></p>
+            </blockquote>
+            <p>To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:</p>
+            <ul>
+                <li><p>While writing a list or series, make sure every item in the series is grammatically consistent (all <ndash/>ing endings vs. infinitive, passive vs. active voice, etc.).</p></li>
+                <li><p>If you have an adjective or pronoun to describe the first word of a series, apply that descriptor equally to every item in the series to make sure it makes sense.</p></li>
+                <li><p>Read carefully through your paper, paying close attention to series connected by conjunctions (<q>and</q>/<q>or</q>) and checking either side of the sentence for correct parallel structure.</p></li>
+                <li><p>If you have a list or series, isolate every item into its own sentence, identify descriptors you can attribute to every item, and then condense the sentence accordingly.</p></li>
+            </ul>
+        </subsection>
+    </section>
+    <section xml:id="misplaced-and-dangling-modifiers">
+        <title>Misplaced and dangling modifiers</title>
+        <dl>
+            <li>
+                <title><term>Modifiers</term></title>
+                <p>are words, phrases, or clauses that characterize a noun and are typically used to add description or specificity to a sentence. You can identify the modifier in a sentence by asking yourself which or what kind of noun the sentence is highlighting. For example, in the sentence <q>The students gazed in awe at the towering sequoia tree,</q> the word <q>towering</q> is being used to modify or describe the sequoia tree. Therefore, to identify the modifier, you can ask yourself <q>Which sequoia tree?</q> and answer <q>The towering one.</q></p>
+            </li>
+            <li>
+                <title><term>Participle phrases</term></title>
+                <p>can also act as modifiers. For instance, in the sentence <q>Gazing at the towering sequoia tree, the students were in awe,</q> the phrase <q>gazing at the towering sequoia tree</q> is the modifier describing the students. You can play the same game as before: <q>Which students were in awe?</q> <q>The ones gazing at the towering sequoia tree.</q></p>
+            </li>
+            <li>
+                <title><term>Adjective clauses</term></title>
+                <p>can act as another type of modifier. In the sentence <q>The sequoia tree, which was towering over the students, inspired widespread awe,</q> the clause <q>which was towering over the students</q> is the modifier describing the sequoia tree. Again: <q>What kind of sequoia tree?</q> <q>The one towering over the students.</q></p>
+            </li>
+        </dl>
+        <p>While modifiers can be extremely useful for spicing up sentences, they can sometimes be misplaced too far from the noun they are intending to describe. These <term>misplaced modifiers</term> not only make the sentence confusing to read; they also may actually end up describing something they're not supposed to describe. For instance, take the following sentence:</p>
+        <blockquote>
+            <p><q>Towering above the heads of the students, we gazed in awe up at the sequoia tree.</q></p>
+        </blockquote>
+        <p>In this sentence, <q>towering above the heads of the students</q> is a participial phrase (see <xref ref="participial-phrases" autoname="yes"/>). However, it's currently being used to describe the pronoun <q>we.</q> Unless <q>we</q> are giants, this sentence doesn't make much sense; how can <q>we</q> tower above the heads of students? Instead, the participial phrase is likely intended to describe the sequoia tree. Consider a revision that places the modifier next to the noun it describes:</p>
+        <blockquote>
+            <p><q>We gazed in awe up at the sequoia tree towering above the heads of the students.</q></p>
+        </blockquote>
+        <p>Here are a few more examples of misplaced modifiers and their possible revisions:</p>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>Liam sprinted up the staircase to his class on the top floor of McIntyre, which was steep and exhausting.</q></p>
+                </blockquote>
+                <p>The placement of this modifier makes it seem like the top floor of McIntyre is <q>steep and exhausting.</q></p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of McIntyre.</q></p>
+                </blockquote>
+            </statement>
+        </example>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into Jones Fountain.</q></p>
+                </blockquote>
+                <p>This sentence makes it seem like the owner was the one <q>whining pleadingly,</q> not the dog!</p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into Jones Fountain.</q></p>
+                </blockquote>
+            </statement>
+        </example>
+
+        <p>In addition to misplaced modifiers, a <term>dangling modifier</term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
+        <blockquote>
+            <p><q>After writing for hours in Collins, the paper was finally finished.</q></p>
+        </blockquote>
+        <p>In this sentence, <q>after writing for hours</q> is a participle phrase modifying <q>the paper.</q> But a paper can't write itself! Instead, the participle phrase should modify the subject doing the action (in this case, the student writing the paper):</p>
+        <blockquote>
+            <p><q>After writing for hours in Collins, the exhausted student finally finished their paper.</q></p>
+        </blockquote>
+        <p>Here are a few more examples of dangling modifiers and their possible revisions:</p>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in Wyatt.</q></p>
+                </blockquote>
+                <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>Unfamiliar with the campus layout, the first year student found it difficult to find their classroom in Wyatt.</q></p>
+                </blockquote>
+            </statement>
+        </example>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>After reviewing the scholarly article, the author's methods appear questionable.</q></p>
+                </blockquote>
+                <p>The modifier, <q>After reviewing the scholarly article,</q> is trying to modify an absent noun.</p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>After reviewing the scholarly article, I find the author's methods questionable.</q></p>
+                </blockquote>
+            </statement>
+        </example>
+    </section>
+    <section>
+        <title>Split infinitives</title>
+        <introduction>
+            <p><term>Infinitives</term> are verb forms comprised of two words, such as <q>to write</q> or <q>to understand.</q> For instance, <q>I like to write sentences using infinitives</q> and <q>To understand infinitives, one should learn when to use them,</q> are examples of the infinitive verb form.</p>
+            <p>But say you wanted to make these sentences a bit more descriptive. You can do this by adding an adverb or adverbial phrase to the verb forms, such as <q>clearly write</q> or <q>fully understand.</q> This may result in <q>splitting the infinitive,</q> where adverbs or adverbial phrases are inserted between the <q>to</q> and the root verb that follows, as in <q>to clearly write</q> or <q>to fully understand.</q> Split infinitives are hotly<ndash/>contested in the grammar world. Some grammarians argue we should always avoid splitting our infinitives while others assert splitting the infinitive isn't a hard rule and can be done if it preserves thought and sentence fluency. Therefore, it's hard to know when to avoid splitting an infinitive and when it's all right to leave it as is. Below are a few guidelines to help you decide whether or not to split your infinitives (infinitive verb forms are <un s="1">underlined</un>, adverbs are <em>italicized</em>).</p>
+        </introduction>
+        <subsection>
+            <title>When to split infinitives:</title>
+            <p>Sometimes the sentence meaning is clearer when the adverb modifying the verb stays within the verb form. For instance, consider the sentences below:</p>
+            <blockquote>
+                <p><q>I like <un s="1">to</un> <em>clearly</em> <un s="1">write</un> sentences using infinitives.</q></p>
+                <p><q><un s="1">To</un> <em>fully</em> <un s="1">understand</un> infinitives, one should learn when to use them.</q></p>
+            </blockquote>
+            <p>Both of these sentences have split infinitives (<q>to clearly write</q> and <q>to fully understand</q>). However, if we move the adverbs outside of the verb form, suddenly the sentences become less clear and more awkward:</p>
+            <blockquote>
+                <p><q>I like to write sentences clearly using infinitives.</q></p>
+            </blockquote>
+            <p>In this sentence, it is not clear whether <q>clearly</q> is modifying <q>to write</q> or <q>using infinitives</q>; does the person like to clearly write or clearly use infinitives? In this case, it might be better to leave the modifying adverb within the verb form.</p>
+            <blockquote>
+                <p><q>To understand infinitives fully, one should learn when to use them.</q></p>
+            </blockquote>
+            <p>In this sentence, the modifying adverb <q>fully</q> is placed outside of the verb form <q>to understand.</q> While this placement does not interfere with the meaning or fluency of the sentence, it breaks up the logical unit of thought; one must refer back to the intact verb form <q>to understand</q> in order to identify what <q>fully</q> is modifying. Therefore, it might be better to split the infinitive so the reader has a clearer idea of what kind of understanding the sentence is promising (full understanding).</p>
+            <figure>
+                <image width="50%" source="images/LM-SplitInfinitives"/>
+            </figure>
+            <p>Below are some more examples of infinitives that are probably okay to leave split:</p>
+            <dl>
+                <li>
+                    <title>Clear</title>
+                    <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at the Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
+                </li>
+                <li>
+                    <title>Confusing</title>
+                    <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at the Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
+                    <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at the Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
+                </li>
+                <li>
+                    <title>Clear</title>
+                    <p><q>By drinking more tea, I plan <un s="1">to</un> <em>gradually</em> <un s="1">lessen</un> my coffee dependence.</q> [infinitive <q>to lessen</q> is split]</p>
+                </li>
+                <li>
+                    <title>Confusing</title>
+                    <p><q>By drinking more tea, I <em>gradually</em> plan <un s="1">to lessen</un> my coffee dependence.</q> [infinitive intact, but modifier <q>gradually</q> could be referring to <q>plan</q> or <q>lessen</q>]</p>
+                    <p><q>By drinking more tea, I plan <un s="1">to lessen</un> <em>gradually</em> my coffee dependence.</q> [infinitive intact, but sentence is awkward]</p>
+                    <p><q>By drinking more tea, I plan <un s="1">to lessen</un> my coffee dependence <em>gradually</em>.</q> [infinitive intact and sentence is acceptable, but modifier <q>gradually</q> is somewhat removed from the verb form <q>to lessen</q>]</p>
+                </li>
+                <li>
+                    <title>Clear</title>
+                    <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive <q>to involve</q> is split]</p>
+                </li>
+                <li>
+                    <title>Confusing</title>
+                    <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but sentence is awkward]</p>
+                    <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
+                </li>
+            </dl>
+            <assemblage>
+                <title>Note</title>
+                <p>Though there are instances when it would be practical to split the infinitive, you need not always use an adverb. Cutting adverbs, especially when they result in split infinitives, often makes writing cleaner and more fluid.</p>
+            </assemblage>
+        </subsection>
+        <subsection>
+            <title>When to avoid splitting infinitives:</title>
+            <p>While splitting the infinitive is sometimes necessary to preserve sentence fluency and thought coherency, it is usually better to avoid splitting them when you can. Infinitives are single units of thought, so keeping them intact often improves the reader's understanding of the sentence. Additionally, splitting the infinitive can actually make the sentence more awkward. For instance, take the following sentences where the infinitives are intact:</p>
+            <blockquote>
+                <p><q>You should try to keep infinitives intact whenever possible.</q></p>
+                <p><q>I would like to write sentences with infinitives clearly and concisely.</q></p>
+            </blockquote>
+            <p>Both of these sentences keep the infinitive intact (<q>to keep</q> and <q>to write</q>). But say you tried to split the infinitives:</p>
+            <blockquote>
+                <p><q>You should try to whenever possible keep infinitives intact.</q></p>
+            </blockquote>
+            <p>In this sentence, inserting the modifier <q>whenever possible</q> between the verb form makes the sentence awkward and unwieldy. In this case, keeping the infinitive <q>to keep</q> intact makes the sentence more readable and clear.</p>
+            <blockquote>
+                <p><q>I would like to clearly and concisely write sentences with infinitives.</q></p>
+            </blockquote>
+            <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
+            <dl>
+                <li>
+                    <title>Clear</title>
+                    <p><q>Before the hiking trip, the PSO members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
+                </li>
+                <li>
+                    <title>Confusing</title>
+                    <p><q>Before the hiking trip, the PSO members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
+                </li>
+                <li>
+                    <title>Clear</title>
+                    <p><q>I should try <un s="1">to drink</un> more tea <em>from now on</em>.</q> [infinitive intact]</p>
+                </li>
+                <li>
+                    <title>Confusing</title>
+                    <p><q>I should try <un s="1">to</un> <em>from now on</em> <un s="1">drink</un> more tea.</q> [infinitive <q>to drink</q> is split by the modifier <q>from now on,</q> which disrupts sentence clarity]</p>
+                </li>
+                <li>
+                    <title>Clear</title>
+                    <p><q>Logjam is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
+                </li>
+                <li>
+                    <title>Confusing</title>
+                    <p><q>Logjam is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
+                </li>
+            </dl>
+        </subsection>
+    </section>
+    <section>
+        <title>Homophone errors</title>
+        <p><term>Homophones</term> are words that sound the same but have different meanings and spellings. Because homophones share the same pronunciations, they are commonly confused in writing, especially when you know the spelling of one homophone but intend to convey the other. Below is a list of commonly<ndash/>confused homophones and some example sentences using them. But if you are unsure of a word and it's not listed here, try looking it up in a dictionary or thesaurus to make sure it's the word you want!</p>
+        <figure>
+            <image width="100%" source="images/homophone-table-1"/>
+        </figure>
+        <figure>
+            <image width="100%" source="images/homophone-table-2"/>
+        </figure>
+        <figure>
+            <image width="100%" source="images/homophone-table-3"/>
+        </figure>
+        <figure>
+            <image width="100%" source="images/LM-TurtlesAndWomen"/>
+        </figure>
+    </section>
+    <section>
+        <title>Incorrect use of its and it's</title>
+        <figure>
+            <image width="100%" source="images/LM-ItAndRain"/>
+        </figure>
+        <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on Todd Field.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally<ndash/>acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on Todd Field,</q> does not make very much sense, so this may be an indication that <q>it's</q> is being used as a contraction and therefore needs an apostrophe. Below are some sentence examples of <q>its</q> and <q>it's</q> to help you distinguish which form to use:</p>
+        <dl>
+            <li>
+                <title>Appropriate usage of <q>its</q></title>
+                <p><nbsp/></p>
+                <blockquote>
+                    <p><q>The University celebrated its 128th birthday this year.</q></p>
+                </blockquote>
+                <blockquote>
+                    <p><q>To conserve energy, the hummingbird can slow its metabolic rate to 1/15th its normal rate.</q></p>
+                </blockquote>
+                <blockquote>
+                    <p><q>The Broadway musical <em>How to Succeed in Business Without Really Trying</em> employed only local Seattle actors and performed on its own specially<ndash/>constructed stage.</q></p>
+                </blockquote>
+                <blockquote>
+                    <p><q>Every year, the Humanities Department hosts a Palaver dinner for its students.</q></p>
+                </blockquote>
+            </li>
+            <li>
+                <title>Appropriate usage of <q>it's</q></title>
+                <p><nbsp/></p>
+                <blockquote>
+                    <p><q>Skiing is fun, but it's [it is] also a great workout.</q></p>
+                </blockquote>
+                <blockquote>
+                    <p><q>From Tacoma, it's [it is] only a brief 45<ndash/>minute drive to Seattle.</q></p>
+                </blockquote>
+                <blockquote>
+                    <p><q>I've worked for weeks on my paper, but how do I know when it's [it is] really finished?</q></p>
+                </blockquote>
+                <blockquote>
+                    <p><q>In spite of the slight breeze, it's [it has] been a pleasant day here on campus.</q></p>
+                </blockquote>
+            </li>
+        </dl>
+        <assemblage>
+            <p>It's important to remember that contractions (such as <q>it's</q>) are informal and generally not appropriate in academia and should rarely be used in formal academic writing (such as lab reports, analytical essays, etc.). HOWEVER: the use of <q>it's</q> depends on the discipline, professor, writing assignment, and your own creative and scholarly voice, so don't be afraid to employ it intentionally as you see fit.</p>
+        </assemblage>
+    </section>
+    <section>
+        <title>Empty and imprecise statements<ellipsis/></title>
+        <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if more complex wording does not make your point more clear, it's better to state your ideas simply. Here are some examples of long<ndash/>winded ways to say relatively simple things:</p>
+        <ol>
+            <li><p><q>At this juncture in time<nbsp/><ellipsis/></q> <m>\rightarrow</m> now, currently</p></li>
+            <li><p><q>By virtue of the fact<nbsp/><ellipsis/></q> <m>\rightarrow</m> because</p></li>
+            <li><p><q>For the purpose of<nbsp/><ellipsis/></q> <m>\rightarrow</m> to</p></li>
+            <li><p><q>In all likelihood</q> <m>\rightarrow</m> probably</p></li>
+            <li><p><q>In the event that<nbsp/><ellipsis/></q> <m>\rightarrow</m> if</p></li>
+            <li><p><q>In this regard it is of significance that<nbsp/><ellipsis/></q> <m>\rightarrow</m> simply omit and get on with your sentence</p></li>
+            <li><p><q>The truth is that<nbsp/><ellipsis/></q>  <m>\rightarrow</m>  simply omit and get on with your sentence</p></li>
+            <li><p><q>Until such time as</q> <m>\rightarrow</m> until</p></li>
+        </ol>
+        <p>These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.</p>
+    </section>
+    <section>
+        <title>Inappropriate use of the passive voice</title>
+        <p>The <term>passive voice</term> is <em>passive</em> because sentences in this structure de<ndash/>emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take direct objects. Here are some examples of active versus passive voice:</p>
+        <dl>
+            <li>
+                <title>Active</title>
+                <p>Sally hugged Barbara.</p>
+            </li>
+            <li>
+                <title>Passive</title>
+                <p>Barbara was hugged by Sally.</p>
+            </li>
+            <li/>
+            <li>
+                <title>Active</title>
+                <p>I did my homework.</p>
+            </li>
+            <li>
+                <title>Passive</title>
+                <p>My homework was done by me.</p>
+            </li>
+            <li/>
+            <li>
+                <title>Active</title>
+                <p>My roommate woke me up as she got ready for crew practice.</p>
+            </li>
+            <li>
+                <title>Passive</title>
+                <p>I was woken up by my roommate as she got ready for crew practice.</p>
+            </li>
+            <li/>
+            <li>
+                <title>Active</title>
+                <p>We made mistakes.</p>
+            </li>
+            <li>
+                <title>Passive</title>
+                <p>Mistakes were made.</p>
+                <p>(Notice how this form completely omits the actor<mdash/>Who made the mistakes? We don't know! They just were made<ellipsis/>)</p>
+            </li>
+        </dl>
+        <figure>
+            <image width="100%" source="images/LM-PassiveVoice"/>
+        </figure>
+        <p>Below are some ways you can identify the passive voice. Please note that these tips are general guidelines, not concrete characteristics of every instance of passive voice.</p>
+        <ul>
+            <li><p><em>Look for <q>to be</q> verbs.</em> The passive voice is often constructed in this format: <em><q>to be</q> + past participle.</em> Notice that the previous sentence is passive. It has <q>is</q> as the form of <q>to be</q> and <q>constructed</q> as the past participle.</p></li>
+            <li><p><em>Look for <q>by</q> + a noun/pronoun/proper noun.</em> As with the example <q>Barbara was hugged by Sally,</q> passive sentences often use the word <q>by</q> to show that someone or something carried out the action. Barbara wasn't <em>just</em> hugged, she was hugged <em>by Sally.</em></p></li>
+            <li><p>While the passive voice is not grammatically incorrect, most readers (and professors) prefer the active voice because readers generally want to identify the action happening in a piece of writing. Since the active voice makes it easier to identify what is happening and who or what is acting, the active voice usually makes more sense as a writing style. Similarly, the active voice also clarifies the meaning of and give more detail about a sentence. Consider these examples:</p>
+            <dl>
+                <li>
+                    <title>Passive</title>
+                    <p>We were asked by the flight attendant to have our luggage put in the overhead compartment by a man next to us who went by the name of Jim.</p>
+                </li>
+                <li>
+                    <title>Active</title>
+                    <p>The flight attendant asked us to have Jim, the man sitting next to us, put our luggage in the overhead compartment.</p>
+                </li>
+            </dl>
+            <p>In both examples, there are three main people: us (the writer), the flight attendant, and Jim. The first example, the one in the passive voice, becomes long and confusing. The reader will have forgotten who asked whom to do what by the time Jim's name comes up. The second example, however, more clearly explains the scenario because there is less confusion about who is doing what.</p></li>
+        </ul>
+        <assemblage>
+            <p>The large exception to these preferences is science. Most scientific work tends to be written in the passive voice. An active version of the previous sentence would be, <q>Most scientists tend to write in the passive voice.</q> Notice how the first version, the passive one, takes the actor out of the sentence completely. Who does the passive writing in the sciences? The active version answers that question: scientists write in the passive voice in science writing. Sciences tend to use the passive voice to distance the scientist from the science being done. The passive voice is therefore used strategically by the sciences. Again, the previous sentence could also be active: <q>The sciences (or scientists) therefore use the passive voice strategically.</q></p>
+        </assemblage>
+    </section>
+    <section>
+        <title>Overuse of <q>to be</q></title>
+        <p>While we use <q>to be</q> frequently in our everyday speech, the verb is often too weak as the main verb in formal writing. Uses of <q>to be</q> include: <em>to be, being, am, is, are, was, and were.</em></p>
+        <p>Writers prefer not to overuse <q>to be</q> because English contains plenty of stronger (i.e. more active, informative, and interesting) verbs. <q>To be</q> also frequently indicates that you are using passive voice. (See item number nine on this list.) Using <q>to be</q> too much thus makes your writing boring or too passive. Which passage below do you prefer?</p>
+        <blockquote>
+            <p>I was going to Diversions when I saw something that was interesting. It was my friend, Sally. Sally was outside and was sleeping on her chemistry textbook.</p>
+            <p>On my way to Diversions, I happened upon an interesting (and funny) sight: my friend, Sally, had fallen asleep outside, using her chemistry textbook as a pillow!</p>
+        </blockquote>
+        <p>Try using a thesaurus to find alternative words. But use caution! Sometimes thesauruses mislead writers when the writer doesn't fully understand the connotation or typical uses of a synonym.</p>
+        <p>Here's a list of strong verbs to consider using. There are short definitions to give you an idea of what the word means, but be sure to look up any words you use to make sure that the contexts in which you're using them align with their meaning. There may also be alternative meanings that aren't listed here, so the dictionary and thesaurus will still be your friends.</p>
+        <figure>
+            <image width="100%" source="images/LM-HerbTheStrongVerb"/>
+        </figure>
+        <ul>
+            <li><p>Affirm: to assert or support</p></li>
+            <li><p>Allude: to point out indirectly</p></li>
+            <li><p>Amalgamate: to combine or unite pieces into a whole, to merge</p></li>
+            <li><p>Ameliorate: to make better</p></li>
+            <li><p>Ascertain: to find out or make sure</p></li>
+            <li><p>Bolster: to reinforce, support</p></li>
+            <li><p>Censure: to criticize severely</p></li>
+            <li><p>Concede: to acknowledge or grant something </p></li>
+            <li><p>Concur: to agree</p></li>
+            <li><p>Contend: to assert or argue</p></li>
+            <li><p>Contest: to oppose, challenge, or argue against </p></li>
+            <li><p>Demur: to object, be reluctant</p></li>
+            <li><p>Differentiate: to make a distinction between</p></li>
+            <li><p>Elucidate: to explain, make clear</p></li>
+            <li><p>Enable: to make able or powerful, to make possible </p></li>
+            <li><p>Engender: to lead to, to produce or cause</p></li>
+            <li><p>Essay: to try, attempt</p></li>
+            <li><p>Exacerbate: to make worse, exasperate</p></li>
+            <li><p>Excoriate: to criticize or denounce severely </p></li>
+            <li><p>Function: to act as, operate</p></li>
+            <li><p>Laud: to praise</p></li>
+            <li><p>Mitigate: to lessen severity or intensity, to alleviate</p></li>
+            <li><p>Obfuscate: to obscure</p></li>
+            <li><p>Pervade: to permeate, spread throughout</p></li>
+            <li><p>Present: to offer, give, introduce, show</p></li>
+            <li><p>Squander: to waste, spend, use irresponsibly</p></li>
+            <li><p>Stymie: to stop, block</p></li>
+            <li><p>Substantiate: to support something with evidence</p></li>
+            <li><p>Supplant: to take the place of, replace</p></li>
+            <li><p>Vilify: to defame or slander</p></li>
+        </ul>
+        <paragraphs>
+            <title>Note</title>
+            <p>You don't need to fill your writing with big, obscure words; instead, you want to use more complex words where appropriate to convey meaning more precisely and concisely.</p>
+        </paragraphs>
+    </section>
+    <section>
+        <title>Incorrect and ineffective word choice</title>
+        <p>Good word choice improves the quality of a paper and helps hold the reader's interest; using words incorrectly or ineffectively can lessen the writer's credibility. As you entrain for forthcoming linguistic endeavors, exploit these pointers to ensure your belles<ndash/>lettres aren't as annoying and incorrect as this sentence has been.</p>
+        <paragraphs>
+            <title>Incorrect word choice</title>
+            <p>Incorrect word choice usually occurs when a writer uses a word outside of its standard definition or context. This misuse can happen for a variety of reasons, including the writer having a wrong mental definition of the word, not knowing the word's popular connotation, or using the word in an inappropriate disciplinary context.</p>
+        </paragraphs>
+        <p>How to avoid misusing words:</p>
+        <ol>
+            <li><p>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up! (We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p></li>
+            <li><p>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course). The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p></li>
+            <li><p>When writing in a specific discipline, it can be difficult to know what words scholars in that discipline use differently in academic writing than they do in standard, everyday conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning, and using <q>significant</q> <em>not</em> in that way can be very incorrect. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, do your course readings! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
+            <li><p>See the <q>Homophone Errors</q> section above to avoid misusing words that sound alike.</p></li>
+        </ol>
+        <paragraphs>
+            <title>Ineffective word choice</title>
+            <p>While academic writing usually does contain more obscure words than everyday conversation does, sometimes using <q>big words</q> simply to sound smart can come across to an audience as pedantic. Words that are overly complicated and obfuscate the meaning of a sentence are therefore ineffective words because, if the point of writing is to convey meaning, a confusing word does not conveying meaning very well.</p>
+        </paragraphs>
+        <p><em>Alternatively, using words or phrases that are too simplistic, overused, or trite can also ineffectively convey meaning to a reader.</em> Passive sentences, phrases constructed around <q>to be,</q> and clichés like <q>to be honest</q> all diminish the point you're trying to convey to a reader.</p>
+        <paragraphs>
+            <title>Which sentence below do you think is more effective?</title>
+            <blockquote>
+                <p><q>To be honest, I didn't think that Hamlet was played by the right actor.</q></p>
+                <p><q>The actor who played Hamlet fell five times on stage, broke poor Yorick's skull, and could hardly say the <q>To be, or not to be<ellipsis/></q> line correctly. The directors of the play should have chosen a better actor to play Hamlet.</q></p>
+            </blockquote>
+        </paragraphs>
+        <figure>
+            <image width="25%" source="images/LM-Hamlet"/>
+        </figure>
+        <p><em>Here are some synonyms that you might consider using to replace common or boring words.</em> Remember to search for the definition of the synonym if you're unsure of its meaning or connotations to ensure that it correctly conveys the meaning of your sentence.</p>
+        <figure>
+            <image width="100%" source="images/alternatives-to-boring-words"/>
+        </figure>
+    </section>
+    <section>
+        <title>Problems with subject/verb agreement</title>
+        <p>Any student of a foreign language knows that consistent subject and verb agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular) or<mdash/>in the middle of complex sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
+        <p>Here are a few rules to help guide you through tricky sentences:</p>
+        <ul>
+            <li>
+                <p>When the subject of a sentence is comprised of two or more nouns/pronouns connected by <q>and,</q> use a plural verb:</p>
+                <blockquote>
+                    <p>President Crawford and professors meet with students frequently.</p>
+                </blockquote>
+            </li>
+            <li>
+                <p>When the subject of a sentence is comprised of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> the <em>verb corresponds with the noun or pronoun closest to it:</em></p>
+                <blockquote>
+                    <p>Either President Crawford or professors meet with students frequently.</p>
+                    <p>Either professors or President Crawford meets with students frequently.</p>
+                </blockquote>
+            </li>
+            <li>
+                <p>When the subject of a sentence is a collective noun (group, jury, band, etc.) or a title (of a book, play, country, etc.), the verb will always be singular.</p>
+                <blockquote>
+                    <p>I hope that band plays at Logjam again.</p>
+                    <p>The newest edition of <em>Crosscurrents</em> is great.</p>
+                </blockquote>
+            </li>
+            <li>
+                <p>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</p>
+                <blockquote>
+                    <p>The number of on<ndash/>campus trees grows each year.</p>
+                    <p>The Passages leader, alongside all of their passagees, was excited to reach the end of the trail.</p>
+                </blockquote>
+            </li>
+        </ul>
+        <figure>
+            <image width="100%" source="images/LM-SubjectVerbAgreement"/>
+        </figure>
+        <p>There are also some English words, especially in the sciences, that have tricky plural forms, so you might not even realize that the word you're using is actually plural. One great example is the word <em>data</em>, which is plural (<em><q>The data suggest that<ellipsis/></q></em>). Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
+        <paragraphs>
+            <title>Note</title>
+            <p>As we have seen with the rule<ndash/>bound nature of linguistic <q>errors</q> in non<ndash/>standard forms of English, what may seem like problems with subject/verb agreement might actually be <em>correct</em> subject/verb agreement in another variety of English. (see <xref ref="top-10-errors-that-are-rule-bound" autoname="title"/></p>
+        </paragraphs>
+    </section>
+    <section>
+        <title>Lack of agreement between pronoun and antecedent, especially the use of <q>they</q> as a singular pronoun</title>
+        <p>Problems with agreement occur most commonly when a writer mentions a subject, a director, for example, and then uses a pronoun (recall: he, she, they, it) to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender<ndash/>neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" autoname="title"/>)</p>
+        <p>A sentence using <q>they</q> but referring to a singular pronoun looks like this:</p>
+        <blockquote>
+            <p><q>I liked what the director of the movie did. They did a good job.</q></p>
+        </blockquote>
+        <p>In terms of grammatical correctness, formal, standard <xref ref="SAE">English</xref> requires writers to make the correct agreement between a pronoun and its antecedent (i.e. you have to use a singular pronouns for singular antecedents). For a gender<ndash/>unspecified singular antecedent, then, a writer has a few options: to use the phrase <q>he or she,</q> to make the subject plural if possible, or to avoid the issue altogether by restructuring the sentence. A sentence of this sort would therefore take one of these three forms:</p>
+        <ol>
+            <li><p>I liked what the director of the movie did. He or she did a good job.</p></li>
+            <li><p>That movie had a good director. When directors pay special attention to lighting like this director did, they are doing a good job.</p></li>
+            <li><p>That movie was great! I can't believe how well the director focused on light!</p></li>
+        </ol>
+        <paragraphs>
+            <title>Note</title>
+            <p>It was formerly appropriate to use the pronoun <q>he</q> as the default, but using <q>he</q> as a standard is no longer accepted.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>But here's the deal: language changes</title>
+            <p>You are living through an important and interesting time in the progression of English. <q>Formal</q> and <q>standard</q> English (among most other languages) has historically belonged to people in power, people who have used (and still use) language to discriminate against and subjugate individuals who speak non<ndash/>standard forms of English. In spite of this subjugation, speakers of English<mdash/>standard and non<ndash/>standard<mdash/>are beginning to gain power and to reclaim English from those who use it to oppress. Since language and power are intimately intertwined, shifts in power inevitably lead to subsequent shifts in language. These shifts are why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender<ndash/>neutral, third<ndash/>person singular pronoun. While conservative grammarians may lament the devolution of <q>proper English,</q> the reality is that language belongs to its speakers, not to those in power. By acknowledging these shifts in language (and the reasons behind them) within academia, we work toward increasing the access to and inclusivity of the academy. What inevitably follows are new perspectives, experiences, and identities that may lead to even greater equity among scholars and the types of knowledge they produce.</p>
+        </paragraphs>
+    </section>
+    <section>
+        <title>Broad use of <q>this,</q> especially as the subject of a sentence</title>
+        <p>Readers like specificity. Using <q>this</q> too much, especially as the subject of a sentence (e.g. <q>This is what I'm talking about.</q>) conveys too much ambiguity. To what does <q>this</q> refer? Instead of writing <q>this,</q> try to use an interesting word that refers specifically to what you want to talk about. For example, I could write an essay about my dog, Chuck, and say, <q>Chuck likes to take walks. This is why I walk him everyday.</q> To avoid using <q>this</q> as the subject of the sentence, though, I could say something like: <q>Chuck likes to take walks. I walk him everyday because he loves walks so much.</q> In this sentence, <q>this</q> is replaced by <q>because he loves walks so much.</q></p>
+        <p>You can also simply restructure the sentence(s) to avoid using <q>this</q> as the subject. From the example above, I could also say, <q>Chuck likes to take walks, so I walk him everyday.</q> Finally, you can think of a noun that tells your reader what <q>this</q> is referring to: <em>this</em> quote, <em>this</em> information, <em>this</em> verdict, <em>this</em> distinction, <em>this</em> occurrence, <em>this</em> sentiment, <etc/></p>
+    </section>
+    <section>
+        <title>Sentence fragments</title>
+        <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense. (see <xref ref="basic-sentence-structure" autoname="title"/></p>
+        <p>So how do you find sentence fragments?</p>
+        <ul>
+            <li><p>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</p></li>
+            <li><p>Word processing programs can help you to identify fragments--but don't depend on them!</p></li>
+            <li><p>Mentally take your sentence out of context, then ask yourself, <em><q>Does this sentence alone make sense?</q></em></p></li>
+        </ul>
+        <p>If you do find a sentence fragment, try these two revision tips:</p>
+        <ul>
+            <li><p>Add the necessary components of a sentence that the fragment is missing.</p></li>
+            <li><p>Combine the sentence fragment with another sentence.</p></li>
+        </ul>
+        <p>Examples of sentence fragments and revisions:</p>
+        <ul>
+            <li><p><q>To the <acro>SUB</acro>.</q> <m>\rightarrow</m> <q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q> In this revision, we combined the fragment with the independent clause, <q>You should take your <acro>SUB</acro> dishes back.</q> By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.</p></li>
+            <li><p><q>All night long!</q> <m>\rightarrow</m> <q>I was in the library all night long!</q> Just like the previous example, this fix gets rid of the fragment and makes the sentence more specific. <q>How long were you in the library?</q> <q>I was in the library all night long!</q></p></li>
+        </ul>
+    </section>
+    <section>
+        <title>Comma splices</title>
+        <p><term>Comma splices</term> occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" autoname="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q> </em>Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused?</p>
+        <p>What can you do instead? You have several options!</p>
+        <ol>
+            <li><p>You can keep the sentences as they are and replace the comma with a semicolon. This option works for sentences that are too closely related for a period but for which a coordinating conjunction would be inappropriate. (For example, <em><q>I like cats; they are cute.</q></em>)</p></li>
+            <li><p>You can split the clauses into two sentences: <em><q>Comma splices make sentences less precise. Can you see how the absence of a comma splice improves my sentence(s)?</q></em></p></li>
+            <li><p>You can put a coordinating conjunction (see <xref ref="parts-of-speach" autoname="yes"/>) after the comma and before the second clause: <em><q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></em></p></li>
+            <li><p>You can alter the clauses so that one is no longer an independent clause: <em><q>Comma splices aren't great, which is why I don't use them.</q></em></p></li>
+            <li><p>Finally, if possible, you can also combine the idea into one sentence/independent clause: <em><q>I don't use comma splices.</q></em></p></li>
+        </ol>
+        <figure>
+            <image width="100%" source="images/LM-CatCommaSplices"/>
+        </figure>
+    </section>
+    <section>
+        <title>Incorrect use of apostrophes</title>
+        <p>Apostrophes, or single quotation marks, most often mark possession. However, due to the inconsistent nature of English morphology, the task of marking possession is rather complicated. To indicate possession for<ellipsis/></p>
+        <ul>
+            <li>
+                <p>A singular noun or proper noun: [noun] + ['] + [s]</p>
+                <p>[Cat] + ['] + [s] = Cat's</p>
+                <p>[Matt] + ['] + [s] = Matt's</p>
+            </li>
+            <li>
+                <p>A singular noun or proper noun ending in <q>s</q>: [noun] + ['] (+ [s])</p>
+                <p>That's right. The final <q>s</q> is optional. There is no standard. Ask your professor for their preference and remain consistent in your usage.</p>
+                <p>[Bus] + ['] (+ [s]) = Bus' or Bus's</p>
+                <p>[Jess] + ['] (+ [s]) = Jess' or Jess's</p>
+            </li>
+            <li>
+                <p>A plural noun ending in <q>s</q> or <q>es</q>: [noun] + [']</p>
+                <p>[Princesses] + ['] = Princesses'</p>
+            </li>
+            <li>
+                <p>A plural noun not ending in <q>s</q>: [noun] + ['] + [s]</p>
+                <p>[Children] + ['] + [s] = Children's</p>
+            </li>
+            <li>
+                <p>A plural proper noun ending in <q>s</q>: [noun] + [']</p>
+                <p>[Joneses] + [']</p>
+            </li>
+            <li>
+                <p>A singular compound noun: [compound noun] + ['] + [s]</p>
+                <p>[Father<ndash/>in<ndash/>law] + ['] + [s] = Father<ndash/>in<ndash/>law's</p>
+            </li>
+            <li>
+                <p>A plural compound noun: [compound noun] + ['] + [s]</p>
+                <p>[Fathers<ndash/>in<ndash/>law] + ['] + [s] = Fathers<ndash/>in<ndash/>law's</p>
+            </li>
+            <li>
+                <p>Joint possession: [Noun and noun] + ['] + [s]</p>
+                <p>[Gina and Tommy] + ['] + [s] = Gina and Tommy's</p>
+            </li>
+            <li>
+                <p>Join possession including a personal pronoun: [Noun] + ['] + [s] and [possessive pronoun]</p>
+                <p>[Gina] + ['] + [s] and [my] = Gina's and my</p>
+            </li>
+            <li>
+                <p>Individual possession: [Noun] + ['] + [s] and [noun] + ['] + [s]</p>
+                <p>[Gina] + ['] + [s] and [Tommy] + ['] + [s] = Gina's and Tommy's</p>
+            </li>
+        </ul>
+        <figure>
+            <image width="100%" source="images/LM-GiraffeTree"/>
+        </figure>
+        <p>Apostrophes are also used to mark contractions, or two words, such as <q>could</q> and <q>have,</q> which can be contracted, or shortened, to <q>could've.</q> A single apostrophe takes the place of omitted letters.</p>
+        <ul cols="2">
+            <li><p>Can't</p></li>
+            <li><p>We'd</p></li>
+            <li><p>It's</p></li>
+            <li><p>Won't</p></li>
+        </ul>
+        <p><q>Won't</q> is an interesting case because its spelling does not correspond to the its implied contraction <q>will not.</q> Linguists suspect that this is because, over time, the pronunciation of the contraction shifted such that <q>will</q> became <q>woll,</q> resulting in the current form <q>won't.</q> It should be noted that the above contractions constitute their own words without an apostrophe (cant, wed, its, and wont are all words). In order to avoid confusion, it is important to include the apostrophe in contractions.</p>
+        <p>Apostrophes can also come at the front of a word, such as <q>'Twas</q> to mark omitted letters (omitted from <q>'Twas</q> is the letter <q>I</q>: <q>It was</q>).</p>
+        <p>Apostrophes can also be used in conjunction with single letters (such as grades), abbreviations, and numerals (including years). There are no standard rules for these usages. Ask your professor for their preference and be consistent. Aim for clarity where necessary. For instance, the plural form <q>As</q> (referring to the letter grade) will likely be misread as <q>As</q> the word. Use an apostrophe here (<q>A's</q>).</p>
+        <p>Generally accepted usages:</p>
+        <ul cols="2">
+            <li><p>Ph.D.s</p></li>
+            <li><p>Ph.D.'s</p></li>
+            <li><p>2010s</p></li>
+            <li><p>2010's</p></li>
+            <li><p>'10s</p></li>
+            <li><p>10's</p></li>
+        </ul>
+        <assemblage>
+            <p>Beware the personal pronouns <q>hers,</q> <q>yours,</q> <q>ours,</q> <q>its,</q> <q>theirs,</q> and <q>whose,</q> which do not use an apostrophe.</p>
+        </assemblage>
+    </section>
+    <section>
+        <title>Incorrect capitalization</title>
+        <p>If English were a more consistent language, capitalization might not be such a pain. Unfortunately, it's not, though there are some general guidelines that can help you to decide whether a word should be capitalized or not.</p>
+        <p>General guidelines:</p>
+        <ol>
+            <li>
+                <p>Proper nouns should be capitalized.</p>
+                <ul>
+                    <li><p>Proper nouns are basically names, though they aren't limited to humans.</p></li>
+                    <li><p>Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Café) to anthropomorphized bears (Grizz).</p></li>
+                    <li>
+                        <p>Chances are, if it specifies a particular thing as opposed to that thing in general (University of Puget Sound v. college), capitalize it!</p>
+                        <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness" autoname="yes"/> where we discuss this issue.)</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>Professional titles should be capitalized only when they precede the title<ndash/>holder's name.</p>
+                <ul>
+                    <li><p>Capitalize <q>president</q> in the sentence <q>President Isaiah Crawford joined the university in 2016.</q></p></li>
+                    <li><p>Do not capitalize <q>president</q> in the sentence <q>The 14th president of the University of Puget Sound is Isaiah Crawford.</q></p></li>
+                </ul>
+            </li>
+            <li>
+                <p>But don't capitalize occupational designators!</p>
+                <ul>
+                    <li><p>The university's mascot Grizz</p></li>
+                    <li><p>The movie's director Christopher Nolan</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>What about <q>professor?</q></p>
+                <ul>
+                    <li><p>Would it be <q>I asked professor Julie Nelson Christoph a question about capitalization</q> or <q>I asked Professor Julie Nelson Christoph a question about capitalization</q>?</p></li>
+                    <li><p>There are different theories about <q>professor,</q> which makes it, and others like it, problematic. There is, of course, no clear answer. It would be better, in this case, to ask.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Capitalize formal titles when the title is used to address someone.</p>
+                <ul>
+                    <li><p><q>Hello, Admiral.</q></p></li>
+                    <li><p><q>How was your day, Admiral?</q></p></li>
+                    <li><p>How arbitrary is this rule? Unfortunately, Google does not provide a gradient that will tell you how formal a given title is. It is relatively safe to assume that a title such as <q>Admiral</q> is formal enough to be capitalized, while a title such as <q>mister</q> is more ambiguous. The lack of a standard will likely cause some confusion at some point in your college career. Once again, do not be afraid to ask.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Capitalize family member's kinship names (Mom, Father) when they preface a proper name or when they are used in place of the name.</p>
+                <ul>
+                    <li><p>I gave a peach to Mother.</p></li>
+                    <li><p>We returned the car to Uncle John.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Do not capitalize kinship names when they follow a possessive pronoun, when they follow a proper name, or when they do not refer to a specific person.</p>
+                <ul>
+                    <li><p>My mom bought me some shoes.</p></li>
+                    <li><p>The Franco brothers are good actors (debatable).</p></li>
+                    <li><p>Emperor penguins make good mothers/fathers.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Capitalize nicknames.</p>
+                <ul>
+                    <li><p>I gave Scooby the sandwich.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Capitalize geographical regions but do not capitalize the points of a compass.</p>
+                <ul>
+                    <li><p>My friend lives in the Midwest.</p></li>
+                    <li><p>We drove east for five hours.</p></li>
+                    <li><p>The sunsets are especially beautiful on the West Coast.</p></li>
+                    <li><p>The eastern coast of O'ahu has nice beaches.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Do not capitalize the word <q>the</q> before proper nouns unless the word <q>the</q> is itself a part of the proper noun.</p>
+                <ul>
+                    <li><p>I attend the University of Puget Sound.</p></li>
+                    <li><p>In class, we read <em>The Great Gatsby</em>.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Capitalize the first word in a complete quotation, or a quotation set off by a comma, even when the quotation begins in the middle of a sentence.</p>
+                <blockquote>
+                    <p>But the handbook said, <q>The first word in a quotation should be capitalized!</q></p>
+                </blockquote>
+            </li>
+            <li>
+                <p>Do not capitalize the first word in a quotation that reads as part of the sentence (is not set off by a comma).</p>
+                <ul>
+                    <li><p>I would have capitalized the word, but the handbook said that I should <q>not capitalize the first word in a quotation that reads as part of the sentence.</q></p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Capitalize specific course names, but do not capitalize academic subjects.</p>
+                <ul>
+                    <li><p>I enjoyed taking Multivariable Calculus, though I'm by no means a mathematics major.</p></li>
+                </ul>
+            </li>
+            <li>
+                <p>Do not capitalize the first item in a list after a colon.</p>
+                <ul>
+                    <li><p>To<ndash/>Do: homework, cook dinner, sleep.</p></li>
+                </ul>
+            </li>
+        </ol>
+        <paragraphs>
+            <title>Titles</title>
+            <ul>
+                <li>
+                    <p>Knowing what to capitalize in titles can be incredibly confusing and frustrating. Different styles have their own policies, so consult the official stylebooks for the style in which you're writing. In general, when capitalizing, it is usually safe to capitalize:</p>
+                    <ul>
+                        <li><p>The title's first word.</p></li>
+                        <li><p>Adjectives, adverbs, pronouns, nouns, proper nouns, and verbs (except the <q>to</q> in infinitives).</p></li>
+                    </ul>
+                </li>
+                <li>
+                    <p>It is usually safe not to capitalize:</p>
+                    <ul>
+                        <li><p>Articles (a, an, the)</p></li>
+                        <li><p>Coordinating conjunctions (and, or, but, for, yet, so, nor)</p></li>
+                    </ul>
+                </li>
+                <li><p>It is also fairly painless to find a capitalization automator online, which will capitalize your title according to the stylesheet you choose. (Google search <q>Capitalize my title.</q>)</p></li>
+            </ul>
+        </paragraphs>
+    </section>
+    <section>
+        <title>Dropped or insufficiently contextualized quotations and evidence</title>
+        <p>It is customary, when incorporating a quote or evidence, to note the author of the source and the title of the source in the same sentence. (see <xref ref="using-evidence-to-support-your-argument" autoname="yes"/>)</p>
+        <blockquote>
+            <p>In <em>Fear of Knowledge</em>, Paul Boghossian argues against ethical relativism.</p>
+        </blockquote>
+        <p>DO NOT use a quote without introducing it. Notice how, in the following example, the quote is attributed to Percy Bysshe Shelley in a separate sentence, reducing the clarity and the quality of the prose.</p>
+        <blockquote>
+            <p><q>I met a traveler from an antique land.</q> Shelley wrote that line.</p>
+        </blockquote>
+        <p>Additional information, such as year of publication, may be required depending on the academic style in which you write. For more information on style<ndash/>specific required information, see the citation section of this handbook.</p>
+    </section>
+    <section>
+        <title>Citations that are misleading because titles are denoted inaccurately</title>
+        <p>Titles are typically indicated in one of two ways: quotations marks or italics.</p>
+        <ul>
+            <li><p>Quotation marks are generally used for shorter works, including articles, poems, songs, chapters, short stories, short films, and essays.</p></li>
+            <li><p>Italics are generally used for longer works, including books, plays, long poems, music albums, anthologies, magazines, newspapers, full<ndash/>length films, shows, symphonies, works of plastic and visual art, and court cases.</p></li>
+        </ul>
+        <p>Sometimes, titles are not typographically distinguished. Titles that do not generally require special formatting include specific scripture of major religions (the Bible, the Torah), constitutional documents (the Constitution of the United States of America), and legal documents (the Civil Rights Act of 1964).</p>
+        <assemblage>
+            <p>As always, if you're unsure about the correct way to denote a title, ask a professor, a liaison librarian, or a writing advisor!</p>
+        </assemblage>
+    </section>
+</chapter>

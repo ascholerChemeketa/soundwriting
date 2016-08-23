@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mathbook xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+
+    <xi:include href="bookinfo.mbx"/>
+
+    <book xml:id="WritersHandbook">
+        <title>A Writer's Handbook</title>
+        <subtitle>University of Puget Sound</subtitle>
+
+        <!-- Frontmatter -->
+        <xi:include href="frontmatter.mbx"/>
+
+        <!-- Research Methods -->
+        <xi:include href="research.mbx"/>
+        <!-- How to Read -->
+        <xi:include href="reading.mbx"/>
+        <!-- Forming an Argument -->
+        <xi:include href="argument.mbx"/>
+        <!-- Writing Process -->
+        <xi:include href="process.mbx"/>
+        <!-- Discipline Specific Writing -->
+        <xi:include href="discipline.mbx"/>
+        <!-- Writing with Awareness -->
+        <xi:include href="awareness.mbx"/>
+        <!-- Language Mechanics -->
+        <xi:include href="mechanics.mbx"/>
+        <!-- Citations -->
+        <xi:include href="citations.mbx"/>
+        <!-- Speaking and Writing -->
+        <xi:include href="speaking.mbx"/>
+        <!-- Faculty Writing Advice -->
+        <xi:include href="faculty.mbx"/>
+        <!-- Fun Lists -->
+        <xi:include href="lists.mbx"/>
+        <!-- Different Genres of Writing -->
+        <xi:include href="genres.mbx"/>
+
+        <!-- Backmatter -->
+        <xi:include href="backmatter.mbx"/>
+
+    </book>
+
+</mathbook>

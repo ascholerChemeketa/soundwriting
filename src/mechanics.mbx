@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+    <title>Writing at the Sentence Level</title>
+    <section>
+        <title>Basic Grammar Tools</title>
+        <p>Although some people are willing to express their undying love for grammar via sonnet, most people find grammar daunting, overwhelming, confusing, and sometimes (gasp!) boring. Just the sight of sentence diagrams even makes some people cry. There are multitudes of components, hordes of definitions, and seemingly endless numbers of terms. How can anyone keep them all straight?! But fear not. The good news is that you've had a miraculous understanding of English grammar (or the grammar of whatever your first language may be) since the time you learned to ask for more Cheerios. Your babbles as a baby, simple sentences as a toddler, and recent rap battles with friends have all prepared you to understand, work with, and manipulate grammar in complicated and ingenious ways. You're already so cool!</p>
+        <p>The purpose of this section is to help you understand why you can understand the sentence you're currently reading (What parts does it contain? What do those parts mean?). We hope to lay out completely yet concisely all of the English grammar basics with which you should be familiar. Let's get started (don't worry<mdash/>we'll ease into it)!</p>
+    </section>
+    <section xml:id="parts-of-speach">
+        <title>Parts of Speech</title>
+        <p>Each word in a sentence belongs to a part of speech. There are eight parts of speech: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Words can belong to multiple parts of speech, depending on how they're being used. By being able to identify the part of speech a word falls into, you can better understand the underlying forms and meanings of a sentence. Here are the eight parts of speech and some examples:</p>
+        <dl>
+            <li>
+                <title><term>Noun</term></title>
+                <p>person, place, or thing</p>
+                <p>Examples: book, cat, dog, I, me, Puget Sound</p>
+            </li>
+            <li>
+                <title><term>Verb</term></title>
+                <p>action word</p>
+                <p>Examples: agonize, do, jump, run, swim</p>
+            </li>
+            <li>
+                <title><term>Adjective</term></title>
+                <p>describes a noun</p>
+                <p>Examples: cold, green, rainy, windy</p>
+            </li>
+            <li>
+                <title><term>Adverb</term></title>
+                <p>describes a verb (often ends in <ndash/>ly)</p>
+                <p>Examples: beautifully, fast, quickly, slowly</p>
+            </li>
+            <li>
+                <title><term>Pronoun</term></title>
+                <p>replaces a noun</p>
+                <p>Examples: he, his, her, it, she, they, theirs</p>
+            </li>
+            <li>
+                <title><term>Preposition</term></title>
+                <p>describes timing or placement of a noun or pronoun</p>
+                <p>Examples: about, at, beside, by, during, for, instead of</p>
+            </li>
+            <li>
+                <title><term>Conjunction</term></title>
+                <p>connects phrases and clauses<dl>
+                    <li>
+                        <title><term>Coordinating conjunction</term></title>
+                        <p>coordinates two ideas that are emphasized equally in the sentence</p>
+                        <p>Examples: FANBOYS= for, and, nor, but, or, yet, so</p>
+                    </li>
+                    <li>
+                        <title><term>Subordinating conjunction</term></title>
+                        <p>subordinates one idea or clause to another idea or clause</p>
+                        <p>Examples: after, although, because, since, than, whether, while</p>
+                    </li>
+                </dl></p>
+            </li>
+            <li>
+                <title><term>Interjection</term></title>
+                <p>an exclamation that shows the writer's emotions</p>
+                <p>Examples: Ah!, crap, duh, huh?, no!, wow</p>
+            </li>
+        </dl>
+        <figure>
+            <image width="50%" source="images/LM-PartsofSpeech"/>
+        </figure>
+    </section>
+    <section xml:id="basic-sentence-structure">
+        <title>Basic Sentence Structure</title>
+        <paragraphs>
+            <title>Subject<ndash/>Predicate</title>
+            <p>In <xref ref="SAE">Standard American English</xref> (<xref ref="SAE"><init>SAE</init></xref>), a basic sentence is comprised of two parts: the subject and the predicate. The <term>subject</term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction. The <term>predicate</term> is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first<ndash/>year student waited in line for the Farm<ndash/>to<ndash/>Table special,</q> the noun phrase <q>the first<ndash/>year student</q> would be the subject and <q>waited in line for the Farm<ndash/>to<ndash/>Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject). Below you can find a few example sentences showing the subject and predicate (the subject is italicized and the predicate is in regular typeface):</p>
+            <ul>
+                <li><p><em>Ollie</em> studied in Diversions.</p></li>
+                <li><p><em>The IPE professor</em> told the class to turn the assignment in on Moodle.</p></li>
+                <li><p><em>The acapella group <q>What She Said</q></em> will perform at the Spring concert.</p></li>
+            </ul>
+        </paragraphs>
+        <paragraphs>
+            <title>Subject<ndash/>verb Agreement</title>
+            <p>As we have seen, subjects and verbs (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <xref ref="SAE"><init>SAE</init></xref>, you wouldn't say <q>Amanda jog to the fieldhouse,</q> but rather <q>Amanda jogs to the fieldhouse.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players is tired</q> would become <q>the soccer players are tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agrees.</q></p>
+            <dl>
+                <li>
+                    <title>S<ndash/>endings</title>
+                    <p>In <xref ref="SAE"><init>SAE</init></xref>, third<ndash/>person singular subjects (e.g., she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present<ndash/>tense verb. Plural subjects (e.g., they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual, it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>)</em></p>
+                    <ul>
+                        <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
+                        <li><p><q>The first<ndash/>year seminar student studies in the library.</q></p></li>
+                        <li><p><q>The RDG members dance across the stage.</q></p></li>
+                        <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
+                    </ul>
+                </li>
+                <li>
+                    <title>is/are</title>
+                    <p>Third<ndash/>person singular subjects require the present<ndash/>tense verb <q>is,</q> while plural subjects require the present<ndash/>tense verb <q>are.</q></p>
+                    <p>As above, even though <q>they</q> may refer to a single individual, it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>)</p>
+                    <ul>
+                        <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
+                        <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
+                        <li><p><q>The students are going to the open mic night in the piano lounge.</q></p></li>
+                        <li><p><q>The resident is running for Residence Hall Association president of their hall; they are a strong candidate for the position.</q></p></li>
+                    </ul>
+                </li>
+                <li>
+                    <title>Direct and Indirect Objects</title>
+                    <p>A complete sentence always has a subject and a predicate. A predicate can include both direct and indirect objects. A direct object is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs. An indirect object is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
+                    <figure>
+                        <image width="50%" source="images/LM-Direct-Indirect"/>
+                    </figure>
+                </li>
+                <li>
+                    <title>Indefinite pronouns</title>
+                    <p>Anyone, everyone, everybody, someone, no one, nobody</p>
+                    <p>Many indefinite pronouns (e.g., anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular verb (s<ndash/>ending or <q>is</q>/<q>has</q>).</p>
+                    <ul>
+                        <li><p><q>Is anyone going to Luau this year? I've heard everyone always has a great time.</q></p></li>
+                        <li><p><q>Someone is rollerblading around campus.</q></p></li>
+                        <li><p><q>Nobody knows the answer to the math question.</q></p></li>
+                    </ul>
+                </li>
+            </dl>
+        </paragraphs>
+        <paragraphs>
+            <title>Each, All, Some, None</title>
+            <p><q>Each</q> is a singular pronoun and requires a singular verb. Therefore, even if the subject of the sentence is plural, <q>each</q> refers to every single member of that group and should be treated as a singular pronoun.<ul>
+            <li><p><q>Each of the research students has access to the lab.</q></p></li>
+            <li><p><q>Each and every one of you is in for a new experience here at Puget Sound.</q></p></li>
+            <li><p><q>Each of the coffee flavors at the Opp sounds enticing.</q></p></li></ul></p>
+            <p><q>All,</q> <q>some,</q> and <q>none</q> can be either singular or plural depending on the subject. <q>All</q> and <q>some</q> are singular or plural depending on the plurality of the subject and therefore require an accompanying verb.<ul>
+            <li><p><q>All of the grass on campus is green.</q></p></li>
+            <li><p><q>Some of the professors are holding class outside because it is so sunny.</q></p></li></ul></p>
+            <p><q>None</q> can be either plural or singular depending on how many of some item it is referring to. For instance, if <q>none</q> is referring to a single item (<q>not one of these things</q>), a singular verb is required. However, if it is being applied to several items (<q>not any of these things</q>), a plural verb should be used.<ul>
+            <li><p><q>So far, none of the rats in the Psychology Rat Lab have escaped.</q> (if you are talking about many rats that have not escaped)</p></li>
+            <li><p><q>So far, none of the rats in the Psychology Rat Lab has escaped.</q> (if you are talking about one rat that has not escaped among many rats)</p></li>
+            <li><p><q>None of the O<ndash/>chem students are sleeping the night before their final.</q></p></li>
+            <li><p><q>None of the laundry is clean.</q></p></li></ul></p>
+        </paragraphs>
+        <paragraphs>
+            <title>Either/or, Neither/nor</title>
+            <p>If <q>either</q> and <q>neither</q> are being used to differentiate a singular item or a singular item among several, they are singular pronouns and need a singular verb.</p>
+            <ul>
+                <li><p><q>Would you prefer a drip coffee or caffeinated tea?</q> <q>Either is fine with me.</q></p></li>
+                <li><p><q>Neither of the two coffee machines in Diversions is working.</q></p></li>
+                <li><p>If <q>either</q> and <q>neither</q> are being used in interrogative statements, they can use a plural verb.</p></li>
+                <li><p><q>Are either of you going to the women's lacrosse game?</q></p></li>
+                <li><p><q>Have neither of my books arrived from ILLiad, yet?</q></p></li>
+                <li><p>If <q>either</q> and <q>neither</q> are referring to either one item or another item (two items separated by the conjunction <q>or</q> or <q>nor</q>), the verb is determined by the plurality of the item that lies closest to it. A good rule of thumb is to look at the plurality of the subject/noun closest to the verb and change the verb accordingly. However, even if a sentence is grammatically correct, you may have to fiddle with the order of the items in order to make the sentence sound more clear. For instance, take the following example:</p></li>
+                <li><p><q>Neither my teammates nor my coach was expecting it to rain during practice.</q></p></li>
+                <li><p>While grammatically correct, this sentence still sounds slightly awkward. Consider a possible revision of the item order below.)</p></li>
+                <li><p><q>Neither my coach nor my teammates were expecting it to rain during practice.</q> (Sounds much better.)</p></li>
+                <li><p>Below are some more examples of using <q>either/or</q> and <q>neither/nor.</q></p></li>
+                <li><p><q>Either the geology team or the physics team is going to win the science basketball tournament in the Thompson Courtyard.</q></p></li>
+                <li><p><q>Neither the tables nor the couches in Diversions are open.</q></p></li>
+            </ul>
+        </paragraphs>
+        <paragraphs>
+            <title>There/here is/are</title>
+            <p><q>There</q> and <q>here</q> are not subjects but rather adverbs modifying the verb of a sentence. In these cases, the subject of the sentence follows the verb.<ul>
+            <li><p><q>There are several peaceful spaces to sit and relax on campus, including the President's Woods, Todd Field, the Alien Landing Pad, and beneath the large sequoia tree in front of the <acro>SUB</acro>.</q></p></li>
+            <li><p><q>Here is a great spot to sit and write my essay.</q></p></li></ul></p>
+        </paragraphs>
+        <paragraphs>
+            <title>Of</title>
+            <p>When using a phrase beginning with <q>of</q> to modify a subject, the subject always comes before the phrase. Therefore, the verb should agree with the subject before the word <q>of.</q><ul>
+            <li><p><q>The murder of crows targets the dropped french fry.</q></p></li>
+            <li><p><q>The Office of Admissions is a great place to work if you'd like to be a campus visit guide.</q></p></li></ul></p>
+        </paragraphs>
+        <paragraphs>
+            <title>and/or</title>
+            <p>When using <q>and</q> in a sentence to combine two or more subjects, use a plural verb. When using <q>or</q> in a sentence to differentiate between two or more subjects, the verb should agree with the plurality of whatever subject is closest to it.<ul>
+            <li><p><q>Education, Occupational Therapy, and Physical Therapy are the three graduate degrees offered at Puget Sound.</q></p></li>
+            <li><p><q>My sister or my brothers are coming to visit me on campus.</q></p></li>
+            <li><p><q>My brothers or my sister is coming to visit me on campus.</q></p></li></ul></p>
+        </paragraphs>
+        <paragraphs>
+            <title>Confusing modifiers</title>
+            <p>(See also <xref ref="misplaced-and-dangling-modifiers" autoname="yes"/>)</p>
+            <p>Sometimes the subject and verb are separated by modifying phrases and adjectives that describe the subject. While modifiers are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicised.<ul>
+                <li><p><q>President Crawford, along with the first<ndash/>year students, is attending Convocation.</q></p></li>
+                <li><p><q>The first<ndash/>year resident, who was feeling FOMO and who chose to hang out with friends and watch movies instead of study for the test, now regrets the decision after seeing their test score.</q></p></li>
+                <li><p><q>Diversions Cafe (and its baristas) provides a great space to study and socialize.</q></p></li>
+            </ul></p>
+        </paragraphs>
+        <assemblage>
+            <p>Weird nouns that are singular but sound plural:<ul>
+                <li><p>Require plural verbs (pants, glasses, trousers)</p></li>
+                <li><p>Require singular verbs (news, measles, lens)</p></li>
+            </ul></p>
+        </assemblage>
+        <paragraphs>
+            <title>Collective nouns</title>
+            <p>There are some subjects that may be singular or plural depending on how you use them.</p>
+            <p>In order to determine whether to use a singular or a plural verb, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin characters="5"/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
+            <p>A list of these collective nouns and example uses may be found below.</p>
+            <figure>
+                <image width="100%" source="images/collective-noun-table"/>
+            </figure>
+        </paragraphs>
+        <paragraphs>
+            <title>Fractional expressions</title>
+            <p>(half/part/some/a majority/all/any/more/most of)</p>
+            <p>Can agree with either plural or singular verbs. Pick the type of verb based on the meaning and context of the fractional expression. Here are some examples:</p>
+            <dl>
+                <li>
+                    <title>Plural</title>
+                    <p><nbsp/><ul>
+                    <li><p>Some of us are ready to eat.</p></li>
+                    <li><p>The majority of Puget Sound baseball fans buy <init>UPS</init> hats at the bookstore.</p></li>
+                    <li><p>All students on campus are really cool.</p></li></ul></p>
+                </li>
+                <li>
+                    <title>Singular</title>
+                    <p><nbsp/><ul>
+                    <li><p>Part of the problem is that it's too rainy to do homework outside today.</p></li>
+                    <li><p>Some variation in sandwich appearances is okay.</p></li>
+                    <li><p>Most of my homework is done<ellipsis/></p></li></ul></p>
+                </li>
+                <li>
+                    <title>Exception</title>
+                    <p><nbsp/><ul>
+                    <li><p><q>More than one</q> is always singular.</p></li>
+                    <li><p><q>More than one Met cookie is what I need right now.</q></p></li></ul></p>
+                </li>
+            </dl>
+        </paragraphs>
+    </section>
+    <section>
+        <title>Clauses</title>
+        <p>What do clauses and amino acids have in common? They're both essential building blocks! While amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <term>subject</term> and a <term>predicate</term>, <alert>which also means that every clause has a noun and a verb.</alert> Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
+        <paragraphs>
+            <title>Recall:</title>
+            <p>The subject is the thing or person a sentence is about. The predicate is the part of a sentence that modifies (<ie/> tells you what's going on with) the subject. The predicate also contains a verb and sometimes a direct or an indirect object or different kinds of phrases.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Independent / Main</title>
+            <p>An independent clause, also called a main clause, has a subject and a verb and conveys a complete thought.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Subordinate / Dependent</title>
+            <p>The primary feature of subordinate/dependent clauses is that they cannot stand alone because they do not form a complete thought. Subordinate/dependent clauses are dependent on an independent clause to make sense.</p>
+        </paragraphs>
+        <example>
+            <p>I will wear my raincoat today because it is raining outside.</p>
+            <ul>
+                <li><p><q>I will wear my raincoat today</q> = a complete sentence</p></li>
+                <li><p><q>because it is raining outside,</q> = an incomplete sentence</p></li>
+            </ul>
+        </example>
+        <example>
+            <p>If you want to be an RA, you should attend the upcoming Res Life info session.</p>
+            <ul>
+                <li><p><q>you should attend the upcoming Res Life info session</q> = complete</p></li>
+                <li><p><q>If you want to be an RA</q> = incomplete</p></li>
+            </ul>
+        </example>
+        <example>
+            <p>I can go hiking this weekend as long as I finish my homework by Friday.</p>
+            <ul>
+                <li><p><q>I can go hiking this weekend</q> = complete</p></li>
+                <li><p><q>as long as I finish my homework by Friday</q> = incomplete</p></li>
+            </ul>
+        </example>
+        <paragraphs>
+            <title>Clauses</title>
+            <p><nbsp/><ol>
+            <li>Begin with subordinating conjunction</li>
+            <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent<ndash/>clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li></ol></p>
+        </paragraphs>
+        <dl>
+            <li>
+                <title>Adjective/Relative Clauses</title>
+                <p><nbsp/><ol>
+                    <li>Act as adjectives to modify a noun (the subject)</li>
+                    <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
+                    <li>Answers the question(s): Which one? How many? What kind?</li>
+                    <li><p>Examples:<ol>
+                        <li><p>The Grizz costume, <em>which belongs to the school</em>, is to be used only at official school events.<ol>
+                            <li>Subject = the Grizz costume</li>
+                            <li>Question = which one?</li>
+                            <li>Answer = the one that belongs to the school</li>
+                        </ol></p></li>
+                        <li><p>The two chocolate labs <em>that walk around campus</em> are so cute.<ol>
+                            <li>Subject = the two chocolate labs</li>
+                            <li>Question = which ones?</li>
+                            <li>Answer = the ones that walk around campus</li>
+                        </ol></p></li>
+                    </ol></p></li>
+                </ol></p>
+            </li>
+            <li>
+                <title>Adverb Clauses</title>
+                <p><nbsp/><ol>
+                    <li>Act as adverbs to modify the verb in a sentence</li>
+                    <li>Begin with a subordinating conjunction (although, because, after, until, etc.)</li>
+                    <li>Answers the question(s): How? When? Why? Where?</li>
+                    <li><p>Examples:<ol>
+                        <li><p>I ran around the track until I couldn't run any more.<ol>
+                            <li>Verb phrase: ran around the track</li>
+                            <li>Question: How?</li>
+                            <li>Answer = until I couldn't run any more</li>
+                        </ol></p></li>
+                        <li><p>He bought fifty bottles of Powerade at the end of the semester because he had left over Dining Dollars.<ol>
+                            <li>Verb phrase: bought fifty bottles of Powerade</li>
+                            <li>Question: Why? (Great question!)</li>
+                            <li>Answer: because he had left over Dining Dollars</li>
+                        </ol></p></li>
+                    </ol></p></li>
+                </ol></p>
+            </li>
+            <li>
+                <title>Noun Clauses</title>
+                <p><nbsp/><ol>
+                    <li>Act as nouns</li>
+                    <li>Begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, etc.</li>
+                    <li>Answers the question(s): What? Who?</li>
+                    <li><p>Examples:<ol>
+                        <li><p>Whoever gave me that cookie is the best!<ol>
+                            <li>Question: Who is the best?</li>
+                            <li>Answer: Whoever gave me that cookie</li>
+                        </ol></p></li>
+                        <li><p>Do you know why the sky is blue?<ol>
+                            <li>Question: What do you want to know?</li>
+                            <li>Answer: Why the sky is blue</li>
+                        </ol></p></li>
+                    </ol></p></li>
+                </ol></p>
+            </li>
+        </dl>
+        <paragraphs>
+            <title>Phrases</title>
+            <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscaping makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar<ndash/>related, though, there are far too many phrases with far too confusing names. To remember and understand each type of phrase, it might be helpful for you to review the parts of speech. Since phrases function as single parts speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
+            <assemblage>
+                <p>Whereas a clause has both a noun AND a verb, a phrase has either a noun OR a verb, but NOT BOTH. Phrases are groups of words that function as a single part of speech (e.g., a noun or an adjective)</p>
+            </assemblage>
+        </paragraphs>
+        <list>
+            <title>The most common types of phrases</title>
+            <dl>
+                <li>
+                    <title>Infinitive phrases</title>
+                    <p>Infinitive phrases feature our good friend, the infinitive verb.</p>
+                    <p>Examples:</p>
+                    <ul>
+                        <li><p><em>To include</em> all types of phrases in this list would be too boring.</p></li>
+                        <li><p><em>To pull</em> an all<ndash/>nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso (consume with caution).</p></li>
+                    </ul>
+                </li>
+                <li>
+                    <title>Prepositional phrases</title>
+                    <p>Remember that a <term>preposition</term> tells you the timing or placement of a noun. A <term>prepositional phrase</term>, then, is a phrase that tells you about the timing or placement of another part of the sentence. Prepositional phrases function as either adjectives (to modify a noun, as in <q>The cat on the bed</q>) or as adverbs (to modify a verb as in <q>The cat jumped off the bed</q>).</p>
+                    <p>Examples:</p>
+                    <ul>
+                        <li><p>That cat is under the table.</p></li>
+                        <li><p>As I walked along dark campus pathways, I was glad that I had called a security escort.</p></li>
+                    </ul>
+                </li>
+                <li>
+                    <title>Noun phrases</title>
+                    <p>A noun phrase acts as (gasp) a noun! Noun phrases include nouns and modifiers (e.g., adjectives).</p>
+                    <p>Examples:</p>
+                    <ul>
+                        <li><p>My spunky roommate listens to the best music.</p></li>
+                        <li><p>I'm always brought so much joy when I see that perfect, beautiful, wonderful little puppy dog prancing around campus.</p></li>
+                    </ul>
+                </li>
+                <li xml:id="participial-phrases">
+                    <title>Participial phrases</title>
+                    <p>You'll frequently run across phrases that contain present or past participial. Present participles usually end in <ndash/>ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in <ndash/>ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
+                    <p>Examples:</p>
+                    <ul>
+                        <li><p>I like my eggs from the <acro>SUB</acro> covered in ketchup.</p></li>
+                        <li><p>Talking too much is my specialty.</p></li>
+                    </ul>
+                </li>
+                <li>
+                    <title>Gerund phrases</title>
+                    <p>A gerund is a verb that ends in <q><ndash/>ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, <ndash/>ing) to a sentence.</p>
+                    <p>Examples (nouns):</p>
+                    <ul>
+                        <li><p>Crying while studying is not recommended.</p></li>
+                        <li><p>Although it may seem like a good idea, having pizza from the Cellar for every meal probably isn't the way to go.</p></li>
+                    </ul>
+                </li>
+            </dl>
+        </list>
+    </section>
+    <section>
+        <title>Types of Sentences</title>
+        <p>Sentence structures are important to keep in mind while you're writing because good writing typically varies the types and lengths of sentences. Writers can also strategically use certain sentence structures to convey meaning to a reader beyond the meaning of the words alone. If you realize that you use mostly one or two types of sentences, try mixing up your sentence structures a bit more!</p>
+        <paragraphs>
+            <title>Recall:</title>
+            <p>Independent clause = a subject + a verb + a complete thought</p>
+            <p>Dependent/subordinate clause = a subject + a verb + a thought that cannot stand alone and make sense</p>
+            <p>Coordinating conjunction = FANBOYS (for, and, nor, but, or, yet, so)</p>
+        </paragraphs>
+        <dl>
+            <li>
+                <title><term>Simple</term></title>
+                <p>one independent clause</p>
+                <p>Examples:</p>
+                <ul>
+                    <li><p>I love Puget Sound.</p></li>
+                    <li><p>My RCC is so cool.</p></li>
+                    <li><p>Puget Sound is in Washington.</p></li>
+                </ul>
+            </li>
+            <li>
+                <title><term>Compound</term></title>
+                <p>at least two independent clauses connected via a coordinating conjunction</p>
+                <p>Examples:</p>
+                <ul>
+                    <li><p>I miss RonThom, but I'm excited that President Crawford is here.</p></li>
+                    <li><p>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</p></li>
+                    <li><p>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there. </p></li>
+                </ul>
+            </li>
+            <li>
+                <title><term>Complex</term></title>
+                <p>independent clause and one or more dependent/subordinate clauses</p>
+                <p>Examples:</p>
+                <ul>
+                    <li><p>When the <acro>SUB</acro> runs out of hummus, I want to cry. </p></li>
+                    <li><p>If you feel unsafe walking back to campus alone, Security Services provides a free escort service. </p></li>
+                    <li><p>I need to drink coffee when I'm tired.</p></li>
+                </ul>
+                <paragraphs>
+                    <title>Note</title>
+                    <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not put a comma.</p>
+                </paragraphs>
+            </li>
+            <li>
+                <title><term>Compound<ndash/>complex</term></title>
+                <p>two or more independent clauses and at least one dependent/subordinate clause</p>
+                <p>Examples:</p>
+                <ul>
+                    <li><p>Independent clauses are really cool, but sometimes they get too long when you add too much information.</p></li>
+                </ul>
+            </li>
+        </dl>
+    </section>
+    <section>
+        <title>Subordination and Coordination</title>
+        <p>Because both clauses in a compound sentence are independent, neither one is obviously backgrounded in relation to the other (as in a complex sentence). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the coordinating conjunction), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <q>or</q> or <q>nor</q> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
+        <p>As its name implies, a subordinate clause must always be subordinated to the independent clause in a complex sentence. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
+        <paragraphs>
+            <title>Note</title>
+            <p>Compound sentences are easily transformed into complex sentences. For instance, the example <q>I miss RonThom, but I'm excited that President Crawford is here</q> could be reconstructed to read <q>Although I miss RonThom, I'm excited that President Crawford is here.</q> Consider what meaning you want to convey in your sentence and construct accordingly.</p>
+        </paragraphs>
+    </section>
+    <section>
+        <title>Functional Types of Sentences</title>
+        <dl>
+            <li>
+                <title>Declarative</title>
+                <p>Declarative sentences make statements. You will use primarily declarative sentences in your academic writing.</p>
+                <ul>
+                    <li><p>This sentence is a declarative sentence.</p></li>
+                    <li><p>My favorite club is Yoga Club.</p></li>
+                </ul>
+            </li>
+            <li>
+                <title>Interrogative</title>
+                <p>Interrogative sentences interrogate<mdash/>that is, they ask questions and end with question marks.</p>
+                <ul>
+                    <li><p>Don't you think that <q>interrogative</q> is a funny word?</p></li>
+                    <li><p>Why are we talking about question marks?</p></li>
+                </ul>
+            </li>
+            <li>
+                <title>Imperative</title>
+                <p>Imperative sentences do what we all love to do; they give people directions and tell them what to do.</p>
+                <ul>
+                    <li><p>Go tell him that it's imperative that he knows what an imperative sentence is.</p></li>
+                    <li><p>Grab me a Greek yogurt from the <acro>SUB</acro>, please.</p></li>
+                </ul>
+            </li>
+            <li>
+                <title>Exclamatory</title>
+                <p>Exclamatory sentences exclaim things! They are so exciting!</p>
+                <ul>
+                    <li><p>I love Puget Sound!</p></li>
+                    <li><p>I love writing!</p></li>
+                </ul>
+            </li>
+        </dl>
+    </section>
+    <section>
+        <title>Punctuation</title>
+        <subsection>
+            <title>Period <brackets>.</brackets></title>
+            <p>One period:</p>
+            <ul>
+                <li><p>Use periods at the end of complete sentences. <m>\leftarrow</m> Like that!</p></li>
+                <li><p>Periods can also go in between and after the letters of certain abbreviations. For example, <eg/>, M.D., <etc/></p></li>
+            </ul>
+        </subsection>
+        <subsection>
+            <title>Ellipses <brackets><ellipsis/></brackets> (AKA: <q>dot dot dot</q>)</title>
+            <p>Use an ellipsis to show that you have omitted part of a quotation.</p>
+            <example>
+                <p><em>The Trail</em> reporter wrote, <q>The skit, which was held in the Rendezvous Room, showcased<ellipsis/> the many skills of Puget Sound's improv group, Ubiquitous They.</q></p>
+            </example>
+            <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
+            <example>
+                <p>Original quote<mdash/><q>I love that the <acro>SUB</acro> has sunbutter and bananas. It's great because I'm allergic to peanuts.</q></p>
+                <p>Quoted portion<mdash/><q>I love that the <acro>SUB</acro> has sunbutter<ellipsis/>. It's great because I'm allergic to peanuts.</q></p>
+            </example>
+        </subsection>
+        <subsection>
+            <title>Exclamation <brackets>!</brackets> and Question <brackets>?</brackets> Marks </title>
+            <example>
+                <p>Use exclamation marks when you want to show excitement!</p>
+            </example>
+            <example>
+                <p>Do you use a question mark when you ask a question?</p>
+            </example>
+        </subsection>
+        <subsection>
+            <title>Comma <brackets>,</brackets></title>
+            <p>There are five main ways to use a comma. You can use them:</p>
+            <ol>
+                <li>
+                    <p>to connect <em>two complete sentences</em> with the coordinating conjunctions that make up the acronym FANBOYS (for, and, nor, but, or, yet, so).</p>
+                    <example>
+                        <p>I love using commas, but I need to remember the five main ways to use them!</p>
+                    </example>
+                    <p>BUT: You DON'T need to put a comma before one of the FANBOYS words if what precedes or follows the word is not a complete sentence (<eg/>, <q>I love using commas but can't remember how to use them</q> <m>\rightarrow</m> <q>but can't remember how to use them</q> is not a complete sentence).</p>
+                </li>
+                <li>
+                    <p>to separate an <em>introductory</em> or <em>explanatory</em> phrase from the rest of the sentence.</p>
+                    <example>
+                        <p>Having finished her last final, Shelly skipped with joy down Commencement Walk.</p>
+                    </example>
+                    <example>
+                        <p>The dog, who had gotten in the habit of walking everyday at 3pm, grabbed his leash and ran to his owner.</p>
+                    </example>
+                </li>
+                <li>
+                    <p>with transitional phrases (however, moreover, therefore, and for example).</p>
+                    <example>
+                        <p>For example, you can use a comma in a sentence like this.</p>
+                    </example>
+                </li>
+                <li>
+                    <p>to separate items in a list or series.</p>
+                    <example>
+                        <p>My favorite foods from the <acro>SUB</acro> include hummus, Greek yogurt, and apples.</p>
+                    </example>
+                </li>
+                <li>
+                    <p>with coordinate adjectives (<ie/>, adjectives that you could combine with <q>and</q>).</p>
+                    <example>
+                        <p>My RA is the nicest, funniest person on campus.</p>
+                    </example>
+                </li>
+            </ol>
+            <paragraphs>
+                <title>Note</title>
+                <p>In <xref ref="SAE">Standard American English</xref> (<xref ref="SAE"><init>SAE</init></xref>), commas (and periods) go inside quotation marks.</p>
+            </paragraphs>
+        </subsection>
+        <subsection>
+            <title>Semicolon <brackets>;</brackets></title>
+            <p>There are two main reasons to use a semicolon.</p>
+            <ul>
+                <li>
+                    <p>You can use them to separate items in a list when there are also commas:</p>
+                    <example>
+                        <p>For dinner, I want to have a sandwich with hummus, cheese, and pickles; some chocolate milk; and some froyo.</p>
+                    </example>
+                </li>
+                <li>
+                    <p>You can also use them to separate two independent clauses and to show your reader that those independent clauses are closely related.</p>
+                    <example>
+                        <p>I like to eat sandwiches; they are yummy.</p>
+                    </example>
+                </li>
+            </ul>
+            <paragraphs>
+                <title>Note</title>
+                <p>Don't capitalize the word following the semicolon unless it's a proper noun.</p>
+            </paragraphs>
+        </subsection>
+        <subsection>
+            <title>Colon <brackets>:</brackets></title>
+            <p>Only use a colon after a complete sentence. Colons tell a reader that what follows is directly related to the sentence that preceded the colon. The following information could be a list of items or another clause.</p>
+            <example>
+                <p>Please grab me a couple of things from the Cellar: a container of ice cream, a carton of eggs, and some guacamole.</p>
+            </example>
+            <example>
+                <p>I learned about the coolest thing in class today: a scientist a long time ago did an experiment where he put tiny pants on frogs.</p>
+            </example>
+            <paragraphs>
+                <title>Note</title>
+                <p>You don't usually need to capitalize the word following a colon (unless it's a proper noun), but some style guides recommend it, so if you have questions, as always, ask your professor.</p>
+            </paragraphs>
+        </subsection>
+        <subsection>
+            <title>Dash <brackets><ndash/></brackets> and <brackets><mdash/></brackets></title>
+            <p>Dashes<mdash/>and there are two types<mdash/>are used to hyphenate, to indicate ranges, or to set apart important or noteworthy things in a sentence.</p>
+            <p>The en dash (also known as a hyphen). This dash is the dash that appears when you hit the dash key once. You can use it to hyphenate words (like in<ndash/>depth) or to show a range (1894<ndash/>1904 or numbers 1<ndash/>5).</p>
+            <p>The em dash (also known as a dash). Make an em dash by hitting the dash key twice<mdash/>like this! These longer dashes are what you use to set thing apart<mdash/>you can use them with fragments or complete sentences. Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.</p>
+        </subsection>
+        <subsection>
+            <title>Parentheses <brackets> (these) </brackets> </title>
+            <p>Aside from citations (visit our citation section for those details), parentheses are used in writing to separate words, phrases, or sentences from the main text. When you want to add additional information that doesn't fit well within the main part of a sentence, you can use parentheses to inform your reader while simultaneously keeping your sentence flowing (like this). (Or you can just use parentheses on their own to indicate that something is an aside or afterthought.) For more details on how to use other types of punctuation with parentheses (<eg/>, where does the period go?!), see number 2 on our <q>Top 10 Quick Tips to Deal with Confusing Things in English</q> list!</p>
+            <p>You can also use parentheses in area codes, like (253) 879<ndash/>3404 (which is, coincidentally, the phone number to the CWLT).</p>
+        </subsection>
+         <subsection>
+            <title>Bracket <brackets> <brackets>these</brackets> </brackets></title>
+            <p>Brackets are kind of weird and don't seem to come up much, but, in general, you can associate them with quoted or parenthetical material. You should use brackets when you<ellipsis/></p>
+            <ul>
+                <li>
+                    <p>include a quote that requires clarification to make sense.</p>
+                    <example>
+                        <p><q>She said that they <brackets>her roommates</brackets> are the best.</q></p>
+                    </example>
+                </li>
+                <li>
+                    <p>include a quote that doesn't fit well within the syntax of your sentence (e.g., your quote starts with a lowercase letter, but you put it at the beginning of a sentence)</p>
+                    <example>
+                        <p><q><brackets>T</brackets>hey are the best,</q> Shelly said about her roommates.</p>
+                    </example>
+                    <example>
+                        <p>Shelly loved her roommates last year; she said <q>they <brackets>were</brackets> the best.</q> (Here, we've changed the present tense <q>are</q> to the past tense <q>were</q> in order to match the tense of the sentence.)</p>
+                    </example>
+                </li>
+                <li>
+                    <p>want to tell your reader that you have or haven't added something (e.g., italics or a grammatical mistake) to a quote</p>
+                    <example>
+                        <p><q>Rainer looked so beautiful today</q> <brackets>emphasis in original</brackets>.</p>
+                    </example>
+                    <example>
+                        <p>The baby said, <q>the doggie ated <brackets>sic</brackets> my sandwich.</q></p>
+                    </example>
+                </li>
+                <li>
+                    <p>include a short phrase in another language</p>
+                    <example>
+                        <p><q><foreign>Je t'aime</foreign> <brackets>I love you</brackets>,</q> she said to her cat.</p>
+                    </example>
+                </li>
+                <li>
+                    <p>want to put parentheses inside parentheses</p>
+                    <example>
+                        <p>(I like to use parentheses <brackets>but not all the time</brackets>.)</p>
+                    </example>
+                </li>
+            </ul>
+        </subsection>
+    </section>
+</chapter>
