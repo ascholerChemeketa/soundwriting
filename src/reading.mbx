@@ -2,7 +2,7 @@
 <chapter>
     <title>How to Read</title>
     <introduction>
-        <p>Yes, we know. You learned to read over a decade ago! Why is there a chapter on reading? This chapter is not so much about literacy as it is about strategy. Since you'll likely have to read <em>a lot</em> during your time at Puget Sound, it's helpful to have some strategies that will make reading and researching as quick and painless as possible (you can thank us later).</p>
+        <p>Yes, we know. You learned to read over a decade ago! Why is there a chapter on reading? This chapter is not so much about literacy as it is about strategy. Since you'll likely have to read <em>a lot</em> during your time at Puget Sound, it's helpful to have some strategies that will make reading and researching as quick and painless as possible.</p>
         <p>Reading is the first step to writing, and any skilled writer has undoubtedly read a lot. The first thing you need to remember is to do your course readings! Not only will you be completing work that will help you in your courses, but you'll also get a better feel for writing in that discipline. Your future self will thank you! Reading your course readings also prepares you for researching in that discipline. Especially when you're doing research, being strategic about what and how you read sources is essential to producing quality content at a pace that isn't agonizingly slow. For more details, tips, and some bad jokes, read on!</p>
     </introduction>
     <section>
@@ -12,13 +12,13 @@
                 <figure>
                     <image source="images/HR-StackOfBooks"/>
                 </figure>
-                <p>Congratulations on finding some sources! Now what? Take a picture of all your books and post it to Instagram so everyone knows that you're taking college seriously! It can be intimidating to have collected piles of useful sources and realize that you have to read through them. But is this necessarily true? The way that you approach any source will depend on the nature of the source, the amount of time that you have, and the information that you seek.</p>
+                <p>Congratulations on finding some sources! Now what? Take a picture of all your books and post it to Instagram so everyone knows that you're taking college seriously! It can be intimidating to have collected piles of useful sources only to realize how much time it will take you to read through them (see <xref ref="essentials" autoname="yes"/>). But do you really need to read all of them completely? The way you approach any source will depend on the nature of the source, the amount of time you have, and the information you seek.</p>
             </sidebyside>
-            <p>Of the sources you'll be working with, many will be primary and secondary. It can be difficult to determine whether a source is primary or secondary. For instance, if you're writing an essay for a literature course on Shakespeare's <em>King Lear</em>, then <em>King Lear</em> would likely be your primary source. However, if you're writing a paper analyzing patterns in the critical reception of <em>King Lear</em>, then you may find yourself working with what would otherwise be considered secondary sources<mdash/>critical interpretations of the play, for instance<mdash/>and analyzing those. (For more information on the types of sources, see <url href="http://collins.pugetsound.edu/Research_Fundamentals_Sources/story.html">this guide</url> from Collins Library.) That said, in order to find any source, it's important to know what kind of source you're looking for. Think about the kind of information you need and come up with a list of search terms<mdash/>particular words and concepts that you think would return helpful titles.</p>
+            <p>Of the sources you'll be working with, many will be primary and secondary. Sometimes it can be difficult to determine whether a source is primary or secondary. For instance, if you're writing an essay for a literature course on Shakespeare's <em>King Lear</em>, then <em>King Lear</em> would likely be your primary source. However, if you're writing a paper analyzing patterns in the critical reception of <em>King Lear</em>, then you may find yourself working with what would otherwise be considered secondary sources<mdash/>critical interpretations of the play, for instance<mdash/>and analyzing those. (For more information on the types of sources, see <url href="http://collins.pugetsound.edu/Research_Fundamentals_Sources/story.html">this guide</url> from Collins Library.) That said, in order to find any source, it's important to know what kind of source you're looking for. Think about the kind of information you need and come up with a list of search terms<mdash/>particular words and concepts you think would return helpful titles.</p>
         </introduction>
         <subsection>
             <title>Primary sources</title>
-            <p>Primary sources are the texts (though they aren't always <q>texts</q>) upon which you perform the most analysis and upon which you base your argument. It is always desirable to read your primary sources carefully and in their entirety. It's hard to write an argument about a book, for instance, without knowing how it ends, or who one of its main characters is. Reading primary sources completely is especially important for essays that depend on analyses of the language of the text. You can't analyze language that you haven't read! (The same holds for non<ndash/>textual <q>texts</q> such as paintings, musical compositions, or scientific data<mdash/>spend time with the source, and think about what its parts add up to.)</p>
+            <p>Primary sources are the texts (though they aren't always <q>texts</q>) upon which you perform the most analysis and upon which you base your argument. It is always desirable to read your primary sources carefully and in their entirety. It's hard to write an argument about a book, for instance, without knowing how it ends or who one of its main characters is. Reading primary sources completely is especially important for essays that depend on analyses of text's language. You can't analyze language that you haven't read! (The same holds for non<ndash/>textual <q>texts</q> such as paintings, musical compositions, or scientific data<mdash/>spend time with the source, and think about what its parts add up to.)</p>
         </subsection>
         <subsection>
             <title>Secondary sources</title>
@@ -30,7 +30,7 @@
                 </li>
                 <li>
                     <title>Read the introduction and the conclusion.</title>
-                    <p>If the source is a book, read the introduction and conclusion. This should give you a good idea of the starting<ndash/> and end<ndash/> points of the source's argument and of its major points. Assess the usefulness of the source based on these sections. If the source doesn't look like it will be of great use to you, put it to the side. If you found a source called <em>The Military Legacy of the Obama Administration</em>, you might browse through it for a hidden nugget of information, but chances are the source may not be the most helpful to you.</p>
+                    <p>If the source is a book, read the introduction and conclusion. This should give you a good idea of the starting<ndash/> and end<ndash/> points of the source's argument and its major points. Assess the usefulness of the source based on these sections. If the source doesn't look like it will be of great use to you, put it to the side. For instance, if you found a source called <em>The Military Legacy of the Obama Administration</em>, you might browse through it for a hidden nugget of information, but chances are the source may not be the most helpful to you.</p>
                 </li>
                 <li>
                     <title>Identify relevant passages.</title>
@@ -48,7 +48,7 @@
         </subsection>
         <subsection xml:id="skimming">
             <title>Skimming</title>
-            <p>In general, the more actively and patiently you approach a text, the more comprehensive your reading will be. However, sometimes it is just not practical to read a source in its entirety. Whether you're doing some preliminary reading and want to familiarize yourself with the existing scholarly discussion or cramming for class, skimming can be a good way to extract the main idea of the text in as little time as possible. Here are some pointers for skimming:</p>
+            <p>In general, the more actively and patiently you approach a text, the more comprehensive your reading will be. However, sometimes it is highly impractical to read a source in its entirety. Whether you're doing some preliminary reading to familiarize yourself with the existing scholarly discussion or to cram for class, skimming can be a good way to extract the main idea of the text in as little time as possible. Here are some pointers for skimming:</p>
             <dl>
                 <li>
                     <title>Read the introduction and the conclusion.</title>
@@ -78,7 +78,7 @@
             <title>Active reading: ALL READING you do should be active reading!</title>
             <sidebyside widths="45% 45%">
                 <paragraphs>
-                    <p>In order to read critically, you must also read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <em>The Odyssey</em> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing margin notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
+                    <p>In order to read critically, you must read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <em>The Odyssey</em> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing margin notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
                 </paragraphs>
                 <figure>
                     <image width="50%" source="images/HR-ActiveReading"/>
@@ -88,43 +88,43 @@
         </subsection>
         <subsection>
             <title>Reading Critically</title>
-            <p>No matter the type or purpose of a source, the reading you'll be doing for your Puget Sound courses will almost always be critical. Reading critically means that you do far more than read the words on a page<mdash/>you engage with them by thinking about them. As you will read in <xref ref="forming-your-argument" autoname="yes"/>, academic writing is all about participating in larger scholarly conversations. This participation is largely about making argumentative claims and supporting them with evidence in order to convince an audience of those claims. When you read an academic work, then, you're also participating in that scholarly conversation around that work. As a result, reading critically requires you to read and evaluate the author's claims and evidence. While your job when reading secondary sources isn't to be the scholarly<ndash/>source version of a movie critic, you should be aware of the places in which the author's argument is unconvincing, contradictory, or contentious. (Note: Critical reading for some primary sources can be slightly different, but we will address those differences in the <q>close reading</q> section that follows.)</p>
+            <p>No matter the type or purpose of a source, the reading you'll be doing for your Puget Sound courses will almost always be critical. Reading critically means that you do far more than read the words on a page<mdash/>you engage with them by thinking about them. As you will read in <xref ref="forming-your-argument" autoname="yes"/>, academic writing is all about participating in larger scholarly conversations. This participation is largely about making argumentative claims and supporting them with evidence in order to convince an audience of those claims. When you read an academic work, then, you're also participating in the scholarly conversation around that work. As a result, reading critically requires you to read and evaluate the author's claims and evidence. While it isn't your job to treat your sources as if you were a movie or restaurant critic, you should be aware of the places in which the author's argument is unconvincing, contradictory, or contentious. (Note: Critical reading for some primary sources can be slightly different, but we will address those differences in the <q>close reading</q> section that follows.)</p>
             <p>You can think critically about the text in a number of ways, including:</p>
             <dl>
                 <li>
                     <title>identifying</title>
-                    <p>the author's argument(s) and evidenc</p>
+                    <p>the author's argument(s) and evidence.</p>
                 </li>
                 <li>
                     <title>noting</title>
-                    <p>key ideas or claim</p>
+                    <p>key ideas or claims.</p>
                 </li>
                 <li>
                     <title>connecting</title>
-                    <p>the text's information, message, argument, themes, <etc/> to previous content you've read or learned in class or in your other classe</p>
+                    <p>the text's information, message, argument, themes, <etc/> to previous content you've read or learned in class or in your other classes.</p>
                 </li>
                 <li>
                     <title>looking up</title>
-                    <p>words, phrases, or concepts with which you're unfamilia</p>
+                    <p>words, phrases, or concepts with which you're unfamiliar.</p>
                 </li>
                 <li>
                     <title>asking questions</title>
-                    <p>in the margins or on another piece of paper about what you don't understand</p>
+                    <p>in the margins or on another piece of paper about what you don't understand.</p>
                 </li>
                 <li>
                     <title>raising new questions</title>
-                    <p>that the reading has inspire</p>
+                    <p>that the reading has inspired.</p>
                 </li>
                 <li>
                     <title>contextualizing</title>
-                    <p>the reading and its content/argumen</p>
+                    <p>the reading and its content/argument.</p>
                 </li>
                 <li>
                     <title>listening to your gut</title>
                     <p>and allowing yourself to develop feelings and opinions about the text<mdash/>these feelings might turn into great starting points for an argument or a paper.</p>
                 </li>
             </dl>
-            <p>Below are some questions to consider as you go about evaluating claims, evidence, and the source as a whole.</p>
+            <p>Below are some questions to consider as you go about evaluating claims, evidence, and the source as a whole:</p>
             <ul>
                 <li><p>Do the author's connections between their claims and their evidence (<ie/>, their warrants) make sense?</p></li>
                 <li><p>Is their evidence valid for and accepted by the discipline in which they're writing?</p></li>
@@ -156,7 +156,7 @@
                     <li><p>Is any type of character or plot development happening in the passage?</p></li>
                     <li><p>What is the relationship between content and form in the passage? How do the passage's formal features inflect the meaning of the passage?</p></li>
                 </ul>
-                <p>The text that you have read closely is your evidence. To convince your audience of your argument, you must take careful and detailed notes (<ie/>, doing careful and detailed active reading) so you can tell your reader exactly how you've interpreted a passage by including all of the necessary analysis and textual examples.</p>
+                <p>The text that you have read closely is your evidence. To convince your audience of your argument, you must take careful and detailed notes (<ie/>, doing careful and detailed active reading). By including all of the necessary analysis and textual examples, you can tell your reader exactly how you've interpreted a passage.</p>
             </paragraphs>
             <paragraphs>
                 <title>Reading for data<ndash/>collection</title>
@@ -167,18 +167,31 @@
     <section>
         <title>Note<ndash/>taking strategies</title>
         <introduction>
-            <p>Whether you're listening to an in<ndash/>class lecture, reading a reading assignment, or reading articles or books for your own research, taking good notes is essential. Notes have two main purposes: first, to help you read actively and understand the content of the reading, and second, to help remind your future self what was important about the reading. Though there are plenty of standardized notetaking strategies that you can use, such as Cornell notes, outlining, and mapping, in this section we will focus on deciding which strategies work for you and in which contexts specific strategies work best. For some people, the same type of notes may work in all disciplinary situations, while other people require different strategies for different disciplines or assignments. If you haven't decided which strategies work best for you, try some out and be mindful of which ones help you learn most effectively and efficiently.</p>
-            <p>Before you begin reading or taking notes, ask yourself: What class are you taking notes for? Does this class require me to know a lot of specific information (<eg/>, biological processes, historical events, or literary terms), or does it focus more on understanding (<eg/>, <em>why</em> a historical event happened, <em>how</em> to find a derivative, or <em>what type</em> of research method is best for a certain situation)? While all classes have a mix of both types of information, identifying the primary type of information you'll be interacting with will help you decide what form your notes should take.</p>
+            <p>Whether you're listening to an in<ndash/>class lecture, reading a reading assignment, or skimming articles or books for your own research, taking good notes is essential. Notes have two main purposes: 1) to help you read actively and understand the content of the reading, and 2) to help remind your future self what was important about the reading. Though there are plenty of standardized note<ndash/>taking strategies that you can use, such as Cornell notes, outlining, and mapping, in this section we will focus on deciding which strategies work for you and in which contexts specific strategies work best. For some people, the same type of notes may work in all disciplinary situations, while other people require different strategies for different disciplines or assignments. If you haven't decided which strategies work best for you, try some out and be mindful of which ones help you learn most effectively and efficiently.</p>
+            <p>Before you begin reading or taking notes, ask yourself: What class are you taking notes for? Does this class require you to know a lot of specific information (<eg/>, biological processes, historical events, or literary terms), or does it focus more on understanding (<eg/>, <em>why</em> a historical event happened, <em>how</em> to find a derivative, or <em>what type</em> of research method is best for a certain situation)? While all classes have a mix of both types of information, identifying the primary type of information you'll be interacting with will help you decide what form your notes should take.</p>
         </introduction>
         <subsection>
             <title>General guidelines</title>
-            <p>Identify the main argument of the paper or chapter. The main argument of a paper or chapter is also called a <term>thesis</term> (see <xref ref="main-claim" autoname="title"/>). The thesis will help guide your reading and notetaking by telling you what about the argument is important and what you need to pay attention to. You can usually find a thesis in the abstract and near the end of the introduction. If you're having trouble locating the thesis, you might also read the conclusion (don't worry about spoilers<mdash/>usually academic writing is upfront about the conclusions of an investigation).</p>
-            <p>Identify the main point of each paragraph. As you'll see in <xref ref="argumentation-as-process" autoname="title"/>, clear paragraphs begin with topic sentences. The purpose of a topic sentence is to tell the reader what the paragraph will be about. Use this to your advantage! Like a mini thesis for each paragraph, topic sentences will guide your reading by telling you what information is worthy to note.</p>
-            <p>Keep the discipline and class in mind. You can't remember everything from every reading, so be strategic about what you pay attention to. Does your discipline focus on data? Dates? Or should you pay more attention to the syntax and voice of the reading? Knowing what you're looking for helps you take better and more useful notes.</p>
-            <p>Keep yourself and your personal preferences in mind. If you hate outlining because you don't get it, then play around with notetaking strategies until you find what makes the most sense to you, whatever the discipline. If you can't memorize information in your notes and need to use flashcards, then do that. As long as you're recording all of the information that you need to successfully recall information and understand concepts, don't worry about what you're <q>supposed to</q> be doing.</p>
+            <dl>
+                <li>
+                    <title>Identify the main argument of the paper or chapter.</title>
+                    <p> The main argument of a paper or chapter is also called a <term>thesis</term> (see <xref ref="main-claim" autoname="title"/>). The thesis will help guide your reading and note<ndash/>taking by telling you what about the argument is important and what you need to pay attention to. You can usually find a thesis in the abstract and near the end of the introduction. If you're having trouble locating the thesis, you might also read the conclusion (don't worry about spoilers<mdash/>usually academic writing is upfront about the conclusions of an investigation).</p>
+                </li>
+                <li>
+                    <title>Identify the main point of each paragraph.</title> 
+                    <p> As you'll see in <xref ref="argumentation-as-process" autoname="title"/>, clear paragraphs begin with topic sentences. The purpose of a topic sentence is to tell the reader what the paragraph will be about. Use this to your advantage! Like a mini thesis for each paragraph, topic sentences will guide your reading by telling you what information is worthy to note.</p>
+                </li>
+                <li>
+                    <title>Keep the discipline and class in mind.</title>
+                    <p> You can't remember everything from every reading, so be strategic about what you pay attention to. Does your discipline focus on data? Dates? Or should you pay more attention to the syntax and voice of the reading? Knowing what you're looking for helps you take better and more useful notes.</p>
+                </li>
+                <li>
+                    <title>Keep yourself and your personal preferences in mind.</title>
+                    <p> If you hate outlining because you don't get it, then play around with note<ndash/>taking strategies until you find what makes the most sense to you, whatever the discipline. If you can't memorize information in your notes and need to use flashcards, then do that. As long as you're recording all of the information that you need to successfully recall information and understand concepts, don't worry about what you're <q>supposed</q> to be doing.<p>
+                </li>
             <paragraphs>
                 <title>Tip</title>
-                <p>If you want some assistance figuring out your favorite notetaking style(s), make an Academic Consulting appointment at the <url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">CWLT</url>!</p>
+                <p>If you want some assistance figuring out your favorite note<ndash/>taking style(s), make an Academic Consulting appointment at the <url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">CWLT</url>!</p>
             </paragraphs>
             <sidebyside widths="40% 40%" margins="0% 10% 10%">
                 <paragraphs>
@@ -190,14 +203,15 @@
             </sidebyside>
             <paragraphs>
                 <title>Tip</title>
-                <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you wanted to highlight them and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>
+                <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you think they are interesting and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>
             </paragraphs>
-            <p>Take lots of margin notes! Margin notes are great tools to ensure that you're reading actively. By writing your own thoughts about the reading and summaries of the author's argument, you're engaging with the reading on a level beyond simply reading the words on the page. Not only will margin notes help you stay focused, but they'll also be useful when you have to look back over a reading to study for a test or research for a paper.</p>
         </subsection>
         <subsection>
             <title>Margin Notes and Annotations</title>
+            <p>Take lots of margin notes! Margin notes are great tools to ensure that you're reading actively. By writing your own thoughts about the reading and summaries of the author's argument, you're engaging with the reading on a level beyond simply reading the words on the page. Not only will margin notes help you stay focused, but they'll also be useful when you have to look back over a reading to study for a test or research for a paper.</p>
             <p>The most important thing to remember when you're annotating a source is that what you do doesn't matter as much as how and why you do it. For instance, it makes no difference whether you use asterisks or smiley faces to indicate that something is important; it only matters that you know what it means now and you'll know what it means later. You can highlight, use different color pens, make different symbols or words, use sticky notes or tabs, or even (!) dog<ndash/>ear your pages (unless you're using a library book). Figure out a symbolic system that you like, and then stick to it!  </p>
-            <p>TIP: If you're getting bored with a reading, try writing a few funny comments in the margins. You could even use a curse word. Not only will you get a nice laugh, but the study break will help you refocus and keep reading. These initial emotional reactions to a reading will also help you remember it better in the long<ndash/>term because you're interacting with the reading in new and interesting ways.</p>
+                <title>Tip</title>
+                <p>If you're getting bored with a reading, try writing a few funny comments in the margins. You could even use a curse word. Not only will you give yourself a nice laugh, but the study break will help you refocus and keep reading. These initial emotional reactions to a reading will also help you remember it better in the long<ndash/>term because you're interacting with the reading in new and interesting ways.</p>
         </subsection>
     </section>
 </chapter>
