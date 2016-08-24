@@ -5,7 +5,7 @@
     <xi:include href="bookinfo.mbx"/>
 
     <book xml:id="WritersHandbook">
-        <title>A Writer's Handbook</title>
+        <title>Sound Writing</title>
         <subtitle>University of Puget Sound</subtitle>
 
         <!-- Frontmatter -->
