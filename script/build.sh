@@ -29,6 +29,16 @@ install -d ${SCRATCH} ${SCRATCH}/pdf ${SCRATCH}/html ${SCRATCH}/pdf/images ${SCR
 install -d ${SCRATCH}/pdf ${SCRATCH}/pdf/images
 install -d ${SCRATCH}/html ${SCRATCH}/html/images
 
+# Build the HTML Version
+echo
+echo "BUILD: Building HTML Version :BUILD"
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+cd ${SCRATCH}/html
+rm *.html
+rm -rf knowl
+cp -a ${IMAGES}/* ./images/
+xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/WritersHandbook.mbx
+
 # Build the PDF/print Version
 echo
 echo "BUILD: Building Print Version :BUILD"
