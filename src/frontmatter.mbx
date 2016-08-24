@@ -2,6 +2,23 @@
 <frontmatter xml:id="index">
 
     <titlepage>
+
+        <author>
+            <personname>Cody Chun</personname>
+        </author>
+
+        <author>
+            <personname>Kieran O'Neil</personname>
+        </author>
+
+        <author>
+            <personname>Kylie Young</personname>
+        </author>
+
+        <author>
+            <personname>Julie Nelson Christoph</personname>
+        </author>
+
         <date><today/></date>
     </titlepage>
 
