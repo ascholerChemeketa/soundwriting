@@ -3,12 +3,18 @@
 # University of Puget Sound
 # Writer's Handbook
 
-# Paths, edit these to suit (generalize)
-declare MBX=/home/rob/mathbook/mathbook
-declare SRC=/home/rob/books/upshb/writershandbook
-declare SCRATCH=/tmp/wh
+# Be sure to make this file executable, and run with path
+# i.e.  $ chmod 700 build.sh
+# e.g.  [soundwriting/script] $ ./build.sh
 
-# following depend on above
+# Source a custom file with three path names
+# See paths.sh.template, copy to paths.sh and edit
+# "dot" syntax is POSIX for "source"
+# Alternatives: http://stackoverflow.com/questions/192292
+DIR="$(dirname "$0")"
+. ${DIR}/paths.sh
+
+# following depend on paths source'd above
 declare MBXSL=${MBX}/xsl
 declare MBUSER=${MBX}/user
 declare SOURCE=${SRC}/src
