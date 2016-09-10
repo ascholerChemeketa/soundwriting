@@ -16,10 +16,14 @@
 #
 # 3. SCRATCH is a working directory, where products land
 #
-# 4. Remove "do not edit warning" and editing instructions,
+# 4. VIEWERs are executable programs to view indicated file type
+#
+# 5. Remove "do not edit warning" and editing instructions,
 #    leaving first line of comments only
 
 
 declare MBX=/home/...../mathbook
 declare SRC=/home/...../soundwriting
 declare SCRATCH=/tmp/sw
+declare PDFVIEWER=
+declare HTMLVIEWER=
