@@ -20,6 +20,14 @@ declare MBUSER=${MBX}/user
 declare SOURCE=${SRC}/src
 declare IMAGES=${SRC}/images
 
+# convenience for rsync command, hopefully not OS dependent
+# DOES NOT includes  --delete  switch at end due to PDF in directory
+# If switch is included this could be an *exact* mirror of build directory
+declare RSYNC="rsync --verbose  --progress --stats --compress --rsh=/usr/bin/ssh --recursive"
+
+# website upload parameterized by username
+declare UNAME="$2"
+
 # Common setup
 function setup {
     # not necessary, but always build scratch directory first
@@ -72,6 +80,26 @@ function view_pdf {
     ${PDFVIEWER} ${SCRATCH}/pdf/WritersHandbook.pdf
 }
 
+# $2 is a username with priviliges at
+# /var/www/html/soundwriting.pugetsound.edu/ on userweb.pugetsound.edu
+function website {
+    # test for zero string as account name and exit with message
+    if [ -z "${UNAME}" ] ; then
+        echo
+        echo "BUILD: Website upload needs an account username, quitting... :BUILD"
+        echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        exit
+    fi
+    echo
+    echo "BUILD: rsync entire web version...                      :BUILD"
+    echo "BUILD: username as parameter 2, then supply password... :BUILD"
+    echo
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    # build it first, cleanly
+    build_html
+    ${RSYNC} ${SCRATCH}/html/*  ${UNAME}@userweb.pugetsound.edu:/var/www/html/soundwriting.pugetsound.edu/beta
+}
+
 # Main command-line interpreter
 case "$1" in
     "pdf")
@@ -82,6 +110,9 @@ case "$1" in
     setup
     html_build
     ;;
+    "website")
+    website
+    ;;
     "viewpdf")
     view_pdf
     ;;
@@ -89,6 +120,6 @@ case "$1" in
     view_html
     ;;
     *)
-    echo "Supply an option: pdf|html|viewpdf|viewhtml"
+    echo "Supply an option: pdf|html|website <username>|viewpdf|viewhtml"
     ;;
 esac
