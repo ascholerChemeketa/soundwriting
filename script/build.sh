@@ -50,11 +50,11 @@ function html_build {
     echo
     echo "BUILD: Building HTML Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH}/html ${SCRATCH}/html/images
+    install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
     cd ${SCRATCH}/html
     rm *.html
-    rm -rf knowl
-    cp -a ${IMAGES}/* ./images/
+    rm -rf knowl/* images/*
+    cp -a ${IMAGES}/*.svg ./images/
     xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/WritersHandbook.mbx
 }
 
