@@ -55,7 +55,7 @@ function html_build {
     rm *.html
     rm -rf knowl/* images/*
     cp -a ${IMAGES}/*.svg ./images/
-    xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/WritersHandbook.mbx
+    xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.mbx
 }
 
 function view_html {
@@ -69,15 +69,15 @@ function pdf_build {
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${SCRATCH}/pdf ${SCRATCH}/pdf/images
     cd ${SCRATCH}/pdf
-    rm WritersHandbook.tex
+    rm SoundWriting.tex
     cp -a ${IMAGES}/* ./images/
-    xsltproc --xinclude ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/WritersHandbook.mbx
-    xelatex WritersHandbook.tex
-    xelatex WritersHandbook.tex
+    xsltproc --xinclude ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.mbx
+    xelatex SoundWriting.tex
+    xelatex SoundWriting.tex
 }
 
 function view_pdf {
-    ${PDFVIEWER} ${SCRATCH}/pdf/WritersHandbook.pdf
+    ${PDFVIEWER} ${SCRATCH}/pdf/SoundWriting.pdf
 }
 
 # $2 is a username with priviliges at
