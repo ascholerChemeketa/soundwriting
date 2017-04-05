@@ -35,6 +35,8 @@
         <xi:include href="lists.mbx"/>
         <!-- Different Genres of Writing -->
         <xi:include href="genres.mbx"/>
+        <!-- Using Technology -->
+        <xi:include href="technology.mbx"/>
 
         <!-- Backmatter -->
         <xi:include href="backmatter.mbx"/>
