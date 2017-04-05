@@ -197,7 +197,7 @@
             <p>In<ndash/>Text: (Gibbons <ampersand/> Moore, 1986, p. 1)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="citations-chicago">
         <title>Chicago</title>
         <subsection>
             <title>Everything you've ever wanted to know about footnotes</title>
