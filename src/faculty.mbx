@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter>
+<chapter xml:id="faculty-writing-advice">
     <title>Faculty Writing Advice</title>
     <introduction>
         <list-of elements="section" scope="chapter"/>
@@ -11,7 +11,7 @@
             <image width="50%" source="images/LM-CircleLogoAmpersand"/>
         </figure>
         <list>
-            <title>Quoting complete sentences:</title>
+            <title>Quoting complete sentences</title>
             <dl>
                 <li>
                     <title>Enclose the quote within two sets of quotation marks.</title>
@@ -86,7 +86,7 @@
             </dl>
         </list>
         <list>
-            <title>Quoting fragments:</title>
+            <title>Quoting fragments</title>
             <dl>
                 <li>
                     <title>Enclose the quote within two sets of quotation marks.</title>
@@ -111,7 +111,7 @@
             </dl>
         </list>
         <paragraphs>
-            <title>Quoting blocks of text:</title>
+            <title>Quoting blocks of text</title>
             <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
             <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.</p>
             <p>According to its website, the CWLT emphasizes how easy it is to make an appointment:</p>
@@ -293,7 +293,7 @@
             <p>But say you wanted to make these sentences a bit more descriptive. You can do this by adding an adverb or adverbial phrase to the verb forms, such as <q>clearly write</q> or <q>fully understand.</q> This may result in <q>splitting the infinitive,</q> where adverbs or adverbial phrases are inserted between the <q>to</q> and the root verb that follows, as in <q>to clearly write</q> or <q>to fully understand.</q> Split infinitives are hotly<ndash/>contested in the grammar world. Some grammarians argue we should always avoid splitting our infinitives while others assert splitting the infinitive isn't a hard rule and can be done if it preserves thought and sentence fluency. Therefore, it's hard to know when to avoid splitting an infinitive and when it's all right to leave it as is. Below are a few guidelines to help you decide whether or not to split your infinitives (infinitive verb forms are <un s="1">underlined</un>, adverbs are <em>italicized</em>).</p>
         </introduction>
         <subsection>
-            <title>When to split infinitives:</title>
+            <title>When to split infinitives</title>
             <p>Sometimes the sentence meaning is clearer when the adverb modifying the verb stays within the verb form. For instance, consider the sentences below:</p>
             <blockquote>
                 <p><q>I like <un s="1">to</un> <em>clearly</em> <un s="1">write</un> sentences using infinitives.</q></p>
@@ -348,7 +348,7 @@
             </assemblage>
         </subsection>
         <subsection>
-            <title>When to avoid splitting infinitives:</title>
+            <title>When to avoid splitting infinitives</title>
             <p>While splitting the infinitive is sometimes necessary to preserve sentence fluency and thought coherency, it is usually better to avoid splitting them when you can. Infinitives are single units of thought, so keeping them intact often improves the reader's understanding of the sentence. Additionally, splitting the infinitive can actually make the sentence more awkward. For instance, take the following sentences where the infinitives are intact:</p>
             <blockquote>
                 <p><q>You should try <un s="1">to keep</un> infinitives intact <em>whenever possible</em>.</q></p>
@@ -416,7 +416,6 @@
         <dl>
             <li>
                 <title>Appropriate usage of <q>its</q></title>
-                <p><nbsp/></p>
                 <blockquote>
                     <p><q>The University celebrated its 128th birthday this year.</q></p>
                 </blockquote>
@@ -432,7 +431,6 @@
             </li>
             <li>
                 <title>Appropriate usage of <q>it's</q></title>
-                <p><nbsp/></p>
                 <blockquote>
                     <p><q>Skiing is fun, but it's [it is] also a great workout.</q></p>
                 </blockquote>

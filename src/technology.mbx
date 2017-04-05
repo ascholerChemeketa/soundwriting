@@ -14,14 +14,16 @@
             <p>Let's face it: footnotes can be a pain. Luckily, Word processor has some handy tricks for making adding footnotes relatively pain-free!</p>
             <p>Let's say you have a couple paragraphs with some source evidence you'd like to cite using footnotes.</p>
             <p>To add a footnote, simply place your cursor at the end of the sentence containing that piece of evidence (AFTER THE PERIOD), open the <q>References</q> tab, and select <q>Insert Footnote</q>.</p>
-            <p>A small superscript number will appear after the period corresponding with the footnote sequence. At the same time, a line will appear at the bottom of the page with a small number beneath it corresponding to that footnote. You can then write the footnote citation according to the appearance order of the citation (for more on how to write footnotes, see <xref ref="citations-chicago" autoname="yes"/> in <xref ref="citations" autoname="yes"/>).</p>
+            <p>A small superscript number will appear after the period corresponding with the footnote sequence. At the same time, a line will appear at the bottom of the page with a small number beneath it corresponding to that footnote. You can then write the footnote citation according to the appearance order of the citation (for more on how to write footnotes, see <xref provisional="citations-chicago" autoname="yes"/> in <xref ref="citations" autoname="yes"/>).</p>
             <p>Every time you add a new piece of evidence, you can add subsequent footnotes by using the <q>Insert Footnote</q> function and the citations will stack sequentially at the footer of the page. However, keep in mind that if you delete the superscript number in the text, you will also delete its corresponding footnote and change the numbering sequence of subsequent footnotes (but this is also nice because it keeps track of the order for you).</p>
             <p>Easy-peasy!</p>
         </subsection>
         <subsection>
             <title>Formatting Works Cited, Reference Lists, and Bibliographies</title>
-            <p>Whether you are writing using MLA, APA, or Chicago citation style, you will most likely be required to include a works cited, reference list, or bibliography (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations" autoname="yes"/> and <xref ref="knowledge-management-tools" autoname="yes"/> for some very helpful tricks<nbsp/><ellipsis/>), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations" autoname="yes"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
-            <paragraphs>
+            <introduction>
+                <p>Whether you are writing using MLA, APA, or Chicago citation style, you will most likely be required to include a works cited, reference list, or bibliography (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations" autoname="yes"/> and <xref ref="knowledge-management-tools" autoname="yes"/> for some very helpful tricks<nbsp/><ellipsis/>), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations" autoname="yes"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
+            </introduction>
+            <subsubsection>
                 <title>MLA - Works Cited</title>
                 <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create an MLA Works Cited page using hanging indents, begin with centering a <q>Works Cited</q> title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced).</p>
                 <p>Next, place your cursor at the very beginning of the second line of your citation, right-click, and select the <q>Paragraph</q> option.</p>
@@ -30,12 +32,12 @@
                 <p><ellipsis/><nbsp/>and your source magically scoots over half an inch, creating a hanging indent!!</p>
                 <p>But what's really nice about this feature is that you only need to set a hanging indent for the first citation; all subsequent citations will automatically indent over to mirror the hanging indent of Source A.</p>
                 <p>LIFE=CHANGED.</p>
-            </paragraphs>
-            <paragraphs>
+            </subsubsection>
+            <subsubsection>
                 <title>APA</title>
                 <p>To create a Reference List for APA style, follow the exact same hanging indentation formatting as MLA Works Cited (except this time label your page <q>References</q> instead of <q>Works Cited</q>): use double-spaced formatting to enter the first citation, place your cursor before the second line, right-click, select <q>Paragraph,</q> change <q>Special Indentation</q> to <q>Hanging,</q> increase <q>By:</q> to 0.5", and click <q>OK</q>. Once again, all subsequent citations will follow the same hanging indentation format.</p>
-            </paragraphs>
-            <paragraphs>
+            </subsubsection>
+            <subsubsection>
                 <title>Chicago</title>
                 <paragraphs>
                     <title>Notes and Bibliography</title>
@@ -45,7 +47,7 @@
                     <title>Author-Date</title>
                     <p>To create a reference list for Chicago Author-Date style, follow the same guidelines as above for setting a hanging indentation. However, label the page <q>References</q> or <q>Works Cited,</q> include two blank lines between the title and the first citation, and single-space all citations, leaving one blank line to separate them.</p>
                 </paragraphs>
-            </paragraphs>
+            </subsubsection>
         </subsection>
         <subsection>
             <title>Peer Editing Tools</title>
@@ -119,15 +121,11 @@
                 <p>This step looks slightly different depending on whether you're using the Firefox plug-in or the standalone version.</p>
                 <p>For the Firefox version:</p>
                 <figure>
-                    <figure>
-                        <image width="100%" source="images/C-ZoteroZ"/>
-                    </figure>
+                    <image width="100%" source="images/C-ZoteroZ"/>
                 </figure>
                 <p>Note: You can also skip this step if you don't want to open the Zotero plug-in. The program will still save articles with the next two steps, even if you can't see your library.</p>
                 <figure>
-                    <figure>
-                        <image width="100%" source="images/C-ZoteroPaper"/>
-                    </figure>
+                    <image width="100%" source="images/C-ZoteroPaper"/>
                 </figure>
                 <p>If you're looking at a different kind of source, such as an online book or a newspaper article, the icon will look different but will do the</p>
                 <figure>
@@ -151,7 +149,7 @@
                 <figure>
                     <image width="100%" source="images/C-ZoteroOptions"/>
                 </figure>
-                We found another version of the article and gave it another shot.
+                <p>We found another version of the article and gave it another shot.</p>
                 <figure>
                     <image width="100%" source="images/C-ZoteroRepeatProcess"/>
                 </figure>
@@ -289,49 +287,48 @@
                     </li>
                     <li>
                         <title>Erasing</title>
-                        <p>If you'd like to erase something you've drawn, you can also do this by selecting the tenth icon from the left (eraser) and moving it over your drawing to erase it.
-                            <figure>
-                                <image width="100%" source="images/tech-93"/>
-                            </figure>
-                        </p>
-                        <li>
-                            <title>Adding shapes</title>
-                            <p>If you're more artistically/visually-inclined, you can also add pre-formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop-down menu to select which shape you'd like to draw.</p>
-                            <figure>
-                                <image width="100%" source="images/tech-94"/>
-                            </figure>
-                            <figure>
-                                <image width="100%" source="images/tech-95"/>
-                            </figure>
-                            <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line-thickness icons at the far right of the toolbar.</p>
-                            <figure>
-                                <image width="100%" source="images/tech-96"/>
-                            </figure>
-                            <p>Go wild! (But not too wild<nbsp/><ellipsis/>)</p>
-                        </li>
-                        <li>
-                            <title>Keeping track of your comments</title>
-                            <p>Adobe is also really great because it keeps track of each of your comments as you add them and provides a running list of them along the right-side of the screen. If you want to jump to a certain comment, simply click on the desired comment in the list and the document will take you to that comment. You can also arrange these comments by page, author, date, type, checkmark status, and color or filter them by reviewer, type, status, and color.</p>
-                            <figure>
-                                <image width="100%" source="images/tech-97"/>
-                            </figure>
-                        </li>
-                        <li>
-                            <title>Changing the page viewer</title>
-                            <p>There are also useful page-viewing capabilities to the left-side of the screen under the <q>Page Thumbnails</q>, <q>Bookmarks</q>, and <q>Attachments</q> icons. <q>Page thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
-                            <figure>
-                                <image width="100%" source="images/tech-98"/>
-                            </figure>
-                            <p>Or you can switch to <q>Bookmarks</q> to view an outline of the source document and click to go to a certain section:</p>
-                            <figure>
-                                <image width="100%" source="images/tech-99"/>
-                            </figure>
-                            <p>If there are attachments that were included in the source document, selecting the <q>Attachments</q> option will allow you to view them:</p>
-                        </li>
-                        <li>
-                            <title>Searching the document source</title>
-                            <p>Finally, you can search for keywords and phrases in the document by selecting the <q>Find text</q> icon (magnifying glass) in the upper left of the original toolbar. A window will appear in which you can type in the word or phrase you'd like to find; selecting <q>previous</q> or <q>next</q> will bring you to each instance in the document where that term was used.</p>
-                        </li>
+                        <p>If you'd like to erase something you've drawn, you can also do this by selecting the tenth icon from the left (eraser) and moving it over your drawing to erase it.</p>
+                        <figure>
+                            <image width="100%" source="images/tech-93"/>
+                        </figure>
+                    </li>
+                    <li>
+                        <title>Adding shapes</title>
+                        <p>If you're more artistically/visually-inclined, you can also add pre-formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop-down menu to select which shape you'd like to draw.</p>
+                        <figure>
+                            <image width="100%" source="images/tech-94"/>
+                        </figure>
+                        <figure>
+                            <image width="100%" source="images/tech-95"/>
+                        </figure>
+                        <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line-thickness icons at the far right of the toolbar.</p>
+                        <figure>
+                            <image width="100%" source="images/tech-96"/>
+                        </figure>
+                        <p>Go wild! (But not too wild<nbsp/><ellipsis/>)</p>
+                    </li>
+                    <li>
+                        <title>Keeping track of your comments</title>
+                        <p>Adobe is also really great because it keeps track of each of your comments as you add them and provides a running list of them along the right-side of the screen. If you want to jump to a certain comment, simply click on the desired comment in the list and the document will take you to that comment. You can also arrange these comments by page, author, date, type, checkmark status, and color or filter them by reviewer, type, status, and color.</p>
+                        <figure>
+                            <image width="100%" source="images/tech-97"/>
+                        </figure>
+                    </li>
+                    <li>
+                        <title>Changing the page viewer</title>
+                        <p>There are also useful page-viewing capabilities to the left-side of the screen under the <q>Page Thumbnails</q>, <q>Bookmarks</q>, and <q>Attachments</q> icons. <q>Page thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
+                        <figure>
+                            <image width="100%" source="images/tech-98"/>
+                        </figure>
+                        <p>Or you can switch to <q>Bookmarks</q> to view an outline of the source document and click to go to a certain section:</p>
+                        <figure>
+                            <image width="100%" source="images/tech-99"/>
+                        </figure>
+                        <p>If there are attachments that were included in the source document, selecting the <q>Attachments</q> option will allow you to view them:</p>
+                    </li>
+                    <li>
+                        <title>Searching the document source</title>
+                        <p>Finally, you can search for keywords and phrases in the document by selecting the <q>Find text</q> icon (magnifying glass) in the upper left of the original toolbar. A window will appear in which you can type in the word or phrase you'd like to find; selecting <q>previous</q> or <q>next</q> will bring you to each instance in the document where that term was used.</p>
                     </li>
                 </dl></p>
             </paragraphs>

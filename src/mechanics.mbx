@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter>
+<chapter xml:id="writing-sentence-level">
     <title>Writing at the Sentence Level</title>
     <section>
         <title>Basic Grammar Tools</title>
@@ -228,9 +228,9 @@
     </section>
     <section>
         <title>Clauses</title>
-        <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <term>subject</term> and a <term>predicate</term>, <alert>which also means that every clause has a noun and a verb.</alert> Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
+        <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <term>subject</term> and a <term>predicate</term>, <em>which also means that every clause has a noun and a verb</em>. Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
         <paragraphs>
-            <title>Recall:</title>
+            <title>Recall</title>
             <p>The subject is the thing or person a sentence is about. The predicate is the part of a sentence that modifies (<ie/> tells you what's going on with) the subject. The predicate also contains a verb and sometimes a direct or an indirect object or different kinds of phrases.</p>
         </paragraphs>
         <paragraphs>
@@ -390,7 +390,7 @@
         <title>Types of Sentences</title>
         <p>Sentence structure is important to keep in mind while you're writing because strong writing typically employs sentences of varied type and length. Writers can also strategically use certain sentence structures to convey meaning to a reader beyond the meaning of the words alone. If you realize that you mostly utilize one or two sentence types, try mixing up your sentence structures a bit more!</p>
         <paragraphs>
-            <title>Recall:</title>
+            <title>Recall</title>
             <p>Independent clause = a subject + a verb + a complete thought</p>
             <p>Dependent/subordinate clause = a subject + a verb + a thought that cannot stand alone and make sense</p>
             <p>Coordinating conjunction = FANBOYS (for, and, nor, but, or, yet, so)</p>

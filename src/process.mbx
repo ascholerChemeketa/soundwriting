@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter>
+<chapter xml:id="the-writing-process">
     <title>The Writing Process</title>
     <introduction>
         <p>While writing can be a difficult process, it often feels more daunting before you start than when you are actually doing it. If you are intimidated by the thought of writing (as many are), you may find reassurance in this nugget of wisdom: <em>the writing process is not just about writing!</em> In actuality, the writing process starts long before you write anything on the page and continues long after you've written your first draft. Just as developing your argument is a process, so too is translating that argument into written form. A significant portion of the writing process is composed of research, argument development, brainstorming, planning, and outlining, all of which take place before you begin composing content. And even after you've finished a draft, you may spend just as much or more time revising, editing, and changing your paper as you spent writing it. The writing process is messy, uncertain, and chock<ndash/>full of switchbacks, revisions, and gaps in the road, but it can also be empowering, rewarding, and manageable if you take it a step at a time.</p>
@@ -425,8 +425,7 @@
                 </li>
                 <li>
                     <title>You'll probably know that you need to do more research when you<nbsp/><ellipsis/></title>
-                    <p><nbsp/></p>
-                    <ul>
+                    <p><ul>
                         <li><p>find yourself stuck.</p></li>
                         <li>
                             <p>want to say something but don't have the evidence to back it up.</p>
@@ -437,7 +436,7 @@
                         <li><p>run out of sources and need to find more.</p></li>
                         <li><p>have nothing else to say and realize that you need to expand your research question and argument.</p></li>
                         <li><p>are repeatedly citing the same source (unless that source is what your paper is about!).</p></li>
-                    </ul>
+                    </ul></p>
                 </li>
                 <li>
                     <title>Review</title>
@@ -612,32 +611,30 @@
             <image width="5%" source="images/arrow"/>
         </figure>
         <paragraphs>
-            <title>Managing anxiety and frustration:</title>
+            <title>Managing anxiety and frustration</title>
             <dl>
                 <li>
-                    <title>Anxiety:</title>
-                    <p><nbsp/></p>
-                    <ul>
+                    <title>Anxiety</title>
+                    <p><ul>
                         <li><p><em>Know that you will be okay.</em> You will survive writing this paper. Although grades, improvement, and learning are important, your worth as a human being and as a student does not revolve around one college assignment.</p></li>
                         <li><p><em>You are not alone.</em> You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the CWLT, or visiting a liaison librarian.</p></li>
                         <li><p><em>Remember what you love about your topic or what you find most compelling and important about your argument.</em> Whether your paper is due for your favorite or least favorite class, you can always find a way to invest yourself in your topic. Focusing on the interesting parts of the topic itself may help you focus less on the stress of writing a paper and more on the intellectual conversation in which you, a scholar<ndash/>in<ndash/>training, are participating. </p></li>
                         <li><p><em>Try taking a break.</em> Breathe for a few minutes. Go for a walk, do some yoga, call someone, or watch a funny video on YouTube. </p></li>
-                    </ul>
+                    </ul></p>
                 </li>
                 <li>
-                    <title>Frustration:</title>
-                    <p><nbsp/></p>
-                    <ul>
+                    <title>Frustration</title>
+                    <p><ul>
                         <li><p><em>Writing is frustrating.</em> Words don't always come out in the way you hope they do, and sometimes you just don't know what to say. Acknowledging that you're frustrated may be enough to reorient yourself in order to try again. </p></li>
                         <li><p><em>Go back or skip ahead to work on a different section.</em> Sometimes all frustration needs is time. Try working on something else in the meantime.</p></li>
                         <li><p><em>Re<ndash/>read your sources.</em> Going back through your data, evidence, or primary texts may encourage you or remind you of something to say that you've forgotten about.</p></li>
                         <li><p><em>Take a step back.</em> If you're too frustrated to continue, do something else entirely and try again later. </p></li>
-                    </ul>
+                    </ul></p>
                 </li>
             </dl>
         </paragraphs>
         <paragraphs>
-            <title>Managing time:</title>
+            <title>Managing time</title>
             <figure>
                 <image width="25%" source="images/clock"/>
             </figure>
@@ -659,7 +656,7 @@
             </ul>
         </paragraphs>
         <paragraphs>
-            <title>Some tips to fight off procrastination:</title>
+            <title>Some tips to fight off procrastination</title>
             <ul>
                 <li><p><em>Figure out why you want to procrastinate and address the problem.</em> Are you afraid? Uninterested in your topic? Do you not know where to start? Or do you just really want to catch up on your favorite TV show? (For ideas about how to address these problems, see <xref ref="what-to-do-when-you-get-stuck" autoname="yes"/>)</p></li>
                 <li><p><em>Tell yourself that you'll work for five minutes.</em> That's it. It may sound crazy, but this is actually a really good way to lie to<mdash/>I mean, to <q>encourage</q><mdash/>yourself in order to get work done. Once you've begun working, your anxiety about starting (or your desire to Internet surf to avoid working) will hopefully diminish, and you will likely find yourself able to work for much longer than five minutes.</p></li>

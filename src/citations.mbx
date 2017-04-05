@@ -199,7 +199,7 @@
     </section>
     <section xml:id="citations-chicago">
         <title>Chicago</title>
-        <subsection>
+        <subsection xml:id="everything-about-footnotes">
             <title>Everything you've ever wanted to know about footnotes</title>
             <p>One of the main differences between the Chicago citation style and MLA and APA is that, for in<ndash/>text citations, Chicago has a <em>notes and bibliography</em> option in addition to an <em>author<ndash/>date</em> option. In the notes and bibliography option, you put superscript numbers (like this<fn>footnote</fn>) to indicate that you have cited something. You can choose to put the notes either at the foot of the page (footnotes) or at the end of your paper (endnotes). Usually you'll use footnotes, but double check with your professor. For most word processing programs, you can make a footnote by clicking <c>insert&gt;footnote</c>.</p>
             <p>The footnote is where you put all of the fun information that tells your audience what source you're citing. Because disciplines that use Chicago usually require detailed attention to where information comes from, having footnotes enables readers to acquire that information without having to flip back to the bibliography. Authors (including you!) can also put short commentary in the footnotes. Although you may bemoan the extra effort that accompanies Chicago style footnotes, remember this: footnotes make your paper look fancy and professional,; they're actually pretty fun!</p>
@@ -233,7 +233,7 @@
                 <p>First appearance.<fn>Cormac McCarthy, <i>The Road</i> (New York: Alfred A. Knopf, 2006), 1<ndash/>2.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid., 34.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>McCarthy, <i>The Road,</i> 5.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -247,7 +247,7 @@
                 <p>First appearance.<fn>Peter J. Bowler and Iwan Rhys Morus, <i>Making Modern Science: A Historical Survey</i> (Chicago: University of Chicago Press), 20.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid., 47.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Bowler and Morus, <i>Making Modern Science,</i> 5<ndash/>12.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -262,7 +262,7 @@
                 <p>First appearance.<fn>Torbjorn Tannsjo, <i>Understanding Ethics: an Introduction to Moral Theory,</i> 2nd ed. (Edinburgh: University of Edinburgh Press, 2008), 25.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid., 45.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Tannsjo, <i>Understanding Ethics,</i> 27.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -282,7 +282,7 @@
                 <p>First appearance.<fn>John J. Paul, review of <i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</i> by Kavita Philip, <i>Isis</i> 97, no. 2 (2006): 370<ndash/>371.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid., 371.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Paul, review of <i>Civilizing Natures,</i> 370.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -296,7 +296,7 @@
                 <p>First appearance.<fn>Susan Mann. <q>Pioneers of U.S. Ecofeminism and Environmental Justice,</q> <i>Feminist Formations</i> 23, no. 2 (2011): 5.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid., 6.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Mann, <q>Pioneers of U.S. Ecofeminism,</q> 10<ndash/>15.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -320,7 +320,7 @@
                 <p>First appearance.<fn>Ramona Ausubel, <q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel</q>, Salon, May 11, 2013, <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/>.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Ausubel, <q>Fiction: <sq>Poppyseed.</sq></q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -333,7 +333,7 @@
                 <p>First appearance.<fn>Pete Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy,</q> <i>The New York Times,</i> July 26, 2016, accessed July 27, 2016, <url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -346,7 +346,7 @@
                 <p>First appearance.<fn>Yuichi Hashimoto and Tatsuya Haga, <q>G. Protein<ndash/>Coupled Receptor,</q> in Encyclopedia of Neuroscience, 2nd vol., ed. Marc Binder, Nobutaka Hirokawa, and Uwe Windhorst, (Berlin: Springer, 2003), s.v. <q>g<ndash/>coupled protein receptor.</q></fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Hasimoto and Haga, <q>G. Protein<ndash/>Coupled Receptor.</q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -358,7 +358,7 @@
                 <p>First appearance.<fn>Kieran O'Neil, <q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience,</q> (lecture, European Writing Center Association Conference, University of Łódź, Łódź, Poland, July 9, 2016).</fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>O'Neil, <q>Talking Small, Thinking Big.</q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -370,7 +370,7 @@
                 <p>First appearance.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant, directed by Alejandro G. Iñárritu (2015; Los Angeles, CA: 20th Century Fox, 2015), motion picture.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -382,7 +382,7 @@
                 <p>First appearance.<fn>L. Beethoven, Symphony No. 9, conducted by Wesley Schultz, Schneebeck Concert Hall, Tacoma, Wa, July 29, 2016.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>L. Beethoven, Symphony No. 9.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -392,7 +392,7 @@
             <paragraphs>
                 <title>Notes</title>
                 <p>First appearance.<fn>Bruce Hornsby,</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -404,7 +404,7 @@
                 <p>First appearance.<fn>Michelangelo di Lodovico Buonarroti Simoni, David, Carrara marble, 1504, Accademia di Belle Arti di Firenze, Florence, Italy.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>di Lodovico Buonarroti Simoni, David.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -415,7 +415,7 @@
                 <title>Notes</title>
                 <p>First appearance.<fn>U.S. Environmental Protection Agency, Climate Change Indicators in the United States, (Washington, DC: GPO, 2014), 25.</fn></p>
                 <p>Non<ndash/>consecutive appearances.<fn>U.S. EPA, Climate Change, 36.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p><em>For more information about how footnotes work, see <xref ref="everything-about-footnotes" autoname="yes"/>.</em></p>
             </paragraphs>
         </subsection>
     </section>

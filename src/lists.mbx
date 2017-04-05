@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter>
+<chapter xml:id="good-to-know">
     <title>Good to Know</title>
     <paragraphs>
         <title>Top 5 differences between written and spoken (or signed!) language</title>
@@ -70,9 +70,8 @@
         <title>Fun stuff</title>
         <dl>
             <li>
-                <title>On<ndash/>campus places to study</title>
-                <p><nbsp/></p>
-                <ul>
+                <title>On-campus places to study</title>
+                <p><ul>
                     <li><p>Diversions/Oppenheimer</p></li>
                     <li><p>Empty classrooms/resource rooms in Thompson</p></li>
                     <li><p>The library<ul>
@@ -87,12 +86,11 @@
                     <li><p>The Rotunda (if it's open)</p></li>
                     <li><p>Lounges in your residence hall</p></li>
                     <li><p>The CWLT!</p></li>
-                </ul>
+                </ul></p>
             </li>
             <li>
-                <title>Off<ndash/>campus places to study</title>
-                <p><nbsp/></p>
-                <ul>
+                <title>Off-campus places to study</title>
+                <p><ul>
                     <li><p>Metronome</p></li>
                     <li><p>Cafe Brosseau</p></li>
                     <li><p>Bluebeard Coffee Roasters</p></li>
@@ -100,12 +98,11 @@
                     <li><p>Anthem Coffee <ampersand/> Tea</p></li>
                     <li><p>B<hash/></p></li>
                     <li><p>Blackbear</p></li>
-                </ul>
+                </ul></p>
             </li>
             <li xml:id="productive-procrastination">
                 <title>Productive Procrastination</title>
-                <p><nbsp/></p>
-                <ul>
+                <p><ul>
                     <li><p>Work on citations</p></li>
                     <li><p>Take the CWLT's <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz to figure out what kind of writer you are!</url></p></li>
                     <li><p>Type up your notes/evidence</p></li>
@@ -119,12 +116,11 @@
                     <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
                     <li><p>Explore and familiarize yourself with the SoundWriting online guidebook (good job!)</p></li>
                     <li><p>Make a writing appointment at the CWLT!</p></li>
-                </ul>
+                </ul></p>
             </li>
             <li>
-                <title>Fun <init>UPS</init> Facts:</title>
-                <p><nbsp/></p>
-                <ul>
+                <title>Fun <init>UPS</init> Facts</title>
+                <p><ul>
                     <li><p>1890: Tuition for the college was <dollar/>20!</p></li>
                     <li><p>1910: Nickname for athletics became the Loggers</p></li>
                     <li><p>1913: Women's basketball started</p></li>
@@ -136,7 +132,7 @@
                     <li><p>1963: Puget Sound had a joint convocation ceremony with Pacific Lutheran University, which was attended by US President John F. Kennedy</p></li>
                     <li><p>1977: <init>KUPS</init> had its first broadcast in April</p></li>
                     <li><p>1979: President Phibbs instituted Fireside Dinners</p></li>
-                </ul>
+                </ul></p>
             </li>
         </dl>
     </list>
@@ -194,7 +190,7 @@
                     <li><p>Lay <m>\rightarrow</m> laid = <q>You have laid down far too many things today.</q></p></li>
                 </ul></p>
 
-                <p><ndash/>ing versions:<ul>
+                <p>-ing versions:<ul>
                     <li><p>Lie <m>\rightarrow</m> lying = <q>You have been lying around all day!</q></p></li>
                     <li><p>Lay <m>\rightarrow</m> laying = <q>You have been laying things all over the house!</q></p></li>
                 </ul></p>
