@@ -17,6 +17,7 @@ DIR="$(dirname "$0")"
 # following depend on paths source'd above
 declare MBXSL=${MBX}/xsl
 declare MBUSER=${MBX}/user
+declare MBXSCRIPT=${MBX}/script/mbx
 declare SOURCE=${SRC}/src
 declare IMAGES=${SRC}/images
 
@@ -50,6 +51,7 @@ function html_build {
     echo
     echo "BUILD: Building HTML Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.mbx
     install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
     cd ${SCRATCH}/html
     rm *.html
@@ -67,6 +69,7 @@ function pdf_build {
     echo
     echo "BUILD: Building Print Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.mbx
     install -d ${SCRATCH}/pdf ${SCRATCH}/pdf/images
     cd ${SCRATCH}/pdf
     rm SoundWriting.tex
