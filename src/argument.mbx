@@ -122,25 +122,27 @@
     </section>
     <section xml:id="thesis-development">
         <title>Thesis Development</title>
-        <sidebyside widths="55% 40%">
-            <paragraphs>
-                <p>So you've been given a writing assignment. You've begun thinking about the components of a good argument, but now what? In order to structure your paper effectively and to know what supporting claims it needs, you need to have a <term>main claim</term> or <term>thesis</term>. A thesis is an argumentative, contestable statement that tells an audience exactly what a writer intends to argue (for more information, see <xref ref="the-bubble-map" autoname="yes"/>).</p>
-            </paragraphs>
-            <figure>
-                <image source="images/AD-Car"/>
-            </figure>
-        </sidebyside>
-        <p>The thesis is thus the main point of your paper. Writing a paper without a thesis is like trying to drive a car without tires; the body will be there, but you certainly won't be taking your reader anywhere important. Good theses do everything good tires should do: they get you moving smoothly, give you traction, and make your arguments a lot more appealing and convincing to audiences. It's difficult to start writing without a working thesis, but once you have an idea of your main argument, you'll be writing in no time. The thesis also provides you with the foundation of and traction for your argument. If you ever find yourself asking, <q>Wait, what am I even writing about?</q> you can refer back to your thesis. Alternatively, you might realize that what you're saying doesn't align with your thesis, so you might rewrite your thesis<mdash/>change your tires<mdash/>altogether! Finally, a good, thorough thesis indicates to the audience that you are an authoritative and careful writer, one who establishes an argument outright and has evidence to support it. Just like a taxi without tires, a paper without a thesis is odd and ineffective.</p>
-        <p>As a scholar<ndash/>in<ndash/>training, your theses will be given especial weight because they represent your contributions to the broader academic conversations in which they take part. Just as with spoken conversations, you don't want the contributions you make to scholarly conversations to be repetitions of what other people have said. Your thesis must therefore be a new, interesting idea that you've come up with. While this endeavor sounds near impossible<mdash/>how can I, as a mere scholar<ndash/>in<ndash/>training, contribute to a conversation with professional and practiced scholars?<mdash/>you needn't worry. You don't have to make a life<ndash/>changing contribution, and you surely don't need to know every argument that has ever been made on your topic. What you <em>do</em> need to do is develop a research question, research that question, and form a thesis that crystallizes your ideas and findings. Although your paper may be simply another writing assignment that you hope to finish and forget, you might consider thinking about your thesis as an opportunity to develop an idea that legitimately falls within a scholarly conversation.</p>
-        <sidebyside widths="40% 45%" margins="0% 10% 5%">
-            <paragraphs>
-                <p>Now, how do you go about writing your thesis? Since your thesis is the main point of your argument, you may find it difficult and time<ndash/>consuming to construct the perfect sentence (or two!). Strategies to develop your thesis are therefore very important. Let's start from the beginning.</p>
-                <p>A note before we begin: It is important that you write down <em>every version</em> of your thesis. You don't want to have a brilliant idea only to forget it five minutes later, and sometimes old versions of your thesis can be useful in crafting newer versions.</p>
-            </paragraphs>
-            <figure>
-                <image source="images/AD-CuteCat"/>
-            </figure>
-        </sidebyside>
+        <introduction>
+            <sidebyside widths="55% 40%">
+                <paragraphs>
+                    <p>So you've been given a writing assignment. You've begun thinking about the components of a good argument, but now what? In order to structure your paper effectively and to know what supporting claims it needs, you need to have a <term>main claim</term> or <term>thesis</term>. A thesis is an argumentative, contestable statement that tells an audience exactly what a writer intends to argue (for more information, see <xref ref="the-bubble-map" autoname="yes"/>).</p>
+                </paragraphs>
+                <figure>
+                    <image source="images/AD-Car"/>
+                </figure>
+            </sidebyside>
+            <p>The thesis is thus the main point of your paper. Writing a paper without a thesis is like trying to drive a car without tires; the body will be there, but you certainly won't be taking your reader anywhere important. Good theses do everything good tires should do: they get you moving smoothly, give you traction, and make your arguments a lot more appealing and convincing to audiences. It's difficult to start writing without a working thesis, but once you have an idea of your main argument, you'll be writing in no time. The thesis also provides you with the foundation of and traction for your argument. If you ever find yourself asking, <q>Wait, what am I even writing about?</q> you can refer back to your thesis. Alternatively, you might realize that what you're saying doesn't align with your thesis, so you might rewrite your thesis<mdash/>change your tires<mdash/>altogether! Finally, a good, thorough thesis indicates to the audience that you are an authoritative and careful writer, one who establishes an argument outright and has evidence to support it. Just like a taxi without tires, a paper without a thesis is odd and ineffective.</p>
+            <p>As a scholar<ndash/>in<ndash/>training, your theses will be given especial weight because they represent your contributions to the broader academic conversations in which they take part. Just as with spoken conversations, you don't want the contributions you make to scholarly conversations to be repetitions of what other people have said. Your thesis must therefore be a new, interesting idea that you've come up with. While this endeavor sounds near impossible<mdash/>how can I, as a mere scholar<ndash/>in<ndash/>training, contribute to a conversation with professional and practiced scholars?<mdash/>you needn't worry. You don't have to make a life<ndash/>changing contribution, and you surely don't need to know every argument that has ever been made on your topic. What you <em>do</em> need to do is develop a research question, research that question, and form a thesis that crystallizes your ideas and findings. Although your paper may be simply another writing assignment that you hope to finish and forget, you might consider thinking about your thesis as an opportunity to develop an idea that legitimately falls within a scholarly conversation.</p>
+            <sidebyside widths="40% 45%" margins="0% 10% 5%">
+                <paragraphs>
+                    <p>Now, how do you go about writing your thesis? Since your thesis is the main point of your argument, you may find it difficult and time<ndash/>consuming to construct the perfect sentence (or two!). Strategies to develop your thesis are therefore very important. Let's start from the beginning.</p>
+                    <p>A note before we begin: It is important that you write down <em>every version</em> of your thesis. You don't want to have a brilliant idea only to forget it five minutes later, and sometimes old versions of your thesis can be useful in crafting newer versions.</p>
+                </paragraphs>
+                <figure>
+                    <image source="images/AD-CuteCat"/>
+                </figure>
+            </sidebyside>
+        </introduction>
         <subsection>
             <title>Six<ndash/>step process</title>
             <paragraphs>
