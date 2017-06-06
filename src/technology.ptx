@@ -13,9 +13,24 @@
             <title>Inserting Footnotes</title>
             <p>Let's face it: footnotes can be a pain. Luckily, Word processor has some handy tricks for making adding footnotes relatively pain-free!</p>
             <p>Let's say you have a couple paragraphs with some source evidence you'd like to cite using footnotes.</p>
+            <figure>
+                <image width="100%" source="images/tech-39"/>
+            </figure>
             <p>To add a footnote, simply place your cursor at the end of the sentence containing that piece of evidence (AFTER THE PERIOD), open the <q>References</q> tab, and select <q>Insert Footnote</q>.</p>
+            <figure>
+                <image width="100%" source="images/tech-40"/>
+            </figure>
             <p>A small superscript number will appear after the period corresponding with the footnote sequence. At the same time, a line will appear at the bottom of the page with a small number beneath it corresponding to that footnote. You can then write the footnote citation according to the appearance order of the citation (for more on how to write footnotes, see <xref provisional="citations-chicago" autoname="yes"/> in <xref ref="citations" autoname="yes"/>).</p>
+            <figure>
+                <image width="100%" source="images/tech-41"/>
+            </figure>
             <p>Every time you add a new piece of evidence, you can add subsequent footnotes by using the <q>Insert Footnote</q> function and the citations will stack sequentially at the footer of the page. However, keep in mind that if you delete the superscript number in the text, you will also delete its corresponding footnote and change the numbering sequence of subsequent footnotes (but this is also nice because it keeps track of the order for you).</p>
+            <figure>
+                <image width="100%" source="images/tech-42"/>
+            </figure>
+            <figure>
+                <image width="100%" source="images/tech-43"/>
+            </figure>
             <p>Easy-peasy!</p>
         </subsection>
         <subsection>
@@ -26,38 +41,89 @@
             <subsubsection>
                 <title>MLA - Works Cited</title>
                 <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create an MLA Works Cited page using hanging indents, begin with centering a <q>Works Cited</q> title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced).</p>
+                <figure>
+                    <image width="100%" source="images/tech-72"/>
+                </figure>
                 <p>Next, place your cursor at the very beginning of the second line of your citation, right-click, and select the <q>Paragraph</q> option.</p>
+                <figure>
+                    <image width="100%" source="images/tech-73"/>
+                </figure>
                 <!-- Possibly change inch measures to <quantity><mag>0.5</mag><unit base="inch"/></quantity> -->
                 <p>In the <q>Indentations</q> category, change the <q>Special:</q> option to <q>Hanging</q>. When you do this, the <q>By:</q> should automatically change to 0.5" (and if it doesn't, increase it to 0.5"). Click <q>OK</q><nbsp/><ellipsis/></p>
+                <figure>
+                    <image width="100%" source="images/tech-74"/>
+                </figure>
                 <p><ellipsis/><nbsp/>and your source magically scoots over half an inch, creating a hanging indent!!</p>
+                <figure>
+                    <image width="100%" source="images/tech-75"/>
+                </figure>
                 <p>But what's really nice about this feature is that you only need to set a hanging indent for the first citation; all subsequent citations will automatically indent over to mirror the hanging indent of Source A.</p>
+                <figure>
+                    <image width="100%" source="images/tech-76"/>
+                </figure>
                 <p>LIFE=CHANGED.</p>
             </subsubsection>
             <subsubsection>
                 <title>APA</title>
                 <p>To create a Reference List for APA style, follow the exact same hanging indentation formatting as MLA Works Cited (except this time label your page <q>References</q> instead of <q>Works Cited</q>): use double-spaced formatting to enter the first citation, place your cursor before the second line, right-click, select <q>Paragraph,</q> change <q>Special Indentation</q> to <q>Hanging,</q> increase <q>By:</q> to 0.5", and click <q>OK</q>. Once again, all subsequent citations will follow the same hanging indentation format.</p>
+                <figure>
+                    <image width="100%" source="images/tech-77"/>
+                </figure>
             </subsubsection>
             <subsubsection>
                 <title>Chicago</title>
                 <paragraphs>
                     <title>Notes and Bibliography</title>
                     <p>To create a Bibliography for Chicago NB style, follow the same guidelines as above to set a hanging indentation. However, for bibliographies, label the page <q>Bibliography,</q> include two blank lines between the title and the first citation, and single-space all citations, leaving one blank line to separate them.</p>
+                    <figure>
+                        <image width="100%" source="images/tech-78"/>
+                    </figure>
                 </paragraphs>
                 <paragraphs>
                     <title>Author-Date</title>
                     <p>To create a reference list for Chicago Author-Date style, follow the same guidelines as above for setting a hanging indentation. However, label the page <q>References</q> or <q>Works Cited,</q> include two blank lines between the title and the first citation, and single-space all citations, leaving one blank line to separate them.</p>
+                    <figure>
+                        <image width="100%" source="images/tech-79"/>
+                    </figure>
                 </paragraphs>
             </subsubsection>
         </subsection>
         <subsection>
             <title>Peer Editing Tools</title>
             <p>One of the cooler features of word processors is that many of them allow you to comment, offer suggestions, and even directly overlay changes onto a document. This can be particularly useful when you are peer reviewing another person's document, which you will undoubtedly be doing a lot of throughout your college career. Keep in mind that it's generally more constructive to use the comment function to offer suggestions rather than editing the document directly. That said, tracking changes directly can be useful for smaller errors or editing suggestions. (For more tips on peer review etiquette, see <xref ref="peer-review" autoname="yes"/>.)</p>
+            <figure>
+                <image width="100%" source="images/tech-17"/>
+            </figure>
             <p>To comment on a specific part of someone's writing, open the <q>Review</q> tab, highlight the desired phrase, and select <q>New Comment</q> in the toolbar.</p>
+            <figure>
+                <image width="100%" source="images/tech-18"/>
+            </figure>
             <p>A red-outlined box will appear to the right with a line indicating the section being discussed by the comment. In this box, you can write friendly suggestions, observations, and questions about the text, which your peer may then reply to or check off as resolved.</p>
+            <figure>
+                <image width="100%" source="images/tech-19"/>
+            </figure>
             <p>You can also edit the other's person's writing directly using Track Changes. Open the <q>Review</q> tab, select <q>Track Changes</q> in the toolbar, and scroll down to select the <q>Track Changes</q> option.</p>
+            <figure>
+                <image width="100%" source="images/tech-20"/>
+            </figure>
             <p>When using Track Changes, feel free to edit the document as you would any other (deleting portions, adding new ones, etc.) and all of the changes you make will be in red overlaid on top of the original document. Track Changes is useful because it allows you to work directly with the text while saving the original. However, try to keep the revisions you make using Track Changes to a minimum while reviewing peer's work; if you change, add, or remove too much from the text, you could inadvertently start to take control of the document, making it less of a mutual collaboration between you and your peer and more of a copyediting session.</p>
+            <figure>
+                <image width="100%" source="images/tech-21"/>
+            </figure>
+            <figure>
+                <image width="100%" source="images/tech-22"/>
+            </figure>
             <p>If you are being reviewed, you can accept or reject tracked changes by placing your cursor over a particular change and clicking <q>Accept Change</q> or <q>Reject Change,</q> which will respectively replace the original work with the edit or ignore the change altogether.</p>
+            <figure>
+                <image width="100%" source="images/tech-23"/>
+            </figure>
+            <figure>
+                <image width="100%" source="images/tech-24"/>
+            </figure>
             <p>After reviewing your peer's comments and tracked changes, hopefully your sentences (and those of your peer) will be even stronger than before.</p>
+            <figure>
+                <image width="100%" source="images/tech-25"/>
+            </figure>
         </subsection>
         <subsection>
             <title>Adding a Cover Page</title>
@@ -65,20 +131,44 @@
             <paragraphs>
                 <title>MLA</title>
                 <p>To add an MLA style cover page, simply shift down until your paper begins on the second page of the document (if you clicked <q>Different First Page</q> using the guidelines above, a page number will not appear on this first page). Include your double-spaced title about <m>\sfrac{1}{3}</m> of the way down the page, followed by your name, course name and number, professor name, and due date about <m>\sfrac{2}{3}</m> of the way down (all double spaced).</p>
+                <figure>
+                    <image width="100%" source="images/tech-31"/>
+                </figure>
             </paragraphs>
             <paragraphs>
                 <title>APA</title>
                 <p>APA style cover pages are a little trickier. These require your title, name, university affiliation, an author note, a page number (!), and a header that runs along the top of every page of the document. Generally this running header provides a short synopsis of the topic of your paper (but does not exactly copy your title).</p>
                 <p>To begin, place your double-spaced title, name, and university affiliation about <m>\sfrac{1}{3}</m> of the way down the page. If an author's note is required, place this about <m>\sfrac{2}{3}</m> of the way down (and centered). An author's note includes the departmental and institutional information of the student, any grants or funding associated with the project, and contact information by which to contact them (for some good examples of author's notes, see the Purdue Online Writing Lab guidelines).</p>
+                <figure>
+                    <image width="100%" source="images/tech-32"/>
+                </figure>
                 <p>To add the page number and running header, select the <q>Insert</q> tab, click <q>Page Number,</q> <q>Top of Page,</q> and <q>Plain Number 3.</q></p>
+                <figure>
+                    <image width="100%" source="images/tech-33"/>
+                </figure>
                 <p>Next, you can add your running header in front of the page number by writing <q>Running head: TITLE.</q> To right-justify your running header, hit the <q>tab</q> key once. Keep in mind that your running header should not be more than 50 characters long.</p>
+                <figure>
+                    <image width="100%" source="images/tech-34"/>
+                </figure>
                 <p>Next, keeping your cursor on the header you just created, un-check the <q>Different First Page</q> box in the <q>Design</q> tab. This will allow you to delete the term <q>Running head:</q> on subsequent pages.</p>
+                <figure>
+                    <image width="100%" source="images/tech-35"/>
+                </figure>
                 <p>When you have written subsequent pages, the running header will automatically be added to the top of each page. However, you no longer want the term <q>Running head:</q> to preface each subsequent header. To delete this from the following pages, place your cursor on the page 2 header, re-check the <q>Different First Page</q> box in the <q>Design</q> tab, and delete the <q>Running head:</q> from the header on page 2.</p>
+                <figure>
+                    <image width="100%" source="images/tech-36"/>
+                </figure>
                 <p>This will allow you to keep the <q>Running head:</q> title on the cover page, but will delete it from subsequent pages.</p>
+                <figure>
+                    <image width="100%" source="images/tech-37"/>
+                </figure>
             </paragraphs>
             <paragraphs>
                 <title>Chicago</title>
                 <p>Chicago-style cover pages are very similar to MLA in format, except your title, name, course name and number, and assignment due date are single-spaced. You also do not need to add your professor's name (although doing so likely would not hurt). Your title is centered <m>\sfrac{1}{3}</m> of the way down the page; if it has a subtitle, separate it with a colon and place the subtitle on the next line. Your name, course name/number, and due date should all go about <m>\sfrac{2}{3}</m> of the way down and should be single-spaced.</p>
+                <figure>
+                    <image width="100%" source="images/tech-38"/>
+                </figure>
             </paragraphs>
         </subsection>
         <subsection>
@@ -87,14 +177,35 @@
             <paragraphs>
                 <title>Finding</title>
                 <p>Say you would like to find all instances in your paper where you use a certain word or phrase.</p>
+                <figure>
+                    <image width="100%" source="images/tech-44"/>
+                </figure>
                 <p>Simply highlight the word or phrase you want to find, open the <q>Home</q> tab, select the <q>Find</q> option on the far right of the toolbar (it is often accompanied by a magnifying glass), and select <q>Find</q> on the scroll-down menu.</p>
+                <figure>
+                    <image width="100%" source="images/tech-45"/>
+                </figure>
+                <figure>
+                    <image width="100%" source="images/tech-46"/>
+                </figure>
                 <p>When you do this, all of the instances of the word or phrase are highlighted in the text and a navigation dialogue box will appear on the left-hand side of the screen displaying all instances of use. You can go to a certain instance by clicking on the text boxes under the <q>Results</q> column.</p>
+                <figure>
+                    <image width="100%" source="images/tech-47"/>
+                </figure>
             </paragraphs>
             <paragraphs>
                 <title>Replacing</title>
                 <p>If you'd like to replace a word or phrase with another word or phrase, highlight the desired text you'd like to change, open the <q>Home</q> tab, and find the <q>Replace</q> option to the far left beneath <q>Find.</q></p>
+                <figure>
+                    <image width="100%" source="images/tech-48"/>
+                </figure>
                 <p>When you select <q>Replace.</q> a dialogue box will appear with the original text and give you the option to write in what you would like to replace it with. You may then hit <q>Replace</q> if you'd like to replace that one instance, <q>Replace All</q> if you'd like to replace all instances in your document, or <q>Find Next</q> to go through all instances until you find the one you want to replace.</p>
+                <figure>
+                    <image width="100%" source="images/tech-49"/>
+                </figure>
                 <p>Here we replaced all <q>IMPORTANT WORD</q>s with <q>CRITICAL WORD</q>s, but keep in mind that it's often better to use a mix of important AND critical words to enhance your vocab diversity. If you use the same important word in every single sentence, your paper will get really repetitive really quick.</p>
+                <figure>
+                    <image width="100%" source="images/tech-50"/>
+                </figure>
             </paragraphs>
         </subsection>
     </section>

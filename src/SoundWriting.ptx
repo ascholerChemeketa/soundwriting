@@ -2,44 +2,44 @@
 
 <mathbook xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
 
-    <xi:include href="bookinfo.mbx"/>
+    <xi:include href="bookinfo.ptx"/>
 
     <book xml:id="SoundWriting">
         <title>Sound Writing</title>
         <subtitle>University of Puget Sound</subtitle>
 
         <!-- Frontmatter -->
-        <xi:include href="frontmatter.mbx"/>
+        <xi:include href="frontmatter.ptx"/>
 
         <!-- Research Methods -->
-        <xi:include href="research.mbx"/>
+        <xi:include href="research.ptx"/>
         <!-- How to Read -->
-        <xi:include href="reading.mbx"/>
+        <xi:include href="reading.ptx"/>
         <!-- Forming an Argument -->
-        <xi:include href="argument.mbx"/>
+        <xi:include href="argument.ptx"/>
         <!-- Writing Process -->
-        <xi:include href="process.mbx"/>
+        <xi:include href="process.ptx"/>
         <!-- Discipline Specific Writing -->
-        <xi:include href="discipline.mbx"/>
+        <xi:include href="discipline.ptx"/>
         <!-- Writing with Awareness -->
-        <xi:include href="awareness.mbx"/>
+        <xi:include href="awareness.ptx"/>
         <!-- Language Mechanics -->
-        <xi:include href="mechanics.mbx"/>
+        <xi:include href="mechanics.ptx"/>
         <!-- Citations -->
-        <xi:include href="citations.mbx"/>
+        <xi:include href="citations.ptx"/>
         <!-- Speaking and Writing -->
-        <xi:include href="speaking.mbx"/>
+        <xi:include href="speaking.ptx"/>
         <!-- Faculty Writing Advice -->
-        <xi:include href="faculty.mbx"/>
+        <xi:include href="faculty.ptx"/>
         <!-- Fun Lists -->
-        <xi:include href="lists.mbx"/>
+        <xi:include href="lists.ptx"/>
         <!-- Different Genres of Writing -->
-        <xi:include href="genres.mbx"/>
+        <xi:include href="genres.ptx"/>
         <!-- Using Technology -->
-        <xi:include href="technology.mbx"/>
+        <xi:include href="technology.ptx"/>
 
         <!-- Backmatter -->
-        <xi:include href="backmatter.mbx"/>
+        <xi:include href="backmatter.ptx"/>
 
     </book>
 

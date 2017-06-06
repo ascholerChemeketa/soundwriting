@@ -8,13 +8,13 @@
 #
 # Edits to make to paths.sh
 #
-# 1. MBX is full path to root of MathBook XML distribution
-#    no trailing slash
+# 1. MBX is the full path to the root of PreTeXt,
+#    no trailing slash.
 #
-# 2. SRC is full path to root of Sound Writing distribution,
-#    no trailing slash
+# 2. SRC is full path to root of Sound Writing,
+#    no trailing slash.
 #
-# 3. SCRATCH is a working directory, where products land
+# 3. SCRATCH is a working directory where the output lands
 #
 # 4. VIEWERs are executable programs to view indicated file type
 #

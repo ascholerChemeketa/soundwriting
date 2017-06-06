@@ -51,13 +51,13 @@ function html_build {
     echo
     echo "BUILD: Building HTML Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.mbx
+    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
     install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
     cd ${SCRATCH}/html
     rm *.html
     rm -rf knowl/* images/*
     cp -a ${IMAGES}/*.svg ./images/
-    xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.mbx
+    xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
 }
 
 function view_html {
@@ -69,12 +69,12 @@ function pdf_build {
     echo
     echo "BUILD: Building Print Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.mbx
+    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
     install -d ${SCRATCH}/pdf ${SCRATCH}/pdf/images
     cd ${SCRATCH}/pdf
     rm SoundWriting.tex
     cp -a ${IMAGES}/* ./images/
-    xsltproc --xinclude ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.mbx
+    xsltproc --xinclude ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
 }

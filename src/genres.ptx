@@ -66,7 +66,7 @@
             <p>A personal statement is just that<mdash/>a statement about you! While that sounds simple, writing about yourself in a succinct, honest, humble, and articulate way can actually be some of the most difficult writing you will do. Personal statements are generally written for graduate or professional school applications and include a narrative-style account of your professional interests, intellectual strengths, and any other background information that highlights your ambitions and qualifications for that program. Personal statements will likely be read quickly by admissions committee members who are also reading a slew of other applications, so consider the statement as a personal story that highlights a few important and (ideally) distinctive aspects about yourself rather than a mere list of your academic merits and accomplishments. Nonetheless, remember that because your personal statement will likely respond to a question specific to that application, it's important to organize and articulate your statement accordingly.</p>
         </paragraphs>
         <figure>
-            <image width="100%" source="images/whoami"/>
+            <!-- <image width="100%" source="images/whoami"/> -->
         </figure>
         <paragraphs>
             <title>Questions to think about before writing</title>
@@ -109,7 +109,7 @@
             <title>What is a cover letter?</title>
             <p>Chances are, if you are applying for a job or internship, you will be required to write a cover letter. Cover letters are short, one-page letters in which you introduce yourself, identify which position you are applying for, and explain why you are interested in and qualified for that position. Cover letters can be a crucial part of an application because in many cases it is the one place where you will be able to present yourself as a person rather than just a list of past experiences and jobs (as is the case with your resume). One of the best ways to humanize yourself is to exhibit your ability to write and communicate effectively as opposed to just listing your past experience. and will be among the first things a potential employer will read, so it's important to put some time and effort into the crafting of your cover letter.</p>
             <figure>
-                <image width="100%" source="images/pleasehire"/>
+                <!-- <image width="100%" source="images/pleasehire"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
@@ -130,7 +130,7 @@
             </ul></p>
             <p>Here's an example of how all of the above fits together:</p>
             <figure>
-                <image width="100%" source="images/coverletter"/>
+                <!-- <image width="100%" source="images/coverletter"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
@@ -153,7 +153,7 @@
             <title>Closing</title>
             <p>Closings for cover letters should be formal. <q>Sincerely</q> and <q>Thank you</q> are good go-to closings. Below this, sign your full name in ink (if you can), with your name typed below the signature.</p>
             <figure>
-                <image width="100%" source="images/sincerely"/>
+                <!-- <image width="100%" source="images/sincerely"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
@@ -193,7 +193,7 @@
             <title>What is a resume?</title>
             <p>A resume is a list of your education history, past employment, professional skills/knowledge, and any other qualifications that are relevant to the job to which you are applying. Even if you are applying for many jobs within a similar field, you will likely need to revise your resume for every job application you submit (for instance, if you are applying for a computer tech position, you probably wouldn't include your cat-sitting experience). However, there are some basic things you need to include in every resume to make it as strong as possible.</p>
             <figure>
-                <image width="100%" source="images/awesomeresume"/>
+                <!-- <image width="100%" source="images/awesomeresume"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
@@ -207,14 +207,14 @@
                 <li>Fax number or any other way of contacting you</li>
             </ul></p>
             <figure>
-                <image width="100%" source="images/contactinfo"/>
+                <!-- <image width="100%" source="images/contactinfo"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
             <title>Education</title>
             <p>In the education section, include your degree, graduation month and year, where you went to college/university, your GPA, awards won (include date range, or month and year), and relevant co-curricular activities (include date range, or month and year). Remember to list only those awards and activities that may be relevant to the job application.</p>
             <figure>
-                <image width="100%" source="images/education"/>
+                <!-- <image width="100%" source="images/education"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
@@ -228,7 +228,7 @@
             </ul></p>
             <p>Keep in mind that these experiences do not necessarily need be paid employment, but should rather reflect your qualifications and accomplishments working in a relevant or related field. Use fragment bullet points to list the duties you performed in each position and try to be as specific as possible when describing these duties, limiting yourself to 2-4 bullet points per position. For instance, rather than <q>honed social skills</q> as a Campus Visit Host, you could describe how you <q>greeted, engaged with, and answered questions for prospective students and their families during one-hour informational tours.</q> Try to highlight only the most important duties of a particular position and to avoid repeating similar tasks and skills; for instance, if you <q>conducted scheduling and administrative and office support</q> for multiple positions, you may want to include this only for the positions in which this was a critical part of the job. Remember that your resume should have an overarching focus but that different positions may emphasize different aspects of your qualifications.</p>
             <figure>
-                <image width="100%" source="images/relevantexperience"/>
+                <!-- <image width="100%" source="images/relevantexperience"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
@@ -242,14 +242,14 @@
             </ul></p>
             <p>Remember to only include research that appropriately showcases your qualifications for the job to which you are applying. Like your past experiences section, keep the bullet-point descriptions of your research simple and to a minimum.</p>
             <figure>
-                <image width="100%" source="images/independentresearch"/>
+                <!-- <image width="100%" source="images/independentresearch"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
             <title>Relevant Skills</title>
             <p>Many resumes have a relevant skills section that allows potential employers (or a computerized application tracking system) to easily scan your abilities and qualifications. It offers a list of terms for skills that you have accumulated and gained proficiency in during your work/research experiences and that you will likely utilize in the position to which you are applying. It can include more umbrella terms like <q>public speaking</q> or <q>presentation experience</q> as well as more specific names for particular programs or techniques, such as <q>R- statistical programs</q> or <q>Microsoft Excel.</q> You can include as many skills as you like, but limit yourself to only those skills that are relevant to the specific job. Bold those skills that are more pertinent than others, and use two-column formatting to save space.</p>
             <figure>
-                <image width="100%" source="images/relevantskills"/>
+                <!-- <image width="100%" source="images/relevantskills"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
@@ -272,7 +272,7 @@
                     <p>While bold and italics can in some instance highlight those skills you most want to showcase, be selective with the emphases you use. Typically, it is best to place emphasis on (in whichever way, based on your preferences): your name, your degree, school, and GPA (if applicable), titles of positions held, titles of specific research projects, and any specific skills you want to draw attention to in the <q>Skills</q> section. Dates of work experiences can also be right-aligned to preserve a sense of aesthetic balance to your resume. Above all, try to figure out a professional-looking format that works best for you and your experiences and keep it consistent throughout.</p>
                 </li>
             </dl></p>
-            <p>For more tips and tricks on how to write a great cover letter, see this <q>Resume Packet</q> from the Career and Employment Services webpage (<url href="https://www.pugetsound.edu/files/resources/4663_ResumePacket2012.pdf">https://www.pugetsound.edu/files/resources/4663_ResumePacket2012.pdf</url>). Remember that you can always bring in your resume drafts to the Career and Employment Services Office (Howarth Hall 101) and the CWLT (Howarth 109) for editing and revising ideas!</p>
+            <p>For more tips and tricks on how to write a great cover letter, see this <q>Resume Packet</q> from the Career and Employment Services webpage (<url href="https://www.pugetsound.edu/files/resources/4663_ResumePacket2012.pdf"/>). Remember that you can always bring in your resume drafts to the Career and Employment Services Office (Howarth Hall 101) and the CWLT (Howarth 109) for editing and revising ideas!</p>
         </paragraphs>
     </section>
     <section>
@@ -281,7 +281,7 @@
             <title>Why write a thank-you note?</title>
             <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at Career and Employment Services by visiting their office in Howarth 101, calling 253-879-3161, emailing ces@pugetsound.edu, or visiting their website at http://www.pugetsound.edu/about/offices-services/ces/). However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
             <figure>
-                <image width="100%" source="images/thankyou"/>
+                <!-- <image width="100%" source="images/thankyou"/> -->
             </figure>
         </paragraphs>
         <paragraphs>
