@@ -7,12 +7,12 @@
     </introduction>
     <section>
         <title>Writing with Awareness</title>
-        <p><term>Ethnocentrism</term> and <term>Global Awareness.</term> When people consider their culture superior to other cultures, or when they view and evaluate other cultures through the lens of their own culture, we say that they are being ethnocentric. Ethnocentrism can be difficult to avoid because it is not always easy to recognize how your cultural lens affects your world<ndash/>view. While you may perceive your way of living as the best and most valid, global awareness encourages us to remember that there are other, equally valid lifestyles and experiences. In order to write with global awareness, then, you should avoid writing ethnocentrically. Here are some questions to ask yourself as you write:<ul>
+        <p><term>Ethnocentrism</term> and <term>Global Awareness.</term> When people consider their culture superior to other cultures, or when they view and evaluate other cultures through the lens of their own culture, we say that they are being ethnocentric. Ethnocentrism can be difficult to avoid because it is not always easy to recognize how your cultural lens affects your world-view. While you may perceive your way of living as the best and most valid, global awareness encourages us to remember that there are other, equally valid lifestyles and experiences. In order to write with global awareness, then, you should avoid writing ethnocentrically. Here are some questions to ask yourself as you write:<ul>
         <li>Am I making broad generalizations, or do I write with complexity and nuance about people who are different than me?</li>
         <li>Am I making value judgments about other ways of living? If so, are they appropriate to the specific discipline or course for which I'm writing?</li>
         <li>Do I use thorough and fair scholarly sources?</li>
         <li>Are all of my claims supported with evidence?</li>
-        <li>Do my warrants (the logic connecting my evidence to my claims) rely on Western/American definitions or world<ndash/>views (e.g. evidence: a certain group of people still uses hunting and gathering as its primary mode of subsistence, claim: people in this group are uncivilized, warrant: <q>civilization</q> is defined by advanced agriculture)?</li></ul></p>
+        <li>Do my warrants (the logic connecting my evidence to my claims) rely on Western/American definitions or world-views (e.g. evidence: a certain group of people still uses hunting and gathering as its primary mode of subsistence, claim: people in this group are uncivilized, warrant: <q>civilization</q> is defined by advanced agriculture)?</li></ul></p>
     </section>
     <section>
         <title>Writing with Respect</title>
@@ -25,11 +25,13 @@
     </section>
     <section>
         <title>Inclusive Language</title>
+        <introduction>
+            <figure>
+                <image source="images/LM-LanguageAndPower"/>
+            </figure>
+        </introduction>
         <subsection>
             <title>Non-Sexist language</title>
-            <figure>
-                <image width="50%" source="images/LM-LanguageAndPower"/>
-            </figure>
             <list>
                 <title>Helpful terms to know</title>
                 <dl>
@@ -221,12 +223,12 @@
         <title>Varieties of English</title>
 
         <paragraphs xml:id="AAVE">
-            <title>African<ndash/>American Vernacular English</title>
-            <p><xref ref="AAVE">African<ndash/>American Vernacular English</xref> (<xref ref="AAVE"><init>AAVE</init></xref>), also called African<ndash/>American English (<init>AAE</init>), Black English (<init>BE</init>), and Black English Vernacular (<init>BEV</init>) is a variety of English characterized by a few distinct grammatical and phonological rules.</p>
+            <title>African-American Vernacular English</title>
+            <p><xref ref="AAVE">African-American Vernacular English</xref> (<xref ref="AAVE"><init>AAVE</init></xref>), also called African-American English (<init>AAE</init>), Black English (<init>BE</init>), and Black English Vernacular (<init>BEV</init>) is a variety of English characterized by a few distinct grammatical and phonological rules.</p>
         </paragraphs>
         <paragraphs xml:id="SAE">
             <title>Standard American English</title>
-            <p>While many speakers of <xref ref="SAE">Standard American English</xref> (<xref ref="SAE"><init>SAE</init></xref>), especially those in power, see <xref ref="AAVE"><init>AAVE</init></xref> as simply <sq>incorrect,</sq> slang, or <sq>broken</sq> English, <xref ref="AAVE"><init>AAVE</init></xref> is as rule<ndash/>bound and correct in its own context as any other language or language variety. Being rule<ndash/>bound means that there are consistent rules in <xref ref="AAVE"><init>AAVE</init></xref> that dictate what a speaker can and cannot do. Below are several examples of these rules.</p>
+            <p>While many speakers of <xref ref="SAE">Standard American English</xref> (<xref ref="SAE"><init>SAE</init></xref>), especially those in power, see <xref ref="AAVE"><init>AAVE</init></xref> as simply <sq>incorrect,</sq> slang, or <sq>broken</sq> English, <xref ref="AAVE"><init>AAVE</init></xref> is as rule-bound and correct in its own context as any other language or language variety. Being rule-bound means that there are consistent rules in <xref ref="AAVE"><init>AAVE</init></xref> that dictate what a speaker can and cannot do. Below are several examples of these rules.</p>
         </paragraphs>
 
         <list xml:id="comparing-SAE-and-AAVE">
@@ -234,7 +236,7 @@
             <ol>
                 <li>
                     <title>Third person singular</title>
-                    <p>The third person singular consists of <sq>he</sq> and <sq>she</sq> (and <sq>they,</sq> when it's used as a gender<ndash/>neutral, third<ndash/>person singular). <xref ref="SAE"><init>SAE</init></xref> conjugates the third person singular with an <ndash/>s, so <q>to say</q> becomes conjugated as <q>she says.</q> In <xref ref="AAVE"><init>AAVE</init></xref>, the rule for conjugating third person singular does not include adding an <ndash/>s, so <xref ref="AAVE"><init>AAVE</init></xref> speakers would say <q>she say.</q></p>
+                    <p>The third person singular consists of <sq>he</sq> and <sq>she</sq> (and <sq>they,</sq> when it's used as a gender-neutral, third-person singular). <xref ref="SAE"><init>SAE</init></xref> conjugates the third person singular with an -s, so <q>to say</q> becomes conjugated as <q>she says.</q> In <xref ref="AAVE"><init>AAVE</init></xref>, the rule for conjugating third person singular does not include adding an -s, so <xref ref="AAVE"><init>AAVE</init></xref> speakers would say <q>she say.</q></p>
                 </li>
                 <li>
                     <title>Multiple negation</title>
@@ -254,7 +256,7 @@
                 </li>
                 <li>
                     <title>Pronunciation of voiced <q>th</q> as <q>d</q> or <q>v</q></title>
-                    <p>In <xref ref="AAVE"><init>AAVE</init></xref>, the voiced <q>th</q> (as found in words like then, that, weather, either, and father) is often pronounced as <q>d</q> (such as den, dat) or as <q>v</q> (such as eiver, faver). Similarly to the last point, these shifts are rule<ndash/>bound. <xref ref="AAVE"><init>AAVE</init></xref> speakers would not say <q>fen or fat</q> instead of <q>then or that,</q> nor would they say <q>bav or toov</q> instead of <q>bath or tooth.</q> Because these pronunciations are rule<ndash/>bound, there are specific ways in which speakers can and cannot use each pronunciation.</p>
+                    <p>In <xref ref="AAVE"><init>AAVE</init></xref>, the voiced <q>th</q> (as found in words like then, that, weather, either, and father) is often pronounced as <q>d</q> (such as den, dat) or as <q>v</q> (such as eiver, faver). Similarly to the last point, these shifts are rule-bound. <xref ref="AAVE"><init>AAVE</init></xref> speakers would not say <q>fen or fat</q> instead of <q>then or that,</q> nor would they say <q>bav or toov</q> instead of <q>bath or tooth.</q> Because these pronunciations are rule-bound, there are specific ways in which speakers can and cannot use each pronunciation.</p>
                     <p>(If you're familiar with linguistics or IPA, you might also notice that <q>t</q> and <q>d</q> have the same place and manner of articulation, but <q>t</q> is voiceless and <q>d</q> is voiced. <q>F</q> and <q>v</q> also have the same place and manner of articulation, but <q>f</q> is voiceless and <q>v</q> is voiced.)</p>
                 </li>
                 <li>
@@ -262,8 +264,8 @@
                     <p><xref ref="SAE"><init>SAE</init></xref> speakers use <q>your</q> and <q>their</q> for these possessive forms. For situations in which <xref ref="SAE"><init>SAE</init></xref> speakers would make statements like <q>That's your dog [referring to multiple people],</q> or <q>Here's their car,</q> <xref ref="AAVE"><init>AAVE</init></xref> speakers would say, <q>That's y'all dog,</q> and <q>Here's they car.</q></p>
                 </li>
                 <li>
-                    <title>Post<ndash/>vocalic R deletion</title>
-                    <p><xref ref="AAVE"><init>AAVE</init></xref> speakers delete the <q>r</q> sound following vowels and preceding consonants, most frequently when the R is at the end of a word. Examples of post<ndash/>vocalic R deletion include <q>fo' dogs</q> or <q>mo' trees,</q> instead of <xref ref="SAE"><init>SAE</init></xref>'s pronunciation, <q>four dogs</q> or <q>more trees.</q></p>
+                    <title>Post-vocalic R deletion</title>
+                    <p><xref ref="AAVE"><init>AAVE</init></xref> speakers delete the <q>r</q> sound following vowels and preceding consonants, most frequently when the R is at the end of a word. Examples of post-vocalic R deletion include <q>fo' dogs</q> or <q>mo' trees,</q> instead of <xref ref="SAE"><init>SAE</init></xref>'s pronunciation, <q>four dogs</q> or <q>more trees.</q></p>
                 </li>
                 <li>
                     <title>Unstressed and stressed been/bin</title>

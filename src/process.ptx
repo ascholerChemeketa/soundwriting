@@ -2,18 +2,14 @@
 <chapter xml:id="the-writing-process">
     <title>The Writing Process</title>
     <introduction>
-        <p>While writing can be a difficult process, it often feels more daunting before you start than when you are actually doing it. If you are intimidated by the thought of writing (as many are), you may find reassurance in this nugget of wisdom: <em>the writing process is not just about writing!</em> In actuality, the writing process starts long before you write anything on the page and continues long after you've written your first draft. Just as developing your argument is a process, so too is translating that argument into written form. A significant portion of the writing process is composed of research, argument development, brainstorming, planning, and outlining, all of which take place before you begin composing content. And even after you've finished a draft, you may spend just as much or more time revising, editing, and changing your paper as you spent writing it. The writing process is messy, uncertain, and chock<ndash/>full of switchbacks, revisions, and gaps in the road, but it can also be empowering, rewarding, and manageable if you take it a step at a time.</p>
+        <p>While writing can be a difficult process, it often feels more daunting before you start than when you are actually doing it. If you are intimidated by the thought of writing (as many are), you may find reassurance in this nugget of wisdom: <em>the writing process is not just about writing!</em> In actuality, the writing process starts long before you write anything on the page and continues long after you've written your first draft. Just as developing your argument is a process, so too is translating that argument into written form. A significant portion of the writing process is composed of research, argument development, brainstorming, planning, and outlining, all of which take place before you begin composing content. And even after you've finished a draft, you may spend just as much or more time revising, editing, and changing your paper as you spent writing it. The writing process is messy, uncertain, and chock-full of switchbacks, revisions, and gaps in the road, but it can also be empowering, rewarding, and manageable if you take it a step at a time.</p>
     </introduction>
     <section>
         <title>Brainstorming</title>
-        <sidebyside widths="45% 45%">
-            <paragraphs>
-                <p>Before you begin to write, first think about how you like to think. Do you prefer talking through your ideas? Writing down everything that's going through your mind? Drawing? Mapping? There is no right or wrong way to brainstorm. Figure out what works best for you, and then use that knowledge to develop brainstorming skills that are specific to <em>you</em>.</p>
-            </paragraphs>
-            <figure>
-                <image source="images/WP-Brain"/>
-            </figure>
-        </sidebyside>
+        <p>Before you begin to write, first think about how you like to think. Do you prefer talking through your ideas? Writing down everything that's going through your mind? Drawing? Mapping? There is no right or wrong way to brainstorm. Figure out what works best for you, and then use that knowledge to develop brainstorming skills that are specific to <em>you</em>.</p>
+        <figure>
+            <image source="images/WP-Brain"/>
+        </figure>
         <p>Some brainstorming strategies:</p>
         <ul>
             <li><p>Talk to a friend about your topic, ideas, and potential arguments.</p></li>
@@ -27,7 +23,7 @@
             <li><p>Think about your topic while you are doing something else, like yoga, cooking, or reading a book for pleasure.</p></li>
         </ul>
         <figure>
-            <image width="50%" source="images/WP-Yoga"/>
+            <image source="images/WP-Yoga"/>
         </figure>
     </section>
     <section xml:id="planning">
@@ -35,11 +31,11 @@
         <introduction>
             <p>So now that you have a ton of ideas all jockeying for attention in your brain, it's time to sit down, consolidate those thoughts, and plan out what you are going to write. But before you can begin, there are a few things you'll need to address that will help make the planning process go as smoothly and productively as possible.</p>
             <figure>
-                <image width="25%" source="images/WP-Question"/>
+                <image source="images/WP-Question"/>
             </figure>
         </introduction>
         <subsection>
-            <title>Pre<ndash/>planning Questions</title>
+            <title>Pre-planning Questions</title>
             <dl>
                 <li>
                     <title>Determine the purpose of your paper.</title>
@@ -55,10 +51,10 @@
                 </li>
                 <li>
                     <title>Figure out a format.</title>
-                    <p>How will you format your paper? Is it a descriptive essay? An argumentative paper? Compare<ndash/>contrast? Or perhaps a close reading of a primary source? In order to help you answer this question, go back to the assignment prompt and figure out what it is asking for. This will help you determine the most appropriate structure for your paper and argument.</p>
+                    <p>How will you format your paper? Is it a descriptive essay? An argumentative paper? Compare-contrast? Or perhaps a close reading of a primary source? In order to help you answer this question, go back to the assignment prompt and figure out what it is asking for. This will help you determine the most appropriate structure for your paper and argument.</p>
                     <assemblage>
                         <title>An important note!</title>
-                        <p>Don't feel confined by the <q>5<ndash/>Paragraph Essay</q> you may have learned in middle/high school! This basic format is insufficient for college academia, and professors will encourage you to break free of it in your writing responses. Rather than letting this intimidate you, try to view it as a liberation: let the complexity and nuance of your argument guide you towards the structure that works best for you.</p>
+                        <p>Don't feel confined by the <q>5-Paragraph Essay</q> you may have learned in middle/high school! This basic format is insufficient for college academia, and professors will encourage you to break free of it in your writing responses. Rather than letting this intimidate you, try to view it as a liberation: let the complexity and nuance of your argument guide you towards the structure that works best for you.</p>
                     </assemblage>
                 </li>
                 <li>
@@ -69,25 +65,13 @@
         </subsection>
         <subsection>
             <title>Some Planning Strategies</title>
-            <sidebyside widths="52.5% 37.5%">
-                <paragraphs>
-                    <p>There are several planning strategies to help you bridge the gap between the disorganized chaos of brainstorming and the more comprehensible structure of outlining:</p>
-                </paragraphs>
-                <figure>
-                    <image source="images/WP-PlanningHead"/>
-                </figure>
-            </sidebyside>
+            <p>There are several planning strategies to help you bridge the gap between the disorganized chaos of brainstorming and the more comprehensible structure of outlining:</p>
+            <figure>
+                <image source="images/WP-PlanningHead"/>
+            </figure>
             <paragraphs>
                 <title>Mind map</title>
-                <sidebyside widths="37.5% 57.5%">
-                    <figure>
-                        <image source="images/WP-Mindmap"/>
-                    </figure>
-                    <paragraphs>
-                        <p>Mind maps can help you organize your ideas further by identifying different parts of your argument and drawing connections between them. Start with your main idea or topic in the center of the page. Then write down subheadings for everything you think is important for understanding your argument around this main idea. Then write down the pieces of evidence or the reasons you believe your argument beneath each of these subheadings. Finally, use arrows, pictures, or words to draw connections between the main idea, subheadings, and pieces of evidence. For a more visual approach, draw heavier lines or multiple arrows between the relationships that are the strongest so you can identify where your argument is the most convincing. Ask yourself questions like:</p>
-                    </paragraphs>
-                </sidebyside>
-                <ul>
+                <p>Mind maps can help you organize your ideas further by identifying different parts of your argument and drawing connections between them. Start with your main idea or topic in the center of the page. Then write down subheadings for everything you think is important for understanding your argument around this main idea. Then write down the pieces of evidence or the reasons you believe your argument beneath each of these subheadings. Finally, use arrows, pictures, or words to draw connections between the main idea, subheadings, and pieces of evidence. For a more visual approach, draw heavier lines or multiple arrows between the relationships that are the strongest so you can identify where your argument is the most convincing. Ask yourself questions like:<ul>
                     <li><p>Do your subheadings all lead to the main idea?</p></li>
                     <li><p>Are they all supporting one part of the argument or do they support different parts?</p></li>
                     <li><p>Do they offer different or competing perspectives?</p></li>
@@ -95,7 +79,10 @@
                     <li><p>Are there any connections between the subheadings? Between the pieces of evidence?</p></li>
                     <li><p>Does all of your evidence come from the same source? (This might be okay in an assignment like a close reading or analysis of a primary source, but things like research papers often require a variety of different sources. Look to your assignment sheet for more guidelines on how many/what kind of sources to use.)</p></li>
                     <li><p>Is there any information or evidence you want to include but don't know where to put? Is it necessary for your argument? (Create a list of these off to the side so you don't forget them.)</p></li>
-                </ul>
+                </ul></p>
+                <figure>
+                    <image source="images/WP-Mindmap"/>
+                </figure>
             </paragraphs>
             <paragraphs>
                 <title>Freewriting</title>
@@ -109,15 +96,11 @@
             </paragraphs>
             <paragraphs>
                 <title>Drawing</title>
-                <sidebyside widths="45% 45%">
-                    <paragraphs>
-                        <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic<ndash/>stylized picture for each step of your argument. You do you!</p>
-                    </paragraphs>
-                    <figure>
-                        <image source="images/WP-ChalkboardTip"/>
-                    </figure>
-                </sidebyside>
+                <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argumendt you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
             </paragraphs>
+            <figure>
+                <image source="images/WP-ChalkboardTip"/>
+            </figure>
         </subsection>
     </section>
     <section xml:id="outlining">
@@ -126,7 +109,7 @@
             <p>While outlining might take up precious writing time in your schedule, the payoff is worth it! By clearly organizing your ideas in a way that makes sense to you, you give yourself a guide to follow while you're writing. The act of making an outline also requires you to write down all of your brilliant ideas so that, by the time you start writing, you don't forget what you've come up with. Use what you've developed during your brainstorming and planning sessions to create a more cohesive, organized, and complete outline that contains the major parts of your argument: your introduction, thesis, supporting claims, evidence, and conclusion. Remember that while ordering your claims you should try to think of your essay as a progression rather than a series of points; each claim should both respond to and build off of the previous one. Just as with brainstorming, your outline can be in any form that works best with the structure of the assignment and the way you want to think about your paper. While you're creating your outline, ask yourself these types of questions:</p>
             <ul>
                 <li><p>Do each of your claims follow a purposeful pattern or sequence?</p></li>
-                <li><p>Is this pattern chronological? Logic<ndash/>based? In order of importance? Compare/contrast?</p></li>
+                <li><p>Is this pattern chronological? Logic-based? In order of importance? Compare/contrast?</p></li>
                 <li><p>Are you giving your audience everything they need to fully understand your argument?</p></li>
                 <li><p>Does the order of your claims merely list points or does it culminate towards a larger argument?</p></li>
                 <li><p>Does your argument naturally follow from the claims you presented, in the order you presented them?</p></li>
@@ -136,50 +119,34 @@
         </introduction>
         <subsection>
             <title>The Classic Outline</title>
-            <sidebyside widths="50% 45%">
+                <p>The classic outline is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
                 <figure>
                     <image source="images/WP-ClassicOutline"/>
                 </figure>
-                <paragraphs>
-                    <p>The classic outline is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
-                </paragraphs>
-            </sidebyside>
         </subsection>
         <subsection xml:id="the-bubble-map">
             <title>The Bubble Map</title>
-            <sidebyside widths="50% 45%">
-                <figure>
-                    <image source="images/WP-BubbleMap"/>
-                </figure>
-                <paragraphs>
-                    <p>The bubble map is a great option for writers who prefer a less structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
-                </paragraphs>
-            </sidebyside>
+            <p>The bubble map is a great option for writers who prefer a less structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
+            <figure>
+                <image source="images/WP-BubbleMap"/>
+            </figure>
         </subsection>
         <subsection>
             <title>The Flowchart</title>
-            <sidebyside widths="50% 45%">
-                <figure>
-                    <image source="images/WP-Flowchart"/>
-                </figure>
-                <paragraphs>
-                    <p>Flowcharts work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept<ndash/>based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini<ndash/>flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
-                </paragraphs>
-            </sidebyside>
+            <p>Flowcharts work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
+            <figure>
+                <image source="images/WP-Flowchart"/>
+            </figure>
         </subsection>
     </section>
     <section>
         <title>Introductions</title>
         <subsection>
             <title>Role of the introduction (road map)</title>
-            <sidebyside widths="50% 45%">
-                <figure>
-                    <image source="images/WP-RoadMap"/>
-                </figure>
-                <paragraphs>
-                    <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road<ndash/>map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not they will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
-                </paragraphs>
-            </sidebyside>
+            <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road-map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not they will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
+            <figure>
+                <image source="images/WP-RoadMap"/>
+            </figure>
         </subsection>
         <subsection>
             <title>Anatomy of the introduction</title>
@@ -206,19 +173,19 @@
             </ul>
             <paragraphs>
                 <title>Response to the problem (thesis)</title>
-                <p>After destabilizing the common ground by posing the problem and stating the potential consequences of incomplete knowledge, you may now give your audience some stable footing (don't just leave them hanging!). You can do this by providing the audience with your resolution to the stated problem<mdash/>this is also known as your thesis statement (for tips on thesis development, see <xref ref="thesis-development" autoname="yes"/>). Your thesis statement should include a clear assertion of your argument that reflects the general organization of the paper, what kinds of information you will be using, and how you will be using that information to make your argument. There are a few different ways you may frame your thesis statement. You can offer the solution as the main point of the paper, promising to explicate it in depth throughout your response; this is called a <q>point<ndash/>first</q> structure. You may also want to detail the problem at length, explore various solutions, and finally offer a solution at the very end of the paper; this structure is called <q>point<ndash/>last.</q> Whichever structure you choose should be the one best suited to your argument and what you want the main focus of your paper to be.</p>
+                <p>After destabilizing the common ground by posing the problem and stating the potential consequences of incomplete knowledge, you may now give your audience some stable footing (don't just leave them hanging!). You can do this by providing the audience with your resolution to the stated problem<mdash/>this is also known as your thesis statement (for tips on thesis development, see <xref ref="thesis-development" autoname="yes"/>). Your thesis statement should include a clear assertion of your argument that reflects the general organization of the paper, what kinds of information you will be using, and how you will be using that information to make your argument. There are a few different ways you may frame your thesis statement. You can offer the solution as the main point of the paper, promising to explicate it in depth throughout your response; this is called a <q>point-first</q> structure. You may also want to detail the problem at length, explore various solutions, and finally offer a solution at the very end of the paper; this structure is called <q>point-last.</q> Whichever structure you choose should be the one best suited to your argument and what you want the main focus of your paper to be.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>Strategies for writing effective introductions</title>
-            <p>Now that you have the basic tools you need to write an effective introduction, here are some tips and strategies to get you in the intro<ndash/>writing mood.</p>
+            <p>Now that you have the basic tools you need to write an effective introduction, here are some tips and strategies to get you in the intro-writing mood.</p>
             <paragraphs>
                 <title>Introductions shouldn't necessarily be written first!</title>
                 <p>Even though it appears first in your paper, the introduction is generally not the first thing you write. Oftentimes you need to have a solid thesis and maybe some of your body paragraphs<mdash/>maybe even your whole paper<mdash/>before you begin writing your introduction. Your introduction is supposed to prepare the reader for what to expect in your paper, so it's usually better to wait to write it until you have a really strong idea of where you're headed. This being said, if you feel like writing the introduction will help you develop a path forward, go for it! Just keep in mind that it will likely change as you move through the rest of your paper.</p>
             </paragraphs>
             <paragraphs>
-                <title>Consider your introduction the <q>road<ndash/>map</q> to your paper.</title>
-                <p>While writing your introduction, you should prepare the audience for what's ahead. To this end, your thesis should reflect the general organization of your argument. However, if you find you need more room to elaborate on the paper's organization, you may also find it helpful to include a clear road<ndash/>map for what you plan to accomplish. For instance, <q>First, I will explore this issue. Then, I will look at the issue from this perspective. Finally, I will bring these two first parts together to examine the issue in this way.</q> Don't be afraid to tell the audience exactly what they should expect from you and your argument; doing so establishes you as the authority, provides your audience with a compass to guide them through your paper, and disables the risk of any surprises sneaking through that may take your audience off guard.</p>
+                <title>Consider your introduction the <q>road-map</q> to your paper.</title>
+                <p>While writing your introduction, you should prepare the audience for what's ahead. To this end, your thesis should reflect the general organization of your argument. However, if you find you need more room to elaborate on the paper's organization, you may also find it helpful to include a clear road-map for what you plan to accomplish. For instance, <q>First, I will explore this issue. Then, I will look at the issue from this perspective. Finally, I will bring these two first parts together to examine the issue in this way.</q> Don't be afraid to tell the audience exactly what they should expect from you and your argument; doing so establishes you as the authority, provides your audience with a compass to guide them through your paper, and disables the risk of any surprises sneaking through that may take your audience off guard.</p>
             </paragraphs>
             <paragraphs>
                 <title>Introductions can be multiple paragraphs.</title>
@@ -227,41 +194,35 @@
             <paragraphs>
                 <title>Start with something concise, engaging, and applicable.</title>
                 <p>Crafting the opening sentence of your introduction can be a daunting task, especially as it sets the tone for your argument, introduces the topic of your paper, and is the first thing your audience will read. Thinking about how broad or specific to start can be useful in helping you figure out the appropriate scope for your introduction. For instance, many introductions start with a broader statement and then narrow in scope as they begin to focus in on the specific problem and the thesis. While this is a useful structure to use, it's important to keep in mind that the <q>broader</q> opening statement should still be specific to your topic, interesting, and relevant to what you will be discussing. For example, you probably shouldn't start a research paper about the destruction of the Sundarbans mangrove forest with the opening statements, <q>Forests are inherently valuable to mankind</q> or <q>Mankind is destroying the Earth's natural resources.</q> Both of these statements are too broad to generate much interest and don't really indicate what the paper will be about. Consider instead the opening statement:<blockquote><q>Comprising the largest block of mangrove forest globally and accounting for 3<percent/> of global mangrove area, the Sundarbans of Eastern India and Bangladesh are biogeographically, ecologically, and culturally unique in their species biodiversity and ecosystem services.</q></blockquote></p>
-            </paragraphs>
-            <sidebyside widths="40% 60%">
                 <figure>
                     <image source="images/WP-AccentTree"/>
                 </figure>
-                <paragraphs>
-                    <p>This statement is specific, interesting, and introduces the topic at hand. However, it's also broad enough to hint at the bigger picture while opening the floor to a more specific problem or insight. While there are a variety of different ways to craft an interesting and relevant opening to your introduction, there are some opening statement types that are generally too broad, obvious, informal, over<ndash/>used, or boring to be employed in academic writing and, as a result, should be avoided. (However, it's important to remember that the type of opening statement obviously depends on the discipline and type of writing assignment; therefore, rather than strictly adhering to this list, use it as a guide.)</p>
-                </paragraphs>
-            </sidebyside>
-            <p>Opening Statements to Avoid in Academic Writing:</p>
-            <ul>
+                <p>This statement is specific, interesting, and introduces the topic at hand. However, it's also broad enough to hint at the bigger picture while opening the floor to a more specific problem or insight. While there are a variety of different ways to craft an interesting and relevant opening to your introduction, there are some opening statement types that are generally too broad, obvious, informal, over-used, or boring to be employed in academic writing and, as a result, should be avoided. (However, it's important to remember that the type of opening statement obviously depends on the discipline and type of writing assignment; therefore, rather than strictly adhering to this list, use it as a guide.)</p>
+            </paragraphs>
+            <p>Opening Statements to Avoid in Academic Writing:<ul>
                 <li><p>Vague and sweeping statements (<q>Since the dawn of mankind<nbsp/><ellipsis/>,</q> <q>Since the beginning of time<nbsp/><ellipsis/>,</q> <q>The truth is<nbsp/><ellipsis/>,</q> <q>Writers have always<nbsp/><ellipsis/></q>)</p></li>
                 <li><p>Restated questions (<q>Is the sky blue? Yes, it is.</q>)</p></li>
                 <li><p>Quotes (<q>Helen Keller once said, <sq>Optimism is the faith that leads to achievement.</sq></q>)</p></li>
-                <li><p>Definitions (<q>According to the Merriam<ndash/>Webster definition<nbsp/><ellipsis/></q>)</p></li>
+                <li><p>Definitions (<q>According to the Merriam-Webster definition<nbsp/><ellipsis/></q>)</p></li>
                 <li><p>Cliches or common adages (<q>History repeats itself<nbsp/><ellipsis/>,</q> <q>Once upon a time<nbsp/><ellipsis/></q>)</p></li>
                 <li><p>Citing a statistic (<q>98<percent/> of people believe<nbsp/><ellipsis/></q>)</p></li>
-            </ul>
+            </ul></p>
             <p>Instead, try beginning with some of these opening statement types<nbsp/><ellipsis/></p>
-            
             <p>Effective Opening Statements:</p>
             <ul>
                 <li><p>Describe a location, person, scene, or anecdote.</p></li>
                 <li><p>Elucidate an interesting example.</p></li>
                 <li><p>Highlight a startling fact, paradox, or puzzling insight.</p></li>
-                <li><p>Challenge a publically<ndash/>accepted assumption.</p></li>
+                <li><p>Challenge a publically-accepted assumption.</p></li>
                 <li><p>Provide relevant and interesting information about the historical time period/setting.</p></li>
                 <li><p>Offer a provocative statement of the problem.</p></li>
             </ul>
             <p>For more ideas on how to begin, organize, and end introductions, take a look at the following examples (underlined portions indicate thesis statements):</p>
             <example>
-                <p>Discourse has profound effects on how we view reality, particularly in regard to gender roles. Due to our society's political correctness, much of the sexism that pervades modern thought is implicit; commentators make thinly veiled metaphors instead of declarations. This implicit bias is nothing new, as it dates back to ancient times. Many literary critics have embraced Homer's <em>Odyssey</em> as a departure from the explicit sexism of pre<ndash/>Judea Greece, claiming that the centrality of female characters to the epic poem is a formal challenge to the ivory<ndash/>laden walls of male domination. <un s="1">While women do have a substantial presence in the <em>Odyssey</em>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <em>Odyssey</em> primarily reinforces the chauvinist framework through which we view the world.</un></p>
+                <p>Discourse has profound effects on how we view reality, particularly in regard to gender roles. Due to our society's political correctness, much of the sexism that pervades modern thought is implicit; commentators make thinly veiled metaphors instead of declarations. This implicit bias is nothing new, as it dates back to ancient times. Many literary critics have embraced Homer's <em>Odyssey</em> as a departure from the explicit sexism of pre-Judea Greece, claiming that the centrality of female characters to the epic poem is a formal challenge to the ivory-laden walls of male domination. <un s="1">While women do have a substantial presence in the <em>Odyssey</em>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <em>Odyssey</em> primarily reinforces the chauvinist framework through which we view the world.</un></p>
             </example>
             <example>
-                <p>In early nineteenth century America, the market revolution raised questions about the nature of a democratic republic. This political discussion was brought about by the development of an industrial working class, landless, economically<ndash/>dependent, and steadily increasing. While the <q>majority</q> within the United States during this time period did not consist solely of economically<ndash/>dependent industrial workers, they were was becoming a larger percentage of the majority as the country continued to industrialize<mdash/>and were beginning to clamor for more representation in the government. This posed a threat to the wealthy, economically<ndash/>independent class of rich landowners, businessmen and lawyers who had traditionally held government office. Facing increasing numbers of the industrial class, the politically<ndash/>established sought for ways to maintain their political influence. Essentially, the two classes were debating over the answer to the fundamental question regarding which group, the majority or the minority, should have greater access to governmental power. Within the greater context of this dispute, universal male suffrage was a smaller topic that reflected the same tensions revolving around this extremely significant political question. <un s="1">The relationship between the two debates was forged by the underlying theme concerning access to the government; universal male suffrage was a microcosm of the tension between the principle of majoritarianism and the preservation of minority rights concerning their places within the government. This question would significantly shape the political discourse in the United States for much of the nineteenth century.</un></p>
+                <p>In early nineteenth century America, the market revolution raised questions about the nature of a democratic republic. This political discussion was brought about by the development of an industrial working class, landless, economically-dependent, and steadily increasing. While the <q>majority</q> within the United States during this time period did not consist solely of economically-dependent industrial workers, they were was becoming a larger percentage of the majority as the country continued to industrialize<mdash/>and were beginning to clamor for more representation in the government. This posed a threat to the wealthy, economically-independent class of rich landowners, businessmen and lawyers who had traditionally held government office. Facing increasing numbers of the industrial class, the politically-established sought for ways to maintain their political influence. Essentially, the two classes were debating over the answer to the fundamental question regarding which group, the majority or the minority, should have greater access to governmental power. Within the greater context of this dispute, universal male suffrage was a smaller topic that reflected the same tensions revolving around this extremely significant political question. <un s="1">The relationship between the two debates was forged by the underlying theme concerning access to the government; universal male suffrage was a microcosm of the tension between the principle of majoritarianism and the preservation of minority rights concerning their places within the government. This question would significantly shape the political discourse in the United States for much of the nineteenth century.</un></p>
             </example>
             <example>
                 <p>Immigration has been synonymous with the United States of America since the days of the founding Fathers. In the ten years following 1980, 668,866 European immigrants moved away from their homes, their families, and their jobs to craft a new life in the United States. During the presidency of Lyndon B. Johnson, the Immigration Act of 1965 removed the discriminatory quota system from United States immigration laws. The quota system was undesirable for a variety of reasons. One key cause at the core of the quest to change this system was that it allowed only a specific proportion of immigrants into the country. This proportion was representative not of the populous of the country in 1965, but of what America had looked like after the census of 1920. To put this into perspective, the number of immigrants allowed into the country from Western Europe was vastly greater than the number of immigrants allowed into the country from Asia and Eastern Europe, leading some to believe that racial stereotyping played some part in immigration.</p>
@@ -276,10 +237,10 @@
         <title>Topic sentences, transitions, and body paragraphs</title>
         <subsection>
             <title>Topic sentences (compass)</title>
+            <p>If introductions are the road-maps to your argument, topic sentences are the compass coordinates you are using to keep your argument on track with your thesis. For this reason, topic sentences are among the most important components of your paper. Not only do they link each paragraph to your thesis, but they keep your audience (and you) oriented to your argument. Topic sentences should typically be stated at the beginning of each new paragraph and should do two things: 1) introduce the main idea of that paragraph and 2) transition from the previous one. They don't usually include specific details or pieces of evidence (that's what the rest of the paragraph is for), but rather preface the claims you will be making. A helpful way to think about topic sentences is if you were to highlight your thesis, topic sentences, and conclusion, you would have a pretty solid outline of your argument (for more on reverse outlining, see <xref ref="reverse-outlining" autoname="yes"/>). There are a few different strategies for writing topic sentences. One way might be to include tentative topic sentences in your outline and start with those as you write the corresponding body paragraphs. Another strategy may be to write the body paragraph first, read it over to determine the main idea, and then write the corresponding topic sentence at the top.</p>
             <figure>
-                <image width="25%" source="images/WP-ThesisCompass"/>
+                <image source="images/WP-ThesisCompass"/>
             </figure>
-            <p>If introductions are the road<ndash/>maps to your argument, topic sentences are the compass coordinates you are using to keep your argument on track with your thesis. For this reason, topic sentences are among the most important components of your paper. Not only do they link each paragraph to your thesis, but they keep your audience (and you) oriented to your argument. Topic sentences should typically be stated at the beginning of each new paragraph and should do two things: 1) introduce the main idea of that paragraph and 2) transition from the previous one. They don't usually include specific details or pieces of evidence (that's what the rest of the paragraph is for), but rather preface the claims you will be making. A helpful way to think about topic sentences is if you were to highlight your thesis, topic sentences, and conclusion, you would have a pretty solid outline of your argument (for more on reverse outlining, see <xref ref="reverse-outlining" autoname="yes"/>). There are a few different strategies for writing topic sentences. One way might be to include tentative topic sentences in your outline and start with those as you write the corresponding body paragraphs. Another strategy may be to write the body paragraph first, read it over to determine the main idea, and then write the corresponding topic sentence at the top.</p>
             <p>Here are some example topic sentences:</p>
             <example>
                 <ul>
@@ -313,17 +274,17 @@
         <subsection xml:id="transitions">
             <title>Transitions (signposts)</title>
             <figure>
-                <image width="50%" source="images/WP-TransitionSignpost"/>
+                <image source="images/WP-TransitionSignpost"/>
             </figure>
             <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
             <figure>
-                <image width="100%" source="images/WP-TransitionTable"/>
+                <image source="images/WP-TransitionTable"/>
             </figure>
         </subsection>
         <subsection>
             <title>Body Paragraphs (landmarks/sights)</title>
             <figure>
-                <image width="50%" source="images/WP-EvidenceBinoculars"/>
+                <image source="images/WP-EvidenceBinoculars"/>
             </figure>
             <p>Body paragraphs are the different <q>landmarks</q> of your essay. These are the spaces where you can offer evidence for your claims, explain how and why specific details support your claims (Toulmin's warrant), and discuss the implications each claim has for the overall argument. Each body paragraph should contain (at least) these five things:</p>
             <ol>
@@ -351,7 +312,7 @@
         <title>Conclusions</title>
         <introduction>
             <figure>
-                <image width="50%" source="images/WP-ConclusionCamera"/>
+                <image source="images/WP-ConclusionCamera"/>
             </figure>
         </introduction>
         <subsection>
@@ -393,7 +354,7 @@
                 <p>If you've ever spent time around young children, you are likely familiar with the <q>but, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a writing advisor read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
             </paragraphs>
             <figure>
-                <image width="25%" source="images/WP-ButWhy"/>
+                <image source="images/WP-ButWhy"/>
             </figure>
             <p>If you want some more ideas for writing effective conclusions, take a look at the following examples:</p>
             <example>
@@ -412,7 +373,7 @@
         <title>Research process while writing</title>
         <p><em>Revising your argument and adding new research.</em></p>
         <figure>
-            <image width="50%" source="images/research-process-not-linear"/>
+            <image source="images/research-process-not-linear"/>
         </figure>
         <p>The process of researching, writing, and revising is not linear. You don't stop researching when you start writing, and you don't stop researching or writing when you begin revising. As was mentioned in <xref ref="forming-your-argument" autoname="yes"/>, it is best to think of your initial thesis as a <term>working thesis</term>. During your research, writing, and revising process, your argument will (and should) change based on what you read and write. You may end up writing a completely different paper than you had originally envisioned, or your final thesis may simply be a revised and refined version of your working thesis. Regardless, as you write your first draft, it is important that you don't stop doing research. How, then, does your research process evolve with your writing?</p>
         <p>Research is initially very broad. You're trying to figure out what scholarship on your topic exists and where you might contribute to the scholarly conversation regarding that topic. As you work toward a thesis, that research will become increasingly specific because you have a better idea of what kind of sources and evidence you need and what kind of background your reader will need to make sense of your argument. Figuring out when to write, when to research, and when to revise can be difficult, so below are some tips and tricks to help you determine what to do and when to do it.</p>
@@ -432,7 +393,7 @@
                             <p><em>Sidenote:</em> Don't make a claim without the evidence to back it up.</p>
                         </li>
                         <li><p>look through your evidence and realize that some (or all) of the sources no longer pertain to your topic or argument.</p></li>
-                        <li><p>have an <q>ah<ndash/>ha!</q> moment that leads you to change direction such that your sources are no longer relevant.</p></li>
+                        <li><p>have an <q>ah-ha!</q> moment that leads you to change direction such that your sources are no longer relevant.</p></li>
                         <li><p>run out of sources and need to find more.</p></li>
                         <li><p>have nothing else to say and realize that you need to expand your research question and argument.</p></li>
                         <li><p>are repeatedly citing the same source (unless that source is what your paper is about!).</p></li>
@@ -448,7 +409,7 @@
                 </li>
                 <li>
                     <title>Compartmentalize</title>
-                    <p>Research can yield a lot of information (and books and browser tabs and open PDFs) in a short amount of time. Drowning in sources while mid<ndash/>draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (see Point 5 under <q>Tricks</q> below).</p>
+                    <p>Research can yield a lot of information (and books and browser tabs and open PDFs) in a short amount of time. Drowning in sources while mid-draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (see Point 5 under <q>Tricks</q> below).</p>
                 </li>
             </dl>
         </list>
@@ -465,21 +426,21 @@
                 </li>
                 <li>
                     <title>Leave notes to yourself while you're writing</title>
-                    <p>So you've done some research, started figuring out your ideas, and finally gotten into a groove when, all of a sudden, you stumble across something that you need to research more. But the thing is, you don't want to stop writing because you might lose your groove! What do you do? Fear not! You can always leave a note to yourself (like this! <q>Research more about penguins.</q> You might even <highlight>highlight</highlight> the note OR PUT IT IN ALL CAPS to remind yourself to go back and address it!), and continue your sentence as if you've already done the research. Especially since you can always go back and revise your sentence based on the new evidence you find, if you're mid<ndash/>thought and don't want to interrupt yourself, then don't!</p>
+                    <p>So you've done some research, started figuring out your ideas, and finally gotten into a groove when, all of a sudden, you stumble across something that you need to research more. But the thing is, you don't want to stop writing because you might lose your groove! What do you do? Fear not! You can always leave a note to yourself (like this! <q>Research more about penguins.</q> You might even <highlight>highlight</highlight> the note OR PUT IT IN ALL CAPS to remind yourself to go back and address it!), and continue your sentence as if you've already done the research. Especially since you can always go back and revise your sentence based on the new evidence you find, if you're mid-thought and don't want to interrupt yourself, then don't!</p>
                 </li>
                 <figure>
-                    <image width="25%" source="images/WP-CutePenguin"/>
+                    <image source="images/WP-CutePenguin"/>
                 </figure>
                 <li>
-                    <title>Color<ndash/>code</title>
-                    <p>If you like to color<ndash/>code, you might try using different colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: NEVER write in books from Collins! Save your sticky notes for those.)</p>
+                    <title>Color-code</title>
+                    <p>If you like to color-code, you might try using different colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: NEVER write in books from Collins! Save your sticky notes for those.)</p>
                 </li>
                 <li>
                     <title>Use technology</title>
-                    <p>Since most articles are quite long and you probably won't use every page from every article, save your PrintGreen for printing out your class readings and look into online PDF<ndash/>readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
+                    <p>Since most articles are quite long and you probably won't use every page from every article, save your PrintGreen for printing out your class readings and look into online PDF-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
                 </li>
                 <figure>
-                    <image width="50%" source="images/WP-LoggersLiveGreen"/>
+                    <image source="images/WP-LoggersLiveGreen"/>
                 </figure>
             </dl>
         </list>
@@ -489,14 +450,14 @@
         <introduction>
             <p>When we revise, we deal with both Higher Order Concerns (HOCs) and Lower Order Concerns (LOCs). HOCs include things such as the thesis, organization, topic sentences, and the use of evidence. LOCs include things like grammar and syntax. At the CWLT, we focus largely on HOCs.</p>
             <figure>
-                <image width="50%" source="images/WP-GoodThings"/>
+                <image source="images/WP-GoodThings"/>
             </figure>
             <p>As you're revising, pay attention to these HOCs:</p>
             <dl>
                 <li>
                     <title>Thesis</title>
                     <p>Is it argumentative? Does it gesture at the sequence of your essay? Is it specific?</p>
-                    <p>For instance, a statement such as <q>I dislike broccoli</q> does none of these things. But a statement more along the lines of <q>By recording and examining the verbal and non<ndash/>verbal reactions of college students to eating broccoli, I argue that broccoli provokes feelings of disgust from the majority of college students</q> encapsulates the argument, mentions the evidence to be examined, and hints at the progression of the essay.</p>
+                    <p>For instance, a statement such as <q>I dislike broccoli</q> does none of these things. But a statement more along the lines of <q>By recording and examining the verbal and non-verbal reactions of college students to eating broccoli, I argue that broccoli provokes feelings of disgust from the majority of college students</q> encapsulates the argument, mentions the evidence to be examined, and hints at the progression of the essay.</p>
                 </li>
                 <li>
                     <title>Topic Sentence</title>
@@ -527,13 +488,13 @@
                 </li>
             </dl>
             <figure xml:id="revision-checklist">
-                <image width="50%" source="images/revision-checklist.pdf"/>
+                <image source="images/revision-checklist.pdf"/>
             </figure>
         </introduction>
         <subsection xml:id="reverse-outlining">
             <title>Reverse Outlining</title>
-            <p>Have you ever gone to Abercrombie <ampersand/> Fitch? Of course not. Well, a generic clothing store, then, where a certain T<ndash/>shirt caught your eye. You held it against yourself and looked in the mirror, noting that it would look good on you but otherwise uncertain if it fit. The next thing you would do, of course, is try it on, for only after you've tried it on will you know if it fits.</p>
-            <p>A reverse outline is like looking in a mirror after you've tried on the T<ndash/>shirt inasmuch as it is an outline constructed after a draft has been produced. We all know that it can be difficult to visualize the organization of a paper before the evidence has been integrated and analyzed. By outlining the paper after<ndash/>the<ndash/>fact, the writer can consider the shape that the paper takes when dressed with a significant amount of content. It's easy to do: just put the paper aside and, using whatever method you're comfortable with, outline what you remember of the structure of your paper. By reverse outlining, you should be able to better visualize how you've actually organized your paper and, as is often the case, think of alternative organizations.</p>
+            <p>Have you ever gone to Abercrombie <ampersand/> Fitch? Of course not. Well, a generic clothing store, then, where a certain T-shirt caught your eye. You held it against yourself and looked in the mirror, noting that it would look good on you but otherwise uncertain if it fit. The next thing you would do, of course, is try it on, for only after you've tried it on will you know if it fits.</p>
+            <p>A reverse outline is like looking in a mirror after you've tried on the T-shirt inasmuch as it is an outline constructed after a draft has been produced. We all know that it can be difficult to visualize the organization of a paper before the evidence has been integrated and analyzed. By outlining the paper after-the-fact, the writer can consider the shape that the paper takes when dressed with a significant amount of content. It's easy to do: just put the paper aside and, using whatever method you're comfortable with, outline what you remember of the structure of your paper. By reverse outlining, you should be able to better visualize how you've actually organized your paper and, as is often the case, think of alternative organizations.</p>
         </subsection>
         <subsection xml:id="peer-review">
             <title>Peer Review</title>
@@ -541,7 +502,7 @@
             <dl>
                 <li>
                     <title>Be friendly</title>
-                    <p>There's nothing more off<ndash/>putting to a writer than a reviewer who either implicitly or explicitly shames that peer's writing. Start with positives and read for potential. Remember: as a <em>peer</em> reviewer, you should be offering polite and constructive criticism, not trying to prove that you're a better writer than your peer.</p>
+                    <p>There's nothing more off-putting to a writer than a reviewer who either implicitly or explicitly shames that peer's writing. Start with positives and read for potential. Remember: as a <em>peer</em> reviewer, you should be offering polite and constructive criticism, not trying to prove that you're a better writer than your peer.</p>
                 </li>
                 <li>
                     <title>Be affirmative</title>
@@ -553,7 +514,7 @@
                 </li>
                 <li>
                     <title>Be efficient</title>
-                    <p>Don't mark every typo or instance of non<ndash/>standard language usage. Look for patterns of mistakes and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist">revision checklist</xref> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the University of Puget Sound Alumni Fund.</p>
+                    <p>Don't mark every typo or instance of non-standard language usage. Look for patterns of mistakes and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist">revision checklist</xref> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the University of Puget Sound Alumni Fund.</p>
                 </li>
                 <li>
                     <title>Be open</title>
@@ -589,7 +550,7 @@
                     <p>Is your organization not working anymore?</p>
                     <ul>
                         <li><p>Sometimes writers become stuck when the outline they had planned is no longer logical.</p></li>
-                        <li><p>Take a step back, re<ndash/>organize, and try again.</p></li>
+                        <li><p>Take a step back, re-organize, and try again.</p></li>
                     </ul>
                 </li>
                 <li>
@@ -618,7 +579,7 @@
                     <p><ul>
                         <li><p><em>Know that you will be okay.</em> You will survive writing this paper. Although grades, improvement, and learning are important, your worth as a human being and as a student does not revolve around one college assignment.</p></li>
                         <li><p><em>You are not alone.</em> You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the CWLT, or visiting a liaison librarian.</p></li>
-                        <li><p><em>Remember what you love about your topic or what you find most compelling and important about your argument.</em> Whether your paper is due for your favorite or least favorite class, you can always find a way to invest yourself in your topic. Focusing on the interesting parts of the topic itself may help you focus less on the stress of writing a paper and more on the intellectual conversation in which you, a scholar<ndash/>in<ndash/>training, are participating. </p></li>
+                        <li><p><em>Remember what you love about your topic or what you find most compelling and important about your argument.</em> Whether your paper is due for your favorite or least favorite class, you can always find a way to invest yourself in your topic. Focusing on the interesting parts of the topic itself may help you focus less on the stress of writing a paper and more on the intellectual conversation in which you, a scholar-in-training, are participating. </p></li>
                         <li><p><em>Try taking a break.</em> Breathe for a few minutes. Go for a walk, do some yoga, call someone, or watch a funny video on YouTube. </p></li>
                     </ul></p>
                 </li>
@@ -627,7 +588,7 @@
                     <p><ul>
                         <li><p><em>Writing is frustrating.</em> Words don't always come out in the way you hope they do, and sometimes you just don't know what to say. Acknowledging that you're frustrated may be enough to reorient yourself in order to try again. </p></li>
                         <li><p><em>Go back or skip ahead to work on a different section.</em> Sometimes all frustration needs is time. Try working on something else in the meantime.</p></li>
-                        <li><p><em>Re<ndash/>read your sources.</em> Going back through your data, evidence, or primary texts may encourage you or remind you of something to say that you've forgotten about.</p></li>
+                        <li><p><em>Re-read your sources.</em> Going back through your data, evidence, or primary texts may encourage you or remind you of something to say that you've forgotten about.</p></li>
                         <li><p><em>Take a step back.</em> If you're too frustrated to continue, do something else entirely and try again later. </p></li>
                     </ul></p>
                 </li>
@@ -636,41 +597,55 @@
         <paragraphs>
             <title>Managing time</title>
             <figure>
-                <image width="25%" source="images/clock"/>
+                <image source="images/clock"/>
             </figure>
             <ul>
-                <li><p><em>Good time<ndash/>management is one of the best strategies to prevent feeling stuck, anxious, or frustrated.</em> Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance (and, if you have to procrastinate, try using the tips in <xref ref="productive-procrastination" autoname="title"/>).</p></li>
+                <li><p><em>Good time-management is one of the best strategies to prevent feeling stuck, anxious, or frustrated.</em> Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance (and, if you have to procrastinate, try using the tips in <xref ref="productive-procrastination" autoname="title"/>).</p></li>
                 <li><p><em>Create a schedule.</em> Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the CWLT or Collins Library early enough to get an appointment time that works best for you. </p></li>
                 <li><p><em>Start early.</em> If planning a timeline is too structured for your personal writing process, you should at least plan to start early!</p></li>
             </ul>
         </paragraphs>
         <paragraphs>
             <title>What do you do if you've put the paper off too long and are now pressed for time?</title>
-            <p>Don't put it off any longer. Start! You might be frustrated with yourself, but don't let that frustration derail the time that you do have left. Procrastination happens to everyone, so it's best to forgive yourself, to move on, and to remember that frustration next time you think about procrastinating. Now, take a deep breath and figure out where you are in the writing process. If you haven't yet started<nbsp/><ellipsis/></p>
-            <ul>
-                <li><p>RESEARCH: Do your research. Unfortunately, you may not have as much time as you would like to investigate everything you had hoped to. You have to be as efficient as possible, so don't dilly<ndash/>dally while you're looking for sources. Use the research terms suggested in <xref ref="research-methods" autoname="yes"/> to search more effectively. Read the title of an article and, if it looks promising, click on the link. Read the abstract. If the paper still looks useful to you, download the full article. Skim the introduction and conclusion. Scroll through the article and read section headings. If any part in particular might contribute to your research, skim that section (see <xref ref="skimming" autoname="yes"/>). Look for arguments the author is making or any relevant data you might be able to use. When you find something you think you'll need for your paper, stop skimming and read carefully. Make a note of whatever you have found, and make sure that you label or code the note so you know which source it's from. Save the source in whatever way you save sources to keep track of them. Don't let researching become another way for you to procrastinate. When you have a sufficient amount of information, move on. You can (and should) always research more later.</p></li>
-                <li><p>PLANNING: Get out a piece of paper or a white board and plan. Hopefully you will have previously played around with/practiced different types of outlines so you know which to use (for outlining ideas, see <xref ref="outlining" autoname="yes"/>). Even if you haven't, choose a planning and an outline format that you think will enable you to organize your ideas most logically and effectively. Before you begin an outline, try writing down all the ideas you have and connecting them in a way you see fit. Let those connections guide your outline. For your outline, focus on the components of your argument: your main claim, supporting claims, and evidence. Use the six step process outlined in <xref ref="thesis-development" autoname="yes"/> to develop a solid working thesis. Identify an order for the body paragraphs of your paper, and then determine where your evidence will go and how you're going to use it. Be sure not to get too caught up on planning. You might need to revise your plan as you write, so the plan doesn't have to be perfect. It just needs to give you a solid idea of what your paper is going to look like.</p></li>
-                <li><p>WRITING: Start writing as soon as possible, but make sure that you're going into your draft with background research and a plan in mind. Some people write well under pressure, while others feel too stressed or stifled to begin writing. Identify which type of writer you are, and then relax and act accordingly. If writing under pressure works for you, then go for it. Just be sure to leave time for revision. If writing under pressure makes you freeze up, then relax! Remember why you chose your topic, what excites you about your research, or what compelling points you plan to make in your essay. Writing last minute is not ideal, but you can still write an amazing paper and develop important ideas in a short amount of time. Yes, your paper most likely would have been better if you had started earlier (remember that for next time!), but you can only move forward now. So take a breath and start writing! You have your research and your plan, and now you only need to put the ideas together. Good luck; you can do it!</p></li>
-                <li><p>REVISING: Unless your paper is due in five minutes and you're still writing, it's best to save a little time for revision. Even in that case, consider finishing up what you're writing and try revising for a minute or two<mdash/>a solid, logical argument and the absence of small, accidental errors might benefit you more in the long run than a little extra length. However, when you have more time, save as much as possible for revision. Ideally you'll be able to take a short break before you begin revising, so aim to block off at least 15<ndash/>20 minutes. As long as you have a complete draft, the more time you save for revision, the better. Taking a break and stepping away from your paper, which you'll likely have been staring at for a while, will help you have a better perspective when you return to revise. Take a walk, look out the window, do some stretches, talk to a friend, or grab a snack. When you return, take a breath and read through your paper. Focus primarily on your <em>thesis</em> (Does it make sense? Does it reflect what you ended up arguing throughout your paper?), your <em>topic sentences</em> (Do they tell the reader what each paragraph is about and how each point connects to your main argument? Are they clear?), and your <em>introduction</em> and <em>conclusion</em> (Does your introduction begin without cliches? Do you introduce the topic concisely but effectively? Does your conclusion summarize your argument without simply repeating what you've said? Do you raise questions about significance and further research? What do you leave the reader with?). If you have more time, visit <xref ref="revision-checklist" autoname="yes"/>. If you have even more time than you thought you would, you can also look for places where elaboration or explanation is needed, where your evidence is weak, where you could reorganize, or where sentences need to be revised or rewritten.</p></li>
-                <li><p>THINKING ABOUT NEXT TIME: You might have survived this paper, and maybe you even end up getting a great grade, but <em>don't make a habit out of starting your papers late</em>. It's amazing how much more you can learn and how much better you can get at writing when you have the time to reflect on what you've written, to revise thoroughly, and to talk to others about your ideas.</p></li>
-            </ul>
+            <p>Don't put it off any longer. Start! You might be frustrated with yourself, but don't let that frustration derail the time that you do have left. Procrastination happens to everyone, so it's best to forgive yourself, to move on, and to remember that frustration next time you think about procrastinating. Now, take a deep breath and figure out where you are in the writing process. If you haven't yet started<nbsp/><ellipsis/><dl>
+                <li>
+                    <title>Research</title>
+                    <p>Do your research. Unfortunately, you may not have as much time as you would like to investigate everything you had hoped to. You have to be as efficient as possible, so don't dilly-dally while you're looking for sources. Use the research terms suggested in <xref ref="research-methods" autoname="yes"/> to search more effectively. Read the title of an article and, if it looks promising, click on the link. Read the abstract. If the paper still looks useful to you, download the full article. Skim the introduction and conclusion. Scroll through the article and read section headings. If any part in particular might contribute to your research, skim that section (see <xref ref="skimming" autoname="yes"/>). Look for arguments the author is making or any relevant data you might be able to use. When you find something you think you'll need for your paper, stop skimming and read carefully. Make a note of whatever you have found, and make sure that you label or code the note so you know which source it's from. Save the source in whatever way you save sources to keep track of them. Don't let researching become another way for you to procrastinate. When you have a sufficient amount of information, move on. You can (and should) always research more later.</p>
+                </li>
+                <li>
+                    <title>Planning</title>
+                    <p>Get out a piece of paper or a white board and plan. Hopefully you will have previously played around with/practiced different types of outlines so you know which to use (for outlining ideas, see <xref ref="outlining" autoname="yes"/>). Even if you haven't, choose a planning and an outline format that you think will enable you to organize your ideas most logically and effectively. Before you begin an outline, try writing down all the ideas you have and connecting them in a way you see fit. Let those connections guide your outline. For your outline, focus on the components of your argument: your main claim, supporting claims, and evidence. Use the six step process outlined in <xref ref="thesis-development" autoname="yes"/> to develop a solid working thesis. Identify an order for the body paragraphs of your paper, and then determine where your evidence will go and how you're going to use it. Be sure not to get too caught up on planning. You might need to revise your plan as you write, so the plan doesn't have to be perfect. It just needs to give you a solid idea of what your paper is going to look like.</p>
+                </li>
+                <li>
+                    <title>Writing</title>
+                    <p>Start writing as soon as possible, but make sure that you're going into your draft with background research and a plan in mind. Some people write well under pressure, while others feel too stressed or stifled to begin writing. Identify which type of writer you are, and then relax and act accordingly. If writing under pressure works for you, then go for it. Just be sure to leave time for revision. If writing under pressure makes you freeze up, then relax! Remember why you chose your topic, what excites you about your research, or what compelling points you plan to make in your essay. Writing last minute is not ideal, but you can still write an amazing paper and develop important ideas in a short amount of time. Yes, your paper most likely would have been better if you had started earlier (remember that for next time!), but you can only move forward now. So take a breath and start writing! You have your research and your plan, and now you only need to put the ideas together. Good luck; you can do it!</p>
+                </li>
+                <li>
+                    <title>Revising</title>
+                    <p>Unless your paper is due in five minutes and you're still writing, it's best to save a little time for revision. Even in that case, consider finishing up what you're writing and try revising for a minute or two<mdash/>a solid, logical argument and the absence of small, accidental errors might benefit you more in the long run than a little extra length. However, when you have more time, save as much as possible for revision. Ideally you'll be able to take a short break before you begin revising, so aim to block off at least 15<ndash/>20 minutes. As long as you have a complete draft, the more time you save for revision, the better. Taking a break and stepping away from your paper, which you'll likely have been staring at for a while, will help you have a better perspective when you return to revise. Take a walk, look out the window, do some stretches, talk to a friend, or grab a snack. When you return, take a breath and read through your paper. Focus primarily on your <em>thesis</em> (Does it make sense? Does it reflect what you ended up arguing throughout your paper?), your <em>topic sentences</em> (Do they tell the reader what each paragraph is about and how each point connects to your main argument? Are they clear?), and your <em>introduction</em> and <em>conclusion</em> (Does your introduction begin without cliches? Do you introduce the topic concisely but effectively? Does your conclusion summarize your argument without simply repeating what you've said? Do you raise questions about significance and further research? What do you leave the reader with?). If you have more time, visit <xref ref="revision-checklist" autoname="yes"/>. If you have even more time than you thought you would, you can also look for places where elaboration or explanation is needed, where your evidence is weak, where you could reorganize, or where sentences need to be revised or rewritten.</p>
+                </li>
+                <li>
+                    <title>Thinking About Next Time</title>
+                    <p>You might have survived this paper, and maybe you even end up getting a great grade, but <em>don't make a habit out of starting your papers late</em>. It's amazing how much more you can learn and how much better you can get at writing when you have the time to reflect on what you've written, to revise thoroughly, and to talk to others about your ideas.</p>
+                </li>
+            </dl></p>
         </paragraphs>
         <paragraphs>
             <title>Some tips to fight off procrastination</title>
             <ul>
                 <li><p><em>Figure out why you want to procrastinate and address the problem.</em> Are you afraid? Uninterested in your topic? Do you not know where to start? Or do you just really want to catch up on your favorite TV show? (For ideas about how to address these problems, see <xref ref="what-to-do-when-you-get-stuck" autoname="yes"/>)</p></li>
                 <li><p><em>Tell yourself that you'll work for five minutes.</em> That's it. It may sound crazy, but this is actually a really good way to lie to<mdash/>I mean, to <q>encourage</q><mdash/>yourself in order to get work done. Once you've begun working, your anxiety about starting (or your desire to Internet surf to avoid working) will hopefully diminish, and you will likely find yourself able to work for much longer than five minutes.</p></li>
-                <li><p><em>Create your ideal work environment.</em> You're finally away from home, you have your own (<nbsp/><ellipsis/> shared) space, and you've instituted a moratorium on any type of cleaning or organizing. Although you might be living the cleaning<ndash/>free dream (perhaps to the dismay of your roommate), consider throwing away some of those granola bar wrappers and taking your <acro>SUB</acro> dishes back to the <acro>SUB</acro> (seriously, take them back to the <acro>SUB</acro>). Having a clean working space might help you focus. If not, try studying in different places around campus until you find a space that you can work in. Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the Rotunda, upstairs in the <acro>SUB</acro>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the CWLT, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!). Your study preferences might be different for each of your classes, so experiment! </p></li>
+                <li><p><em>Create your ideal work environment.</em> You're finally away from home, you have your own (<nbsp/><ellipsis/> shared) space, and you've instituted a moratorium on any type of cleaning or organizing. Although you might be living the cleaning-free dream (perhaps to the dismay of your roommate), consider throwing away some of those granola bar wrappers and taking your <acro>SUB</acro> dishes back to the <acro>SUB</acro> (seriously, take them back to the <acro>SUB</acro>). Having a clean working space might help you focus. If not, try studying in different places around campus until you find a space that you can work in. Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the Rotunda, upstairs in the <acro>SUB</acro>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the CWLT, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!). Your study preferences might be different for each of your classes, so experiment! </p></li>
                 <li><p><em>Figure out everything you have to do, and then break down readings, papers, or assignments into parts.</em> While pretending your work doesn't exist may seem like the ideal solution, we assure you that it is not. You can lay all of your books, folders, or syllabuses on the ground or your bed and organize them by priority or amount of work. Alternatively, you can make a list with all of your classes and write out the week's assignments for each class. Once you've faced the harsh reality of all the work you have to do, take a breath! Now, split up each task into manageable parts. Have 100 pages of reading? Can you split it up into groups of 20 or 25? Have six math problems? Do them in sets of two or three. Have a ten page paper to write? Try writing two pages a day. By splitting something into its components, you'll likely feel less overwhelmed and therefore less desperate to procrastinate.</p></li>
                 <li>
-                    <p><em>Limit distractions.</em> This tip is probably the worst one. It can be really hard! But know that some time away from the non<ndash/>research<ndash/>related Internet (e.g., YouTube, Facebook, Netflix, Buzzfeed<nbsp/><ellipsis/> ) isn't a bad thing. In fact, it might make rewarding yourself (after a chunk of study time, of course) with some Internet time even more satisfying. To reduce temptations, you can try various strategies: </p>
+                    <p><em>Limit distractions.</em> This tip is probably the worst one. It can be really hard! But know that some time away from the non-research-related Internet (e.g., YouTube, Facebook, Netflix, Buzzfeed<nbsp/><ellipsis/> ) isn't a bad thing. In fact, it might make rewarding yourself (after a chunk of study time, of course) with some Internet time even more satisfying. To reduce temptations, you can try various strategies: </p>
                     <ul>
-                        <li><p> Look up browser plug<ndash/>ins or apps that restrict access to certain websites for periods of time.</p></li>
+                        <li><p> Look up browser plug-ins or apps that restrict access to certain websites for periods of time.</p></li>
                         <li><p>See if your phone needs an update (it's hard to text when it's taking five minutes to restart!).</p></li>
                         <li><p>Put your phone on a <q>do not disturb</q> setting, or ask your friends not to bother you for a while; turn off notifications.</p></li>
                         <li><p>Go in a public place where you'd be embarrassed to be seen procrastinating for two hours.</p></li>
                         <li><p>Ask a friend to study with you, and keep each other accountable.</p></li>
-                        <li><p>Make a schedule that requires you to work but rewards you with a break (for example, you might work diligently for fifty minutes and then reward yourself with a ten<ndash/>minute YouTube video or ten minutes of a show on Netflix each hour<mdash/>just beware that you don't get too distracted during your breaks).</p></li>
+                        <li><p>Make a schedule that requires you to work but rewards you with a break (for example, you might work diligently for fifty minutes and then reward yourself with a ten-minute YouTube video or ten minutes of a show on Netflix each hour<mdash/>just beware that you don't get too distracted during your breaks).</p></li>
                     </ul>
                 </li>
                 <li><p><em>If you need to, try treating yourself like a small child.</em> You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to the Cellar for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch the new <em>Game of Thrones</em> episode.</q></p></li>

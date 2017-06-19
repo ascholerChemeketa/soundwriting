@@ -27,7 +27,7 @@
             </li>
             <li>
                 <title><term>Adverb</term></title>
-                <p>describes a verb (often ends in <ndash/>ly)</p>
+                <p>describes a verb (often ends in -ly)</p>
                 <p>Examples: beautifully, fast, quickly, slowly</p>
             </li>
             <li>
@@ -62,14 +62,14 @@
             </li>
         </dl>
         <figure>
-            <image width="50%" source="images/LM-PartsofSpeech"/>
+            <image source="images/LM-PartsofSpeech"/>
         </figure>
     </section>
     <section xml:id="basic-sentence-structure">
         <title>Basic Sentence Structure</title>
         <paragraphs>
-            <title>Subject<ndash/>Predicate</title>
-            <p>In <xref ref="SAE">Standard American English</xref> (<xref ref="SAE"><init>SAE</init></xref>), a basic sentence is comprised of two parts: the subject and the predicate. The <term>subject</term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction. The <term>predicate</term> is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first<ndash/>year student waited in line for the Farm<ndash/>to<ndash/>Table special,</q> the noun phrase <q>the first<ndash/>year student</q> would be the subject and <q>waited in line for the Farm<ndash/>to<ndash/>Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject). Below you can find a few example sentences showing the subject and predicate (the subject is italicized and the predicate is in regular typeface):</p>
+            <title>Subject-Predicate</title>
+            <p>In <xref ref="SAE">Standard American English</xref> (<xref ref="SAE"><init>SAE</init></xref>), a basic sentence is comprised of two parts: the subject and the predicate. The <term>subject</term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction. The <term>predicate</term> is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first-year student waited in line for the Farm-to-Table special,</q> the noun phrase <q>the first-year student</q> would be the subject and <q>waited in line for the Farm-to-Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject). Below you can find a few example sentences showing the subject and predicate (the subject is italicized and the predicate is in regular typeface):</p>
             <ul>
                 <li><p><em>Ollie</em> studied in Diversions.</p></li>
                 <li><p><em>The IPE professor</em> told the class to turn the assignment in on Moodle.</p></li>
@@ -77,22 +77,22 @@
             </ul>
         </paragraphs>
         <paragraphs>
-            <title>Subject<ndash/>Verb Agreement</title>
+            <title>Subject-Verb Agreement</title>
             <p>As we have seen, subjects and verbs (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <xref ref="SAE"><init>SAE</init></xref>, you wouldn't say <q>Amanda jog to the fieldhouse,</q> but rather <q>Amanda jogs to the fieldhouse.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players is tired</q> would become <q>The soccer players are tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
             <dl>
                 <li>
-                    <title>S<ndash/>endings</title>
-                    <p>In <xref ref="SAE"><init>SAE</init></xref>, third<ndash/>person singular subjects (e.g., she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present<ndash/>tense verb. Plural subjects (e.g., they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual, it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
+                    <title>S-endings</title>
+                    <p>In <xref ref="SAE"><init>SAE</init></xref>, third-person singular subjects (e.g., she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (e.g., they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual, it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
                     <ul>
                         <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
-                        <li><p><q>The first<ndash/>year seminar student studies in the library.</q></p></li>
+                        <li><p><q>The first-year seminar student studies in the library.</q></p></li>
                         <li><p><q>The RDG members dance across the stage.</q></p></li>
                         <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
                     </ul>
                 </li>
                 <li>
                     <title>is/are</title>
-                    <p>Third<ndash/>person singular subjects require the present<ndash/>tense verb <q>is,</q> while plural subjects require the present<ndash/>tense verb <q>are.</q></p>
+                    <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                     <p><em>As above, even though <q>they</q> may refer to a single individual, it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).</em></p>
                     <ul>
                         <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
@@ -107,13 +107,13 @@
                     <p>A direct object is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs.</p>
                     <p>An indirect object is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
                     <figure>
-                        <image width="50%" source="images/LM-Direct-Indirect"/>
+                        <image source="images/LM-Direct-Indirect"/>
                     </figure>
                 </li>
                 <li>
                     <title>Indefinite pronouns</title>
                     <p>Anyone, everyone, everybody, someone, no one, nobody</p>
-                    <p>Many indefinite pronouns (e.g., anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular verb (s<ndash/>ending or <q>is</q>/<q>has</q>).</p>
+                    <p>Many indefinite pronouns (e.g., anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular verb (s-ending or <q>is</q>/<q>has</q>).</p>
                     <ul>
                         <li><p><q>Is anyone going to Luau this year? I've heard everyone always has a great time.</q></p></li>
                         <li><p><q>Someone is rollerblading around campus.</q></p></li>
@@ -134,7 +134,7 @@
             <p><q>None</q> can be either plural or singular depending on how many of some item it is referring to. For instance, if <q>none</q> is referring to a single item (<q>not one of these things</q>), a singular verb is required. However, if it is being applied to several items (<q>not any of these things</q>), a plural verb should be used.<ul>
             <li><p><q>So far, none of the rats in the Psychology Rat Lab have escaped.</q> (if you are talking about many rats that have not escaped)</p></li>
             <li><p><q>So far, none of the rats in the Psychology Rat Lab has escaped.</q> (if you are talking about one rat that has not escaped among many rats)</p></li>
-            <li><p><q>None of the O<ndash/>chem students are sleeping the night before their final.</q></p></li>
+            <li><p><q>None of the O-chem students are sleeping the night before their final.</q></p></li>
             <li><p><q>None of the laundry is clean.</q></p></li></ul></p>
         </paragraphs>
         <paragraphs>
@@ -178,8 +178,8 @@
             <title>Confusing modifiers</title>
             <p>(See also <xref ref="misplaced-and-dangling-modifiers" autoname="yes"/>)</p>
             <p>Sometimes the subject and verb are separated by modifying phrases and adjectives that describe the subject. While modifiers are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicised.<ul>
-                <li><p><q><un s="1">President Crawford</un>, along with the first<ndash/>year students, <em>is attending</em> Convocation.</q></p></li>
-                <li><p><q>The <un s="1">first<ndash/>year resident</un>, who was feeling FOMO and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
+                <li><p><q><un s="1">President Crawford</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
+                <li><p><q>The <un s="1">first-year resident</un>, who was feeling FOMO and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
                 <li><p><q><un s="1">Diversions Cafe</un> (and its baristas) <em>provides</em> a great space to study and socialize.</q></p></li>
             </ul></p>
         </paragraphs>
@@ -195,7 +195,7 @@
             <p>In order to determine whether to use a singular or a plural verb, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin characters="5"/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
             <p>A list of these collective nouns and example uses may be found below.</p>
             <figure>
-                <image width="100%" source="images/collective-noun-table"/>
+                <image source="images/collective-noun-table"/>
             </figure>
         </paragraphs>
         <paragraphs>
@@ -266,7 +266,7 @@
             <title>Clauses</title>
             <p><nbsp/><ol>
             <li>Begin with subordinating conjunctions</li>
-            <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent<ndash/>clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li></ol></p>
+            <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li></ol></p>
         </paragraphs>
         <dl>
             <li>
@@ -330,7 +330,7 @@
         </dl>
         <paragraphs>
             <title>Phrases</title>
-            <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscape makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar<ndash/>related, though, there are far too many phrases with overly-confusing names. To remember and understand each type of phrase, it might be helpful for you to review the parts of speech. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
+            <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscape makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar-related, though, there are far too many phrases with overly-confusing names. To remember and understand each type of phrase, it might be helpful for you to review the parts of speech. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
             <assemblage>
                 <p>Whereas a clause has both a noun AND a verb, a phrase has either a noun OR a verb, but NOT BOTH. Phrases are groups of words that function as a single part of speech (e.g., a noun or an adjective)</p>
             </assemblage>
@@ -344,7 +344,7 @@
                     <p>Examples:</p>
                     <ul>
                         <li><p><q><em>To include</em> all types of phrases in this list would be too boring.</q></p></li>
-                        <li><p><q><em>To pull</em> an all<ndash/>nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso (consume with caution).</q></p></li>
+                        <li><p><q><em>To pull</em> an all-nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso (consume with caution).</q></p></li>
                     </ul>
                 </li>
                 <li>
@@ -367,7 +367,7 @@
                 </li>
                 <li xml:id="participial-phrases">
                     <title>Participial phrases</title>
-                    <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in <ndash/>ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in <ndash/>ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
+                    <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in -ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in -ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
                     <p>Examples:</p>
                     <ul>
                         <li><p><q>I like my eggs from the <acro>SUB</acro> <em>covered in ketchup</em>.</q></p></li>
@@ -376,7 +376,7 @@
                 </li>
                 <li>
                     <title>Gerund phrases</title>
-                    <p>A gerund is a verb that ends in <q><ndash/>ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, <ndash/>ing) to a sentence.</p>
+                    <p>A gerund is a verb that ends in <q>-ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, -ing) to a sentence.</p>
                     <p>Examples (nouns):</p>
                     <ul>
                         <li><p><q><em>Crying while studying</em> is not recommended.</q></p></li>
@@ -431,7 +431,7 @@
                 </paragraphs>
             </li>
             <li>
-                <title><term>Compound<ndash/>complex</term></title>
+                <title><term>Compound-complex</term></title>
                 <p>two or more independent clauses and at least one dependent/subordinate clause</p>
                 <p>Examples:</p>
                 <ul>
@@ -563,8 +563,7 @@
         </subsection>
         <subsection>
             <title>Semicolon <brackets>;</brackets></title>
-            <p>There are two main reasons to use a semicolon.</p>
-            <ul>
+            <p>There are two main reasons to use a semicolon:<ol>
                 <li>
                     <p>You can use them to separate items in a list when there are also commas:</p>
                     <example>
@@ -577,7 +576,7 @@
                         <p><q>I like to eat sandwiches; they are yummy.</q></p>
                     </example>
                 </li>
-            </ul>
+            </ol></p>
             <paragraphs>
                 <title>Note</title>
                 <p>Don't capitalize the word following the semicolon unless it's a proper noun.</p>
@@ -598,9 +597,9 @@
             </paragraphs>
         </subsection>
         <subsection>
-            <title>Dash <brackets><ndash/></brackets> and <brackets><mdash/></brackets></title>
+            <title>Dash <brackets>-</brackets> and <brackets><mdash/></brackets></title>
             <p>Dashes<mdash/>and there are two types<mdash/>are used to hyphenate, to indicate ranges, or to set apart important or noteworthy things in a sentence.</p>
-            <p>The <em>en dash</em> (also known as a hyphen). This dash is the dash that appears when you hit the dash key once. You can use it to hyphenate words (like in<ndash/>depth) or to show a range (1894<ndash/>1904 or numbers 1<ndash/>5).</p>
+            <p>The <em>en dash</em> (also known as a hyphen). This dash is the dash that appears when you hit the dash key once. You can use it to hyphenate words (like in-depth) or to show a range (1894<ndash/>1904 or numbers 1<ndash/>5).</p>
             <p>The <em>em dash</em> (also known as a dash). Make an em dash by hitting the dash key twice<mdash/>like this! These longer dashes are what you use to set things apart<mdash/>you can use them with fragments or complete sentences. Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.</p>
         </subsection>
         <subsection>

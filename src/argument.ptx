@@ -155,14 +155,14 @@
                 <p>The evidence will guide you to your claim<mdash/>let it! While it may be tempting to pick and choose evidence that supports the claim that you want to make, strong academic argumentation requires researchers to make claims validated and substantiated by a fair and thorough examination of the available evidence. By listening to the evidence, you ensure that your claim answers your question honestly and opens a dialogue with which other researchers can engage.</p>
             </paragraphs>
             <figure>
-                <image width="50%" source="images/AD-ThesisDevelopment"/>
+                <image source="images/AD-ThesisDevelopment"/>
             </figure>
             <paragraphs>
                 <title>Step 6: Develop a working thesis</title>
                 <p>The claim you devised in Step 5 will become your working thesis. A working thesis is the initial thesis you come up with, and it will guide your subsequent research. That research will in turn help you reformulate your working thesis as your research changes and your understanding of your topic, evidence, and main claim shifts. Your research isn't done when you formulate your working thesis, so keep researching and rewriting!</p>
             </paragraphs>
             <figure>
-                <image width="50%" source="images/AD-WorkingThesisResearch"/>
+                <image source="images/AD-WorkingThesisResearch"/>
             </figure>
             <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready?</p>
             <p>A solid thesis often does <acro>MORE</acro>:<ul>
@@ -261,7 +261,7 @@
         </paragraphs>
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality Sir David Attenborough narrate the beginning of the <q>Hello</q> music video.</p>
         <figure>
-            <video width="100%" youtube="enu-qR0H_uk"/>
+            <video youtube="enu-qR0H_uk"/>
         </figure>
     </section>
     <conclusion>
