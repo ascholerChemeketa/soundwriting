@@ -38,19 +38,19 @@
             <title>Pre-planning Questions</title>
             <dl>
                 <li>
-                    <title>Determine the purpose of your paper.</title>
+                    <title>Determine the purpose of your paper</title>
                     <p>Why are you writing? What is meaningful about your argument? How does it answer or respond to the prompt?</p>
                 </li>
                 <li>
-                    <title>Identify your audience.</title>
+                    <title>Identify your audience</title>
                     <p>Who are you writing for? Your peers? Your professor? Yourself? Identifying your audience is key in helping you frame your argument and determine what is most important for audience comprehension. For most academic papers, your audience will be the greater academic community, which includes your peers and professor. Sometimes, your professor may identify your audience for you. If you have any questions about your audience, remember that it's always best to ask your professor for clarification.</p>
                 </li>
                 <li>
-                    <title>Decide on content.</title>
+                    <title>Decide on content</title>
                     <p>What will your paper be about? What content will you include in your paper to make your argument? What evidence will you use to substantiate your claims? While the content will likely change as you move through the writing process, figuring out what information you need will help you identify what you want to write about and whether you need to conduct more research before you begin writing.</p>
                 </li>
                 <li>
-                    <title>Figure out a format.</title>
+                    <title>Figure out a format</title>
                     <p>How will you format your paper? Is it a descriptive essay? An argumentative paper? Compare-contrast? Or perhaps a close reading of a primary source? In order to help you answer this question, go back to the assignment prompt and figure out what it is asking for. This will help you determine the most appropriate structure for your paper and argument.</p>
                     <assemblage>
                         <title>An important note!</title>
@@ -58,7 +58,7 @@
                     </assemblage>
                 </li>
                 <li>
-                    <title>Start thinking about style.</title>
+                    <title>Start thinking about style</title>
                     <p>Before you begin writing, it's helpful to think about the tone of your essay<mdash/>the language you're going to use, how objective or subjective you will be, from which point of view you will write. For instance, you probably wouldn't write a chemistry lab report using the same language that you would use to write a personal narrative. Deciding on a voice early on can help you figure out what kind of language to use while you are planning, outlining, and drafting your paper.</p>
                 </li>
             </dl>
@@ -184,15 +184,15 @@
                 <p>Even though it appears first in your paper, the introduction is generally not the first thing you write. Oftentimes you need to have a solid thesis and maybe some of your body paragraphs<mdash/>maybe even your whole paper<mdash/>before you begin writing your introduction. Your introduction is supposed to prepare the reader for what to expect in your paper, so it's usually better to wait to write it until you have a really strong idea of where you're headed. This being said, if you feel like writing the introduction will help you develop a path forward, go for it! Just keep in mind that it will likely change as you move through the rest of your paper.</p>
             </paragraphs>
             <paragraphs>
-                <title>Consider your introduction the <q>road-map</q> to your paper.</title>
+                <title>Consider your introduction the <q>road-map</q> to your paper</title>
                 <p>While writing your introduction, you should prepare the audience for what's ahead. To this end, your thesis should reflect the general organization of your argument. However, if you find you need more room to elaborate on the paper's organization, you may also find it helpful to include a clear road-map for what you plan to accomplish. For instance, <q>First, I will explore this issue. Then, I will look at the issue from this perspective. Finally, I will bring these two first parts together to examine the issue in this way.</q> Don't be afraid to tell the audience exactly what they should expect from you and your argument; doing so establishes you as the authority, provides your audience with a compass to guide them through your paper, and disables the risk of any surprises sneaking through that may take your audience off guard.</p>
             </paragraphs>
             <paragraphs>
-                <title>Introductions can be multiple paragraphs.</title>
+                <title>Introductions can be multiple paragraphs</title>
                 <p>Especially for longer responses such as research papers, you may find that the introduction of your topic and explanation of the problem takes a few paragraphs<mdash/>that's okay! You may not even get to your thesis until a page or so in. Depending on the recommended length of your paper, this may be appropriate to the scope of your argument. If you feel you are putting too much in the introduction, this is also okay<mdash/>first write as much as you feel is necessary to get to your thesis statement, then go back and see if there is anything that could justify its own body paragraph or that may not be as necessary to your introduction as you originally thought.</p>
             </paragraphs>
             <paragraphs>
-                <title>Start with something concise, engaging, and applicable.</title>
+                <title>Start with something concise, engaging, and applicable</title>
                 <p>Crafting the opening sentence of your introduction can be a daunting task, especially as it sets the tone for your argument, introduces the topic of your paper, and is the first thing your audience will read. Thinking about how broad or specific to start can be useful in helping you figure out the appropriate scope for your introduction. For instance, many introductions start with a broader statement and then narrow in scope as they begin to focus in on the specific problem and the thesis. While this is a useful structure to use, it's important to keep in mind that the <q>broader</q> opening statement should still be specific to your topic, interesting, and relevant to what you will be discussing. For example, you probably shouldn't start a research paper about the destruction of the Sundarbans mangrove forest with the opening statements, <q>Forests are inherently valuable to mankind</q> or <q>Mankind is destroying the Earth's natural resources.</q> Both of these statements are too broad to generate much interest and don't really indicate what the paper will be about. Consider instead the opening statement:<blockquote><q>Comprising the largest block of mangrove forest globally and accounting for 3<percent/> of global mangrove area, the Sundarbans of Eastern India and Bangladesh are biogeographically, ecologically, and culturally unique in their species biodiversity and ecosystem services.</q></blockquote></p>
                 <figure>
                     <image source="images/WP-AccentTree"/>
@@ -488,6 +488,7 @@
                 </li>
             </dl>
             <figure xml:id="revision-checklist">
+                <caption>Revision Checklist</caption>
                 <image source="images/revision-checklist.pdf"/>
             </figure>
         </introduction>

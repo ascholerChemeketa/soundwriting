@@ -10,6 +10,16 @@
             <p>At this point in your academic career, you're likely acquainted with some kind of word processing software application. Most computers come with a subscription to Microsoft Word, but other systems might use Microsoft Write, Lotus Word Pro, or iStudio Publisher, among several others. Additionally, it's important to know that there are several freeware options you can access to write online (like Google Docs and Microsoft Office Online). If you are looking for a word processor, it's best to try out different ones and use the one that works best for you. However, because Microsoft Office is the most common, it is the one we will be exploring here, so keep in mind that these exact tips and tricks may not translate across processing software applications (but others will likely have similar functions).</p>
         </introduction>
         <subsection>
+            <title>Spell check errors</title>
+            <figure>
+                <image source="images/LM-Spellcheck"/>
+            </figure>
+            <p>Computer technologies have undeniably improved the speed and accuracy of our writing abilities, particularly through the use of automatic spelling and grammar checkers in many word processors. While these checkers can be useful, it is easy to become over-reliant on these technologies as a replacement of individual proofreading; you can simply run a document through <q>spell-check,</q> accept the corrections, and suddenly you are error-free! However, we often forget that computers can't read our minds. In fact, many simple spelling and grammar errors actually can be caused by an over-dependence on auto-checkers, with word processors replacing your misspelled words with incorrect suggestions based on common Web word-distortions. For instance, a sentence stating, <q>I definantly saw something fishy going on</q> would be auto-corrected to <q>I defiantly saw something fishy going on,</q> which has a meaning different than what the writer originally intended (<q>definitely</q>). It's important to remember that computer auto-checkers, while useful, should not be used as a replacement for manual proofreading. Carefully read through your document, give it to a friend, and/or take it to the CWLT for some help with proofreading strategies (though don't expect the CWLT to actually do all the proofreading for you). Below is a list of commonly misspelled words that often are auto-corrected to very different words.</p>
+            <figure>
+                <image source="images/LM-SpellingAutoCorrect"/>
+            </figure>
+        </subsection>
+        <subsection>
             <title>Inserting Footnotes</title>
             <p>Let's face it: footnotes can be a pain. Luckily, Word processor has some handy tricks for making adding footnotes relatively pain-free!</p>
             <p>Let's say you have a couple paragraphs with some source evidence you'd like to cite using footnotes.</p>

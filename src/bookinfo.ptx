@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <docinfo>
-    <!-- URL will change when we know the official host -->
-    <brandlogo url="http://pugetsound.edu" source="images/logo.svg"/>
+    <brandlogo url="https://soundwriting.pugetsound.edu" source="images/logo.svg"/>
 </docinfo>
