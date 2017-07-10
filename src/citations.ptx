@@ -14,9 +14,9 @@
             <title>Background</title>
             <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: MLA, Chicago (CMS), and APA.</p>
             <p>In general, here are some differences between the styles:</p>
-            <figure>
+            <sidebyside>
                 <image source="images/citation-styles-table"/>
-            </figure>
+            </sidebyside>
         </subsection>
         <subsection>
             <title>Basic Components</title>
@@ -54,9 +54,9 @@
                 </list>
             </sidebyside>
             <p>You might be asking us, <q>But why do I need all of this information?</q> No, citation guides are not out to get you! Each piece of a citation has a specific purpose. Here are some reasons behind the information you need. Hopefully this context will 1) help you understand what the citation is doing and why, and 2) help you use other people's sources more effectively!</p>
-            <figure>
+            <sidebyside>
                 <image source="images/citation-info-table"/>
-            </figure>
+            </sidebyside>
             <paragraphs>
                 <title>Tip</title>
                 <p>Having trouble finding the right information in a source? Things like publishing location can sometimes be tricky to pinpoint. If you've looked all over the copyright page, title page, binding, and cover, just go to Google and search the publisher's name. You'll likely find the publisher's address, which should tell you what city the company is located in. Another trick is to look the book up on <url href="amazon.com">Amazon</url><mdash/>sometimes they'll have the right information in the <q>Product Details</q> section.</p>
@@ -70,9 +70,9 @@
     <section>
         <title>Book with One Author</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-BookOneAuthor"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -108,9 +108,9 @@
     <section>
         <title>Book with Multiple Authors</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-BookMultipleAuthors"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -146,9 +146,9 @@
     <section>
         <title>Edition Other than the First</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-EditionOtherThanTheFirst"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -184,9 +184,9 @@
     <section>
         <title>Chapter in an Edited Book</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-ChapterInEdited"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -215,9 +215,9 @@
     <section>
         <title>Book Review</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-BookReview"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -253,9 +253,9 @@
     <section>
         <title>Print Article</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-PrintArticle"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -294,9 +294,9 @@
     <section>
         <title>Website</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-Website"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -341,9 +341,9 @@
     <section>
         <title>Work from a Website</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-WorkFromAWebsite"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -380,9 +380,9 @@
     <section>
         <title>Online Newspaper</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-OnlineNewspaper"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -418,9 +418,9 @@
     <section>
         <title>Entry in an Encyclopedia</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-Encyclopedia"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -456,9 +456,9 @@
     <section>
         <title>Lecture</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-Lecture"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -494,9 +494,9 @@
     <section>
         <title>Film</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-Film"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -532,9 +532,9 @@
     <section>
         <title>Music Performance</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-MusicPerformance"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -570,9 +570,9 @@
     <section>
         <title>Music Recording</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-MusicRecording"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -606,9 +606,9 @@
     <section>
         <title>Artwork</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-Artwork"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -651,9 +651,9 @@
     <section>
         <title>Government Document</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-GovernmentDoc"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -687,9 +687,9 @@
     <section>
         <title>Graphic Novel</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-GraphicNovel"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>
@@ -724,9 +724,9 @@
     <section>
         <title>Translation</title>
         <introduction>
-            <figure>
+            <sidebyside>
                 <image source="images/Citations-Translation"/>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection>
             <title>APA</title>

@@ -138,8 +138,8 @@
                 </li>
             </dl>
         </paragraphs>
-        <figure>
+        <sidebyside>
             <image source="images/RM_KeywordsSearchTerms"/>
-        </figure>
+        </sidebyside>
     </section>
 </chapter>

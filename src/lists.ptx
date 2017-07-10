@@ -25,9 +25,9 @@
             <li><p>Pragmatics is one major reason why it has been so difficult to program computers to speak and understand language. Try telling a robot to <q>crack a window,</q> and see what happens!</p></li>
         </ul>
     </paragraphs>
-    <figure>
+    <sidebyside>
         <image source="images/LM-Top20ThingsLanguage"/>
-    </figure>
+    </sidebyside>
     <list>
         <title>Top 20 Things about Language that You Should Know as a Citizen of the World</title>
         <ol>
