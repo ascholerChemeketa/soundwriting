@@ -64,17 +64,17 @@
     <section>
         <title>Defining and Refining Your Research Question</title>
         <p>Once you've identified and explored your research topic, you'll need to work on refining your research question. A strong research question will allow you to delve into a genuine problem or question to which an answer is not obvious. In other words, you want a question that is debatable and arguable. In creating your own argument to answer the research question, you will use evidence from your research and acknowledge and refute any counter-evidence that you encounter.</p>
-        <paragraphs>
+        <list>
             <title>Characteristics of Strong Research Questions</title>
             <ul>
-                <li><p>typically ask <q>why?</q> or <q>how?</q> questions.</p></li>
-                <li><p>have a clear focus.</p></li>
-                <li><p>are feasible to answer with the resources and time available to you.</p></li>
-                <li><p>are calibrated in scope to the required length of the writing assignment.</p></li>
-                <li><p>are of interest or significance to others.</p></li>
+                <li><p>typically ask <q>why?</q> or <q>how?</q> questions</p></li>
+                <li><p>have a clear focus</p></li>
+                <li><p>are feasible to answer with the resources and time available to you</p></li>
+                <li><p>are calibrated in scope to the required length of the writing assignment</p></li>
+                <li><p>are of interest or significance to others</p></li>
             </ul>
-        </paragraphs>
-        <paragraphs>
+        </list>
+        <list>
             <title>Key Steps</title>
             <ol>
                 <li><p>Begin by asking as many open-ended <q>why?</q> or <q>how?</q> questions as you can think of. Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Part II of <em>The Craft of Research</em>, available online via Collins Library to members of the University of Puget Sound community.</p></li>
@@ -100,7 +100,7 @@
                 <li><p>Be open to refining your research question. As you continue the research and writing process, you may discover that your question is too broad or too narrow, or that there's another, related research question that your evidence is suggesting.</p></li>
                 <li><p>Hold off on deciding what your thesis is until you've identified a viable research question and have begun to delve into your research sources. Committing to a thesis prematurely can hamper your research process by causing you to only seek evidence that supports your argument.</p></li>
             </ol>
-        </paragraphs>
+        </list>
     </section>
     <section>
         <title>Tips and Tricks</title>
@@ -119,7 +119,7 @@
                 <li><p><c>Wom*n</c> will tell the database to search for both <q>women</q> and <q>woman.</q></p></li>
                 <li><p><c>Canad*</c> will tell the database to search for <q>Canada</q> and <q>Canadian.</q></p></li>
             </ul>
-            <p>Put phrases in quotation marks so that the database knows to search for that exact phrase <mdash/> <c>"information literacy"</c> instead of <c>information literacy</c>.</p>
+            <p>Put phrases in quotation marks so that the database knows to search for that exact phrase<mdash/><c>"information literacy"</c> instead of <c>information literacy</c>.</p>
         </paragraphs>
         <paragraphs>
             <title>Make full use of Boolean operators</title>

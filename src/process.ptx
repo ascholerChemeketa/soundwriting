@@ -278,7 +278,39 @@
             </sidebyside>
             <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
             <sidebyside>
-                <image source="images/WP-TransitionTable"/>
+                <!-- <image source="images/WP-TransitionTable"/> -->
+                <tabular>
+                    <col width="33%"/>
+                    <col width="66%"/>
+                    <row top="major" bottom="major">
+                        <cell><p>WHEN/HOW TO USE IT</p></cell>
+                        <cell><p>TRANSITIONAL EXPRESSION</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>To add to a previous idea or to introduce a new idea</p></cell>
+                        <cell><p>In addition, additionally, furthermore, similarly, along the same lines, in the same way, comparatively, along with, as previously mentioned, also, likewise, moreover</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>To elaborate</p></cell>
+                        <cell><p>For example, for instance, specifically, in particular, to elucidate/elaborate</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>To contradict a previous idea/show discrepancy</p></cell>
+                        <cell><p>However, even though, although, while, even with, in spite of, despite, in contrast, on the other hand, but, contradictorily, nevertheless, nonetheless, meanwhile</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>To show cause and effect</p></cell>
+                        <cell><p>Therefore, thus, hence, correspondingly, consequently, accordingly, in light of, because, it follows that, for this reason</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>To conclude a thought</p></cell>
+                        <cell><p>All in all, overall, to conclude, in conclusion</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>To show sequence</p></cell>
+                        <cell><p>First, before, in order to, initially, originally, to begin, precedingly, next, then, during, currently, concurrently, at the same time, simultaneously, meanwhile, after, finally</p></cell>
+                    </row>
+                </tabular>
             </sidebyside>
         </subsection>
         <subsection>
@@ -295,15 +327,15 @@
                 <li><p>A statement on how this contributes to the overall argument/thesis</p></li>
             </ol>
             <paragraphs>
-                <title>If you need more than one body paragraph to make a point<nbsp/><ellipsis/></title>
+                <title>If you need more than one body paragraph to make a point</title>
                 <p>Don't be afraid to take that space! You may need a few body paragraphs to give yourself enough space to fully explicate your evidence or support a single claim. However, if you find yourself needing to write pages and pages about one part of your argument, this may be an indication that you are trying to cover too much ground. When you go back and revise, you may want to consider either eliminating extraneous or unnecessary information or refocusing your thesis around the part of your argument you feel is the strongest or the most interesting to you.</p>
             </paragraphs>
             <paragraphs>
-                <title>If you find yourself writing paragraphs that are pages long<nbsp/><ellipsis/></title>
+                <title>If you find yourself writing paragraphs that are pages long</title>
                 <p>Don't worry<mdash/>they can almost always be broken down into smaller paragraphs. Try identifying points in the paragraph that would be a logical place for a paragraph break. These include transitions shifting from one idea to another (<q>however,</q> <q>although,</q> <q>in contrast,</q> etc.), sudden changes in topic, and introductions to a new claim or a new piece of evidence. Enter a paragraph break at these points and see if the paragraphs work as two distinct entities within the larger body; keep in mind you may need to write a new topic sentence or two to preserve logic fluency.</p>
             </paragraphs>
             <paragraphs>
-                <title>If you find yourself writing paragraphs that are only a couple of sentences long<nbsp/><ellipsis/></title>
+                <title>If you find yourself writing paragraphs that are only a couple of sentences long</title>
                 <p>Shorter paragraphs are sometimes helpful for filling in the gaps or acting as transitions between larger claims. However, a proliferation of shorter paragraphs may confuse and disorient the audience. Try outlining each of your paragraphs before you begin writing to help you flesh them out (see <xref ref="performing-textual-analysis" autoname="yes"/> and <xref ref="outlining" autoname="yes"/> for more tips on how to structure your paragraphs).</p>
             </paragraphs>
         </subsection>
@@ -385,7 +417,7 @@
                     <p>Don't let the guise of <q>needing to do more research</q> let you procrastinate on writing for too long. Because time, accessibility, and resources limit the type and amount of research you can do, you will never have enough research (but that's okay!). You should start writing when you feel like you have a solid understanding of necessary background information and a good outline of your argument. (Of course, you can always write before this point in the process, too.) Even if what you're writing is incoherent and doesn't end up in the final draft, the process of getting your thoughts onto paper will help you sort out your ideas.</p>
                 </li>
                 <li>
-                    <title>You'll probably know that you need to do more research when you<nbsp/><ellipsis/></title>
+                    <title>You'll probably know that you need to do more research when you</title>
                     <p><ul>
                         <li><p>find yourself stuck.</p></li>
                         <li>

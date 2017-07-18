@@ -79,9 +79,6 @@
     <section>
         <title>Making a Strong Argument</title>
         <p>Having the basic elements of an argument (main claim, evidence, substantiation, and counterpoint) is important, but that's not all you can do to make your argument as strong as possible. The most effective arguments are specific, meaningful, arguable within the scope of the assignment, supported by firm lines of evidence, and contestable. While you are developing your argument, use the following questions to help you frame and strengthen it further.</p>
-        <sidebyside>
-            <image source="images/AD-Rain"/>
-        </sidebyside>
         <list>
             <title>Argument Checklist</title>
             <dl>
@@ -111,6 +108,9 @@
                 </li>
             </dl>
         </list>
+        <sidebyside>
+            <image source="images/AD-Rain"/>
+        </sidebyside>
     </section>
     <section xml:id="thesis-development">
         <title>Thesis Development</title>
@@ -260,9 +260,9 @@
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
         </paragraphs>
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality Sir David Attenborough narrate the beginning of the <q>Hello</q> music video.</p>
-        <sidebyside>
+        <figure>
             <video youtube="enu-qR0H_uk"/>
-        </sidebyside>
+        </figure>
     </section>
     <conclusion>
         <title>PRO TIP</title>

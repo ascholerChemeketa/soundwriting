@@ -29,8 +29,6 @@
         <xi:include href="citations.ptx"/>
         <!-- Speaking and Writing -->
         <xi:include href="speaking.ptx"/>
-        <!-- Faculty Writing Advice -->
-        <xi:include href="faculty.ptx"/>
         <!-- Fun Lists -->
         <xi:include href="lists.ptx"/>
         <!-- Different Genres of Writing -->
