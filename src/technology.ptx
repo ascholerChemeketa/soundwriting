@@ -285,9 +285,9 @@
                 <sidebyside>
                     <image source="images/C-CreateBib"/>
                 </sidebyside>
-                <sidebyside>
+                <!-- <sidebyside> -->
                     <!-- <image source="images/C-ZoteroChooseBib"/> -->
-                </sidebyside>
+                <!-- </sidebyside> -->
                 <sidebyside>
                     <image source="images/C-PasteBib"/>
                 </sidebyside>

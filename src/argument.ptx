@@ -260,9 +260,9 @@
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
         </paragraphs>
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality Sir David Attenborough narrate the beginning of the <q>Hello</q> music video.</p>
-        <figure>
+        <sidebyside>
             <video youtube="enu-qR0H_uk"/>
-        </figure>
+        </sidebyside>
     </section>
     <conclusion>
         <title>PRO TIP</title>
