@@ -30,7 +30,7 @@
             <sidebyside>
                 <image source="images/tech-40"/>
             </sidebyside>
-            <p>A small superscript number will appear after the period corresponding with the footnote sequence. At the same time, a line will appear at the bottom of the page with a small number beneath it corresponding to that footnote. You can then write the footnote citation according to the appearance order of the citation (for more on how to write footnotes, see <xref provisional="citations-chicago" autoname="yes"/> in <xref ref="citations" autoname="yes"/>).</p>
+            <p>A small superscript number will appear after the period corresponding with the footnote sequence. At the same time, a line will appear at the bottom of the page with a small number beneath it corresponding to that footnote. You can then write the footnote citation according to the appearance order of the citation (for more on how to write footnotes, see <xref provisional="citations-chicago" text="type-global"/> in <xref ref="citations" text="type-global"/>).</p>
             <sidebyside>
                 <image source="images/tech-41"/>
             </sidebyside>
@@ -46,7 +46,7 @@
         <subsection>
             <title>Formatting Works Cited, Reference Lists, and Bibliographies</title>
             <introduction>
-                <p>Whether you are writing using MLA, APA, or Chicago citation style, you will most likely be required to include a works cited, reference list, or bibliography (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations" autoname="yes"/> and <xref ref="knowledge-management-tools" autoname="yes"/> for some very helpful tricks<nbsp/><ellipsis/>), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations" autoname="yes"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
+                <p>Whether you are writing using MLA, APA, or Chicago citation style, you will most likely be required to include a works cited, reference list, or bibliography (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations" text="type-global"/> and <xref ref="knowledge-management-tools" text="type-global"/> for some very helpful tricks<nbsp/><ellipsis/>), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations" text="type-global"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
             </introduction>
             <subsubsection>
                 <title>MLA - Works Cited</title>
@@ -100,7 +100,7 @@
         </subsection>
         <subsection>
             <title>Peer Editing Tools</title>
-            <p>One of the cooler features of word processors is that many of them allow you to comment, offer suggestions, and even directly overlay changes onto a document. This can be particularly useful when you are peer reviewing another person's document, which you will undoubtedly be doing a lot of throughout your college career. Keep in mind that it's generally more constructive to use the comment function to offer suggestions rather than editing the document directly. That said, tracking changes directly can be useful for smaller errors or editing suggestions. (For more tips on peer review etiquette, see <xref ref="peer-review" autoname="yes"/>.)</p>
+            <p>One of the cooler features of word processors is that many of them allow you to comment, offer suggestions, and even directly overlay changes onto a document. This can be particularly useful when you are peer reviewing another person's document, which you will undoubtedly be doing a lot of throughout your college career. Keep in mind that it's generally more constructive to use the comment function to offer suggestions rather than editing the document directly. That said, tracking changes directly can be useful for smaller errors or editing suggestions. (For more tips on peer review etiquette, see <xref ref="peer-review" text="type-global"/>.)</p>
             <sidebyside>
                 <image source="images/tech-17"/>
             </sidebyside>
@@ -235,7 +235,7 @@
             </paragraphs>
             <paragraphs>
                 <title>Step 2: Do some research!</title>
-                <p>For more tips on research, see <xref ref="research-methods" autoname="yes"/>.</p>
+                <p>For more tips on research, see <xref ref="research-methods" text="type-global"/>.</p>
             </paragraphs>
             <paragraphs>
                 <title>Step 3: Tell Zotero which sources you want it to save</title>
@@ -308,7 +308,7 @@
             </paragraphs>
             <paragraphs>
                 <title>Step 2: Do some research!</title>
-                <p>Put those great research skills to use! (If you need a refresher on how to get started, see <xref ref="research-methods" autoname="yes"/>.)</p>
+                <p>Put those great research skills to use! (If you need a refresher on how to get started, see <xref ref="research-methods" text="type-global"/>.)</p>
             </paragraphs>
             <paragraphs>
                 <title>Step 3: Download your source</title>

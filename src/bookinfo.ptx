@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <docinfo>
     <brandlogo url="https://soundwriting.pugetsound.edu" source="images/logo.svg"/>
+    <!-- this is the default, as of 2017-07-25, but will kill a warning -->
+    <cross-references text="type-global" />
 </docinfo>

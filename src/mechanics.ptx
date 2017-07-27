@@ -123,12 +123,12 @@
                 </sidebyside>
                 <p>There are also some English words, especially in the sciences, that have tricky plural forms, so you might not even realize that the word you're using is actually plural. One great example is the word <em>data</em>, which is plural (<em><q>The data suggest that<ellipsis/></q></em>). Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
                 <aside>
-                    <p>What may seem like problems with subject/verb agreement might actually be <em>correct</em> subject/verb agreement in another variety of English. (see <xref ref="comparing-SAE-and-AAVE" autoname="title"/>)</p>
+                    <p>What may seem like problems with subject/verb agreement might actually be <em>correct</em> subject/verb agreement in another variety of English. (see <xref ref="comparing-SAE-and-AAVE" text="title"/>)</p>
                 </aside>
             </subsubsection>
             <subsubsection>
                 <title>Lack of agreement between pronoun and antecedent, especially the use of <q>they</q> as a singular pronoun</title>
-                <p>Problems with agreement occur most commonly when a writer mentions a subject, a movie director, for example, and then uses a pronoun (recall: he, she, they, it) to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender-neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" autoname="title"/>)</p>
+                <p>Problems with agreement occur most commonly when a writer mentions a subject, a movie director, for example, and then uses a pronoun (recall: he, she, they, it) to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender-neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" text="title"/>)</p>
                 <p>A sentence using <q>they</q> but referring to a singular pronoun looks like this:</p>
                 <blockquote>
                     <p><q>I liked what the director of the movie did. They did a good job.</q></p>
@@ -248,7 +248,7 @@
         </subsection>
         <subsection>
             <title>Confusing modifiers</title>
-            <p>(See also <xref ref="misplaced-and-dangling-modifiers" autoname="yes"/>)</p>
+            <p>(See also <xref ref="misplaced-and-dangling-modifiers" text="type-global"/>)</p>
             <p>Sometimes the subject and verb are separated by modifying phrases and adjectives that describe the subject. While modifiers are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicised.<ul>
                 <li><p><q><un s="1">President Crawford</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
                 <li><p><q>The <un s="1">first-year resident</un>, who was feeling FOMO and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
@@ -348,7 +348,7 @@
         </subsection>
         <subsection>
             <title>Sentence fragments</title>
-            <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense. (see <xref ref="basic-sentence-structure" autoname="title"/>)</p>
+            <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense. (see <xref ref="basic-sentence-structure" text="title"/>)</p>
             <p>So how do you avoid sentence fragments?</p>
             <ul>
                 <li><p>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</p></li>
@@ -663,7 +663,7 @@
             <blockquote>
                 <p><q>Towering above the heads of the students, we gazed in awe up at the sequoia tree.</q></p>
             </blockquote>
-            <p>In this sentence, <q>towering above the heads of the students</q> is a participial phrase (see <xref ref="participial-phrases" autoname="yes"/>). However, it's currently being used to describe the pronoun <q>we.</q> Unless <q>we</q> are giants, this sentence doesn't make much sense; how can <q>we</q> tower above the heads of students? Instead, the participial phrase is likely intended to describe the sequoia tree. Consider a revision that places the modifier next to the noun it describes:</p>
+            <p>In this sentence, <q>towering above the heads of the students</q> is a participial phrase (see <xref ref="participial-phrases" text="type-global"/>). However, it's currently being used to describe the pronoun <q>we.</q> Unless <q>we</q> are giants, this sentence doesn't make much sense; how can <q>we</q> tower above the heads of students? Instead, the participial phrase is likely intended to describe the sequoia tree. Consider a revision that places the modifier next to the noun it describes:</p>
             <blockquote>
                 <p><q>We gazed in awe up at the sequoia tree towering above the heads of the students.</q></p>
             </blockquote>
@@ -978,7 +978,7 @@
                 <li><p>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up! (We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p></li>
                 <li><p>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course). The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p></li>
                 <li><p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, everyday conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (i.e., having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, do your course readings! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
-                <li><p>See <xref ref="homophone-errors" autoname="yes"/> to avoid misusing words that sound alike.</p></li>
+                <li><p>See <xref ref="homophone-errors" text="type-global"/> to avoid misusing words that sound alike.</p></li>
             </ol>
             <paragraphs>
                 <title>Ineffective word choice</title>
@@ -1195,12 +1195,12 @@
             </paragraphs>
             <paragraphs>
                 <title>Comma splices</title>
-                <p><term>Comma splices</term> occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" autoname="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q> </em>Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused?</p>
+                <p><term>Comma splices</term> occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" text="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q> </em>Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused?</p>
                 <p>What can you do instead? You have several options!</p>
                 <ol>
                     <li><p>You can keep the sentences as they are and replace the comma with a semicolon. This option works for sentences that are too closely related for a period but for which a coordinating conjunction would be inappropriate. (For example, <em><q>I like cats; they are cute.</q></em>)</p></li>
                     <li><p>You can split the clauses into two sentences: <em><q>Comma splices make sentences less precise. Can you see how the absence of a comma splice improves my sentence(s)?</q></em></p></li>
-                    <li><p>You can put a coordinating conjunction (see <xref ref="parts-of-speach" autoname="yes"/>) after the comma and before the second clause: <em><q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></em></p></li>
+                    <li><p>You can put a coordinating conjunction (see <xref ref="parts-of-speach" text="type-global"/>) after the comma and before the second clause: <em><q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></em></p></li>
                     <li><p>You can alter the clauses so that one is no longer an independent clause: <em><q>Comma splices aren't great, which is why I don't use them.</q></em></p></li>
                     <li><p>Finally, if possible, you can also combine the idea into one sentence/independent clause: <em><q>I don't use comma splices.</q></em></p></li>
                 </ol>
@@ -1357,7 +1357,7 @@
                     </li>
                     <li>
                         <title>If you are quoting a sentence with an informality or deviation from <xref ref="SAE">Standard American English</xref> or emphasis in the source material, acknowledge that within or after the quote</title>
-                        <p>Sometimes direct quotes have spelling or grammatical deviations from <xref ref="SAE"><init>SAE</init></xref>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations" autoname="yes"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
+                        <p>Sometimes direct quotes have spelling or grammatical deviations from <xref ref="SAE"><init>SAE</init></xref>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations" text="type-global"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
                         <blockquote>
                             <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <sq><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></sq> at the CWLT?</q></p>
                         </blockquote>
@@ -1395,7 +1395,7 @@
                     </li>
                     <li>
                         <title>Incorporate quoted fragments into syntax of sentence</title>
-                        <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallel-sentence-structure" autoname="yes"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically-correct and complete.</p>
+                        <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallel-sentence-structure" text="type-global"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically-correct and complete.</p>
                         <blockquote>
                             <p>After their meeting with Rachael Shelden, Coordinator of Learning Support Services, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
                         </blockquote>
@@ -1500,7 +1500,7 @@
                     <li><p>Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Café) to anthropomorphized bears (Grizz).</p></li>
                     <li>
                         <p>Chances are, if it specifies a particular thing as opposed to that thing in general (University of Puget Sound v. college), capitalize it!</p>
-                        <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness" autoname="yes"/> where we discuss this issue further.)</p>
+                        <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness" text="type-global"/> where we discuss this issue further.)</p>
                     </li>
                 </ul>
             </li>
