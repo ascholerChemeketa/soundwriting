@@ -54,24 +54,27 @@ function validate {
         -jar ${JINGTRANG}/jing.jar\
         ${MBX}/Schema/pretext.rng ${SOURCE}/SoundWriting.ptx\
     | grep -v\
-        -e 'black'\
-        -e 'blue'\
-        -e 'darkgreen'\
-        -e 'darkpurple'\
-        -e 'darkred'\
-        -e 'gray'\
-        -e 'green'\
-        -e 'lightblue'\
-        -e 'lightgreen'\
-        -e 'lightpink'\
-        -e 'lightpurple'\
-        -e 'maroon'\
-        -e 'navy'\
-        -e 'orange'\
-        -e 'pink'\
-        -e 'red'\
-        -e 'teal'\
-    > ${SCRATCH}/errors.txt
+        -e '"blue"'\
+        -e '"darkgreen"'\
+        -e '"darkpurple"'\
+        -e '"darkred"'\
+        -e '"gray"'\
+        -e '"green"'\
+        -e '"lightblue"'\
+        -e '"lightgreen"'\
+        -e '"lightpink"'\
+        -e '"lightpurple"'\
+        -e '"maroon"'\
+        -e '"navy"'\
+        -e '"orange"'\
+        -e '"pink"'\
+        -e '"purple"'\
+        -e '"red"'\
+        -e '"teal"'\
+        -e '"i"'\
+        -e '"un"'\
+        -e '"highlight"'\
+    > ${SCRATCH}/errors.txt;
     less ${SCRATCH}/errors.txt
 }
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
-    <paragraphs>
+    <list>
         <title>Top 5 differences between written and spoken (or signed!) language</title>
         <ol>
             <li><p>The obvious difference (excluding the modern inventions of radio, telephones, and television): written language allows people to communicate across time and space, while spoken language happens immediately and is available only for those who can hear it (or see it, in the case of sign languages).</p></li>
@@ -10,13 +10,15 @@
             <li><p>Spoken and signed languages can have varieties and dialects, while written language is generally more regulated and standardized.</p></li>
             <li><p>Writing and speaking appear to use different parts of the brain.</p></li>
         </ol>
-    </paragraphs>
-    <paragraphs>
+    </list>
+    <list>
         <title>Differences in dialectual/cultural rules</title>
-        <p>Communication extends far beyond the grammatical features used by a speaker or writer. A person's grammar may be technically correct, but the meaning of their words can provoke anger, laughter, misunderstanding, or outright confusion. Since language revolves around <em>context</em>, knowing the context in which you speak or write is essential to producing culturally appropriate messages. In linguistics, the study of these cultural and contextual language rules is called <term>pragmatics</term>.</p>
-        <p>Consider this example: you've decided to take your six-year-old cousin to the park for a picnic. You notice that a woman nearby is very pregnant. Your cousin also notices the person's large belly and decides to walk up to her and say, <q>Wow! You must have eaten a lot of treats!</q> Although your cousin's sentence is grammatically correct, they have made the significant English pragmatic mistake of talking about someone's body and consumption. Maybe your young cousin heard their parent say this same sentence to the robust family dog but has not yet learned that speaking to humans in such a way is inappropriate.</p>
-        <p>Another example would be one of pragmatic differences between languages: a Caribbean student studying in the United States turns in a narrative and receives a poor grade. The teacher's comments point to an unorganized, illogical sequence of events within the narrative. However, what the teacher sees as unorganized and illogical is actually a culturally-distinct method of storytelling that is different from the standard method <xref ref="SAE">Standard American English</xref> uses.</p>
-        <p>Here are some more pragmatic facts:</p>
+        <introduction>
+            <p>Communication extends far beyond the grammatical features used by a speaker or writer. A person's grammar may be technically correct, but the meaning of their words can provoke anger, laughter, misunderstanding, or outright confusion. Since language revolves around <em>context</em>, knowing the context in which you speak or write is essential to producing culturally appropriate messages. In linguistics, the study of these cultural and contextual language rules is called <term>pragmatics</term>.</p>
+            <p>Consider this example: you've decided to take your six-year-old cousin to the park for a picnic. You notice that a woman nearby is very pregnant. Your cousin also notices the person's large belly and decides to walk up to her and say, <q>Wow! You must have eaten a lot of treats!</q> Although your cousin's sentence is grammatically correct, they have made the significant English pragmatic mistake of talking about someone's body and consumption. Maybe your young cousin heard their parent say this same sentence to the robust family dog but has not yet learned that speaking to humans in such a way is inappropriate.</p>
+            <p>Another example would be one of pragmatic differences between languages: a Caribbean student studying in the United States turns in a narrative and receives a poor grade. The teacher's comments point to an unorganized, illogical sequence of events within the narrative. However, what the teacher sees as unorganized and illogical is actually a culturally-distinct method of storytelling that is different from the standard method <xref ref="SAE">Standard American English</xref> uses.</p>
+            <p>Here are some more pragmatic facts:</p>
+        </introduction>
         <ul>
             <li><p>Other examples of pragmatic knowledge include knowing how and when to take turns speaking, making eye contact, and asking questions or asking for clarification.</p></li>
             <li><p>Contributing relevant information to a conversation that is not redundant or repetitive and adjusting the type of language based on the conversational situation constitute other types of pragmatic knowledge.</p></li>
@@ -24,7 +26,7 @@
             <li><p>There are three main aspects of communication that are essential to understanding the pragmatic situation of a conversation: 1) the literal meaning of what was spoken (locution), 2) the speaker's intentions (illocution), and 3) the listener's interpretation (perlocution).</p></li>
             <li><p>Pragmatics is one major reason why it has been so difficult to program computers to speak and understand language. Try telling a robot to <q>crack a window,</q> and see what happens!</p></li>
         </ul>
-    </paragraphs>
+    </list>
     <sidebyside>
         <image source="images/LM-Top20ThingsLanguage"/>
     </sidebyside>
@@ -141,64 +143,46 @@
         <ol>
             <li>
                 <p>Is it <sq>She gave the book to Bob and I</sq> or <sq>She gave the book to Bob and me</sq>?</p>
-                <paragraphs>
-                    <title>Tip</title>
-                    <p>Take Bob out of the picture completely (sorry, Bob). Would you say <sq>She gave I the book</sq> or <sq>She gave me the book</sq>? Right! You'd say <sq>She gave me the book,</sq> so you would say <sq>She gave the book to Bob and me.</sq></p>
-                </paragraphs>
+                <p>Take Bob out of the picture completely (sorry, Bob). Would you say <sq>She gave I the book</sq> or <sq>She gave me the book</sq>? Right! You'd say <sq>She gave me the book,</sq> so you would say <sq>She gave the book to Bob and me.</sq></p>
             </li>
             <li>
                 <p>Does the period go inside the parentheses or outside of them?</p>
-                <paragraphs>
-                    <title>Tip</title>
-                    <p>Is the parenthetical statement part of a sentence, or does the statement stand alone within parentheses?</p>
-                    <p>If it's part of a sentence, put the period outside the parentheses: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies).</q></p>
-                    <p>If it stands alone, put the period inside the parentheses: <q>I like to go to the <acro>SUB</acro>. (There are really good cookies there.)</q></p>
-                </paragraphs>
-                <paragraphs>
+                <p>Is the parenthetical statement part of a sentence, or does the statement stand alone within parentheses?</p>
+                <p>If it's part of a sentence, put the period outside the parentheses: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies).</q></p>
+                <p>If it stands alone, put the period inside the parentheses: <q>I like to go to the <acro>SUB</acro>. (There are really good cookies there.)</q></p>
+                <aside>
                     <title>Additional Note</title>
                     <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies!).</q></p>
-                </paragraphs>
+                </aside>
             </li>
             <li>
                 <p><stale>Could of</stale> <m>\rightarrow</m> <insert>Could've</insert></p>
-                <paragraphs>
-                    <title>Tip</title>
-                    <p>Remember that there are differences between written and spoken language! Although you hear the word <q>of</q> when you say this, what you're actually saying is <q>ve</q><mdash/>the last half of <q>have.</q> Because the sounds are the same when spoken and therefore the meaning of the phrase is unobstructed, it's easy to forget the distinction while writing. But, since written language requires the distinction to retain the meaning of the sentence (imagine being a confused English Language Learner reading <q>could of</q>), writers instead use the contraction <q>could've.</q></p>
-                </paragraphs>
+                <p>Remember that there are differences between written and spoken language! Although you hear the word <q>of</q> when you say this, what you're actually saying is <q>ve</q><mdash/>the last half of <q>have.</q> Because the sounds are the same when spoken and therefore the meaning of the phrase is unobstructed, it's easy to forget the distinction while writing. But, since written language requires the distinction to retain the meaning of the sentence (imagine being a confused English Language Learner reading <q>could of</q>), writers instead use the contraction <q>could've.</q></p>
             </li>
             <li>
                 <p>Lay vs. lie vs. laid vs. lain</p>
-                <paragraphs>
-                    <title>Tip</title>
-                    <p>Maybe just forget about this one. (Just kidding<mdash/>kind of.) Despite being such a wonderful thing, the act of lying (laying?) down can cause a world of pain when trying to write about it. The crucial thing you must determine is what (or who) is doing the laying/lying: (1) Is someone or something lying down on their own? (2) Or is someone laying something (or someone) else down?</p>
-                </paragraphs>
-
+                <p>Maybe just forget about this one. (Just kidding<mdash/>kind of.) Despite being such a wonderful thing, the act of lying (laying?) down can cause a world of pain when trying to write about it. The crucial thing you must determine is what (or who) is doing the laying/lying: (1) Is someone or something lying down on their own? (2) Or is someone laying something (or someone) else down?</p>
                 <p>Present tense:<ul>
                     <li><p>Lie = <q>You lie down.</q></p></li>
                     <li><p>Lay = <q>You lay something down.</q></p></li>
                 </ul></p>
-
                 <p>Seems easy enough, but, unfortunately, it gets more confusing.</p>
-
                 <p>Past tense:<ul>
                     <li><p>Lie <m>\rightarrow</m> lay = <q>You lay down too often.</q></p></li>
                     <li><p>Lay <m>\rightarrow</m> lie = <q>You lie something down.</q></p></li>
                 </ul></p>
-
                 <p>Past participle:<ul>
                     <li><p>Lie <m>\rightarrow</m> lain = <q>You have lain down for too long.</q></p></li>
                     <li><p>Lay <m>\rightarrow</m> laid = <q>You have laid down far too many things today.</q></p></li>
                 </ul></p>
-
                 <p>-ing versions:<ul>
                     <li><p>Lie <m>\rightarrow</m> lying = <q>You have been lying around all day!</q></p></li>
                     <li><p>Lay <m>\rightarrow</m> laying = <q>You have been laying things all over the house!</q></p></li>
                 </ul></p>
-
-                <paragraphs>
+                <aside>
                     <title>A tip for the indolent</title>
                     <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to ;)</p>
-                </paragraphs>
+                </aside>
             </li>
             <li>
                 <p>Drink/drank/drunk<ul>
@@ -210,56 +194,47 @@
             <li>
                 <p>Who vs. Whom</p>
                 <p>This distinction is rapidly falling out of use, but a tip about how to remember the different usages might come in handy.</p>
-                <paragraphs>
-                    <title>Tip</title>
-                    <p>If you would say <q>him,</q> <q>her,</q> or <q>them,</q> then you should use whom. If you would say <q>he,</q> <q>she,</q> or <q>they,</q> then use who.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Examples</title>
+                <p>If you would say <q>him,</q> <q>her,</q> or <q>them,</q> then you should use whom. If you would say <q>he,</q> <q>she,</q> or <q>they,</q> then use who.</p>
+                <p>
+                    Examples:
                     <ul>
                         <li><p><q>I am speaking to her.</q> <m>\rightarrow</m> <q>To whom am I speaking?</q></p></li>
                         <li><p><q>She called.</q> <m>\rightarrow</m> <q>Who called?</q></p></li>
                         <li><p><q>I envy him.</q> <m>\rightarrow</m> <q>He's the person whom I envy.</q></p></li>
                     </ul>
-                </paragraphs>
+                </p>
             </li>
             <li>
                 <p>Fewer vs. Less</p>
-                <paragraphs>
-                    <title>Tip</title>
-                    <p>This one is simple! If you can count it, use <q>fewer.</q> If you can't count it, use <q>less.</q></p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Examples</title>
+                <p>This one is simple! If you can count it, use <q>fewer.</q> If you can't count it, use <q>less.</q></p>
+                <p>
+                    Examples:
                     <ul>
                         <li><p><q>I want fewer homework assignments.</q></p></li>
                         <li><p><q>I want less homework.</q></p></li>
                         <li><p><q>I want fewer cartons of milk.</q></p></li>
                         <li><p><q>I want less milk.</q></p></li>
                     </ul>
-                </paragraphs>
+                </p>
             </li>
             <li>
                 <p>Who's vs. Whose</p>
-                <paragraphs>
-                    <title>Tip</title>
-                    <p>Possessives in English are the worst! <q>Who's</q> seems like it would denote possession because it has an apostrophe, which is how we usually indicate that someone has something (with the exception of possessive pronouns like hers, his, theirs, and yours, of course<ellipsis/>). But, unfortunately, <q>who's</q> is a contraction of <q>who is</q> or <q>who has</q> and it has nothing to do with possession.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Examples</title>
+                <p>Possessives in English are the worst! <q>Who's</q> seems like it would denote possession because it has an apostrophe, which is how we usually indicate that someone has something (with the exception of possessive pronouns like hers, his, theirs, and yours, of course<ellipsis/>). But, unfortunately, <q>who's</q> is a contraction of <q>who is</q> or <q>who has</q> and it has nothing to do with possession.</p>
+                <p>
+                    Examples:
                     <ul>
                         <li><p><q>Who's that over there?</q> <m>\rightarrow</m> <q>Who is that over there?</q></p></li>
                         <li><p><q>She's the one who's been helping me.</q> <m>\rightarrow</m> <q>She is the one who has been helping me.</q></p></li>
                     </ul>
-                </paragraphs>
+                </p>
                 <p><q>Whose,</q> on the other hand, indicates that someone, <q>who,</q> possesses something. If you're a fan of early 2000s American comedy, you might use <em>Whose Line is it Anyway?</em> as a mnemonic device.</p>
-                <paragraphs>
-                    <title>Examples</title>
+                <p>
+                    Examples:
                     <ul>
                         <li><p><q>Whose baby is that?</q> <m>\rightarrow</m> <q>To whom does that baby belong?</q></p></li>
                         <li><p><q>My friend, whose bike was stolen, decided to buy a U-lock.</q> <m>\rightarrow</m> <q>My friend, who possessed a bike that was stolen, decided to buy a U-lock.</q></p></li>
                     </ul>
-                </paragraphs>
+                </p>
             </li>
             <li>
                 <p>Speaking of possessive pronouns<ellipsis/></p>

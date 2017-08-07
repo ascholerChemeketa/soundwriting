@@ -8,59 +8,62 @@
     </section>
     <section xml:id="parts-of-speach">
         <title>Parts of Speech</title>
-        <p>Each word in a sentence belongs to a part of speech. There are eight parts of speech: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Words can belong to multiple parts of speech, depending on how they're being used. By being able to identify the part of speech a word falls into, you can better understand the underlying forms and meanings of a sentence. Here are the eight parts of speech and some examples:</p>
-        <dl>
-            <li>
-                <title><term>Noun</term></title>
-                <p>person, place, or thing</p>
-                <p>Examples: book, cat, dog, I, me, Puget Sound</p>
-            </li>
-            <li>
-                <title><term>Verb</term></title>
-                <p>action word</p>
-                <p>Examples: agonize, do, jump, run, swim</p>
-            </li>
-            <li>
-                <title><term>Adjective</term></title>
-                <p>describes a noun</p>
-                <p>Examples: cold, green, rainy, windy</p>
-            </li>
-            <li>
-                <title><term>Adverb</term></title>
-                <p>describes a verb (often ends in -ly)</p>
-                <p>Examples: beautifully, fast, quickly, slowly</p>
-            </li>
-            <li>
-                <title><term>Pronoun</term></title>
-                <p>replaces a noun</p>
-                <p>Examples: he, his, her, it, she, they, theirs</p>
-            </li>
-            <li>
-                <title><term>Preposition</term></title>
-                <p>describes timing or placement of a noun or pronoun</p>
-                <p>Examples: about, at, beside, by, during, for, instead of</p>
-            </li>
-            <li>
-                <title><term>Conjunction</term></title>
-                <p>connects phrases and clauses<dl>
-                    <li>
-                        <title><term>Coordinating conjunction</term></title>
-                        <p>coordinates two ideas that are emphasized equally in the sentence</p>
-                        <p>Examples: FANBOYS= for, and, nor, but, or, yet, so</p>
-                    </li>
-                    <li>
-                        <title><term>Subordinating conjunction</term></title>
-                        <p>subordinates one idea or clause to another idea or clause</p>
-                        <p>Examples: after, although, because, since, than, whether, while</p>
-                    </li>
-                </dl></p>
-            </li>
-            <li>
-                <title><term>Interjection</term></title>
-                <p>an exclamation that shows the writer's emotions</p>
-                <p>Examples: Ah!, crap, duh, huh?, no!, wow</p>
-            </li>
-        </dl>
+        <p>Each word in a sentence belongs to a part of speech. There are eight parts of speech: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Words can belong to multiple parts of speech, depending on how they're being used. By being able to identify the part of speech a word falls into, you can better understand the underlying forms and meanings of a sentence.</p>
+        <list>
+            <title>Here are the eight parts of speech and some examples</title>
+            <dl>
+                <li>
+                    <title><term>Noun</term></title>
+                    <p>person, place, or thing</p>
+                    <p>Examples: book, cat, dog, I, me, Puget Sound</p>
+                </li>
+                <li>
+                    <title><term>Verb</term></title>
+                    <p>action word</p>
+                    <p>Examples: agonize, do, jump, run, swim</p>
+                </li>
+                <li>
+                    <title><term>Adjective</term></title>
+                    <p>describes a noun</p>
+                    <p>Examples: cold, green, rainy, windy</p>
+                </li>
+                <li>
+                    <title><term>Adverb</term></title>
+                    <p>describes a verb (often ends in -ly)</p>
+                    <p>Examples: beautifully, fast, quickly, slowly</p>
+                </li>
+                <li>
+                    <title><term>Pronoun</term></title>
+                    <p>replaces a noun</p>
+                    <p>Examples: he, his, her, it, she, they, theirs</p>
+                </li>
+                <li>
+                    <title><term>Preposition</term></title>
+                    <p>describes timing or placement of a noun or pronoun</p>
+                    <p>Examples: about, at, beside, by, during, for, instead of</p>
+                </li>
+                <li>
+                    <title><term>Conjunction</term></title>
+                    <p>connects phrases and clauses<dl>
+                        <li>
+                            <title><term>Coordinating conjunction</term></title>
+                            <p>coordinates two ideas that are emphasized equally in the sentence</p>
+                            <p>Examples: FANBOYS= for, and, nor, but, or, yet, so</p>
+                        </li>
+                        <li>
+                            <title><term>Subordinating conjunction</term></title>
+                            <p>subordinates one idea or clause to another idea or clause</p>
+                            <p>Examples: after, although, because, since, than, whether, while</p>
+                        </li>
+                    </dl></p>
+                </li>
+                <li>
+                    <title><term>Interjection</term></title>
+                    <p>an exclamation that shows the writer's emotions</p>
+                    <p>Examples: Ah!, crap, duh, huh?, no!, wow</p>
+                </li>
+            </dl>
+        </list>
         <sidebyside>
             <image source="images/LM-PartsofSpeech"/>
         </sidebyside>
@@ -88,36 +91,40 @@
             <subsubsection>
                 <title>Problems with subject/verb agreement</title>
                 <p>Any student of a foreign language knows that consistent subject and verb agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular) or<mdash/>in the middle of complex sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
-                <p>Here are a few rules to help guide you through tricky sentences:</p>
-                <ul>
-                    <li>
-                        <p>When the subject of a sentence is comprised of two or more nouns/pronouns connected by <q>and,</q> use a plural verb:</p>
-                        <blockquote>
-                            <p><q>President Crawford and professors meet with students frequently.</q></p>
-                        </blockquote>
-                    </li>
-                    <li>
-                        <p>When the subject of a sentence is comprised of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> the <em>verb corresponds with the noun or pronoun closest to it:</em></p>
-                        <blockquote>
-                            <p><q>Either President Crawford or professors meet with students frequently.</q></p>
-                            <p><q>Either professors or President Crawford meets with students frequently.</q></p>
-                        </blockquote>
-                    </li>
-                    <li>
-                        <p>When the subject of a sentence is a collective noun (group, jury, band, etc.) or a title (of a book, play, country, etc.), the verb will always be singular.</p>
-                        <blockquote>
-                            <p><q>I hope that band plays at Logjam again.</q></p>
-                            <p><q>The newest edition of <em>Crosscurrents</em> is great.</q></p>
-                        </blockquote>
-                    </li>
-                    <li>
-                        <p>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</p>
-                        <blockquote>
-                            <p><q>The number of on-campus trees grows each year.</q></p>
-                            <p><q>The Passages leader, alongside all of their passagees, was excited to reach the end of the trail.</q></p>
-                        </blockquote>
-                    </li>
-                </ul>
+                <list>
+                    <introduction>
+                        <p>Here are a few rules to help guide you through tricky sentences.</p>
+                    </introduction>
+                    <ul>
+                        <li>
+                            <p>When the subject of a sentence is comprised of two or more nouns/pronouns connected by <q>and,</q> use a plural verb:</p>
+                            <blockquote>
+                                <p><q>President Crawford and professors meet with students frequently.</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p>When the subject of a sentence is comprised of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> the <em>verb corresponds with the noun or pronoun closest to it:</em></p>
+                            <blockquote>
+                                <p><q>Either President Crawford or professors meet with students frequently.</q></p>
+                                <p><q>Either professors or President Crawford meets with students frequently.</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p>When the subject of a sentence is a collective noun (group, jury, band, etc.) or a title (of a book, play, country, etc.), the verb will always be singular.</p>
+                            <blockquote>
+                                <p><q>I hope that band plays at Logjam again.</q></p>
+                                <p><q>The newest edition of <em>Crosscurrents</em> is great.</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</p>
+                            <blockquote>
+                                <p><q>The number of on-campus trees grows each year.</q></p>
+                                <p><q>The Passages leader, alongside all of their passagees, was excited to reach the end of the trail.</q></p>
+                            </blockquote>
+                        </li>
+                    </ul>
+                </list>
                 <sidebyside>
                     <image source="images/LM-SubjectVerbAgreement"/>
                 </sidebyside>
@@ -133,12 +140,14 @@
                 <blockquote>
                     <p><q>I liked what the director of the movie did. They did a good job.</q></p>
                 </blockquote>
-                <p>In terms of grammatical correctness, formal, standard <xref ref="SAE">English</xref> requires writers to make the correct agreement between a pronoun and its antecedent (i.e. you have to use a singular pronouns for singular antecedents). For a gender-unspecified singular antecedent, then, a writer has a few options: to use the phrase <q>he or she,</q> to make the subject plural if possible, or to avoid the issue altogether by restructuring the sentence. A sentence of this sort would therefore take one of these three forms:</p>
-                <ol>
-                    <li><p><q>I liked what the director of the movie did. He or she did a good job.</q></p></li>
-                    <li><p><q>That movie had a good director. When directors pay special attention to lighting like this director did, they are doing a good job.</q></p></li>
-                    <li><p><q>That movie was great! I can't believe how well the director focused on light!</q></p></li>
-                </ol>
+                <p>
+                    In terms of grammatical correctness, formal, standard <xref ref="SAE">English</xref> requires writers to make the correct agreement between a pronoun and its antecedent (i.e. you have to use a singular pronouns for singular antecedents). For a gender-unspecified singular antecedent, then, a writer has a few options: to use the phrase <q>he or she,</q> to make the subject plural if possible, or to avoid the issue altogether by restructuring the sentence. A sentence of this sort would therefore take one of these three forms:
+                    <ol>
+                        <li><p><q>I liked what the director of the movie did. He or she did a good job.</q></p></li>
+                        <li><p><q>That movie had a good director. When directors pay special attention to lighting like this director did, they are doing a good job.</q></p></li>
+                        <li><p><q>That movie was great! I can't believe how well the director focused on light!</q></p></li>
+                    </ol>
+                </p>
                 <paragraphs>
                     <title>Note</title>
                     <p>It was formerly appropriate to use the pronoun <q>he</q> as the default, but using <q>he</q> as a standard is no longer accepted.</p>
@@ -206,23 +215,37 @@
         </subsection>
         <subsection>
             <title>Either/or, Neither/nor</title>
-            <p>If <q>either</q> and <q>neither</q> are being used to differentiate a singular item or a singular item among several, they are singular pronouns and need a singular verb.<ul>
-                <li><p><q>Would you prefer a drip coffee or caffeinated tea?</q> <q>Either is fine with me.</q></p></li>
-                <li><p><q>Neither of the two coffee machines in Diversions is working.</q></p></li>
-                <p>If <q>either</q> and <q>neither</q> are being used in interrogative statements, they can use a plural verb.<ul>
-                <li><p><q>Are either of you going to the women's lacrosse game?</q></p></li>
-                <li><p><q>Have neither of my books arrived from ILLiad, yet?</q></p></li></ul></p>
-                <p>If <q>either</q> and <q>neither</q> are referring to either one item or another item (two items separated by the conjunction <q>or</q> or <q>nor</q>), the verb is determined by the plurality of the item that lies closest to it. A good rule of thumb is to look at the plurality of the subject/noun closest to the verb and change the verb accordingly. However, even if a sentence is grammatically correct, you may have to fiddle with the order of the items in order to make the sentence sound more clear. For instance, take the following example:<ul>
+            <p>
+                If <q>either</q> and <q>neither</q> are being used to differentiate a singular item or a singular item among several, they are singular pronouns and need a singular verb.
+                <ul>
+                    <li><p><q>Would you prefer a drip coffee or caffeinated tea?</q> <q>Either is fine with me.</q></p></li>
+                    <li><p><q>Neither of the two coffee machines in Diversions is working.</q></p></li>
+                </ul>
+            </p>
+            <p>
+                If <q>either</q> and <q>neither</q> are being used in interrogative statements, they can use a plural verb.
+                <ul>
+                    <li><p><q>Are either of you going to the women's lacrosse game?</q></p></li>
+                    <li><p><q>Have neither of my books arrived from ILLiad, yet?</q></p></li>
+                </ul>
+            </p>
+            <p>
+                If <q>either</q> and <q>neither</q> are referring to either one item or another item (two items separated by the conjunction <q>or</q> or <q>nor</q>), the verb is determined by the plurality of the item that lies closest to it. A good rule of thumb is to look at the plurality of the subject/noun closest to the verb and change the verb accordingly. However, even if a sentence is grammatically correct, you may have to fiddle with the order of the items in order to make the sentence sound more clear. For instance, take the following example:
+                <ul>
                     <li><p><q>Neither my teammates nor my coach was expecting it to rain during practice.</q></p></li>
-                </ul></p>
-                <p>While grammatically correct, this sentence still sounds slightly awkward. Consider a possible revision of the item order below.<ul>
+                </ul>
+                While grammatically correct, this sentence still sounds slightly awkward. Consider a possible revision of the item order below.
+                <ul>
                     <li><p><q>Neither my coach nor my teammates were expecting it to rain during practice.</q> (Sounds much better.)</p></li>
-                </ul></p>
-                <p>Below are some more examples of using <q>either/or</q> and <q>neither/nor.</q><ul>
+                </ul>
+            </p>
+            <p>
+                Below are some more examples of using <q>either/or</q> and <q>neither/nor.</q>
+                <ul>
                     <li><p><q>Either the geology team or the physics team is going to win the science basketball tournament in the Thompson Courtyard.</q></p></li>
                     <li><p><q>Neither the tables nor the couches in Diversions are open.</q></p></li>
-                </ul></p>
-            </ul></p>
+                </ul>
+            </p>
         </subsection>
         <subsection>
             <title>There/here is/are</title>
@@ -349,22 +372,28 @@
         <subsection>
             <title>Sentence fragments</title>
             <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense. (see <xref ref="basic-sentence-structure" text="title"/>)</p>
-            <p>So how do you avoid sentence fragments?</p>
-            <ul>
-                <li><p>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</p></li>
-                <li><p>Word processing programs can help you to identify fragments--but don't depend on them!</p></li>
-                <li><p>Mentally take your sentence out of context, then ask yourself, <em><q>Does this sentence alone make sense?</q></em></p></li>
-            </ul>
-            <p>If you do find a sentence fragment, try these two revision tips:</p>
-            <ul>
-                <li><p>Add the necessary components of a sentence that the fragment is missing.</p></li>
-                <li><p>Combine the sentence fragment with another sentence.</p></li>
-            </ul>
-            <p>Examples of sentence fragments and revisions:</p>
-            <ul>
-                <li><p><q>To the <acro>SUB</acro>.</q> <m>\rightarrow</m> <q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q> In this revision, we combine the fragment with the independent clause, <q>You should take your <acro>SUB</acro> dishes back.</q> By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.</p></li>
-                <li><p><q>All night long!</q> <m>\rightarrow</m> <q>I was in the library all night long!</q> Just like the previous example, this fix gets rid of the fragment and makes the sentence more specific. <q>How long were you in the library?</q> <q>I was in the library all night long!</q></p></li>
-            </ul>
+            <p>
+                So how do you avoid sentence fragments?
+                <ul>
+                    <li><p>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</p></li>
+                    <li><p>Word processing programs can help you to identify fragments--but don't depend on them!</p></li>
+                    <li><p>Mentally take your sentence out of context, then ask yourself, <em><q>Does this sentence alone make sense?</q></em></p></li>
+                </ul>
+            </p>
+            <p>
+                If you do find a sentence fragment, try these two revision tips:
+                <ul>
+                    <li><p>Add the necessary components of a sentence that the fragment is missing.</p></li>
+                    <li><p>Combine the sentence fragment with another sentence.</p></li>
+                </ul>
+            </p>
+            <p>
+                Examples of sentence fragments and revisions:
+                <ul>
+                    <li><p><q>To the <acro>SUB</acro>.</q> <m>\rightarrow</m> <q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q> In this revision, we combine the fragment with the independent clause, <q>You should take your <acro>SUB</acro> dishes back.</q> By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.</p></li>
+                    <li><p><q>All night long!</q> <m>\rightarrow</m> <q>I was in the library all night long!</q> Just like the previous example, this fix gets rid of the fragment and makes the sentence more specific. <q>How long were you in the library?</q> <q>I was in the library all night long!</q></p></li>
+                </ul>
+            </p>
         </subsection>
     </section>
     <section>
@@ -392,37 +421,39 @@
             <sidebyside>
                 <image source="images/LM-SplitInfinitives"/>
             </sidebyside>
-            <p>Below are some more examples of infinitives that are probably okay to leave split:</p>
-            <dl>
-                <li>
-                    <title>Clear</title>
-                    <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at the Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
-                </li>
-                <li>
-                    <title>Confusing</title>
-                    <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at the Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
-                    <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at the Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
-                </li>
-                <li>
-                    <title>Clear</title>
-                    <p><q>By drinking more tea, I plan <un s="1">to</un> <em>gradually</em> <un s="1">lessen</un> my coffee dependence.</q> [infinitive <q>to lessen</q> is split]</p>
-                </li>
-                <li>
-                    <title>Confusing</title>
-                    <p><q>By drinking more tea, I <em>gradually</em> plan <un s="1">to lessen</un> my coffee dependence.</q> [infinitive intact, but modifier <q>gradually</q> could be referring to <q>plan</q> or <q>lessen</q>]</p>
-                    <p><q>By drinking more tea, I plan <un s="1">to lessen</un> <em>gradually</em> my coffee dependence.</q> [infinitive intact, but sentence is awkward]</p>
-                    <p><q>By drinking more tea, I plan <un s="1">to lessen</un> my coffee dependence <em>gradually</em>.</q> [infinitive intact and sentence is acceptable, but modifier <q>gradually</q> is somewhat removed from the verb form <q>to lessen</q>]</p>
-                </li>
-                <li>
-                    <title>Clear</title>
-                    <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive <q>to involve</q> is split]</p>
-                </li>
-                <li>
-                    <title>Confusing</title>
-                    <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but sentence is awkward]</p>
-                    <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
-                </li>
-            </dl>
+            <p>
+                Below are some more examples of infinitives that are probably okay to leave split:
+                <dl>
+                    <li>
+                        <title>Clear</title>
+                        <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at the Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
+                    </li>
+                    <li>
+                        <title>Confusing</title>
+                        <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at the Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
+                        <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at the Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
+                    </li>
+                    <li>
+                        <title>Clear</title>
+                        <p><q>By drinking more tea, I plan <un s="1">to</un> <em>gradually</em> <un s="1">lessen</un> my coffee dependence.</q> [infinitive <q>to lessen</q> is split]</p>
+                    </li>
+                    <li>
+                        <title>Confusing</title>
+                        <p><q>By drinking more tea, I <em>gradually</em> plan <un s="1">to lessen</un> my coffee dependence.</q> [infinitive intact, but modifier <q>gradually</q> could be referring to <q>plan</q> or <q>lessen</q>]</p>
+                        <p><q>By drinking more tea, I plan <un s="1">to lessen</un> <em>gradually</em> my coffee dependence.</q> [infinitive intact, but sentence is awkward]</p>
+                        <p><q>By drinking more tea, I plan <un s="1">to lessen</un> my coffee dependence <em>gradually</em>.</q> [infinitive intact and sentence is acceptable, but modifier <q>gradually</q> is somewhat removed from the verb form <q>to lessen</q>]</p>
+                    </li>
+                    <li>
+                        <title>Clear</title>
+                        <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive <q>to involve</q> is split]</p>
+                    </li>
+                    <li>
+                        <title>Confusing</title>
+                        <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but sentence is awkward]</p>
+                        <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
+                    </li>
+                </dl>
+            </p>
             <assemblage>
                 <title>Note</title>
                 <p>Though there are instances when it would be practical to split the infinitive, you need not always use an adverb. Cutting adverbs, especially when they result in split infinitives, often makes writing cleaner and more fluid.</p>
@@ -444,207 +475,195 @@
                 <p><q>I would like <un s="1">to</un> <em>clearly and concisely</em> <un s="1">write</un> sentences with infinitives.</q></p>
             </blockquote>
             <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
-            <dl>
-                <li>
-                    <title>Clear</title>
-                    <p><q>Before the hiking trip, the PSO members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
-                </li>
-                <li>
-                    <title>Confusing</title>
-                    <p><q>Before the hiking trip, the PSO members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
-                </li>
-                <li>
-                    <title>Clear</title>
-                    <p><q>I should try <un s="1">to drink</un> more tea <em>from now on</em>.</q> [infinitive intact]</p>
-                </li>
-                <li>
-                    <title>Confusing</title>
-                    <p><q>I should try <un s="1">to</un> <em>from now on</em> <un s="1">drink</un> more tea.</q> [infinitive <q>to drink</q> is split by the modifier <q>from now on,</q> which disrupts sentence clarity]</p>
-                </li>
-                <li>
-                    <title>Clear</title>
-                    <p><q>Logjam is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
-                </li>
-                <li>
-                    <title>Confusing</title>
-                    <p><q>Logjam is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
-                </li>
-            </dl>
+            <list>
+                <dl>
+                    <li>
+                        <title>Clear</title>
+                        <p><q>Before the hiking trip, the PSO members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
+                    </li>
+                    <li>
+                        <title>Confusing</title>
+                        <p><q>Before the hiking trip, the PSO members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
+                    </li>
+                    <li>
+                        <title>Clear</title>
+                        <p><q>I should try <un s="1">to drink</un> more tea <em>from now on</em>.</q> [infinitive intact]</p>
+                    </li>
+                    <li>
+                        <title>Confusing</title>
+                        <p><q>I should try <un s="1">to</un> <em>from now on</em> <un s="1">drink</un> more tea.</q> [infinitive <q>to drink</q> is split by the modifier <q>from now on,</q> which disrupts sentence clarity]</p>
+                    </li>
+                    <li>
+                        <title>Clear</title>
+                        <p><q>Logjam is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
+                    </li>
+                    <li>
+                        <title>Confusing</title>
+                        <p><q>Logjam is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
+                    </li>
+                </dl>
+            </list>
         </subsection>
     </section>
     <section>
         <title>Clauses</title>
-        <introduction>
-            <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <term>subject</term> and a <term>predicate</term>, <em>which also means that every clause has a noun and a verb</em>. Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
-            <paragraphs>
-                <title>Recall</title>
-                <p>The subject is the thing or person a sentence is about. The predicate is the part of a sentence that modifies (<ie/> tells you what's going on with) the subject. The predicate also contains a verb and sometimes a direct or an indirect object or different kinds of phrases.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Independent/Main</title>
-                <p>An independent clause, also called a main clause, has a subject and a verb and conveys a complete thought.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Subordinate/Dependent</title>
-                <p>The primary feature of subordinate/dependent clauses is that they cannot stand alone because they do not form a complete thought. Subordinate/dependent clauses are dependent on an independent clause to make sense.</p>
-            </paragraphs>
-            <example>
-                <p>I will wear my raincoat today because it is raining outside.</p>
+        <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <term>subject</term> and a <term>predicate</term>, <em>which also means that every clause has a noun and a verb</em>. Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
+        <paragraphs>
+            <title>Recall</title>
+            <p>The subject is the thing or person a sentence is about. The predicate is the part of a sentence that modifies (<ie/> tells you what's going on with) the subject. The predicate also contains a verb and sometimes a direct or an indirect object or different kinds of phrases.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Independent/Main</title>
+            <p>An independent clause, also called a main clause, has a subject and a verb and conveys a complete thought.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Subordinate/Dependent</title>
+            <p>The primary feature of subordinate/dependent clauses is that they cannot stand alone because they do not form a complete thought. Subordinate/dependent clauses are dependent on an independent clause to make sense.</p>
+        </paragraphs>
+        <example>
+            <p>
+                I will wear my raincoat today because it is raining outside.
                 <ul>
                     <li><p><q>I will wear my raincoat today</q> = a complete sentence</p></li>
                     <li><p><q>because it is raining outside.</q> = an incomplete sentence</p></li>
                 </ul>
-            </example>
-            <example>
-                <p>If you want to be an RA, you should attend the upcoming Res Life info session.</p>
+            </p>
+        </example>
+        <example>
+            <p>
+                If you want to be an RA, you should attend the upcoming Res Life info session.
                 <ul>
                     <li><p><q>If you want to be an RA</q> = incomplete</p></li>
                     <li><p><q>you should attend the upcoming Res Life info session.</q> = complete</p></li>
                 </ul>
-            </example>
-            <example>
-                <p>I can go hiking this weekend as long as I finish my homework by Friday.</p>
+            </p>
+        </example>
+        <example>
+            <p>
+                I can go hiking this weekend as long as I finish my homework by Friday.
                 <ul>
                     <li><p><q>I can go hiking this weekend</q> = complete</p></li>
                     <li><p><q>as long as I finish my homework by Friday.</q> = incomplete</p></li>
                 </ul>
-            </example>
-            <list>
-                <title>Clauses</title>
-                <ul>
-                    <li>Begin with subordinating conjunctions.</li>
-                    <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li>
-                </ul>
-            </list>
-            <list>
-                <title>Adjective/Relative Clauses</title>
-                <ul>
-                    <li>Act as adjectives to modify a noun (the subject)</li>
-                    <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
-                    <li>Answers the question(s): Which one? How many? What kind?</li>
-                </ul>
-            </list>
-            <example>
-                <p><q>The Grizz costume, <em>which belongs to the school</em>, is to be used only at official school events.</q><ul>
-                    <li>Subject = the Grizz costume</li>
-                    <li>Question = which one?</li>
-                    <li>Answer = the one that belongs to the school</li>
-                </ul></p>
-            </example>
-            <example>
-                <p><q>The two chocolate labs <em>that walk around campus</em> are so cute.</q><ul>
-                    <li>Subject = the two chocolate labs</li>
-                    <li>Question = which ones?</li>
-                    <li>Answer = the ones that walk around campus</li>
-                </ul></p>
-            </example>
-            <list>
-                <title>Adverb Clauses</title>
-                <ul>
-                    <li>Act as adverbs to modify the verb in a sentence</li>
-                    <li>Begin with a subordinating conjunction (although, because, after, until, etc.)</li>
-                    <li>Answers the question(s): How? When? Why? Where?</li>
-                </ul>
-            </list>
-            <example>
-                <p><q>I ran around the track until I couldn't run any more.</q><ul>
-                    <li>Verb phrase: ran around the track</li>
-                    <li>Question: How?</li>
-                    <li>Answer = until I couldn't run any more</li>
-                </ul></p>
-            </example>
-            <example>
-                <p><q>He bought fifty bottles of Powerade at the end of the semester because he had leftover Dining Dollars.</q><ul>
-                    <li>Verb phrase: bought fifty bottles of Powerade</li>
-                    <li>Question: Why? (Great question!)</li>
-                    <li>Answer: because he had leftover Dining Dollars</li>
-                </ul></p>
-            </example>
-            <list>
-                <title>Noun Clauses</title>
-                <ul>
-                    <li>Act as nouns</li>
-                    <li>Begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, etc.</li>
-                    <li>Answers the question(s): What? Who?</li>
-                </ul>
-            </list>
-            <example>
-                <p><q>Whoever gave me that cookie is the best!</q><ul>
-                    <li>Question: Who is the best?</li>
-                    <li>Answer: Whoever gave me that cookie</li>
-                </ul></p>
-            </example>
-            <example>
-                <p><q>Do you know why the sky is blue?</q><ul>
-                    <li>Question: What do you want to know?</li>
-                    <li>Answer: Why the sky is blue</li>
-                </ul></p>
-            </example>
-            <paragraphs>
-                <title>Phrases</title>
-                <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscape makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar-related, though, there are far too many phrases with overly-confusing names. To remember and understand each type of phrase, it might be helpful for you to review the parts of speech. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
-            </paragraphs>
-            <assemblage>
-                <p>Whereas a clause has both a noun <em>and</em> a verb, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (e.g., a noun or an adjective).</p>
-            </assemblage>
-            <list>
-                <title>The most common types of phrases</title>
-                <dl>
-                    <li>
-                        <title>Infinitive phrases</title>
-                        <p>Infinitive phrases feature our good friend, the infinitive verb.</p>
-                        <example>
-                            <p><q><em>To include</em> all types of phrases in this list would be too boring.</q></p>
-                        </example>
-                        <example>
-                            <p><q><em>To pull</em> an all-nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso (consume with caution).</q></p>
-                        </example>
-                    </li>
-                    <li>
-                        <title>Prepositional phrases</title>
-                        <p>Remember that a <term>preposition</term> tells you the timing or placement of a noun. A <term>prepositional phrase</term>, then, is a phrase that tells you about the timing or placement of another part of the sentence. Prepositional phrases function as either adjectives (to modify a noun, as in <q>The cat on the bed</q>) or as adverbs (to modify a verb as in <q>The cat jumped off the bed</q>).</p>
-                        <example>
-                            <p><q>That cat is <em>under the table</em>.</q></p>
-                        </example>
-                        <example>
-                            <p><q>As I walked <em>along dark campus pathways</em>, I was glad that I had called a security escort.</q></p>
-                        </example>
-                    </li>
-                    <li>
-                        <title>Noun phrases</title>
-                        <p>A noun phrase acts as (gasp) a noun! Noun phrases include nouns and modifiers (e.g., adjectives).</p>
-                        <example>
-                            <p><q>My <em>spunky roommate</em> listens to the best music.</q></p>
-                        </example>
-                        <example>
-                            <p><q>I'm always brought so much joy when I see <em>that perfect, beautiful, wonderful little puppy dog</em> prancing around campus.</q></p>
-                        </example>
-                    </li>
-                    <li xml:id="participial-phrases">
-                        <title>Participial phrases</title>
-                        <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in -ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in -ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
-                        <example>
-                            <p><q>I like my eggs from the <acro>SUB</acro> <em>covered in ketchup</em>.</q></p>
-                        </example>
-                        <example>
-                            <p><q>The student ran to catch up with her friends, <em>slipping in the puddles</em> along Commencement Walk.</q></p>
-                        </example>
-                    </li>
-                    <li>
-                        <title>Gerund phrases</title>
-                        <p>A gerund is a verb that ends in <q>-ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, -ing) to a sentence.</p>
-                        <example>
-                            <p><q><em>Crying while studying</em> is not recommended.</q></p>
-                        </example>
-                        <example>
-                            <p><q>Although it may seem like a good idea, <em>having pizza from the Cellar for every meal</em> probably isn't the way to go.</q></p>
-                        </example>
-                    </li>
-                </dl>
-            </list>
-        </introduction>
-        <subsection xml:id="misplaced-and-dangling-modifiers">
-            <title>Misplaced and dangling modifiers</title>
+            </p>
+        </example>
+        <list>
+            <title>Clauses</title>
+            <ul>
+                <li>Begin with subordinating conjunctions.</li>
+                <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li>
+            </ul>
+        </list>
+        <list>
+            <title>Adjective/Relative Clauses</title>
+            <ul>
+                <li>Act as adjectives to modify a noun (the subject)</li>
+                <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
+                <li>Answers the question(s): Which one? How many? What kind?</li>
+            </ul>
+        </list>
+        <example>
+            <p><q>The Grizz costume, <em>which belongs to the school</em>, is to be used only at official school events.</q><ul>
+                <li>Subject = the Grizz costume</li>
+                <li>Question = which one?</li>
+                <li>Answer = the one that belongs to the school</li>
+            </ul></p>
+        </example>
+        <example>
+            <p><q>The two chocolate labs <em>that walk around campus</em> are so cute.</q><ul>
+                <li>Subject = the two chocolate labs</li>
+                <li>Question = which ones?</li>
+                <li>Answer = the ones that walk around campus</li>
+            </ul></p>
+        </example>
+        <list>
+            <title>Adverb Clauses</title>
+            <ul>
+                <li>Act as adverbs to modify the verb in a sentence</li>
+                <li>Begin with a subordinating conjunction (although, because, after, until, etc.)</li>
+                <li>Answers the question(s): How? When? Why? Where?</li>
+            </ul>
+        </list>
+        <example>
+            <p><q>I ran around the track until I couldn't run any more.</q><ul>
+                <li>Verb phrase: ran around the track</li>
+                <li>Question: How?</li>
+                <li>Answer = until I couldn't run any more</li>
+            </ul></p>
+        </example>
+        <example>
+            <p><q>He bought fifty bottles of Powerade at the end of the semester because he had leftover Dining Dollars.</q><ul>
+                <li>Verb phrase: bought fifty bottles of Powerade</li>
+                <li>Question: Why? (Great question!)</li>
+                <li>Answer: because he had leftover Dining Dollars</li>
+            </ul></p>
+        </example>
+        <list>
+            <title>Noun Clauses</title>
+            <ul>
+                <li>Act as nouns</li>
+                <li>Begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, etc.</li>
+                <li>Answers the question(s): What? Who?</li>
+            </ul>
+        </list>
+        <example>
+            <p><q>Whoever gave me that cookie is the best!</q><ul>
+                <li>Question: Who is the best?</li>
+                <li>Answer: Whoever gave me that cookie</li>
+            </ul></p>
+        </example>
+        <example>
+            <p><q>Do you know why the sky is blue?</q><ul>
+                <li>Question: What do you want to know?</li>
+                <li>Answer: Why the sky is blue</li>
+            </ul></p>
+        </example>
+        <paragraphs>
+            <title>Phrases</title>
+            <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscape makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar-related, though, there are far too many phrases with overly-confusing names. To remember and understand each type of phrase, it might be helpful for you to review the parts of speech. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
+        </paragraphs>
+        <assemblage>
+            <p>Whereas a clause has both a noun <em>and</em> a verb, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (e.g., a noun or an adjective).</p>
+        </assemblage>
+        <list>
+            <title>The most common types of phrases</title>
+            <dl>
+                <li>
+                    <title>Infinitive phrases</title>
+                    <p>Infinitive phrases feature our good friend, the infinitive verb.</p>
+                    <p><q><em>To include</em> all types of phrases in this list would be too boring.</q></p>
+                    <p><q><em>To pull</em> an all-nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso (consume with caution).</q></p>
+                </li>
+                <li>
+                    <title>Prepositional phrases</title>
+                    <p>Remember that a <term>preposition</term> tells you the timing or placement of a noun. A <term>prepositional phrase</term>, then, is a phrase that tells you about the timing or placement of another part of the sentence. Prepositional phrases function as either adjectives (to modify a noun, as in <q>The cat on the bed</q>) or as adverbs (to modify a verb as in <q>The cat jumped off the bed</q>).</p>
+                    <p><q>That cat is <em>under the table</em>.</q></p>
+                    <p><q>As I walked <em>along dark campus pathways</em>, I was glad that I had called a security escort.</q></p>
+                </li>
+                <li>
+                    <title>Noun phrases</title>
+                    <p>A noun phrase acts as (gasp) a noun! Noun phrases include nouns and modifiers (e.g., adjectives).</p>
+                    <p><q>My <em>spunky roommate</em> listens to the best music.</q></p>
+                    <p><q>I'm always brought so much joy when I see <em>that perfect, beautiful, wonderful little puppy dog</em> prancing around campus.</q></p>
+                </li>
+                <li xml:id="participial-phrases">
+                    <title>Participial phrases</title>
+                    <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in -ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in -ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
+                    <p><q>I like my eggs from the <acro>SUB</acro> <em>covered in ketchup</em>.</q></p>
+                    <p><q>The student ran to catch up with her friends, <em>slipping in the puddles</em> along Commencement Walk.</q></p>
+                </li>
+                <li>
+                    <title>Gerund phrases</title>
+                    <p>A gerund is a verb that ends in <q>-ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, -ing) to a sentence.</p>
+                    <p><q><em>Crying while studying</em> is not recommended.</q></p>
+                    <p><q>Although it may seem like a good idea, <em>having pizza from the Cellar for every meal</em> probably isn't the way to go.</q></p>
+                </li>
+            </dl>
+        </list>
+    </section>
+    <section xml:id="misplaced-and-dangling-modifiers">
+        <title>Misplaced and dangling modifiers</title>
+        <list>
             <dl>
                 <li>
                     <title><term>Modifiers</term></title>
@@ -659,74 +678,73 @@
                     <p>can act as another type of modifier. In the sentence <q>The sequoia tree, which was towering over the students, inspired widespread awe,</q> the clause <q>which was towering over the students</q> is the modifier describing the sequoia tree. Again: <q>What kind of sequoia tree?</q> <q>The one towering over the students.</q></p>
                 </li>
             </dl>
-            <p>While modifiers can be extremely useful for spicing up sentences, they can sometimes be misplaced too far from the noun they are intending to describe. These <term>misplaced modifiers</term> not only make the sentence confusing to read; they also may actually end up describing something they're not supposed to describe. For instance, take the following sentence:</p>
-            <blockquote>
-                <p><q>Towering above the heads of the students, we gazed in awe up at the sequoia tree.</q></p>
-            </blockquote>
-            <p>In this sentence, <q>towering above the heads of the students</q> is a participial phrase (see <xref ref="participial-phrases" text="type-global"/>). However, it's currently being used to describe the pronoun <q>we.</q> Unless <q>we</q> are giants, this sentence doesn't make much sense; how can <q>we</q> tower above the heads of students? Instead, the participial phrase is likely intended to describe the sequoia tree. Consider a revision that places the modifier next to the noun it describes:</p>
-            <blockquote>
-                <p><q>We gazed in awe up at the sequoia tree towering above the heads of the students.</q></p>
-            </blockquote>
-            <p>Here are a few more examples of misplaced modifiers and their possible revisions:</p>
-            <example>
-                <statement>
-                    <blockquote>
-                        <p><q>Liam sprinted up the staircase to his class on the top floor of McIntyre, which was steep and exhausting.</q></p>
-                    </blockquote>
-                    <p>The placement of this modifier makes it seem like the top floor of McIntyre is <q>steep and exhausting.</q></p>
-                    <p>Revision:</p>
-                    <blockquote>
-                        <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of McIntyre.</q></p>
-                    </blockquote>
-                </statement>
-            </example>
-            <example>
-                <statement>
-                    <blockquote>
-                        <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into Jones Fountain.</q></p>
-                    </blockquote>
-                    <p>This sentence makes it seem like the owner was the one <q>whining pleadingly,</q> not the dog!</p>
-                    <p>Revision:</p>
-                    <blockquote>
-                        <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into Jones Fountain.</q></p>
-                    </blockquote>
-                </statement>
-            </example>
-
-            <p>In addition to misplaced modifiers, a <term>dangling modifier</term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
-            <blockquote>
-                <p><q>After writing for hours in Collins, the paper was finally finished.</q></p>
-            </blockquote>
-            <p>In this sentence, <q>after writing for hours</q> is a participle phrase modifying <q>the paper.</q> But a paper can't write itself! Instead, the participle phrase should modify the subject doing the action (in this case, the student writing the paper):</p>
-            <blockquote>
-                <p><q>After writing for hours in Collins, the exhausted student finally finished their paper.</q></p>
-            </blockquote>
-            <p>Here are a few more examples of dangling modifiers and their possible revisions:</p>
-            <example>
-                <statement>
-                    <blockquote>
-                        <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in Wyatt.</q></p>
-                    </blockquote>
-                    <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
-                    <p>Revision:</p>
-                    <blockquote>
-                        <p><q>Unfamiliar with the campus layout, the first year student found it difficult to find their classroom in Wyatt.</q></p>
-                    </blockquote>
-                </statement>
-            </example>
-            <example>
-                <statement>
-                    <blockquote>
-                        <p><q>After reviewing the scholarly article, the author's methods appear questionable.</q></p>
-                    </blockquote>
-                    <p>The modifier, <q>After reviewing the scholarly article,</q> is trying to modify an absent noun.</p>
-                    <p>Revision:</p>
-                    <blockquote>
-                        <p><q>After reviewing the scholarly article, I find the author's methods questionable.</q></p>
-                    </blockquote>
-                </statement>
-            </example>
-        </subsection>
+        </list>
+        <p>While modifiers can be extremely useful for spicing up sentences, they can sometimes be misplaced too far from the noun they are intending to describe. These <term>misplaced modifiers</term> not only make the sentence confusing to read; they also may actually end up describing something they're not supposed to describe. For instance, take the following sentence:</p>
+        <blockquote>
+            <p><q>Towering above the heads of the students, we gazed in awe up at the sequoia tree.</q></p>
+        </blockquote>
+        <p>In this sentence, <q>towering above the heads of the students</q> is a participial phrase (see <xref ref="participial-phrases" text="type-global"/>). However, it's currently being used to describe the pronoun <q>we.</q> Unless <q>we</q> are giants, this sentence doesn't make much sense; how can <q>we</q> tower above the heads of students? Instead, the participial phrase is likely intended to describe the sequoia tree. Consider a revision that places the modifier next to the noun it describes:</p>
+        <blockquote>
+            <p><q>We gazed in awe up at the sequoia tree towering above the heads of the students.</q></p>
+        </blockquote>
+        <p>Here are a few more examples of misplaced modifiers and their possible revisions:</p>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>Liam sprinted up the staircase to his class on the top floor of McIntyre, which was steep and exhausting.</q></p>
+                </blockquote>
+                <p>The placement of this modifier makes it seem like the top floor of McIntyre is <q>steep and exhausting.</q></p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of McIntyre.</q></p>
+                </blockquote>
+            </statement>
+        </example>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into Jones Fountain.</q></p>
+                </blockquote>
+                <p>This sentence makes it seem like the owner was the one <q>whining pleadingly,</q> not the dog!</p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into Jones Fountain.</q></p>
+                </blockquote>
+            </statement>
+        </example>
+        <p>In addition to misplaced modifiers, a <term>dangling modifier</term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
+        <blockquote>
+            <p><q>After writing for hours in Collins, the paper was finally finished.</q></p>
+        </blockquote>
+        <p>In this sentence, <q>after writing for hours</q> is a participle phrase modifying <q>the paper.</q> But a paper can't write itself! Instead, the participle phrase should modify the subject doing the action (in this case, the student writing the paper):</p>
+        <blockquote>
+            <p><q>After writing for hours in Collins, the exhausted student finally finished their paper.</q></p>
+        </blockquote>
+        <p>Here are a few more examples of dangling modifiers and their possible revisions:</p>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in Wyatt.</q></p>
+                </blockquote>
+                <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>Unfamiliar with the campus layout, the first year student found it difficult to find their classroom in Wyatt.</q></p>
+                </blockquote>
+            </statement>
+        </example>
+        <example>
+            <statement>
+                <blockquote>
+                    <p><q>After reviewing the scholarly article, the author's methods appear questionable.</q></p>
+                </blockquote>
+                <p>The modifier, <q>After reviewing the scholarly article,</q> is trying to modify an absent noun.</p>
+                <p>Revision:</p>
+                <blockquote>
+                    <p><q>After reviewing the scholarly article, I find the author's methods questionable.</q></p>
+                </blockquote>
+            </statement>
+        </example>
     </section>
     <section>
         <title>Types of Sentences</title>
@@ -737,46 +755,48 @@
             <p>Dependent/subordinate clause = a subject + a verb + a thought that cannot stand alone and make sense</p>
             <p>Coordinating conjunction = FANBOYS (for, and, nor, but, or, yet, so)</p>
         </paragraphs>
-        <dl>
-            <li>
-                <title><term>Simple</term></title>
-                <p>one independent clause</p>
-                <p>Examples:<ul>
-                    <li><p><q>I love Puget Sound.</q></p></li>
-                    <li><p><q>My RCC is so cool.</q></p></li>
-                    <li><p><q>Puget Sound is in Washington.</q></p></li>
-                </ul></p>
-            </li>
-            <li>
-                <title><term>Compound</term></title>
-                <p>at least two independent clauses connected via a coordinating conjunction</p>
-                <p>Examples:<ul>
-                    <li><p><q>I miss RonThom, but I'm excited that President Crawford is here.</q></p></li>
-                    <li><p><q>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</q></p></li>
-                    <li><p><q>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</q></p></li>
-                </ul></p>
-            </li>
-            <li>
-                <title><term>Complex</term></title>
-                <p>independent clause and one or more dependent/subordinate clauses</p>
-                <p>Examples:<ul>
-                    <li><p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p></li>
-                    <li><p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p></li>
-                    <li><p><q>I need to drink coffee when I'm tired.</q></p></li>
-                </ul></p>
-                <paragraphs>
-                    <title>Note</title>
-                    <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not put a comma.</p>
-                </paragraphs>
-            </li>
-            <li>
-                <title><term>Compound-complex</term></title>
-                <p>two or more independent clauses and at least one dependent/subordinate clause</p>
-                <p>Examples:<ul>
-                    <li><p><q>Independent clauses are really cool, but sometimes they get too long when you add too much information.</q></p></li>
-                </ul></p>
-            </li>
-        </dl>
+        <list>
+            <dl>
+                <li>
+                    <title><term>Simple</term></title>
+                    <p>one independent clause</p>
+                    <p>Examples:<ul>
+                        <li><p><q>I love Puget Sound.</q></p></li>
+                        <li><p><q>My RCC is so cool.</q></p></li>
+                        <li><p><q>Puget Sound is in Washington.</q></p></li>
+                    </ul></p>
+                </li>
+                <li>
+                    <title><term>Compound</term></title>
+                    <p>at least two independent clauses connected via a coordinating conjunction</p>
+                    <p>Examples:<ul>
+                        <li><p><q>I miss RonThom, but I'm excited that President Crawford is here.</q></p></li>
+                        <li><p><q>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</q></p></li>
+                        <li><p><q>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</q></p></li>
+                    </ul></p>
+                </li>
+                <li>
+                    <title><term>Complex</term></title>
+                    <p>independent clause and one or more dependent/subordinate clauses</p>
+                    <p>Examples:<ul>
+                        <li><p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p></li>
+                        <li><p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p></li>
+                        <li><p><q>I need to drink coffee when I'm tired.</q></p></li>
+                    </ul></p>
+                    <aside>
+                        <title>Note</title>
+                        <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not put a comma.</p>
+                    </aside>
+                </li>
+                <li>
+                    <title><term>Compound-complex</term></title>
+                    <p>two or more independent clauses and at least one dependent/subordinate clause</p>
+                    <p>Examples:<ul>
+                        <li><p><q>Independent clauses are really cool, but sometimes they get too long when you add too much information.</q></p></li>
+                    </ul></p>
+                </li>
+            </dl>
+        </list>
     </section>
     <section>
         <title>Subordination and Coordination</title>
@@ -849,47 +869,51 @@
             <blockquote>
                 <p><q>The sandwich station at the <acro>SUB</acro> has the following spread options: hummus, pesto, mayo, mustard, and relish.</q></p>
             </blockquote>
-            <p>To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:</p>
-            <ul>
-                <li><p>While writing a list or series, make sure every item in the series is grammatically consistent (all -ing endings vs. infinitive, passive vs. active voice, etc.).</p></li>
-                <li><p>If you have an adjective or pronoun to describe the first word of a series, apply that descriptor equally to every item in the series to make sure it makes sense.</p></li>
-                <li><p>Read carefully through your paper, paying close attention to series connected by conjunctions (<q>and</q>/<q>or</q>) and checking either side of the sentence for correct parallel structure.</p></li>
-                <li><p>If you have a list or series, isolate every item into its own sentence, identify descriptors you can attribute to every item, and then condense the sentence accordingly.</p></li>
-            </ul>
+            <p>
+                To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:
+                <ul>
+                    <li><p>While writing a list or series, make sure every item in the series is grammatically consistent (all -ing endings vs. infinitive, passive vs. active voice, etc.).</p></li>
+                    <li><p>If you have an adjective or pronoun to describe the first word of a series, apply that descriptor equally to every item in the series to make sure it makes sense.</p></li>
+                    <li><p>Read carefully through your paper, paying close attention to series connected by conjunctions (<q>and</q>/<q>or</q>) and checking either side of the sentence for correct parallel structure.</p></li>
+                    <li><p>If you have a list or series, isolate every item into its own sentence, identify descriptors you can attribute to every item, and then condense the sentence accordingly.</p></li>
+                </ul>
+            </p>
         </subsection>
     </section>
     <section>
         <title>Functional Types of Sentences</title>
-        <dl>
-            <li>
-                <title>Declarative</title>
-                <p>Declarative sentences make statements. You will use primarily declarative sentences in your academic writing.<ul>
-                    <li><p><q>This sentence is a declarative sentence.</q></p></li>
-                    <li><p><q>My favorite club is Yoga Club.</q></p></li>
-                </ul></p>
-            </li>
-            <li>
-                <title>Interrogative</title>
-                <p>Interrogative sentences interrogate<mdash/>that is, they ask questions and end with question marks.<ul>
-                    <li><p><q>Don't you think that <q>interrogative</q> is a funny word?</q></p></li>
-                    <li><p><q>Why are we talking about question marks?</q></p></li>
-                </ul></p>
-            </li>
-            <li>
-                <title>Imperative</title>
-                <p>Imperative sentences do what we all love to do; they give people directions and tell them what to do.<ul>
-                    <li><p><q>Go tell him that it's imperative that he knows what an imperative sentence is.</q></p></li>
-                    <li><p><q>Grab me a Greek yogurt from the <acro>SUB</acro>, please.</q></p></li>
-                </ul></p>
-            </li>
-            <li>
-                <title>Exclamatory</title>
-                <p>Exclamatory sentences exclaim things! They are so exciting!<ul>
-                    <li><p><q>I love Puget Sound!</q></p></li>
-                    <li><p><q>I love writing!</q></p></li>
-                </ul></p>
-            </li>
-        </dl>
+        <list>
+            <dl>
+                <li>
+                    <title>Declarative</title>
+                    <p>Declarative sentences make statements. You will use primarily declarative sentences in your academic writing.<ul>
+                        <li><p><q>This sentence is a declarative sentence.</q></p></li>
+                        <li><p><q>My favorite club is Yoga Club.</q></p></li>
+                    </ul></p>
+                </li>
+                <li>
+                    <title>Interrogative</title>
+                    <p>Interrogative sentences interrogate<mdash/>that is, they ask questions and end with question marks.<ul>
+                        <li><p><q>Don't you think that <q>interrogative</q> is a funny word?</q></p></li>
+                        <li><p><q>Why are we talking about question marks?</q></p></li>
+                    </ul></p>
+                </li>
+                <li>
+                    <title>Imperative</title>
+                    <p>Imperative sentences do what we all love to do; they give people directions and tell them what to do.<ul>
+                        <li><p><q>Go tell him that it's imperative that he knows what an imperative sentence is.</q></p></li>
+                        <li><p><q>Grab me a Greek yogurt from the <acro>SUB</acro>, please.</q></p></li>
+                    </ul></p>
+                </li>
+                <li>
+                    <title>Exclamatory</title>
+                    <p>Exclamatory sentences exclaim things! They are so exciting!<ul>
+                        <li><p><q>I love Puget Sound!</q></p></li>
+                        <li><p><q>I love writing!</q></p></li>
+                    </ul></p>
+                </li>
+            </dl>
+        </list>
     </section>
     <section>
         <title>Diction</title>
@@ -914,57 +938,62 @@
             <sidebyside>
                 <image source="images/LM-ItAndRain"/>
             </sidebyside>
-            <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on Todd Field.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally-acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on Todd Field,</q> does not make very much sense, so this may be an indication that <q>it's</q> is being used as a contraction and therefore needs an apostrophe. Below are some sentence examples of <q>its</q> and <q>it's</q> to help you distinguish which form to use:</p>
-            <dl>
-                <li>
-                    <title>Appropriate usage of <q>its</q></title>
-                    <blockquote>
-                        <p><q>The University celebrated its 128th birthday this year.</q></p>
-                    </blockquote>
-                    <blockquote>
-                        <p><q>To conserve energy, the hummingbird can slow its metabolic rate to 1/15th its normal rate.</q></p>
-                    </blockquote>
-                    <blockquote>
-                        <p><q>The Broadway musical <em>How to Succeed in Business Without Really Trying</em> employed only local Seattle actors and performed on its own specially-constructed stage.</q></p>
-                    </blockquote>
-                    <blockquote>
-                        <p><q>Every year, the Humanities Department hosts a Palaver dinner for its students.</q></p>
-                    </blockquote>
-                </li>
-                <li>
-                    <title>Appropriate usage of <q>it's</q></title>
-                    <blockquote>
-                        <p><q>Skiing is fun, but it's [it is] also a great workout.</q></p>
-                    </blockquote>
-                    <blockquote>
-                        <p><q>From Tacoma, it's [it is] only a brief 45-minute drive to Seattle.</q></p>
-                    </blockquote>
-                    <blockquote>
-                        <p><q>I've worked for weeks on my paper, but how do I know when it's [it is] really finished?</q></p>
-                    </blockquote>
-                    <blockquote>
-                        <p><q>In spite of the slight breeze, it's [it has] been a pleasant day here on campus.</q></p>
-                    </blockquote>
-                </li>
-            </dl>
+            <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on Todd Field.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally-acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on Todd Field,</q> does not make very much sense, so this may be an indication that <q>it's</q> is being used as a contraction and therefore needs an apostrophe.</p>
+            <p>
+                Below are some sentence examples of <q>its</q> and <q>it's</q> to help you distinguish which form to use:
+                <dl>
+                    <li>
+                        <title>Appropriate usage of <q>its</q></title>
+                        <blockquote>
+                            <p><q>The University celebrated its 128th birthday this year.</q></p>
+                        </blockquote>
+                        <blockquote>
+                            <p><q>To conserve energy, the hummingbird can slow its metabolic rate to 1/15th its normal rate.</q></p>
+                        </blockquote>
+                        <blockquote>
+                            <p><q>The Broadway musical <em>How to Succeed in Business Without Really Trying</em> employed only local Seattle actors and performed on its own specially-constructed stage.</q></p>
+                        </blockquote>
+                        <blockquote>
+                            <p><q>Every year, the Humanities Department hosts a Palaver dinner for its students.</q></p>
+                        </blockquote>
+                    </li>
+                    <li>
+                        <title>Appropriate usage of <q>it's</q></title>
+                        <blockquote>
+                            <p><q>Skiing is fun, but it's [it is] also a great workout.</q></p>
+                        </blockquote>
+                        <blockquote>
+                            <p><q>From Tacoma, it's [it is] only a brief 45-minute drive to Seattle.</q></p>
+                        </blockquote>
+                        <blockquote>
+                            <p><q>I've worked for weeks on my paper, but how do I know when it's [it is] really finished?</q></p>
+                        </blockquote>
+                        <blockquote>
+                            <p><q>In spite of the slight breeze, it's [it has] been a pleasant day here on campus.</q></p>
+                        </blockquote>
+                    </li>
+                </dl>
+            </p>
             <assemblage>
                 <p>It's important to remember that contractions (such as <q>it's</q>) are informal and generally not appropriate in academia and should rarely be used in formal academic writing (such as lab reports, analytical essays, etc.). HOWEVER: the use of <q>it's</q> depends on the discipline, professor, writing assignment, and your own creative and scholarly voice, so don't be afraid to employ it intentionally as you see fit.</p>
             </assemblage>
         </subsection>
         <subsection>
             <title>Empty and imprecise statements</title>
-            <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply. Here are some examples of long-winded ways to say relatively simple things:</p>
-            <ol>
-                <li><p><q>At this juncture in time<nbsp/><ellipsis/></q> <m>\rightarrow</m> now, currently</p></li>
-                <li><p><q>By virtue of the fact<nbsp/><ellipsis/></q> <m>\rightarrow</m> because</p></li>
-                <li><p><q>For the purpose of<nbsp/><ellipsis/></q> <m>\rightarrow</m> to</p></li>
-                <li><p><q>In all likelihood<nbsp/><ellipsis/></q> <m>\rightarrow</m> probably</p></li>
-                <li><p><q>In the event that<nbsp/><ellipsis/></q> <m>\rightarrow</m> if</p></li>
-                <li><p><q>In this regard, it is of significance that<nbsp/><ellipsis/></q> <m>\rightarrow</m> simply omit and get on with your sentence</p></li>
-                <li><p><q>The truth is that<nbsp/><ellipsis/></q>  <m>\rightarrow</m>  simply omit and get on with your sentence</p></li>
-                <li><p><q>Until such time as</q> <m>\rightarrow</m> until</p></li>
-            </ol>
-            <p>These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.</p>
+            <p>
+                When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply. Here are some examples of long-winded ways to say relatively simple things:
+                <ul>
+                    <li><p><q>At this juncture in time<nbsp/><ellipsis/></q> <m>\rightarrow</m> now, currently</p></li>
+                    <li><p><q>By virtue of the fact<nbsp/><ellipsis/></q> <m>\rightarrow</m> because</p></li>
+                    <li><p><q>For the purpose of<nbsp/><ellipsis/></q> <m>\rightarrow</m> to</p></li>
+                    <li><p><q>In all likelihood<nbsp/><ellipsis/></q> <m>\rightarrow</m> probably</p></li>
+                    <li><p><q>In the event that<nbsp/><ellipsis/></q> <m>\rightarrow</m> if</p></li>
+                    <li><p><q>In this regard, it is of significance that<nbsp/><ellipsis/></q> <m>\rightarrow</m> simply omit and get on with your sentence</p></li>
+                    <li><p><q>The truth is that<nbsp/><ellipsis/></q>  <m>\rightarrow</m>  simply omit and get on with your sentence</p></li>
+                    <li><p><q>Until such time as</q> <m>\rightarrow</m> until</p></li>
+                </ul>
+                These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.
+            </p>
         </subsection>
         <subsection>
             <title>Incorrect and ineffective word choice</title>
@@ -973,13 +1002,15 @@
                 <title>Incorrect word choice</title>
                 <p>Incorrect word choice usually occurs when a writer uses a word outside of its standard definition or context. This misuse can happen for a variety of reasons, including the writer having a wrong mental definition of the word, not knowing the word's popular connotation, or using the word in an inappropriate disciplinary context.</p>
             </paragraphs>
-            <p>How to avoid misusing words:</p>
-            <ol>
-                <li><p>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up! (We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p></li>
-                <li><p>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course). The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p></li>
-                <li><p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, everyday conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (i.e., having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, do your course readings! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
-                <li><p>See <xref ref="homophone-errors" text="type-global"/> to avoid misusing words that sound alike.</p></li>
-            </ol>
+            <list>
+                <title>How to avoid misusing words</title>
+                <ul>
+                    <li><p>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up! (We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p></li>
+                    <li><p>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course). The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p></li>
+                    <li><p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, everyday conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (i.e., having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, do your course readings! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
+                    <li><p>See <xref ref="homophone-errors" text="type-global"/> to avoid misusing words that sound alike.</p></li>
+                </ul>
+            </list>
             <paragraphs>
                 <title>Ineffective word choice</title>
                 <p>While academic writing usually employs more abstruse and sophisticated language than you find in everyday conversation, sometimes using <q>big words</q> simply to sound smart can come across to an audience as pedantic. Words that are overly complicated and obfuscate the meaning of a sentence are therefore ineffective; if the point of writing is to convey meaning clearly, a confusing word should not get in the way of that meaning.</p>
@@ -1005,65 +1036,70 @@
         <title>Voice</title>
         <subsection>
             <title>Inappropriate use of the passive voice</title>
-            <p>The <term>passive voice</term> is <em>passive</em> because sentences in this structure de-emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take direct objects. Here are some examples of active versus passive voice:</p>
-            <dl>
-                <li>
-                    <title>Active</title>
-                    <p><q>Sally hugged Barbara.</q></p>
-                </li>
-                <li>
-                    <title>Passive</title>
-                    <p><q>Barbara was hugged by Sally.</q></p>
-                </li>
-                <li/>
-                <li>
-                    <title>Active</title>
-                    <p><q>I did my homework.</q></p>
-                </li>
-                <li>
-                    <title>Passive</title>
-                    <p><q>My homework was done by me.</q></p>
-                </li>
-                <li/>
-                <li>
-                    <title>Active</title>
-                    <p><q>My roommate woke me up as she got ready for crew practice.</q></p>
-                </li>
-                <li>
-                    <title>Passive</title>
-                    <p><q>I was woken up by my roommate as she got ready for crew practice.</q></p>
-                </li>
-                <li/>
-                <li>
-                    <title>Active</title>
-                    <p><q>We made mistakes.</q></p>
-                </li>
-                <li>
-                    <title>Passive</title>
-                    <p><q>Mistakes were made.</q></p>
-                    <p>(Notice how this form completely omits the actor<mdash/>Who made the mistakes? We don't know! They just were made<ellipsis/>)</p>
-                </li>
-            </dl>
-            <sidebyside>
-                <image source="images/LM-PassiveVoice"/>
-            </sidebyside>
-            <p>Below are some ways you can identify the passive voice. Please note that these tips are general guidelines, not concrete characteristics of every instance of passive voice.</p>
-            <ul>
-                <li><p><em>Look for <q>to be</q> verbs.</em> The passive voice is often constructed in this format: <em><q>to be</q> + past participle.</em> Notice that the previous sentence is passive. It has <q>is</q> as the form of <q>to be</q> and <q>constructed</q> as the past participle.</p></li>
-                <li><p><em>Look for <q>by</q> + a noun/pronoun/proper noun.</em> As with the example <q>Barbara was hugged by Sally,</q> passive sentences often use the word <q>by</q> to show that someone or something carried out the action. Barbara wasn't <em>just</em> hugged, she was hugged <em>by Sally.</em></p></li>
-                <li><p>While the passive voice is not grammatically incorrect, most readers (and professors) prefer the active voice because readers generally want to identify the action happening in a piece of writing. Since the active voice makes it easier to identify what is happening and who or what is acting, the active voice usually makes more sense as a writing style. Similarly, the active voice also clarifies the meaning of and give more detail about a sentence. Consider these examples:</p>
+            <p>
+                The <term>passive voice</term> is <em>passive</em> because sentences in this structure de-emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take direct objects. Here are some examples of active versus passive voice:
                 <dl>
                     <li>
+                        <title>Active</title>
+                        <p><q>Sally hugged Barbara.</q></p>
+                    </li>
+                    <li>
                         <title>Passive</title>
-                        <p><q>We were asked by the flight attendant to have our luggage put in the overhead compartment by a man next to us who went by the name of Jim.</q></p>
+                        <p><q>Barbara was hugged by Sally.</q></p>
                     </li>
                     <li>
                         <title>Active</title>
-                        <p><q>The flight attendant asked us to have Jim, the man sitting next to us, put our luggage in the overhead compartment.</q></p>
+                        <p><q>I did my homework.</q></p>
+                    </li>
+                    <li>
+                        <title>Passive</title>
+                        <p><q>My homework was done by me.</q></p>
+                    </li>
+                    <li>
+                        <title>Active</title>
+                        <p><q>My roommate woke me up as she got ready for crew practice.</q></p>
+                    </li>
+                    <li>
+                        <title>Passive</title>
+                        <p><q>I was woken up by my roommate as she got ready for crew practice.</q></p>
+                    </li>
+                    <li>
+                        <title>Active</title>
+                        <p><q>We made mistakes.</q></p>
+                    </li>
+                    <li>
+                        <title>Passive</title>
+                        <p><q>Mistakes were made.</q></p>
+                        <p>(Notice how this form completely omits the actor<mdash/>Who made the mistakes? We don't know! They just were made<ellipsis/>)</p>
                     </li>
                 </dl>
-                <p>In both examples, there are three main people: us (the writer), the flight attendant, and Jim. The first example, the one in the passive voice, becomes long and confusing. The reader will have forgotten who asked whom to do what by the time Jim's name comes up. The second example, however, more clearly explains the scenario because there is less confusion about who is doing what.</p></li>
-            </ul>
+            </p>
+            <sidebyside>
+                <image source="images/LM-PassiveVoice"/>
+            </sidebyside>
+            <p>
+                Below are some ways you can identify the passive voice. Please note that these tips are general guidelines, not concrete characteristics of every instance of passive voice.
+                <ul>
+                    <li><p><em>Look for <q>to be</q> verbs.</em> The passive voice is often constructed in this format: <em><q>to be</q> + past participle.</em> Notice that the previous sentence is passive. It has <q>is</q> as the form of <q>to be</q> and <q>constructed</q> as the past participle.</p></li>
+                    <li><p><em>Look for <q>by</q> + a noun/pronoun/proper noun.</em> As with the example <q>Barbara was hugged by Sally,</q> passive sentences often use the word <q>by</q> to show that someone or something carried out the action. Barbara wasn't <em>just</em> hugged, she was hugged <em>by Sally.</em></p></li>
+                    <li>
+                        <p>
+                            While the passive voice is not grammatically incorrect, most readers (and professors) prefer the active voice because readers generally want to identify the action happening in a piece of writing. Since the active voice makes it easier to identify what is happening and who or what is acting, the active voice usually makes more sense as a writing style. Similarly, the active voice also clarifies the meaning of and give more detail about a sentence. Consider these examples:
+                            <dl>
+                                <li>
+                                    <title>Passive</title>
+                                    <p><q>We were asked by the flight attendant to have our luggage put in the overhead compartment by a man next to us who went by the name of Jim.</q></p>
+                                </li>
+                                <li>
+                                    <title>Active</title>
+                                    <p><q>The flight attendant asked us to have Jim, the man sitting next to us, put our luggage in the overhead compartment.</q></p>
+                                </li>
+                            </dl>
+                            In both examples, there are three main people: us (the writer), the flight attendant, and Jim. The first example, the one in the passive voice, becomes long and confusing. The reader will have forgotten who asked whom to do what by the time Jim's name comes up. The second example, however, more clearly explains the scenario because there is less confusion about who is doing what.
+                        </p>
+                    </li>
+                </ul>
+            </p>
             <assemblage>
                 <p>The large exception to these preferences is science. Most scientific work tends to be written in the passive voice. An active version of the previous sentence would be, <q>Most scientists tend to write in the passive voice.</q> Notice how the first version, the passive one, takes the actor out of the sentence completely. Who does the passive writing in the sciences? The active version answers that question: scientists write in the passive voice in science writing. Sciences tend to use the passive voice to distance the scientist from the science being done. The passive voice is therefore used strategically by the sciences. (Again, the previous sentence could also be active: <q>The sciences (or scientists) therefore use the passive voice strategically.</q>)</p>
             </assemblage>
@@ -1090,18 +1126,18 @@
                     <li><title>Ascertain</title><p>to find out or make sure</p></li>
                     <li><title>Bolster</title><p>to reinforce, support</p></li>
                     <li><title>Censure</title><p>to criticize severely</p></li>
-                    <li><title>Concede</title><p>to acknowledge or grant something </p></li>
+                    <li><title>Concede</title><p>to acknowledge or grant something</p></li>
                     <li><title>Concur</title><p>to agree</p></li>
                     <li><title>Contend</title><p>to assert or argue</p></li>
-                    <li><title>Contest</title><p>to oppose, challenge, or argue against </p></li>
+                    <li><title>Contest</title><p>to oppose, challenge, or argue against</p></li>
                     <li><title>Demur</title><p>to object, be reluctant</p></li>
                     <li><title>Differentiate</title><p>to make a distinction between</p></li>
                     <li><title>Elucidate</title><p>to explain, make clear</p></li>
-                    <li><title>Enable</title><p>to make able or powerful, to make possible </p></li>
+                    <li><title>Enable</title><p>to make able or powerful, to make possible</p></li>
                     <li><title>Engender</title><p>to lead to, to produce or cause</p></li>
                     <li><title>Essay</title><p>to try, attempt</p></li>
                     <li><title>Exacerbate</title><p>to make worse, exasperate</p></li>
-                    <li><title>Excoriate</title><p>to criticize or denounce severely </p></li>
+                    <li><title>Excoriate</title><p>to criticize or denounce severely</p></li>
                     <li><title>Function</title><p>to act as, operate</p></li>
                     <li><title>Laud</title><p>to praise</p></li>
                     <li><title>Mitigate</title><p>to lessen severity or intensity, to alleviate</p></li>
@@ -1156,37 +1192,25 @@
             <p>There are five main ways to use a comma. You can use them:<ol>
                 <li>
                     <p>to connect <em>two complete sentences</em> with the coordinating conjunctions that make up the acronym FANBOYS (for, and, nor, but, or, yet, so).</p>
-                    <example>
-                        <p><q>I love using commas, but I need to remember the five main ways to use them!</q></p>
-                    </example>
+                    <p><q>I love using commas, but I need to remember the five main ways to use them!</q></p>
                     <p>BUT: You DON'T need to put a comma before one of the FANBOYS words if what precedes or follows the word is not a complete sentence (<eg/>, <q>I love using commas but can't remember how to use them</q> <m>\rightarrow</m> <q>but can't remember how to use them</q> is not a complete sentence).</p>
                 </li>
                 <li>
                     <p>to separate an <em>introductory</em> or <em>explanatory</em> phrase from the rest of the sentence.</p>
-                    <example>
-                        <p><q>Having finished her last final, Shelly skipped with joy down Commencement Walk.</q></p>
-                    </example>
-                    <example>
-                        <p><q>The dog, who had gotten in the habit of walking everyday at 3pm, grabbed his leash and ran to his owner.</q></p>
-                    </example>
+                    <p><q>Having finished her last final, Shelly skipped with joy down Commencement Walk.</q></p>
+                    <p><q>The dog, who had gotten in the habit of walking everyday at 3pm, grabbed his leash and ran to his owner.</q></p>
                 </li>
                 <li>
                     <p>with transitional phrases (however, moreover, therefore, and for example).</p>
-                    <example>
-                        <p><q>For example, you can use a comma in a sentence like this.</q></p>
-                    </example>
+                    <p><q>For example, you can use a comma in a sentence like this.</q></p>
                 </li>
                 <li>
                     <p>to separate items in a list or series.</p>
-                    <example>
-                        <p><q>My favorite foods from the <acro>SUB</acro> include hummus, Greek yogurt, and apples.</q></p>
-                    </example>
+                    <p><q>My favorite foods from the <acro>SUB</acro> include hummus, Greek yogurt, and apples.</q></p>
                 </li>
                 <li>
                     <p>with coordinate adjectives (<ie/>, adjectives that you could combine with <q>and</q>).</p>
-                    <example>
-                        <p><q>My RA is the nicest, funniest person on campus.</q></p>
-                    </example>
+                    <p><q>My RA is the nicest, funniest person on campus.</q></p>
                 </li>
             </ol></p>
             <paragraphs>
@@ -1196,14 +1220,16 @@
             <paragraphs>
                 <title>Comma splices</title>
                 <p><term>Comma splices</term> occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" text="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q> </em>Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused?</p>
-                <p>What can you do instead? You have several options!</p>
-                <ol>
-                    <li><p>You can keep the sentences as they are and replace the comma with a semicolon. This option works for sentences that are too closely related for a period but for which a coordinating conjunction would be inappropriate. (For example, <em><q>I like cats; they are cute.</q></em>)</p></li>
-                    <li><p>You can split the clauses into two sentences: <em><q>Comma splices make sentences less precise. Can you see how the absence of a comma splice improves my sentence(s)?</q></em></p></li>
-                    <li><p>You can put a coordinating conjunction (see <xref ref="parts-of-speach" text="type-global"/>) after the comma and before the second clause: <em><q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></em></p></li>
-                    <li><p>You can alter the clauses so that one is no longer an independent clause: <em><q>Comma splices aren't great, which is why I don't use them.</q></em></p></li>
-                    <li><p>Finally, if possible, you can also combine the idea into one sentence/independent clause: <em><q>I don't use comma splices.</q></em></p></li>
-                </ol>
+                <p>
+                    What can you do instead? You have several options!
+                    <ul>
+                        <li><p>You can keep the sentences as they are and replace the comma with a semicolon. This option works for sentences that are too closely related for a period but for which a coordinating conjunction would be inappropriate. (For example, <em><q>I like cats; they are cute.</q></em>)</p></li>
+                        <li><p>You can split the clauses into two sentences: <em><q>Comma splices make sentences less precise. Can you see how the absence of a comma splice improves my sentence(s)?</q></em></p></li>
+                        <li><p>You can put a coordinating conjunction (see <xref ref="parts-of-speach" text="type-global"/>) after the comma and before the second clause: <em><q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></em></p></li>
+                        <li><p>You can alter the clauses so that one is no longer an independent clause: <em><q>Comma splices aren't great, which is why I don't use them.</q></em></p></li>
+                        <li><p>Finally, if possible, you can also combine the idea into one sentence/independent clause: <em><q>I don't use comma splices.</q></em></p></li>
+                    </ul>
+                </p>
                 <sidebyside>
                     <image source="images/LM-CatCommaSplices"/>
                 </sidebyside>
@@ -1213,16 +1239,12 @@
             <title>Semicolon <dblbrackets>;</dblbrackets></title>
             <p>There are two main reasons to use a semicolon:<ol>
                 <li>
-                    <p>You can use them to separate items in a list when there are also commas:</p>
-                    <example>
-                        <p><q>For dinner, I want to have a sandwich with hummus, cheese, and pickles; some chocolate milk; and some froyo.</q></p>
-                    </example>
+                    <p>You can use them to separate items in a list when there are also commas.</p>
+                    <p><q>For dinner, I want to have a sandwich with hummus, cheese, and pickles; some chocolate milk; and some froyo.</q></p>
                 </li>
                 <li>
                     <p>You can also use them to separate two independent clauses and to show your reader that those independent clauses are closely related.</p>
-                    <example>
-                        <p><q>I like to eat sandwiches; they are yummy.</q></p>
-                    </example>
+                    <p><q>I like to eat sandwiches; they are yummy.</q></p>
                 </li>
             </ol></p>
             <paragraphs>
@@ -1260,39 +1282,25 @@
             <p>Brackets are kind of weird and don't seem to come up much, but, in general, you can associate them with quoted or parenthetical material. You should use brackets when you<ellipsis/><ul>
                 <li>
                     <p>include a quote that requires clarification to make sense.</p>
-                    <example>
-                        <p><q>She said that they <brackets>her roommates</brackets> are the best.</q></p>
-                    </example>
+                    <p><q>She said that they <brackets>her roommates</brackets> are the best.</q></p>
                 </li>
                 <li>
                     <p>include a quote that doesn't fit well within the syntax of your sentence (e.g., your quote starts with a lowercase letter, but you put it at the beginning of a sentence)</p>
-                    <example>
-                        <p><q><brackets>T</brackets>hey are the best,</q> Shelly said about her roommates.</p>
-                    </example>
-                    <example>
-                        <p>Shelly loved her roommates last year; she said <q>they <brackets>were</brackets> the best.</q> (Here, we've changed the present tense <q>are</q> to the past tense <q>were</q> in order to match the tense of the sentence.)</p>
-                    </example>
+                    <p><q><brackets>T</brackets>hey are the best,</q> Shelly said about her roommates.</p>
+                    <p>Shelly loved her roommates last year; she said <q>they <brackets>were</brackets> the best.</q> (Here, we've changed the present tense <q>are</q> to the past tense <q>were</q> in order to match the tense of the sentence.)</p>
                 </li>
                 <li>
                     <p>want to tell your reader that you have or haven't added something (e.g., italics or a grammatical mistake) to a quote</p>
-                    <example>
-                        <p><q>Rainer looked so beautiful today</q> <brackets>emphasis in original</brackets>.</p>
-                    </example>
-                    <example>
-                        <p>The baby said, <q>the doggie ated <brackets>sic</brackets> my sandwich.</q></p>
-                    </example>
+                    <p><q>Rainer looked so beautiful today</q> <brackets>emphasis in original</brackets>.</p>
+                    <p>The baby said, <q>the doggie ated <brackets>sic</brackets> my sandwich.</q></p>
                 </li>
                 <li>
                     <p>include a short phrase in another language</p>
-                    <example>
-                        <p><q><foreign>Je t'aime</foreign> <brackets>I love you</brackets>,</q> she said to her cat.</p>
-                    </example>
+                    <p><q><foreign>Je t'aime</foreign> <brackets>I love you</brackets>,</q> she said to her cat.</p>
                 </li>
                 <li>
                     <p>want to put parentheses inside parentheses</p>
-                    <example>
-                        <p>(I like to use parentheses <brackets>but not all the time</brackets>.)</p>
-                    </example>
+                    <p>(I like to use parentheses <brackets>but not all the time</brackets>.)</p>
                 </li>
             </ul></p>
         </subsection>
@@ -1356,7 +1364,7 @@
                         <p>For example, if this were the original sentence, <q>I have never seen The Postmen play a game, but I really enjoy watching Ultimate Frisbee games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching Ultimate Frisbee games <ellipsis/> .</q></p>
                     </li>
                     <li>
-                        <title>If you are quoting a sentence with an informality or deviation from <xref ref="SAE">Standard American English</xref> or emphasis in the source material, acknowledge that within or after the quote</title>
+                        <title>If you are quoting a sentence with an informality or deviation from Standard American English or emphasis in the source material, acknowledge that within or after the quote</title>
                         <p>Sometimes direct quotes have spelling or grammatical deviations from <xref ref="SAE"><init>SAE</init></xref>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations" text="type-global"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
                         <blockquote>
                             <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <sq><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></sq> at the CWLT?</q></p>
@@ -1382,6 +1390,7 @@
                 <dl>
                     <li>
                         <title>Enclose the quote within two sets of quotation marks</title>
+                        <p/>
                     </li>
                     <li>
                         <title>Quoted fragments should not be capitalized</title>
@@ -1415,74 +1424,91 @@
         </subsection>
         <subsection>
             <title>Incorrect use of apostrophes</title>
-            <p>Apostrophes, or single quotation marks, most often mark possession. However, due to the inconsistent nature of English morphology, the task of marking possession is rather complicated. To indicate possession for<ellipsis/></p>
-            <ul>
-                <li>
-                    <p>A singular noun or proper noun: [noun] + ['] + [s]</p>
-                    <p>[Cat] + ['] + [s] = Cat's</p>
-                    <p>[Matt] + ['] + [s] = Matt's</p>
-                </li>
-                <li>
-                    <p>A singular noun or proper noun ending in <q>s</q>: [noun] + ['] (+ [s])</p>
-                    <p>That's right. The final <q>s</q> is optional. There is no standard. Ask your professor for their preference and remain consistent in your usage.</p>
-                    <p>[Bus] + ['] (+ [s]) = Bus' or Bus's</p>
-                    <p>[Jess] + ['] (+ [s]) = Jess' or Jess's</p>
-                </li>
-                <li>
-                    <p>A plural noun ending in <q>s</q> or <q>es</q>: [noun] + [']</p>
-                    <p>[Princesses] + ['] = Princesses'</p>
-                </li>
-                <li>
-                    <p>A plural noun not ending in <q>s</q>: [noun] + ['] + [s]</p>
-                    <p>[Children] + ['] + [s] = Children's</p>
-                </li>
-                <li>
-                    <p>A plural proper noun ending in <q>s</q>: [noun] + [']</p>
-                    <p>[Joneses] + ['] = Joneses'</p>
-                </li>
-                <li>
-                    <p>A singular compound noun: [compound noun] + ['] + [s]</p>
-                    <p>[Father-in-law] + ['] + [s] = Father-in-law's</p>
-                </li>
-                <li>
-                    <p>A plural compound noun: [compound noun] + ['] + [s]</p>
-                    <p>[Fathers-in-law] + ['] + [s] = Fathers-in-law's</p>
-                </li>
-                <li>
-                    <p>Joint possession: [Noun and noun] + ['] + [s]</p>
-                    <p>[Gina and Tommy] + ['] + [s] = Gina and Tommy's</p>
-                </li>
-                <li>
-                    <p>Joint possession including a personal pronoun: [Noun] + ['] + [s] and [possessive pronoun]</p>
-                    <p>[Gina] + ['] + [s] and [my] = Gina's and my</p>
-                </li>
-                <li>
-                    <p>Individual possession: [Noun] + ['] + [s] and [noun] + ['] + [s]</p>
-                    <p>[Gina] + ['] + [s] and [Tommy] + ['] + [s] = Gina's and Tommy's</p>
-                </li>
-            </ul>
+            <p>Apostrophes, or single quotation marks, most often mark possession. However, due to the inconsistent nature of English morphology, the task of marking possession is rather complicated.</p>
+            <list>
+                <title>To indicate possession for <ellipsis/></title>
+                <dl>
+                    <li>
+                        <title>A singular noun or proper noun</title>
+                        <p>[noun] + ['] + [s]</p>
+                        <p>[Cat] + ['] + [s] = Cat's</p>
+                        <p>[Matt] + ['] + [s] = Matt's</p>
+                    </li>
+                    <li>
+                        <title>A singular noun or proper noun ending in <q>s</q></title>
+                        <p>[noun] + ['] (+ [s])</p>
+                        <p>That's right. The final <q>s</q> is optional. There is no standard. Ask your professor for their preference and remain consistent in your usage.</p>
+                        <p>[Bus] + ['] (+ [s]) = Bus' or Bus's</p>
+                        <p>[Jess] + ['] (+ [s]) = Jess' or Jess's</p>
+                    </li>
+                    <li>
+                        <title>A plural noun ending in <q>s</q> or <q>es</q></title>
+                        <p>[noun] + [']</p>
+                        <p>[Princesses] + ['] = Princesses'</p>
+                    </li>
+                    <li>
+                        <title>A plural noun not ending in <q>s</q></title>
+                        <p>[noun] + ['] + [s]</p>
+                        <p>[Children] + ['] + [s] = Children's</p>
+                    </li>
+                    <li>
+                        <title>A plural proper noun ending in <q>s</q></title>
+                        <p>[noun] + [']</p>
+                        <p>[Joneses] + ['] = Joneses'</p>
+                    </li>
+                    <li>
+                        <title>A singular compound noun</title>
+                        <p>[compound noun] + ['] + [s]</p>
+                        <p>[Father-in-law] + ['] + [s] = Father-in-law's</p>
+                    </li>
+                    <li>
+                        <title>A plural compound noun</title>
+                        <p>[compound noun] + ['] + [s]</p>
+                        <p>[Fathers-in-law] + ['] + [s] = Fathers-in-law's</p>
+                    </li>
+                    <li>
+                        <title>Joint possession</title>
+                        <p>[Noun and noun] + ['] + [s]</p>
+                        <p>[Gina and Tommy] + ['] + [s] = Gina and Tommy's</p>
+                    </li>
+                    <li>
+                        <title>Joint possession including a personal pronoun</title>
+                        <p>[Noun] + ['] + [s] and [possessive pronoun]</p>
+                        <p>[Gina] + ['] + [s] and [my] = Gina's and my</p>
+                    </li>
+                    <li>
+                        <title>Individual possession</title>
+                        <p>[Noun] + ['] + [s] and [noun] + ['] + [s]</p>
+                        <p>[Gina] + ['] + [s] and [Tommy] + ['] + [s] = Gina's and Tommy's</p>
+                    </li>
+                </dl>
+            </list>
             <sidebyside>
                 <image source="images/LM-GiraffeTree"/>
             </sidebyside>
-            <p>Apostrophes are also used to mark contractions, or two words, such as <q>could</q> and <q>have,</q> which can be contracted, or shortened, to <q>could've.</q> A single apostrophe takes the place of omitted letters.</p>
-            <ul cols="2">
-                <li><p>Can't</p></li>
-                <li><p>We'd</p></li>
-                <li><p>It's</p></li>
-                <li><p>Won't</p></li>
-            </ul>
+            <p>
+                Apostrophes are also used to mark contractions, or two words, such as <q>could</q> and <q>have,</q> which can be contracted, or shortened, to <q>could've.</q> A single apostrophe takes the place of omitted letters.
+                <ul cols="2">
+                    <li><p>Can't</p></li>
+                    <li><p>We'd</p></li>
+                    <li><p>It's</p></li>
+                    <li><p>Won't</p></li>
+                </ul>
+            </p>
             <p><q>Won't</q> is an interesting case because its spelling does not correspond to its implied contraction <q>will not.</q> Linguists suspect that this is because, over time, the pronunciation of the contraction shifted such that <q>will</q> became <q>woll,</q> resulting in the current form <q>won't.</q> It should be noted that the above contractions constitute their own words without an apostrophe (cant, wed, its, and wont are all words). In order to avoid confusion, it is important to include the apostrophe in contractions.</p>
             <p>Apostrophes can also come at the front of a word, such as <q>'Twas</q> to mark omitted letters (omitted from <q>'Twas</q> is the letter <q>I</q>: <q>It was</q>).</p>
             <p>Apostrophes can also be used in conjunction with single letters (such as grades), abbreviations, and numerals (including years). There are no standard rules for these usages. Ask your professor for their preference and be consistent. Aim for clarity where necessary. For instance, the plural form <q>As</q> (referring to the letter grade) will likely be misread as <q>As</q> the word. Use an apostrophe here (<q>A's</q>).</p>
-            <p>Generally accepted usages:</p>
-            <ul cols="2">
-                <li><p>Ph.D.s</p></li>
-                <li><p>Ph.D.'s</p></li>
-                <li><p>2010s</p></li>
-                <li><p>2010's</p></li>
-                <li><p>'10s</p></li>
-                <li><p>10's</p></li>
-            </ul>
+            <p>
+                Generally accepted usages:
+                <ul cols="2">
+                    <li><p>Ph.D.s</p></li>
+                    <li><p>Ph.D.'s</p></li>
+                    <li><p>2010s</p></li>
+                    <li><p>2010's</p></li>
+                    <li><p>'10s</p></li>
+                    <li><p>10's</p></li>
+                </ul>
+            </p>
             <assemblage>
                 <p>Beware the personal pronouns <q>hers,</q> <q>yours,</q> <q>ours,</q> <q>its,</q> <q>theirs,</q> and <q>whose,</q> which do not use an apostrophe.</p>
             </assemblage>
@@ -1491,129 +1517,145 @@
     <section>
         <title>Incorrect capitalization</title>
         <p>If English were a more consistent language, capitalization might not be such a pain. Unfortunately, it's not, though there are some general guidelines that can help you to decide whether a word should be capitalized or not.</p>
-        <p>General guidelines:</p>
-        <ol>
-            <li>
-                <p>Proper nouns should be capitalized.</p>
-                <ul>
-                    <li><p>Proper nouns are basically names, though they aren't limited to humans.</p></li>
-                    <li><p>Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Café) to anthropomorphized bears (Grizz).</p></li>
-                    <li>
-                        <p>Chances are, if it specifies a particular thing as opposed to that thing in general (University of Puget Sound v. college), capitalize it!</p>
-                        <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness" text="type-global"/> where we discuss this issue further.)</p>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <p>Professional titles should be capitalized only when they precede the title-holder's name.</p>
-                <ul>
-                    <li><p>Capitalize <q>president</q> in the sentence <q>President Isaiah Crawford joined the university in 2016.</q></p></li>
-                    <li><p>Do not capitalize <q>president</q> in the sentence <q>The 14th president of the University of Puget Sound is Isaiah Crawford.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>But don't capitalize occupational designators!</p>
-                <ul>
-                    <li><p>The university's mascot Grizz</p></li>
-                    <li><p>The movie's director Christopher Nolan</p></li>
-                </ul>
-            </li>
-            <li>
-                <p>What about <q>professor?</q></p>
-                <ul>
-                    <li><p>Would it be <q>I asked professor Julie Nelson Christoph a question about capitalization</q> or <q>I asked Professor Julie Nelson Christoph a question about capitalization</q>?</p></li>
-                    <li><p>There are different theories about <q>professor,</q> which makes it, and others like it, problematic. There is, of course, no clear answer. In this case, it would be better to ask.</p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Capitalize formal titles when the title is used to address someone.</p>
-                <ul>
-                    <li><p><q>Hello, Admiral.</q></p></li>
-                    <li><p><q>How was your day, Admiral?</q></p></li>
-                    <li><p>How arbitrary is this rule? Unfortunately, Google does not provide a gradient that will tell you how formal a given title is. It is relatively safe to assume that a title such as <q>Admiral</q> is formal enough to be capitalized, while a title such as <q>mister</q> is more ambiguous. The lack of a standard will likely cause some confusion at some point in your college career. Once again, do not be afraid to ask.</p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Capitalize family member's kinship names (Mom, Father) when they preface a proper name or when they are used in place of the name.</p>
-                <ul>
-                    <li><p><q>I gave a peach to Mother.</q></p></li>
-                    <li><p><q>We returned the car to Uncle John.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Do not capitalize kinship names when they follow a possessive pronoun, when they follow a proper name, or when they do not refer to a specific person.</p>
-                <ul>
-                    <li><p><q>My mom bought me some shoes.</q></p></li>
-                    <li><p><q>The Franco brothers are good actors (debatable).</q></p></li>
-                    <li><p><q>Emperor penguins make good mothers/fathers.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Capitalize nicknames.</p>
-                <ul>
-                    <li><p><q>I gave Scooby the sandwich.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Capitalize geographical regions but do not capitalize the points of a compass.</p>
-                <ul>
-                    <li><p><q>My friend lives in the Midwest.</q></p></li>
-                    <li><p><q>We drove east for five hours.</q></p></li>
-                    <li><p><q>The sunsets are especially beautiful on the West Coast.</q></p></li>
-                    <li><p><q>The eastern coast of O'ahu has nice beaches.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Do not capitalize the word <q>the</q> before proper nouns unless the word <q>the</q> is itself a part of the proper noun.</p>
-                <ul>
-                    <li><p><q>I attend the University of Puget Sound.</q></p></li>
-                    <li><p><q>In class, we read <em>The Great Gatsby</em>.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Capitalize the first word in a complete quotation, or a quotation set off by a comma, even when the quotation begins in the middle of a sentence.</p>
-                <blockquote>
-                    <p>But the SoundWriting handbook said, <q>The first word in a quotation should be capitalized!</q></p>
-                </blockquote>
-            </li>
-            <li>
-                <p>Do not capitalize the first word in a quotation that reads as part of the sentence (is not set off by a comma).</p>
-                <ul>
-                    <li><p>I would have capitalized the first word in the quote, but the handbook said that I should <q>not capitalize the first word in a quotation that reads as part of the sentence.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Capitalize specific course names, but do not capitalize academic subjects.</p>
-                <ul>
-                    <li><p><q>I enjoyed taking Multivariable Calculus, though I'm by no means a mathematics major.</q></p></li>
-                </ul>
-            </li>
-            <li>
-                <p>Do not capitalize the first item in a list after a colon.</p>
-                <ul>
-                    <li><p><q>To-Do: homework, cook dinner, sleep.</q></p></li>
-                </ul>
-            </li>
-        </ol>
-        <paragraphs>
+        <list>
+            <title>General Guidelines</title>
+            <ul>
+                <li>
+                    <p>
+                        Proper nouns should be capitalized.
+                        <ul>
+                            <li><p>Proper nouns are basically names, though they aren't limited to humans.</p></li>
+                            <li><p>Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Café) to anthropomorphized bears (Grizz).</p></li>
+                            <li>
+                                <p>Chances are, if it specifies a particular thing as opposed to that thing in general (University of Puget Sound v. college), capitalize it!</p>
+                                <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness" text="type-global"/> where we discuss this issue further.)</p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Professional titles should be capitalized only when they precede the title-holder's name.>
+                        <ul>
+                            <li><p>Capitalize <q>president</q> in the sentence <q>President Isaiah Crawford joined the university in 2016.</q></p></li>
+                            <li><p>Do not capitalize <q>president</q> in the sentence <q>The 14th president of the University of Puget Sound is Isaiah Crawford.</q></p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        But don't capitalize occupational designators!
+                        <ul>
+                            <li><p>The university's mascot Grizz</p></li>
+                            <li><p>The movie's director Christopher Nolan</p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        What about <q>professor?</q>
+                        <ul>
+                            <li><p>Would it be <q>I asked professor Julie Nelson Christoph a question about capitalization</q> or <q>I asked Professor Julie Nelson Christoph a question about capitalization</q>?</p></li>
+                            <li><p>There are different theories about <q>professor,</q> which makes it, and others like it, problematic. There is, of course, no clear answer. In this case, it would be better to ask.</p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Capitalize formal titles when the title is used to address someone.
+                        <ul>
+                            <li><p><q>Hello, Admiral.</q></p></li>
+                            <li><p><q>How was your day, Admiral?</q></p></li>
+                            <li><p>How arbitrary is this rule? Unfortunately, Google does not provide a gradient that will tell you how formal a given title is. It is relatively safe to assume that a title such as <q>Admiral</q> is formal enough to be capitalized, while a title such as <q>mister</q> is more ambiguous. The lack of a standard will likely cause some confusion at some point in your college career. Once again, do not be afraid to ask.</p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Capitalize family member's kinship names (Mom, Father) when they preface a proper name or when they are used in place of the name.
+                        <ul>
+                            <li><p><q>I gave a peach to Mother.</q></p></li>
+                            <li><p><q>We returned the car to Uncle John.</q></p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Do not capitalize kinship names when they follow a possessive pronoun, when they follow a proper name, or when they do not refer to a specific person.
+                        <ul>
+                            <li><p><q>My mom bought me some shoes.</q></p></li>
+                            <li><p><q>The Franco brothers are good actors (debatable).</q></p></li>
+                            <li><p><q>Emperor penguins make good mothers/fathers.</q></p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>Capitalize nicknames.</p>
+                    <p><q>I gave Scooby the sandwich.</q></p>
+                </li>
+                <li>
+                    <p>
+                        Capitalize geographical regions but do not capitalize the points of a compass.
+                        <ul>
+                            <li><p><q>My friend lives in the Midwest.</q></p></li>
+                            <li><p><q>We drove east for five hours.</q></p></li>
+                            <li><p><q>The sunsets are especially beautiful on the West Coast.</q></p></li>
+                            <li><p><q>The eastern coast of O'ahu has nice beaches.</q></p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Do not capitalize the word <q>the</q> before proper nouns unless the word <q>the</q> is itself a part of the proper noun.
+                        <ul>
+                            <li><p><q>I attend the University of Puget Sound.</q></p></li>
+                            <li><p><q>In class, we read <em>The Great Gatsby</em>.</q></p></li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>Capitalize the first word in a complete quotation, or a quotation set off by a comma, even when the quotation begins in the middle of a sentence.</p>
+                    <blockquote>
+                        <p>But the SoundWriting handbook said, <q>The first word in a quotation should be capitalized!</q></p>
+                    </blockquote>
+                </li>
+                <li>
+                    <p>Do not capitalize the first word in a quotation that reads as part of the sentence (is not set off by a comma).</p>
+                    <p>I would have capitalized the first word in the quote, but the handbook said that I should <q>not capitalize the first word in a quotation that reads as part of the sentence.</q></p>
+                </li>
+                <li>
+                    <p>Capitalize specific course names, but do not capitalize academic subjects.</p>
+                    <p><q>I enjoyed taking Multivariable Calculus, though I'm by no means a mathematics major.</q></p>
+                </li>
+                <li>
+                    <p>Do not capitalize the first item in a list after a colon.</p>
+                    <p><q>To-Do: homework, cook dinner, sleep.</q></p>
+                </li>
+            </ul>
+        </list>
+        <list>
             <title>Titles</title>
             <ul>
                 <li>
-                    <p>Knowing what to capitalize in titles can be incredibly confusing and frustrating. Different styles have their own policies, so consult the official stylebooks for the style in which you're writing. In general, when capitalizing, it is usually safe to capitalize:</p>
-                    <ul>
-                        <li><p>The title's first word</p></li>
-                        <li><p>Adjectives, adverbs, pronouns, nouns, proper nouns, and verbs (except the <q>to</q> in infinitives)</p></li>
-                    </ul>
+                    <p>
+                        Knowing what to capitalize in titles can be incredibly confusing and frustrating. Different styles have their own policies, so consult the official stylebooks for the style in which you're writing. In general, when capitalizing, it is usually safe to capitalize:
+                        <ul>
+                            <li><p>The title's first word</p></li>
+                            <li><p>Adjectives, adverbs, pronouns, nouns, proper nouns, and verbs (except the <q>to</q> in infinitives)</p></li>
+                        </ul>
+                    </p>
                 </li>
                 <li>
-                    <p>It is usually safe not to capitalize:</p>
-                    <ul>
-                        <li><p>Articles (a, an, the)</p></li>
-                        <li><p>Coordinating conjunctions (and, or, but, for, yet, so, nor)</p></li>
-                    </ul>
+                    <p>
+                        It is usually safe not to capitalize:
+                        <ul>
+                            <li><p>Articles (a, an, the)</p></li>
+                            <li><p>Coordinating conjunctions (and, or, but, for, yet, so, nor)</p></li>
+                        </ul>
+                    </p>
                 </li>
                 <li><p>It is also fairly painless to find a capitalization automator online, which will capitalize your title according to the stylesheet you choose. (Google search <q>Capitalize my title.</q>)</p></li>
             </ul>
-        </paragraphs>
+        </list>
     </section>
 </chapter>

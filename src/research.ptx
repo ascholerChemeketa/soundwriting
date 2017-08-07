@@ -33,33 +33,39 @@
             <title>Don't give up</title>
             <p>Research can be a long process. Finding the best sources for your project can take weeks, months, or even a full semester! Sometimes, you will hit a roadblock and then feel like you have to go all the way back to square one. That's okay, because research is meant to be a cyclical process (see <xref ref="research-process-while-writing" text="type-global"/>). Even when it feels like you are starting over, you are still learning more and more about your topic, which will result in a very well-researched final paper!</p>
         </paragraphs>
-        <paragraphs>
+        <list>
             <title>Handling information overload</title>
-            <p>Research is a creative, recursive process and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
-        </paragraphs>
-        <ol>
-            <li><p>Consider learning how to use a knowledge management tool. Collins Library supports RefWorks and Zotero, and any librarian would be more than happy to help you get started. These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p></li>
-            <li><p>Your research assignment prompt likely will indicate what kinds of (and often how many) sources you should aim for. But a source is not a source is not a source! <em>How</em> are you using sources? Take things one step further by analyzing precisely how you will use each source when building your argument so that you're able to use your sources in the most appropriate way. One helpful framework is <url href="http://www.tandfonline.com/doi/pdf/10.1080/07350190701738858">Joseph Bizup's <acro>BEAM</acro> model</url>. <acro>BEAM</acro> is an acronym intended to help us think about the various ways we <em>use</em> sources when writing a researched argument.</p></li>
-        </ol>
-        <dl>
-            <li>
-                <title><em>B</em>ackground</title>
-                <p>You use tertiary sources (subject encyclopedias, textbooks, overviews) to establish basic facts and definitions.</p>
-            </li>
-            <li>
-                <title><em>E</em>xhibit</title>
-                <p>You analyze and interpret primary sources, a dataset, or another phenomenon of study.</p>
-            </li>
-            <li>
-                <title><em>A</em>rgument</title>
-                <p>You evaluate and assess the arguments in academic secondary sources as a way to join the scholarly conversation.</p>
-            </li>
-            <li>
-                <title><em>M</em>ethod</title>
-                <p>You use theories or disciplinary approaches when examining your topic.</p>
-            </li>
-        </dl>
-        <p>Though writing in high school consists mostly of <q>Background</q> sources, most research writing that you do in college will be stronger if you use sources in a combination of most or all of these ways.</p>
+            <introduction>
+                <p>Research is a creative, recursive process and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
+            </introduction>
+            <ul>
+                <li><p>Consider learning how to use a knowledge management tool. Collins Library supports RefWorks and Zotero, and any librarian would be more than happy to help you get started. These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p></li>
+                <li><p>Your research assignment prompt likely will indicate what kinds of (and often how many) sources you should aim for. But a source is not a source is not a source! <em>How</em> are you using sources? Take things one step further by analyzing precisely how you will use each source when building your argument so that you're able to use your sources in the most appropriate way. One helpful framework is <url href="http://www.tandfonline.com/doi/pdf/10.1080/07350190701738858">Joseph Bizup's <acro>BEAM</acro> model</url>. <acro>BEAM</acro> is an acronym intended to help us think about the various ways we <em>use</em> sources when writing a researched argument.</p></li>
+            </ul>
+        </list>
+        <list>
+            <dl>
+                <li>
+                    <title><em>B</em>ackground</title>
+                    <p>You use tertiary sources (subject encyclopedias, textbooks, overviews) to establish basic facts and definitions.</p>
+                </li>
+                <li>
+                    <title><em>E</em>xhibit</title>
+                    <p>You analyze and interpret primary sources, a dataset, or another phenomenon of study.</p>
+                </li>
+                <li>
+                    <title><em>A</em>rgument</title>
+                    <p>You evaluate and assess the arguments in academic secondary sources as a way to join the scholarly conversation.</p>
+                </li>
+                <li>
+                    <title><em>M</em>ethod</title>
+                    <p>You use theories or disciplinary approaches when examining your topic.</p>
+                </li>
+            </dl>
+            <conclusion>
+                <p>Though writing in high school consists mostly of <q>Background</q> sources, most research writing that you do in college will be stronger if you use sources in a combination of most or all of these ways.</p>
+            </conclusion>
+        </list>
     </section>
     <section>
         <title>Defining and Refining Your Research Question</title>
@@ -78,7 +84,7 @@
             <title>Key Steps</title>
             <ol>
                 <li><p>Begin by asking as many open-ended <q>why?</q> or <q>how?</q> questions as you can think of. Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Part II of <em>The Craft of Research</em>, available online via Collins Library to members of the University of Puget Sound community.</p></li>
-                <li><p>Begin to evaluate your research questions. Which question interests you the most? Why? </p></li>
+                <li><p>Begin to evaluate your research questions. Which question interests you the most? Why?</p></li>
                 <li><p>Seek out feedback from:<dl>
                     <li>
                         <title>Your peers</title>
@@ -114,14 +120,16 @@
         </paragraphs>
         <paragraphs>
             <title>Learn some handy tricks for searching databases</title>
-            <p>Use an asterisk <c>*</c> at the end of a word (or root of a word) or to replace a letter within a word:</p>
-            <ul>
-                <li><p><c>Wom*n</c> will tell the database to search for both <q>women</q> and <q>woman.</q></p></li>
-                <li><p><c>Canad*</c> will tell the database to search for <q>Canada</q> and <q>Canadian.</q></p></li>
-            </ul>
+            <p>
+                Use an asterisk <c>*</c> at the end of a word (or root of a word) or to replace a letter within a word:
+                <ul>
+                    <li><p><c>Wom*n</c> will tell the database to search for both <q>women</q> and <q>woman.</q></p></li>
+                    <li><p><c>Canad*</c> will tell the database to search for <q>Canada</q> and <q>Canadian.</q></p></li>
+                </ul>
+            </p>
             <p>Put phrases in quotation marks so that the database knows to search for that exact phrase<mdash/><c>"information literacy"</c> instead of <c>information literacy</c>.</p>
         </paragraphs>
-        <paragraphs>
+        <list>
             <title>Make full use of Boolean operators</title>
             <dl>
                 <li>
@@ -137,7 +145,7 @@
                     <p>will exclude sources that contain that keyword.</p>
                 </li>
             </dl>
-        </paragraphs>
+        </list>
         <sidebyside>
             <image source="images/RM_KeywordsSearchTerms"/>
         </sidebyside>

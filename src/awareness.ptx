@@ -178,9 +178,9 @@
                     <li>
                         <title><term>Transgender</term></title>
                         <p>is an adjective and umbrella term that describes individuals whose gender identity is different from the sex they were assigned at birth. Many people take hormones and some undergo surgery, but neither of these medical treatments is requisite for a transgender identity.</p>
-                        <assemblage>
+                        <aside>
                             <p>It is inappropriate to use transgender as a noun (e.g., a transgender) or to use the term transgendered.</p>
-                        </assemblage>
+                        </aside>
                     </li>
                     <li>
                         <title><term>Transsexual</term></title>
@@ -232,7 +232,7 @@
         </paragraphs>
         <list xml:id="comparing-SAE-and-AAVE">
             <title>Comparing SAE and AAVE</title>
-            <ol>
+            <dl>
                 <li>
                     <title>Third person singular</title>
                     <p>The third person singular consists of <sq>he</sq> and <sq>she</sq> (and <sq>they,</sq> when it's used as a gender-neutral, third-person singular). <xref ref="SAE"><init>SAE</init></xref> conjugates the third person singular with an -s, so <q>to say</q> becomes conjugated as <q>she says.</q> In <xref ref="AAVE"><init>AAVE</init></xref>, the rule for conjugating third person singular does not include adding an -s, so <xref ref="AAVE"><init>AAVE</init></xref> speakers would say <q>she say.</q></p>
@@ -274,7 +274,7 @@
                     <title>Preterite had</title>
                     <p>In contexts in which <xref ref="SAE"><init>SAE</init></xref> speakers would use the simple past (usually in narratives), <xref ref="AAVE"><init>AAVE</init></xref> speakers use <q>had</q>. For example, while an <xref ref="SAE"><init>SAE</init></xref> speaker might say, <q>We planted a tree,</q> an <xref ref="AAVE"><init>AAVE</init></xref> speaker might say, <q>We had planted a tree.</q></p>
                 </li>
-            </ol>
+            </dl>
         </list>
     </section>
 </chapter>

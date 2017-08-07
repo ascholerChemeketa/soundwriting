@@ -87,14 +87,14 @@
             <example>
                 <p><red>Author last name, first name.</red> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
                 <p><red>McCarthy, Cormac.</red> <lightblue><i>The Road.</i></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf,</lightpurple> <lightgreen>2006.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Cormac McCarthy, <i>The Road</i> (New York: Alfred A. Knopf, 2006), 1<ndash/>2.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid., 34.</fn></p>
-                    <p>Non-consecutive appearances.<fn>McCarthy, <i>The Road,</i> 5.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Cormac McCarthy, <i>The Road</i> (New York: Alfred A. Knopf, 2006), 1<ndash/>2.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid., 34.</fn></p>
+                <p>Non-consecutive appearances.<fn>McCarthy, <i>The Road,</i> 5.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -125,14 +125,14 @@
             <example>
                 <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon><lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
                 <p><red>Bowler, Peter J., and Iwan Rhys Morus.</red> <lightblue><i>Making Modern Science: A Historical Survey.</i></lightblue> <maroon>Chicago:</maroon><lightpurple>University of Chicago Press,</lightpurple> <lightgreen>2005.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Peter J. Bowler and Iwan Rhys Morus, <i>Making Modern Science: A Historical Survey</i> (Chicago: University of Chicago Press), 20.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid., 47.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Bowler and Morus, <i>Making Modern Science,</i> 5<ndash/>12.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Peter J. Bowler and Iwan Rhys Morus, <i>Making Modern Science: A Historical Survey</i> (Chicago: University of Chicago Press), 20.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid., 47.</fn></p>
+                <p>Non-consecutive appearances.<fn>Bowler and Morus, <i>Making Modern Science,</i> 5<ndash/>12.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -163,14 +163,14 @@
             <example>
                 <p><red>Author last name, first name.</red> <lightblue><i>Title of Work.</i></lightblue> <lightpink>Number edition Ed.</lightpink> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
                 <p><red>Tannsjo, Torbjorn.</red> <lightblue><i>Understanding Ethics: an Introduction to Moral Theory.</i></lightblue> <lightpink>2nd Ed.</lightpink> <maroon>Edinburgh:</maroon> <lightpurple>University of Edinburgh Press,</lightpurple> <lightgreen>2008.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Torbjorn Tannsjo, <i>Understanding Ethics: an Introduction to Moral Theory,</i> 2nd ed. (Edinburgh: University of Edinburgh Press, 2008), 25.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid., 45.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Tannsjo, <i>Understanding Ethics,</i> 27.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Torbjorn Tannsjo, <i>Understanding Ethics: an Introduction to Moral Theory,</i> 2nd ed. (Edinburgh: University of Edinburgh Press, 2008), 25.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid., 45.</fn></p>
+                <p>Non-consecutive appearances.<fn>Tannsjo, <i>Understanding Ethics,</i> 27.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -232,14 +232,14 @@
             <example>
                 <p><red>Author last name, first name.</red>Review of <lightblue><i>Title of Reviewed Work,</i></lightblue> by <gray>Author of Reviewed Work First Last.</gray> <pink><i>Name of Journal</i></pink> <darkred>volume, no. issue</darkred> <lightgreen>(Year):</lightgreen> <blue>page range.</blue></p>
                 <p><red>Paul, John J.</red>Review of <lightblue><i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</i></lightblue> by <gray>Kavita Philip.</gray> <pink><i>Isis</i></pink> <darkred>97, no. 2</darkred> <lightgreen>(2006):</lightgreen> <blue>370<ndash/>371.</blue></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>John J. Paul, review of <i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</i> by Kavita Philip, <i>Isis</i> 97, no. 2 (2006): 370<ndash/>371.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid., 371.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Paul, review of <i>Civilizing Natures,</i> 370.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>John J. Paul, review of <i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</i> by Kavita Philip, <i>Isis</i> 97, no. 2 (2006): 370<ndash/>371.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid., 371.</fn></p>
+                <p>Non-consecutive appearances.<fn>Paul, review of <i>Civilizing Natures,</i> 370.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -272,14 +272,14 @@
                 <p><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <pink><i>Name of Journal</i></pink> <darkred>volume, no. issue</darkred> <lightgreen>(Year of publication):</lightgreen> <blue>page range.</blue></p>
                 <p><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><i>Feminist Formations</i></pink> <darkred>23, no. 2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue></p>
                 <p>For an article found in an online journal, include the DOI<mdash/>or, if the article has no DOI, include the URL<mdash/>at the end of the citation. Place a period at the end of the DOI or URL.</p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Susan Mann. <q>Pioneers of U.S. Ecofeminism and Environmental Justice,</q> <i>Feminist Formations</i> 23, no. 2 (2011): 5.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid., 6.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Mann, <q>Pioneers of U.S. Ecofeminism,</q> 10<ndash/>15.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Susan Mann. <q>Pioneers of U.S. Ecofeminism and Environmental Justice,</q> <i>Feminist Formations</i> 23, no. 2 (2011): 5.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid., 6.</fn></p>
+                <p>Non-consecutive appearances.<fn>Mann, <q>Pioneers of U.S. Ecofeminism,</q> 10<ndash/>15.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -309,14 +309,14 @@
             <example>
                 <p><red>Author last name, first name.</red> <darkgreen>Title of Website (leave unitalicized unless the title of the website is also the title of a book or periodical).</darkgreen> <gray>Sponsor.</gray> <lightgreen>Date of publication or date updated (if none, give date accessed).</lightgreen> <orange>URL.</orange></p>
                 <p><red>Martin, Mark.</red> <darkgreen>Martin's Microbial Menagerie.</darkgreen> <gray>University of Puget Sound,</gray> <lightgreen>August 1, 2016.</lightgreen> <orange>http://webspace.pugetsound.edu/facultypages/momartin/index.htm</orange></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Mark Martin, Martin's Microbial Menagerie, University of Puget Sound, August 1, 2016, <url href="http://webspace.pugetsound.edu/facultypages/momartin/index.htm"/>.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Martin, Martin's Microbial Menagerie.</fn></p>
-                    <p><em>If no known author is provided, begin the citation with the title of the website.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Mark Martin, Martin's Microbial Menagerie, University of Puget Sound, August 1, 2016, <url href="http://webspace.pugetsound.edu/facultypages/momartin/index.htm"/>.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>Martin, Martin's Microbial Menagerie.</fn></p>
+                <p><em>If no known author is provided, begin the citation with the title of the website.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -358,14 +358,14 @@
             <example>
                 <p><red>Author last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen>Title of Website,</darkgreen> <lightgreen>Publication/modication Month Day, Year.</lightgreen> <orange>URL.</orange></p>
                 <p><red>Ausubel, Ramona.</red> <lightblue><q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel.</q></lightblue> <darkgreen>Salon.</darkgreen> <lightgreen>May 11, 2013.</lightgreen> <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Ramona Ausubel, <q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel</q>, Salon, May 11, 2013, <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/>.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Ausubel, <q>Fiction: <sq>Poppyseed.</sq></q></fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Ramona Ausubel, <q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel</q>, Salon, May 11, 2013, <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/>.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>Ausubel, <q>Fiction: <sq>Poppyseed.</sq></q></fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -397,14 +397,14 @@
             <example>
                 <p><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <lightpurple><i>Name of Newspaper,</i></lightpurple> <lightgreen>Publication month day, year.</lightgreen> Accessed <navy>Date of access.</navy> <orange><url href="http://www.newspaper-website.com"/>.</orange></p>
                 <p><red>Wells, Pete.</red> <lightblue><q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></lightblue> <lightpurple><i>The New York Times,</i></lightpurple> <lightgreen>July 26, 2016.</lightgreen> Accessed <navy>July 27, 2016.</navy> <orange><url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</orange></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Pete Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy,</q> <i>The New York Times,</i> July 26, 2016, accessed July 27, 2016, <url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Pete Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy,</q> <i>The New York Times,</i> July 26, 2016, accessed July 27, 2016, <url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -435,14 +435,14 @@
             <example>
                 <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><q>Title of Article.</q></lightblue> In <green><i>Encyclopedia Name.</i></green> <darkred>Volume number.</darkred> Edited by Editor 1 first name last name, Editor 2 first name last name, and Editor 3 first name last name. <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Publication year.</lightgreen></p>
                 <p><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein-Coupled Receptor.</q></lightblue> In <green><i>Encyclopedia of Neuroscience.</i></green> <darkred>2nd vol.</darkred> Edited by Marc D. Binder, Nobutaka Hirokawa, and Uwe Windhorst. <maroon>Berlin:</maroon> <lightpurple>Springer,</lightpurple> <lightgreen>2009.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Yuichi Hashimoto and Tatsuya Haga, <q>G. Protein-Coupled Receptor,</q> in Encyclopedia of Neuroscience. 2nd vol. ed. Marc Binder, Nobutaka Hirokawa, and Uwe Windhorst, (Berlin: Springer, 2003), s.v. <q>g-coupled protein receptor.</q></fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Hasimoto and Haga, <q>G. Protein-Coupled Receptor.</q></fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Yuichi Hashimoto and Tatsuya Haga, <q>G. Protein-Coupled Receptor,</q> in Encyclopedia of Neuroscience. 2nd vol. ed. Marc Binder, Nobutaka Hirokawa, and Uwe Windhorst, (Berlin: Springer, 2003), s.v. <q>g-coupled protein receptor.</q></fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>Hasimoto and Haga, <q>G. Protein-Coupled Receptor.</q></fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -473,14 +473,14 @@
             <example>
                 <p><red>Lecturer last name, first name.</red> <lightblue><q>Title of Lecture.</q></lightblue> <teal>Medium</teal> at <maroon>conference location, city, state/country.</maroon> <lightgreen>Month day, year.</lightgreen></p>
                 <p><red>O'Neil, Kieran.</red> <lightblue><q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience.</q></lightblue> <teal>Lecture</teal> at <maroon>European Writing Center Association Conference, University of Łódź, Łódź, Poland.</maroon> <lightgreen>July 9, 2016.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Kieran O'Neil, <q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience,</q> (lecture, European Writing Center Association Conference, University of Łódź, Łódź, Poland, July 9, 2016).</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>O'Neil, <q>Talking Small, Thinking Big.</q></fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Kieran O'Neil, <q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience,</q> (lecture, European Writing Center Association Conference, University of Łódź, Łódź, Poland, July 9, 2016).</fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>O'Neil, <q>Talking Small, Thinking Big.</q></fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -511,14 +511,14 @@
             <example>
                 <p>Actor 1 last name, first name, and Actor 2 first name last name. <lightblue><i>Title of Film.</i></lightblue> <teal>Format.</teal> Directed by <red>Director first name last name.</red> <lightgreen>Year of original release;</lightgreen> <maroon>city, state/country:</maroon> <purple>Distributor,</purple> <lightgreen>distribution year.</lightgreen></p>
                 <p>DiCaprio, Leonardo, and Tom Hardy.<lightblue><i>The Revenant.</i></lightblue> <teal>Motion picture.</teal> Directed by <red>Alejandro G. Iñárritu.</red> <lightgreen>2015;</lightgreen> <maroon>Los Angeles, CA:</maroon> <purple>20th Century Fox,</purple> <lightgreen>2015.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant, directed by Alejandro G. Iñárritu (2015; Los Angeles, CA: 20th Century Fox, 2015), motion picture.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant, directed by Alejandro G. Iñárritu (2015; Los Angeles, CA: 20th Century Fox, 2015), motion picture.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -549,14 +549,14 @@
             <example>
                 <p><red>Author of performed work last name, first name.</red> <lightblue><i>Title of performed work.</i></lightblue> Cond. <gray>Conductor first name last name.</gray> <maroon>Location, city, state/country,</maroon> <lightgreen>date of performance.</lightgreen></p>
                 <p><red>Beethoven, Ludwig van.</red> <lightblue><i>Symphony No. 9.</i></lightblue> Cond. <gray>Wesley Schultz.</gray> <maroon>Schneebeck Concert Hall, Tacoma, WA,</maroon> <lightgreen>July 29, 2016.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>L. Beethoven, Symphony No. 9, conducted by Wesley Schultz, Schneebeck Concert Hall, Tacoma, Wa, July 29, 2016.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>L. Beethoven, Symphony No. 9.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>L. Beethoven, Symphony No. 9, conducted by Wesley Schultz, Schneebeck Concert Hall, Tacoma, Wa, July 29, 2016.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>L. Beethoven, Symphony No. 9.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -587,12 +587,12 @@
             <example>
                 <p><red>Artist last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <gray><i>Album.</i></gray> <purple>Manufacturer</purple> <gray>Number of Recording,</gray> <lightgreen>Year,</lightgreen> <teal>medium.</teal></p>
                 <p><red>Hornsby, Bruce.</red> <lightblue><q>Dreamland.</q></lightblue> <gray><i>Halcyon Days.</i></gray> <purple>Columbia Records</purple> <gray><hash/><hash/><hash/><hash/><hash/>,</gray> <lightgreen>2004,</lightgreen> <teal>compact disc.</teal></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Bruce Hornsby,</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Bruce Hornsby,</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -618,20 +618,20 @@
                 <p>In-Text: (di Lodovico Buonarroti Simoni, 1504)</p>
             </example>
         </subsection>
-        <subection>
+        <subsection>
             <title>Chicago</title>
             <example>
                 <p><red>Artist last name, first name.</red> <lightblue><i>Title of work.</i></lightblue> <teal>Medium,</teal> <lightgreen>date of composition.</lightgreen> <purple>Institution,</purple> <maroon>City, State/Country.</maroon></p>
                 <p><red>di Lodovico Buonarroti Simoni, Michelangelo.</red> <lightblue><i>David.</i></lightblue> <teal>Carrara marble,</teal> <lightgreen>1504.</lightgreen> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence, Italy.</maroon></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Michelangelo di Lodovico Buonarroti Simoni, David, Carrara marble, 1504, Accademia di Belle Arti di Firenze, Florence, Italy.</fn></p>
-                    <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                    <p>Non-consecutive appearances.<fn>di Lodovico Buonarroti Simoni, David.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
-        </subection>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Michelangelo di Lodovico Buonarroti Simoni, David, Carrara marble, 1504, Accademia di Belle Arti di Firenze, Florence, Italy.</fn></p>
+                <p>Consecutive appearances.<fn>Ibid.</fn></p>
+                <p>Non-consecutive appearances.<fn>di Lodovico Buonarroti Simoni, David.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
+        </subsection>
         <subsection>
             <title>MLA</title>
             <example>
@@ -667,13 +667,13 @@
             <example>
                 <p><gray>Country. Agency.</gray> <lightblue><i>Title of document.</i></lightblue> By <red>Author first name last name.</red> <lightpink>Edition (if any).</lightpink> <maroon>Place of publication:</maroon> <purple>Publisher,</purple> <lightgreen>date.</lightgreen></p>
                 <p><gray>U.S. Environmental Protection Agency.</gray> <lightblue><i>Climate Change Indicators in the United States.</i></lightblue> By <red>Environmental Protection Agency.</red> <maroon>Washington, DC:</maroon> <purple>GPO,</purple> <lightgreen>2014.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>U.S. Environmental Protection Agency, Climate Change Indicators in the United States, (Washington, DC: GPO, 2014), 25.</fn></p>
-                    <p>Non-consecutive appearances.<fn>U.S. EPA, Climate Change, 36.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>U.S. Environmental Protection Agency, Climate Change Indicators in the United States, (Washington, DC: GPO, 2014), 25.</fn></p>
+                <p>Non-consecutive appearances.<fn>U.S. EPA, Climate Change, 36.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -704,13 +704,13 @@
             <example>
                 <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><i>Title of work,</i></lightblue> <darkred><i>vol. number.</i></darkred> (<purple>Publisher:</purple> <lightgreen>Date of publication</lightgreen>), <blue>page range.</blue></p>
                 <p><red>Gibbons, Dave, and Alan Moore.</red> <lightblue><i>Watchmen,</i></lightblue> <darkred><i>No. 1.</i></darkred> (<purple>DC Comics:</purple> <lightgreen>September, 1986</lightgreen>), <blue>24<ndash/>27.</blue></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Gibbons, Dave, and Alan Moore. <i>Watchmen, No. 1.</i> (DC Comics: September, 1986), 24<ndash/>27.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Gibbons and Moore, <i>Watchmen</i>, 24<ndash/>27.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Gibbons, Dave, and Alan Moore. <i>Watchmen, No. 1.</i> (DC Comics: September, 1986), 24<ndash/>27.</fn></p>
+                <p>Non-consecutive appearances.<fn>Gibbons and Moore, <i>Watchmen</i>, 24<ndash/>27.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -741,13 +741,13 @@
             <example>
                 <p><red>Author last name, first name.</red> <lightblue><i>Title of work.</i></lightblue> Translated by Translator first name last name. <maroon>City of publication:</maroon> <purple>Publisher,</purple> <lightgreen>Date.</lightgreen></p>
                 <p><red>Shikibu, Murasaki.</red> <lightblue><i>The Tale of Genji.</i></lightblue> Translated by Royall Tyler. <maroon>New York:</maroon> <purple>Penguin Books,</purple> <lightgreen>2001.</lightgreen></p>
-                <paragraphs>
-                    <title>Notes</title>
-                    <p>First appearance.<fn>Murasaki Shikibu, <i>The Tale of Genji,</i>, trans. Royall Tyler (New York: Penguin Books, 2001), 42.</fn></p>
-                    <p>Non-consecutive appearances.<fn>Shikibu, <i>The Tale of Genji,</i> 42.</fn></p>
-                    <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
-                </paragraphs>
             </example>
+            <paragraphs>
+                <title>Notes</title>
+                <p>First appearance.<fn>Murasaki Shikibu, <i>The Tale of Genji,</i>, trans. Royall Tyler (New York: Penguin Books, 2001), 42.</fn></p>
+                <p>Non-consecutive appearances.<fn>Shikibu, <i>The Tale of Genji,</i> 42.</fn></p>
+                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+            </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
@@ -769,12 +769,22 @@
         <title>Plagiarism</title>
         <p>Plagiarism is unethical and, at the University of Puget Sound, has serious repercussions. As the MLA Handbook reads, <q>Plagiarism is presenting another person's ideas, information, expressions, or entire work as one's own</q> (6). If I hadn't cited the MLA Handbook just now and had presented the sentence as my own, I would have plagiarized and would have been fired. This is why citing is important and why professionals place so much emphasis on academic integrity. Below are some pointers on how to avoid plagiarism.</p>
         <p>Because plagiarism is the act of claiming another's intellectual output as your own, plagiarism includes more than not quoting text that ought to be quoted; plagiarism also includes not attributing authorship to ideas that are not originally yours and framing as your own a paper that someone else wrote (even if you paid them). It is also considered plagiarism to reuse an essay that you had previously written. The University of Puget Sound has a policy forbidding the reuse of previous work without express permission from your instructor.</p>
-        <p>Plagiarism is hardly ever intended. More often, a student who plagiarizes will be unaware that they are doing so. Here are some suggestions to help you avoid plagiarizing.</p>
-        <ul>
-            <li><p><alert>Write down everything:</alert> when you're doing research, keep track of all of your sources, especially sources from which you quote or paraphrase. If you're drafting and don't want to break your focus, leave a comment to remind yourself to cite the source later. (A knowledge-management tool such as Zotero can help you to keep track of your sources.)</p></li>
-            <li><p><alert>Attribute everything:</alert> the most important thing to include when attributing authorship is the author's name. This can be done in text, in parentheses, or in a note. If the source does not name an author, provide the title of the source. It is also useful to provide page or line numbers whenever possible. It is safest and often most effective rhetorically to credit the author or source as near to the attributed material as possible; attribution should occur within the same sentence as the attributed material. (For information about the conventions of attribution, both textual and parenthetical, see <xref ref="the-basics" text="type-global"/>.)</p></li>
-            <li><p><alert>When in doubt, quote:</alert> paraphrasing presents problems for students, primarily because the line between acceptable paraphrase and plagiarism is somewhat arbitrary. Of course, this shouldn't be a problem if you attribute the paraphrased information to its original author(s). Though disciplines and styles have different preferences, the transparency of quoting makes it a safe way to present information that isn't your own. Quoting, however, should never take the place of attributing authorship.</p></li>
-            <li><p><alert>Not everything needs a citation:</alert> any knowledge that both you and your readers share need not be cited. For instance, it is probably safe to assume that your readers will know that plagiarism is unethical. You could make such a statement without feeling the need to attribute it. However, it would be necessary to attribute authorship to a statement suggesting that plagiarism is ethical--for such an idea is not likely to be shared by your readers. That said, when in doubt, attribute. There's little, if anything, wrong with attributing too much, while attributing too little can be disastrous. It is in your best interest to cite.</p></li>
-        </ul>
+        <p>
+            Plagiarism is hardly ever intended. More often, a student who plagiarizes will be unaware that they are doing so. Here are some suggestions to help you avoid plagiarizing.
+            <dl>
+                <li>
+                    <title>Write down everything</title>
+                    <p>When you're doing research, keep track of all of your sources, especially sources from which you quote or paraphrase. If you're drafting and don't want to break your focus, leave a comment to remind yourself to cite the source later. (A knowledge-management tool such as Zotero can help you to keep track of your sources.)</p></li>
+                <li>
+                    <title>Attribute everything</title>
+                    <p>The most important thing to include when attributing authorship is the author's name. This can be done in text, in parentheses, or in a note. If the source does not name an author, provide the title of the source. It is also useful to provide page or line numbers whenever possible. It is safest and often most effective rhetorically to credit the author or source as near to the attributed material as possible; attribution should occur within the same sentence as the attributed material. (For information about the conventions of attribution, both textual and parenthetical, see <xref ref="the-basics" text="type-global"/>.)</p></li>
+                <li>
+                    <title>When in doubt, quote</title>
+                    <p>Paraphrasing presents problems for students, primarily because the line between acceptable paraphrase and plagiarism is somewhat arbitrary. Of course, this shouldn't be a problem if you attribute the paraphrased information to its original author(s). Though disciplines and styles have different preferences, the transparency of quoting makes it a safe way to present information that isn't your own. Quoting, however, should never take the place of attributing authorship.</p></li>
+                <li>
+                    <title>Not everything needs a citation</title>
+                    <p>Any knowledge that both you and your readers share need not be cited. For instance, it is probably safe to assume that your readers will know that plagiarism is unethical. You could make such a statement without feeling the need to attribute it. However, it would be necessary to attribute authorship to a statement suggesting that plagiarism is ethical--for such an idea is not likely to be shared by your readers. That said, when in doubt, attribute. There's little, if anything, wrong with attributing too much, while attributing too little can be disastrous. It is in your best interest to cite.</p></li>
+            </dl>
+        </p>
     </section>
 </chapter>

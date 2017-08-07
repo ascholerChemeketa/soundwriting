@@ -151,11 +151,9 @@
     </section>
     <section xml:id="note-taking-strategies">
         <title>Note-taking strategies</title>
-        <introduction>
-            <p>Whether you're listening to an in-class lecture, reading a reading assignment, or skimming articles or books for your own research, taking good notes is essential. Notes have two main purposes: 1) to help you read actively and understand the content of the reading, and 2) to help remind your future self what was important about the reading. Though there are plenty of standardized note-taking strategies that you can use, such as Cornell notes, outlining, and mapping, in this section we will focus on deciding which strategies work for you and in which contexts specific strategies work best. For some people, the same type of notes may work in all disciplinary situations, while other people require different strategies for different disciplines or assignments. If you haven't decided which strategies work best for you, try some out and be mindful of which ones help you learn most effectively and efficiently.</p>
-            <p>Before you begin reading or taking notes, ask yourself: What class are you taking notes for? Does this class require you to know a lot of specific information (<eg/>, biological processes, historical events, or literary terms), or does it focus more on understanding (<eg/>, <em>why</em> a historical event happened, <em>how</em> to find a derivative, or <em>what type</em> of research method is best for a certain situation)? While all classes have a mix of both types of information, identifying the primary type of information you'll be interacting with will help you decide what form your notes should take.</p>
-        </introduction>
-        <subsection>
+        <p>Whether you're listening to an in-class lecture, reading a reading assignment, or skimming articles or books for your own research, taking good notes is essential. Notes have two main purposes: 1) to help you read actively and understand the content of the reading, and 2) to help remind your future self what was important about the reading. Though there are plenty of standardized note-taking strategies that you can use, such as Cornell notes, outlining, and mapping, in this section we will focus on deciding which strategies work for you and in which contexts specific strategies work best. For some people, the same type of notes may work in all disciplinary situations, while other people require different strategies for different disciplines or assignments. If you haven't decided which strategies work best for you, try some out and be mindful of which ones help you learn most effectively and efficiently.</p>
+        <p>Before you begin reading or taking notes, ask yourself: What class are you taking notes for? Does this class require you to know a lot of specific information (<eg/>, biological processes, historical events, or literary terms), or does it focus more on understanding (<eg/>, <em>why</em> a historical event happened, <em>how</em> to find a derivative, or <em>what type</em> of research method is best for a certain situation)? While all classes have a mix of both types of information, identifying the primary type of information you'll be interacting with will help you decide what form your notes should take.</p>
+        <list>
             <title>General guidelines</title>
             <dl>
                 <li>
@@ -163,7 +161,7 @@
                     <p> The main argument of a paper or chapter is also called a <term>thesis</term> (see <xref ref="main-claim" text="title"/>). The thesis will help guide your reading and note-taking by telling you what about the argument is important and what you need to pay attention to. You can usually find a thesis in the abstract and near the end of the introduction. If you're having trouble locating the thesis, you might also read the conclusion (don't worry about spoilers<mdash/>usually academic writing is upfront about the conclusions of an investigation).</p>
                 </li>
                 <li>
-                    <title>Identify the main point of each paragraph</title> 
+                    <title>Identify the main point of each paragraph</title>
                     <p> As you'll see in <xref ref="argumentation-as-process" text="title"/>, clear paragraphs begin with topic sentences. The purpose of a topic sentence is to tell the reader what the paragraph will be about. Use this to your advantage! Like a mini thesis for each paragraph, topic sentences will guide your reading by telling you what information is worthy to note.</p>
                 </li>
                 <li>
@@ -175,27 +173,27 @@
                     <p> If you hate outlining because you don't get it, then play around with note-taking strategies until you find what makes the most sense to you, whatever the discipline. If you can't memorize information in your notes and need to use flashcards, then do that. As long as you're recording all of the information that you need to successfully recall information and understand concepts, don't worry about what you're <q>supposed</q> to be doing.</p>
                 </li>
             </dl>
-            <paragraphs>
-                <title>Tip</title>
-                <p>If you want some assistance figuring out your favorite note-taking style(s), make an Academic Consulting appointment at the <url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">CWLT</url>!</p>
-            </paragraphs>
-            <p>Highlight and underline enough but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
-            <sidebyside>
-                <image source="images/HR-Highlighter"/>
-            </sidebyside>
-            <paragraphs>
-                <title>Tip</title>
-                <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you think they are interesting and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>
-            </paragraphs>
-        </subsection>
-        <subsection>
+        </list>
+        <paragraphs>
+            <title>Tip</title>
+            <p>If you want some assistance figuring out your favorite note-taking style(s), make an Academic Consulting appointment at the <url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">CWLT</url>!</p>
+        </paragraphs>
+        <p>Highlight and underline enough but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
+        <sidebyside>
+            <image source="images/HR-Highlighter"/>
+        </sidebyside>
+        <paragraphs>
+            <title>Tip</title>
+            <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you think they are interesting and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>
+        </paragraphs>
+        <paragraphs>
             <title>Margin Notes and Annotations</title>
             <p>Take lots of margin notes! Margin notes are great tools to ensure that you're reading actively. By writing your own thoughts about the reading and summaries of the author's argument, you're engaging with the reading on a level beyond simply reading the words on the page. Not only will margin notes help you stay focused, but they'll also be useful when you have to look back over a reading to study for a test or research for a paper.</p>
             <p>The most important thing to remember when you're annotating a source is that what you do doesn't matter as much as how and why you do it. For instance, it makes no difference whether you use asterisks or smiley faces to indicate that something is important; it only matters that you know what it means now and you'll know what it means later. You can highlight, use different color pens, make different symbols or words, use sticky notes or tabs, or even (!) dog-ear your pages (unless you're using a library book). Figure out a symbolic system that you like, and then stick to it!</p>
-            <paragraphs>
-                <title>Tip</title>
-                <p>If you're getting bored with a reading, try writing a few funny comments in the margins. You could even use a curse word. Not only will you give yourself a nice laugh, but the study break will help you refocus and keep reading. These initial emotional reactions to a reading will also help you remember it better in the long-term because you're interacting with the reading in new and interesting ways.</p>
-            </paragraphs>
-        </subsection>
+        </paragraphs>
+        <paragraphs>
+            <title>Tip</title>
+            <p>If you're getting bored with a reading, try writing a few funny comments in the margins. You could even use a curse word. Not only will you give yourself a nice laugh, but the study break will help you refocus and keep reading. These initial emotional reactions to a reading will also help you remember it better in the long-term because you're interacting with the reading in new and interesting ways.</p>
+        </paragraphs>
     </section>
 </chapter>
