@@ -27,3 +27,4 @@ declare SRC=/home/...../soundwriting
 declare SCRATCH=/tmp/sw
 declare PDFVIEWER=
 declare HTMLVIEWER=
+declare JINGTRANG=/home/...../jing-trang/build

@@ -46,6 +46,35 @@ function setup {
     cp ${MBX}/contrib/ups-writers/ups-writers-latex.xsl ${MBUSER}/ups-writers-latex.xsl
 }
 
+# Validation using RELAX-NG
+function validate {
+    java\
+        -classpath ${JINGTRANG}\
+        -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration\
+        -jar ${JINGTRANG}/jing.jar\
+        ${MBX}/Schema/pretext.rng ${SOURCE}/SoundWriting.ptx\
+    | grep -v\
+        -e 'black'\
+        -e 'blue'\
+        -e 'darkgreen'\
+        -e 'darkpurple'\
+        -e 'darkred'\
+        -e 'gray'\
+        -e 'green'\
+        -e 'lightblue'\
+        -e 'lightgreen'\
+        -e 'lightpink'\
+        -e 'lightpurple'\
+        -e 'maroon'\
+        -e 'navy'\
+        -e 'orange'\
+        -e 'pink'\
+        -e 'red'\
+        -e 'teal'\
+    > ${SCRATCH}/errors.txt
+    less ${SCRATCH}/errors.txt
+}
+
 # Subroutine to build the HTML Version
 function html_build {
     echo
@@ -122,7 +151,11 @@ case "$1" in
     "viewhtml")
     view_html
     ;;
+    "validate")
+    setup
+    validate
+    ;;
     *)
-    echo "Supply an option: pdf|html|website <username>|viewpdf|viewhtml"
+    echo "Supply an option: pdf|html|website <username>|viewpdf|viewhtml|validate"
     ;;
 esac
