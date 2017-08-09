@@ -304,23 +304,23 @@
                         <cell><p>WHEN/HOW TO USE IT</p></cell>
                         <cell><p>TRANSITIONAL EXPRESSION</p></cell>
                     </row>
-                    <row>
+                    <row bottom="minor">
                         <cell><p>To add to a previous idea or to introduce a new idea</p></cell>
                         <cell><p>In addition, additionally, furthermore, similarly, along the same lines, in the same way, comparatively, along with, as previously mentioned, also, likewise, moreover</p></cell>
                     </row>
-                    <row>
+                    <row bottom="minor">
                         <cell><p>To elaborate</p></cell>
                         <cell><p>For example, for instance, specifically, in particular, to elucidate/elaborate</p></cell>
                     </row>
-                    <row>
+                    <row bottom="minor">
                         <cell><p>To contradict a previous idea/show discrepancy</p></cell>
                         <cell><p>However, even though, although, while, even with, in spite of, despite, in contrast, on the other hand, but, contradictorily, nevertheless, nonetheless, meanwhile</p></cell>
                     </row>
-                    <row>
+                    <row bottom="minor">
                         <cell><p>To show cause and effect</p></cell>
                         <cell><p>Therefore, thus, hence, correspondingly, consequently, accordingly, in light of, because, it follows that, for this reason</p></cell>
                     </row>
-                    <row>
+                    <row bottom="minor">
                         <cell><p>To conclude a thought</p></cell>
                         <cell><p>All in all, overall, to conclude, in conclusion</p></cell>
                     </row>
