@@ -130,8 +130,6 @@ function website {
     echo "BUILD: username as parameter 2, then supply password... :BUILD"
     echo
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    # build it first, cleanly
-    build_html
     ${RSYNC} ${SCRATCH}/html/*  ${UNAME}@userweb.pugetsound.edu:/var/www/html/soundwriting.pugetsound.edu/beta
 }
 
@@ -146,6 +144,8 @@ case "$1" in
     html_build
     ;;
     "website")
+    setup
+    html_build
     website
     ;;
     "viewpdf")
