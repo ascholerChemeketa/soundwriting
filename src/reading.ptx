@@ -175,13 +175,8 @@
             <title>Tip</title>
             <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">Center for Writing, Learning, and Teaching</url> (<init>CWLT</init>)!</p>
         </paragraphs>
-<<<<<<< HEAD
-        <p>Highlight and underline enough but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
-        <sidebyside width="50%">
-=======
         <p>Highlight and underline enough, but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
-        <sidebyside>
->>>>>>> Fix - How to Read
+        <sidebyside width="50%">
             <image source="images/HR-Highlighter"/>
         </sidebyside>
         <paragraphs>
