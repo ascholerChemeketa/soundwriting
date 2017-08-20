@@ -16,7 +16,7 @@
         <introduction>
             <p>Communication extends far beyond the grammatical features used by a speaker or writer. A person's grammar may be technically correct, but the meaning of their words can provoke anger, laughter, misunderstanding, or outright confusion. Since language revolves around <em>context</em>, knowing the context in which you speak or write is essential to producing culturally appropriate messages. In linguistics, the study of these cultural and contextual language rules is called <term>pragmatics</term>.</p>
             <p>Consider this example: you've decided to take your six-year-old cousin to the park for a picnic. You notice that a woman nearby is very pregnant. Your cousin also notices the person's large belly and decides to walk up to her and say, <q>Wow! You must have eaten a lot of treats!</q> Although your cousin's sentence is grammatically correct, they have made the significant English pragmatic mistake of talking about someone's body and consumption. Maybe your young cousin heard their parent say this same sentence to the robust family dog but has not yet learned that speaking to humans in such a way is inappropriate.</p>
-            <p>Another example would be one of pragmatic differences between languages: a Caribbean student studying in the United States turns in a narrative and receives a poor grade. The teacher's comments point to an unorganized, illogical sequence of events within the narrative. However, what the teacher sees as unorganized and illogical is actually a culturally-distinct method of storytelling that is different from the standard method <xref ref="SAE">Standard American English</xref> uses.</p>
+            <p>Another example would be one of pragmatic differences between languages: a Caribbean student studying in the United States turns in a narrative and receives a poor grade. The teacher's comments point to an unorganized, illogical sequence of events within the narrative. However, what the teacher sees as unorganized and illogical is actually a culturally-distinct method of storytelling that is different from the standard method <xref ref="SAE" text="title"/> uses.</p>
             <p>Here are some more pragmatic facts:</p>
         </introduction>
         <ul>
@@ -138,14 +138,14 @@
             </li>
         </dl>
     </list>
-    <list>
+    <list xml:id="top-10-tips-confusing-english">
         <title>Top 10 Quick Tips to Deal with Confusing Things in English</title>
         <ol>
             <li>
                 <p>Is it <sq>She gave the book to Bob and I</sq> or <sq>She gave the book to Bob and me</sq>?</p>
                 <p>Take Bob out of the picture completely (sorry, Bob). Would you say <sq>She gave I the book</sq> or <sq>She gave me the book</sq>? Right! You'd say <sq>She gave me the book,</sq> so you would say <sq>She gave the book to Bob and me.</sq></p>
             </li>
-            <li>
+            <li xml:id="period-inside-or-outside">
                 <p>Does the period go inside the parentheses or outside of them?</p>
                 <p>Is the parenthetical statement part of a sentence, or does the statement stand alone within parentheses?</p>
                 <p>If it's part of a sentence, put the period outside the parentheses: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies).</q></p>
@@ -242,7 +242,7 @@
             </li>
             <li>
                 <p>Where do commas and periods go when you're using quotation marks?</p>
-                <p>In <xref ref="SAE">Standard American English</xref>, commas and periods go inside <q>quotation marks.</q> The exception to this guideline is for some citation styles, like MLA, which <q>look like this</q> (page number).</p>
+                <p>In <xref ref="SAE" text="title"/>, commas and periods go inside <q>quotation marks.</q> The exception to this guideline is for some citation styles, like MLA, which <q>look like this</q> (page number).</p>
             </li>
         </ol>
     </list>
