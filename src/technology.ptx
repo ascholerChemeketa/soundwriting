@@ -19,7 +19,7 @@
                 <image source="images/LM-SpellingAutoCorrect"/>
             </sidebyside>
         </subsection>
-        <subsection>
+        <subsection xml:id="inserting-footnotes">
             <title>Inserting Footnotes</title>
             <p>Let's face it: footnotes can be a pain. Luckily, Word processor has some handy tricks for making adding footnotes relatively pain-free!</p>
             <p>Let's say you have a couple paragraphs with some source evidence you'd like to cite using footnotes.</p>
