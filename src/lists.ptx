@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
-    <list>
-        <title>Top 5 differences between written and spoken (or signed!) language</title>
-        <ol>
-            <li><p>The obvious difference (excluding the modern inventions of radio, telephones, and television): written language allows people to communicate across time and space, while spoken language happens immediately and is available only for those who can hear it (or see it, in the case of sign languages).</p></li>
-            <li><p>Virtually every human being learns to speak, while literacy is far less common. Today, almost 17<percent/> of adults around the world are illiterate.</p></li>
-            <li><p>Because reading and writing are consciously learned behaviors while the ability to speak is acquired naturally, many scientists and linguists think that spoken language is innate and written language is a human construct.</p></li>
-            <li><p>Spoken and signed languages can have varieties and dialects, while written language is generally more regulated and standardized.</p></li>
-            <li><p>Writing and speaking appear to use different parts of the brain.</p></li>
-        </ol>
-    </list>
-    <list>
-        <title>Differences in dialectual/cultural rules</title>
-        <introduction>
-            <p>Communication extends far beyond the grammatical features used by a speaker or writer. A person's grammar may be technically correct, but the meaning of their words can provoke anger, laughter, misunderstanding, or outright confusion. Since language revolves around <em>context</em>, knowing the context in which you speak or write is essential to producing culturally appropriate messages. In linguistics, the study of these cultural and contextual language rules is called <term>pragmatics</term>.</p>
-            <p>Consider this example: you've decided to take your six-year-old cousin to the park for a picnic. You notice that a woman nearby is very pregnant. Your cousin also notices the person's large belly and decides to walk up to her and say, <q>Wow! You must have eaten a lot of treats!</q> Although your cousin's sentence is grammatically correct, they have made the significant English pragmatic mistake of talking about someone's body and consumption. Maybe your young cousin heard their parent say this same sentence to the robust family dog but has not yet learned that speaking to humans in such a way is inappropriate.</p>
-            <p>Another example would be one of pragmatic differences between languages: a Caribbean student studying in the United States turns in a narrative and receives a poor grade. The teacher's comments point to an unorganized, illogical sequence of events within the narrative. However, what the teacher sees as unorganized and illogical is actually a culturally-distinct method of storytelling that is different from the standard method <xref ref="SAE" text="title"/> uses.</p>
-            <p>Here are some more pragmatic facts:</p>
-        </introduction>
-        <ul>
-            <li><p>Other examples of pragmatic knowledge include knowing how and when to take turns speaking, making eye contact, and asking questions or asking for clarification.</p></li>
-            <li><p>Contributing relevant information to a conversation that is not redundant or repetitive and adjusting the type of language based on the conversational situation constitute other types of pragmatic knowledge.</p></li>
-            <li><p>Things like eye contact, head nodding, personal space, and amount of touching are also part of the pragmatics of a language and vary by language and culture.</p></li>
-            <li><p>There are three main aspects of communication that are essential to understanding the pragmatic situation of a conversation: 1) the literal meaning of what was spoken (locution), 2) the speaker's intentions (illocution), and 3) the listener's interpretation (perlocution).</p></li>
-            <li><p>Pragmatics is one major reason why it has been so difficult to program computers to speak and understand language. Try telling a robot to <q>crack a window,</q> and see what happens!</p></li>
-        </ul>
-    </list>
     <sidebyside width="50%">
         <image source="images/LM-Top20ThingsLanguage"/>
     </sidebyside>
