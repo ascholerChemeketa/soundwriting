@@ -1365,7 +1365,7 @@
                         <p>For example, if this were the original sentence, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
                     </li>
                     <li>
-                        <title>If you are quoting a sentence with an informality or deviation from <xref ref="SAE" text="title"/> or emphasis in the source material, acknowledge that within or after the quote.</title>
+                        <title>If you are quoting a sentence with an informality or deviation from Standard American English or emphasis in the source material, acknowledge that within or after the quote.</title>
                         <p>Sometimes direct quotes have spelling or grammatical deviations from <init>SAE</init>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
                         <blockquote>
                             <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <sq><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></sq> at the CWLT?</q></p>
@@ -1419,6 +1419,7 @@
                             <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
                             <p>Students can also request appointments by using the forms for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
                         </blockquote>
+                    </li>
                 </dl>
             </list>
         </subsection>
