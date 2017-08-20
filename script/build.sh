@@ -46,6 +46,18 @@ function setup {
     cp ${MBX}/contrib/ups-writers/ups-writers-latex.xsl ${MBUSER}/ups-writers-latex.xsl
 }
 
+function setup_pdf {
+    echo
+    echo "BUILD: Building PDF Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
+    install -d ${SCRATCH}/pdf # Create the pdf scratch directory
+    rm -rf ${SCRATCH}/pdf/*.aux ${SCRATCH}/pdf/*.log ${SCRATCH}/pdf/*.tex ${SCRATCH}/pdf/*.toc # Clear the pdf scratch directory
+    install -d ${SCRATCH}/pdf/images # Create pdf images directory
+    cp -a ${IMAGES}/* ${SCRATCH}/pdf/images # Fill pdf images directory
+    cd ${SCRATCH}/pdf # Change directory to pdf scratch directory
+}
+
 # Validation using RELAX-NG
 function validate {
     java\
@@ -74,12 +86,15 @@ function validate {
         -e '"i"'\
         -e '"un"'\
         -e '"highlight"'\
-    > ${SCRATCH}/errors.txt;
-    less ${SCRATCH}/errors.txt
+    > ${SCRATCH}/errors.txt
 }
 
-# Subroutine to build the HTML Version
-function html_build {
+function view_errors {
+    Less ${SCRATCH}/errors.txt
+}
+
+# Subroutine to build the HTML version
+function build_html {
     echo
     echo "BUILD: Building HTML Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -96,28 +111,32 @@ function view_html {
     ${HTMLVIEWER} ${SCRATCH}/html/index.html
 }
 
-# Subroutine to build the PDF/print Version
-function pdf_build {
-    echo
-    echo "BUILD: Building Print Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
-    install -d ${SCRATCH}/pdf ${SCRATCH}/pdf/images
-    cd ${SCRATCH}/pdf
-    rm SoundWriting.tex
-    cp -a ${IMAGES}/* ./images/
+# Subroutine to build the electronic PDF version
+function build_pdf {
     xsltproc --xinclude ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
+    mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic.pdf
 }
 
 function view_pdf {
-    ${PDFVIEWER} ${SCRATCH}/pdf/SoundWriting.pdf
+    ${PDFVIEWER} ${SCRATCH}/SoundWriting-electronic.pdf
 }
 
-# $2 is a username with priviliges at
-# /var/www/html/soundwriting.pugetsound.edu/ on userweb.pugetsound.edu
-function website {
+# Subroutine to build the print PDF version
+function build_print {
+    xsltproc --xinclude --stringparam latex.print yes ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+    xelatex SoundWriting.tex
+    xelatex SoundWriting.tex
+    mv SoundWriting.pdf ${SCRATCH}/SoundWriting-print.pdf
+}
+
+function view_print {
+    ${PDFVIEWER} ${SCRATCH}/SoundWriting-print.pdf
+}
+
+# Check to make sure we have a username
+function website_valid {
     # test for zero string as account name and exit with message
     if [ -z "${UNAME}" ] ; then
         echo
@@ -126,6 +145,11 @@ function website {
         exit
     fi
     echo
+}
+
+# $2 (aliased to ${UNAME}) is a username with priviliges at
+# /var/www/html/soundwriting.pugetsound.edu/ on userweb.pugetsound.edu
+function website {
     echo "BUILD: rsync entire web version...                      :BUILD"
     echo "BUILD: username as parameter 2, then supply password... :BUILD"
     echo
@@ -135,30 +159,50 @@ function website {
 
 # Main command-line interpreter
 case "$1" in
-    "pdf")
+    "all")
     setup
-    pdf_build
+    build_html
+    build_pdf
+    build_print
     ;;
     "html")
     setup
-    html_build
+    build_html
     ;;
-    "website")
+    "viewhtml")
+    view_html
+    ;;
+    "pdf")
     setup
-    html_build
-    website
+    setup_pdf
+    build_pdf
     ;;
     "viewpdf")
     view_pdf
     ;;
-    "viewhtml")
-    view_html
+    "print")
+    setup
+    setup_pdf
+    build_print
+    ;;
+    "viewprint")
+    view_print
     ;;
     "validate")
     setup
     validate
     ;;
+    "viewerrors")
+    setup
+    view_errors
+    ;;
+    "website")
+    website_valid
+    setup
+    build_html
+    website
+    ;;
     *)
-    echo "Supply an option: pdf|html|website <username>|viewpdf|viewhtml|validate"
+    echo "Supply an option: all|html|viewhtml|pdf|viewpdf|print|viewprint|validate|viewerrors|website <username>"
     ;;
 esac
