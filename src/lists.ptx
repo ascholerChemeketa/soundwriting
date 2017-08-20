@@ -2,181 +2,72 @@
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
     <list>
-        <title>Fun stuff</title>
-        <dl>
+        <title>On-Campus Places to Study</title>
+        <ul>
+            <li><p>Diversions/Oppenheimer</p></li>
+            <li><p>Empty classrooms/resource rooms in Thompson</p></li>
             <li>
-                <title>On-campus places to study</title>
-                <p><ul>
-                    <li><p>Diversions/Oppenheimer</p></li>
-                    <li><p>Empty classrooms/resource rooms in Thompson</p></li>
-                    <li><p>The library<ul>
+                <p>The library
+                    <ul>
                         <li>Rooms in the basement</li>
                         <li>Second floor</li>
                         <li>Big tables by the front doors</li>
-                        <li>The fourth floor couches</li>
-                    </ul></p></li>
-                    <li><p>Nooks in Wyatt</p></li>
-                    <li><p>Outside (if it's sunny)</p></li>
-                    <li><p>Upstairs in the <acro>SUB</acro></p></li>
-                    <li><p>The Rotunda (if it's open)</p></li>
-                    <li><p>Lounges in your residence hall</p></li>
-                    <li><p>The CWLT!</p></li>
-                </ul></p>
+                        <li>The fourth-floor couches</li>
+                    </ul>
+                </p>
             </li>
-            <li>
-                <title>Off-campus places to study</title>
-                <p><ul>
-                    <li><p>Metronome</p></li>
-                    <li><p>Cafe Brosseau</p></li>
-                    <li><p>Bluebeard Coffee Roasters</p></li>
-                    <li><p>Owen Beach at Point Defiance</p></li>
-                    <li><p>Anthem Coffee <ampersand/> Tea</p></li>
-                    <li><p>B<hash/></p></li>
-                    <li><p>Blackbear</p></li>
-                </ul></p>
-            </li>
-            <li xml:id="productive-procrastination">
-                <title>Productive Procrastination</title>
-                <p><ul>
-                    <li><p>Work on citations</p></li>
-                    <li><p>Take the CWLT's <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz to figure out what kind of writer you are!</url></p></li>
-                    <li><p>Type up your notes/evidence</p></li>
-                    <li><p>Make to-do lists</p></li>
-                    <li><p>Make an assignment timeline</p></li>
-                    <li><p>Organize your documents/make a folder for your research</p></li>
-                    <li><p>Look at classes for next semester</p></li>
-                    <li><p>Make a good essay-writing playlist on Spotify</p></li>
-                    <li><p>Go to the <acro>SUB</acro> or the Cellar, and get something healthy but good to snack on</p></li>
-                    <li><p>There's a huge <q>study</q> genre on YouTube. Go watch a couple videos to get inspired!</p></li>
-                    <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
-                    <li><p>Explore and familiarize yourself with the SoundWriting online guidebook (good job!)</p></li>
-                    <li><p>Make a writing appointment at the CWLT!</p></li>
-                </ul></p>
-            </li>
-            <li>
-                <title>Fun <init>UPS</init> Facts</title>
-                <p><ul>
-                    <li><p>1890: Tuition for the college was <dollar/>20!</p></li>
-                    <li><p>1910: Nickname for athletics became the Loggers</p></li>
-                    <li><p>1913: Women's basketball started</p></li>
-                    <li><p>1924: Jones Hall completed</p></li>
-                    <li><p>1927: Howarth Hall completed</p></li>
-                    <li><p>1932: Adelphians created</p></li>
-                    <li><p>1937: Physical education was one of the five required courses</p></li>
-                    <li><p>1949: Fieldhouse completed</p></li>
-                    <li><p>1963: Puget Sound had a joint convocation ceremony with Pacific Lutheran University, which was attended by US President John F. Kennedy</p></li>
-                    <li><p>1977: <init>KUPS</init> had its first broadcast in April</p></li>
-                    <li><p>1979: President Phibbs instituted Fireside Dinners</p></li>
-                </ul></p>
-            </li>
-        </dl>
+            <li><p>Nooks in Wyatt</p></li>
+            <li><p>Outside (if it's sunny)</p></li>
+            <li><p>Upstairs in the <acro>SUB</acro></p></li>
+            <li><p>The rotunda (if it's open)</p></li>
+            <li><p>Lounges in your residence hall</p></li>
+            <li><p>The <init>CWLT</init>!</p></li>
+        </ul>
     </list>
-    <list xml:id="top-10-tips-confusing-english">
-        <title>Top 10 Quick Tips to Deal with Confusing Things in English</title>
-        <ol>
-            <li>
-                <p>Is it <sq>She gave the book to Bob and I</sq> or <sq>She gave the book to Bob and me</sq>?</p>
-                <p>Take Bob out of the picture completely (sorry, Bob). Would you say <sq>She gave I the book</sq> or <sq>She gave me the book</sq>? Right! You'd say <sq>She gave me the book,</sq> so you would say <sq>She gave the book to Bob and me.</sq></p>
-            </li>
-            <li xml:id="period-inside-or-outside">
-                <p>Does the period go inside the parentheses or outside of them?</p>
-                <p>Is the parenthetical statement part of a sentence, or does the statement stand alone within parentheses?</p>
-                <p>If it's part of a sentence, put the period outside the parentheses: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies).</q></p>
-                <p>If it stands alone, put the period inside the parentheses: <q>I like to go to the <acro>SUB</acro>. (There are really good cookies there.)</q></p>
-                <aside>
-                    <title>Additional Note</title>
-                    <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies!).</q></p>
-                </aside>
-            </li>
-            <li>
-                <p><stale>Could of</stale> <m>\rightarrow</m> <insert>Could've</insert></p>
-                <p>Remember that there are differences between written and spoken language! Although you hear the word <q>of</q> when you say this, what you're actually saying is <q>ve</q><mdash/>the last half of <q>have.</q> Because the sounds are the same when spoken and therefore the meaning of the phrase is unobstructed, it's easy to forget the distinction while writing. But, since written language requires the distinction to retain the meaning of the sentence (imagine being a confused English Language Learner reading <q>could of</q>), writers instead use the contraction <q>could've.</q></p>
-            </li>
-            <li>
-                <p>Lay vs. lie vs. laid vs. lain</p>
-                <p>Maybe just forget about this one. (Just kidding<mdash/>kind of.) Despite being such a wonderful thing, the act of lying (laying?) down can cause a world of pain when trying to write about it. The crucial thing you must determine is what (or who) is doing the laying/lying: (1) Is someone or something lying down on their own? (2) Or is someone laying something (or someone) else down?</p>
-                <p>Present tense:<ul>
-                    <li><p>Lie = <q>You lie down.</q></p></li>
-                    <li><p>Lay = <q>You lay something down.</q></p></li>
-                </ul></p>
-                <p>Seems easy enough, but, unfortunately, it gets more confusing.</p>
-                <p>Past tense:<ul>
-                    <li><p>Lie <m>\rightarrow</m> lay = <q>You lay down too often.</q></p></li>
-                    <li><p>Lay <m>\rightarrow</m> lie = <q>You lie something down.</q></p></li>
-                </ul></p>
-                <p>Past participle:<ul>
-                    <li><p>Lie <m>\rightarrow</m> lain = <q>You have lain down for too long.</q></p></li>
-                    <li><p>Lay <m>\rightarrow</m> laid = <q>You have laid down far too many things today.</q></p></li>
-                </ul></p>
-                <p>-ing versions:<ul>
-                    <li><p>Lie <m>\rightarrow</m> lying = <q>You have been lying around all day!</q></p></li>
-                    <li><p>Lay <m>\rightarrow</m> laying = <q>You have been laying things all over the house!</q></p></li>
-                </ul></p>
-                <aside>
-                    <title>A tip for the indolent</title>
-                    <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to ;)</p>
-                </aside>
-            </li>
-            <li>
-                <p>Drink/drank/drunk<ul>
-                    <li><p>Drink = present tense = <q>I drink water frequently.</q></p></li>
-                    <li><p>Drank = past tense = <q>I drank water yesterday.</q></p></li>
-                    <li><p>Drunk = past participle = <q>I have drunk too much water today.</q></p></li>
-                </ul></p>
-            </li>
-            <li>
-                <p>Who vs. Whom</p>
-                <p>This distinction is rapidly falling out of use, but a tip about how to remember the different usages might come in handy.</p>
-                <p>If you would say <q>him,</q> <q>her,</q> or <q>them,</q> then you should use whom. If you would say <q>he,</q> <q>she,</q> or <q>they,</q> then use who.</p>
-                <p>
-                    Examples:
-                    <ul>
-                        <li><p><q>I am speaking to her.</q> <m>\rightarrow</m> <q>To whom am I speaking?</q></p></li>
-                        <li><p><q>She called.</q> <m>\rightarrow</m> <q>Who called?</q></p></li>
-                        <li><p><q>I envy him.</q> <m>\rightarrow</m> <q>He's the person whom I envy.</q></p></li>
-                    </ul>
-                </p>
-            </li>
-            <li>
-                <p>Fewer vs. Less</p>
-                <p>This one is simple! If you can count it, use <q>fewer.</q> If you can't count it, use <q>less.</q></p>
-                <p>
-                    Examples:
-                    <ul>
-                        <li><p><q>I want fewer homework assignments.</q></p></li>
-                        <li><p><q>I want less homework.</q></p></li>
-                        <li><p><q>I want fewer cartons of milk.</q></p></li>
-                        <li><p><q>I want less milk.</q></p></li>
-                    </ul>
-                </p>
-            </li>
-            <li>
-                <p>Who's vs. Whose</p>
-                <p>Possessives in English are the worst! <q>Who's</q> seems like it would denote possession because it has an apostrophe, which is how we usually indicate that someone has something (with the exception of possessive pronouns like hers, his, theirs, and yours, of course<ellipsis/>). But, unfortunately, <q>who's</q> is a contraction of <q>who is</q> or <q>who has</q> and it has nothing to do with possession.</p>
-                <p>
-                    Examples:
-                    <ul>
-                        <li><p><q>Who's that over there?</q> <m>\rightarrow</m> <q>Who is that over there?</q></p></li>
-                        <li><p><q>She's the one who's been helping me.</q> <m>\rightarrow</m> <q>She is the one who has been helping me.</q></p></li>
-                    </ul>
-                </p>
-                <p><q>Whose,</q> on the other hand, indicates that someone, <q>who,</q> possesses something. If you're a fan of early 2000s American comedy, you might use <em>Whose Line is it Anyway?</em> as a mnemonic device.</p>
-                <p>
-                    Examples:
-                    <ul>
-                        <li><p><q>Whose baby is that?</q> <m>\rightarrow</m> <q>To whom does that baby belong?</q></p></li>
-                        <li><p><q>My friend, whose bike was stolen, decided to buy a U-lock.</q> <m>\rightarrow</m> <q>My friend, who possessed a bike that was stolen, decided to buy a U-lock.</q></p></li>
-                    </ul>
-                </p>
-            </li>
-            <li>
-                <p>Speaking of possessive pronouns<ellipsis/></p>
-                <p>Similarly to <q>who's</q> looking like the possessive version of <q>who</q>, the possessive versions of the pronouns <q>it, him, her, your, their, and our</q> can be misleading. Although the apostrophe (it's, her's, your's, their's, and our's) is tempting to include, leave it out! The correct possessive pronouns are: its, his, hers, yours, theirs, and ours.</p>
-            </li>
-            <li>
-                <p>Where do commas and periods go when you're using quotation marks?</p>
-                <p>In <xref ref="SAE" text="title"/>, commas and periods go inside <q>quotation marks.</q> The exception to this guideline is for some citation styles, like MLA, which <q>look like this</q> (page number).</p>
-            </li>
-        </ol>
+    <list>
+        <title>Off-Campus Places to Study</title>
+        <ul>
+            <li><p>Metronome</p></li>
+            <li><p>Cafe Brosseau</p></li>
+            <li><p>Bluebeard Coffee Roasters</p></li>
+            <li><p>Owen Beach at Point Defiance</p></li>
+            <li><p>Anthem Coffee <ampersand/> Tea</p></li>
+            <!-- Closed <li><p>B<hash/></p></li> -->
+            <li><p>Blackbear</p></li>
+        </ul>
+    </list>
+    <list xml:id="productive-procrastination">
+        <title>Productive Procrastination</title>
+        <ul>
+            <li><p>Work on citations</p></li>
+            <li><p>Take the CWLT's <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
+            <li><p>Type up your notes/evidence</p></li>
+            <li><p>Make to-do lists</p></li>
+            <li><p>Make an assignment timeline</p></li>
+            <li><p>Organize your documents/make a folder for your research</p></li>
+            <li><p>Look at classes for next semester</p></li>
+            <li><p>Make a good essay-writing playlist on Spotify</p></li>
+            <li><p>Go to the <acro>SUB</acro> or The Cellar, and get something healthy but good to snack on</p></li>
+            <li><p>There's a huge <q>study</q> genre on YouTube. Go watch a couple videos to get inspired!</p></li>
+            <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
+            <li><p>Explore and familiarize yourself with the <booktitle>Sound Writing</booktitle> online guidebook (good job!)</p></li>
+            <li><p>Make a writing appointment at the CWLT!</p></li>
+        </ul>
+    </list>
+    <list>
+        <title>Fun Puget Sound Facts</title>
+        <ul>
+            <li><p>1890: Tuition for the college was <dollar/>20!</p></li>
+            <li><p>1910: Nickname for athletics became the Loggers</p></li>
+            <li><p>1913: Women's basketball started</p></li>
+            <li><p>1924: Jones Hall completed</p></li>
+            <li><p>1927: Howarth Hall completed</p></li>
+            <li><p>1932: Adelphians created</p></li>
+            <li><p>1937: Physical education was one of the five required courses</p></li>
+            <li><p>1949: Field house completed</p></li>
+            <li><p>1963: Puget Sound had a joint convocation ceremony with Pacific Lutheran University, which was attended by President John F. Kennedy</p></li>
+            <li><p>1977: <init>KUPS</init> had its first broadcast in April</p></li>
+            <li><p>1979: President Phibbs instituted Fireside Dinners</p></li>
+        </ul>
     </list>
 </chapter>

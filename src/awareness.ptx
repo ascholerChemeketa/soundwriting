@@ -228,18 +228,18 @@
         </paragraphs>
         <paragraphs xml:id="SAE">
             <title>Standard American English</title>
-            <p>While many speakers of <xref ref="SAE" text="title"/> (<init>SAE</init>), especially those in power, see <xref ref="AAVE"><init>AAVE</init></xref> as simply <sq>incorrect,</sq> slang, or <sq>broken</sq> English, <xref ref="AAVE"><init>AAVE</init></xref> is as rule-bound and correct in its own context as any other language or language variety. Being rule-bound means that there are consistent rules in <xref ref="AAVE"><init>AAVE</init></xref> that dictate what a speaker can and cannot do. Below are several examples of these rules.</p>
+            <p>While many speakers of <xref ref="SAE" text="title"/> (<init>SAE</init>), especially those in power, see <xref ref="AAVE"><init>AAVE</init></xref> as simply <q>incorrect,</q> slang, or <q>broken</q> English, <xref ref="AAVE"><init>AAVE</init></xref> is as rule-bound and correct in its own context as any other language or language variety. Being rule-bound means that there are consistent rules in <xref ref="AAVE"><init>AAVE</init></xref> that dictate what a speaker can and cannot do. Below are several examples of these rules.</p>
         </paragraphs>
         <list xml:id="comparing-SAE-and-AAVE">
             <title>Comparing SAE and AAVE</title>
             <dl>
                 <li>
                     <title>Third person singular</title>
-                    <p>The third person singular consists of <sq>he</sq> and <sq>she</sq> (and <sq>they,</sq> when it's used as a gender-neutral, third-person singular). <init>SAE</init> conjugates the third person singular with an -s, so <q>to say</q> becomes conjugated as <q>she says.</q> In <xref ref="AAVE"><init>AAVE</init></xref>, the rule for conjugating third person singular does not include adding an -s, so <xref ref="AAVE"><init>AAVE</init></xref> speakers would say <q>she say.</q></p>
+                    <p>The third person singular consists of <q>he</q> and <q>she</q> (and <q>they,</q> when it's used as a gender-neutral, third-person singular). <init>SAE</init> conjugates the third person singular with an -s, so <q>to say</q> becomes conjugated as <q>she says.</q> In <xref ref="AAVE"><init>AAVE</init></xref>, the rule for conjugating third person singular does not include adding an -s, so <xref ref="AAVE"><init>AAVE</init></xref> speakers would say <q>she say.</q></p>
                 </li>
                 <li>
                     <title>Multiple negation</title>
-                    <p>In <init>SAE</init>, a speaker cannot correctly say, <q>She didn't go nowhere,</q> because <sq>did not</sq> and <sq>nowhere</sq> are both negative. Instead, <init>SAE</init> speakers will replace <q>nowhere</q> with <q>anywhere.</q> In <xref ref="AAVE"><init>AAVE</init></xref>, the correct way to convey a negative is by retaining the negative form <q>nowhere</q> after the negated verb. Thus, <q>She didn't go nowhere</q> is correct syntax in <xref ref="AAVE"><init>AAVE</init></xref>. (For any Francophiles or Edith Piaf fans, French also uses this type of multiple negation: <q><foreign>Non, je ne regrette rien.</foreign></q>)</p>
+                    <p>In <init>SAE</init>, a speaker cannot correctly say, <q>She didn't go nowhere,</q> because <q>did not</q> and <q>nowhere</q> are both negative. Instead, <init>SAE</init> speakers will replace <q>nowhere</q> with <q>anywhere.</q> In <xref ref="AAVE"><init>AAVE</init></xref>, the correct way to convey a negative is by retaining the negative form <q>nowhere</q> after the negated verb. Thus, <q>She didn't go nowhere</q> is correct syntax in <xref ref="AAVE"><init>AAVE</init></xref>. (For any Francophiles or Edith Piaf fans, French also uses this type of multiple negation: <q><foreign>Non, je ne regrette rien.</foreign></q>)</p>
                 </li>
                 <li>
                     <title>Zero copula (deletion of the <q>to be</q> verb)</title>

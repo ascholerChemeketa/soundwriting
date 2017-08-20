@@ -501,21 +501,21 @@
             <title>APA</title>
             <example>
                 <p><lightblue>Title of Work.</lightblue> <lightgreen>(Publication Year, Month Day).</lightgreen> <darkgreen><booktitle>Title of Website.</booktitle></darkgreen> Retrieved from <orange>url.</orange></p>
-                <p><lightblue>Fiction: <sq>Poppyseed</sq></lightblue> by <red>Ramona Ausubel.</red> <lightgreen>(2013, May 11).</lightgreen> <darkgreen><booktitle>Salon.</booktitle></darkgreen> Retrieved from <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
-                <p>In-text: (<sq>Poppyseed,</sq> 2013)</p>
+                <p><lightblue>Fiction: <q>Poppyseed</q></lightblue> by <red>Ramona Ausubel.</red> <lightgreen>(2013, May 11).</lightgreen> <darkgreen><booktitle>Salon.</booktitle></darkgreen> Retrieved from <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
+                <p>In-text: (<q>Poppyseed,</q> 2013)</p>
             </example>
         </subsection>
         <subsection>
             <title>Chicago</title>
             <example>
                 <p><red>Author last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen>Title of Website,</darkgreen> <lightgreen>Publication/modication Month Day, Year.</lightgreen> <orange>URL.</orange></p>
-                <p><red>Ausubel, Ramona.</red> <lightblue><q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel.</q></lightblue> <darkgreen>Salon.</darkgreen> <lightgreen>May 11, 2013.</lightgreen> <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
+                <p><red>Ausubel, Ramona.</red> <lightblue><q>Fiction: <q>Poppyseed</q> by Ramona Ausubel.</q></lightblue> <darkgreen>Salon.</darkgreen> <lightgreen>May 11, 2013.</lightgreen> <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
             </example>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Ramona Ausubel, <q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel</q>, Salon, May 11, 2013, <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/>.</fn></p>
+                <p>First appearance.<fn>Ramona Ausubel, <q>Fiction: <q>Poppyseed</q> by Ramona Ausubel</q>, Salon, May 11, 2013, <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/>.</fn></p>
                 <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>Ausubel, <q>Fiction: <sq>Poppyseed.</sq></q></fn></p>
+                <p>Non-consecutive appearances.<fn>Ausubel, <q>Fiction: <q>Poppyseed.</q></q></fn></p>
                 <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
             </paragraphs>
         </subsection>
@@ -523,7 +523,7 @@
             <title>MLA</title>
             <example>
                 <p><red>Author last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen><booktitle>Title of Website.</booktitle></darkgreen> <gray>Sponsor of site,</gray> <lightgreen>Year updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
-                <p><red>Ausubel, Ramona.</red> <lightblue><q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel.</q></lightblue> <darkgreen>Salon.</darkgreen> <gray>Salon,</gray> <lightgreen>2013.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
+                <p><red>Ausubel, Ramona.</red> <lightblue><q>Fiction: <q>Poppyseed</q> by Ramona Ausubel.</q></lightblue> <darkgreen>Salon.</darkgreen> <gray>Salon,</gray> <lightgreen>2013.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
                 <p>For a work with no known author from a website, begin the citation with the title of the work.</p>
                 <p>In-Text: (Ausubel)</p>
             </example>
