@@ -295,11 +295,11 @@
                 <image source="images/WP-TransitionSignpost"/>
             </sidebyside>
             <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
-            <sidebyside width="50%">
+            <sidebyside>
                 <!-- <image source="images/WP-TransitionTable"/> -->
                 <tabular>
-                    <col width="33%"/>
-                    <col width="66%"/>
+                    <col width="30%"/>
+                    <col width="70%"/>
                     <row bottom="major">
                         <cell><p>WHEN/HOW TO USE IT</p></cell>
                         <cell><p>TRANSITIONAL EXPRESSION</p></cell>
