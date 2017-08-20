@@ -7,7 +7,7 @@
     <section>
         <title>Brainstorming</title>
         <p>Before you begin to write, first think about how you like to think. Do you prefer talking through your ideas? Writing down everything that's going through your mind? Drawing? Mapping? There is no right or wrong way to brainstorm. Figure out what works best for you, and then use that knowledge to develop brainstorming skills that are specific to <em>you</em>.</p>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/WP-Brain"/>
         </sidebyside>
         <list>
@@ -24,7 +24,7 @@
                 <li><p>Think about your topic while you are doing something else, like yoga, cooking, or reading a book for pleasure.</p></li>
             </ul>
         </list>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/WP-Yoga"/>
         </sidebyside>
     </section>
@@ -32,7 +32,7 @@
         <title>Planning</title>
         <introduction>
             <p>So now that you have a ton of ideas all jockeying for attention in your brain, it's time to sit down, consolidate those thoughts, and plan out what you are going to write. But before you can begin, there are a few things you'll need to address that will help make the planning process go as smoothly and productively as possible.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-Question"/>
             </sidebyside>
         </introduction>
@@ -70,7 +70,7 @@
         <subsection>
             <title>Some Planning Strategies</title>
             <p>There are several planning strategies to help you bridge the gap between the disorganized chaos of brainstorming and the more comprehensible structure of outlining:</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-PlanningHead"/>
             </sidebyside>
             <paragraphs>
@@ -84,7 +84,7 @@
                     <li><p>Does all of your evidence come from the same source? (This might be okay in an assignment like a close reading or analysis of a primary source, but things like research papers often require a variety of different sources. Look to your assignment sheet for more guidelines on how many/what kind of sources to use.)</p></li>
                     <li><p>Is there any information or evidence you want to include but don't know where to put? Is it necessary for your argument? (Create a list of these off to the side so you don't forget them.)</p></li>
                 </ul></p>
-                <sidebyside>
+                <sidebyside width="50%">
                     <image source="images/WP-Mindmap"/>
                 </sidebyside>
             </paragraphs>
@@ -104,7 +104,7 @@
                 <title>Drawing</title>
                 <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argumendt you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
             </paragraphs>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-ChalkboardTip"/>
             </sidebyside>
         </subsection>
@@ -128,21 +128,21 @@
         <subsection>
             <title>The Classic Outline</title>
                 <p>The classic outline is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
-                <sidebyside>
+                <sidebyside width="50%">
                     <image source="images/WP-ClassicOutline"/>
                 </sidebyside>
         </subsection>
         <subsection xml:id="the-bubble-map">
             <title>The Bubble Map</title>
             <p>The bubble map is a great option for writers who prefer a less structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-BubbleMap"/>
             </sidebyside>
         </subsection>
         <subsection>
             <title>The Flowchart</title>
             <p>Flowcharts work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-Flowchart"/>
             </sidebyside>
         </subsection>
@@ -152,7 +152,7 @@
         <subsection>
             <title>Role of the introduction (road map)</title>
             <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road-map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not they will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-RoadMap"/>
             </sidebyside>
         </subsection>
@@ -213,7 +213,7 @@
                 </blockquote>
                 <p>This statement is specific, interesting, and introduces the topic at hand. However, it's also broad enough to hint at the bigger picture while opening the floor to a more specific problem or insight. While there are a variety of different ways to craft an interesting and relevant opening to your introduction, there are some opening statement types that are generally too broad, obvious, informal, over-used, or boring to be employed in academic writing and, as a result, should be avoided. (However, it's important to remember that the type of opening statement obviously depends on the discipline and type of writing assignment; therefore, rather than strictly adhering to this list, use it as a guide.)</p>
             </paragraphs>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-AccentTree"/>
             </sidebyside>
             <list>
@@ -260,7 +260,7 @@
         <subsection>
             <title>Topic sentences (compass)</title>
             <p>If introductions are the road-maps to your argument, topic sentences are the compass coordinates you are using to keep your argument on track with your thesis. For this reason, topic sentences are among the most important components of your paper. Not only do they link each paragraph to your thesis, but they keep your audience (and you) oriented to your argument. Topic sentences should typically be stated at the beginning of each new paragraph and should do two things: 1) introduce the main idea of that paragraph and 2) transition from the previous one. They don't usually include specific details or pieces of evidence (that's what the rest of the paragraph is for), but rather preface the claims you will be making. A helpful way to think about topic sentences is if you were to highlight your thesis, topic sentences, and conclusion, you would have a pretty solid outline of your argument (for more on reverse outlining, see <xref ref="reverse-outlining" text="type-global"/>). There are a few different strategies for writing topic sentences. One way might be to include tentative topic sentences in your outline and start with those as you write the corresponding body paragraphs. Another strategy may be to write the body paragraph first, read it over to determine the main idea, and then write the corresponding topic sentence at the top.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-ThesisCompass"/>
             </sidebyside>
             <p>
@@ -291,11 +291,11 @@
         </subsection>
         <subsection xml:id="transitions">
             <title>Transitions (signposts)</title>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-TransitionSignpost"/>
             </sidebyside>
             <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <!-- <image source="images/WP-TransitionTable"/> -->
                 <tabular>
                     <col width="33%"/>
@@ -333,7 +333,7 @@
         </subsection>
         <subsection>
             <title>Body Paragraphs (landmarks/sights)</title>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-EvidenceBinoculars"/>
             </sidebyside>
             <p>
@@ -363,7 +363,7 @@
     <section>
         <title>Conclusions</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-ConclusionCamera"/>
             </sidebyside>
         </introduction>
@@ -407,7 +407,7 @@
                 <title>Play the <q>But, why?</q> game with a friend</title>
                 <p>If you've ever spent time around young children, you are likely familiar with the <q>but, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a writing advisor read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
             </paragraphs>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-ButWhy"/>
             </sidebyside>
             <p>If you want some more ideas for writing effective conclusions, take a look at the following examples:</p>
@@ -426,7 +426,7 @@
     <section xml:id="research-process-while-writing">
         <title>Research process while writing</title>
         <p><em>Revising your argument and adding new research.</em></p>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/research-process-not-linear"/>
         </sidebyside>
         <p>The process of researching, writing, and revising is not linear. You don't stop researching when you start writing, and you don't stop researching or writing when you begin revising. As was mentioned in <xref ref="forming-your-argument" text="type-global"/>, it is best to think of your initial thesis as a <term>working thesis</term>. During your research, writing, and revising process, your argument will (and should) change based on what you read and write. You may end up writing a completely different paper than you had originally envisioned, or your final thesis may simply be a revised and refined version of your working thesis. Regardless, as you write your first draft, it is important that you don't stop doing research. How, then, does your research process evolve with your writing?</p>
@@ -467,7 +467,7 @@
                 </li>
             </dl>
         </list>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/WP-CutePenguin"/>
         </sidebyside>
         <list>
@@ -495,7 +495,7 @@
                 </li>
             </dl>
         </list>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/WP-LoggersLiveGreen"/>
         </sidebyside>
     </section>
@@ -503,7 +503,7 @@
         <title>Revising</title>
         <introduction>
             <p>When we revise, we deal with both Higher Order Concerns (HOCs) and Lower Order Concerns (LOCs). HOCs include things such as the thesis, organization, topic sentences, and the use of evidence. LOCs include things like grammar and syntax. At the CWLT, we focus largely on HOCs.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/WP-GoodThings"/>
             </sidebyside>
             <p>
@@ -549,7 +549,7 @@
             </p>
             <figure xml:id="revision-checklist">
                 <caption>Revision Checklist</caption>
-                <image source="images/revision-checklist"/>
+                <image source="images/revision-checklist" width="50%"/>
             </figure>
         </introduction>
         <subsection xml:id="reverse-outlining">
@@ -621,8 +621,8 @@
                 </li>
             </dl>
         </list>
-        <sidebyside>
-            <image width="5%" source="images/arrow"/>
+        <sidebyside width="5%">
+            <image source="images/arrow"/>
         </sidebyside>
         <list>
             <title>Managing anxiety and frustration</title>
@@ -647,7 +647,7 @@
                 </li>
             </dl>
         </list>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/clock"/>
         </sidebyside>
         <list>

@@ -14,7 +14,7 @@
             <title>Background</title>
             <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: MLA, Chicago (CMS), and APA.</p>
             <p>In general, here are some differences between the styles:</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/citation-styles-table"/>
             </sidebyside>
         </subsection>
@@ -54,7 +54,7 @@
                 </list>
             </sidebyside>
             <p>You might be asking us, <q>But why do I need all of this information?</q> No, citation guides are not out to get you! Each piece of a citation has a specific purpose. Here are some reasons behind the information you need. Hopefully this context will 1) help you understand what the citation is doing and why, and 2) help you use other people's sources more effectively!</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/citation-info-table"/>
             </sidebyside>
             <paragraphs>
@@ -70,7 +70,7 @@
     <section>
         <title>Book with One Author</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-BookOneAuthor"/>
             </sidebyside>
         </introduction>
@@ -108,7 +108,7 @@
     <section>
         <title>Book with Multiple Authors</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-BookMultipleAuthors"/>
             </sidebyside>
         </introduction>
@@ -146,7 +146,7 @@
     <section>
         <title>Edition Other than the First</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-EditionOtherThanTheFirst"/>
             </sidebyside>
         </introduction>
@@ -184,7 +184,7 @@
     <section>
         <title>Chapter in an Edited Book</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-ChapterInEdited"/>
             </sidebyside>
         </introduction>
@@ -215,7 +215,7 @@
     <section>
         <title>Book Review</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-BookReview"/>
             </sidebyside>
         </introduction>
@@ -253,7 +253,7 @@
     <section>
         <title>Print Article</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-PrintArticle"/>
             </sidebyside>
         </introduction>
@@ -294,7 +294,7 @@
     <section>
         <title>Website</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-Website"/>
             </sidebyside>
         </introduction>
@@ -341,7 +341,7 @@
     <section>
         <title>Work from a Website</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-WorkFromAWebsite"/>
             </sidebyside>
         </introduction>
@@ -380,7 +380,7 @@
     <section>
         <title>Online Newspaper</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-OnlineNewspaper"/>
             </sidebyside>
         </introduction>
@@ -418,7 +418,7 @@
     <section>
         <title>Entry in an Encyclopedia</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-Encyclopedia"/>
             </sidebyside>
         </introduction>
@@ -456,7 +456,7 @@
     <section>
         <title>Lecture</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-Lecture"/>
             </sidebyside>
         </introduction>
@@ -494,7 +494,7 @@
     <section>
         <title>Film</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-Film"/>
             </sidebyside>
         </introduction>
@@ -532,7 +532,7 @@
     <section>
         <title>Music Performance</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-MusicPerformance"/>
             </sidebyside>
         </introduction>
@@ -570,7 +570,7 @@
     <section>
         <title>Music Recording</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-MusicRecording"/>
             </sidebyside>
         </introduction>
@@ -606,7 +606,7 @@
     <section>
         <title>Artwork</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-Artwork"/>
             </sidebyside>
         </introduction>
@@ -651,7 +651,7 @@
     <section>
         <title>Government Document</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-GovernmentDoc"/>
             </sidebyside>
         </introduction>
@@ -687,7 +687,7 @@
     <section>
         <title>Graphic Novel</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-GraphicNovel"/>
             </sidebyside>
         </introduction>
@@ -724,7 +724,7 @@
     <section>
         <title>Translation</title>
         <introduction>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/Citations-Translation"/>
             </sidebyside>
         </introduction>

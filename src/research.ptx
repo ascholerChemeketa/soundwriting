@@ -146,7 +146,7 @@
                 </li>
             </dl>
         </list>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/RM_KeywordsSearchTerms"/>
         </sidebyside>
     </section>

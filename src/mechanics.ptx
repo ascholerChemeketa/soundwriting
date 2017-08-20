@@ -64,7 +64,7 @@
                 </li>
             </dl>
         </list>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/LM-PartsofSpeech"/>
         </sidebyside>
         <paragraphs>
@@ -125,7 +125,7 @@
                         </li>
                     </ul>
                 </list>
-                <sidebyside>
+                <sidebyside width="50%">
                     <image source="images/LM-SubjectVerbAgreement"/>
                 </sidebyside>
                 <p>There are also some English words, especially in the sciences, that have tricky plural forms, so you might not even realize that the word you're using is actually plural. One great example is the word <em>data</em>, which is plural (<em><q>The data suggest that<ellipsis/></q></em>). Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
@@ -182,7 +182,7 @@
             <p>A complete sentence always has a subject and a predicate. A predicate can include both direct and indirect objects.</p>
             <p>A direct object is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs.</p>
             <p>An indirect object is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-Direct-Indirect"/>
             </sidebyside>
         </subsection>
@@ -418,7 +418,7 @@
                 <p><q><un s="1">To understand</un> infinitives <em>fully</em>, one should learn when to use them.</q></p>
             </blockquote>
             <p>In this sentence, the modifying adverb <q>fully</q> is placed outside of the verb form <q>to understand.</q> While this placement does not interfere with the meaning or fluency of the sentence, it breaks up the logical unit of thought; one must refer back to the intact verb form <q>to understand</q> in order to identify what <q>fully</q> is modifying. Therefore, it might be better to split the infinitive so the reader has a clearer idea of what kind of understanding the sentence is promising (full understanding).</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-SplitInfinitives"/>
             </sidebyside>
             <p>
@@ -823,7 +823,7 @@
                 <li><p><q>Oppenheimer is a relaxing place to study; it is calm and quiet and has lots of windows.</q></p></li>
                 <li><p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
             </ul></p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-Oppenheimer"/>
             </sidebyside>
         </subsection>
@@ -920,22 +920,22 @@
         <subsection xml:id="homophone-errors">
             <title>Homophone errors</title>
             <p><term>Homophones</term> are words that sound the same but have different meanings and spellings. Because homophones share the same pronunciations (or sound similar), they are commonly confused in writing, especially when you know the spelling of one homophone but intend to convey the other. Below is a list of commonly-confused homophones and some example sentences using them. But if you are unsure of a word and it's not listed here, try looking it up in a dictionary or thesaurus to make sure it's the word you want!</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/homophone-table-1"/>
             </sidebyside>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/homophone-table-2"/>
             </sidebyside>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/homophone-table-3"/>
             </sidebyside>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-TurtlesAndWomen"/>
             </sidebyside>
         </subsection>
         <subsection>
             <title>Incorrect use of its and it's</title>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-ItAndRain"/>
             </sidebyside>
             <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on Todd Field.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally-acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on Todd Field,</q> does not make very much sense, so this may be an indication that <q>it's</q> is being used as a contraction and therefore needs an apostrophe.</p>
@@ -1023,11 +1023,11 @@
                     <p><q>The actor who played Hamlet fell five times on stage, broke poor Yorick's skull, and forgot his lines during the <q>To be, or not to be<ellipsis/></q> speech. The directors of the play should have chosen a better actor to play Hamlet.</q></p>
                 </blockquote>
             </paragraphs>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-Hamlet"/>
             </sidebyside>
             <p><em>Here are some synonyms that you might consider using to replace common or boring words.</em> Remember to search for the definition of the synonym if you're uncertain of its meaning or connotations to ensure that it correctly conveys the meaning of your sentence.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/alternatives-to-boring-words"/>
             </sidebyside>
         </subsection>
@@ -1074,7 +1074,7 @@
                     </li>
                 </dl>
             </p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-PassiveVoice"/>
             </sidebyside>
             <p>
@@ -1114,7 +1114,7 @@
             </blockquote>
             <p>Try using a thesaurus to find alternative words. But use caution! Sometimes thesauruses mislead writers when the writer doesn't fully understand the connotation or typical uses of a synonym.</p>
             <p>Here's a list of strong verbs to consider using. There are short definitions to give you an idea of what the word means, but be sure to look up any words you use to make sure that the contexts in which you're using them align with their meaning. There may also be alternative meanings that aren't listed here, so the dictionary and thesaurus will still be your friends.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-HerbTheStrongVerb"/>
             </sidebyside>
             <list>
@@ -1230,7 +1230,7 @@
                         <li><p>Finally, if possible, you can also combine the idea into one sentence/independent clause: <em><q>I don't use comma splices.</q></em></p></li>
                     </ul>
                 </p>
-                <sidebyside>
+                <sidebyside width="50%">
                     <image source="images/LM-CatCommaSplices"/>
                 </sidebyside>
             </paragraphs>
@@ -1307,7 +1307,7 @@
         <subsection>
             <title>Quotation Marks</title>
             <p>When you quote something, you are exactly replicating the words, phrases, and sentences of another source. Therefore, whenever you are quoting something directly, it's always a good idea to make sure you copy the quotation exactly as it appears in the source. Otherwise, you're inadvertently changing what the quote is saying! But sometimes when you write longer and more complicated quotes, you may forget to insert commas or emphases, type a wrong word, or end the quote incorrectly. Besides simply trying to copy the quote exactly, there are a few other guidelines to keep in mind while incorporating quotes into your writing.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-CircleLogoAmpersand"/>
             </sidebyside>
             <list>
@@ -1483,7 +1483,7 @@
                     </li>
                 </dl>
             </list>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/LM-GiraffeTree"/>
             </sidebyside>
             <p>

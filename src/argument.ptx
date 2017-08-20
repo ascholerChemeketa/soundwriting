@@ -8,7 +8,7 @@
         <title>Elements of the Argument</title>
         <introduction>
             <p>After hours of poring over books and sifting through documents in Collins (and many cups of coffee from Diversions), you finally hit upon an idea. The evidence corroborates it and the logic is sound; your ideas align to form a stance that is at once unique and supportable.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/AD-Coffee"/>
             </sidebyside>
             <assemblage>
@@ -118,7 +118,7 @@
                 </li>
             </dl>
         </list>
-        <sidebyside>
+        <sidebyside width="50%">
             <image source="images/AD-Rain"/>
         </sidebyside>
     </section>
@@ -126,12 +126,12 @@
         <title>Thesis Development</title>
         <introduction>
             <p>So you've been given a writing assignment. You've begun thinking about the components of a good argument, but now what? In order to structure your paper effectively and to know what supporting claims it needs, you need to have a <term>main claim</term> or <term>thesis</term>. A thesis is an argumentative, contestable statement that tells an audience exactly what a writer intends to argue (for more information, see <xref ref="the-bubble-map" text="type-global"/>).</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/AD-Car"/>
             </sidebyside>
             <p>The thesis is thus the main point of your paper. Writing a paper without a thesis is like trying to drive a car without tires; the body will be there, but you certainly won't be taking your reader anywhere important. Good theses do everything good tires should do: they get you moving smoothly, give you traction, and make your arguments a lot more appealing and convincing to audiences. It's difficult to start writing without a working thesis, but once you have an idea of your main argument, you'll be writing in no time. The thesis also provides you with the foundation of and traction for your argument. If you ever find yourself asking, <q>Wait, what am I even writing about?</q> you can refer back to your thesis. Alternatively, you might realize that what you're saying doesn't align with your thesis, so you might rewrite your thesis<mdash/>change your tires<mdash/>altogether! Finally, a good, thorough thesis indicates to the audience that you are an authoritative and careful writer, one who establishes an argument outright and has evidence to support it. Just like a taxi without tires, a paper without a thesis is odd and ineffective.</p>
             <p>As a scholar-in-training, your theses will be given especial weight because they represent your contributions to the broader academic conversations in which they take part. Just as with spoken conversations, you don't want the contributions you make to scholarly conversations to be repetitions of what other people have said. Your thesis must therefore be a new, interesting idea that you've come up with. While this endeavor sounds near impossible<mdash/>how can I, as a mere scholar-in-training, contribute to a conversation with professional and practiced scholars?<mdash/>you needn't worry. You don't have to make a life-changing contribution, and you surely don't need to know every argument that has ever been made on your topic. What you <em>do</em> need to do is develop a research question, research that question, and form a thesis that crystallizes your ideas and findings. Although your paper may be simply another writing assignment that you hope to finish and forget, you might consider thinking about your thesis as an opportunity to develop an idea that legitimately falls within a scholarly conversation.</p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/AD-CuteCat"/>
             </sidebyside>
             <p>Now, how do you go about writing your thesis? Since your thesis is the main point of your argument, you may find it difficult and time-consuming to construct the perfect sentence (or two!). Strategies to develop your thesis are therefore very important. Let's start from the beginning.</p>
@@ -164,14 +164,14 @@
                 <title>Step 5: Listen to the evidence</title>
                 <p>The evidence will guide you to your claim<mdash/>let it! While it may be tempting to pick and choose evidence that supports the claim that you want to make, strong academic argumentation requires researchers to make claims validated and substantiated by a fair and thorough examination of the available evidence. By listening to the evidence, you ensure that your claim answers your question honestly and opens a dialogue with which other researchers can engage.</p>
             </paragraphs>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/AD-ThesisDevelopment"/>
             </sidebyside>
             <paragraphs>
                 <title>Step 6: Develop a working thesis</title>
                 <p>The claim you devised in Step 5 will become your working thesis. A working thesis is the initial thesis you come up with, and it will guide your subsequent research. That research will in turn help you reformulate your working thesis as your research changes and your understanding of your topic, evidence, and main claim shifts. Your research isn't done when you formulate your working thesis, so keep researching and rewriting!</p>
             </paragraphs>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/AD-WorkingThesisResearch"/>
             </sidebyside>
             <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready?</p>
@@ -181,7 +181,7 @@
                 <li><p><em>R</em>eflects the general organization of your argument/paper</p></li>
                 <li><p><em>E</em>xplains how you will use your evidence to support your claim</p></li>
             </ul></p>
-            <sidebyside>
+            <sidebyside width="50%">
                 <image source="images/AD-IsItReadyYet"/>
             </sidebyside>
             <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences or even a small paragraph to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the CWLT!</p>
@@ -273,7 +273,7 @@
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
         </paragraphs>
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality Sir David Attenborough narrate the beginning of the <q>Hello</q> music video.</p>
-        <sidebyside>
+        <sidebyside width="50%">
             <video youtube="enu-qR0H_uk"/>
         </sidebyside>
     </section>
