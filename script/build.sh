@@ -104,6 +104,7 @@ function build_html {
     rm *.html
     rm -rf knowl/* images/*
     cp -a ${IMAGES}/*.svg ./images/
+    cp -a ${IMAGES}/*.png ./images/
     xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
 }
 
