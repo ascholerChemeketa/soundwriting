@@ -44,21 +44,22 @@
             </ul>
         </list>
         <list>
+            <title><acro>BEAM</acro></title>
             <dl>
                 <li>
-                    <title><em>B</em>ackground</title>
+                    <title><acro>B</acro>ackground</title>
                     <p>You use tertiary sources (subject encyclopedias, textbooks, overviews) to establish basic facts and definitions.</p>
                 </li>
                 <li>
-                    <title><em>E</em>xhibit</title>
+                    <title><acro>E</acro>xhibit</title>
                     <p>You analyze and interpret primary sources, a dataset, or another phenomenon of study.</p>
                 </li>
                 <li>
-                    <title><em>A</em>rgument</title>
+                    <title><acro>A</acro>rgument</title>
                     <p>You evaluate and assess the arguments in academic secondary sources as a way to join the scholarly conversation.</p>
                 </li>
                 <li>
-                    <title><em>M</em>ethod</title>
+                    <title><acro>M</acro>ethod</title>
                     <p>You use theories or disciplinary approaches when examining your topic.</p>
                 </li>
             </dl>
