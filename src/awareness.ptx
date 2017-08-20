@@ -12,7 +12,7 @@
         <li>Am I making value judgments about other ways of living? If so, are they appropriate to the specific discipline or course for which I'm writing?</li>
         <li>Do I use thorough and fair scholarly sources?</li>
         <li>Are all of my claims supported with evidence?</li>
-        <li>Do my warrants (the logic connecting my evidence to my claims) rely on Western/American definitions or world-views (e.g. evidence: a certain group of people still uses hunting and gathering as its primary mode of subsistence, claim: people in this group are uncivilized, warrant: <q>civilization</q> is defined by advanced agriculture)?</li></ul></p>
+        <li>Do my warrants (the logic connecting my evidence to my claims) rely on Western/American definitions or world-views (<eg/>, evidence: a certain group of people still uses hunting and gathering as its primary mode of subsistence, claim: people in this group are uncivilized, warrant: <q>civilization</q> is defined by advanced agriculture)?</li></ul></p>
     </section>
     <section>
         <title>Writing with Respect</title>
@@ -74,7 +74,7 @@
                     </li>
                     <li>
                         <title>Be conscious of gender stereotypes</title>
-                        <p>Pay attention to where you're using certain pronouns. Saying, <q>The lawyer won his trial</q> and <q>The nurse couldn't find her scrubs</q> are also forms of sexist language because they perpetuate gender stereotypes (i.e., the assumption that lawyers are always men and nurses are always women).</p>
+                        <p>Pay attention to where you're using certain pronouns. Saying, <q>The lawyer won his trial</q> and <q>The nurse couldn't find her scrubs</q> are also forms of sexist language because they perpetuate gender stereotypes (<ie/>, the assumption that lawyers are always men and nurses are always women).</p>
                     </li>
                     <li>
                         <title>Be conscious of heteronormativity</title>
@@ -121,7 +121,7 @@
                     </li>
                     <li>
                         <title>Refer to <q>the Deaf</q> with a capital D</title>
-                        <p>In this sense, <q>Deaf</q> refers to a cultural group (i.e., the Deaf community).</p>
+                        <p>In this sense, <q>Deaf</q> refers to a cultural group (<ie/>, the Deaf community).</p>
                     </li>
                     <li>
                         <title>Don't write about people with disabilities in terms of overly heroic or tragic narratives</title>
@@ -179,7 +179,7 @@
                         <title><term>Transgender</term></title>
                         <p>is an adjective and umbrella term that describes individuals whose gender identity is different from the sex they were assigned at birth. Many people take hormones and some undergo surgery, but neither of these medical treatments is requisite for a transgender identity.</p>
                         <aside>
-                            <p>It is inappropriate to use transgender as a noun (e.g., a transgender) or to use the term transgendered.</p>
+                            <p>It is inappropriate to use transgender as a noun (<eg/>, a transgender) or to use the term transgendered.</p>
                         </aside>
                     </li>
                     <li>
@@ -277,4 +277,34 @@
             </dl>
         </list>
     </section>
+    <conclusion>
+        <sidebyside>
+            <image source="images/LM-Top20ThingsLanguage"/>
+        </sidebyside>
+        <list>
+            <title>Top 20 Things About Language That You Should Know as a Citizen of the World</title>
+            <ol>
+                <li><p>There are currently around 7,000 languages spoken in the world.</p></li>
+                <li><p>A language dies every 14 days.</p></li>
+                <li><p>The United States doesn't have an official language!</p></li>
+                <li><p>Although English has become the dominant language used to communicate on a global scale, English ranks second in terms of number of speakers. Mandarin is first.</p></li>
+                <li><p>The United States has the second largest Spanish-speaking population in the world. Mexico has the first.</p></li>
+                <li><p>In spite of the fact that American English and British English are similar, American Sign Language (<init>ASL</init>) and British Sign Language (<init>BSL</init>) are actually quite different<mdash/>so much so that <init>ASL</init> and <init>BSL</init> speakers would not be able to understand each other. <init>ASL</init> is more closely related to French Sign Language (<init>FSL</init>).</p></li>
+                <li><p>Half to two-thirds of people are to some extent bilingual.</p></li>
+                <li><p>One of the world's leading linguists, Noam Chomsky, established a theory of universal grammar that holds that human linguistic capabilities are innate. It is argued that this innateness is the reason for which children acquire language without any overt instruction and also why all languages have the same foundational components (phonology, semantics, and syntax).</p></li>
+                <li><p>24 different dialects of English are spoken across the United States.</p></li>
+                <li><p>English is the official language of 67 countries.</p></li>
+                <li><p>English is also the official language of the skies (<ie/>, among pilots and air traffic controllers).</p></li>
+                <li><p>The concept of standardized, <q>correct</q> spellings of words came about only fairly recently due to the creation of dictionaries.</p></li>
+                <li><p>Have you ever wondered why people in old American movies and TV shows spoke so strangely? It's called the mid-Atlantic or Transatlantic accent!</p></li>
+                <li><p>English might lose its status as an official language of the European Union (EU) after the United Kingdom leaves the EU.</p></li>
+                <li><p>If you want to learn more about languages of the world, <url href="https://www.ethnologue.com/world">check out this website</url>.</p></li>
+                <li><p>There's a difference between <em>language</em> and <em>speech</em>. <em>Language</em> refers to the ways in which meaning is conveyed through words and their arrangements. <em>Speech</em> describes the physical act of speaking, including the acts of breathing, making noises, and articulating sounds correctly and with the right timing. The distinctions between language and speech are especially important when thinking about and working with language and speech disorders (<ie/>, is someone unable to communicate effectively because it's difficult for them to construct a "correct" sentence according to their language, or is it because they are physically unable to form the sounds of their language?).</p></li>
+                <li><p>You can learn more <url href="http://www.endangeredlanguages.com/">about endangered languages here</url>.</p></li>
+                <li><p><url href="http://www.language-archives.org/">Here's another website</url> with a stockpile of information (and recordings!) on the world's languages.</p></li>
+                <li><p>Here are <url href="https://www.ted.com/topics/language">some really cool <acro>TED</acro> talks</url> about language.</p></li>
+                <li><p>A recent study published in the <booktitle>Journal for the Acoustical Society of America</booktitle> found evidence for the hypothesis that the geographical features of an area (<eg/>, sparse or dense forestation) likely influenced features of language(s) developed and spoken in those regions.</p></li>
+            </ol>
+        </list>
+    </conclusion>
 </chapter>
