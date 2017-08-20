@@ -162,7 +162,9 @@ case "$1" in
     "all")
     setup
     build_html
+    setup_pdf
     build_pdf
+    setup_pdf
     build_print
     ;;
     "html")
