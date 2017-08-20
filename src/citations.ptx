@@ -12,15 +12,61 @@
         </introduction>
         <subsection>
             <title>Background</title>
-            <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: MLA, Chicago (CMS), and APA.</p>
+            <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: <init>MLA</init> (Modern Language Association), <init>CMS</init> (Chicago Manual of Style), and <init>APA</init> (American Psychological Association).</p>
             <p>In general, here are some differences between the styles:</p>
-            <sidebyside width="50%">
-                <image source="images/citation-styles-table"/>
+            <sidebyside>
+                <tabular valign="top">
+                    <col halign="right"/><col/><col/><col/>
+                    <row bottom="major">
+                        <cell/>
+                        <cell><init>MLA</init></cell>
+                        <cell><init>CMS</init></cell>
+                        <cell><init>APA</init></cell>
+                    </row>
+                    <row bottom="minor">
+                        <cell>Name of Citation Page</cell>
+                        <cell>Works Cited</cell>
+                        <cell>Bibliography</cell>
+                        <cell>References</cell>
+                    </row>
+                    <row bottom="minor">
+                        <cell>In-Text Citations</cell>
+                        <cell>(Author page)</cell>
+                        <cell>
+                            <line>Footnotes (see below);</line>
+                            <line>Author, date</line>
+                        </cell>
+                        <cell>(Author, date)</cell>
+                    </row>
+                    <row bottom="minor">
+                        <cell>Disciplines</cell>
+                        <cell>
+                            <line>communication studies;</line>
+                            <line>English;</line>
+                            <line>foreign languages</line>
+                        </cell>
+                        <cell>
+                            <line>classics;</line>
+                            <line>history;</line>
+                            <line>philosophy;</line>
+                            <line>religion;</line>
+                            <line>science, technology,</line>
+                            <line>and society</line>
+                        </cell>
+                        <cell>
+                            <line>business;</line>
+                            <line>economics;</line>
+                            <line>psychology;</line>
+                            <line>sciences</line>
+                        </cell>
+                    </row>
+                </tabular>
+                <!-- <image source="images/citation-styles-table"/> -->
             </sidebyside>
         </subsection>
         <subsection>
             <title>Basic Components</title>
-            <p>No matter the style, the basic components you need for each type of source remain relatively constant. Here are the components for a few types of frequently-used sources:</p>
+            <p>No matter the style, the basic components you need for each type of source remain relatively constant. Here are the components for a few types of frequently used sources:</p>
             <sidebyside>
                 <list>
                     <title>Books</title>
@@ -54,9 +100,115 @@
                 </list>
             </sidebyside>
             <p>You might be asking us, <q>But why do I need all of this information?</q> No, citation guides are not out to get you! Each piece of a citation has a specific purpose. Here are some reasons behind the information you need. Hopefully this context will 1) help you understand what the citation is doing and why, and 2) help you use other people's sources more effectively!</p>
-            <sidebyside width="50%">
-                <image source="images/citation-info-table"/>
-            </sidebyside>
+            <list>
+                <dl>
+                    <li>
+                        <title>Author</title>
+                        <p>
+                            Knowing the author of a source can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you to determine the academic reputation of the author and track down other, related works.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Title</title>
+                        <p>
+                            Knowing the title of a source can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help the reader to determine whether to read the source in its entirety.</li>
+                                <li>help you to differentiate between sources with the same author.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Date</title>
+                        <p>
+                            Knowing how old a source is can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you to determine its relevance and scholarly context.</li>
+                                <li>help you to differentiate between sources with the same author (particularly for year/date in-text citations).</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Publisher</title>
+                        <p>
+                            Knowing the publisher can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader locate the source.</li>
+                                <li>
+                                    <p>help you to identify the validity or academic level of a source.</p>
+                                    <p>(Is the publisher an academic press, or is it a more popular press, like Penguin?)</p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Publisher Location</title>
+                        <p>
+                            Knowing the publisher location is<nbsp/><ellipsis/>
+                            <ul>
+                                <li>a way to indicate which printing of a source you have, since versions sometimes vary by location.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Journal Name</title>
+                        <p>
+                            Knowing the name of the journal in which the article was published can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader to locate the source.</li>
+                                <li>
+                                    <p>give an idea of the discipline a source was published in.</p>
+                                    <p>(Was the article published in social psychology or sociology?)</p>
+                                </li>
+                                <li>help you to identify the academic reputation of the article's home.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Page Range of Article</title>
+                        <p>
+                            Knowing the page range of an article can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader to locate the article in a physical copy of the journal (they're not just online!).</li>
+                                <li>determine whether you really want to read a 40-page article on signification, or just skim it (see <xref ref="how-to-read"/>).</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Website Name</title>
+                        <p>
+                            Knowing the website name of a source can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader to locate the source.</li>
+                                <li>help you to identify the validity of a source (<eg/>, did the information come from <url href="k00keem0nster.com"/> or <url href="harvard.edu"/>?).</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Date Published or Updated</title>
+                        <p>
+                            Knowing the date published or updated can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>give an idea of how old a source is.</li>
+                                <li>tell your reader if the source has been updated recently.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Date Accessed</title>
+                        <p>
+                            If the source is updated regularly, knowing the date a source was accessed can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>make it easier to locate which version of a source you used.</li>
+                            </ul>
+                        </p>
+                    </li>
+                </dl>
+            </list>
+            <!-- <image source="images/citation-info-table"/> -->
             <paragraphs>
                 <title>Tip</title>
                 <p>Having trouble finding the right information in a source? Things like publishing location can sometimes be tricky to pinpoint. If you've looked all over the copyright page, title page, binding, and cover, just go to Google and search the publisher's name. You'll likely find the publisher's address, which should tell you what city the company is located in. Another trick is to look the book up on <url href="amazon.com">Amazon</url><mdash/>sometimes they'll have the right information in the <q>Product Details</q> section.</p>
@@ -64,7 +216,7 @@
         </subsection>
         <subsection>
             <title>Finding Information in a Source</title>
-            <p>Sometimes it can be hard to find the citation information you need in a source, especially when each is one is so different. While these are by no means a universal guide, the following images provide a general indication of where you can find citation info in different types of sources.</p>
+            <p>Sometimes it can be hard to find the citation information you need in a source, especially when each one is so different. While this is by no means a universal guide, the following images provide a general indication of where you can find citation info in different types of sources.</p>
         </subsection>
     </section>
     <section>
