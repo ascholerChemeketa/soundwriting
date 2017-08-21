@@ -4,7 +4,7 @@
     <introduction>
         <p>As people with butterfinger typing who (more often than we'd like to admit) accidently hit the <q>delete</q> key after highlighting entire new paragraphs we've just written, we'll be the first to admit it: TECHNOLOGY IS HARD (and thank goodness for <q>Edit-Undo</q>). And with our academic and social lives becoming increasingly dependent on a wider variety of technological resources for researching, sharing, and disseminating information, maintaining a basic level of computer literacy is essential for students now more than ever. But whether it's using Microsoft Word to spell-check your writing or trying to keep track of all your final research paper sources, technology can also be a lifesaver. Here we've compiled a list of tips and tricks to help you use the software programs available to you as efficiently (and with as little hair tearing out) as possible.</p>
     </introduction>
-    <section>
+    <section xml:id="microsoft-word">
         <title>Microsoft Word</title>
         <introduction>
             <p>At this point in your academic career, you're likely acquainted with some kind of word processing software application. Most computers come with a subscription to Microsoft Word, but other systems might use Microsoft Write, Lotus Word Pro, or iStudio Publisher, among several others. Additionally, it's important to know that there are several freeware options you can access to write online (like Google Docs and Microsoft Office Online). If you are looking for a word processor, it's best to try out different ones and use the one that works best for you. However, because Microsoft Office is the most common, it is the one we will be exploring here, so keep in mind that these exact tips and tricks may not translate across processing software applications (but others will likely have similar functions).</p>
@@ -265,6 +265,10 @@
             </paragraphs>
         </subsection>
     </section>
+    <!-- Formerly, Zotero and Adobe were grouped together under -->
+    <!-- Knowledge Management tools. This section was causing VERY -->
+    <!-- Long page loads and did not follow the previous structure -->
+    <!-- of having a section correspond to a single program. -->
     <section xml:id="zotero">
         <title>Zotero</title>
         <p>Now that you know how to make citations, we're going to let you in on a little secret: There's a magical program called Zotero that can do most of the citation grunt work for you. To call it <em>magic</em> is not to mislead; Zotero is the Muggle equivalent of the Sorting Hat. It somehow reads the minds of articles, books, and websites and knows which pieces of information go where<mdash/><em>it can literally cite all of your sources for you</em>.<nbsp/><ellipsis/> Just let that sink in for a minute.</p>
