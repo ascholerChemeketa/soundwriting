@@ -460,7 +460,7 @@
         </paragraphs>
         <paragraphs>
             <title>Compartmentalize.</title>
-            <p>Research can yield a lot of information (and books and browser tabs and open PDFs) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (see <xref ref="tricks-use-technology" text="title"/> below).</p>
+            <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (see <xref ref="tricks-use-technology" text="title"/> below).</p>
         </paragraphs>
         <sidebyside width="50%">
             <image source="images/WP-CutePenguin"/>
@@ -486,7 +486,7 @@
                 </li>
                 <li xml:id="tricks-use-technology">
                     <title>Use technology.</title>
-                    <p>Since most articles are quite long and you probably won't use every page from every article, save your <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url> for printing out your class readings and look into online PDF-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
+                    <p>Since most articles are quite long and you probably won't use every page from every article, save your <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
                 </li>
             </dl>
         </list>
