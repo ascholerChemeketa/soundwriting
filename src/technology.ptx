@@ -5,7 +5,7 @@
         <p>As people with butterfinger typing who (more often than we'd like to admit) accidently hit the <q>delete</q> key after highlighting entire new paragraphs we've just written, we'll be the first to admit it: TECHNOLOGY IS HARD (and thank goodness for <q>Edit-Undo</q>). And with our academic and social lives becoming increasingly dependent on a wider variety of technological resources for researching, sharing, and disseminating information, maintaining a basic level of computer literacy is essential for students now more than ever. But whether it's using Microsoft Word to spell-check your writing or trying to keep track of all your final research paper sources, technology can also be a lifesaver. Here we've compiled a list of tips and tricks to help you use the software programs available to you as efficiently (and with as little hair tearing out) as possible.</p>
     </introduction>
     <section>
-        <title>Microsoft Word Processor</title>
+        <title>Microsoft Word</title>
         <introduction>
             <p>At this point in your academic career, you're likely acquainted with some kind of word processing software application. Most computers come with a subscription to Microsoft Word, but other systems might use Microsoft Write, Lotus Word Pro, or iStudio Publisher, among several others. Additionally, it's important to know that there are several freeware options you can access to write online (like Google Docs and Microsoft Office Online). If you are looking for a word processor, it's best to try out different ones and use the one that works best for you. However, because Microsoft Office is the most common, it is the one we will be exploring here, so keep in mind that these exact tips and tricks may not translate across processing software applications (but others will likely have similar functions).</p>
         </introduction>
@@ -103,17 +103,19 @@
                 <image source="images/tech-41"/>
             </sidebyside>
             <p>Every time you add a new piece of evidence, you can add subsequent footnotes by using the <q>Insert Footnote</q> function and the citations will stack sequentially at the footer of the page. However, keep in mind that if you delete the superscript number in the text, you will also delete its corresponding footnote and change the numbering sequence of subsequent footnotes (but this is also nice because it keeps track of the order for you).</p>
-            <sidebyside width="100%">
-                <image source="images/tech-42"/>
-            </sidebyside>
-            <sidebyside width="100%">
-                <image source="images/tech-43"/>
-            </sidebyside>
+            <sbsgroup>
+                <sidebyside width="100%">
+                    <image source="images/tech-42"/>
+                </sidebyside>
+                <sidebyside width="100%">
+                    <image source="images/tech-43"/>
+                </sidebyside>
+            </sbsgroup>
             <p>Easy-peasy!</p>
         </subsection>
         <subsection>
             <title>Formatting Reference Lists, Bibliographies, and Works Cited</title>
-            <p>Whether you are writing using <init>APA</init>, Chicago, or <init>MLA</init> citation style, you will most likely be required to include a reference list, bibliography, or works cited (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations"/> and <xref ref="knowledge-management-tools"/> for some very helpful tricks), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
+            <p>Whether you are writing using <init>APA</init>, Chicago, or <init>MLA</init> citation style, you will most likely be required to include a reference list, bibliography, or works cited (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations"/> and <xref ref="zotero"/> for some very helpful tricks), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
             <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create an MLA Works Cited page using hanging indents, begin with centering a <q>Works Cited</q> title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced in <init>APA</init> and <init>MLA</init> and single-spaced with a blank line after each entry in Chicago).</p>
             <sidebyside width="100%">
                 <image source="images/tech-72"/>
@@ -155,19 +157,23 @@
                 <image source="images/tech-20"/>
             </sidebyside>
             <p>When using Track Changes, feel free to edit the document as you would any other (deleting portions, adding new ones, etc.) and all of the changes you make will be in red overlaid on top of the original document. Track Changes is useful because it allows you to work directly with the text while saving the original. However, try to keep the revisions you make using Track Changes to a minimum while reviewing peers' work; if you change, add, or remove too much from the text, you could inadvertently start to take control of the document, making it less of a mutual collaboration between you and your peer and more of a copyediting session.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-21"/>
-            </sidebyside>
-            <sidebyside width="100%">
-                <image source="images/tech-22"/>
-            </sidebyside>
+            <sbsgroup>
+                <sidebyside width="100%">
+                    <image source="images/tech-21"/>
+                </sidebyside>
+                <sidebyside width="100%">
+                    <image source="images/tech-22"/>
+                </sidebyside>
+            </sbsgroup>
             <p>If you are being reviewed, you can accept or reject tracked changes by placing your cursor over a particular change and clicking <q>Accept Change</q> or <q>Reject Change,</q> which will replace the original work with the edit or ignore the change altogether, respectively.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-23"/>
-            </sidebyside>
-            <sidebyside width="100%">
-                <image source="images/tech-24"/>
-            </sidebyside>
+            <sbsgroup>
+                <sidebyside width="100%">
+                    <image source="images/tech-23"/>
+                </sidebyside>
+                <sidebyside width="100%">
+                    <image source="images/tech-24"/>
+                </sidebyside>
+            </sbsgroup>
             <p>After reviewing your peer's comments and tracked changes, your sentences (and those of your peer) will likely be even stronger than before.</p>
             <sidebyside width="100%">
                 <image source="images/tech-25"/>
@@ -229,12 +235,14 @@
                     <image source="images/tech-44"/>
                 </sidebyside>
                 <p>Simply highlight the word or phrase you want to find, open the <q>Home</q> tab, select the <q>Find</q> option on the far right of the toolbar (it is often accompanied by a magnifying glass), and select <q>Find</q> on the scroll-down menu.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-45"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/tech-46"/>
-                </sidebyside>
+                <sbsgroup>
+                    <sidebyside width="100%">
+                        <image source="images/tech-45"/>
+                    </sidebyside>
+                    <sidebyside width="100%">
+                        <image source="images/tech-46"/>
+                    </sidebyside>
+                </sbsgroup>
                 <p>When you do this, all of the instances of the word or phrase are highlighted in the text and a navigation dialogue box will appear on the left-hand side of the screen displaying all instances of use. You can go to a certain instance by clicking on the text boxes under the <q>Results</q> column.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-47"/>
@@ -257,45 +265,44 @@
             </paragraphs>
         </subsection>
     </section>
-    <section xml:id="knowledge-management-tools">
-        <title>Knowledge-Management Tools</title>
-        <subsection>
-            <title>Zotero</title>
-            <p>Now that you know how to make citations, we're going to let you in on a little secret: There's a magical program called Zotero that can do most of the citation grunt work for you. To call it <em>magic</em> is not to mislead; Zotero is the Muggle equivalent of the Sorting Hat. It somehow reads the minds of articles, books, and websites and knows which pieces of information go where<mdash/><em>it can literally cite all of your sources for you</em>.<nbsp/><ellipsis/> Just let that sink in for a minute.</p>
-            <p><em>However</em>, since citation generators aren't (yet) perfect, it's still important that you understand how different styles format citations for different types of sources. Moreover, creating citations by hand is a rite of passage of sorts<mdash/>one you need to experience in order to appreciate the magic of Zotero. After weeks, months, or years of spending hours working on perfectly formatting a bibliography, the first time you use Zotero will be an experience like no other. You will exclaim and cry tears of joy as all of your citations instantaneously appear before you.</p>
-            <p>In short, you need to do your own citations for awhile so you understand how they work and how to do them, but, once you're comfortable writing them by hand, you can delegate most of your citation work to a program like Zotero. You just need to be thorough in your quality control: You have to scan through each citation to make sure that Zotero read all of the right information and sorted it correctly.</p>
+    <section xml:id="zotero">
+        <title>Zotero</title>
+        <p>Now that you know how to make citations, we're going to let you in on a little secret: There's a magical program called Zotero that can do most of the citation grunt work for you. To call it <em>magic</em> is not to mislead; Zotero is the Muggle equivalent of the Sorting Hat. It somehow reads the minds of articles, books, and websites and knows which pieces of information go where<mdash/><em>it can literally cite all of your sources for you</em>.<nbsp/><ellipsis/> Just let that sink in for a minute.</p>
+        <p><em>However</em>, since citation generators aren't (yet) perfect, it's still important that you understand how different styles format citations for different types of sources. Moreover, creating citations by hand is a rite of passage of sorts<mdash/>one you need to experience in order to appreciate the magic of Zotero. After weeks, months, or years of spending hours working on perfectly formatting a bibliography, the first time you use Zotero will be an experience like no other. You will exclaim and cry tears of joy as all of your citations instantaneously appear before you.</p>
+        <p>In short, you need to do your own citations for awhile so you understand how they work and how to do them, but, once you're comfortable writing them by hand, you can delegate most of your citation work to a program like Zotero. You just need to be thorough in your quality control: You have to scan through each citation to make sure that Zotero read all of the right information and sorted it correctly.</p>
+        <aside>
+            <title>Note</title>
+            <p>Zotero (and other tools like it) can do many, many things. We're going to cover some basic capabilities Zotero has, but, to learn more about Zotero or other programs, visit the library's page, make an appointment with a liaison librarian, or look up some YouTube tutorials.</p>
+        </aside>
+        <paragraphs>
+            <title>Step 1: Download Zotero.</title>
+            <p>You can download it as an extension on Firefox, or you can download a standalone version. The Firefox extension is nice because it's easily accessible in your browser, but the standalone version can be used with browsers other than Firefox, such as Chrome and Safari. We've also heard that the standalone version is good to have in case your browser crashes. In any case, download Zotero and create a free account. You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url>.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Step 2: Do some research!</title>
+            <p>For more tips on research, see <xref ref="research-methods"/>.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Step 3: Tell Zotero which sources you want it to save.</title>
+            <p>This step looks slightly different depending on whether you're using the Firefox plug-in or the standalone version.</p>
+            <p>For the Firefox version:</p>
+            <sidebyside width="100%">
+                <image source="images/C-ZoteroZ"/>
+            </sidebyside>
             <aside>
                 <title>Note</title>
-                <p>Zotero (and other tools like it) can do many, many things. We're going to cover some basic capabilities Zotero has, but, to learn more about Zotero or other programs, visit the library's page, make an appointment with a liaison librarian, or look up some YouTube tutorials.</p>
+                <p>You can also skip this step if you don't want to open the Zotero plug-in. The program will still save articles with the next two steps, even if you can't see your library.</p>
             </aside>
-            <paragraphs>
-                <title>Step 1: Download Zotero.</title>
-                <p>You can download it as an extension on Firefox, or you can download a standalone version. The Firefox extension is nice because it's easily accessible in your browser, but the standalone version can be used with browsers other than Firefox, such as Chrome and Safari. We've also heard that the standalone version is good to have in case your browser crashes. In any case, download Zotero and create a free account. You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url>.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Step 2: Do some research!</title>
-                <p>For more tips on research, see <xref ref="research-methods"/>.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Step 3: Tell Zotero which sources you want it to save.</title>
-                <p>This step looks slightly different depending on whether you're using the Firefox plug-in or the standalone version.</p>
-                <p>For the Firefox version:</p>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroZ"/>
-                </sidebyside>
-                <aside>
-                    <title>Note</title>
-                    <p>You can also skip this step if you don't want to open the Zotero plug-in. The program will still save articles with the next two steps, even if you can't see your library.</p>
-                </aside>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroPaper"/>
-                </sidebyside>
-                <p>If you're looking at a different kind of source, such as an online book or a newspaper article, the icon will look different but will do the same thing.</p>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroFirefox"/>
-                </sidebyside>
-                <p>For the standalone version:</p>
-                <p>Download the <init>PDF</init> and<nbsp/><ellipsis/></p>
+            <sidebyside width="100%">
+                <image source="images/C-ZoteroPaper"/>
+            </sidebyside>
+            <p>If you're looking at a different kind of source, such as an online book or a newspaper article, the icon will look different but will do the same thing.</p>
+            <sidebyside width="100%">
+                <image source="images/C-ZoteroFirefox"/>
+            </sidebyside>
+            <p>For the standalone version:</p>
+            <p>Download the <init>PDF</init> and<nbsp/><ellipsis/></p>
+            <sbsgroup>
                 <sidebyside width="100%">
                     <image source="images/C-zoterofile"/>
                 </sidebyside>
@@ -308,22 +315,26 @@
                 <sidebyside width="100%">
                     <image source="images/C-ZoteroDidNotWork"/>
                 </sidebyside>
-                <p>If Zotero can't find the right information, then you have a couple of options:</p>
-                <sidebyside width="50%">
-                    <image source="images/C-ZoteroOptions"/>
-                </sidebyside>
-                <p>We found another version of the article and gave it another shot.</p>
+            </sbsgroup>
+            <p>If Zotero can't find the right information, then you have a couple of options:</p>
+            <sidebyside width="50%">
+                <image source="images/C-ZoteroOptions"/>
+            </sidebyside>
+            <p>We found another version of the article and gave it another shot.</p>
+            <sbsgroup>
                 <sidebyside width="100%">
                     <image source="images/C-ZoteroRepeatProcess"/>
                 </sidebyside>
                 <sidebyside width="100%">
                     <image source="images/C-ZoteroItWorked"/>
                 </sidebyside>
-            </paragraphs>
-            <paragraphs>
-                <title>Step 4: Make your bibliography.</title>
-                <p>Once you have all necessary sources saved in Zotero, you can ask it (nicely) to make your bibliography. Get ready to be amazed.</p>
-                <p>First, open the collection that you want to get sources from. You can highlight the sources you want citations for, or you can choose the whole collection. You can also use the Firefox plug-in or the standalone version. Either way, you'll follow these steps.</p>
+            </sbsgroup>
+        </paragraphs>
+        <paragraphs>
+            <title>Step 4: Make your bibliography.</title>
+            <p>Once you have all necessary sources saved in Zotero, you can ask it (nicely) to make your bibliography. Get ready to be amazed.</p>
+            <p>First, open the collection that you want to get sources from. You can highlight the sources you want citations for, or you can choose the whole collection. You can also use the Firefox plug-in or the standalone version. Either way, you'll follow these steps.</p>
+            <sbsgroup>
                 <sidebyside width="100%">
                     <image source="images/C-CreateBib"/>
                 </sidebyside>
@@ -339,165 +350,169 @@
                 <sidebyside width="100%">
                     <image source="images/C-DoNotSkip"/>
                 </sidebyside>
-                <p>Zotero isn't just about citations, either! You can use it as a <q>knowledge-management tool</q> to manage all of that knowledge you're collecting.</p>
-            </paragraphs>
-        </subsection>
-        <subsection>
-            <title>Adobe Acrobat Reader</title>
-            <paragraphs>
-                <title>Step 1: Download Adobe Acrobat Reader.</title>
-                <p>Adobe Reader is the most common free <init>PDF</init>-viewing software used for the reading, searching, printing, and notating of <init>PDF</init> files. Adobe is great because it allows you to easily interact with your sources, offering a variety of annotation capabilities; in this way, it's also more cost-efficient and environmentally friendly than printing out all 120 pages of that reading assignment because you can highlight and annotate most <init>PDF</init> types (although keep in mind your professor may like you to have a hard copy for class, anyways). To download Adobe Acrobat Reader DC, visit <url href="https://get.adobe.com/reader/">get.adobe.com/reader</url>.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Step 2: Do some research!</title>
-                <p>Put those great research skills to use! (If you need a refresher on how to get started, see <xref ref="research-methods"/>.)</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Step 3: Download your source.</title>
-                <p>When you find a source you want, download it and save it to your research folder or desktop.</p>
+            </sbsgroup>
+            <p>Zotero isn't just about citations, either! You can use it as a <q>knowledge-management tool</q> to manage all of that knowledge you're collecting.</p>
+        </paragraphs>
+    </section>
+    <section xml:id="adobe-acrobat-reader">
+        <title>Adobe Acrobat Reader</title>
+        <paragraphs>
+            <title>Step 1: Download Adobe Acrobat Reader.</title>
+            <p>Adobe Reader is the most common free <init>PDF</init>-viewing software used for the reading, searching, printing, and notating of <init>PDF</init> files. Adobe is great because it allows you to easily interact with your sources, offering a variety of annotation capabilities; in this way, it's also more cost-efficient and environmentally friendly than printing out all 120 pages of that reading assignment because you can highlight and annotate most <init>PDF</init> types (although keep in mind your professor may like you to have a hard copy for class, anyways). To download Adobe Acrobat Reader DC, visit <url href="https://get.adobe.com/reader/">get.adobe.com/reader</url>.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Step 2: Do some research!</title>
+            <p>Put those great research skills to use! (If you need a refresher on how to get started, see <xref ref="research-methods"/>.)</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Step 3: Download your source.</title>
+            <p>When you find a source you want, download it and save it to your research folder or desktop.</p>
+            <sbsgroup>
                 <sidebyside width="100%">
                     <image source="images/tech-80"/>
                 </sidebyside>
                 <sidebyside width="100%">
                     <image source="images/tech-81"/>
                 </sidebyside>
-                <p>If you have installed Adobe Acrobat Reader, your document should be automatically saved as an Adobe Acrobat <init>PDF</init> file. After it's saved, you can then open it, and it should open with Adobe Acrobat.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-82"/>
-                </sidebyside>
-                <p>Yay! Now you can begin exploring all of the annotation capabilities Adobe has to offer.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Step 4: Annotate to your heart's content.</title>
-                <p>There are several different ways to annotate a <init>PDF</init> document in Adobe Acrobat. We'll highlight some of these capabilities below.<dl>
-                    <li>
-                        <title>Commenting</title>
-                        <p>You can easily comment on certain parts of the source document by selecting the small speech bubble icon on the right side of the toolbar and clicking on the part you want to comment on. A small window text box will appear wherein you may leave notes/questions to yourself about the text, observations about how to use a certain piece of information, or reminders to do more research elsewhere. You can also engage in a dialogue with yourself (or others if you are collaboratively examining a source) by replying to these comments later on.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-83"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Highlighting</title>
-                        <p>You can also easily highlight sections of the text using the highlighter function, making it easier for you to go back later and identify significant pieces of information. To do this, click on the highlighter icon on the far right of the toolbar (next to the comment icon) and select the section of the text you'd like to highlight (but try not to over-highlight!). See <xref ref="note-taking-strategies"/> for tips on how to annotate effectively).</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-84"/>
-                        </sidebyside>
-                        <aside>
-                            <title>Note</title>
-                            <p>While this highlighting technique works for most <init>PDF</init> files, some files that have been photocopied don't have the right line-spacing to accommodate the highlighter function. However, Adobe is smart; in these cases, an option to highlight manually using a box-select tool should be available.</p>
-                        </aside>
-                    </li>
-                </dl></p>
-            </paragraphs>
-            <paragraphs>
-                <title>Unlocking More Annotation Tools</title>
-                <p>To unlock a host of other annotation functions, select the <q>Tools</q> tab at the top left of the screen; a screen of icons will appear. Select the <q>Comment</q> option at the top left of the screen.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-85"/>
-                </sidebyside>
-                <p>The source document will reappear with a new toolbar below the original. Here you'll notice the commenting and highlighting icons along with a slew of other editing features.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-86"/>
-                </sidebyside>
-                <p>These features include the following:<dl>
-                    <li>
-                        <title>Underlining</title>
-                        <p>To underline a section of text, select the third icon from the left (<q>T</q> with a line underneath) and highlight the section of text you want underlined. A green line will appear beneath the section of text.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-86"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Strike-Through</title>
-                        <p>If you'd like to strike-through a section of text (particularly useful if you're editing one of your own pieces or if you want to identify a part of the source document with which you do not agree), select the icon fourth from the left (<q>T</q> with a strike-through) and highlight the desired section of text. A red line will strike through this section of text.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-87"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Replacing Text</title>
-                        <p>If you'd like to replace text (not so useful for annotating published source documents, but especially useful if you're editing yours or another's paper), select the fifth icon from the left (<q>T</q> with a strike-through and a speech bubble) and highlight the section of desired text. A blue line will strike through this section of the original text and a window text box will appear allowing you to write the text you want to replace it with.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-88"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Inserting Text</title>
-                        <p>If you'd like to insert text (again, more useful for documents you are actively editing than source documents you are annotating), select the sixth icon from the left (<q>T</q> with a subscript carrot) and place your cursor in the place in the text where you'd like to insert new text. A small blue box with a carrot will appear in the text, while a window text box will allow you to write the text you'd like to insert.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-89"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Adding Text Directly</title>
-                        <p>If you'd like to add text directly onto the document (useful if you want to more easily view your comments), select the seventh icon from the left (plain <q>T</q>) and highlight the area you'd like the text to go. Begin writing and your comment will appear directly onto the document.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-90"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Adding a Text Box</title>
-                        <p>Another way to add text directly onto a source document is to create a text box. To do this, select the eighth icon from the left (<q>T</q> within a box) and create the text box where you want it on the document. A red text box will appear in which you can write your comment.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-91"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Drawing Free-form</title>
-                        <p>You can also draw free-form on the document to emphasize certain sections or (if you're good at drawing using a mouse or touchpad, which I am not) even draw pictures or write comments to annotate the document. To do this, select the ninth icon from the left (pen) and begin to write/draw in red pen anywhere on the document.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-92"/>
-                        </sidebyside>
-                        <p>(Like I said, I'm not that artistically savvy.)</p>
-                    </li>
-                    <li>
-                        <title>Erasing</title>
-                        <p>If you'd like to erase something you've drawn, you can also do this by selecting the tenth icon from the left (eraser) and moving it over your drawing to erase it.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-93"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Adding Shapes</title>
-                        <p>If you're more artistically/visually inclined, you can also add pre-formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop-down menu to select which shape you'd like to draw.</p>
+            </sbsgroup>
+            <p>If you have installed Adobe Acrobat Reader, your document should be automatically saved as an Adobe Acrobat <init>PDF</init> file. After it's saved, you can then open it, and it should open with Adobe Acrobat.</p>
+            <sidebyside width="100%">
+                <image source="images/tech-82"/>
+            </sidebyside>
+            <p>Yay! Now you can begin exploring all of the annotation capabilities Adobe has to offer.</p>
+        </paragraphs>
+        <paragraphs>
+            <title>Step 4: Annotate to your heart's content.</title>
+            <p>There are several different ways to annotate a <init>PDF</init> document in Adobe Acrobat. We'll highlight some of these capabilities below.<dl>
+                <li>
+                    <title>Commenting</title>
+                    <p>You can easily comment on certain parts of the source document by selecting the small speech bubble icon on the right side of the toolbar and clicking on the part you want to comment on. A small window text box will appear wherein you may leave notes/questions to yourself about the text, observations about how to use a certain piece of information, or reminders to do more research elsewhere. You can also engage in a dialogue with yourself (or others if you are collaboratively examining a source) by replying to these comments later on.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-83"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Highlighting</title>
+                    <p>You can also easily highlight sections of the text using the highlighter function, making it easier for you to go back later and identify significant pieces of information. To do this, click on the highlighter icon on the far right of the toolbar (next to the comment icon) and select the section of the text you'd like to highlight (but try not to over-highlight!). See <xref ref="note-taking-strategies"/> for tips on how to annotate effectively).</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-84"/>
+                    </sidebyside>
+                    <aside>
+                        <title>Note</title>
+                        <p>While this highlighting technique works for most <init>PDF</init> files, some files that have been photocopied don't have the right line-spacing to accommodate the highlighter function. However, Adobe is smart; in these cases, an option to highlight manually using a box-select tool should be available.</p>
+                    </aside>
+                </li>
+            </dl></p>
+        </paragraphs>
+        <paragraphs>
+            <title>Unlocking More Annotation Tools</title>
+            <p>To unlock a host of other annotation functions, select the <q>Tools</q> tab at the top left of the screen; a screen of icons will appear. Select the <q>Comment</q> option at the top left of the screen.</p>
+            <sidebyside width="100%">
+                <image source="images/tech-85"/>
+            </sidebyside>
+            <p>The source document will reappear with a new toolbar below the original. Here you'll notice the commenting and highlighting icons along with a slew of other editing features.</p>
+            <sidebyside width="100%">
+                <image source="images/tech-86"/>
+            </sidebyside>
+            <p>These features include the following:<dl>
+                <li>
+                    <title>Underlining</title>
+                    <p>To underline a section of text, select the third icon from the left (<q>T</q> with a line underneath) and highlight the section of text you want underlined. A green line will appear beneath the section of text.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-86"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Strike-Through</title>
+                    <p>If you'd like to strike-through a section of text (particularly useful if you're editing one of your own pieces or if you want to identify a part of the source document with which you do not agree), select the icon fourth from the left (<q>T</q> with a strike-through) and highlight the desired section of text. A red line will strike through this section of text.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-87"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Replacing Text</title>
+                    <p>If you'd like to replace text (not so useful for annotating published source documents, but especially useful if you're editing yours or another's paper), select the fifth icon from the left (<q>T</q> with a strike-through and a speech bubble) and highlight the section of desired text. A blue line will strike through this section of the original text and a window text box will appear allowing you to write the text you want to replace it with.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-88"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Inserting Text</title>
+                    <p>If you'd like to insert text (again, more useful for documents you are actively editing than source documents you are annotating), select the sixth icon from the left (<q>T</q> with a subscript carrot) and place your cursor in the place in the text where you'd like to insert new text. A small blue box with a carrot will appear in the text, while a window text box will allow you to write the text you'd like to insert.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-89"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Adding Text Directly</title>
+                    <p>If you'd like to add text directly onto the document (useful if you want to more easily view your comments), select the seventh icon from the left (plain <q>T</q>) and highlight the area you'd like the text to go. Begin writing and your comment will appear directly onto the document.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-90"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Adding a Text Box</title>
+                    <p>Another way to add text directly onto a source document is to create a text box. To do this, select the eighth icon from the left (<q>T</q> within a box) and create the text box where you want it on the document. A red text box will appear in which you can write your comment.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-91"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Drawing Free-form</title>
+                    <p>You can also draw free-form on the document to emphasize certain sections or (if you're good at drawing using a mouse or touchpad, which I am not) even draw pictures or write comments to annotate the document. To do this, select the ninth icon from the left (pen) and begin to write/draw in red pen anywhere on the document.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-92"/>
+                    </sidebyside>
+                    <p>(Like I said, I'm not that artistically savvy.)</p>
+                </li>
+                <li>
+                    <title>Erasing</title>
+                    <p>If you'd like to erase something you've drawn, you can also do this by selecting the tenth icon from the left (eraser) and moving it over your drawing to erase it.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-93"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Adding Shapes</title>
+                    <p>If you're more artistically/visually inclined, you can also add pre-formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop-down menu to select which shape you'd like to draw.</p>
+                    <sbsgroup>
                         <sidebyside width="100%">
                             <image source="images/tech-94"/>
                         </sidebyside>
                         <sidebyside width="100%">
                             <image source="images/tech-95"/>
                         </sidebyside>
-                        <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line-thickness icons at the far right of the toolbar.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-96"/>
-                        </sidebyside>
-                        <p>Go wild! (But not too wild.)</p>
-                    </li>
-                    <li>
-                        <title>Keeping Track of Your Comments</title>
-                        <p>Adobe is also really great because it keeps track of each of your comments as you add them and provides a running list of them along the right side of the screen. If you want to jump to a certain comment, simply click on the desired comment in the list and the document will take you to that comment. You can also arrange these comments by page, author, date, type, checkmark status, and color or filter them by reviewer, type, status, and color.</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-97"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <title>Changing the Page Viewer</title>
-                        <p>There are also useful page-viewing capabilities to the left side of the screen under the <q>Page Thumbnails,</q> <q>Bookmarks,</q> and <q>Attachments</q> icons. <q>Page Thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-98"/>
-                        </sidebyside>
-                        <p>Or you can switch to <q>Bookmarks</q> to view an outline of the source document and click to go to a certain section:</p>
-                        <sidebyside width="100%">
-                            <image source="images/tech-99"/>
-                        </sidebyside>
-                        <p>If there are attachments that were included in the source document, selecting the <q>Attachments</q> option will allow you to view them.</p>
-                    </li>
-                    <li>
-                        <title>Searching the Document Source</title>
-                        <p>Finally, you can search for keywords and phrases in the document by selecting the <q>Find text</q> icon (magnifying glass) in the upper left of the original toolbar. A window will appear in which you can type in the word or phrase you'd like to find; selecting <q>previous</q> or <q>next</q> will bring you to each instance in the document where that term was used.</p>
-                    </li>
-                </dl></p>
-            </paragraphs>
-        </subsection>
+                    </sbsgroup>
+                    <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line-thickness icons at the far right of the toolbar.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-96"/>
+                    </sidebyside>
+                    <p>Go wild! (But not too wild.)</p>
+                </li>
+                <li>
+                    <title>Keeping Track of Your Comments</title>
+                    <p>Adobe is also really great because it keeps track of each of your comments as you add them and provides a running list of them along the right side of the screen. If you want to jump to a certain comment, simply click on the desired comment in the list and the document will take you to that comment. You can also arrange these comments by page, author, date, type, checkmark status, and color or filter them by reviewer, type, status, and color.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-97"/>
+                    </sidebyside>
+                </li>
+                <li>
+                    <title>Changing the Page Viewer</title>
+                    <p>There are also useful page-viewing capabilities to the left side of the screen under the <q>Page Thumbnails,</q> <q>Bookmarks,</q> and <q>Attachments</q> icons. <q>Page Thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-98"/>
+                    </sidebyside>
+                    <p>Or you can switch to <q>Bookmarks</q> to view an outline of the source document and click to go to a certain section:</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-99"/>
+                    </sidebyside>
+                    <p>If there are attachments that were included in the source document, selecting the <q>Attachments</q> option will allow you to view them.</p>
+                </li>
+                <li>
+                    <title>Searching the Document Source</title>
+                    <p>Finally, you can search for keywords and phrases in the document by selecting the <q>Find text</q> icon (magnifying glass) in the upper left of the original toolbar. A window will appear in which you can type in the word or phrase you'd like to find; selecting <q>previous</q> or <q>next</q> will bring you to each instance in the document where that term was used.</p>
+                </li>
+            </dl></p>
+        </paragraphs>
     </section>
 </chapter>
