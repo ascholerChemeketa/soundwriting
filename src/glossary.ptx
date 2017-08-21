@@ -2,9 +2,9 @@
 <appendix xml:id="glossary">
     <title>Glossary of Academic Terms</title>
     <p>(Some words you need to know but might have been afraid to ask.)</p>
-    <paragraphs>
-        <title>Words you may see in writing assignments</title>
-        <p><dl>
+    <list>
+        <title>Words You May See in Writing Assignments</title>
+        <dl>
             <li>
                 <title>Analyze</title>
                 <p>to break a text into its constituent parts with the intent of interpreting or explaining that text.</p>
@@ -29,18 +29,18 @@
                 <title>Thesis</title>
                 <p>an argument, or the statement of an argument to be followed by substantiation.</p>
             </li>
-        </dl></p>
-    </paragraphs>
-    <paragraphs>
-        <title>Research terms and kinds of sources</title>
-        <p><dl>
+        </dl>
+    </list>
+    <list>
+        <title>Research Terms and Kinds of Sources</title>
+        <dl>
             <li>
-                <title>Annotated Bibliography</title>
+                <title>Annotated bibliography</title>
                 <p>a bibliography whose entries are accompanied by a paragraph (or two) summarizing that entry and explaining its relevance to a scholarly project.</p>
             </li>
             <li>
                 <title>Novel</title>
-                <p>a book-length work of fiction (not to be confused with a book-length work of non-fiction, which is simply called a book or sometimes a monograph or an edited volume).</p>
+                <p>a book-length work of fiction (not to be confused with a book-length work of nonfiction, which is simply called a book or sometimes a monograph or an edited volume).</p>
             </li>
             <li>
                 <title>Poem</title>
@@ -55,21 +55,21 @@
                 <p>a work of fiction shorter than a novel.</p>
             </li>
             <li>
-                <title>Subject Encyclopedia</title>
-                <p>an encyclopedia whose entries cohere, often only topically, around a common subject (e.g., Encyclopedia of Puget Sound, an encyclopedia on the remediation of the Salish Sea ecosystem).</p>
+                <title>Subject encyclopedia</title>
+                <p>an encyclopedia whose entries cohere, often only topically, around a common subject (e.g., <booktitle>Encyclopedia of Puget Sound</booktitle>, an encyclopedia on the remediation of the Salish Sea ecosystem).</p>
             </li>
             <li>
                 <title>Volume</title>
                 <p>the term given to one book in a work or series composed of multiple books (e.g., Volume 1 of the <booktitle>Encyclopedia Britannica</booktitle>).</p>
             </li>
-        </dl></p>
-    </paragraphs>
-    <paragraphs>
-        <title>Rhetorical terms</title>
-        <p><dl>
+        </dl>
+    </list>
+    <list>
+        <title>Rhetorical Terms</title>
+        <dl>
             <li>
                 <title>Ethos/Pathos/Logos</title>
-                <p>terms created by Aristotle to describe different modes of persuasion. These approaches are sometimes combined within a particular piece of rhetoric. Ethos is a rhetorical appeal to the authority of the person or source invoked. It also can mean the dominant spirit of a group or time (kind of like Zeitgeist). Pathos is a rhetorical appeal to the audience's emotions. Logos is a rhetorical appeal to logic, reason, and rigorous argumentation.</p>
+                <p>terms created by Aristotle to describe different modes of persuasion. These approaches are sometimes combined within a particular piece of rhetoric. Ethos is a rhetorical appeal to the authority of the person or source invoked. It also can mean the dominant spirit of a group or time (kind of like zeitgeist). Pathos is a rhetorical appeal to the audience's emotions. Logos is a rhetorical appeal to logic, reason, and rigorous argumentation.</p>
             </li>
             <li>
                 <title>Diction</title>
@@ -99,14 +99,14 @@
                 <title>Syntax</title>
                 <p>the organization and sequencing of words, phrases, and clauses in a sentence.</p>
             </li>
-        </dl></p>
-    </paragraphs>
-    <paragraphs>
-        <title>Generally good words to know</title>
-        <p><dl>
+        </dl>
+    </list>
+    <list>
+        <title>Generally Good Words to Know</title>
+        <dl>
             <li>
                 <title>-centrism</title>
-                <p>a stance that views a certain (centric) position as standard and that views non-conforming positions as unfamiliar and inferior. Eurocentrism, for instance, views the non-European as alien and subordinate to the European and holds the non-European to the standards of the European. The same definition applies to other <q>-centrisms,</q> with the appropriate substitutions made. Anthropocentrism replaces European with human; androcentrism replaces European with male; egocentrism replaces European with the self.</p>
+                <p>a stance that views a certain (centric) position as standard and that views nonconforming positions as unfamiliar and inferior. Eurocentrism, for instance, views the non-European as alien and subordinate to the European and holds the non-European to the standards of the European. The same definition applies to other <q>-centrisms,</q> with the appropriate substitutions made. Anthropocentrism replaces European with human; androcentrism replaces European with male; egocentrism replaces European with the self.</p>
             </li>
             <li>
                 <title>Anachronistic</title>
@@ -118,7 +118,7 @@
             </li>
             <li>
                 <title>Anthropomorphize</title>
-                <p>to imbue a non-human entity with human characteristics.</p>
+                <p>to imbue a nonhuman entity with human characteristics.</p>
             </li>
             <li>
                 <title>Avant-garde</title>
@@ -196,6 +196,6 @@
                 <title>Zeitgeist</title>
                 <p>the spirit of a given historical period, defined by that period's prominent ideas and ideologies.</p>
             </li>
-        </dl></p>
-    </paragraphs>
+        </dl>
+    </list>
 </appendix>
