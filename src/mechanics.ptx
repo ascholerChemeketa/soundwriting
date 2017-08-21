@@ -49,7 +49,11 @@
                         <li>
                             <title><term>Coordinating conjunction</term></title>
                             <p>coordinates two ideas that are emphasized equally in the sentence</p>
-                            <p>Examples: FANBOYS= for, and, nor, but, or, yet, so</p>
+                            <p>Examples: for, and, nor, but, or, yet, so</p>
+                            <aside>
+                                <title>Fun Fact</title>
+                                <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
+                            </aside>
                         </li>
                         <li>
                             <title><term>Subordinating conjunction</term></title>
@@ -87,7 +91,7 @@
         <subsection xml:id="subject-verb-agreement">
             <title>Subject-Verb Agreement</title>
             <introduction>
-                <p>As we have seen, subjects and verbs (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <init>SAE</init>, you wouldn't say <q>Amanda jog to the field house,</q> but rather <q>Amanda jogs to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players is tired</q> would become <q>The soccer players are tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
+                <p>As we have seen, subjects and verbs (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <init>SAE</init>, you wouldn't say <q>Amanda <em>jog</em> to the field house,</q> but rather <q>Amanda <em>jogs</em> to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
             </introduction>
             <subsubsection>
                 <title>Problems with subject-verb agreement</title>
@@ -100,14 +104,14 @@
                         <li>
                             <p>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>and,</q> use a plural verb:</p>
                             <blockquote>
-                                <p><q>President Crawford and professors meet with students frequently.</q></p>
+                                <p><q>President Crawford and professors <em>meet</em> with students frequently.</q></p>
                             </blockquote>
                         </li>
                         <li>
                             <p>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> the <em>verb corresponds with the noun or pronoun closest to it:</em></p>
                             <blockquote>
-                                <p><q>Either President Crawford or professors meet with students frequently.</q></p>
-                                <p><q>Either professors or President Crawford meets with students frequently.</q></p>
+                                <p><q>Either President Crawford or professors <em>meet</em> with students frequently.</q></p>
+                                <p><q>Either professors or President Crawford <em>meets</em> with students frequently.</q></p>
                             </blockquote>
                         </li>
                         <li>
@@ -120,8 +124,8 @@
                         <li>
                             <p>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</p>
                             <blockquote>
-                                <p><q>The number of on-campus trees grows each year.</q></p>
-                                <p><q>The Passages leader, alongside all of their passagees, was excited to reach the end of the trail.</q></p>
+                                <p><q>The <em>number</em> of on-campus trees <em>grows</em> each year.</q></p>
+                                <p><q>The <em>Passages leader</em>, alongside all of their passagees, <em>was</em> excited to reach the end of the trail.</q></p>
                             </blockquote>
                         </li>
                     </ul>
@@ -1004,7 +1008,7 @@
                 <ul>
                     <li><p>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up! (We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p></li>
                     <li><p>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course). The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p></li>
-                    <li><p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, do your course readings! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
+                    <li><p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, <em>do your course readings</em>! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
                     <li><p>See <xref ref="homophone-errors"/> to avoid misusing words that sound alike.</p></li>
                 </ul>
             </list>
