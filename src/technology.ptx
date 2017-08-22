@@ -7,14 +7,14 @@
     <section xml:id="microsoft-word">
         <title>Microsoft Word</title>
         <introduction>
-            <p>At this point in your academic career, you're likely acquainted with some kind of word processing software application. Most computers come with a subscription to Microsoft Word, but other systems might use Microsoft Write, Lotus Word Pro, or iStudio Publisher, among several others. Additionally, it's important to know that there are several freeware options you can access to write online (like Google Docs and Microsoft Office Online). If you are looking for a word processor, it's best to try out different ones and use the one that works best for you. However, because Microsoft Office is the most common, it is the one we will be exploring here, so keep in mind that these exact tips and tricks may not translate across processing software applications (but others will likely have similar functions).</p>
+            <p>At this point in your academic career, you are likely acquainted with at least one word processor. Many computers come with a license for <url href="https://products.office.com/en-us/word">Microsoft Word</url> and those that do not may use <url href="https://www.apple.com/pages/">Apple Pages</url> or <url href="https://www.libreoffice.org/discover/writer/">LibreOffice Writer</url> (both of which are free), among others. Also, there are freeware options available online for your word processing needs (<eg/>, <url href="https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online">Microsoft Office Online</url>, <url href="https://www.icloud.com">iCloud Pages</url>, and <url href="https://www.google.com/docs/about/">Google Docs</url>). If you are looking for a word processor, it's best to try out different ones and use the one that works best for you. As Microsoft Office is available to all Puget Sound students on the university's virtual desktop (<url href="https://vdesk.pugetsound.edu">vDesk</url>), it is the word processor we will be exploring here. The exact tips and tricks presented here may not translate across applications, but most word processors will have similar functions.</p>
         </introduction>
         <subsection>
             <title>Spell-Check Errors</title>
             <sidebyside width="50%">
                 <image source="images/LM-Spellcheck"/>
             </sidebyside>
-            <p>Computer technologies have undeniably improved the speed and accuracy of our writing abilities, particularly through the use of automatic spelling and grammar checkers in many word processors. While these checkers can be useful, it is easy to become over-reliant on these technologies as a replacement of individual proofreading. We often forget that computers can't read our minds. In fact, many simple spelling and grammar errors actually can be <em>caused</em> by an over-dependence on auto-checkers, with word processors replacing your misspelled words with incorrect suggestions based on common Web word-distortions. For instance, a sentence stating, <q>I definantly saw something fishy going on</q> would be auto-corrected to <q>I defiantly saw something fishy going on,</q> which has a meaning different than what the writer originally intended (<q>definitely</q>). It's important to remember that computer auto-checkers, while useful, should not be used as a replacement for manual proofreading. Carefully read through your document, give it to a friend, and/or take it to the CWLT for some help with proofreading strategies (though don't expect the CWLT to actually do all the proofreading for you). Below is a list of commonly misspelled words that often are auto-corrected to very different words.</p>
+            <p>Computer technologies have undeniably improved the speed and accuracy of our writing abilities, particularly through the use of automatic spelling and grammar checkers in many word processors. While these checkers can be useful, it is easy to become over-reliant on these technologies as a replacement of individual proofreading. We often forget that computers can't read our minds. In fact, many simple spelling and grammar errors actually can be <em>caused</em> by an over-dependence on auto-checkers, with word processors replacing your misspelled words with incorrect suggestions based on common Web word-distortions. For instance, a sentence stating, <q>I definantly saw something fishy going on</q> would be auto-corrected to <q>I defiantly saw something fishy going on,</q> which has a meaning different than what the writer originally intended (<q>definitely</q>). If you use spell-check or grammar-check, look individually at the suggestions your word processor makes, rathern than accepting all the corrections at once. It's also important to remember that computer auto-checkers, while useful, should not be used as a replacement for manual proofreading. Carefully read through your document, give it to a friend, and/or take it to the <init>CWLT</init> for some help with proofreading strategies (though don't expect the <init>CWLT</init> to actually do all the proofreading for you). Below is a list of commonly misspelled words that often are auto-corrected to very different words.</p>
             <sidebyside width="100%">
                 <!-- <image source="images/LM-SpellingAutoCorrect"/> -->
                 <tabular>
@@ -89,7 +89,7 @@
         </subsection>
         <subsection xml:id="inserting-footnotes">
             <title>Inserting Footnotes</title>
-            <p>Let's face it: footnotes can be a pain. Luckily, Word has some handy tricks for making adding footnotes relatively pain free!</p>
+            <p>Let's face it: footnotes can be a pain. Luckily, your word processor has some handy tricks for making adding footnotes relatively pain free!</p>
             <p>Let's say you have a couple paragraphs with some source evidence you'd like to cite using footnotes.</p>
             <sidebyside width="100%">
                 <image source="images/tech-39"/>
@@ -116,7 +116,7 @@
         <subsection>
             <title>Formatting Reference Lists, Bibliographies, and Works Cited</title>
             <p>Whether you are writing using <init>APA</init>, Chicago, or <init>MLA</init> citation style, you will most likely be required to include a reference list, bibliography, or works cited (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations"/> and <xref ref="zotero"/> for some very helpful tricks), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
-            <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create an MLA Works Cited page using hanging indents, begin with centering a <q>Works Cited</q> title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced in <init>APA</init> and <init>MLA</init> and single-spaced with a blank line after each entry in Chicago).</p>
+            <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create a reference list, bibliography, or works cited page using hanging indents, begin with centering a References (or Bibliography or Works Cited, depending on what citation style you're using) title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced in <init>APA</init> and <init>MLA</init> and single-spaced with a blank line after each entry in Chicago).</p>
             <sidebyside width="100%">
                 <image source="images/tech-72"/>
             </sidebyside>
@@ -156,7 +156,7 @@
             <sidebyside width="100%">
                 <image source="images/tech-20"/>
             </sidebyside>
-            <p>When using Track Changes, feel free to edit the document as you would any other (deleting portions, adding new ones, etc.) and all of the changes you make will be in red overlaid on top of the original document. Track Changes is useful because it allows you to work directly with the text while saving the original. However, try to keep the revisions you make using Track Changes to a minimum while reviewing peers' work; if you change, add, or remove too much from the text, you could inadvertently start to take control of the document, making it less of a mutual collaboration between you and your peer and more of a copyediting session.</p>
+            <p>When using Track Changes, feel free to edit the document as you would any other (deleting portions, adding new ones, <etc/>) and all of the changes you make will be in red overlaid on top of the original document. Track Changes is useful because it allows you to work directly with the text while saving the original. However, try to keep the revisions you make using Track Changes to a minimum while reviewing peers' work; if you change, add, or remove too much from the text, you could inadvertently start to take control of the document, making it less of a mutual collaboration between you and your peer and more of a copyediting session.</p>
             <sbsgroup>
                 <sidebyside width="100%">
                     <image source="images/tech-21"/>
@@ -184,7 +184,7 @@
             <p>Sometimes your professors will require you to preface your paper with a cover page. Cover page formats vary by citation style, but typically include the title of your paper, your name, course number/title, professor name, and assignment due date. The APA style requires university affiliation, a running header, and an author note instead of course, professor name, and due date. Remember that if you have any questions about how to format your cover page, it's best to ask your professor for their preferences.</p>
             <paragraphs>
                 <title><init>APA</init></title>
-                <p><init>APA</init>-style cover pages are a little trickier. These require your title, name, university affiliation, an author note, a page number, and a header that runs along the top of every page of the document. Generally this running header provides a short synopsis of the topic of your paper (but does not exactly copy your title).</p>
+                <p><init>APA</init>-style cover pages require your title, name, university affiliation, an author note, a page number, and a header that runs along the top of every page of the document. Generally this running header provides a short synopsis of the topic of your paper (but does not exactly copy your title).</p>
                 <p>To begin, place your double-spaced title, name, and university affiliation about one-third of the way down the page. If an author's note is required, place this about two-thirds of the way down (and centered). An author's note includes the departmental and institutional information of the student, any grants or funding associated with the project, and contact information by which to contact them.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-32"/>
@@ -212,7 +212,7 @@
             </paragraphs>
             <paragraphs>
                 <title>Chicago</title>
-                <p>Chicago-style cover pages are very similar to MLA in format, except your title, name, course name and number, and assignment due date are single-spaced. You also do not need to add your professor's name (although doing so likely would not hurt). Your title is centered one-third of the way down the page; if it has a subtitle, separate it with a colon and place the subtitle on the next line. Your name, course name/number, and due date should all go about two-thirds of the way down and should be single-spaced.</p>
+                <p>For a Chicago-style cover page, your title, name, course name and number, and assignment due date are single-spaced. You do not need to add your professor's name (although doing so likely would not hurt). Your title is centered one-third of the way down the page; if it has a subtitle, separate it with a colon and place the subtitle on the next line. Your name, course name/number, and due date should all go about two-thirds of the way down and should be single-spaced.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-38"/>
                 </sidebyside>
@@ -227,7 +227,7 @@
         </subsection>
         <subsection>
             <title>Finding and Replacing</title>
-            <p>This is an essential tool to know how to use when you are writing, editing, and revising drafts. For instance, you might use the term <q>third world</q> repeatedly throughout your essay but then realize that <q>Global South</q> is a more politically sensitive option. Finding and replacing makes it easy for you to search for all instances of <q>third world</q> and replace them with <q>Global South.</q></p>
+            <p>This is an essential tool to know how to use when you are writing, editing, and revising drafts. For instance, you might use the term <q>third world</q> repeatedly throughout your essay but then realize that <q>Global South</q> is a more appropriate option. Finding and replacing makes it easy for you to search for all instances of <q>third world</q> and replace them with <q>Global South.</q></p>
             <paragraphs>
                 <title>Finding</title>
                 <p>Say you would like to find all instances in your paper where you use a certain word or phrase.</p>

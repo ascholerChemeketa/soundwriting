@@ -6,7 +6,7 @@
     </introduction>
     <section xml:id="email-etiquette">
         <title>Email Etiquette</title>
-        <p>Emailing faculty, staff, and off-campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. Formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply. Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
+        <p>Emailing faculty, staff, and off-campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. But formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply. Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
         <sidebyside width="50%">
             <image source="images/genres-dear-professor"/>
         </sidebyside>
@@ -113,7 +113,7 @@
                 </li>
             </dl>
             <conclusion>
-                <p>For more tips and tricks on how to write a personal statement, see the <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page on the Puget Sound website. Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth 114) and the CWLT (Howarth 109) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</p>
+                <p>For more tips and tricks on how to write a personal statement, see the <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page on the Puget Sound website. Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth 114) and the <init>CWLT</init> (Howarth 109) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</p>
             </conclusion>
         </list>
     </section>
@@ -201,7 +201,7 @@
                 </li>
             </dl>
             <conclusion>
-                <p>For more tips and tricks on how to write a great cover letter, see this <q><url href="http://www.pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf">CES Cover Letter and Thank You Note Guide</url></q> from the Career and Employment Services webpage. Remember that you can always bring in your cover letter drafts to the Career and Employment Services office (Howarth 101) for editing and revising ideas!</p>
+                <p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="http://www.pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf">CES Cover Letter and Thank You Note Guide</url></q> from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p>
             </conclusion>
         </list>
     </section>
@@ -304,7 +304,7 @@
                 </li>
             </dl>
             <conclusion>
-                <p>For more tips and tricks on how to write a great cover letter, see this <q><url href="pugetsound.edu/files/resources/4663_ResumePacket2012.pdf">Resume Packet</url></q> from the Career and Employment Services webpage. Remember that you can always bring in your resume drafts to the Career and Employment Services office (Howarth 101) and the CWLT (Howarth 109) for editing and revising ideas!</p>
+                <p>For more tips and tricks on how to write a great cover letter, see this <q><url href="pugetsound.edu/files/resources/4663_ResumePacket2012.pdf">Resume Packet</url></q> from the Career and Employment Services webpage. Remember that you can always bring in your resume drafts to the Career and Employment Services office (Howarth 101) and the <init>CWLT</init> (Howarth 109) for editing and revising ideas!</p>
             </conclusion>
         </list>
     </section>
