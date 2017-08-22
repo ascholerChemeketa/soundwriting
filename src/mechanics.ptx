@@ -10,7 +10,7 @@
     <section xml:id="parts-of-speach">
         <title>Parts of Speech</title>
         <p>Each word in a sentence belongs to a part of speech. There are eight parts of speech: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Words can belong to multiple parts of speech, depending on how they're being used. By being able to identify the part of speech a word falls into, you can better understand the underlying forms and meanings of a sentence.</p>
-        <list>
+        <list xml:id="eight-parts-of-speech">
             <title>Here are the eight parts of speech and some examples</title>
             <dl>
                 <li>
@@ -292,7 +292,7 @@
         <subsection>
             <title>Collective Nouns</title>
             <p>There are some subjects that may be singular or plural depending on how you use them.</p>
-            <p>In order to determine whether to use a singular or a plural verb, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin characters="5"/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
+            <p>In order to determine whether to use a singular or a plural verb, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
             <list>
                 <introduction>
                     <p>A list of these collective nouns and example uses may be found below.</p>
