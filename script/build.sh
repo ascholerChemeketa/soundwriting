@@ -22,9 +22,10 @@ declare SOURCE=${SRC}/src
 declare IMAGES=${SRC}/images
 
 # convenience for rsync command, hopefully not OS dependent
-# DOES NOT includes  --delete  switch at end due to PDF in directory
-# If switch is included this could be an *exact* mirror of build directory
-declare RSYNC="rsync --verbose  --progress --stats --compress --rsh=/usr/bin/ssh --recursive"
+# INCLUDES  --delete  switch at end.
+# This is an *exact* mirror of HTML build directory
+# If we want PDFs posted, potentially place
+declare RSYNC="rsync --verbose  --progress --stats --compress --rsh=/usr/bin/ssh --recursive --delete"
 
 # website upload parameterized by username
 declare UNAME="$2"
