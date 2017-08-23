@@ -61,7 +61,6 @@
                         </cell>
                     </row>
                 </tabular>
-                <!-- <image source="images/citation-styles-table"/> -->
             </sidebyside>
         </subsection>
         <subsection>
@@ -208,7 +207,6 @@
                     </li>
                 </dl>
             </list>
-            <!-- <image source="images/citation-info-table"/> -->
             <assemblage>
                 <title>Tip</title>
                 <p>Having trouble finding the right information in a source? Things like publishing location can sometimes be tricky to pinpoint. If you've looked all over the copyright page, title page, binding, and cover, just go to Google and search the publisher's name. You'll likely find the publisher's address, which should tell you what city the company is located in. Another trick is to look the book up on <url href="amazon.com">Amazon</url><mdash/>sometimes they'll have the right information in the <q>Product Details</q> section.</p>

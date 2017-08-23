@@ -190,7 +190,7 @@
             </paragraphs>
             <paragraphs>
                 <title>Response to the Problem (Thesis)</title>
-                <p>After destabilizing the common ground by posing the problem and stating the potential consequences of incomplete knowledge, you may now give your audience some stable footing (don't just leave them hanging!). You can do this by providing the audience with your resolution to the stated problem<mdash/>this is also known as your thesis statement (for tips on thesis development, see <xref ref="thesis-development"/>). Your thesis statement should include a clear assertion of your argument that reflects the general organization of the paper, what kinds of information you will be using, and how you will be using that information to make your argument.</p>
+                <p>After destabilizing the common ground by posing the problem and stating the potential consequences of incomplete knowledge, you may now give your audience members some stable footing (don't just leave them hanging!). You can do this by providing the audience with your resolution to the stated problem<mdash/>this is also known as your thesis statement (for tips on thesis development, see <xref ref="thesis-development"/>). Your thesis statement should include a clear assertion of your argument that reflects the general organization of the paper, what kinds of information you will be using, and how you will be using that information to make your argument.</p>
                 <p>There are different ways you may frame your thesis statement. You can offer the solution as the main point of the paper, promising to explicate it in depth throughout your response; this is called a <q>point-first</q> structure. You may also want to detail the problem at length, explore various solutions, and finally offer a solution at the very end of the paper; this structure is called <q>point-last.</q> Whichever structure you choose should be the one best suited to your argument and what you want the main focus of your paper to be.</p>
             </paragraphs>
         </subsection>
@@ -309,7 +309,6 @@
             </sidebyside>
             <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
             <sidebyside>
-                <!-- <image source="images/WP-TransitionTable"/> -->
                 <tabular>
                     <col width="30%"/>
                     <col width="70%"/>
@@ -510,7 +509,7 @@
     <section>
         <title>Revising</title>
         <introduction>
-            <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the <init>CWLT</init>, we focus largely on <acro>HOC</acro>s.</p>
+            <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the Center for Writing, Learning, and Teaching (<init>CWLT</init>), we focus largely on <acro>HOC</acro>s.</p>
             <sidebyside width="50%">
                 <image source="images/WP-GoodThings"/>
             </sidebyside>

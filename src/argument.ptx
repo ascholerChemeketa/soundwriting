@@ -191,7 +191,7 @@
             <sidebyside width="50%">
                 <image source="images/AD-IsItReadyYet"/>
             </sidebyside>
-            <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the <init>CWLT</init>!</p>
+            <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p>
             <p>Consider the following example theses from Puget Sound student papers. In what ways do they or do they not do <acro>MORE</acro>?</p>
             <example>
                 <p>While women do have a substantial presence in the <em>Odyssey</em>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <em>Odyssey</em> primarily reinforces the chauvinist framework through which we view the world.</p>
@@ -271,11 +271,17 @@
         <paragraphs>
             <title>Quote Sandwiches</title>
             <p>Formally speaking, there are certain conventions that academics like to follow when dealing with evidence. For instance, it is considered inelegant to use advice without introducing it first. Luckily, you just need to keep in mind the <q>quote sandwich,</q> and you'll never make that inelegant mistake.</p>
-            <p>The quote sandwich is nothing more than a three-part organizational template that consists of the following parts:<ul>
-                <li>The upper bun of your quote sandwich introduces the quotation under consideration with information about its author and source and with the claim that you're making about it.</li>
-                <li>The meat, or non meat substitute, of your sandwich consists of your quote with a proper in-text citation.</li>
-                <li>The bottom bun of your sandwich consists of your thorough analysis of the evidence.</li>
-            </ul></p>
+            <p>
+                The quote sandwich is nothing more than a three-part organizational template that consists of the following parts:
+                <ul>
+                    <li>The upper bun of your quote sandwich introduces the quotation under consideration with information about its author and source and with the claim that you're making about it.</li>
+                    <li>The meat, or non meat substitute, of your sandwich consists of your quote with a proper in-text citation.</li>
+                    <li>The bottom bun of your sandwich consists of your thorough analysis of the evidence.</li>
+                </ul>
+            </p>
+            <sidebyside width="50%">
+                <image source="images/AD-QuoteSandwich"/>
+            </sidebyside>
             <p>You may have noticed that the written analysis in the previous section was rendered in three different colors. These colors represent different parts of the quote sandwich. The clause in green introduces the quotation that follows it and anticipates the argument that will be made about the evidence in the section in purple. The text in red is the quotation introduced by the clause in green and commented on by the text in purple. The text in purple analyzes the text in red and elaborates on the claim forecasted by the text in green.</p>
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
         </paragraphs>
