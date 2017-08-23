@@ -86,6 +86,7 @@ function validate {
         -e '"i"'\
         -e '"un"'\
         -e '"highlight"'\
+        -e '"indent"'\
     > ${SCRATCH}/errors.txt
 }
 
@@ -155,7 +156,7 @@ function website {
     echo "BUILD: username as parameter 2, then supply password... :BUILD"
     echo
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    ${RSYNC} ${SCRATCH}/html/*  ${UNAME}@userweb.pugetsound.edu:/var/www/html/soundwriting.pugetsound.edu/beta
+    ${RSYNC} ${SCRATCH}/html/*  ${UNAME}@userweb.pugetsound.edu:/var/www/html/soundwriting.pugetsound.edu
 }
 
 # Main command-line interpreter
