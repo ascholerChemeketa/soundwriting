@@ -7,20 +7,65 @@
     <section xml:id="the-basics">
         <title>The Basics</title>
         <introduction>
-            <p>When writing citations, the most basic question you need to ask yourself is: <q>What information would someone need to find this source on their own?</q> Although nowadays you'd likely use your phone to take a picture of a product you want to be able to find again (your favorite brand of bread, for example), citations require a little more effort. The basic principle, however, is the same. When taking a picture to remember something, you make sure that you have the name and any other identifying information that will help you find it again. Similarly, when writing a citation, you want to make sure you include the basic identifying features of a source, namely the author, title, date, and publisher.</p>
+            <p>When writing citations, the most basic question you need to ask yourself is, <q>What information would someone need to find this source on their own?</q> Although nowadays you'd likely use your phone to take a picture of a product you want to be able to find again (your favorite brand of bread, for example), citations require a little more effort. The basic principle, however, is the same. When taking a picture to remember something, you make sure that you have the name and any other identifying information that will help you find it again. Similarly, when writing a citation, you want to make sure you include the basic identifying features of a source, namely the author, title, date, and publisher.</p>
             <p>Citations serve many purposes. Beyond allowing others to <em>find</em> the sources you use, citations also give your audience clues about the type of information you've used, where that information came from, and how reliable the information is within a particular context, all without having to go find the source directly. There are two main categories of each citation style: in-text citations and full citations. In-text citations provide a reader with immediate information about the source from which a piece of information came. Full citations provide a reader with more complete information about the source.</p>
         </introduction>
         <subsection>
             <title>Background</title>
-            <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: MLA, Chicago (CMS), and APA.</p>
+            <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: <init>MLA</init> (Modern Language Association), <init>CMS</init> (Chicago Manual of Style), and <init>APA</init> (American Psychological Association).</p>
             <p>In general, here are some differences between the styles:</p>
-            <sidebyside width="50%">
-                <image source="images/citation-styles-table"/>
+            <sidebyside>
+                <tabular valign="top">
+                    <col halign="right"/><col/><col/><col/>
+                    <row bottom="major">
+                        <cell/>
+                        <cell><init>MLA</init></cell>
+                        <cell><init>CMS</init></cell>
+                        <cell><init>APA</init></cell>
+                    </row>
+                    <row bottom="minor">
+                        <cell>Name of Citation Page</cell>
+                        <cell>Works Cited</cell>
+                        <cell>Bibliography</cell>
+                        <cell>References</cell>
+                    </row>
+                    <row bottom="minor">
+                        <cell>In-Text Citations</cell>
+                        <cell>(Author page)</cell>
+                        <cell>
+                            <line>Footnotes (see below);</line>
+                            <line>Author, date</line>
+                        </cell>
+                        <cell>(Author, date)</cell>
+                    </row>
+                    <row bottom="minor">
+                        <cell>Disciplines</cell>
+                        <cell>
+                            <line>communication studies;</line>
+                            <line>English;</line>
+                            <line>foreign languages</line>
+                        </cell>
+                        <cell>
+                            <line>classics;</line>
+                            <line>history;</line>
+                            <line>philosophy;</line>
+                            <line>religion;</line>
+                            <line>science, technology,</line>
+                            <line>and society</line>
+                        </cell>
+                        <cell>
+                            <line>business;</line>
+                            <line>economics;</line>
+                            <line>psychology;</line>
+                            <line>sciences</line>
+                        </cell>
+                    </row>
+                </tabular>
             </sidebyside>
         </subsection>
         <subsection>
             <title>Basic Components</title>
-            <p>No matter the style, the basic components you need for each type of source remain relatively constant. Here are the components for a few types of frequently-used sources:</p>
+            <p>No matter the style, the basic components you need for each type of source remain relatively constant. Here are the components for a few types of frequently used sources:</p>
             <sidebyside>
                 <list>
                     <title>Books</title>
@@ -54,20 +99,125 @@
                 </list>
             </sidebyside>
             <p>You might be asking us, <q>But why do I need all of this information?</q> No, citation guides are not out to get you! Each piece of a citation has a specific purpose. Here are some reasons behind the information you need. Hopefully this context will 1) help you understand what the citation is doing and why, and 2) help you use other people's sources more effectively!</p>
-            <sidebyside width="50%">
-                <image source="images/citation-info-table"/>
-            </sidebyside>
-            <paragraphs>
+            <list>
+                <dl>
+                    <li>
+                        <title>Author</title>
+                        <p>
+                            Knowing the author of a source can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you to determine the academic reputation of the author and track down other, related works.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Title</title>
+                        <p>
+                            Knowing the title of a source can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help the reader to determine whether to read the source in its entirety.</li>
+                                <li>help you to differentiate between sources with the same author.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Date</title>
+                        <p>
+                            Knowing how old a source is can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you to determine its relevance and scholarly context.</li>
+                                <li>help you to differentiate between sources with the same author (particularly for year/date in-text citations).</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Publisher</title>
+                        <p>
+                            Knowing the publisher can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader locate the source.</li>
+                                <li>
+                                    <p>help you to identify the validity or academic level of a source.</p>
+                                    <p>(Is the publisher an academic press, or is it a more popular press, like Penguin?)</p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Publisher Location</title>
+                        <p>
+                            Knowing the publisher location is<nbsp/><ellipsis/>
+                            <ul>
+                                <li>a way to indicate which printing of a source you have, since versions sometimes vary by location.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Journal Name</title>
+                        <p>
+                            Knowing the name of the journal in which the article was published can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader to locate the source.</li>
+                                <li>
+                                    <p>give an idea of the discipline a source was published in.</p>
+                                    <p>(Was the article published in social psychology or sociology?)</p>
+                                </li>
+                                <li>help you to identify the academic reputation of the article's home.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Page Range of Article</title>
+                        <p>
+                            Knowing the page range of an article can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader to locate the article in a physical copy of the journal (they're not just online!).</li>
+                                <li>determine whether you really want to read a 40-page article on signification, or just skim it (see <xref ref="how-to-read"/>).</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Website Name</title>
+                        <p>
+                            Knowing the website name of a source can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>help you and your reader to locate the source.</li>
+                                <li>help you to identify the validity of a source (<eg/>, did the information come from <url href="k00keem0nster.com"/> or <url href="harvard.edu"/>?).</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Date Published or Updated</title>
+                        <p>
+                            Knowing the date published or updated can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>give an idea of how old a source is.</li>
+                                <li>tell your reader if the source has been updated recently.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Date Accessed</title>
+                        <p>
+                            If the source is updated regularly, knowing the date a source was accessed can<nbsp/><ellipsis/>
+                            <ul>
+                                <li>make it easier to locate which version of a source you used.</li>
+                            </ul>
+                        </p>
+                    </li>
+                </dl>
+            </list>
+            <assemblage>
                 <title>Tip</title>
                 <p>Having trouble finding the right information in a source? Things like publishing location can sometimes be tricky to pinpoint. If you've looked all over the copyright page, title page, binding, and cover, just go to Google and search the publisher's name. You'll likely find the publisher's address, which should tell you what city the company is located in. Another trick is to look the book up on <url href="amazon.com">Amazon</url><mdash/>sometimes they'll have the right information in the <q>Product Details</q> section.</p>
-            </paragraphs>
+            </assemblage>
         </subsection>
         <subsection>
             <title>Finding Information in a Source</title>
-            <p>Sometimes it can be hard to find the citation information you need in a source, especially when each is one is so different. While these are by no means a universal guide, the following images provide a general indication of where you can find citation info in different types of sources.</p>
+            <p>Sometimes it can be hard to find the citation information you need in a source, especially when each one is so different. While this is by no means a universal guide, the following images provide a general indication of where you can find citation info in different types of sources.</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="book-one-author">
         <title>Book with One Author</title>
         <introduction>
             <sidebyside width="50%">
@@ -76,37 +226,29 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author last name, first initial.</red> <lightgreen>(Year).</lightgreen> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p><red>McCarthy, C.</red> <lightgreen>(2006).</lightgreen> <lightblue><i>The Road.</i></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf.</lightpurple></p>
-                <p>In-text: (McCarthy, 2006)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
+            <p indent="hanging"><red>McCarthy, C.</red> <lightgreen>(2006).</lightgreen> <lightblue><booktitle>The Road.</booktitle></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf.</lightpurple></p>
+            <p>In-text: (McCarthy, 2006)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
-                <p><red>McCarthy, Cormac.</red> <lightblue><i>The Road.</i></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf,</lightpurple> <lightgreen>2006.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
+            <p indent="hanging"><red>McCarthy, Cormac.</red> <lightblue><booktitle>The Road.</booktitle></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf,</lightpurple> <lightgreen>2006.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Cormac McCarthy, <i>The Road</i> (New York: Alfred A. Knopf, 2006), 1<ndash/>2.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid., 34.</fn></p>
-                <p>Non-consecutive appearances.<fn>McCarthy, <i>The Road,</i> 5.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Cormac McCarthy, <booktitle>The Road</booktitle> (New York: Alfred A. Knopf, 2006), 1<ndash/>2.</fn> Consecutive appearances.<fn>Ibid., 34.</fn> Nonconsecutive appearances.<fn>McCarthy, <booktitle>The Road,</booktitle> 5.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen> <teal>Medium.</teal></p>
-                <p><red>McCarthy, Cormac.</red> <lightblue><i>The Road.</i></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf,</lightpurple> <lightgreen>2006.</lightgreen> <teal>Print.</teal></p>
-                <p>In-text: (McCarthy 5)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>McCarthy, Cormac.</red> <lightblue><booktitle>The Road.</booktitle></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf,</lightpurple> <lightgreen>2006.</lightgreen> <teal>Print.</teal></p>
+            <p>In-text: (McCarthy 5)</p>
         </subsection>
     </section>
-    <section>
-        <title>Book with Multiple Authors</title>
+    <section xml:id="book-with-multiple-authors">
+        <title>Book With Multiple Authors</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-BookMultipleAuthors"/>
@@ -114,37 +256,29 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author 1 last name, first initial, <ampersand/> Author 2 last name, first initial</red> <lightgreen>(Year).</lightgreen> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p><red>Bowler, P. J., <ampersand/> Morus, I. R.</red> <lightgreen>(2005).</lightgreen> <lightblue>Making Modern Science: A Historical Survey.</lightblue> <maroon>Chicago:</maroon> <lightpurple>University of Chicago Press.</lightpurple></p>
-                <p>In-text: (Bowler <ampersand/> Morus, 2005)</p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, initials, <ampersand/> Author 2 last name, first initial</red> <lightgreen>(Year).</lightgreen> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
+            <p indent="hanging"><red>Bowler, P. J., <ampersand/> Morus, I. R.</red> <lightgreen>(2005).</lightgreen> <lightblue>Making Modern Science: A Historical Survey.</lightblue> <maroon>Chicago:</maroon> <lightpurple>University of Chicago Press.</lightpurple></p>
+            <p>In-text: (Bowler <ampersand/> Morus, 2005)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon><lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
-                <p><red>Bowler, Peter J., and Iwan Rhys Morus.</red> <lightblue><i>Making Modern Science: A Historical Survey.</i></lightblue> <maroon>Chicago:</maroon><lightpurple>University of Chicago Press,</lightpurple> <lightgreen>2005.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <maroon>City of Publication:</maroon><lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
+            <p indent="hanging"><red>Bowler, Peter J., and Iwan Rhys Morus.</red> <lightblue><booktitle>Making Modern Science: A Historical Survey.</booktitle></lightblue> <maroon>Chicago:</maroon><lightpurple>University of Chicago Press,</lightpurple> <lightgreen>2005.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Peter J. Bowler and Iwan Rhys Morus, <i>Making Modern Science: A Historical Survey</i> (Chicago: University of Chicago Press), 20.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid., 47.</fn></p>
-                <p>Non-consecutive appearances.<fn>Bowler and Morus, <i>Making Modern Science,</i> 5<ndash/>12.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Peter J. Bowler and Iwan Rhys Morus, <booktitle>Making Modern Science: A Historical Survey</booktitle> (Chicago: University of Chicago Press), 20.</fn> Consecutive appearances.<fn>Ibid., 47.</fn> Nonconsecutive appearances.<fn>Bowler and Morus, <booktitle>Making Modern Science,</booktitle> 5<ndash/>12.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><i>Title of Work.</i></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen> <teal>Medium.</teal></p>
-                <p><red>Bowler, Peter J., and Iwan Rhys Morus.</red> <lightblue><i>Making Modern Science: A Historical Survey.</i></lightblue> <maroon>Chicago:</maroon> <lightpurple>University of Chicago Press,</lightpurple> <lightgreen>2005.</lightgreen> <teal>Print.</teal></p>
-                <p>In-text: (Bowler and Morus 12)</p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Bowler, Peter J., and Iwan Rhys Morus.</red> <lightblue><booktitle>Making Modern Science: A Historical Survey.</booktitle></lightblue> <maroon>Chicago:</maroon> <lightpurple>University of Chicago Press,</lightpurple> <lightgreen>2005.</lightgreen> <teal>Print.</teal></p>
+            <p>In-text: (Bowler and Morus 12)</p>
         </subsection>
     </section>
-    <section>
-        <title>Edition Other than the First</title>
+    <section xml:id="edition-other-than-first">
+        <title>Edition Other Than the First</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-EditionOtherThanTheFirst"/>
@@ -152,36 +286,28 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author last name, first initial.</red> <lightgreen>(Year).</lightgreen> <lightblue><i>Title of Work</i></lightblue> <lightpink>(edition number ed.).</lightpink> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p><red>Tannsjo, T.</red> <lightgreen>(2008).</lightgreen> <lightblue><i>Understanding Ethics: An Introduction to Moral Theory</i></lightblue> <lightpink>(2nd ed.).</lightpink> <maroon>Edinburgh:</maroon><lightpurple>University of Edinburgh Press.</lightpurple></p>
-                <p>In-text: (Tannsjo, 2008)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><booktitle>Title of Work</booktitle></lightblue> <lightpink>(edition number ed.).</lightpink> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
+            <p indent="hanging"><red>Tannsjo, T.</red> <lightgreen>(2008).</lightgreen> <lightblue><booktitle>Understanding Ethics: An Introduction to Moral Theory</booktitle></lightblue> <lightpink>(2nd ed.).</lightpink> <maroon>Edinburgh:</maroon> <lightpurple>University of Edinburgh Press.</lightpurple></p>
+            <p>In-text: (Tannsjo, 2008)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><i>Title of Work.</i></lightblue> <lightpink>Number edition Ed.</lightpink> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
-                <p><red>Tannsjo, Torbjorn.</red> <lightblue><i>Understanding Ethics: an Introduction to Moral Theory.</i></lightblue> <lightpink>2nd Ed.</lightpink> <maroon>Edinburgh:</maroon> <lightpurple>University of Edinburgh Press,</lightpurple> <lightgreen>2008.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <lightpink>Number edition ed.</lightpink> (<maroon>City of Publication:</maroon> <lightpurple>Publisher</lightpurple>), <lightgreen>year.</lightgreen></p>
+            <p indent="hanging"><red>Tannsjo, Torbjorn.</red> <lightblue><booktitle>Understanding Ethics: An Introduction to Moral Theory.</booktitle></lightblue> <lightpink>2nd ed.</lightpink> (<maroon>Edinburgh:</maroon> <lightpurple>University of Edinburgh Press</lightpurple>), <lightgreen>2008.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Torbjorn Tannsjo, <i>Understanding Ethics: an Introduction to Moral Theory,</i> 2nd ed. (Edinburgh: University of Edinburgh Press, 2008), 25.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid., 45.</fn></p>
-                <p>Non-consecutive appearances.<fn>Tannsjo, <i>Understanding Ethics,</i> 27.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Torbjorn Tannsjo, <booktitle>Understanding Ethics: An Introduction to Moral Theory,</booktitle> 2nd ed. (Edinburgh: University of Edinburgh Press, 2008), 25.</fn> Consecutive appearances.<fn>Ibid., 45.</fn> Nonconsecutive appearances.<fn>Tannsjo, <booktitle>Understanding Ethics,</booktitle> 27.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><i>Title of Work.</i></lightblue> <lightpink>Number edition Ed.</lightpink> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen> <teal>Medium.</teal></p>
-                <p><red>Tannsjo, Torbjorn.</red> <lightblue><i>Understanding Ethics: an Introduction to Moral Theory.</i></lightblue> <lightpink>2nd ed.</lightpink> <maroon>Edinburgh:</maroon> <lightpurple>University of Edinburgh Press,</lightpurple> <lightgreen>2008.</lightgreen> <teal>Print.</teal></p>
-                <p>In-text: (Tannsjo 27)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><booktitle>Title of Work.</booktitle></lightblue> <lightpink>Number edition Ed.</lightpink> <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Tannsjo, Torbjorn.</red> <lightblue><booktitle>Understanding Ethics: An Introduction to Moral Theory.</booktitle></lightblue> <lightpink>2nd ed.</lightpink> <maroon>Edinburgh:</maroon> <lightpurple>University of Edinburgh Press,</lightpurple> <lightgreen>2008.</lightgreen> <teal>Print.</teal></p>
+            <p>In-text: (Tannsjo 27)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="chapter-edited-book">
         <title>Chapter in an Edited Book</title>
         <introduction>
             <sidebyside width="50%">
@@ -190,29 +316,23 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author last name, first initial.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue><q>Title of Chapter.</q></lightblue> In Editors' first initials last names (Eds.), <pink><i>Title of Anthology</i></pink> (pp. <blue>Page range</blue>). <maroon>City of publication, State:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p><red>Christoph, J. N.</red> <lightgreen>(2014).</lightgreen> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> In J. Duffy, J. N. Christoph, E. Goldblatt, N. Graff, R. Nowacek, <ampersand/> B. Trabold (Eds.), <pink><i>Literacy, Economy, and Power: Writing and Research after Literacy in American Lives</i></pink> (pp. <blue>79<ndash/>96</blue>). <maroon>Carbondale, IL:</maroon> <lightpurple>Southern Illinois University Press.</lightpurple></p>
-                <p>In-text: (Christoph, 2014)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials</red>. (<lightgreen>Year of publication</lightgreen>). <lightblue>title of chapter</lightblue>. In Editors' first initials last names (Eds.), <pink><booktitle>Title of Anthology</booktitle></pink> (pp. <blue>Page range</blue>). <maroon>City of publication, State</maroon>: <lightpurple>Publisher</lightpurple>.</p>
+            <p indent="hanging"><red>Christoph, J. N.</red> (<lightgreen>2014</lightgreen>). <lightblue>Sponsoring education for all: Revisiting the sacred/secular divide in twenty-first-century Zanzibar.</lightblue> In J. Duffy, J. N. Christoph, E. Goldblatt, N. Graff, R. Nowacek, <ampersand/> B. Trabold (Eds.), <pink><booktitle>Literacy, economy, and power: Writing and research after</booktitle> Literacy in American Lives</pink> (pp. <blue>79<ndash/>96</blue>). <maroon>Carbondale, IL:</maroon> <lightpurple>Southern Illinois University Press.</lightpurple></p>
+            <p>In-text: (Christoph, 2014)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Chapter.</q></lightblue> In <pink><i>Title of Anthology,</i></pink> edited by Editors' first names last names, <blue>Page range.</blue> <maroon>City of publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen></p>
-                <p><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> In <pink><i>Literacy, Economy, and Power: Writing and Research after Literacy in American Lives,</i></pink> edited by John Duffy, Julie Nelson Christoph, Eli Goldblatt, Nelson Graff, Rebecca S. Nowacek, and Bryan Trabold, <blue>79<ndash/>96.</blue> <maroon>Carbondale:</maroon> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Chapter.</q></lightblue> In <pink><booktitle>Title of Anthology,</booktitle></pink> edited by Editors' first names last names, <blue>Page range.</blue> <maroon>City of publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen></p>
+            <p indent="hanging"><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> In <pink><booktitle>Literacy, Economy, and Power: Writing and Research after</booktitle> Literacy in American Lives,</pink> edited by John Duffy, Julie Nelson Christoph, Eli Goldblatt, Nelson Graff, Rebecca S. Nowacek, and Bryan Trabold, <blue>79<ndash/>96.</blue> <maroon>Carbondale:</maroon> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen></p>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Chapter.</q></lightblue> <pink><i>Title of Anthology.</i></pink> Eds. Editors' first names last names. <maroon>City of publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen> <blue>Page range.</blue> <teal>Medium.</teal></p>
-                <p><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> <pink><i>Literacy, Economy, and Power: Writing and Research after Literacy in American Lives.</i></pink> Eds. John Duffy, Julie Nelson Christoph, Eli Goldblatt, Nelson Graff, Rebecca S. Nowacek, and Bryan Trabold. <maroon>Carbondale:</maroon> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen> <blue>79<ndash/>96.</blue> <teal>Print.</teal></p>
-                <p>In-text: (Christoph 79)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Chapter.</q></lightblue> <pink><booktitle>Title of Anthology.</booktitle></pink> Eds. Editors' first names last names. <maroon>City of publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen> <blue>Page range.</blue> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> <pink><booktitle>Literacy, Economy, and Power: Writing and Research after</booktitle> Literacy in American Lives.</pink> Eds. John Duffy, Julie Nelson Christoph, Eli Goldblatt, Nelson Graff, Rebecca S. Nowacek, and Bryan Trabold. <maroon>Carbondale:</maroon> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen> <blue>79<ndash/>96.</blue> <teal>Print.</teal></p>
+            <p>In-text: (Christoph 79)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="book-review">
         <title>Book Review</title>
         <introduction>
             <sidebyside width="50%">
@@ -221,36 +341,29 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author last name, first initial.</red> <lightgreen>(Year, Month of Publication).</lightgreen> [Review of the book <lightblue><i>Title of Reviewed Work</i>,</lightblue> by <gray>Author of Reviewed Work first name last name</gray>]. <pink><i>Name of Journal,</i></pink> <darkred>volume,</darkred> <blue>page range.</blue> <orange>Doi: xx.xxxxxx.</orange></p>
-                <p><red>Paul, J. J.</red> <lightgreen>(2006, June).</lightgreen> [Review of the book <lightblue><i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India</i>,</lightblue> by <gray>Kavita Philip</gray>]. <pink><i>Isis,</i></pink> <darkred>97,</darkred> <blue>370<ndash/>371.</blue> <orange>Doi: 10.1086/507384.</orange></p>
-                <p>In-text: (Paul, 2006)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials</red>. (<lightgreen>Year, Month of Publication if available</lightgreen>). [Review of the book <lightblue><booktitle>Title of reviewed work</booktitle></lightblue>, by <gray>Author of Reviewed Work initials last name</gray>]. <pink><booktitle>Name of Journal</booktitle></pink>, <darkred><booktitle>volume</booktitle></darkred>, <blue>page range</blue>. <orange>Doi: xx.xxxxxx</orange>.</p>
+            <p indent="hanging"><red>Paul, J. J.</red> (<lightgreen>2006, June</lightgreen>). [Review of the book <lightblue><booktitle>Civilizing natures: Race, resources, and modernity in Colonial South India</booktitle></lightblue>, by <gray>K. Philip</gray>]. <pink><booktitle>Isis</booktitle></pink>, <darkred><booktitle>97</booktitle></darkred>, <blue>370<ndash/>371</blue>. <orange>Doi: 10.1086/507384</orange>.</p>
+            <p>In-text: (Paul, 2006)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red>Review of <lightblue><i>Title of Reviewed Work,</i></lightblue> by <gray>Author of Reviewed Work First Last.</gray> <pink><i>Name of Journal</i></pink> <darkred>volume, no. issue</darkred> <lightgreen>(Year):</lightgreen> <blue>page range.</blue></p>
-                <p><red>Paul, John J.</red>Review of <lightblue><i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</i></lightblue> by <gray>Kavita Philip.</gray> <pink><i>Isis</i></pink> <darkred>97, no. 2</darkred> <lightgreen>(2006):</lightgreen> <blue>370<ndash/>371.</blue></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> Review of <lightblue><booktitle>Title of Reviewed Work,</booktitle></lightblue> by <gray>Author of Reviewed Work First Last.</gray> <pink><booktitle>Name of Journal</booktitle></pink> <darkred>volume, no. issue</darkred> <lightgreen>(Year):</lightgreen> <blue>page range.</blue></p>
+            <p indent="hanging"><red>Paul, John J.</red> Review of <lightblue><booktitle>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</booktitle></lightblue> by <gray>Kavita Philip.</gray> <pink><booktitle>Isis</booktitle></pink> <darkred>97, no. 2</darkred> <lightgreen>(2006):</lightgreen> <blue>370<ndash/>371.</blue></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>John J. Paul, review of <i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</i> by Kavita Philip, <i>Isis</i> 97, no. 2 (2006): 370<ndash/>371.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid., 371.</fn></p>
-                <p>Non-consecutive appearances.<fn>Paul, review of <i>Civilizing Natures,</i> 370.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>John J. Paul, review of <booktitle>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</booktitle> by Kavita Philip, <booktitle>Isis</booktitle> 97, no. 2 (2006): 370<ndash/>371.</fn> Consecutive appearances.<fn>Ibid., 371.</fn> Nonconsecutive appearances.<fn>Paul, review of <booktitle>Civilizing Natures,</booktitle> 370.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Paul, John J.</red> <gray>Title of Review (if any).</gray> Rev. of <lightblue><i>Title of Reviewed Work,</i></lightblue> aut. <gray>Author of Reviewed Work.</gray> <pink><i>Name of Journal</i></pink> <darkred>volume.issue</darkred> <lightgreen>(Year):</lightgreen> <blue>page range.</blue> <teal>Medium.</teal></p>
-                <p><red>Paul, John J.</red> Rev. of <lightblue><i>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</i></lightblue> aut. <gray>Kavita Philip.</gray> <pink><i>Isis</i></pink> <darkred>97.2</darkred> <lightgreen>(2006):</lightgreen> <blue>370<ndash/>371.</blue> <teal>Print.</teal></p>
-                <p>In-text: (Paul 370)</p>
-            </example>
+            <!-- This first example should probably not have the example author. -->
+            <p indent="hanging"><red>Paul, John J.</red> <gray>Title of Review (if any).</gray> Rev. of <lightblue><booktitle>Title of Reviewed Work,</booktitle></lightblue> by <gray>Author of Reviewed Work.</gray> <pink><booktitle>Name of Journal</booktitle></pink> <darkred>volume.issue</darkred> <lightgreen>(Year):</lightgreen> <blue>page range.</blue> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Paul, John J.</red> Rev. of <lightblue><booktitle>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</booktitle></lightblue> by <gray>Kavita Philip.</gray> <pink><booktitle>Isis</booktitle></pink> <darkred>97.2</darkred> <lightgreen>(2006):</lightgreen> <blue>370<ndash/>371.</blue> <teal>Print.</teal></p>
+            <p>In-text: (Paul 370)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="print-article">
         <title>Print Article</title>
         <introduction>
             <sidebyside width="50%">
@@ -259,39 +372,31 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author last name, first initial.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue><q>Title of Article.</q></lightblue> <pink><i>Name of Journal</i></pink> <darkred>volume(issue),</darkred> <blue>page range.</blue></p>
-                <p><red>Mann, S. A.</red> <lightgreen>(2011).</lightgreen> <lightblue>Pioneers of U.S. Ecofeminism and Environmental Justice.</lightblue> <pink><i>Feminist Formations</i></pink> <darkred>23(2),</darkred> <blue>1<ndash/>25.</blue></p>
-                <p>In-text: (Mann, 2011)</p>
-                <p>For an article found in an online journal, include the DOI<mdash/>or, if the article has no DOI, include the URL<mdash/>after the page range. Do not place a period at the end of the DOI or URL.</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue>Title of Article.</lightblue> <pink><booktitle>Name of Journal</booktitle></pink> <darkred>volume(issue),</darkred> <blue>page range.</blue></p>
+            <p indent="hanging"><red>Mann, S. A.</red> <lightgreen>(2011).</lightgreen> <lightblue>Pioneers of U.S. ecofeminism and environmental justice.</lightblue> <pink><booktitle>Feminist Formations</booktitle></pink> <darkred>23(2),</darkred> <blue>1<ndash/>25.</blue></p>
+            <p>In-text: (Mann, 2011)</p>
+            <p>For an article found in an online journal, include the DOI<mdash/>or, if the article has no DOI, write Retrieved from the URL<mdash/>after the page range. Do not place a period at the end of the DOI or URL.</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <pink><i>Name of Journal</i></pink> <darkred>volume, no. issue</darkred> <lightgreen>(Year of publication):</lightgreen> <blue>page range.</blue></p>
-                <p><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><i>Feminist Formations</i></pink> <darkred>23, no. 2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue></p>
-                <p>For an article found in an online journal, include the DOI<mdash/>or, if the article has no DOI, include the URL<mdash/>at the end of the citation. Place a period at the end of the DOI or URL.</p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <pink><booktitle>Name of Journal</booktitle></pink> <darkred>volume, no. issue</darkred> <lightgreen>(Year of publication):</lightgreen> <blue>page range.</blue></p>
+            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><booktitle>Feminist Formations</booktitle></pink> <darkred>23, no. 2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue></p>
+            <p>For an article found in an online journal, include the DOI<mdash/>or, if the article has no DOI, include the URL<mdash/>at the end of the citation. Place a period at the end of the DOI or URL.</p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Susan Mann. <q>Pioneers of U.S. Ecofeminism and Environmental Justice,</q> <i>Feminist Formations</i> 23, no. 2 (2011): 5.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid., 6.</fn></p>
-                <p>Non-consecutive appearances.<fn>Mann, <q>Pioneers of U.S. Ecofeminism,</q> 10<ndash/>15.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Susan Mann. <q>Pioneers of U.S. Ecofeminism and Environmental Justice,</q> <booktitle>Feminist Formations</booktitle> 23, no. 2 (2011): 5.</fn> Consecutive appearances.<fn>Ibid., 6.</fn> Nonconsecutive appearances.<fn>Mann, <q>Pioneers of U.S. Ecofeminism,</q> 10<ndash/>15.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <pink><i>Name of Journal</i></pink> <darkred>volume. issue</darkred> <lightgreen>(Year of publication):</lightgreen> <blue>page range.</blue> <teal>Medium.</teal></p>
-                <p><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><i>Feminist Formations</i></pink> <darkred>23.2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue> <teal>Print.</teal></p>
-                <p>In-text: (Mann 10)</p>
-                <p><em>For an article found in an online journal, indicate <q>Web</q> as the medium, and include the date of access after the medium. End the date of access with a period. If you find the article using a database, such as JSTOR or ProQuest, include the name of the database, italicized, between the page range and the medium and end place a period after the name.</em></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <pink><booktitle>Name of Journal</booktitle></pink> <darkred>volume. issue</darkred> <lightgreen>(Year of publication):</lightgreen> <blue>page range.</blue> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><booktitle>Feminist Formations</booktitle></pink> <darkred>23.2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue> <teal>Print.</teal></p>
+            <p>In-text: (Mann 10)</p>
+            <p>For an article found in an online journal, indicate <q>Web</q> as the medium, and include the date of access after the medium. End the date of access with a period. If you find the article using a database, such as JSTOR or ProQuest, include the name of the database, italicized, between the page range and the medium and end place a period after the name.</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="website">
         <title>Website</title>
         <introduction>
             <sidebyside width="50%">
@@ -300,46 +405,38 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p>APA does not provide a formal citation for citing websites.</p>
-            </example>
+            <p>APA does not provide a formal citation for citing websites.</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <darkgreen>Title of Website (leave unitalicized unless the title of the website is also the title of a book or periodical).</darkgreen> <gray>Sponsor.</gray> <lightgreen>Date of publication or date updated (if none, give date accessed).</lightgreen> <orange>URL.</orange></p>
-                <p><red>Martin, Mark.</red> <darkgreen>Martin's Microbial Menagerie.</darkgreen> <gray>University of Puget Sound,</gray> <lightgreen>August 1, 2016.</lightgreen> <orange>http://webspace.pugetsound.edu/facultypages/momartin/index.htm</orange></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <darkgreen>Title of Website (leave unitalicized unless the title of the website is also the title of a book or periodical).</darkgreen> <gray>Sponsor.</gray> <lightgreen>Date of publication or date updated (if none, give date accessed).</lightgreen> <orange>URL.</orange></p>
+            <p indent="hanging"><red>Martin, Mark.</red> <darkgreen>Martin's Microbial Menagerie.</darkgreen> <gray>University of Puget Sound,</gray> <lightgreen>August 1, 2016.</lightgreen> <orange>http://webspace.pugetsound.edu/facultypages/momartin/index.htm</orange></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Mark Martin, Martin's Microbial Menagerie, University of Puget Sound, August 1, 2016, <url href="http://webspace.pugetsound.edu/facultypages/momartin/index.htm"/>.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>Martin, Martin's Microbial Menagerie.</fn></p>
-                <p><em>If no known author is provided, begin the citation with the title of the website.</em></p>
+                <p>First appearance.<fn>Mark Martin, Martin's Microbial Menagerie, University of Puget Sound, August 1, 2016, <url href="http://webspace.pugetsound.edu/facultypages/momartin/index.htm"/>.</fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>Martin, Martin's Microbial Menagerie.</fn></p>
+                <p>If no known author is provided, begin the citation with the title of the website.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
+            <subsubsection>
                 <title>Website with human author</title>
-                <p><red>Author last name, first name.</red> <darkgreen><i>Title of Website.</i></darkgreen> <gray>Sponsor of site,</gray> <lightgreen>Date updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
-                <p><red>Martin, Mark.</red> <darkgreen><i>Martin's Microbial Menagerie.</i></darkgreen> <gray>University of Puget Sound,</gray> <lightgreen>n.d.</lightgreen> <teal>Web.</teal> <navy>1 Aug 2016.</navy></p>
+                <p indent="hanging"><red>Author last name, first name.</red> <darkgreen><booktitle>Title of Website.</booktitle></darkgreen> <gray>Sponsor of site,</gray> <lightgreen>Date updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
+                <p indent="hanging"><red>Martin, Mark.</red> <darkgreen><booktitle>Martin's Microbial Menagerie.</booktitle></darkgreen> <gray>University of Puget Sound,</gray> <lightgreen>n.d.</lightgreen> <teal>Web.</teal> <navy>1 Aug. 2016.</navy></p>
                 <p>In-Text: (Martin)</p>
-            </example>
-            <example>
+            </subsubsection>
+            <subsubsection>
                 <title>Website with organization as author</title>
-                <p><red>Organization.</red> <darkgreen><i>Title of Website.</i></darkgreen> <gray>Abbreviation of sponsor of site,</gray> <lightgreen>Date updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
-                <p><red>University of Puget Sound.</red> <darkgreen><i>University of Puget Sound.</i></darkgreen> <gray>UPS,</gray> <lightgreen>2016.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
-                <p><ul>
-                    <li>For a website with no known author, begin the citation with the title of the website.</li>
-                    <li>For a website with no known title, use a description such as <q>Main page</q> instead of a title.</li>
-                </ul></p>
+                <p indent="hanging"><red>Organization.</red> <darkgreen><booktitle>Title of Website.</booktitle></darkgreen> <gray>Abbreviation of sponsor of site,</gray> <lightgreen>Date updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
+                <p indent="hanging"><red>University of Puget Sound.</red> <darkgreen><booktitle>University of Puget Sound.</booktitle></darkgreen> <gray>UPS,</gray> <lightgreen>2016.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
                 <p>In-Text: (University of Puget Sound)</p>
-            </example>
+                <p>For a website with no known author, begin the citation with the title of the website.</p>
+                <p>For a website with no known title, use a description such as <q>Main page</q> instead of a title.</p>
+            </subsubsection>
         </subsection>
     </section>
-    <section>
-        <title>Work from a Website</title>
+    <section xml:id="work-from-website">
+        <title>Work From a Website</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-WorkFromAWebsite"/>
@@ -347,37 +444,29 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><lightblue>Title of Work.</lightblue> <lightgreen>(Publication Year, Month Day).</lightgreen> <darkgreen><i>Title of Website.</i></darkgreen> Retrieved from <orange>url.</orange></p>
-                <p><lightblue>Fiction: <sq>Poppyseed</sq></lightblue> by <red>Ramona Ausubel.</red> <lightgreen>(2013, May 11).</lightgreen> <darkgreen><i>Salon.</i></darkgreen> Retrieved from <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
-                <p>In-text: (<sq>Poppyseed,</sq> 2013)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials.</red> <lightblue>Title of Work.</lightblue> <lightgreen>(Publication Year, Month Day).</lightgreen> <darkgreen><booktitle>Title of Website.</booktitle></darkgreen> Retrieved from <orange>url.</orange></p>
+            <p indent="hanging"><red>Ausubel, R.</red> <lightblue>Poppyseed.</lightblue> <lightgreen>(2013, May 11).</lightgreen> <darkgreen><booktitle>Salon.</booktitle></darkgreen> Retrieved from <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
+            <p>In-text: (Ausubel, 2013)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen>Title of Website,</darkgreen> <lightgreen>Publication/modication Month Day, Year.</lightgreen> <orange>URL.</orange></p>
-                <p><red>Ausubel, Ramona.</red> <lightblue><q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel.</q></lightblue> <darkgreen>Salon.</darkgreen> <lightgreen>May 11, 2013.</lightgreen> <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen><booktitle>Title of Website.</booktitle></darkgreen> <lightgreen>Publication/modification Month Day, Year.</lightgreen> <orange>URL.</orange></p>
+            <p indent="hanging"><red>Ausubel, Ramona.</red> <lightblue><q>Poppyseed.</q></lightblue> <darkgreen><booktitle>Salon.</booktitle></darkgreen> <lightgreen>May 11, 2013.</lightgreen> <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/></orange></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Ramona Ausubel, <q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel</q>, Salon, May 11, 2013, <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/>.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>Ausubel, <q>Fiction: <sq>Poppyseed.</sq></q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Ramona Ausubel, <q>Fiction: <q>Poppyseed</q> by Ramona Ausubel</q>, Salon, May 11, 2013, <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/"/>.</fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>Ausubel, <q>Fiction: <q>Poppyseed.</q></q></fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen><i>Title of Website.</i></darkgreen> <gray>Sponsor of site,</gray> <lightgreen>Year updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
-                <p><red>Ausubel, Ramona.</red> <lightblue><q>Fiction: <sq>Poppyseed</sq> by Ramona Ausubel.</q></lightblue> <darkgreen>Salon.</darkgreen> <gray>Salon,</gray> <lightgreen>2013.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
-                <p>For a work with no known author from a website, begin the citation with the title of the work.</p>
-                <p>In-Text: (Ausubel)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen><booktitle>Title of Website.</booktitle></darkgreen> <gray>Sponsor of site,</gray> <lightgreen>Year updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
+            <p indent="hanging"><red>Ausubel, Ramona.</red> <lightblue><q>Poppyseed</q></lightblue> <darkgreen>Salon.</darkgreen> <gray>Salon,</gray> <lightgreen>2013.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
+            <p>For a work with no known author from a website, begin the citation with the title of the work.</p>
+            <p>In-Text: (Ausubel)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="online-newspaper">
         <title>Online Newspaper</title>
         <introduction>
             <sidebyside width="50%">
@@ -386,36 +475,28 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author last name, first initial.</red> <lightgreen>(Publication year, month day).</lightgreen> <lightblue>Title of Article.</lightblue> <lightpurple><i>Name of Newspaper.</i></lightpurple> Retrieved from <orange><url href="http://www.newspaper-website.com"/>.</orange></p>
-                <p><red>Wells, P.</red> <lightgreen>(2016, July 26).</lightgreen> <lightblue>Pasquale Jones brings a little novelty to Little Italy.</lightblue> <lightpurple><i>The New York Times.</i></lightpurple> Retrieved from <orange><url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</orange></p>
-                <p>In-text: (Wells, 2016)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials.</red> <lightgreen>(Publication year, month day).</lightgreen> <lightblue>title of article.</lightblue> <lightpurple><booktitle>Name of Newspaper.</booktitle></lightpurple> Retrieved from <orange><url href="http://www.newspaper-website.com"/>.</orange></p>
+            <p indent="hanging"><red>Wells, P.</red> <lightgreen>(2016, July 26).</lightgreen> <lightblue>Pasquale Jones brings a little novelty to Little Italy.</lightblue> <lightpurple><booktitle>The New York Times.</booktitle></lightpurple> Retrieved from <orange><url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</orange></p>
+            <p>In-text: (Wells, 2016)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <lightpurple><i>Name of Newspaper,</i></lightpurple> <lightgreen>Publication month day, year.</lightgreen> Accessed <navy>Date of access.</navy> <orange><url href="http://www.newspaper-website.com"/>.</orange></p>
-                <p><red>Wells, Pete.</red> <lightblue><q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></lightblue> <lightpurple><i>The New York Times,</i></lightpurple> <lightgreen>July 26, 2016.</lightgreen> Accessed <navy>July 27, 2016.</navy> <orange><url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</orange></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <lightpurple><booktitle>Name of Newspaper,</booktitle></lightpurple> <lightgreen>Publication month day, year.</lightgreen> Accessed <navy>Date</navy>. <orange><url href="http://www.newspaper-website.com"/>.</orange></p>
+            <p indent="hanging"><red>Wells, Pete.</red> <lightblue><q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></lightblue> <lightpurple><booktitle>The New York Times,</booktitle></lightpurple> <lightgreen>July 26, 2016.</lightgreen> Accessed <navy>July 27, 2016.</navy> <orange><url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</orange></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Pete Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy,</q> <i>The New York Times,</i> July 26, 2016, accessed July 27, 2016, <url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Pete Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy,</q> <booktitle>The New York Times,</booktitle> July 26, 2016, accessed July 27, 2016, <url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining"/>.</fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>Wells, <q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <orange>URL/publisher of site.</orange> <lightpurple><i>Name of Newspaper,</i></lightpurple> <lightgreen>Publication month day, year.</lightgreen> <teal>Medium.</teal> Accessed <navy>Date of access.</navy></p>
-                <p><red>Wells, Pete.</red> <lightblue><q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></lightblue> <orange><url href="Nytimes.com"/>.</orange> <lightpurple><i>The New York Times,</i></lightpurple> <lightgreen>July 26, 2016.</lightgreen> <teal>Website.</teal> Accessed <navy>July 27, 2016.</navy></p>
-                <p>In-text: (Wells)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><q>Title of Article.</q></lightblue> <orange>URL/publisher of site.</orange> <lightpurple><booktitle>Name of Newspaper,</booktitle></lightpurple> <lightgreen>Publication month day, year.</lightgreen> <teal>Medium.</teal> Accessed <navy>Date of access.</navy></p>
+            <p indent="hanging"><red>Wells, Pete.</red> <lightblue><q>Pasquale Jones Brings a Little Novelty to Little Italy.</q></lightblue> <orange><url href="Nytimes.com"/>.</orange> <lightpurple><booktitle>The New York Times,</booktitle></lightpurple> <lightgreen>July 26, 2016.</lightgreen> <teal>Website.</teal> Accessed <navy>July 27, 2016.</navy></p>
+            <p>In-text: (Wells)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="entry-in-encyclopedia">
         <title>Entry in an Encyclopedia</title>
         <introduction>
             <sidebyside width="50%">
@@ -424,36 +505,28 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author 1 last name, first initial., <ampersand/> Author 2 last name, first initial.</red> <lightgreen>(Publication year).</lightgreen> <lightblue>Title of Entry.</lightblue> <green>In <i>Encyclopedia Name.</i></green> (Vol. <darkred>volume number,</darkred> <blue>page range).</blue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p><red>Hashimoto, Y., <ampersand/> Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein-coupled receptor.</lightblue> <green>In <i>Encyclopedia of Neuroscience.</i></green> <darkred>(Vol. 2, </darkred><blue>pp. 1655<ndash/>1659).</blue> <maroon>Berlin:</maroon> <lightpurple>Springer.</lightpurple></p>
-                <p>In-text: (Hasimoto <ampersand/> Haga, 2009)</p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, initials., <ampersand/> Author 2 last name, initials.</red> <lightgreen>(Publication year).</lightgreen> <lightblue>Title of Entry.</lightblue> <green>In <booktitle>Encyclopedia Name.</booktitle></green> (Vol. <darkred>volume number,</darkred> <blue>page range).</blue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
+            <p indent="hanging"><red>Hashimoto, Y., <ampersand/> Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein-coupled receptor.</lightblue> <green>In <booktitle>Encyclopedia of Neuroscience.</booktitle></green> <darkred>(Vol. 2, </darkred><blue>pp. 1655<ndash/>1659).</blue> <maroon>Berlin:</maroon> <lightpurple>Springer.</lightpurple></p>
+            <p>In-text: (Hashimoto <ampersand/> Haga, 2009)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><q>Title of Article.</q></lightblue> In <green><i>Encyclopedia Name.</i></green> <darkred>Volume number.</darkred> Edited by Editor 1 first name last name, Editor 2 first name last name, and Editor 3 first name last name. <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Publication year.</lightgreen></p>
-                <p><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein-Coupled Receptor.</q></lightblue> In <green><i>Encyclopedia of Neuroscience.</i></green> <darkred>2nd vol.</darkred> Edited by Marc D. Binder, Nobutaka Hirokawa, and Uwe Windhorst. <maroon>Berlin:</maroon> <lightpurple>Springer,</lightpurple> <lightgreen>2009.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><q>Title of Article.</q></lightblue> In <green><booktitle>Encyclopedia Name.</booktitle></green> <darkred>Volume number.</darkred> Edited by Editor 1 first name last name, Editor 2 first name last name, and Editor 3 first name last name. <maroon>City of Publication:</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Publication year.</lightgreen></p>
+            <p indent="hanging"><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein-Coupled Receptor.</q></lightblue> In <green><booktitle>Encyclopedia of Neuroscience.</booktitle></green> <darkred>2nd vol.</darkred> Edited by Marc D. Binder, Nobutaka Hirokawa, and Uwe Windhorst. <maroon>Berlin:</maroon> <lightpurple>Springer,</lightpurple> <lightgreen>2009.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Yuichi Hashimoto and Tatsuya Haga, <q>G. Protein-Coupled Receptor,</q> in Encyclopedia of Neuroscience. 2nd vol. ed. Marc Binder, Nobutaka Hirokawa, and Uwe Windhorst, (Berlin: Springer, 2003), s.v. <q>g-coupled protein receptor.</q></fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>Hasimoto and Haga, <q>G. Protein-Coupled Receptor.</q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Yuichi Hashimoto and Tatsuya Haga, <q>G. Protein-Coupled Receptor,</q> in Encyclopedia of Neuroscience. 2nd vol. ed. Marc Binder, Nobutaka Hirokawa, and Uwe Windhorst, (Berlin: Springer, 2003), s.v. <q>g-coupled protein receptor.</q></fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>Hashimoto and Haga, <q>G. Protein-Coupled Receptor.</q></fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><q>Title of Article.</q></lightblue> <green><i>Encyclopedia Name.</i></green> <darkred>Edition (if any).</darkred> <lightgreen>Date of edition.</lightgreen> <teal>Medium.</teal></p>
-                <p><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein-Coupled Receptor.</q></lightblue> <green><i>Encyclopedia of Neuroscience.</i></green> <lightgreen>2009.</lightgreen> <teal>Print.</teal></p>
-                <p>In-text: (Hasimoto and Haga)</p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><q>Title of Article.</q></lightblue> <green><booktitle>Encyclopedia Name.</booktitle></green> <darkred>Edition (if any).</darkred> <lightgreen>Date of edition.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein-Coupled Receptor.</q></lightblue> <green><booktitle>Encyclopedia of Neuroscience.</booktitle></green> <lightgreen>2009.</lightgreen> <teal>Print.</teal></p>
+            <p>In-text: (Hashimoto and Haga)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="lecture">
         <title>Lecture</title>
         <introduction>
             <sidebyside width="50%">
@@ -462,36 +535,28 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Lecturer last name, first initial.</red> <lightgreen>(Year, Month Day).</lightgreen> <lightblue><i>Title of Lecture.</i></lightblue> <teal>Medium</teal> at <maroon>conference location, city, state/country.</maroon></p>
-                <p><red>O'Neil, K.</red> <lightgreen>(2016, July 9).</lightgreen> <lightblue><i>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience.</i></lightblue> <teal>Lecture</teal> at <maroon>European Writing Center Association Conference, University of Łódź, Łódź, Poland.</maroon></p>
-                <p>In-text: (O'Neil, 2016)</p>
-            </example>
+            <p indent="hanging"><red>Lecturer last name, initials.</red> <lightgreen>(Year, Month Day).</lightgreen> <lightblue><booktitle>Title of lecture.</booktitle></lightblue> <teal>Medium</teal> at the <maroon>conference name, city, state/country.</maroon></p>
+            <p indent="hanging"><red>O'Neil, K.</red> <lightgreen>(2016, July 9).</lightgreen> <lightblue><booktitle>Talking small, thinking big: The influence of external rapport and solidarity on construction of the collaborative writing center experience.</booktitle></lightblue> <teal>Lecture</teal> at <maroon>the European Writing Center Association Conference, Łódź, Poland.</maroon></p>
+            <p>In-text: (O'Neil, 2016)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Lecturer last name, first name.</red> <lightblue><q>Title of Lecture.</q></lightblue> <teal>Medium</teal> at <maroon>conference location, city, state/country.</maroon> <lightgreen>Month day, year.</lightgreen></p>
-                <p><red>O'Neil, Kieran.</red> <lightblue><q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience.</q></lightblue> <teal>Lecture</teal> at <maroon>European Writing Center Association Conference, University of Łódź, Łódź, Poland.</maroon> <lightgreen>July 9, 2016.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Lecturer last name, first name.</red> <lightblue><q>Title of Lecture.</q></lightblue> <teal>Medium</teal> at <maroon>conference location, city, state/country.</maroon> <lightgreen>Month day, year.</lightgreen></p>
+            <p indent="hanging"><red>O'Neil, Kieran.</red> <lightblue><q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience.</q></lightblue> <teal>Lecture</teal> at <maroon>European Writing Center Association Conference, University of Łódź, Łódź, Poland.</maroon> <lightgreen>July 9, 2016.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Kieran O'Neil, <q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience,</q> (lecture, European Writing Center Association Conference, University of Łódź, Łódź, Poland, July 9, 2016).</fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>O'Neil, <q>Talking Small, Thinking Big.</q></fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Kieran O'Neil, <q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience,</q> (lecture, European Writing Center Association Conference, University of Łódź, Łódź, Poland, July 9, 2016).</fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>O'Neil, <q>Talking Small, Thinking Big.</q></fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Lecturer last name, first name.</red> <lightblue><q>Title of Lecture.</q></lightblue> <gray>Sponsor organization.</gray> <maroon>Location.</maroon> <lightgreen>Day Month year.</lightgreen> <teal>Medium.</teal></p>
-                <p><red>O'Neil, Kieran.</red> <lightblue><q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience.</q></lightblue> <gray>European Writing Center Association.</gray> <maroon>University of Łódź, Łódź, Poland.</maroon> <lightgreen>9 July 2016.</lightgreen> <teal>Lecture.</teal></p>
-                <p>In-text: (O'Neil)</p>
-            </example>
+            <p indent="hanging"><red>Lecturer last name, first name.</red> <lightblue><q>Title of Lecture.</q></lightblue> <gray>Sponsor organization.</gray> <maroon>Location.</maroon> <lightgreen>Day Month year.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>O'Neil, Kieran.</red> <lightblue><q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience.</q></lightblue> <gray>European Writing Center Association.</gray> <maroon>University of Łódź, Łódź, Poland.</maroon> <lightgreen>9 July 2016.</lightgreen> <teal>Lecture.</teal></p>
+            <p>In-text: (O'Neil)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="film">
         <title>Film</title>
         <introduction>
             <sidebyside width="50%">
@@ -500,36 +565,28 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Director last name, first initial.</red> <gray>(Director),</gray> <ampersand/> <red>Producer last name, first initial.</red> <gray>(Producer).</gray> <lightgreen>(Year).</lightgreen> <lightblue><i>Title of Film</i></lightblue> <teal>[Format viewed on: Motion picture or DVD or videocassette].</teal> <maroon>Country of origin:</maroon> <purple>Studio.</purple></p>
-                <p><red>Iñárritu, A.</red> <gray>(Director),</gray> <ampersand/> <red>Barmettler, M.</red> <gray>(Producer).</gray> <lightgreen>(2015).</lightgreen> <lightblue><i>The Revenant</i></lightblue> <teal>[Motion picture].</teal> <maroon>United States:</maroon> <purple>20th Century Fox.</purple></p>
-                <p>In-text: (Iñárritu, 2015)</p>
-            </example>
+            <p indent="hanging"><red>Producer last name, initials.</red> (<gray>Producer</gray>), <ampersand/> <red>Director last name, initials.</red> (<gray>Director</gray>). (<lightgreen>Year</lightgreen>). <lightblue><booktitle>Title of film</booktitle></lightblue> [<teal>Format viewed on: Motion picture</teal>]. <maroon>Country of origin</maroon>: <purple>Studio</purple>.</p>
+            <p indent="hanging"><red>Barmettler, M.</red> (<gray>Producer</gray>), <ampersand/> <red>Iñárritu, A.</red> (<gray>Director</gray>). (<lightgreen>2015</lightgreen>). <lightblue><booktitle>The Revenant</booktitle></lightblue> [<teal>Motion picture</teal>]. <maroon>United States</maroon>: <purple>20th Century Fox</purple>.</p>
+            <p>In-text: (Barmettler, 2015)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p>Actor 1 last name, first name, and Actor 2 first name last name. <lightblue><i>Title of Film.</i></lightblue> <teal>Format.</teal> Directed by <red>Director first name last name.</red> <lightgreen>Year of original release;</lightgreen> <maroon>city, state/country:</maroon> <purple>Distributor,</purple> <lightgreen>distribution year.</lightgreen></p>
-                <p>DiCaprio, Leonardo, and Tom Hardy.<lightblue><i>The Revenant.</i></lightblue> <teal>Motion picture.</teal> Directed by <red>Alejandro G. Iñárritu.</red> <lightgreen>2015;</lightgreen> <maroon>Los Angeles, CA:</maroon> <purple>20th Century Fox,</purple> <lightgreen>2015.</lightgreen></p>
-            </example>
+            <p indent="hanging">Actor 1 last name, first name, and Actor 2 first name last name. <lightblue><booktitle>Title of Film.</booktitle></lightblue> <teal>Format.</teal> Directed by <red>Director first name last name.</red> <lightgreen>Year of original release;</lightgreen> <maroon>city, state/country:</maroon> <purple>Distributor,</purple> <lightgreen>distribution year.</lightgreen></p>
+            <p indent="hanging">DiCaprio, Leonardo, and Tom Hardy.<lightblue><booktitle>The Revenant.</booktitle></lightblue> <teal>Motion picture.</teal> Directed by <red>Alejandro G. Iñárritu.</red> <lightgreen>2015;</lightgreen> <maroon>Los Angeles, CA:</maroon> <purple>20th Century Fox,</purple> <lightgreen>2015.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant, directed by Alejandro G. Iñárritu (2015; Los Angeles, CA: 20th Century Fox, 2015), motion picture.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant, directed by Alejandro G. Iñárritu (2015; Los Angeles, CA: 20th Century Fox, 2015), motion picture.</fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>Leonardo DiCaprio and Tom Hardy, The Revenant.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><lightblue><i>Title of Film.</i></lightblue> Dir. <red>Director first name last name.</red> Perf. <gray>Major Performer 1 first name last name, Major Performer 2 first name last name.</gray> <purple>Distributor,</purple> <lightgreen>distribution year.</lightgreen> <teal>Medium.</teal></p>
-                <p><lightblue><i>The Revenant.</i></lightblue> Dir. <red>Alejandro G. Iñárritu.</red> Perf. <gray>Leonardo DiCaprio, Tom Hardy.</gray> <purple>20th Century Fox,</purple> <lightgreen>2015.</lightgreen> <teal>Film.</teal></p>
-                <p>In-text: (Iñárritu)</p>
-            </example>
+            <p indent="hanging"><lightblue><booktitle>Title of Film.</booktitle></lightblue> Dir. <red>Director first name last name.</red> Perf. <gray>Major Performer 1 first name last name, Major Performer 2 first name last name.</gray> <purple>Distributor,</purple> <lightgreen>distribution year.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><lightblue><booktitle>The Revenant.</booktitle></lightblue> Dir. <red>Alejandro G. Iñárritu.</red> Perf. <gray>Leonardo DiCaprio, Tom Hardy.</gray> <purple>20th Century Fox,</purple> <lightgreen>2015.</lightgreen> <teal>Film.</teal></p>
+            <p>In-text: (Iñárritu)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="music-performance">
         <title>Music Performance</title>
         <introduction>
             <sidebyside width="50%">
@@ -538,36 +595,26 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><lightblue><i>Title of performance.</i></lightblue> <lightgreen>(Date of performance).</lightgreen> <teal>Performance medium</teal> at <maroon>location, city.</maroon></p>
-                <p><lightblue><i>Symphony No. 9.</i></lightblue> <lightgreen>(2016, July 29).</lightgreen> <teal>Live performance</teal> at <maroon>Schneebeck Concert Hall, Tacoma.</maroon></p>
-                <p>In-Text: (Symphony No. 9, 2016)</p>
-            </example>
+            <p><init>APA</init> does not provide a formal citation for music performances.</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author of performed work last name, first name.</red> <lightblue><i>Title of performed work.</i></lightblue> Cond. <gray>Conductor first name last name.</gray> <maroon>Location, city, state/country,</maroon> <lightgreen>date of performance.</lightgreen></p>
-                <p><red>Beethoven, Ludwig van.</red> <lightblue><i>Symphony No. 9.</i></lightblue> Cond. <gray>Wesley Schultz.</gray> <maroon>Schneebeck Concert Hall, Tacoma, WA,</maroon> <lightgreen>July 29, 2016.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Author of performed work last name, first name.</red> <lightblue><booktitle>Title of performed work.</booktitle></lightblue> Cond. <gray>Conductor first name last name.</gray> <maroon>Location, city, state/country,</maroon> <lightgreen>date of performance.</lightgreen></p>
+            <p indent="hanging"><red>Beethoven, Ludwig van.</red> <lightblue><booktitle>Symphony No. 9.</booktitle></lightblue> Cond. <gray>Wesley Schultz.</gray> <maroon>Schneebeck Concert Hall, Tacoma, WA,</maroon> <lightgreen>July 29, 2016.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>L. Beethoven, Symphony No. 9, conducted by Wesley Schultz, Schneebeck Concert Hall, Tacoma, Wa, July 29, 2016.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>L. Beethoven, Symphony No. 9.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>L. Beethoven, Symphony No. 9, conducted by Wesley Schultz, Schneebeck Concert Hall, Tacoma, Wa, July 29, 2016.</fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>L. Beethoven, Symphony No. 9.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><lightblue><i>Title of work performed.</i></lightblue> By <red>Author or composer first name last name.</red> Cond. <gray>Director/conductor/choreographor/performer first name last name.</gray> Perf. <purple>Orchestra/theatre/company.</purple> <maroon>Theatre, city.</maroon> <lightgreen>Date of performance.</lightgreen> <teal>Medium.</teal></p>
-                <p><lightblue><i>Symphony No. 9.</i></lightblue> By <red>Ludwig van Beethoven.</red> Cond. <gray>Wesley Schultz.</gray> Perf. <purple>University of Puget Sound Orchestra.</purple> <maroon>Schneebeck Concert Hall, Tacoma.</maroon> <lightgreen>29 July 2016.</lightgreen> <teal>Performance.</teal></p>
-                <p>In-text: (Beethoven)</p>
-            </example>
+            <p indent="hanging"><lightblue><booktitle>Title of work performed.</booktitle></lightblue> By <red>Author or composer first name last name.</red> Cond. <gray>Director/conductor/choreographor/performer first name last name.</gray> Perf. <purple>Orchestra/theater/company.</purple> <maroon>Theater, city.</maroon> <lightgreen>Date of performance.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><lightblue><booktitle>Symphony No. 9.</booktitle></lightblue> By <red>Ludwig van Beethoven.</red> Cond. <gray>Wesley Schultz.</gray> Perf. <purple>University of Puget Sound Orchestra.</purple> <maroon>Schneebeck Concert Hall, Tacoma.</maroon> <lightgreen>29 July 2016.</lightgreen> <teal>Performance.</teal></p>
+            <p>In-text: (Beethoven)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="music-recording">
         <title>Music Recording</title>
         <introduction>
             <sidebyside width="50%">
@@ -576,34 +623,28 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Artist last name, first initial.</red> <lightgreen>(Year).</lightgreen> <lightblue>Title of Track.</lightblue> On <gray><i>Album name</i></gray> <teal>[Medium].</teal> <maroon>City of publication, state/country:</maroon> <purple>Manufacturer.</purple></p>
-                <p><red>Hornsby, B.</red> <lightgreen>(2004).</lightgreen> <lightblue>Dreamland.</lightblue> On <gray><i>Halcyon Days</i></gray> <teal>[CD].</teal> <maroon>New York City, NY:</maroon> <purple>Columbia Records.</purple></p>
-                <p>In-Text: (Hornsby, 2004)</p>
-            </example>
+            <p indent="hanging"><red>Artist last name, initials.</red> <lightgreen>(Year).</lightgreen> <lightblue>Title of Track.</lightblue> On <gray><booktitle>Album name</booktitle></gray> <teal>[Medium].</teal> <maroon>City of publication, state/country:</maroon> <purple>Manufacturer.</purple></p>
+            <p indent="hanging"><red>Hornsby, B.</red> <lightgreen>(2004).</lightgreen> <lightblue>Dreamland.</lightblue> On <gray><booktitle>Halcyon Days</booktitle></gray> <teal>[CD].</teal> <maroon>New York City, NY:</maroon> <purple>Columbia Records.</purple></p>
+            <p>In-Text: (Hornsby, 2004)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Artist last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <gray><i>Album.</i></gray> <purple>Manufacturer</purple> <gray>Number of Recording,</gray> <lightgreen>Year,</lightgreen> <teal>medium.</teal></p>
-                <p><red>Hornsby, Bruce.</red> <lightblue><q>Dreamland.</q></lightblue> <gray><i>Halcyon Days.</i></gray> <purple>Columbia Records</purple> <gray><hash/><hash/><hash/><hash/><hash/>,</gray> <lightgreen>2004,</lightgreen> <teal>compact disc.</teal></p>
-            </example>
+            <p indent="hanging"><red>Artist last name, first name.</red> <lightblue><q>Title of Work.</q></lightblue> <gray><booktitle>Album.</booktitle></gray> <purple>Manufacturer</purple> <gray>Number of Recording,</gray> <lightgreen>Year,</lightgreen> <teal>medium.</teal></p>
+            <p indent="hanging"><red>Hornsby, Bruce.</red> <lightblue><q>Dreamland.</q></lightblue> <gray><booktitle>Halcyon Days.</booktitle></gray> <purple>Columbia Records</purple> <gray>CK92652,</gray> <lightgreen>2004,</lightgreen> <teal>compact disc.</teal></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Bruce Hornsby,</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Bruce Hornsby, <q>Dreamland,</q> <booktitle>Halcyon Days.</booktitle>, Columbia Records CK92652, 2004, compact disk.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Artist last name, first name.</red> <lightblue><q>Title of Recording.</q></lightblue> <gray><i>Album.</i></gray> <purple>Manufacturer,</purple> <lightgreen>Year of publication.</lightgreen> <teal>Medium.</teal></p>
-                <p><red>Hornsby, Bruce.</red> <lightblue><q>Dreamland.</q></lightblue> <gray><i>Halcyon Days.</i></gray> <purple>Columbia Records,</purple> <lightblue>2004.</lightblue> <teal>CD.</teal></p>
-                <p>In-Text: (Hornsby)</p>
-            </example>
+            <p indent="hanging"><red>Artist last name, first name.</red> <lightblue><q>Title of Recording.</q></lightblue> <gray><booktitle>Album.</booktitle></gray> <purple>Manufacturer,</purple> <lightgreen>Year of publication.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Hornsby, Bruce.</red> <lightblue><q>Dreamland.</q></lightblue> <gray><booktitle>Halcyon Days.</booktitle></gray> <purple>Columbia Records,</purple> <lightblue>2004.</lightblue> <teal>CD.</teal></p>
+            <p>In-Text: (Hornsby)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="artwork">
         <title>Artwork</title>
         <introduction>
             <sidebyside width="50%">
@@ -612,43 +653,37 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Artist last name, first initial.</red> <lightgreen>(Year of composition).</lightgreen> <lightblue><i>Title of work</i></lightblue> <teal>[medium of composition].</teal> <purple>Institution,</purple> <maroon>City.</maroon></p>
-                <p><red>di Lodovico Buonarroti Simoni, M.</red> <lightgreen>(1504).</lightgreen> <lightblue><i>David</i></lightblue> <teal>[Carrara marble].</teal> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence.</maroon></p>
-                <p>In-Text: (di Lodovico Buonarroti Simoni, 1504)</p>
-            </example>
+            <p indent="hanging"><red>Artist last name, initials.</red> <lightgreen>(Year of composition).</lightgreen> <lightblue><booktitle>Title of work</booktitle></lightblue> <teal>[medium of composition].</teal> <maroon>City:</maroon> <purple>Institution.</purple></p>
+            <p indent="hanging"><red>Buonarroti, M.</red> <lightgreen>(1504).</lightgreen> <lightblue><booktitle>David</booktitle></lightblue> <teal>[Carrara marble sculpture].</teal> <maroon>Florence, Italy:</maroon> <purple>Accademia di Belle Arti di Firenze.</purple></p>
+            <p>In-Text: (di Lodovico Buonarroti Simoni, 1504)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Artist last name, first name.</red> <lightblue><i>Title of work.</i></lightblue> <teal>Medium,</teal> <lightgreen>date of composition.</lightgreen> <purple>Institution,</purple> <maroon>City, State/Country.</maroon></p>
-                <p><red>di Lodovico Buonarroti Simoni, Michelangelo.</red> <lightblue><i>David.</i></lightblue> <teal>Carrara marble,</teal> <lightgreen>1504.</lightgreen> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence, Italy.</maroon></p>
-            </example>
+            <p indent="hanging"><red>Artist last name, first name.</red> <lightblue><booktitle>Title of work.</booktitle></lightblue> <teal>Medium,</teal> <lightgreen>date of composition.</lightgreen> <purple>Institution,</purple> <maroon>City, State/Country.</maroon></p>
+            <p indent="hanging"><red>Michelangelo.</red> <lightblue><booktitle>David.</booktitle></lightblue> <teal>Carrara marble sculpture,</teal> <lightgreen>1504.</lightgreen> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence, Italy.</maroon></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Michelangelo di Lodovico Buonarroti Simoni, David, Carrara marble, 1504, Accademia di Belle Arti di Firenze, Florence, Italy.</fn></p>
-                <p>Consecutive appearances.<fn>Ibid.</fn></p>
-                <p>Non-consecutive appearances.<fn>di Lodovico Buonarroti Simoni, David.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Michelangelo, David, Carrara marble sculpture, 1504, Accademia di Belle Arti di Firenze, Florence, Italy.</fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>di Lodovico Buonarroti Simoni, David.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
+            <subsubsection>
                 <title>Artwork viewed in person</title>
-                <p><red>Artist last name, first name.</red> <lightblue><i>Title of work.</i></lightblue> <lightgreen>Date of composition.</lightgreen> <teal>Medium of composition.</teal> <purple>Institution,</purple> <maroon>City.</maroon></p>
-                <p><red>di Lodovico Buonarroti Simoni, Michelangelo.</red> <lightblue><i>David.</i></lightblue> <lightgreen>1504.</lightgreen> <teal>Carrara marble.</teal> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence.</maroon></p>
+                <p indent="hanging"><red>Artist last name, first name.</red> <lightblue><booktitle>Title of work.</booktitle></lightblue> <lightgreen>Date of composition.</lightgreen> <teal>Medium of composition.</teal> <purple>Institution,</purple> <maroon>City.</maroon></p>
+                <p indent="hanging"><red>di Lodovico Buonarroti Simoni, Michelangelo.</red> <lightblue><booktitle>David.</booktitle></lightblue> <lightgreen>1504.</lightgreen> <teal>Carrara marble.</teal> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence.</maroon></p>
                 <p>In-text: (di Lodovico Buonarroti Simoni)</p>
-            </example>
-            <example>
+            </subsubsection>
+            <subsubsection>
                 <title>Artwork viewed online</title>
-                <p><red>Artist last name, first name.</red> <lightblue><i>Title of work.</i></lightblue> <lightgreen>Date of composition.</lightgreen> <purple>Institution,</purple> <maroon>City.</maroon> <darkgreen>Title of website.</darkgreen> <teal>Medium.</teal> <navy>Date of access: Day Month Year.</navy></p>
-                <p><red>di Lodovico Buonarroti Simoni, Michelangelo.</red> <lightblue><i>David.</i></lightblue> <lightgreen>1504.</lightgreen> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence.</maroon> <darkgreen>Accademia: Guide to the Accademia Gallery in Florence.</darkgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
+                <p indent="hanging"><red>Artist last name, first name.</red> <lightblue><booktitle>Title of work.</booktitle></lightblue> <lightgreen>Date of composition.</lightgreen> <purple>Institution,</purple> <maroon>City.</maroon> <darkgreen>Title of website.</darkgreen> <teal>Medium.</teal> <navy>Date of access: Day Month Year.</navy></p>
+                <p indent="hanging"><red>di Lodovico Buonarroti Simoni, Michelangelo.</red> <lightblue><booktitle>David.</booktitle></lightblue> <lightgreen>1504.</lightgreen> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence.</maroon> <darkgreen>Accademia: Guide to the Accademia Gallery in Florence.</darkgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
                 <p>In-text: (di Lodovico Buonarroti Simoni)</p>
-            </example>
+            </subsubsection>
         </subsection>
     </section>
-    <section>
+    <section xml:id="government-document">
         <title>Government Document</title>
         <introduction>
             <sidebyside width="50%">
@@ -657,34 +692,27 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Organization or Author last name, first initial.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue><i>Title of document.</i></lightblue> Retrieved from <darkgreen>website name:</darkgreen> <orange><url href="http://www.website-url.com"/>.</orange></p>
-                <p><red>Environmental Protection Agency.</red> <lightgreen>(2014).</lightgreen> <lightblue><i>Climate Change Indicators in the United States.</i></lightblue> Retrieved from <darkgreen>Environmental Protection Agency website:</darkgreen> <orange>https://www3.epa.gov/climatechange/science/indicators/download.html.</orange></p>
-            </example>
+            <p indent="hanging"><red>Organization or Author last name, initials.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue><booktitle>Title of document.</booktitle></lightblue> Retrieved from <darkgreen>website name:</darkgreen> <orange><url href="http://www.website-url.com"/>.</orange></p>
+            <p indent="hanging"><red>Environmental Protection Agency.</red> <lightgreen>(2014).</lightgreen> <lightblue><booktitle>Climate Change Indicators in the United States.</booktitle></lightblue> Retrieved from <darkgreen>Environmental Protection Agency website:</darkgreen> <orange>https://www3.epa.gov/climatechange/science/indicators/download.html.</orange></p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><gray>Country. Agency.</gray> <lightblue><i>Title of document.</i></lightblue> By <red>Author first name last name.</red> <lightpink>Edition (if any).</lightpink> <maroon>Place of publication:</maroon> <purple>Publisher,</purple> <lightgreen>date.</lightgreen></p>
-                <p><gray>U.S. Environmental Protection Agency.</gray> <lightblue><i>Climate Change Indicators in the United States.</i></lightblue> By <red>Environmental Protection Agency.</red> <maroon>Washington, DC:</maroon> <purple>GPO,</purple> <lightgreen>2014.</lightgreen></p>
-            </example>
+            <p indent="hanging"><gray>Country. Agency.</gray> <lightblue><booktitle>Title of document.</booktitle></lightblue> By <red>Author first name last name.</red> <lightpink>Edition (if any).</lightpink> <maroon>Place of publication:</maroon> <purple>Publisher,</purple> <lightgreen>date.</lightgreen></p>
+            <p indent="hanging"><gray>U.S. Environmental Protection Agency.</gray> <lightblue><booktitle>Climate Change Indicators in the United States.</booktitle></lightblue> By <red>Environmental Protection Agency.</red> <maroon>Washington, D.C.:</maroon> <purple>GPO,</purple> <lightgreen>2014.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>U.S. Environmental Protection Agency, Climate Change Indicators in the United States, (Washington, DC: GPO, 2014), 25.</fn></p>
-                <p>Non-consecutive appearances.<fn>U.S. EPA, Climate Change, 36.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>U.S. Environmental Protection Agency, Climate Change Indicators in the United States, (Washington, D.C.: GPO, 2014), 25.</fn> Nonconsecutive appearances.<fn>U.S. EPA, Climate Change, 36.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><gray>Government. Department (if any). Agency (if any).</gray> <lightblue><i>Title of document.</i></lightblue> <darkgreen><i>Website title.</i></darkgreen> <purple>Publisher,</purple> <lightgreen>publication date.</lightgreen> <teal>Medium.</teal> <navy>Date of access.</navy></p>
-                <p><gray>United States. Environmental Protection Agency.</gray> <lightblue><i>Climate Change Indicators in the United States.</i></lightblue> <darkgreen><i>Environmental Protection Agency.</i></darkgreen> <purple>Environmental Protection Agency,</purple> <lightgreen>2014.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
-                <p>In-Text: (U.S. Environmental Protection Agency)</p>
-            </example>
+            <p indent="hanging"><gray>Government. Department (if any). Agency (if any).</gray> <lightblue><booktitle>Title of document.</booktitle></lightblue> <darkgreen><booktitle>Website title.</booktitle></darkgreen> <purple>Publisher,</purple> <lightgreen>publication date.</lightgreen> <teal>Medium.</teal> <navy>Date of access.</navy></p>
+            <p indent="hanging"><gray>United States. Environmental Protection Agency.</gray> <lightblue><booktitle>Climate Change Indicators in the United States.</booktitle></lightblue> <darkgreen><booktitle>Environmental Protection Agency.</booktitle></darkgreen> <purple>Environmental Protection Agency,</purple> <lightgreen>2014.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
+            <p>In-Text: (U.S. Environmental Protection Agency)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="graphic-novel">
         <title>Graphic Novel</title>
         <introduction>
             <sidebyside width="50%">
@@ -693,35 +721,28 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author 1 last name, first initial, <ampersand/> Author 2 last name, first initial,</red> <lightgreen>(Year).</lightgreen> <lightblue><i>Title of work.</i></lightblue> <maroon>City, State/Country:</maroon> <purple>Publisher.</purple></p>
-                <p><red>Gibbons, D., <ampersand/> Moore, A.,</red> <lightgreen>(1986).</lightgreen> <lightblue><i>Watchmen, No. 1.</i></lightblue> <maroon>New York, NY:</maroon> <purple>DC Comics.</purple></p>
-                <p>In-Text: (Gibbons <ampersand/> Moore, 1986, p. 1)</p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, initials , <ampersand/> Author 2 last name, initials,</red> <lightgreen>(Year).</lightgreen> <lightblue><booktitle>Title of work.</booktitle></lightblue> <maroon>City, State/Country:</maroon> <purple>Publisher.</purple></p>
+            <p indent="hanging"><red>Moore, A., <ampersand/> Gibbons, D.,</red> <lightgreen>(1986).</lightgreen> <lightblue><booktitle>Watchmen, No. 1.</booktitle></lightblue> <maroon>New York, NY:</maroon> <purple>DC Comics.</purple></p>
+            <p>In-Text: (Moore <ampersand/> Gibbons, 1986, p. 1)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><i>Title of work,</i></lightblue> <darkred><i>vol. number.</i></darkred> (<purple>Publisher:</purple> <lightgreen>Date of publication</lightgreen>), <blue>page range.</blue></p>
-                <p><red>Gibbons, Dave, and Alan Moore.</red> <lightblue><i>Watchmen,</i></lightblue> <darkred><i>No. 1.</i></darkred> (<purple>DC Comics:</purple> <lightgreen>September, 1986</lightgreen>), <blue>24<ndash/>27.</blue></p>
-            </example>
+            <p indent="hanging"><red>Author 1 last name, first name, and Author 2 first name last name.</red> <lightblue><booktitle>Title of work,</booktitle></lightblue> <darkred><booktitle>vol. number.</booktitle></darkred> (<purple>Publisher:</purple> <lightgreen>Date of publication</lightgreen>), <blue>page range.</blue></p>
+            <p indent="hanging"><red>Gibbons, Dave, and Alan Moore.</red> <lightblue><booktitle>Watchmen,</booktitle></lightblue> <darkred><booktitle>No. 1.</booktitle></darkred> (<purple>DC Comics:</purple> <lightgreen>September, 1986</lightgreen>), <blue>24<ndash/>27.</blue></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Gibbons, Dave, and Alan Moore. <i>Watchmen, No. 1.</i> (DC Comics: September, 1986), 24<ndash/>27.</fn></p>
-                <p>Non-consecutive appearances.<fn>Gibbons and Moore, <i>Watchmen</i>, 24<ndash/>27.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Gibbons, Dave, and Alan Moore. <booktitle>Watchmen, No. 1.</booktitle> (DC Comics: September, 1986), 24<ndash/>27.</fn> Nonconsecutive appearances.<fn>Gibbons and Moore, <booktitle>Watchmen</booktitle>, 24<ndash/>27.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
-                <p><red>Main author last name, first name,</red> abbreviated role. <lightblue><i>Title of work.</i></lightblue> By <red>other contributor's first name last name.</red> <maroon>City:</maroon> <purple>Publisher,</purple> <lightgreen>Year.</lightgreen> <teal>Medium.</teal></p>
-                <p><red>Gibbons, Dave,</red> art. <lightblue><i>Watchmen, No. 1.</i></lightblue> By <red>Alan Moore.</red> <maroon>New York:</maroon> <purple>DC Comics,</purple> <lightblue>1986.</lightblue> <teal>Print.</teal></p>
-                <p>In-Text: (Gibbons 1)</p>
-            </example>
+            <p indent="hanging"><red>Main author last name, first name,</red> abbreviated role. <lightblue><booktitle>Title of work.</booktitle></lightblue> Art by <red>other contributor's first name last name.</red> <maroon>City:</maroon> <purple>Publisher,</purple> <lightgreen>Year.</lightgreen> <teal>Medium.</teal></p>
+            <p indent="hanging"><red>Moore, Alan,</red> writer. <lightblue><booktitle>Watchmen, No. 1.</booktitle></lightblue> Art by <red>Dave Gibbons.</red> <maroon>New York:</maroon> <purple>DC Comics,</purple> <lightblue>1986.</lightblue> <teal>Print.</teal></p>
+            <p>In-Text: (Moore 1)</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="translation">
         <title>Translation</title>
         <introduction>
             <sidebyside width="50%">
@@ -730,60 +751,60 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <example>
-                <p><red>Author last name, first initial.</red> (<lightgreen>Date</lightgreen>). <lightblue><i>Title of work.</i></lightblue> (Translator first initial last name, Trans.). <maroon>City of publication, state abbreviation:</maroon> <purple>Publisher.</purple> (Original work published <lightgreen>Date of original work publication</lightgreen>).</p>
-                <p><red>Shikibu, M.</red> (<lightgreen>2001</lightgreen>). <lightblue><i>The Tale of Genji.</i></lightblue> (R. Tyler, Trans.). <maroon>New York, NY:</maroon> <purple>Penguin Books.</purple> (Original work published <lightgreen>circa 1021</lightgreen>).</p>
-                <p>In-Text: (Shikibu, 2001)</p>
-            </example>
+            <p indent="hanging"><red>Author last name, initials.</red> (<lightgreen>Date</lightgreen>). <lightblue><booktitle>Title of work.</booktitle></lightblue> (Translator initials last name, Trans.). <maroon>City of publication:</maroon> <purple>Publisher.</purple> (Original work published <lightgreen>Date of original work publication</lightgreen>).</p>
+            <p indent="hanging"><red>Shikibu, M.</red> (<lightgreen>2001</lightgreen>). <lightblue><booktitle>The Tale of Genji.</booktitle></lightblue> (R. Tyler, Trans.). <maroon>New York, NY:</maroon> <purple>Penguin Books.</purple> (Original work published <lightgreen>circa 1021</lightgreen>).</p>
+            <p>In-Text: (Shikibu, 2001)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
-            <example>
-                <p><red>Author last name, first name.</red> <lightblue><i>Title of work.</i></lightblue> Translated by Translator first name last name. <maroon>City of publication:</maroon> <purple>Publisher,</purple> <lightgreen>Date.</lightgreen></p>
-                <p><red>Shikibu, Murasaki.</red> <lightblue><i>The Tale of Genji.</i></lightblue> Translated by Royall Tyler. <maroon>New York:</maroon> <purple>Penguin Books,</purple> <lightgreen>2001.</lightgreen></p>
-            </example>
+            <p indent="hanging"><red>Author last name, first name.</red> <lightblue><booktitle>Title of work.</booktitle></lightblue> Translated by Translator first name last name. <maroon>City of publication:</maroon> <purple>Publisher,</purple> <lightgreen>Date.</lightgreen></p>
+            <p indent="hanging"><red>Shikibu, Murasaki.</red> <lightblue><booktitle>The Tale of Genji.</booktitle></lightblue> Translated by Royall Tyler. <maroon>New York:</maroon> <purple>Penguin Books,</purple> <lightgreen>2001.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Murasaki Shikibu, <i>The Tale of Genji,</i>, trans. Royall Tyler (New York: Penguin Books, 2001), 42.</fn></p>
-                <p>Non-consecutive appearances.<fn>Shikibu, <i>The Tale of Genji,</i> 42.</fn></p>
-                <p><em>For more information about how footnotes work, see Subsection 8.3.1.</em></p>
+                <p>First appearance.<fn>Murasaki Shikibu, <booktitle>The Tale of Genji,</booktitle>, trans. Royall Tyler (New York: Penguin Books, 2001), 42.</fn> Nonconsecutive appearances.<fn>Shikibu, <booktitle>The Tale of Genji,</booktitle> 42.</fn></p>
+                <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection>
             <title>MLA</title>
-            <example>
+            <subsubsection>
                 <title>If emphasizing work and original author</title>
-                <p><red>Author last name, first name.</red> <lightblue>Title of work.</lightblue> Translated by Translator first name last name, <purple>Publisher,</purple> <lightgreen>Date of publication.</lightgreen></p>
-                <p><red>Shikibu, Murasaki.</red> <lightblue>The Tale of Genji.</lightblue> Translated by Royall Tyler, <purple>Penguin Books,</purple> <lightgreen>2001.</lightgreen></p>
+                <p indent="hanging"><red>Author last name, first name.</red> <lightblue>Title of work.</lightblue> Trans. by Translator first name last name. City of Publication: <purple>Publisher,</purple> <lightgreen>Date of publication.</lightgreen></p>
+                <p indent="hanging"><red>Shikibu, Murasaki.</red> <lightblue>The Tale of Genji.</lightblue> Trans. by Royall Tyler. New York: <purple>Penguin Books,</purple> <lightgreen>2001.</lightgreen></p>
                 <p>In-Text: (Shikibu)</p>
-            </example>
-            <example>
+            </subsubsection>
+            <subsubsection>
                 <title>If emphasizing translation and translator (less common, and only if translation itself is being examined)</title>
-                <p>Translator last name, first name, translator. <lightblue>Title of work.</lightblue> By <red>Author first name last name,</red> <purple>Publisher,</purple> <lightgreen>Date.</lightgreen></p>
-                <p>Tyler, Royall, translator. <lightblue>The Tale of Genji.</lightblue> By <red>Murasaki Shikibu,</red> <purple>Penguin Books,</purple> <lightgreen>2001.</lightgreen></p>
-                <p>In-Text: (Royall)</p>
-            </example>
+                <p>Translator last name, first name, translator. <lightblue>Title of work.</lightblue> By <red>Author first name last name.</red> City of Publication: <purple>Publisher,</purple> <lightgreen>Date.</lightgreen></p>
+                <p>Tyler, Royall, translator. <lightblue>The Tale of Genji.</lightblue> By <red>Murasaki Shikibu.</red> New York: <purple>Penguin Books,</purple> <lightgreen>2001.</lightgreen></p>
+                <p>In-Text: (Tyler)</p>
+            </subsubsection>
         </subsection>
     </section>
-    <section>
+    <section xml:id="plagiarism">
         <title>Plagiarism</title>
-        <p>Plagiarism is unethical and, at the University of Puget Sound, has serious repercussions. As the MLA Handbook reads, <q>Plagiarism is presenting another person's ideas, information, expressions, or entire work as one's own</q> (6). If I hadn't cited the MLA Handbook just now and had presented the sentence as my own, I would have plagiarized and would have been fired. This is why citing is important and why professionals place so much emphasis on academic integrity. Below are some pointers on how to avoid plagiarism.</p>
+        <p>Plagiarism is unethical and has serious repercussions at the University of Puget Sound. As the <booktitle><init>MLA</init> Handbook</booktitle> (8th Edition) reads, <q>Plagiarism is presenting another person's ideas, information, expressions, or entire work as one's own</q> (6<ndash/>7). If I hadn't cited the <booktitle><init>MLA</init> Handbook</booktitle> just now and had presented the sentence as my own, I would have plagiarized and would have been fired. This is why citing is important and why professionals place so much emphasis on academic integrity. Below are some pointers on how to avoid plagiarism.</p>
         <p>Because plagiarism is the act of claiming another's intellectual output as your own, plagiarism includes more than not quoting text that ought to be quoted; plagiarism also includes not attributing authorship to ideas that are not originally yours and framing as your own a paper that someone else wrote (even if you paid them). It is also considered plagiarism to reuse an essay that you had previously written. The University of Puget Sound has a policy forbidding the reuse of previous work without express permission from your instructor.</p>
+        <p>For more information on Puget Sound policies on plagiarism, please see the <url href="https://www.pugetsound.edu/files/resources/academichandbook2017-2018.pdf">Puget Sound Academic Handbook</url>.</p>
         <p>
             Plagiarism is hardly ever intended. More often, a student who plagiarizes will be unaware that they are doing so. Here are some suggestions to help you avoid plagiarizing.
             <dl>
                 <li>
-                    <title>Write down everything</title>
-                    <p>When you're doing research, keep track of all of your sources, especially sources from which you quote or paraphrase. If you're drafting and don't want to break your focus, leave a comment to remind yourself to cite the source later. (A knowledge-management tool such as Zotero can help you to keep track of your sources.)</p></li>
+                    <title>Write down everything.</title>
+                    <p>When you're doing research, keep track of all of your sources, especially sources from which you quote or paraphrase. If you're drafting and don't want to break your focus, leave a comment to remind yourself to cite the source later. (A knowledge-management tool such as Zotero can help you to keep track of your sources.)</p>
+                </li>
                 <li>
-                    <title>Attribute everything</title>
-                    <p>The most important thing to include when attributing authorship is the author's name. This can be done in text, in parentheses, or in a note. If the source does not name an author, provide the title of the source. It is also useful to provide page or line numbers whenever possible. It is safest and often most effective rhetorically to credit the author or source as near to the attributed material as possible; attribution should occur within the same sentence as the attributed material. (For information about the conventions of attribution, both textual and parenthetical, see <xref ref="the-basics" text="type-global"/>.)</p></li>
+                    <title>Attribute everything.</title>
+                    <p>The most important thing to include when attributing authorship is the author's name. This can be done in text, in parentheses, or in a note. If the source does not name an author, provide the title of the source. It is also useful to provide page or line numbers whenever possible. It is safest and often most effective rhetorically to credit the author or source as near to the attributed material as possible; attribution should occur within the same sentence as the attributed material. (For information about the conventions of attribution, both textual and parenthetical, see <xref ref="the-basics"/>.)</p>
+                </li>
                 <li>
-                    <title>When in doubt, quote</title>
-                    <p>Paraphrasing presents problems for students, primarily because the line between acceptable paraphrase and plagiarism is somewhat arbitrary. Of course, this shouldn't be a problem if you attribute the paraphrased information to its original author(s). Though disciplines and styles have different preferences, the transparency of quoting makes it a safe way to present information that isn't your own. Quoting, however, should never take the place of attributing authorship.</p></li>
+                    <title>When in doubt, quote.</title>
+                    <p>Paraphrasing presents problems for students, primarily because the line between acceptable paraphrase and plagiarism is somewhat arbitrary. Of course, this shouldn't be a problem if you attribute the paraphrased information to its original author(s). Though disciplines and styles have different preferences, the transparency of quoting makes it a safe way to present information that isn't your own. Quoting, however, should never take the place of attributing authorship.</p>
+                </li>
                 <li>
-                    <title>Not everything needs a citation</title>
-                    <p>Any knowledge that both you and your readers share need not be cited. For instance, it is probably safe to assume that your readers will know that plagiarism is unethical. You could make such a statement without feeling the need to attribute it. However, it would be necessary to attribute authorship to a statement suggesting that plagiarism is ethical--for such an idea is not likely to be shared by your readers. That said, when in doubt, attribute. There's little, if anything, wrong with attributing too much, while attributing too little can be disastrous. It is in your best interest to cite.</p></li>
+                    <title>Not everything needs a citation.</title>
+                    <p>Any knowledge that both you and your readers share need not be cited. For instance, it is probably safe to assume that your readers will know that plagiarism is unethical. You could make such a statement without feeling the need to attribute it. However, it would be necessary to attribute authorship to a statement suggesting that plagiarism is ethical<mdash/>for such an idea is not likely to be shared by your readers. That said, when in doubt, attribute. There's little, if anything, wrong with attributing too much, while attributing too little can be disastrous. It is in your best interest to cite.</p>
+                </li>
             </dl>
         </p>
     </section>

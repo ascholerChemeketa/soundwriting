@@ -6,32 +6,38 @@
     </introduction>
     <section xml:id="email-etiquette">
         <title>Email Etiquette</title>
-        <p>Emailing faculty, staff, and off-campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. Formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply. Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
+        <p>Emailing faculty, staff, and off-campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. But formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply. Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
         <sidebyside width="50%">
             <image source="images/genres-dear-professor"/>
         </sidebyside>
-        <paragraphs>
+        <list>
             <title>Greetings</title>
-            <p>(from most formal to least)<ul>
+            <introduction>
+                <p>(from most formal to least)</p>
+            </introduction>
+            <ul>
                 <li>Dear Professor <fillin/>,</li>
                 <li>Dear Professor,</li>
                 <li>Professor <fillin/>,</li>
                 <li>Hello, Professor <fillin/>.</li>
                 <li>Hi, Professor <fillin/>.</li>
                 <li>Hi Professor <fillin/>,</li>
-            </ul></p>
-        </paragraphs>
+            </ul>
+        </list>
         <paragraphs>
             <title>The Body</title>
             <p>The body of your email, like the body of a paper, contains the information you want to convey to your audience (<ie/>, the email recipient(s)). Since people usually receive a lot of emails throughout the day, it's best to keep your emails short and to the point.</p>
             <p>Of course, being brief doesn't mean that you have to be curt or abrasive; professors, staff members, and other professionals are people, too! If you feel so inclined, you might begin the body of your email with something like <q>I hope your week is off to a good start,</q> or <q>I hope you have been having a good summer.</q> In general, the key is to be polite but not too personal.</p>
             <p>Next, you want to write everything you need to say clearly and concisely. It's helpful to break up your text into paragraphs that are shorter than paragraphs you'd typically write in an essay. You can also put an extra space in between paragraphs to make them easier to read quickly.</p>
-            <p>Finally, because writing to faculty and staff is a professional activity, you will often be expected to write using Standard American English (SAE) conventions, including punctuation, capitalization, sentence structure, and word choice.</p>
+            <p>Finally, because writing to faculty and staff members is a professional activity, you will often be expected to write using <xref ref="SAE" text="title"/> (<init>SAE</init>) conventions, including punctuation, capitalization, sentence structure, and word choice.</p>
         </paragraphs>
-        <paragraphs>
+        <list>
             <title>Closings</title>
-            <p>Even if you have an automatic signature set up, it's best to precede your name with a nice closing remark.</p>
-            <p>(From most formal to least)<ul>
+            <introduction>
+                <p>Even if you have an automatic signature set up, it's best to precede your name with a nice closing remark.</p>
+                <p>(From most formal to least)</p>
+            </introduction>
+            <ul>
                 <li>Sincerely,</li>
                 <li>Regards,</li>
                 <li>Best regards,</li>
@@ -43,20 +49,26 @@
                 <li>All the best,</li>
                 <li>Best wishes,</li>
                 <li>Cheers,</li>
-            </ul></p>
-        </paragraphs>
+            </ul>
+        </list>
         <sidebyside width="50%">
             <image source="images/genres-greetings"/>
         </sidebyside>
-        <paragraphs>
+        <list>
             <title>Tips on Responses</title>
-            <p><ul>
-                <li>If it's not the weekend, a holiday, or a vacation, and if your professor is not out of town, on leave, or at a conference, you should be able to expect a reply within 24 hours. If you haven't received an email back after 24 hours except on the weekend, when many faculty don't check email, it is usually okay to send another email. When writing your second email, continue being polite and don't be hurt, offended, or frustrated that you didn't get a reply. Remember, professors are people, too, with lots to juggle, including email responses.</li>
-                <li>On a similar note, if a professor uses their first name in their closing, then it is likely that the professor is okay with you calling them by their first name. However, if you're in doubt, then you should definitely ask the professor's preference. (Sidenote: it's much easier to ask at the beginning of the semester how a professor prefers to be addressed rather than at the middle or end of the semester, when it is more awkward.)</li>
+            <ul>
+                <li>If it's not the weekend, a holiday, or a vacation, and if your professor is not out of town, on leave, or at a conference, you should be able to expect a reply within 24 hours. If you haven't received an email back after 24 hours except on the weekend, when many faculty members don't check email, it is usually okay to send another email. When writing your second email, continue being polite and don't be hurt, offended, or frustrated that you didn't get a reply. Remember, professors are people, too, with lots to juggle, including email responses.</li>
+                <li>
+                    <p>On a similar note, if a professor uses their first name in their closing, then it is likely that the professor is okay with you calling them by their first name. However, if you're in doubt, then you should definitely ask the professor's preference.</p>
+                    <aside>
+                        <title>Sidenote</title>
+                        <p>It's much easier to ask at the beginning of the semester how a professor prefers to be addressed rather than at the middle or end of the semester, when it is more awkward.</p>
+                    </aside>
+                </li>
                 <li>Just as you expect quick responses from the people you email, so too should you be conscious of the time you take to reply to emails.</li>
-                <li>Take a moment to write back to thank the professor for their response, especially if it was an especially long or thoughtful response.</li>
-            </ul></p>
-        </paragraphs>
+                <li>Take a moment to write back to acknowledge or thank the professor for their response, especially if it was an especially long or thoughtful response.</li>
+            </ul>
+        </list>
         <todo>Example emails to professors</todo>
     </section>
     <section>
@@ -68,46 +80,48 @@
         <sidebyside width="50%">
             <image source="images/whoami.png"/>
         </sidebyside>
-        <paragraphs>
-            <title>Questions to think about before writing</title>
-            <p><ul>
+        <list>
+            <title>Questions to Think About Before Writing</title>
+            <ul>
                 <li>When do you feel the most fulfilled/at your happiest?</li>
                 <li>Why do you feel fulfilled by that area of your life?</li>
                 <li>Why are you interested in or passionate about it?</li>
                 <li>Where do these interests originate in your life history? What has influenced you to pursue these interests?</li>
-                <li>How do your current activities/commitments reflect these interests, values and beliefs?</li>
+                <li>How do your current activities/commitments reflect these interests, values, and beliefs?</li>
                 <li>How have these activities and your particular experiences prepared you for a career in your chosen field? In what way did they change your perspective or approach to a certain problem?</li>
                 <li>How will these values and interests allow you to contribute to your chosen field of study? What contributions do you plan on making?</li>
-            </ul></p>
-        </paragraphs>
-        <paragraphs>
-            <title>Tips for writing</title>
-            <p><dl>
+            </ul>
+        </list>
+        <list>
+            <title>Tips for Writing</title>
+            <dl>
                 <li>
-                    <title>Consider your personal statement as a complement to your application</title>
+                    <title>Consider your personal statement as a complement to your application.</title>
                     <p>You're likely writing this statement alongside a number of other application materials (resume, CV, essay responses, <etc/>), so make sure you don't just repeat what you included in these other documents. Think of your personal statement as an opportunity to showcase the qualities and interests that you don't have room to display in your other materials.</p>
                 </li>
                 <li>
-                    <title>Be as clear and succinct as possible</title>
-                    <p>Most personal statements are fairly short (2-3 pages) and are read quickly, so it's important to get your main points across clearly and quickly<mdash/>don't make your reader have to search for your qualities amidst complicated prose.However, personal statements should ensnare the reader's attention, so use language that is not overly formal and business-like.</p>
+                    <title>Be as clear and succinct as possible.</title>
+                    <p>Most personal statements are fairly short (two to three pages) and are read quickly, so it's important to get your main points across clearly and quickly<mdash/>don't make your reader have to search for your qualities amidst complicated prose. However, personal statements should ensnare the reader's attention, so use language that is not overly formal and businesslike.</p>
                 </li>
                 <li>
-                    <title>Tell a story</title>
+                    <title>Tell a story.</title>
                     <p>While it's easy to just list your characteristics and experiences, conveying them with a story is a much more powerful way to showcase your writing as well as convey who you are as a person. Towards this end, try to consider the personal statement as a narrative with a beginning, middle, and end. Maybe describe a few critical experiences that have influenced your outlook on a certain issue, or include a couple anecdotes that display how you responded to a certain challenge. Most importantly, your statement should, like a story, reflect an evolution of yourself in relation to the specific experience/program to which you're applying: How have these experiences changed your perspective about X over time? How are you different in relation to X than you were in the <q>beginning</q>? How do you plan on using this accumulated knowledge to contribute to the program/experience/field to which you're applying?</p>
                 </li>
                 <li>
-                    <title>Be humble and honest</title>
-                    <p>This is why personal statements are so hard<mdash/>how are you supposed to showcase your qualities without being self-congratulatory or pandering? This difficulty is one of the reasons using narrative instead of just listing adjectives is so important: with a narrative you can avoid bragging and instead, paint an honest and human picture of yourself by describing a regret you've had, a challenge you've encountered, or a situation in which you didn't respond as you now would. It's all right (even great) to talk about failure and frustration, just as long as you describe how you overcame or learned from it.</p>
+                    <title>Be humble and honest.</title>
+                    <p>Developing an appropriate stance is hard. How are you supposed to showcase your qualities without being self-congratulatory or pandering? This difficulty is one of the reasons using narrative instead of just listing adjectives is so important: with a narrative you can avoid bragging and instead, paint an honest and human picture of yourself by describing a regret you've had, a challenge you've encountered, or a situation in which you didn't respond as you now would. It's all right (even great) to talk about failure and frustration, just as long as you describe how you overcame or learned from it.</p>
                 </li>
-            </dl></p>
-            <p>For more tips and tricks on how to write a personal statement, see the <q>Hints for a Successful Essay</q> page on the UPS website (<url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/</url>). Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth Hall 114) and the CWLT (Howarth 109) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</p>
-        </paragraphs>
+            </dl>
+            <conclusion>
+                <p>For more tips and tricks on how to write a personal statement, see the <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page on the Puget Sound website. Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth 114) and the Center for Writing, Learning, and Teaching (<init>CWLT</init>) (Howarth 109) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</p>
+            </conclusion>
+        </list>
     </section>
     <section>
         <title>Cover Letters</title>
         <paragraphs>
             <title>What is a cover letter?</title>
-            <p>Chances are, if you are applying for a job or internship, you will be required to write a cover letter. Cover letters are short, one-page letters in which you introduce yourself, identify which position you are applying for, and explain why you are interested in and qualified for that position. Cover letters can be a crucial part of an application because in many cases it is the one place where you will be able to present yourself as a person rather than just a list of past experiences and jobs (as is the case with your resume). One of the best ways to humanize yourself is to exhibit your ability to write and communicate effectively as opposed to just listing your past experience. and will be among the first things a potential employer will read, so it's important to put some time and effort into the crafting of your cover letter.</p>
+            <p>Chances are, if you are applying for a job or internship, you will be required to write a cover letter. Cover letters are short, one-page letters in which you introduce yourself, identify which position you are applying for, and explain why you are interested in and qualified for that position. Cover letters can be a crucial part of an application because in many cases it is the one place where you will be able to present yourself as a person rather than just a list of past experiences and jobs (as is the case with your resume). A cover letter will be among the first things a potential employer will read, so it's important to put some time and effort into the crafting of your cover letter.</p>
             <sidebyside width="50%">
                 <image source="images/pleasehire.png"/>
             </sidebyside>
@@ -116,10 +130,12 @@
             <title>Address</title>
             <p>A cover letter is a version of a business letter. Include your name, your address, the date you are applying, the hiring manager's name and title (if you have it), the company/agency name, and the company/agency address.</p>
         </paragraphs>
-        <paragraphs>
+        <list>
             <title>Greetings</title>
-            <p>Cover letters are generally addressed to the individual who will be doing the hiring. If you know their name, feel free to address them formally with their appropriate title, even if you know them well (<eg/>, <em>Ms., Mr. Dr., <etc/></em>). If you do not know the name of the person who is hiring, you can address the letter to the appropriate role: hiring manager, program director, company recruiter, or internship coordinator. Again, it's important to address all roles formally.</p>
-            <p><ul>
+            <introduction>
+                <p>Cover letters are generally addressed to the individual who will be doing the hiring. If you know their name, feel free to address them formally with their appropriate title, even if you know them well (<eg/>, <em>Ms., Mr. Dr., <etc/></em>). If you do not know the name of the person who is hiring, you can address the letter to the appropriate role: hiring manager, program director, company recruiter, or internship coordinator. Again, it's important to address all roles formally.</p>
+            </introduction>
+            <ul>
                 <li>Dear Ms. Smith:</li>
                 <li>Dear Mr. Smith:</li>
                 <li>Dear Dr. Smith:</li>
@@ -127,27 +143,27 @@
                 <li>Dear Program Director:</li>
                 <li>Dear Recruiter:</li>
                 <li>Dear Internship Coordinator:</li>
-            </ul></p>
-            <p>Here's an example of how all of the above fits together:</p>
-            <sidebyside width="50%">
-                <image source="images/coverletter.png"/>
-            </sidebyside>
-        </paragraphs>
+            </ul>
+        </list>
+        <p>Here's an example of how all of the above fits together:</p>
+        <sidebyside width="50%">
+            <image source="images/coverletter.png"/>
+        </sidebyside>
         <paragraphs>
             <title>Body</title>
-            <p>When writing the body of your cover letter, don't beat around the bush. Be clear, concise, and straightforward about why you're writing and how you meet their qualifications. The body of your cover letter should generally be about 3-4 (short) paragraphs long, so you don't have time to be flowery.</p>
+            <p>When writing the body of your cover letter, don't beat around the bush. Be clear, concise, and straightforward about why you're writing and how you meet their qualifications. The body of your cover letter should generally be about three to four (short) paragraphs long, so you don't have time to be flowery.</p>
         </paragraphs>
         <paragraphs>
-            <title>1st Paragraph</title>
-            <p>Your first paragraph should introduce yourself, specify which job you are applying for and why you are interested, and provide a brief summation of your qualifications. For instance, you might begin with something as straightforward as <q>I am writing to apply for the position of <fillin/>.</q> You may also mention where you found out about the position (on the agency's website, through a professional connection, <etc/>). You might then mention a little bit about yourself and your experience (<q>As a graduate in Neuroscience at the University of Puget Sound<nbsp/><ellipsis/><nbsp/>,</q> <q>As a raft river guide in Alaska last summer<nbsp/><ellipsis/></q>). You can finish the paragraph with a brief list of the qualifications you feel are pertinent to the available position (<q>I believe my <fillin/>, <fillin/>, and  <fillin/> have prepared me particularly well for the position of <fillin/>.</q>) Remember that it's also important to show interest in the position: why are you applying? Why are you excited for this opportunity? What contributions can you bring to the position? What will you get out of it (though, keep in mind that the employer is probably not as interested in what you will gain from the position as what you will bring to it)?</p>
+            <title>First Paragraph</title>
+            <p>Your first paragraph should introduce yourself, specify which job you are applying for and why you are interested, and provide a brief summation of your qualifications. For instance, you might begin with something as straightforward as <q>I am writing to apply for the position of <fillin/>.</q> You may also mention where you found out about the position (on the agency's website, through a professional connection, <etc/>). You might then mention a little bit about yourself and your experience (<q>As a graduate in neuroscience at the University of Puget Sound<nbsp/><ellipsis/><nbsp/>,</q> <q>As a raft river guide in Alaska last summer<nbsp/><ellipsis/></q>). You can finish the paragraph with a brief list of the qualifications you feel are pertinent to the available position (<q>I believe my <fillin/>, <fillin/>, and  <fillin/> have prepared me particularly well for the position of <fillin/>.</q>) Remember that it's also important to show interest in the position: Why are you applying? Why are you excited for this opportunity? What contributions can you bring to the position? What will you get out of it (though, keep in mind that the employer is probably not as interested in what you will gain from the position as what you will bring to it)?</p>
         </paragraphs>
         <paragraphs>
-            <title>2nd-3rd Paragraphs</title>
-            <p>Your next couple of paragraphs should build on the ideas you introduced in your first paragraph by demonstrating in more detail why you are qualified for the position. In these paragraphs you can use more qualitative statements and specific details to emphasize those skills that best demonstrate your competency. The job application will likely include a list of the qualifications and duties of potential candidates, so try to choose experiences that exhibit those skills and competencies. Select a couple of these experiences to expound upon, making sure to include your responsibilities in those roles, the duties you performed, and what you learned from them that would be valuable for you in this position. If you don't have experience doing this job in particular, try to emphasize those parts of your past jobs that do fulfill qualifications specific to the job and your willingness to learn new skills. However, it's important to be honest when writing your cover letter; eventually your true qualifications will become clear, so don't exaggerate or misrepresent yourself.</p>
+            <title>Second<ndash/>Third Paragraphs</title>
+            <p>Your next couple of paragraphs should build on the ideas you introduced in your first paragraph by demonstrating in more detail why you are qualified for the position. In these paragraphs you can use more qualitative statements and specific details to emphasize those skills that best demonstrate your competency. The job application will likely include a list of the qualifications and duties of potential candidates, so try to choose experiences that exhibit those skills and competencies. Select a couple of these experiences to elaborate, making sure to include your responsibilities in those roles, the duties you performed, and what you learned from them that would be valuable for you in this position. If you don't have experience doing this job in particular, try to emphasize those parts of your past jobs that do fulfill qualifications specific to the job and your willingness to learn new skills. However, it's important to be honest when writing your cover letter; eventually your true qualifications will become clear, so don't exaggerate or misrepresent yourself.</p>
         </paragraphs>
         <paragraphs>
-            <title>4th Paragraph</title>
-            <p>In your final paragraph, it's important to remind the reader of your interest in the position and what you think you can contribute to the agency/company. To do this you can reiterate those specific skills and competencies that make you especially qualified for the position. Finally, provide your contact information so they may get in touch with you and let them know you are excited to meet with them in person. Thank them for their time and the opportunity to apply for/consideration for the position.</p>
+            <title>Fourth Paragraph</title>
+            <p>In your final paragraph, it's important to remind the reader of your interest in the position and what you think you can contribute to the agency/company. To do this you can reiterate those specific skills and competencies that make you especially qualified for the position. Finally, provide your phone and email contact information so they may get in touch with you and let them know you are excited to meet with them in person. Thank them for their time and the opportunity to apply for/consideration for the position.</p>
         </paragraphs>
         <paragraphs>
             <title>Closing</title>
@@ -156,95 +172,110 @@
                 <image source="images/sincerely.png"/>
             </sidebyside>
         </paragraphs>
-        <paragraphs>
+        <list>
             <title>Tips for Writing</title>
-            <p><dl>
+            <dl>
                 <li>
-                    <title>Be specific</title>
-                    <p>When writing your cover letter, be specific about the skills and competencies you bring to the position. Think about your past experiences and come up with a few qualitative statements to describe your abilities (<eg/>, <q>administrative proficiency,</q> <q>strong writing skills,</q> <q>interpersonal skills,</q> <q>knowledge of data-management software</q>).</p>
+                    <title>Be specific.</title>
+                    <p>When writing your cover letter, be specific about the skills and competencies you bring to the position.</p>
                 </li>
                 <li>
-                    <title>Demonstrate your knowledge of the position and/or company</title>
-                    <p>It's important to write a separate cover letter for every job to which you are applying. Even if you apply for a million jobs, you should make sure each and every cover letter is tailored to each position. One way to do this is to demonstrate your knowledge of and interest in the hiring company. Chances are, if you get an interview, they will be expecting you to have a baseline understanding of the roles, responsibilities, and overarching mission of the program or department and to ask questions specific to their work. Demonstrating your knowledge of the company shows you've done your research and are genuinely interested in the position.</p>
+                    <title>Demonstrate your knowledge of the position and/or company.</title>
+                    <p>It's important to write a separate cover letter for every job to which you are applying. Even if you apply for a million jobs, you should make sure each and every cover letter is tailored to each position.</p>
                 </li>
                 <li>
-                    <title>Avoid overused character traits</title>
-                    <p>While it may be tempting to use phrases that highlight positive qualities about your work-ethic (passionate, determined, hard worker, self-starter, fast learner), these characteristics are often perceived as overused and lazy attempts to market yourself. Instead, try to demonstrate these qualities through your specific experiences (<eg/>, what are you passionate about and why? When/how did you overcome a challenge in your past work experience? What results did your efforts produce?).</p>
+                    <title>Avoid overused character traits.</title>
+                    <p>While it may be tempting to use phrases that highlight positive qualities about your work ethic (passionate, determined, hard worker, self-starter, fast learner), these characteristics are often perceived as overused and lazy attempts to market yourself. Instead, try to demonstrate these qualities through your specific experiences.</p>
                 </li>
                 <li>
-                    <title>Don't just rewrite your resume</title>
-                    <p>Don't do it. Your cover letter should emphasize 2-3 experiences that demonstrate your specific qualifications for that position. If you just rewrite your resume, not only will you appear lazy (remember your prospective employer will be reading your resume, too), but you won't be able to describe those particular selling points in detail. Take the space to delve at some length into a few especially relevant qualifications.</p>
+                    <title>Don't just rewrite your resume.</title>
+                    <p>Don't do it. Your cover letter should emphasize two to three experiences that demonstrate your specific qualifications for that position.</p>
                 </li>
                 <li>
-                    <title>Use clear and simple prose</title>
-                    <p>Cover letters should be no more than one page, so you'll have to be selective with the language you use. Try to avoid using elaborate, confusing, or overly-descriptive prose, as that will mask the qualities you are trying to emphasize. Be straightforward and write in short and concise sentences.</p>
+                    <title>Use clear and simple prose.</title>
+                    <p>Cover letters should be no more than one page, so you'll have to be selective with the language you use.</p>
                 </li>
                 <li>
-                    <title>Keep it formal but conversational</title>
-                    <p>Even though you should be formal while addressing your prospective employer, you don't need to be overly-formal<mdash/>try to keep it conversational. Write in first person, acknowledge past challenges (<q>While this experience was difficult, I learned or overcame it by doing this<nbsp/><ellipsis/></q>), and express enthusiasm for the position (but avoid exclamation points). If you feel you're still being too robotic, keep in mind that you can save your personality for when you meet your employer in person; it doesn't necessarily need to come through only in the cover letter.</p>
+                    <title>Keep it formal but conversational.</title>
+                    <p>Even though you should be formal while addressing your prospective employer, you don't need to be overly formal<mdash/>try to keep it conversational.</p>
                 </li>
-            </dl></p>
-            <p>For more tips and tricks on how to write a great cover letter, see this <q>CES Cover Letter and Thank You Note Guide</q> from the Career and Employment Services webpage (<url href="http://www.pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf">http://www.pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf</url>). Remember that you can always bring in your cover letter drafts to the Career and Employment Services Office (Howarth Hall 101) for editing and revising ideas!</p>
-        </paragraphs>
+            </dl>
+            <conclusion>
+                <p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="http://www.pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf">CES Cover Letter and Thank You Note Guide</url></q> from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p>
+            </conclusion>
+        </list>
     </section>
     <section>
         <title>Resume</title>
         <paragraphs>
-            <title>What is a resume?</title>
+            <title>Resume</title>
             <p>A resume is a list of your education history, past employment, professional skills/knowledge, and any other qualifications that are relevant to the job to which you are applying. Even if you are applying for many jobs within a similar field, you will likely need to revise your resume for every job application you submit (for instance, if you are applying for a computer tech position, you probably wouldn't include your cat-sitting experience). However, there are some basic things you need to include in every resume to make it as strong as possible.</p>
             <sidebyside width="50%">
                 <image source="images/awesomeresume.png"/>
             </sidebyside>
         </paragraphs>
-        <paragraphs>
+        <list>
             <title>Contact</title>
-            <p>The contact serves as both the heading of your resume and offers the various ways your prospective employer can contact you. A contact can be personalized based on how you would best like to present yourself, but it generally includes your:<ul>
+            <introduction>
+                <p>The contact serves as both the heading of your resume and offers the various ways your prospective employer can contact you. A contact can be personalized based on how you would best like to present yourself, but it generally includes your:</p>
+            </introduction>
+            <ul>
                 <li>Full name, large and centered</li>
                 <li>Permanent mailing address</li>
-                <li>E-mail address</li>
+                <li>Email address</li>
                 <li>Cell phone number</li>
                 <li>URL for your LinkedIn profile or other personal website (if you have one)</li>
-                <li>Fax number or any other way of contacting you</li>
-            </ul></p>
-            <sidebyside width="50%">
-                <image source="images/contactinfo.png"/>
-            </sidebyside>
-        </paragraphs>
+                <li>Fax number or any other relevant way of contacting you</li>
+            </ul>
+        </list>
+        <sidebyside width="50%">
+            <image source="images/contactinfo.png"/>
+        </sidebyside>
         <paragraphs>
             <title>Education</title>
-            <p>In the education section, include your degree, graduation month and year, where you went to college/university, your GPA, awards won (include date range, or month and year), and relevant co-curricular activities (include date range, or month and year). Remember to list only those awards and activities that may be relevant to the job application.</p>
+            <p>In the education section, include your degree, graduation month and year, where you went to college/university, your GPA, awards won (month and year), and relevant cocurricular activities (include date range, or month and year). Remember to list only those awards and activities that may be relevant to the job application.</p>
             <sidebyside width="50%">
                 <image source="images/education.png"/>
             </sidebyside>
         </paragraphs>
-        <paragraphs>
+        <list>
             <title>Past Relevant Experience</title>
-            <p>In the past experience section, try to select a few relevant experiences or positions in reverse chronological order (most recent at top) that lend themselves particularly well to the job to which you are applying. For each experience, include:<ul>
+            <introduction>
+                <p>In the past experience section, try to select a few relevant experiences or positions in reverse chronological order (most recent at top) that lend themselves particularly well to the job to which you are applying. For each experience, include:</p>
+            </introduction>
+            <ul>
                 <li>the position or role you held (bolded)</li>
                 <li>the institution or agency at which you held it (italicized)</li>
                 <li>the city, state in which the institution/agency is located (italicized)</li>
                 <li>the date range for which you held it (right-aligned)</li>
                 <li>a brief, past-tense summation of your specific responsibilities and duties you had in that role (in fragment sentences, bulleted)</li>
-            </ul></p>
-            <p>Keep in mind that these experiences do not necessarily need be paid employment, but should rather reflect your qualifications and accomplishments working in a relevant or related field. Use fragment bullet points to list the duties you performed in each position and try to be as specific as possible when describing these duties, limiting yourself to 2-4 bullet points per position. For instance, rather than <q>honed social skills</q> as a Campus Visit Host, you could describe how you <q>greeted, engaged with, and answered questions for prospective students and their families during one-hour informational tours.</q> Try to highlight only the most important duties of a particular position and to avoid repeating similar tasks and skills; for instance, if you <q>conducted scheduling and administrative and office support</q> for multiple positions, you may want to include this only for the positions in which this was a critical part of the job. Remember that your resume should have an overarching focus but that different positions may emphasize different aspects of your qualifications.</p>
-            <sidebyside width="50%">
-                <image source="images/relevantexperience.png"/>
-            </sidebyside>
-        </paragraphs>
-        <paragraphs>
+            </ul>
+            <conclusion>
+                <p>Keep in mind that these experiences do not necessarily need be paid employment, but should rather reflect your qualifications and accomplishments working in a relevant or related field. Use fragment bullet points to list the duties you performed in each position and try to be as specific as possible when describing these duties, limiting yourself to two to four bullet points per position. For instance, rather than <q>honed social skills</q> as a campus visit host, you could describe how you <q>greeted, engaged with, and answered questions for prospective students and their families during one-hour informational tours.</q> Try to highlight only the most important duties of a particular position and to avoid repeating similar tasks and skills; for instance, if you <q>conducted scheduling and administrative and office support</q> for multiple positions, you may want to include this only for the positions in which this was a critical part of the job. Remember that your resume should have an overarching focus but that different positions may emphasize different aspects of your qualifications.</p>
+            </conclusion>
+        </list>
+        <sidebyside width="50%">
+            <image source="images/relevantexperience.png"/>
+        </sidebyside>
+        <list>
             <title>Relevant Research</title>
-            <p>If you have independent research that you would like to showcase, for each research project, include the:<ul>
+            <introduction>
+                <p>If you have independent research that you would like to showcase, for each research project, include the:</p>
+            </introduction>
+            <ul>
                 <li>name of your project (bolded and in quotes)</li>
                 <li>date range you conducted said research (right-aligned)</li>
                 <li>venue (conference, symposium, <etc/>) at which it was presented (italicized)</li>
                 <li>city and state in which it was conducted/presented (italicized)</li>
                 <li>brief synopsis of your research, final format of research (poster, paper, thesis, publication), and any awards conferred upon it (bulleted)</li>
-            </ul></p>
-            <p>Remember to only include research that appropriately showcases your qualifications for the job to which you are applying. Like your past experiences section, keep the bullet-point descriptions of your research simple and to a minimum.</p>
-            <sidebyside width="50%">
-                <image source="images/independentresearch.png"/>
-            </sidebyside>
-        </paragraphs>
+            </ul>
+            <conclusion>
+                <p>Remember to include only research that appropriately showcases your qualifications for the job to which you are applying. Like your past experiences section, keep the bullet-point descriptions of your research simple and to a minimum.</p>
+            </conclusion>
+        </list>
+        <sidebyside width="50%">
+            <image source="images/independentresearch.png"/>
+        </sidebyside>
         <paragraphs>
             <title>Relevant Skills</title>
             <p>Many resumes have a relevant skills section that allows potential employers (or a computerized application tracking system) to easily scan your abilities and qualifications. It offers a list of terms for skills that you have accumulated and gained proficiency in during your work/research experiences and that you will likely utilize in the position to which you are applying. It can include more umbrella terms like <q>public speaking</q> or <q>presentation experience</q> as well as more specific names for particular programs or techniques, such as <q>R- statistical programs</q> or <q>Microsoft Excel.</q> You can include as many skills as you like, but limit yourself to only those skills that are relevant to the specific job. Bold those skills that are more pertinent than others, and use two-column formatting to save space.</p>
@@ -252,52 +283,57 @@
                 <image source="images/relevantskills.png"/>
             </sidebyside>
         </paragraphs>
-        <paragraphs>
-            <title>Tips for writing</title>
-            <p><dl>
+        <list>
+            <title>Tips for Writing</title>
+            <dl>
                 <li>
-                    <title>Tailor your resume to the job</title>
-                    <p>Just as you did while writing your cover letter, you will want to tailor your resume to the job to which you are applying. To do this, review the job duties and responsibilities on the application and include only those experiences that are most relevant and useful for the position. Include specific skills, duties, presentations, accomplishments, and awards that you accumulated during these experiences. However, unlike your cover letter, you should not explicitly mention the job to which you are applying or how these experiences have prepared you for that specific position (that's what the cover letter is for).</p>
+                    <title>Tailor your resume to the job.</title>
+                    <p>Just as you did while writing your cover letter, you will want to tailor your resume to the job to which you are applying. However, unlike your cover letter, you should not explicitly mention the job to which you are applying or how these experiences have prepared you for that specific position (that's what the cover letter is for).</p>
                 </li>
                 <li>
-                    <title>Use simple prose</title>
-                    <p>Your resume is not the place to show off your writing abilities to your potential employer<mdash/>save that for the cover letter. Rather, resumes should use clear and concise prose (often bulleted fragments) to showcase 1) what you've done and 2) how it contributed to your overall preparedness. Try to avoid using long and convoluted sentences filled with descriptors; a reviewer will be reading your resume quickly to get an overall idea of your qualifications, so these will only hinder their ability to identify those key skills.</p>
+                    <title>Use simple prose.</title>
+                    <p>Your resume is not the place to show off your writing abilities to your potential employer<mdash/>save that for the cover letter. Rather, resumes should use clear and concise prose (often bulleted fragments) to showcase 1) what you've done and 2) how it contributed to your overall preparedness. </p>
                 </li>
                 <li>
-                    <title>Avoid using vague or overused phrases</title>
-                    <p>Try to be as specific as possible when describing your past work experience and skills. If you are adept at using a particular software program, technical skill, research method, lab procedure, writing type, or other form of specialized knowledge, name it explicitly. For instance, say you oversaw the production and publication of an on-campus magazine and want to emphasize your editing and publishing skills. Rather than simply stating <q>media development,</q> you could say <q>Edited, organized, and produced written and graphic materials for a student-run science magazine, including the use of Adobe InDesign, Adobe Photoshop, and Microsoft Office suite.</q></p>
+                    <title>Avoid using vague or overused phrases.</title>
+                    <p>Try to be as specific as possible when describing your past work experience and skills. If you are adept at using a particular software program, technical skill, research method, lab procedure, writing type, or other form of specialized knowledge, name it explicitly.</p>
                 </li>
                 <li>
-                    <title>Format your resume cleanly and with selective emphasis</title>
-                    <p>While bold and italics can in some instance highlight those skills you most want to showcase, be selective with the emphases you use. Typically, it is best to place emphasis on (in whichever way, based on your preferences): your name, your degree, school, and GPA (if applicable), titles of positions held, titles of specific research projects, and any specific skills you want to draw attention to in the <q>Skills</q> section. Dates of work experiences can also be right-aligned to preserve a sense of aesthetic balance to your resume. Above all, try to figure out a professional-looking format that works best for you and your experiences and keep it consistent throughout.</p>
+                    <title>Format your resume cleanly and with selective emphasis.</title>
+                    <p>While bold and italics can in some instances highlight those skills you most want to showcase, be selective with the emphases you use. Typically, it is best to place emphasis on (in whichever way, based on your preferences): your name, your degree, school, and GPA (if applicable), titles of positions held, titles of specific research projects, and any specific skills you want to draw attention to in the <q>Skills</q> section. Dates of work experiences can also be right-aligned to preserve a sense of aesthetic balance to your resume. Above all, try to figure out a professional-looking format that works best for you and your experiences and keep it consistent throughout.</p>
                 </li>
-            </dl></p>
-            <p>For more tips and tricks on how to write a great cover letter, see this <q>Resume Packet</q> from the Career and Employment Services webpage (<url href="https://www.pugetsound.edu/files/resources/4663_ResumePacket2012.pdf"/>). Remember that you can always bring in your resume drafts to the Career and Employment Services Office (Howarth Hall 101) and the CWLT (Howarth 109) for editing and revising ideas!</p>
-        </paragraphs>
+            </dl>
+            <conclusion>
+                <p>For more tips and tricks on how to write a great cover letter, see this <q><url href="pugetsound.edu/files/resources/4663_ResumePacket2012.pdf">Resume Packet</url></q> from the Career and Employment Services webpage. Remember that you can always bring in your resume drafts to the Career and Employment Services office (Howarth 101) and the <init>CWLT</init> (Howarth 109) for editing and revising ideas!</p>
+            </conclusion>
+        </list>
     </section>
     <section>
         <title>Thank-You Notes</title>
         <paragraphs>
-            <title>Why write a thank-you note?</title>
-            <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at Career and Employment Services by visiting their office in Howarth 101, calling 253-879-3161, emailing ces@pugetsound.edu, or visiting their website at http://www.pugetsound.edu/about/offices-services/ces/). However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
+            <title>Why to Write a Thank-You Note</title>
+            <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at Career and Employment Services by visiting the <init>CES</init> office in Howarth 101, calling 253.879.3161, emailing <url href="mailto:ces@pugetsound.edu"><c>ces@pugetsound.edu</c></url>, or visiting <url href="pugetsound.edu/ces">the <init>CES</init> website</url>). However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
             <sidebyside width="50%">
                 <image source="images/thankyou.png"/>
             </sidebyside>
         </paragraphs>
-        <paragraphs>
-            <title>What to include</title>
-            <p>Your thank-you note should be simple and concise, demonstrate your enthusiasm for the organization, and express your excitement at the potential opportunity of working with them. To this end, a strong thank-you note should include:<ul>
+        <list>
+            <title>What to Include</title>
+            <introduction>
+                <p>Your thank-you note should be simple and concise, demonstrate your enthusiasm for the organization, and express your excitement at the potential opportunity of working with them. To this end, a strong thank-you note should include:</p>
+            </introduction>
+            <ul>
                 <li>a statement of appreciation to your interviewers for meeting with you</li>
                 <li>a reference to a specific topic of conversation that arose during the interview</li>
                 <li>an acknowledgement of how the interview improved your understanding of the position/organization</li>
                 <li>a reminder of any specific skills you could contribute to the organization</li>
-                <li>a final thank-you to the interviewers for their time and consideration</li>
-            </ul></p>
-        </paragraphs>
+                <li>a final thank you to the interviewers for their time and consideration</li>
+            </ul>
+        </list>
         <paragraphs>
-            <title>Timing and medium</title>
-            <p>Hopefully, you will have obtained a business card or email addresses from your interviewer(s) during the interview. If you haven't try to find their contact information on the company's website or directory. Try to get your thank-you note to your interviewers as quickly as possible (within 24 hours) after your interview. This way, they will likely still remember you and you can refresh yourself in their memory by referring back to the interview. Writing a thank-you note shortly after your interview will also allow you to recall specific details about the experience that you wouldn't be able to remember weeks or even a few days afterwards.</p>
-            <p>You have a few different formatting options when it comes to writing your thank-you note. You can 1) handwrite it, 2) type it up and print it out, or 3) email it to your interviewers. There are benefits and drawbacks to each format, and you should choose the one that makes the most sense given convenience and the type of company to which you are applying. For instance, handwritten notes are more personalized and can demonstrate your passion for the position. However, for a very time-sensitive situation, an immediate and polite email might be most appropriate (for more on email etiquette, see <xref ref="email-etiquette" text="title"/>). For more on the benefits and limitations of each format, see CES's handy <q>Cover Letters and Thank-you Notes</q> PDF on their Job Search Resources page (http://www.pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf).</p>
+            <title>Timing and Medium</title>
+            <p>Hopefully, you will have obtained a business card or email addresses from your interviewer(s) during the interview. If you haven't, try to find their contact information on the company's website or directory. Try to get your thank-you note to your interviewers as quickly as possible (within 24 hours) after your interview. This way, they will likely still remember you and you can refresh yourself in their memory by referring back to the interview. Writing a thank-you note shortly after your interview will also allow you to recall specific details about the experience that you wouldn't be able to remember weeks or even a few days afterwards.</p>
+            <p>You have a few different formatting options when it comes to writing your thank-you note. You can 1) handwrite it, 2) type it up and print it out, or 3) email it to your interviewers. There are benefits and drawbacks to each format, and you should choose the one that makes the most sense given convenience and the type of company to which you are applying. For instance, handwritten notes are more personalized and can demonstrate your passion for the position. However, for a very time-sensitive situation, an immediate and polite email might be most appropriate (for more on email etiquette, see <xref ref="email-etiquette" text="title"/>). For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf">Cover Letters and Thank-you Notes</url></q> guide on the Job Search Resources page.</p>
         </paragraphs>
     </section>
 </chapter>
