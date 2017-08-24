@@ -584,10 +584,10 @@
                 <p>Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
                 <aside>
                     <title>Note</title>
-                    <p>What may seem like problems with subject-verb agreement might actually be <em>correct</em> subject-verb agreement in another variety of English. (see <xref ref="comparing-SAE-and-AAVE" text="title"/>).</p>
+                    <p>What may seem like problems with subject-verb agreement might actually be <em>correct</em> subject-verb agreement in another variety of English.</p>
                 </aside>
             </subsubsection>
-            <subsubsection xml:id="they-singular-pronoun">
+            <subsubsection xml:id="pronoun-antecedent-not-agreeing">
                 <title>Lack of agreement between pronoun and antecedent, especially the use of <q>they</q> as a singular pronoun</title>
                 <p>Problems with agreement occur most commonly when a writer mentions a subject, a movie director, for example, and then uses a pronoun (recall: he, she, they, it) to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender-neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" text="title"/>)</p>
                 <p>A sentence using <q>they</q> but referring to a singular pronoun looks like this:</p>
@@ -606,7 +606,7 @@
             </subsubsection>
             <subsubsection>
                 <title>-S Endings</title>
-                <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual (see <xref ref="they-singular-pronoun"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
+                <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
                 <list>
                     <ul>
                         <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
@@ -620,7 +620,7 @@
                 <title>Is/Are</title>
                 <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                 <p>
-                    <em>As above, even though <q>they</q> may refer to a single individual (see <xref ref="they-singular-pronoun"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).</em>
+                    <em>As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).</em>
                     <ul>
                         <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
                         <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
