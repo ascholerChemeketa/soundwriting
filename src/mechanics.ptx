@@ -606,7 +606,7 @@
             </subsubsection>
             <subsubsection>
                 <title>-S Endings</title>
-                <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
+                <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
                 <list>
                     <ul>
                         <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
@@ -620,7 +620,7 @@
                 <title>Is/Are</title>
                 <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                 <p>
-                    <em>As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).</em>
+                    <em>As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).</em>
                     <ul>
                         <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
                         <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
