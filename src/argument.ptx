@@ -92,7 +92,7 @@
         <title>Making a Strong Argument</title>
         <p>Having the basic elements of an argument (main claim, evidence, substantiation, and counterpoint) is important, but that's not all you can do to make your argument as strong as possible. The most effective arguments are specific, meaningful, arguable within the scope of the assignment, supported by firm lines of evidence, and contestable. While you are developing your argument, use the following questions to help you frame and strengthen it further.</p>
         <list>
-            <title>Argument Checklist</title>
+            <caption>Argument Checklist</caption>
             <dl>
                 <li>
                     <title>Is it too broad/specific?</title>
@@ -295,7 +295,7 @@
         <p>Recommended sandwich combination(s) at the <acro>SUB</acro>:</p>
         <sidebyside>
             <list>
-                <title>Sandwich A</title>
+                <caption>Sandwich A</caption>
                 <ul>
                     <li><p>Focaccia bread</p></li>
                     <li><p>Salami</p></li>
@@ -309,7 +309,7 @@
                 </ul>
             </list>
             <list>
-                <title>Sandwich B</title>
+                <caption>Sandwich B</caption>
                 <ul>
                     <li><p>Whole wheat bread</p></li>
                     <li><p>Turkey</p></li>
@@ -323,7 +323,7 @@
                 </ul>
             </list>
             <list>
-                <title>Sandwich C</title>
+                <caption>Sandwich C</caption>
                 <ul>
                     <li><p>Rye bread</p></li>
                     <li><p>Pesto</p></li>

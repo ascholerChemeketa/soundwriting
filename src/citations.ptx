@@ -68,7 +68,7 @@
             <p>No matter the style, the basic components you need for each type of source remain relatively constant. Here are the components for a few types of frequently used sources:</p>
             <sidebyside>
                 <list>
-                    <title>Books</title>
+                    <caption>Books</caption>
                     <ul>
                         <li><p>Author(s)</p></li>
                         <li><p>Title</p></li>
@@ -78,7 +78,7 @@
                     </ul>
                 </list>
                 <list>
-                    <title>Journal Articles</title>
+                    <caption>Journal Articles</caption>
                     <ul>
                         <li><p>Author(s)</p></li>
                         <li><p>Title</p></li>
@@ -88,7 +88,7 @@
                     </ul>
                 </list>
                 <list>
-                    <title>Websites</title>
+                    <caption>Websites</caption>
                     <ul>
                         <li><p>Author(s)</p></li>
                         <li><p>Title</p></li>

@@ -3,7 +3,7 @@
     <title>Glossary of Academic Terms</title>
     <p>(Some words you need to know but might have been afraid to ask.)</p>
     <list>
-        <title>Words You May See in Writing Assignments</title>
+        <caption>Words You May See in Writing Assignments</caption>
         <dl>
             <li>
                 <title>Analyze</title>
@@ -32,7 +32,7 @@
         </dl>
     </list>
     <list>
-        <title>Research Terms and Kinds of Sources</title>
+        <caption>Research Terms and Kinds of Sources</caption>
         <dl>
             <li>
                 <title>Annotated bibliography</title>
@@ -65,7 +65,7 @@
         </dl>
     </list>
     <list>
-        <title>Rhetorical Terms</title>
+        <caption>Rhetorical Terms</caption>
         <dl>
             <li>
                 <title>Ethos/Pathos/Logos</title>
@@ -102,7 +102,7 @@
         </dl>
     </list>
     <list>
-        <title>Generally Good Words to Know</title>
+        <caption>Generally Good Words to Know</caption>
         <dl>
             <li>
                 <title>-centrism</title>

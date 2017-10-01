@@ -2,7 +2,7 @@
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
     <list>
-        <title>On-Campus Places to Study</title>
+        <caption>On-Campus Places to Study</caption>
         <ul>
             <li><p>Diversions/Oppenheimer</p></li>
             <li><p>Empty classrooms/resource rooms in Thompson</p></li>
@@ -25,7 +25,7 @@
         </ul>
     </list>
     <list>
-        <title>Off-Campus Places to Study</title>
+        <caption>Off-Campus Places to Study</caption>
         <ul>
             <li><p>Metronome</p></li>
             <li><p>Cafe Brosseau</p></li>
@@ -37,7 +37,7 @@
         </ul>
     </list>
     <list xml:id="productive-procrastination">
-        <title>Productive Procrastination</title>
+        <caption>Productive Procrastination</caption>
         <ul>
             <li><p>Work on citations</p></li>
             <li><p>Take the <init>CWLT</init>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
@@ -55,7 +55,7 @@
         </ul>
     </list>
     <list>
-        <title>Fun Puget Sound Facts</title>
+        <caption>Fun Puget Sound Facts</caption>
         <ul>
             <li><p>1890: Tuition for the college was <dollar/>20!</p></li>
             <li><p>1910: Nickname for athletics became the Loggers</p></li>

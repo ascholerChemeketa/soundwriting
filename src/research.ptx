@@ -37,7 +37,7 @@
             <p>Research can be a long process. Finding the best sources for your project can take weeks, months, or even a full semester! Sometimes, you will hit a roadblock and then feel like you have to go all the way back to square one. That's okay, because research is meant to be a cyclical process (see <xref ref="research-process-while-writing"/>). Even when it feels like you are starting over, you are still learning more and more about your topic, which will result in a very well-researched final paper!</p>
         </paragraphs>
         <list>
-            <title>Deal with information overload.</title>
+            <caption>Deal with information overload.</caption>
             <introduction>
                 <p>Research is a creative, recursive process, and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
             </introduction>
@@ -75,7 +75,7 @@
         <title>Defining and Refining A Research Question</title>
         <p>Once you've identified and explored your research topic, you'll need to work on refining your research question. A strong research question will allow you to delve into a genuine problem or question to which an answer is not obvious. In other words, you want a question that is debatable and arguable. In creating your own argument to answer the research question, you will use evidence from your research to acknowledge and refute any counterevidence that you encounter.</p>
         <list>
-            <title>Characteristics of Strong Research Questions</title>
+            <caption>Characteristics of Strong Research Questions</caption>
             <ul>
                 <li><p>typically ask <q>why?</q> or <q>how?</q> questions</p></li>
                 <li><p>have a clear focus</p></li>
@@ -85,7 +85,7 @@
             </ul>
         </list>
         <list>
-            <title>Key Steps</title>
+            <caption>Key Steps</caption>
             <ol>
                 <li><p>Begin by asking as many open-ended <q>why?</q> or <q>how?</q> questions as you can think of. Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Chapter 3 of <booktitle>The Craft of Research</booktitle>, available as an ebook in Primo to members of the University of Puget Sound community.</p></li>
                 <li><p>Begin to evaluate your research questions. Which question interests you the most? Why?</p></li>
@@ -143,7 +143,7 @@
             <p>Put phrases in quotation marks so that the database knows to search for that exact phrase<mdash/><c>"information literacy"</c> instead of <c>information literacy</c>.</p>
         </paragraphs>
         <list>
-            <title>Make full use of Boolean operators</title>
+            <caption>Make full use of Boolean operators</caption>
             <dl>
                 <li>
                     <title><c>OR</c></title>

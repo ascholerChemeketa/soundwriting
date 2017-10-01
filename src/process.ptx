@@ -11,7 +11,7 @@
             <image source="images/WP-Brain"/>
         </sidebyside>
         <list>
-            <title>Some Brainstorming Strategies</title>
+            <caption>Some Brainstorming Strategies</caption>
             <ul>
                 <li><p>Talk to a friend about your topic, ideas, and potential arguments.</p></li>
                 <li><p>Draw a picture of your argument in order to develop it.</p></li>
@@ -221,7 +221,7 @@
                 <image source="images/WP-AccentTree"/>
             </sidebyside>
             <list>
-                <title>Opening Statements to Avoid in Academic Writing</title>
+                <caption>Opening Statements to Avoid in Academic Writing</caption>
                 <ul>
                     <li><p>Vague and sweeping statements (<q>Since the dawn of mankind<nbsp/><ellipsis/>,</q> <q>Since the beginning of time<nbsp/><ellipsis/>,</q> <q>The truth is<nbsp/><ellipsis/>,</q> <q>Writers have always<nbsp/><ellipsis/></q>)</p></li>
                     <li><p>Restated questions (<q>Is the sky blue? Yes, it is.</q>)</p></li>
@@ -233,7 +233,7 @@
             </list>
             <p>Instead, try beginning with some of the following opening statement types.</p>
             <list>
-                <title>Effective Opening Statements</title>
+                <caption>Effective Opening Statements</caption>
                 <ul>
                     <li><p>Describe a location, person, scene, or anecdote.</p></li>
                     <li><p>Elucidate an interesting example.</p></li>
@@ -478,7 +478,7 @@
             <image source="images/WP-CutePenguin"/>
         </sidebyside>
         <list>
-            <title>Tricks</title>
+            <caption>Tricks</caption>
             <dl>
                 <li>
                     <title>Check bibliographies!</title>
@@ -602,7 +602,7 @@
         <title>Overcoming Obstacles</title>
         <p>Over the course of your writing process, you will inevitably run into roadblocks, get stuck, or have moments of panic. <em>These obstacles and feelings are completely normal.</em> Even the most accomplished professional and academic writers experience writer's block, anxiety, and frustration. The key to overcoming these paralyzing feelings is to develop strategies to use when they arise. As you practice these strategies, you will become better at knowing which strategy to use in order to overcome an obstacle most pleasantly and efficiently.</p>
         <list xml:id="what-to-do-when-you-get-stuck">
-            <title>What to do when you get stuck</title>
+            <caption>What to do when you get stuck</caption>
             <dl>
                 <li>
                     <title>Identify the source of the problem.</title>
@@ -627,7 +627,7 @@
             </dl>
         </list>
         <list>
-            <title>Managing Anxiety</title>
+            <caption>Managing Anxiety</caption>
             <dl>
                 <li>
                     <title>Know that you will be okay.</title>
@@ -648,7 +648,7 @@
             </dl>
         </list>
         <list>
-            <title>Managing Frustration</title>
+            <caption>Managing Frustration</caption>
             <dl>
                 <li>
                     <title>Writing is frustrating.</title>
@@ -672,7 +672,7 @@
             <image source="images/clock"/>
         </sidebyside>
         <list>
-            <title>Managing Time</title>
+            <caption>Managing Time</caption>
             <dl>
                 <li>
                     <title>Good time management helps prevent frustration.</title>
@@ -691,7 +691,7 @@
             </dl>
         </list>
         <list>
-            <title>What do you do if you've put the paper off too long and are now pressed for time?</title>
+            <caption>What do you do if you've put the paper off too long and are now pressed for time?</caption>
             <introduction>
                 <p>Don't put it off any longer. Start! You might be frustrated with yourself, but don't let that frustration derail the time that you do have left. Procrastination happens to everyone, so it's best to forgive yourself, to move on, and to remember that frustration next time you think about procrastinating. Now, take a deep breath and figure out where you are in the writing process. If you haven't yet started<nbsp/><ellipsis/></p>
             </introduction>
@@ -719,7 +719,7 @@
             </dl>
         </list>
         <list>
-            <title>Some tips to fight off procrastination:</title>
+            <caption>Some tips to fight off procrastination:</caption>
             <dl>
                 <li>
                     <title>Figure out why you want to procrastinate and address the problem.</title>

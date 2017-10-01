@@ -11,7 +11,7 @@
             <image source="images/genres-dear-professor"/>
         </sidebyside>
         <list>
-            <title>Greetings</title>
+            <caption>Greetings</caption>
             <introduction>
                 <p>(from most formal to least)</p>
             </introduction>
@@ -32,7 +32,7 @@
             <p>Finally, because writing to faculty and staff members is a professional activity, you will often be expected to write using <xref ref="SAE" text="title"/> (<init>SAE</init>) conventions, including punctuation, capitalization, sentence structure, and word choice.</p>
         </paragraphs>
         <list>
-            <title>Closings</title>
+            <caption>Closings</caption>
             <introduction>
                 <p>Even if you have an automatic signature set up, it's best to precede your name with a nice closing remark.</p>
                 <p>(From most formal to least)</p>
@@ -55,7 +55,7 @@
             <image source="images/genres-greetings"/>
         </sidebyside>
         <list>
-            <title>Tips on Responses</title>
+            <caption>Tips on Responses</caption>
             <ul>
                 <li>If it's not the weekend, a holiday, or a vacation, and if your professor is not out of town, on leave, or at a conference, you should be able to expect a reply within 24 hours. If you haven't received an email back after 24 hours except on the weekend, when many faculty members don't check email, it is usually okay to send another email. When writing your second email, continue being polite and don't be hurt, offended, or frustrated that you didn't get a reply. Remember, professors are people, too, with lots to juggle, including email responses.</li>
                 <li>
@@ -81,7 +81,7 @@
             <image source="images/whoami.png"/>
         </sidebyside>
         <list>
-            <title>Questions to Think About Before Writing</title>
+            <caption>Questions to Think About Before Writing</caption>
             <ul>
                 <li>When do you feel the most fulfilled/at your happiest?</li>
                 <li>Why do you feel fulfilled by that area of your life?</li>
@@ -93,7 +93,7 @@
             </ul>
         </list>
         <list>
-            <title>Tips for Writing</title>
+            <caption>Tips for Writing</caption>
             <dl>
                 <li>
                     <title>Use your personal statement to complement your application.</title>
@@ -131,7 +131,7 @@
             <p>A cover letter is a version of a business letter. Include your name, your address, the date you are applying, the hiring manager's name and title (if you have it), the company/agency name, and the company/agency address.</p>
         </paragraphs>
         <list>
-            <title>Greetings</title>
+            <caption>Greetings</caption>
             <introduction>
                 <p>Cover letters are generally addressed to the individual who will be doing the hiring. If you know their name, feel free to address them formally with their appropriate title, even if you know them well (<eg/>, <em>Ms., Mr. Dr., <etc/></em>). If you do not know the name of the person who is hiring, you can address the letter to the appropriate role: hiring manager, program director, company recruiter, or internship coordinator. Again, it's important to address all roles formally.</p>
             </introduction>
@@ -173,7 +173,7 @@
             </sidebyside>
         </paragraphs>
         <list>
-            <title>Tips for Writing</title>
+            <caption>Tips for Writing</caption>
             <dl>
                 <li>
                     <title>Be specific.</title>
@@ -215,7 +215,7 @@
             </sidebyside>
         </paragraphs>
         <list>
-            <title>Contact</title>
+            <caption>Contact</caption>
             <introduction>
                 <p>The contact serves as both the heading of your resume and offers the various ways your prospective employer can contact you. A contact can be personalized based on how you would best like to present yourself, but it generally includes your:</p>
             </introduction>
@@ -239,7 +239,7 @@
             </sidebyside>
         </paragraphs>
         <list>
-            <title>Past Relevant Experience</title>
+            <caption>Past Relevant Experience</caption>
             <introduction>
                 <p>In the past experience section, try to select a few relevant experiences or positions in reverse chronological order (most recent at top) that lend themselves particularly well to the job to which you are applying. For each experience, include:</p>
             </introduction>
@@ -258,7 +258,7 @@
             <image source="images/relevantexperience.png"/>
         </sidebyside>
         <list>
-            <title>Relevant Research</title>
+            <caption>Relevant Research</caption>
             <introduction>
                 <p>If you have independent research that you would like to showcase, for each research project, include the:</p>
             </introduction>
@@ -284,7 +284,7 @@
             </sidebyside>
         </paragraphs>
         <list>
-            <title>Tips for Writing</title>
+            <caption>Tips for Writing</caption>
             <dl>
                 <li>
                     <title>Tailor your resume to the job.</title>
@@ -318,7 +318,7 @@
             </sidebyside>
         </paragraphs>
         <list>
-            <title>What to Include</title>
+            <caption>What to Include</caption>
             <introduction>
                 <p>Your thank-you note should be simple and concise, demonstrate your enthusiasm for the organization, and express your excitement at the potential opportunity of working with them. To this end, a strong thank-you note should include:</p>
             </introduction>
