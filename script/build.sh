@@ -158,7 +158,7 @@ function website {
     echo "BUILD: username as parameter 2, then supply password... :BUILD"
     echo
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    cp ${ASSETS}/google773cdc5931bcf4e5.html ${SCRATCH}/html/google773cdc5931bcf4e5.html # Used by Google to confirm site ownership.
+    cp ${ASSETS}/*.html ${SCRATCH}/html/ # Used by Google to confirm site ownership.
     ${RSYNC} ${SCRATCH}/html/*  ${UNAME}@userweb.pugetsound.edu:/var/www/html/soundwriting.pugetsound.edu
 }
 
