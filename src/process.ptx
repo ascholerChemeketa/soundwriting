@@ -38,7 +38,7 @@
         </introduction>
         <subsection>
             <title>Pre-planning Questions</title>
-            <list>
+            <sidebyside>
                 <dl>
                     <li>
                         <title>Determine the purpose of your paper.</title>
@@ -65,7 +65,7 @@
                         <p>Before you begin writing, it's helpful to think about the tone of your essay<mdash/>the language you're going to use, how objective or subjective you will be, from which point of view you will write. For instance, you probably wouldn't write a chemistry lab report using the same language that you would use to write a personal narrative. Deciding on a voice early on can help you figure out what kind of language to use while you are planning, outlining, and drafting your paper.</p>
                     </li>
                 </dl>
-            </list>
+            </sidebyside>
         </subsection>
         <subsection>
             <title>Some Planning Strategies</title>
@@ -245,7 +245,7 @@
             </list>
             <p>For more ideas on how to begin, organize, and end introductions, take a look at the following examples by Puget Sound students. What do you see as the strengths and weaknesses of these examples? Make sure to note the thesis statements (<un s="1">underlined</un>) and opening statements:</p>
             <example>
-                <p>Discourse has profound effects on how we view reality, particularly in regard to gender roles. Due to our society's political correctness, much of the sexism that pervades modern thought is implicit; commentators make thinly veiled metaphors instead of declarations. This implicit bias is nothing new, as it dates back to ancient times. Many literary critics have embraced Homer's <booktitle>Odyssey</booktitle> as a departure from the explicit sexism of pre-Judea Greece, claiming that the centrality of female characters to the epic poem is a formal challenge to the ivory-laden walls of male domination. <un s="1">While women do have a substantial presence in the <booktitle>Odyssey</booktitle>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <booktitle>Odyssey</booktitle> primarily reinforces the chauvinist framework through which we view the world.</un></p>
+                <p>Discourse has profound effects on how we view reality, particularly in regard to gender roles. Due to our society's political correctness, much of the sexism that pervades modern thought is implicit; commentators make thinly veiled metaphors instead of declarations. This implicit bias is nothing new, as it dates back to ancient times. Many literary critics have embraced Homer's <pubtitle>Odyssey</pubtitle> as a departure from the explicit sexism of pre-Judea Greece, claiming that the centrality of female characters to the epic poem is a formal challenge to the ivory-laden walls of male domination. <un s="1">While women do have a substantial presence in the <pubtitle>Odyssey</pubtitle>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <pubtitle>Odyssey</pubtitle> primarily reinforces the chauvinist framework through which we view the world.</un></p>
             </example>
             <example>
                 <p>In early nineteenth-century America, the market revolution raised questions about the nature of a democratic republic. This political discussion was brought about by the development of an industrial working class, landless, economically dependent, and steadily increasing. While the <q>majority</q> within the United States during this time period did not consist solely of economically dependent industrial workers, they were becoming a larger percentage of the majority as the country continued to industrialize<mdash/>and were beginning to clamor for more representation in the government. This posed a threat to the wealthy, economically independent class of rich landowners, businessmen, and lawyers who had traditionally held government office. Facing increasing numbers of the industrial class, the politically established sought for ways to maintain their political influence. Essentially, the two classes were debating over the answer to the fundamental question regarding which group, the majority or the minority, should have greater access to governmental power. Within the greater context of this dispute, universal male suffrage was a smaller topic that reflected the same tensions revolving around this extremely significant political question. <un s="1">The relationship between the two debates was forged by the underlying theme concerning access to the government; universal male suffrage was a microcosm of the tension between the principle of majoritarianism and the preservation of minority rights concerning their places within the government. This question would significantly shape the political discourse in the United States for much of the nineteenth-century.</un></p>
@@ -255,7 +255,7 @@
                 <p>The Immigration Act placed a cap on the number of immigrants entering the United States from the Eastern or Western Hemispheres, and further divided that cap by placing a limit of 20,000 immigrants per annum from any country. The majority of people immigrating to America from Europe at this time were members of the working class. Among them was my dad. The Immigration Act was designed to make the process of immigration to the United States more fair and less biased toward people of European descent, who seemed <q>less foreign.</q> <un s="1">The Immigration Act of 1965 effectively restructured the United States' immigration policies in such a way that no group, minority or majority, was singled out by being discriminated against or given preferential treatment in terms of their ability to immigrate to America.</un></p>
             </example>
             <example>
-                <p>When is it justifiable to believe? When is it right to trust in a conviction that could potentially change your life in some way? Is reliable proof necessary? Are there certain criteria that must be met before a thought can become a belief? Or is simply having a desire to believe any idea that pops into your mind, irrational or not, reasonable ground for believing? It is these questions that William James and W.K. Clifford individually seek the answers to. <un s="1">In an excerpt from his book <booktitle>The Will to Believe</booktitle>, James successfully disproves Clifford's argument, explained in his article <q>The Ethics of Belief,</q> and reveals that under certain circumstances, it's moral and rational to believe something without evidence.</un></p>
+                <p>When is it justifiable to believe? When is it right to trust in a conviction that could potentially change your life in some way? Is reliable proof necessary? Are there certain criteria that must be met before a thought can become a belief? Or is simply having a desire to believe any idea that pops into your mind, irrational or not, reasonable ground for believing? It is these questions that William James and W.K. Clifford individually seek the answers to. <un s="1">In an excerpt from his book <pubtitle>The Will to Believe</pubtitle>, James successfully disproves Clifford's argument, explained in his article <q>The Ethics of Belief,</q> and reveals that under certain circumstances, it's moral and rational to believe something without evidence.</un></p>
             </example>
         </subsection>
     </section>
@@ -274,7 +274,7 @@
                     <li>
                         <ul>
                             <li>Scholars often hold up Athena and Penelope as portraits of independent and powerful women who were able to triumph over many men.</li>
-                            <li>Athena, too, is an example of sexism throughout the <booktitle>Odyssey</booktitle>.</li>
+                            <li>Athena, too, is an example of sexism throughout the <pubtitle>Odyssey</pubtitle>.</li>
                             <li>Before jumping to grandiose conclusions surrounding the role of women in ancient works, we must first take into consideration their actions and the ways in which they are described.</li>
                         </ul>
                     </li>
@@ -422,7 +422,7 @@
             </sidebyside>
             <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from Puget Sound student papers:</p>
             <example>
-                <p>Athena's relationships with Odysseus and Telemachus are clear examples of the strengthening of the gender divide, as it is these two men who win the day and the heart of Penelope. Athena stands out as the only venerable woman in the <booktitle>Odyssey</booktitle>, yet it is this very contrast that reminds us of the alleged lower standing of women.</p>
+                <p>Athena's relationships with Odysseus and Telemachus are clear examples of the strengthening of the gender divide, as it is these two men who win the day and the heart of Penelope. Athena stands out as the only venerable woman in the <pubtitle>Odyssey</pubtitle>, yet it is this very contrast that reminds us of the alleged lower standing of women.</p>
                 <p>Before jumping to grandiose conclusions surrounding the role of women in ancient works, we must first take into consideration their actions and the ways in which they are described. Their mere presence does not represent a victory for feminism, for it often means that they are being shown in a negative light. Only by reevaluating the discourse used in such works and determining whether it is empowering or problematic can we be objective in the way we view not only a specific work, but also an entire gender.</p>
             </example>
             <example>

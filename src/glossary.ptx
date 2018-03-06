@@ -56,11 +56,11 @@
             </li>
             <li>
                 <title>Subject encyclopedia</title>
-                <p>an encyclopedia whose entries cohere, often only topically, around a common subject (<eg/>, <booktitle>Encyclopedia of Puget Sound</booktitle>, an encyclopedia on the remediation of the Salish Sea ecosystem).</p>
+                <p>an encyclopedia whose entries cohere, often only topically, around a common subject (<eg/>, <pubtitle>Encyclopedia of Puget Sound</pubtitle>, an encyclopedia on the remediation of the Salish Sea ecosystem).</p>
             </li>
             <li>
                 <title>Volume</title>
-                <p>the term given to one book in a work or series composed of multiple books (<eg/>, Volume 1 of the <booktitle>Encyclopedia Britannica</booktitle>).</p>
+                <p>the term given to one book in a work or series composed of multiple books (<eg/>, Volume 1 of the <pubtitle>Encyclopedia Britannica</pubtitle>).</p>
             </li>
         </dl>
     </list>

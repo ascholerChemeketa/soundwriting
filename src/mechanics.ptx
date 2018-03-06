@@ -297,7 +297,7 @@
                     <p>Dependent/subordinate clause = a subject + a verb + something else = thought that cannot stand alone and make sense</p>
                     <p>Coordinating conjunction = <acro>FANBOYS</acro> (for, and, nor, but, or, yet, so)</p>
                 </paragraphs>
-                <list>
+                <sidebyside>
                     <dl>
                         <li>
                             <title><term>Simple</term></title>
@@ -338,7 +338,7 @@
                             </ul></p>
                         </li>
                     </dl>
-                </list>
+                </sidebyside>
             </subsubsection>
             <subsubsection xml:id="functional-types-of-sentences">
                 <title>Functional Types of Sentences</title>
@@ -464,7 +464,7 @@
                     <p><q>I would like <un s="1">to</un> <em>clearly and concisely</em> <un s="1">write</un> sentences with infinitives.</q></p>
                 </blockquote>
                 <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
-                <list>
+                <sidebyside>
                     <dl>
                         <li>
                             <title>Clear</title>
@@ -483,7 +483,7 @@
                             <p><q>LogJam! is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
                         </li>
                     </dl>
-                </list>
+                </sidebyside>
             </subsubsection>
         </subsection>
         <subsection xml:id="pronouns">
@@ -543,10 +543,8 @@
             <subsubsection>
                 <title>Problems with subject-verb agreement</title>
                 <p>Any student of a foreign language knows that consistent subject and verb agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular), or<mdash/>in the middle of complex sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
-                <list>
-                    <introduction>
-                        <p>Here are a few rules to help guide you through tricky sentences.</p>
-                    </introduction>
+                <p>Here are a few rules to help guide you through tricky sentences.</p>
+                <sidebyside>
                     <ul>
                         <li>
                             <p>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>and,</q> use a plural verb:</p>
@@ -576,7 +574,7 @@
                             </blockquote>
                         </li>
                     </ul>
-                </list>
+                </sidebyside>
                 <sidebyside width="50%">
                     <image source="images/LM-SubjectVerbAgreement"/>
                 </sidebyside>
@@ -607,14 +605,14 @@
             <subsubsection>
                 <title>-S Endings</title>
                 <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
-                <list>
+                <sidebyside>
                     <ul>
                         <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
                         <li><p><q>The first-year seminar student studies in the library.</q></p></li>
                         <li><p><q>The RDG members dance across the stage.</q></p></li>
                         <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
                     </ul>
-                </list>
+                </sidebyside>
             </subsubsection>
             <subsubsection>
                 <title>Is/Are</title>
@@ -705,10 +703,8 @@
                 <title>Collective Nouns</title>
                 <p>There are some subjects that may be singular or plural depending on how you use them.</p>
                 <p>In order to determine whether to use a singular or a plural verb, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
-                <list>
-                    <introduction>
-                        <p>A list of these collective nouns and example uses may be found below.</p>
-                    </introduction>
+                <p>A list of these collective nouns and example uses may be found below.</p>
+                <sidebyside>
                     <dl>
                         <li>
                             <title>class</title>
@@ -761,7 +757,7 @@
                             <p><q>The <un s="1">crowd</un> <em>are</em> running, jumping, and yelling.</q></p>
                         </li>
                     </dl>
-                </list>
+                </sidebyside>
             </subsubsection>
             <subsubsection>
                 <title>Fractional Expressions</title>
@@ -1120,7 +1116,7 @@
             <sidebyside width="50%">
                 <image source="images/LM-HerbTheStrongVerb"/>
             </sidebyside>
-            <list>
+            <sidebyside>
                 <dl>
                     <li><title>Affirm</title><p>to assert or support</p></li>
                     <li><title>Allude</title><p>to point out indirectly</p></li>
@@ -1153,7 +1149,7 @@
                     <li><title>Supplant</title><p>to take the place of, replace</p></li>
                     <li><title>Vilify</title><p>to defame or slander</p></li>
                 </dl>
-            </list>
+            </sidebyside>
             <aside>
                 <title>Note</title>
                 <p>You don't need to fill your writing with big, obscure words; instead, you'll want to use more complex words where appropriate to convey meaning more precisely and concisely.</p>
@@ -1683,7 +1679,7 @@
                     <li>
                         <p>Capitalize the first word in a complete quotation, or a quotation set off by a comma, even when the quotation begins in the middle of a sentence.</p>
                         <blockquote>
-                            <p>But the <booktitle>Sound Writing</booktitle> handbook said, <q>The first word in a quotation should be capitalized!</q></p>
+                            <p>But the <pubtitle>Sound Writing</pubtitle> handbook said, <q>The first word in a quotation should be capitalized!</q></p>
                         </blockquote>
                     </li>
                     <li>
@@ -1728,7 +1724,7 @@
     </section>
     <section xml:id="top-10-tips-confusing-english">
         <title>Top 10 Confusing Things in English</title>
-        <list>
+        <sidebyside>
             <ol>
                 <li xml:id="and-I-vs-and-me">
                     <p>Is it <q>She gave the book to Bob and I</q> or <q>She gave the book to Bob and me</q>?</p>
@@ -1844,6 +1840,6 @@
                     <p>In <xref ref="SAE" text="title"/>, commas and periods go inside <q>quotation marks.</q> The exception to this guideline is for some citation styles, like MLA, which <q>look like this</q> (page number).</p>
                 </li>
             </ol>
-        </list>
+        </sidebyside>
     </section>
 </chapter>
