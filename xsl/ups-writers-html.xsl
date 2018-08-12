@@ -2,6 +2,7 @@
 
 <!-- For University of Puget Sound, Writer's Handbook      -->
 <!-- 2016/07/29  R. Beezer, rough underline styles         -->
+<!-- 2018/08/12  R. Beezer, removed ellipsis with spacing  -->
 
 <!-- Identify as a stylesheet -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
@@ -110,11 +111,6 @@
 <!-- bottom: -3px; -->
 <!-- left: -2px; -->
 <!-- } -->
-
-<!-- Ellipsis (dots), for text, not math -->
-<xsl:template match="ellipsis">
-    <xsl:text>.&#xa0;.&#xa0;.</xsl:text>
-</xsl:template>
 
 <!-- Bibliography Formatting -->
 <xsl:template match="i">

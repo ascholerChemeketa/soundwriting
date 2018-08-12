@@ -2,6 +2,7 @@
 
 <!-- For University of Puget Sound, Writer's Handbook      -->
 <!-- 2016/07/29  R. Beezer, rough underline styles         -->
+<!-- 2018/08/12  R. Beezer, removed ellipsis with spacing   -->
 
 <!DOCTYPE xsl:stylesheet [
     <!ENTITY % entities SYSTEM "../xsl/entities.ent">
@@ -69,11 +70,6 @@
 </xsl:template>
 
 <!-- A wavy underline, potential '5': \uwave{} -->
-
-<!-- Ellipsis (dots), for text, not math -->
-<xsl:template match="ellipsis">
-    <xsl:text>{.~.~.}</xsl:text>
-</xsl:template>
 
 <!-- Bibliography Formatting -->
 <xsl:template match="i">
