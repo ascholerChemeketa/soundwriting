@@ -289,6 +289,7 @@
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality, Sir David Attenborough, narrate the beginning of the <q>Hello</q> music video.</p>
         <sidebyside width="50%">
             <video youtube="enu-qR0H_uk" preview="generic"/>
+            <video xml:id="attenborough" youtube="enu-qR0H_uk"/>
         </sidebyside>
     </section>
     <conclusion>
