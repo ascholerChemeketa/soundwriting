@@ -15,7 +15,7 @@ DIR="$(dirname "$0")"
 . ${DIR}/paths.sh
 
 # following depend on paths source'd above
-declare MBXSL=${MBX}/xsl
+declare MBXSL=${SRC}/xsl
 declare MBUSER=${MBX}/user
 declare MBXSCRIPT=${MBX}/script/mbx
 declare SOURCE=${SRC}/src
