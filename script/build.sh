@@ -67,36 +67,45 @@ function setup_pdf {
 }
 
 # Validation using RELAX-NG
-# Excluding the colors is reasonable, the remainder are too aggressive
-function validate {
+# Colors, 3 other elements, and one attribute,
+# are all non-standard extensions
+function schema-validate {
+    echo
+    echo "BUILD: RELAX-NG Validation :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     java\
         -classpath ${JINGTRANG}\
         -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration\
         -jar ${JINGTRANG}/jing.jar\
-        ${MBX}/Schema/pretext.rng ${SOURCE}/SoundWriting.ptx\
+        ${MBX}/schema/pretext.rng ${SOURCE}/SoundWriting.ptx\
     | grep -v\
-        -e '"blue"'\
-        -e '"darkgreen"'\
-        -e '"darkpurple"'\
-        -e '"darkred"'\
-        -e '"gray"'\
-        -e '"green"'\
-        -e '"lightblue"'\
-        -e '"lightgreen"'\
-        -e '"lightpink"'\
-        -e '"lightpurple"'\
-        -e '"maroon"'\
-        -e '"navy"'\
-        -e '"orange"'\
-        -e '"pink"'\
-        -e '"purple"'\
-        -e '"red"'\
-        -e '"teal"'\
-        -e '"i"'\
-        -e '"un"'\
-        -e '"highlight"'\
-        -e '"indent"'\
+        -e ': error: element "blue" not allowed anywhere;'\
+        -e ': error: element "darkgreen" not allowed anywhere;'\
+        -e ': error: element "darkpurple" not allowed anywhere;'\
+        -e ': error: element "darkred" not allowed anywhere;'\
+        -e ': error: element "gray" not allowed anywhere;'\
+        -e ': error: element "green" not allowed anywhere;'\
+        -e ': error: element "lightblue" not allowed anywhere;'\
+        -e ': error: element "lightgreen" not allowed anywhere;'\
+        -e ': error: element "lightpink" not allowed anywhere;'\
+        -e ': error: element "lightpurple" not allowed anywhere;'\
+        -e ': error: element "maroon" not allowed anywhere;'\
+        -e ': error: element "navy" not allowed anywhere;'\
+        -e ': error: element "orange" not allowed anywhere;'\
+        -e ': error: element "pink" not allowed anywhere;'\
+        -e ': error: element "purple" not allowed anywhere;'\
+        -e ': error: element "red" not allowed anywhere;'\
+        -e ': error: element "teal" not allowed anywhere;'\
+        -e ': error: element "i" not allowed anywhere;'\
+        -e ': error: element "un" not allowed anywhere;'\
+        -e ': error: element "highlight" not allowed anywhere;'\
+        -e ': error: attribute "indent" not allowed here;'\
     > ${SCRATCH}/errors.txt
+    echo
+    echo "BUILD: Schematron Validation :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    xsltproc --xinclude ${MBX}/schema/pretext-schematron.xsl ${SOURCE}/SoundWriting.ptx\
+    >> ${SCRATCH}/errors.txt
 }
 
 function view_errors {
@@ -130,7 +139,7 @@ function build_pdf {
 }
 
 function view_pdf {
-    ${PDFVIEWER} ${SCRATCH}/SoundWriting-electronic.pdf
+    ${PDFVIEWER} ${SCRATCH}/SoundWriting-electronic.pdf &
 }
 
 # Subroutine to build the print PDF version
@@ -206,7 +215,7 @@ case "$1" in
     ;;
     "validate")
     setup
-    validate
+    schema-validate
     ;;
     "viewerrors")
     setup
