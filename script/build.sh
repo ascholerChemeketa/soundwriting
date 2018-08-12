@@ -48,11 +48,17 @@ function setup {
     cp ${MBX}/contrib/ups-writers/ups-writers-latex.xsl ${MBUSER}/ups-writers-latex.xsl
 }
 
+function build_you_tube_thumbnail {
+    echo
+    echo "BUILD: Building YouTube Thumbnails :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
+}
+
 function setup_pdf {
     echo
     echo "BUILD: Building PDF Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
     install -d ${SCRATCH}/pdf # Create the pdf scratch directory
     rm -rf ${SCRATCH}/pdf/*.aux ${SCRATCH}/pdf/*.log ${SCRATCH}/pdf/*.tex ${SCRATCH}/pdf/*.toc # Clear the pdf scratch directory
     install -d ${SCRATCH}/pdf/images # Create pdf images directory
@@ -61,6 +67,7 @@ function setup_pdf {
 }
 
 # Validation using RELAX-NG
+# Excluding the colors is reasonable, the remainder are too aggressive
 function validate {
     java\
         -classpath ${JINGTRANG}\
@@ -101,7 +108,6 @@ function build_html {
     echo
     echo "BUILD: Building HTML Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
     install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
     cd ${SCRATCH}/html
     rm *.html
@@ -171,6 +177,9 @@ case "$1" in
     build_pdf
     setup_pdf
     build_print
+    ;;
+    "youtube")
+    build_you_tube_thumbnail
     ;;
     "html")
     setup
