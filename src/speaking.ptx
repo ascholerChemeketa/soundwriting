@@ -81,7 +81,7 @@
     </p>
     <p>Just breathe and relax, and it will be all right.</p>
     <list>
-        <caption>Top 5 differences between written and spoken (or signed!) language</caption>
+        <paragraphs><title>Top 5 differences between written and spoken (or signed!) language</title>
         <ol>
             <li><p>The obvious difference (excluding the modern inventions of radio, telephones, and television): written language allows people to communicate across time and space, while spoken language happens immediately and is available only for those who can hear it (or see it, in the case of sign languages).</p></li>
             <li><p>Virtually every human being learns to speak, while literacy is far less common. Today, almost 17<percent/> of adults around the world are illiterate.</p></li>
@@ -89,6 +89,7 @@
             <li><p>Spoken and signed languages can have varieties and dialects, while written language is generally more regulated and standardized.</p></li>
             <li><p>Writing and speaking appear to use different parts of the brain.</p></li>
         </ol>
+        </paragraphs>
     </list>
     <paragraphs>
         <title>Differences in Dialectual/Cultural Rules</title>

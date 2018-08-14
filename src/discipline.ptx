@@ -31,7 +31,7 @@
             <p>Papers that you will write in Studio Art courses will focus primarily on visual evidence, although occasionally primary sources of artists' writings or secondary scholarly sources will also be used.</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+            <paragraphs><title>Conventions and Tips</title>
             <dl>
                 <li>
                     <title>Be selective.</title>
@@ -46,6 +46,7 @@
                     <p>Use Chicago Style to format your references in Art History papers.</p>
                 </li>
             </dl>
+            </paragraphs>
         </list>
         <paragraphs>
             <title>Additional Resources</title>
@@ -77,11 +78,12 @@
             <p>Because biology is a natural science, the only kind of data you should use is empirical, reproducible data you have collected yourself or data from a peer-reviewed, secondary source published in a scholarly journal. Quoting is generally discouraged, although there are exceptions for research papers, proposals, or grants.</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+            <paragraphs><title>Conventions and Tips</title>
             <ul>
                 <li><p>Don't write your paper in the order it's presented to you in the template. It's easier to reverse-engineer your paper by starting with figures, tables, and the methods and results sections, and then working your way through the discussion, finishing with your title and introduction. This approach will allow you to focus the information that you include in your introduction so that it is relevant to the rest of the experiment rather than wasting time writing about things that aren't relevant.</p></li>
                 <li><p>Rely on the formatting given to you by your professors. Specifically ask your professor about whether they prefer active or passive voice<mdash/>this issue is still up for debate in science writing, and different professors (and different branches of the field) have different policies.</p></li>
             </ul>
+            </paragraphs>
         </list>
         <paragraphs>
             <title>Additional Resources</title>
@@ -111,12 +113,13 @@
             <p>When you're providing evidence in a business paper, the kinds of evidence you'll want to rely on will come largely from peer-reviewed publications. In business scenarios, quantifiable evidence is usually the most persuasive, so using figures and situating data in its dated time period are key to building a reliable, accurate argument.</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+             <paragraphs><title>Conventions and Tips</title>>
             <ul>
                 <li><p>Proofread your paper for spelling and grammar. While grammar may seem less important to some writers, imagine that you are a business executive sending an email to your staff. If the email you send has spelling errors in the first sentence you could lose credibility and professionalism in the eyes of your readers.</p></li>
                 <li><p>You can use subheadings to organize your papers. While subheadings are discouraged in some disciplines, feel free to use them for business papers to add extra clarity and formality.</p></li>
                 <li><p>Don't use clichés, contractions, or passive clauses. And while personal pronouns are okay, don't start a sentence with <q>I think.</q> While these rules may seem overly fastidious, it's important to follow them so that your writing is both professional and reflective of your own distinctive voice. Using clichés is counterproductive to both of these values because they aren't your own words and they are not particularly professional. Further, starting a sentence with <q>I think</q> can sound demure rather than convincing. And finally, using passive clauses rather than active ones can sometimes emphasize the responsibility or actions of the subject of a sentence. Write actively to ensure that your prose is fluid and compelling.</p></li>
             </ul>
+            </paragraphs>
         </list>
         <paragraphs>
             <title>Additional Resources</title>
@@ -147,7 +150,7 @@
             <p>Evidence in chemistry<mdash/>as in all natural sciences<mdash/>is exclusively empirical, reproducible data from experiments you have done yourself or from a peer-reviewed, scholarly source. As the quote marking this subsection suggests, it can be very helpful to organize your results and explain the context you give in your introduction using figures and tables. These tables and figures are a powerful way to harness your evidence if you pair them with descriptive captions and embed them in the text of your lab report. That said, figures and tables don't <em>replace</em> words: don't include a figure if you don't explain it in text!</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+             <paragraphs><title>Conventions and Tips</title>
             <ul>
                 <li><p>Don't write from beginning to end. Many students think they should write a report in the order that it appears, but this is often an inefficient way to write a research paper<mdash/>the abstract comes immediately after the title, but it should normally be written last, because it is easier to summarize the research after you've written the entire report and have thus refined your understanding of the research. Although there is no one-size-fits-all approach, here is an order that is usually effective: Organize your thoughts and your data, write the Experimental Section, prepare the important illustrations (<ie/>, Tables, Figures, and Schemes), write the Results section (using the illustrations as a guide), draft an outline of the Discussion section, write the Introduction, complete the Discussion Section, write the Conclusions, add References, write the Title and Abstract.</p></li>
                 <li><p>Start early and get help if needed. Usually professors won't have time to go over your whole draft, so make sure you go into office hours or send an email with a few specific questions for them to answer.</p></li>
@@ -161,6 +164,7 @@
                 <li><p>Use the correct citation style.</p></li>
                 <li><p>Write in pen in your lab notebook. You'll find out why, if you spill something!</p></li>
             </ul>
+            </paragraphs>
         </list>
         <paragraphs>
             <title>Additional Sources</title>
@@ -194,7 +198,7 @@
             <p>Evidence in English is almost exclusively textual; however, textual evidence is not <q>evidence</q> in itself! When you include textual evidence it should be because its specific language or mechanical aspects are <q>meaningful in a way that is irreducible</q>; that is, it would be impossible to rephrase the language in any other way without losing some important part of the meaning. However the meaning that <em>you</em> see in the textual evidence is not self-evident: when you include textual evidence you must always use your own words to explain how it is meaningful to your argument.</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+             <paragraphs><title>Conventions and Tips</title>
             <ul>
                 <li><p>When you get an essay back, carefully consider the comments your professor has made. Professors put a lot of time and thought into writing them. These comments are a great way not only to improve your writing but also serve as the beginning of a conversation you can have with your professor during office hours.</p></li>
                 <li><p>Although English writing has a reputation for being florid and ornate, as in every other discipline, good writing is clear writing. Don't use as many adverbs as possible or sacrifice clarity and coherence for an elevated register.</p></li>
@@ -206,6 +210,7 @@
                 <li><p>Don't hide behind an <em>I</em> to say that it's just little old me who thinks something, but that it's probably not right; however, some hedging is good! You don't have to <q>prove</q> something beyond a shadow of a doubt; you can be circumspect and use words like <q>suggests</q> or <q>indicates</q> to acknowledge where the evidence isn't strong enough to make a bolder claim.</p></li>
                 <li><p>Introduce the authors of your secondary sources in text. This helps establish context and shows that you are entering into a conversation with other scholars.</p></li>
             </ul>
+            </paragraphs>
         </list>
         <paragraphs>
             <title>Additional Resources</title>
@@ -237,7 +242,7 @@
             <p>History is a <q>quoting disciple</q><mdash/>you'll need to use quotes from your primary sources to make supportable claims. However, writing for history will also give you the opportunity to use non linear textual evidence at times, such as maps, historical artifacts, and art.</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+            <paragraphs><title>Conventions and Tips</title>
             <ul>
                 <li><p>It is fundamental to historical writing that you put your sources in context. Without this contextualization, your analysis may be anachronistic.</p></li>
                 <li><p>Secondary sources aren't proof. Don't use theories as facts, instead use them to frame your argument rather than <q>prove</q> it.</p></li>
@@ -248,6 +253,7 @@
                 <li><p>Write in the past tense!</p></li>
                 <li><p>Citations are important. Use the Chicago style in general.</p></li>
             </ul>
+            </paragraphs>
         </list>
         <paragraphs>
             <title>Additional Resources</title>
@@ -280,20 +286,22 @@
             <p>In your music classes, just like your English and history classes, evidence is almost exclusively textual. However in music-writing, scores and performances are also considered to be texts, and accurate descriptions of them are what constitute evidence. Unlike in the sciences, you won't be creating evidence yourself (by doing an experiment), instead you are finding evidence in secondary sources and by your own observation.</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+            <paragraphs><title>Conventions and Tips</title>
             <ul>
                 <li><p>Describing music involves using a series of agreed-upon metaphors (e.g. a wet sound v. a dry sound). While such terminology can be daunting, it can be very helpful when writing about sound.</p></li>
                 <li><p>With the above tip in mind, there is sometimes a misconception that when you are writing about music it has to be really jargon-laden and technical. If you are uncomfortable with writing about music, it is always better to say what you have to say clearly rather than throwing words out like a cloud of squid ink.</p></li>
                 <li><p>Because music takes place in time, there is a tendency to work your way through a piece that you are writing about from beginning to end. Part of mastery is not being stuck doing this kind of <q>inchworm</q> writing. If you notice yourself using <q>and then</q> a lot, think about whether you could organize your thoughts in a more persuasive way.</p></li>
                 <li><p>Make sure to refer specifically to the measure in a score or the timing in a recording when describing a musical piece.</p></li>
             </ul>
+            </paragraphs>
         </list>
         <list>
-            <caption>Additional Resources</caption>
+            <paragraphs><title>Additional Resources</title>
             <ul>
                 <li><p>A Short Guide to Writing About Music by Jonathan D. Bellman</p></li>
                 <li><p>The <url href="https://www.nytimes.com/section/books/review">New York Times book review section</url> provides great examples of how to write a book review.</p></li>
             </ul>
+            </paragraphs>
         </list>
     </section>
     <section xml:id="writing-for-psychology">
@@ -321,11 +329,12 @@
             <p>The data you use should be empirical rather than textual. For this reason, a theory from a secondary source is not evidence, and most professors discourage the use of quotes. However, while psychological data is scientific, <em>how</em> you interpret it is inherently qualitative. While in the natural sciences, for example, if you want to know the temperature at which a metal melts, you can take a thermometer and watch and see when it melts and you'll know the answer: you can observe the physical process you want to know about directly. In psychology you can almost never see the psychological process you want to know about because it's inside a person. For example, you could have an idea that a pharmaceutical increases hunger and then, when you give this pharmaceutical to people they eat more. Did the pharmaceutical increase hunger? Possibly. That's a good possible explanation for what happened, but you didn't see hunger, you just saw eating and you have to make a link between what you saw (which was people eating) and the underlying thing you think is in there (which is hunger). In this way, while the data you collect are wholly scientific, the way you choose to explain that evidence is, by nature, conjectural.</p>
         </paragraphs>
         <list>
-            <caption>Conventions and Tips</caption>
+            <paragraphs><title>Conventions and Tips</title>
             <ul>
                 <li><p>Psychology writing operates on the sometimes subtle differentiation between broad generalizations and possible explanations. For this reason, writing in psychology relies on the <q>tentative tone.</q> Don't say <q>love is dangerous,</q> instead say <q>love can be dangerous</q> and add supporting evidence, allowing room for other conclusions.</p></li>
                 <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. Cite them, but don't introduce them formally.</p></li>
             </ul>
+            </paragraphs>
         </list>
         <paragraphs>
             <title>Additional Resources</title>

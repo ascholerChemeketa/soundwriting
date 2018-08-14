@@ -28,7 +28,6 @@
         <caption>Off-Campus Places to Study</caption>
         <ul>
             <li><p>Metronome</p></li>
-            <li><p>Cafe Brosseau</p></li>
             <li><p>Bluebeard Coffee Roasters</p></li>
             <li><p>Owen Beach at Point Defiance</p></li>
             <li><p>Anthem Coffee <ampersand/> Tea</p></li>
@@ -54,20 +53,4 @@
             <li><p>Make a writing appointment at the <init>CWLT</init>!</p></li>
         </ul>
     </list>
-    <list>
-        <caption>Fun Puget Sound Facts</caption>
-        <ul>
-            <li><p>1890: Tuition for the college was <dollar/>20!</p></li>
-            <li><p>1910: Nickname for athletics became the Loggers</p></li>
-            <li><p>1913: Women's basketball started</p></li>
-            <li><p>1924: Jones Hall completed</p></li>
-            <li><p>1927: Howarth Hall completed</p></li>
-            <li><p>1932: Adelphians created</p></li>
-            <li><p>1937: Physical education was one of the five required courses</p></li>
-            <li><p>1949: Field house completed</p></li>
-            <li><p>1963: Puget Sound had a joint convocation ceremony with Pacific Lutheran University, which was attended by President John F. Kennedy</p></li>
-            <li><p>1977: <acro>KUPS</acro> had its first broadcast in April</p></li>
-            <li><p>1979: President Phibbs instituted Fireside Dinners</p></li>
-        </ul>
-    </list>
-</chapter>
+   </chapter>

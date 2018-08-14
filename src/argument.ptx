@@ -92,7 +92,7 @@
         <title>Making a Strong Argument</title>
         <p>Having the basic elements of an argument (main claim, evidence, substantiation, and counterpoint) is important, but that's not all you can do to make your argument as strong as possible. The most effective arguments are specific, meaningful, arguable within the scope of the assignment, supported by firm lines of evidence, and contestable. While you are developing your argument, use the following questions to help you frame and strengthen it further.</p>
         <list>
-            <caption>Argument Checklist</caption>
+            <paragraphs><title>Argument Checklist</title>
             <dl>
                 <li>
                     <title>Is it too broad/specific?</title>
@@ -119,6 +119,7 @@
                     <p>Even if you have a brilliant argument, it's important to remember that it needs to respond to your prompt or assignment (see <xref ref="how-to-read-writing-prompts"/>). If the prompt asked you to <q>assess the influence of rainfall on student academic productivity,</q> you likely wouldn't argue that <q>the weather during a prospective student's campus tour influences their decision to attend Puget Sound.</q> Some professors are more particular about their assignment prompts or rubrics than others and may have specific guidelines or requirements that you will need to take into account as you construct your argument. In situations when you notice that your argument has shifted away from the prompt, resist the feeling that you must stifle your argument to <q>fit the requirements</q>; try to perceive those situations as opportunities to articulate your argument in a way that both satisfies the assignment and preserves your voice. One way to do this is to imagine your argument as an open dialogue with your professor rather than simply a response to a prompt.</p>
                 </li>
             </dl>
+            </paragraphs>
         </list>
         <sidebyside width="50%">
             <image source="images/AD-Rain"/>
@@ -287,7 +288,7 @@
         </paragraphs>
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality, Sir David Attenborough, narrate the beginning of the <q>Hello</q> music video.</p>
         <sidebyside width="50%">
-            <video youtube="enu-qR0H_uk"/>
+            <video youtube="enu-qR0H_uk" preview="generic"/>
         </sidebyside>
     </section>
     <conclusion>

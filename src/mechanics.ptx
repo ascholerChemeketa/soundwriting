@@ -14,7 +14,7 @@
             <title>Parts of Speech</title>
             <p>Each word in a sentence belongs to a part of speech. There are eight parts of speech: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Words can belong to multiple parts of speech, depending on how they're being used. By being able to identify the part of speech a word falls into, you can better understand the underlying forms and meanings of a sentence.</p>
             <list xml:id="eight-parts-of-speech">
-                <caption>Here are the eight parts of speech and some examples</caption>
+                <paragraphs><title>Here are the eight parts of speech and some examples</title>
                 <dl>
                     <li>
                         <title><term>Noun</term></title>
@@ -71,6 +71,7 @@
                         <p>Examples: Ah!, crap, duh, huh?, no!, wow</p>
                     </li>
                 </dl>
+                </paragraphs>
             </list>
             <sidebyside width="50%">
                 <image source="images/LM-PartsofSpeech"/>
@@ -142,19 +143,21 @@
                     </p>
                 </example>
                 <list>
-                    <caption>Clauses</caption>
+                    <paragraphs><title>Clauses</title>
                     <ul>
                         <li>Begin with subordinating conjunctions.</li>
                         <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li>
                     </ul>
+                    </paragraphs>
                 </list>
                 <list>
-                    <caption>Adjective/Relative Clauses</caption>
+                    <paragraphs><title>Adjective/Relative Clauses</title>
                     <ul>
                         <li>Act as adjectives to modify a noun (the subject)</li>
                         <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
                         <li>Answers the question(s): Which one? How many? What kind?</li>
                     </ul>
+                    </paragraphs>
                 </list>
                 <example>
                     <p>
@@ -177,12 +180,13 @@
                     </p>
                 </example>
                 <list>
-                    <caption>Adverb Clauses</caption>
+                    <paragraphs><title>Adverb Clauses</title>
                     <ul>
                         <li>Act as adverbs to modify the verb in a sentence</li>
                         <li>Begin with a subordinating conjunction (although, because, after, until, <etc/>)</li>
                         <li>Answers the question(s): How? When? Why? Where?</li>
                     </ul>
+                    </paragraphs>
                 </list>
                 <example>
                     <p>
@@ -205,12 +209,13 @@
                     </p>
                 </example>
                 <list>
-                    <caption>Noun Clauses</caption>
+                    <paragraphs><title>Noun Clauses</title>
                     <ul>
                         <li>Act as nouns</li>
                         <li>Begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, <etc/></li>
                         <li>Answers the question(s): What? Who?</li>
                     </ul>
+                    </paragraphs>
                 </list>
                 <example>
                     <p>
@@ -238,7 +243,7 @@
                     <p>Whereas a clause has both a noun <em>and</em> a verb, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an adjective).</p>
                 </assemblage>
                 <list xml:id="common-types-of-phrases">
-                    <caption>The most common types of phrases</caption>
+                    <paragraphs><title>The most common types of phrases</title>
                     <dl>
                         <li>
                             <title>Infinitive phrases</title>
@@ -271,6 +276,7 @@
                             <p><q>Although it may seem like a good idea, <em>having pizza from The Cellar for every meal</em> probably isn't the way to go.</q></p>
                         </li>
                     </dl>
+                    </paragraphs>
                 </list>
             </subsubsection>
             <subsubsection xml:id="modifiers">
@@ -1003,13 +1009,14 @@
                 <p>Incorrect word choice usually occurs when a writer uses a word outside of its standard definition or context. This misuse can happen for a variety of reasons, including the writer having a wrong mental definition of the word, not knowing the word's popular connotation, or using the word in an inappropriate disciplinary context.</p>
             </paragraphs>
             <list>
-                <caption>How to avoid misusing words</caption>
+                <paragraphs><title>How to avoid misusing words</title>
                 <ul>
                     <li><p>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up! (We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p></li>
                     <li><p>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course). The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p></li>
                     <li><p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, <em>do your course readings</em>! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
                     <li><p>See <xref ref="considering-homophones"/> to avoid misusing words that sound alike.</p></li>
                 </ul>
+                </paragraphs>
             </list>
             <paragraphs>
                 <title>Ineffective Word Choice</title>
@@ -1375,7 +1382,7 @@
                     <image source="images/LM-CircleLogoAmpersand"/>
                 </sidebyside>
                 <list>
-                    <caption>Quoting complete sentences</caption>
+                    <paragraphs><title>Quoting complete sentences</title>
                     <dl>
                         <li>
                             <title>Enclose the quote within two sets of quotation marks.</title>
@@ -1448,9 +1455,10 @@
                             </blockquote>
                         </li>
                     </dl>
+                    </paragraphs>
                 </list>
                 <list>
-                    <caption>Quoting fragments</caption>
+                    <paragraphs><title>Quoting fragments</title>
                     <dl>
                         <li>
                             <title>Quoted fragments should not be capitalized.</title>
@@ -1480,6 +1488,7 @@
                             </blockquote>
                         </li>
                     </dl>
+                    </paragraphs>
                 </list>
             </subsubsection>
             <subsubsection>
@@ -1489,7 +1498,7 @@
                     <image source="images/LM-TurtlesAndWomen"/>
                 </sidebyside>
                 <list>
-                    <caption>To indicate possession for <ellipsis/></caption>
+                    <paragraphs><title>To indicate possession for <ellipsis/></title>
                     <dl>
                         <li>
                             <title>A singular noun or proper noun</title>
@@ -1545,6 +1554,7 @@
                             <p>[Gina] + ['] + [s] and [Tommy] + ['] + [s] = Gina's and Tommy's</p>
                         </li>
                     </dl>
+                    </paragraphs>
                 </list>
                 <sidebyside width="50%">
                     <image source="images/LM-GiraffeTree"/>
@@ -1581,7 +1591,7 @@
             <title>Capitalization</title>
             <p>If English were a more consistent language, capitalization might not be such a pain. Unfortunately, it's not, though there are some general guidelines that can help you to decide whether a word should be capitalized or not.</p>
             <list>
-                <caption>General Guidelines</caption>
+                <paragraphs><title>General Guidelines</title>
                 <ul>
                     <li>
                         <p>
@@ -1695,9 +1705,10 @@
                         <p><q>To do: homework, cook dinner, sleep.</q></p>
                     </li>
                 </ul>
+                </paragraphs>
             </list>
             <list>
-                <caption>Titles</caption>
+                <paragraphs><title>Titles</title>
                 <ul>
                     <li>
                         <p>
@@ -1719,12 +1730,13 @@
                     </li>
                     <li><p>It is also fairly painless to find a capitalization automator online, which will capitalize your title according to the stylesheet you choose. (Google search <q>Capitalize my title.</q>)</p></li>
                 </ul>
+                </paragraphs>
             </list>
         </subsection>
     </section>
     <section xml:id="top-10-tips-confusing-english">
         <title>Top 10 Confusing Things in English</title>
-        <sidebyside>
+        <p>
             <ol>
                 <li xml:id="and-I-vs-and-me">
                     <p>Is it <q>She gave the book to Bob and I</q> or <q>She gave the book to Bob and me</q>?</p>
@@ -1840,6 +1852,6 @@
                     <p>In <xref ref="SAE" text="title"/>, commas and periods go inside <q>quotation marks.</q> The exception to this guideline is for some citation styles, like MLA, which <q>look like this</q> (page number).</p>
                 </li>
             </ol>
-        </sidebyside>
+        </p>
     </section>
 </chapter>

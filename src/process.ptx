@@ -11,7 +11,7 @@
             <image source="images/WP-Brain"/>
         </sidebyside>
         <list>
-            <caption>Some Brainstorming Strategies</caption>
+            <paragraphs><title>Some Brainstorming Strategies</title>>
             <ul>
                 <li><p>Talk to a friend about your topic, ideas, and potential arguments.</p></li>
                 <li><p>Draw a picture of your argument in order to develop it.</p></li>
@@ -23,6 +23,7 @@
                 <li><p>Do some preliminary research about your topic and make note of any trends or patterns you observe.</p></li>
                 <li><p>Think about your topic while you are doing something else, like yoga, cooking, or reading a book for pleasure.</p></li>
             </ul>
+            </paragraphs>
         </list>
         <sidebyside width="50%">
             <image source="images/WP-Yoga"/>
@@ -221,7 +222,7 @@
                 <image source="images/WP-AccentTree"/>
             </sidebyside>
             <list>
-                <caption>Opening Statements to Avoid in Academic Writing</caption>
+                <paragraphs><title>Opening Statements to Avoid in Academic Writing</title>
                 <ul>
                     <li><p>Vague and sweeping statements (<q>Since the dawn of mankind<nbsp/><ellipsis/>,</q> <q>Since the beginning of time<nbsp/><ellipsis/>,</q> <q>The truth is<nbsp/><ellipsis/>,</q> <q>Writers have always<nbsp/><ellipsis/></q>)</p></li>
                     <li><p>Restated questions (<q>Is the sky blue? Yes, it is.</q>)</p></li>
@@ -230,10 +231,11 @@
                     <li><p>Clichés or common adages (<q>History repeats itself<nbsp/><ellipsis/>,</q> <q>Once upon a time<nbsp/><ellipsis/></q>)</p></li>
                     <li><p>Citing a statistic (<q>98<percent/> of people believe<nbsp/><ellipsis/></q>)</p></li>
                 </ul>
+            </paragraphs>
             </list>
             <p>Instead, try beginning with some of the following opening statement types.</p>
             <list>
-                <caption>Effective Opening Statements</caption>
+                <paragraphs><title>Effective Opening Statements</title>
                 <ul>
                     <li><p>Describe a location, person, scene, or anecdote.</p></li>
                     <li><p>Elucidate an interesting example.</p></li>
@@ -242,6 +244,7 @@
                     <li><p>Provide relevant and interesting information about the historical time period/setting.</p></li>
                     <li><p>Offer a provocative statement of the problem.</p></li>
                 </ul>
+            </paragraphs>
             </list>
             <p>For more ideas on how to begin, organize, and end introductions, take a look at the following examples by Puget Sound students. What do you see as the strengths and weaknesses of these examples? Make sure to note the thesis statements (<un s="1">underlined</un>) and opening statements:</p>
             <example>
@@ -478,7 +481,7 @@
             <image source="images/WP-CutePenguin"/>
         </sidebyside>
         <list>
-            <caption>Tricks</caption>
+            <paragraphs><title>Tricks</title>
             <dl>
                 <li>
                     <title>Check bibliographies!</title>
@@ -501,6 +504,7 @@
                     <p>Since most articles are quite long and you probably won't use every page from every article, save your <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
                 </li>
             </dl>
+        </paragraphs>
         </list>
         <sidebyside width="50%">
             <image source="images/WP-LoggersLiveGreen"/>
@@ -602,7 +606,7 @@
         <title>Overcoming Obstacles</title>
         <p>Over the course of your writing process, you will inevitably run into roadblocks, get stuck, or have moments of panic. <em>These obstacles and feelings are completely normal.</em> Even the most accomplished professional and academic writers experience writer's block, anxiety, and frustration. The key to overcoming these paralyzing feelings is to develop strategies to use when they arise. As you practice these strategies, you will become better at knowing which strategy to use in order to overcome an obstacle most pleasantly and efficiently.</p>
         <list xml:id="what-to-do-when-you-get-stuck">
-            <caption>What to do when you get stuck</caption>
+            <paragraphs><title>What to do when you get stuck</title>
             <dl>
                 <li>
                     <title>Identify the source of the problem.</title>
@@ -625,9 +629,10 @@
                     <p>Keep reading<nbsp/><ellipsis/></p>
                 </li>
             </dl>
+            </paragraphs>
         </list>
         <list>
-            <caption>Managing Anxiety</caption>
+            <paragraphs><title>Managing Anxiety</title>
             <dl>
                 <li>
                     <title>Know that you will be okay.</title>
@@ -646,9 +651,10 @@
                     <p>Breathe for a few minutes. Go for a walk, do some yoga, call someone, or watch a funny video on YouTube.</p>
                 </li>
             </dl>
+            </paragraphs>
         </list>
         <list>
-            <caption>Managing Frustration</caption>
+            <paragraphs><title>Managing Frustration</title>>
             <dl>
                 <li>
                     <title>Writing is frustrating.</title>
@@ -667,12 +673,13 @@
                     <p>If you're too frustrated to continue, do something else entirely and try again later.</p>
                 </li>
             </dl>
+            </paragraphs>
         </list>
         <sidebyside width="50%">
             <image source="images/clock"/>
         </sidebyside>
         <list>
-            <caption>Managing Time</caption>
+            <paragraphs><title>Managing Time</title>
             <dl>
                 <li>
                     <title>Good time management helps prevent frustration.</title>
@@ -689,9 +696,10 @@
                     <p>Make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</p>
                 </li>
             </dl>
+            </paragraphs>
         </list>
         <list>
-            <caption>What do you do if you've put the paper off too long and are now pressed for time?</caption>
+            <paragraphs><title>What do you do if you've put the paper off too long and are now pressed for time?</title>>
             <introduction>
                 <p>Don't put it off any longer. Start! You might be frustrated with yourself, but don't let that frustration derail the time that you do have left. Procrastination happens to everyone, so it's best to forgive yourself, to move on, and to remember that frustration next time you think about procrastinating. Now, take a deep breath and figure out where you are in the writing process. If you haven't yet started<nbsp/><ellipsis/></p>
             </introduction>
@@ -717,9 +725,10 @@
                     <p>You might have survived this paper, and maybe you even end up getting a great grade, but <em>don't make a habit out of starting your papers late</em>. It's amazing how much more you can learn and how much better you can get at writing when you have the time to reflect on what you've written, to revise thoroughly, and to talk to others about your ideas.</p>
                 </li>
             </dl>
+            </paragraphs>
         </list>
         <list>
-            <caption>Some tips to fight off procrastination:</caption>
+            <paragraphs><title>Some tips to fight off procrastination:</title>>
             <dl>
                 <li>
                     <title>Figure out why you want to procrastinate and address the problem.</title>
@@ -760,6 +769,7 @@
                     <title>Decrease the amount of work you have to begin with.</title>
                     <p>You'd be surprised at how much you can get done during the little chunks of time you have throughout the day, be it five minutes before class, an awkward hour in between classes, or extra time in the morning or before bed. Even if you can only read a couple of pages, write a paragraph, or finish a math problem during a small break, that's still less work you'll have to do later. Plan ahead and bring along any materials you might need to be as productive as possible.</p></li>
             </dl>
+            </paragraphs>
         </list>
     </section>
 </chapter>
