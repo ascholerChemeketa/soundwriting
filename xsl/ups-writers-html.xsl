@@ -14,7 +14,7 @@
 <xsl:output method="html" />
 
 <xsl:param name="html.css.file" select="'mathbook-ups.css'"/>
-<xsl:param name="html.knowl.example" select="'no'"/>
+<xsl:param name="html.knowl.example" select="'yes'"/>
 
 <xsl:param name="chunk.level" select="'3'" />
 
