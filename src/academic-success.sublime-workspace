@@ -1,0 +1,193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"time-chart"
+			],
+			[
+				"sub",
+				"subsection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/awareness.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/process.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/genres.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/speaking.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/citations.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/mechanics.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/lists.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/discipline.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/argument.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/reading.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/research.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/technology.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/resources.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/academic-success.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/SoundWriting.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/src/consulting.ptx",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/soundwriting/script/paths.sh",
+		"/Volumes/cwlt/SoundWriting/PreText-Cara/jing-trang/build.xsl",
+		"/Volumes/cwlt/Sound Writing/PreText-Cara/soundwriting/script/paths.sh",
+		"/Volumes/cwlt/Sound Writing/PreText-Cara/soundwriting/src/SoundWriting.ptx",
+		"/Volumes/cwlt/Sound Writing/PreText-Cara/soundwriting/src/citations.ptx"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "academic-success.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
