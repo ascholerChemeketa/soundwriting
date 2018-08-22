@@ -92,10 +92,10 @@
             </list>
     </example>
         <figure><caption></caption>
-        <image source="images/AS-sorryimissedclass.png"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image></figure>
+        <image source="images/AS-sorryimissedclass"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image></figure>
     <example>
         <figure><caption></caption>
-        <image source="images/AS-sampleEditedEmail.png"><description>Our advice for this email</description></image></figure>
+        <image source="images/AS-sampleEditedEmail"><description>Our advice for this email</description></image></figure>
     </example>
     <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it’s easy to be familiar or informal with Puget Sound professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a student ask them for an exception to a rule might not bother them at all; however, they’re also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn’t good for anyone!</p> 
     </subsection>
@@ -106,7 +106,7 @@
             <introduction>
             <p>Time management is a lot like juggling. In part, it’s like juggling because keeping track of homework due dates, meeting times, and everything else you have going on in your life is inherently difficult; but it’s also like juggling because the process itself is a perpetually active endeavor that requires constant attention and adjustments. Successful time management is a three step process. First, you have to <em>plan</em> your time well. Second, you have to <em>execute</em> your plan well. Finally, you have to pay attention to which parts of the plan weren’t realistic, which parts of execution didn’t go right, and how you can avoid a future mishap. This process is iterative and continuous, so you have to be thinking about how yesterday’s plan went, executing today’s plan, and creating tomorrow’s plan all at the same time. Toss one ball, pass the second from one hand to the other, and catch the third ball. Do it over and over again. When someone makes a mistake juggling, they don’t usually just drop one ball. Failing to do any one step is usually immediately followed by a failure to do <em>any</em> of the steps, and in this respect again it is like time management.</p>
             <sidebyside width="50%">
-            <image source="images/AS-juggle.png"/>
+            <image source="images/AS-juggle"/>
             </sidebyside>
             <p>Before we get into strategies for planning time, it’s worth pausing to talk about using time well, and in particular its worth talking about <em>why</em> we don’t use our time well.  Time management requires effort and commitment, and having a reason to commit time and energy to the process makes it easier to create and stick to good habits, especially when they’re difficult at first.  So let’s talk about procrastination.</p></introduction>
     <subsection>
@@ -123,7 +123,7 @@
         <title>Productive Procrastination</title>
             <p>Procrastination is especially easy when there’s an easily accessible distraction we can use to put off work. Some of the most common distractions are social media, imageboard websites, phone or computer games, TV, and socializing. Sometimes, though, the tasks we perform to procrastinate <em>seem</em> important, and this is called <term>productive procrastination</term>. Symptoms of productive procrastination include cleaning, doing less-intimidating homework, sending emails, or otherwise taking care of day-to-day tasks that <em>are important</em> but that are clearly <em>not urgent</em>. One way of assessing whether you’re allocating your time well is to use a the flowchart below. If there’s anything on your plate that falls into the top box, <em>do that first</em>. The hard part to remember is <em>to do the middle box after that</em>. The categorization into urgent and not urgent is useful, but the nature of time means that anything that’s important and not urgent will soon be both important and urgent! Not procrastinating means taking care of stuff in the middle box whenever you can, especially <em>before</em> it moves into the top box. Thinking in terms of both importance and urgency is a good way to stay out of the trap of feeling productive by doing less important or less urgent work.</p>
             <sidebyside width="50%">
-                <image source="images/AS-PriorityMatrixModified2.png"/>
+                <image source="images/AS-PriorityMatrixModified2"/>
             </sidebyside>
             <assemblage>
                 <title>Productive Procrastination Practices</title>
@@ -193,7 +193,7 @@
         <p>All right. Approach big problems with small goals. Great. But how do you then follow through on those smaller goals? As you start breaking down your bigger projects, you’ll find the strategies that work well for you, and tweaking the strategies that we recommend here to be most effective for you is important! That being said, one of the most tried-and-true approaches to managing daily work is the <term>time chart</term>. The point of a time chart is to give you an action plan for each day. It accounts for where you have to be when, but it also includes <em>what work you’re going to do when</em>. A time chart isn’t a planner or a calendar, but making a good time chart requires that you have a good sense of both <em>what you need to do on a given day</em> and <em>what your time commitments are on a given day</em>, which planners and calendars, respectively, help you keep track of. Finally, time charts are useful because they force you to assign priority to the tasks you want to accomplish.</p>
         <p>So how should you use a time-chart? As is the case with everything we’ve discussed in the academic consulting section, everyone develops slight variations on the underlying strategies for staying organized and managing time, but the steps we lay out here are a great way to start if you’ve never made a time chart before. Many people like to use a paper planner, which is what we present first, but there are great digital options for making a time chart as well, such as Google Calendar. First, take a look at the CWLT time chart below. If you like what you see here, you can pick up a time charts like this one at the CWLT.</p>
         <sidebyside width="50%">
-                <image source="images/AS-timechart_sample.png"/>
+                <image source="images/AS-timechart_sample"/>
         </sidebyside>
         <paragraphs>
             <title>Time Chart</title>
@@ -335,7 +335,7 @@
             <li>
                 <p><em>Put your semester into deep storage.</em> At the end of each semester, make a new folder and place all the classes from the past semester there, so you can access them again if you need to but so that they don’t clutter up your day-to-day life. Label this folder something obvious, like Spring 2018 Courses, or UPS Semester 1. Here’s an example</p>
                 <figure><caption></caption>
-        <image source="images/AS-deepstorageicloudscreenshot.png"><description>iCloud drive Deep Storage</description></image></figure>
+        <image source="images/AS-deepstorageicloudscreenshot"><description>iCloud drive Deep Storage</description></image></figure>
             </li>
         </ol>
     </subsection>
@@ -358,7 +358,7 @@
         <li><p>The professor’s (or department’s) policy on extensions and late work</p></li>
                 <li><p>Career information: a running list of the places you’ve worked, the dates you worked there, and your supervisors’ names and contact info--along with the more polished versions of this information (resumes, cover letters for past applications, personal statements). This folder is likely to expand and may need to have more sections within it.</p></li>
                 <li><p>Financial stuff: forms you need for taxes, scholarship information, really anything having to do with money.</p></li>
-                <li><p>Miscellaneous activities: Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Toss programs and other evidence from things you’ve done in college into a folder so that you can reference them later on. Who knows? Maybe it’ll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in ASUPS club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can’t reference something you can’t remember!</p></li>
+                <li><p>Miscellaneous activities: Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Toss programs and other evidence from things you’ve done in college into a folder so that you can reference them later on. Who knows? Maybe it’ll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed <dollar/>3700 in ASUPS club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can’t reference something you can’t remember!</p></li>
             </ul></p>
             <p>Then, do the same with your physical documents. If you don’t want to hang on to the paper copy, you can scan things for free at Collins Library’s scanners. Your filing system doesn’t have to be anything overly complicated. Label the files with the same names as on your computer and add any additional categories you need.</p> 
             </p>
