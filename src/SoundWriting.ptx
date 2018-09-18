@@ -30,8 +30,6 @@
         <xi:include href="speaking.ptx"/>
         <!-- Strategies for Academic Success -->
         <xi:include href="academic-success.ptx"/>
-        <!-- Fun Lists -->
-        <xi:include href="lists.ptx"/>
         <!-- Different Genres of Writing -->
         <xi:include href="genres.ptx"/>
         <!-- Using Technology -->

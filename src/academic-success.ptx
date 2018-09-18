@@ -10,7 +10,7 @@
         <subsection>
         <title>The New Student-Teacher Relationship</title>
         <p>College is different from high school in lots of ways, but one of the most important changes that is easy to miss is in the relationship between you and your teachers. In high school, your teachers were <em>proactive</em> so that you could be <em>reactive</em>. This means that your teachers made sure that you knew what homework was due the next day, let you know when you hadn't turned in an assignment, and checked in when you missed class. They initiated action, and you just had to respond. In college, <em>you are expected to be proactive</em>, and your <em>professors will be reactive</em>. This means that if you don't understand course material, get behind on assignments, or miss class, it's up to you to turn in assignments on time, show up to class, and learn course material. This new freedom is a good chance to develop independence and run your own life, but it can also be dangerous if you're not aware of your new responsibility to <em>take responsibility</em> for your own learning and progress. </p>
-        <p>You have a different set of responsibilities and roles as a college student than you did as a high school student, and college professors similarly have a different set of responsibilities and roles than your high school teachers did. Teaching high school is a demanding job, but high school teachers are <em>primarily teachers</em>, which is to say that 95% of their time at work is spent focused on students. College professors are expected to be good teachers, especially at a liberal arts school like UPS, but they are expected also to be scholars who create and publish new knowledge and committee members who help run the university. Finally, college professors work with adult students, and they don't want to treat students as incapable youth any more than students want to be treated as incapable youth.</p>
+        <p>You have a different set of responsibilities and roles as a college student than you did as a high school student, and college professors similarly have a different set of responsibilities and roles than your high school teachers did. Teaching high school is a demanding job, but high school teachers are <em>primarily teachers</em>, which is to say that 95% of their time at work is spent focused on students. College professors are expected to be good teachers, especially at a liberal arts school like the University of Puget Sound, but they are expected also to be scholars who create and publish new knowledge and committee members who help run the university. Finally, college professors work with adult students, and they don't want to treat students as incapable youth any more than students want to be treated as incapable youth.</p>
         </subsection>
         <subsection>
         <title>Your Secret Weapon</title>
@@ -91,10 +91,10 @@
             </ul>
             </list>
     </example>
-        <figure><caption></caption>
+        <figure><caption>Sorry I missed class</caption>
         <image source="images/AS-sorryimissedclass"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image></figure>
     <example>
-        <figure><caption></caption>
+        <figure><caption>Sample Email</caption>
         <image source="images/AS-sampleEditedEmail"><description>Our advice for this email</description></image></figure>
     </example>
     <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it's easy to be familiar or informal with Puget Sound professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a student ask them for an exception to a rule might not bother them at all; however, they're also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn't good for anyone!</p> 
@@ -125,9 +125,8 @@
             <sidebyside width="50%">
                 <image source="images/AS-PriorityMatrixModified2"/>
             </sidebyside>
-            <assemblage>
-                <title>Productive Procrastination Practices</title>
-                <p>
+            <list xml:id="productive-procrastination">
+                <caption>Productive Procrastination Practices</caption>
                     <ul>
                         <li><p>Work on citations</p></li>
                         <li><p>Take the <init>CWLT</init>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
@@ -143,8 +142,7 @@
                         <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>
                         <li><p>Make a writing appointment at the <init>CWLT</init>!</p></li>
                     </ul>
-                </p>
-            </assemblage>
+            </list>
     </subsection>
     <subsection>
         <title>Procrastination vs. Self-Care</title>
