@@ -71,6 +71,16 @@
 
 <!-- A wavy underline, potential '5': \uwave{} -->
 
+<!-- "Plain" URL in Bibliography -->
+<!-- nonstandard attribute is flag -->
+<!-- just the @href value,         -->
+<!-- with hyperref/url wrapper     -->
+<xsl:template match="url[@link = 'no']">
+    <xsl:text>\nolinkurl{</xsl:text>
+    <xsl:value-of select="@href" />
+    <xsl:text>}</xsl:text>
+</xsl:template>
+
 <!-- Bibliography Formatting -->
 <xsl:template match="i">
     <xsl:text>\textit{</xsl:text>

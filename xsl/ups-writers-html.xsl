@@ -112,6 +112,14 @@
 <!-- left: -2px; -->
 <!-- } -->
 
+<!-- "Plain" URL in Bibliography -->
+<!-- nonstandard attribute is flag -->
+<!-- just the @href value,         -->
+<!-- without a "code" wrapper      -->
+<xsl:template match="url[@link = 'no']">
+    <xsl:value-of select="@href" />
+</xsl:template>
+
 <!-- Bibliography Formatting -->
 <xsl:template match="i">
     <xsl:element name="span">
