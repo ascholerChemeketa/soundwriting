@@ -15,7 +15,7 @@ DIR="$(dirname "$0")"
 . ${DIR}/paths.sh
 
 # following depend on paths source'd above
-declare MBXSL=${SRC}/xsl
+declare SWXSL=${SRC}/xsl
 declare MBUSER=${MBX}/user
 declare MBXSCRIPT=${MBX}/script/mbx
 declare SOURCE=${SRC}/src
@@ -39,13 +39,13 @@ function setup {
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${SCRATCH}
 
-    # Always place/update `ups-writers` in `mathbook/contrib`
+    # Always place/update `ups-writers` in "user" XSL directory
     echo
     echo "BUILD: Update Custom XML :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${MBUSER}
-    cp ${MBX}/contrib/ups-writers/ups-writers-html.xsl ${MBUSER}/ups-writers-html.xsl
-    cp ${MBX}/contrib/ups-writers/ups-writers-latex.xsl ${MBUSER}/ups-writers-latex.xsl
+    cp ${SWXSL}/ups-writers-html.xsl  ${MBUSER}/ups-writers-html.xsl
+    cp ${SWXSL}/ups-writers-latex.xsl ${MBUSER}/ups-writers-latex.xsl
 }
 
 function build_you_tube_thumbnail {
