@@ -215,10 +215,60 @@
         <subsection>
             <title>In<ndash />text Citations</title>
             <p>For citation styles that include citations in parenthesis in the body of your paper (also known as parenthetic citations), it's crucial that the in<ndash />text citation (the part in your paper that's in parenthesis) corresponds exactly with the full reference at the end of the paper in the Works Cited or References section. But parenthetic citations are also designed to offer information with minimal disruption to the reader's engagement with the text; if some of the citation information is in the sentence itself, then there's no need to repeat the information in the parenthesis.</p>
+            <p>Here are some examples of how to do parenthetic citations. The citations in this section are MLA format, but the general principles apply in parenthetic formats such as APA and Chicago Author Date format (the Chicago formatting style that doesn’t use footnotes).</p>
+            <p>
+                <ol>
+                    <li><p>If you're quoting an author and don't reference the author in your sentence, then you need to include both pieces of information in your in<ndash />text citation.</p>
+                    <p><eg /> The narrator describes how <q><ellipsis />the great city of Yershalayim had vanished as though it had never been</q> (Bulgakov 312).</p>
+                    </li>
+                    <li><p>If there are multiple references to the same source and it is clear from the context what the source is, omit the author’s name after the first parenthetical reference.</p>
+                    <p><eg /> The narrator describes how <q><ellipsis />the great city of Yershalayim had vanished as though it had never been</q> (Bulgakov 312) and, likewise, how <q>the city itself [Moscow] had long ago disappeared,</q> metaphorically connecting the two cities (382).</p></li>
+                    <li><p>If there are two authors, include both of their names in the citation.</p>
+                    <p><eg /> Realism began as a style of writing that allowed an emerging middle class to identify the events of their daily lives with those that they read about (Knight and Woodman 1).</p></li>
+                    <li><p>If you reference the author in your sentence, you don't need to repeat the author's name in your citation.</p>
+                    <p><eg /> In <em>Anna Karenina</em>, Tolstoy empathizes so consummately with all his characters (even the non<ndash />human ones) that large sections of part 6, chapter 9 are told from the perspective of Levin's dog, Laska (1266).</p></li>
+                    <li><p>Make sure to spell and capitalize the author's name as they prefer. With last names that include prefixes, do a Google search if you're not sure what part of the author's name is their last name. Some authors choose not to capitalize their names, and it's important to respect that choice.</p>
+                    <p><eg /> Foreshadowing death, <em>Blood Wedding</em>'s Beggarwoman in states, <q>They’ll not leave here. The sound of the river <slash /> will drown in the sound of the trees <slash /> the broken flight of their cries. <slash /> It must be here, and soon. I am weary</q> (García Lorca 3.1.92-95).</p>
+                    <p><eg /> In <em>Black Looks: Race and Representation</em>, bell hooks advocates for a form of epistemological agency<mdash />what she terms an <q>oppositional gaze</q><mdash />that can <q>look back</q> at the gaze of traditional power (131).</p></li>
+                    <li><p>Sometimes you may not know the author’s name, and in that case, the first word in the citation should be the first word that is in the Works Cited entry.</p>
+                    <p><eg /> Reviews of her work typically praise her flair for language but hint at controversy about her message, as in this review in the Santa Cruz paper of her novel: <q>It is a remarkable production, containing much that is commendable and more that is objectionable, in sentiment and aim</q> (<q>Ideal</q>).</p></li>
+                    <li><p>Sometimes you may be citing multiple works by the same author, so it's not enough to mention just the author's name in the citation, leaving your readers to wonder which entry by that author is the one you're referencing. In those cases, include in your citation the title or just the first word or two of the title if it's a long title.</p>
+                    <p><eg /> As scholar Margaret Thickstun succinctly puts it, Paradise Lost <q>is about the education of its main characters and at the same time dedicated to the education of its reader</q> (Moral Education 1).</p></li>
+                    <li><p>Usually it's best when quoting to go to the original source, but sometimes that's not possible (perhaps the original quote is very old or is only available in an archive). In those cases, you should mention the original source author in your sentence, but then give the source where you read the quote in your actual citation, with the indication <q>qtd. in</q> so that your readers know you aren't quoting the source from the original. Sometimes there are errors in quotes that you find this way. It may be useful in those cases to indicate that you are quoting exactly what your source wrote, by inserting after the word that looks incorrect <brackets>sic</brackets> (which comes from the Latin phrase sic erat scriptum, or <q>thus was it written</q>).</p>
+                    <p><eg /> The discourse was sometimes ridiculously disconnected from the practical difficulties presented by western geography and resources, as in the following statement by Congressman Joshua Pilcher in 1831: <q><sq><brackets>one</brackets> must know little of the American people, who supposes that they can be stopped by any thing<brackets>sic</brackets>in the shape of mountains, deserts, seas, or rivers</sq></q> (qtd. in Emmons 6).</p></li>
+                </ol>
+            </p>
         </subsection>
     </section>
+    <section xml:id="plagiarism">
+        <title>Avoiding Plagiarism</title>
+        <p>Plagiarism is unethical and has serious repercussions at the University of Puget Sound. As the <pubtitle><init>MLA</init> Handbook</pubtitle> (8th Edition) reads, <q>Plagiarism is presenting another person's ideas, information, expressions, or entire work as one's own</q> (6<ndash/>7). If I hadn't cited the <pubtitle><init>MLA</init> Handbook</pubtitle> just now and had presented the sentence as my own, I would have plagiarized and would have been fired. This is why citing is important and why professionals place so much emphasis on academic integrity. Below are some pointers on how to avoid plagiarism.</p>
+        <p>Because plagiarism is the act of claiming another's intellectual output as your own, plagiarism includes more than not quoting text that ought to be quoted; plagiarism also includes not attributing authorship to ideas that are not originally yours and framing as your own a paper that someone else wrote (even if you paid them). It is also considered plagiarism to reuse an essay that you had previously written. The University of Puget Sound has a policy forbidding the reuse of previous work without express permission from your instructor.</p>
+        <p>For more information on Puget Sound policies on plagiarism, please see the <url href="https://www.pugetsound.edu/files/resources/academichandbook2017-2018.pdf">Puget Sound Academic Handbook</url>.</p>
+        <p>
+            Plagiarism is hardly ever intended. More often, a student who plagiarizes will be unaware that they are doing so. Here are some suggestions to help you avoid plagiarizing.
+            <dl>
+                <li>
+                    <title>Write down everything.</title>
+                    <p>When you're doing research, keep track of all of your sources, especially sources from which you quote or paraphrase. If you're drafting and don't want to break your focus, leave a comment to remind yourself to cite the source later. (A knowledge-management tool such as Zotero can help you to keep track of your sources.)</p>
+                </li>
+                <li>
+                    <title>Attribute everything.</title>
+                    <p>The most important thing to include when attributing authorship is the author's name. This can be done in text, in parentheses, or in a note. If the source does not name an author, provide the title of the source. It is also useful to provide page or line numbers whenever possible. It is safest and often most effective rhetorically to credit the author or source as near to the attributed material as possible; attribution should occur within the same sentence as the attributed material. (For information about the conventions of attribution, both textual and parenthetical, see <xref ref="the-basics"/>.)</p>
+                </li>
+                <li>
+                    <title>When in doubt, quote.</title>
+                    <p>Paraphrasing presents problems for students, primarily because the line between acceptable paraphrase and plagiarism is somewhat arbitrary. Of course, this shouldn't be a problem if you attribute the paraphrased information to its original author(s). Though disciplines and styles have different preferences, the transparency of quoting makes it a safe way to present information that isn't your own. Quoting, however, should never take the place of attributing authorship.</p>
+                </li>
+                <li>
+                    <title>Not everything needs a citation.</title>
+                    <p>Any knowledge that both you and your readers share need not be cited. For instance, it is probably safe to assume that your readers will know that plagiarism is unethical. You could make such a statement without feeling the need to attribute it. However, it would be necessary to attribute authorship to a statement suggesting that plagiarism is ethical<mdash/>for such an idea is not likely to be shared by your readers. That said, when in doubt, attribute. There's little, if anything, wrong with attributing too much, while attributing too little can be disastrous. It is in your best interest to cite.</p>
+                </li>
+            </dl>
+        </p>
+      </section>
     <section xml:id="book-one-author">
-        <title>Book with One Author</title>
+        <title>Citing a Book with One Author</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-BookOneAuthor"/>
@@ -251,7 +301,7 @@
         </subsection>
     </section>
     <section xml:id="book-with-multiple-authors">
-        <title>Book With Multiple Authors</title>
+        <title>Citing a Book With Multiple Authors</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-BookMultipleAuthors"/>
@@ -283,7 +333,7 @@
             <p indent="hanging"><red>Bowler, Peter J., and Iwan Rhys Morus.</red> <lightblue><pubtitle>Making Modern Science: A Historical Survey.</pubtitle></lightblue> <lightpurple>U of Chicago P,</lightpurple> <lightgreen>2005.</lightgreen></p>
             <p>In-text: (Bowler and Morus 12)</p>
             <p>Three or more authors</p>
-            <p indent="hanging"><red>Author 1 Last Name, First Name, et al.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by<asterisk /><darkpurple> First Name Last Name (if applicable),</darkpurple> <darkred> Vol. Number (if applicable>,</darkred> <maroon>City of Publication<asterisk /><asterisk /></maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
+            <p indent="hanging"><red>Author 1 Last Name, First Name, et al.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by<asterisk /><darkpurple> First Name Last Name (if applicable),</darkpurple> <darkred> Vol. Number (if applicable),</darkred> <maroon>City of Publication<asterisk /><asterisk /></maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
             <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
             <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
             <p><red>Berenstain, Stan, et al.</red> <pubtitle><lightblue> The Berenstain Bears, Brother Bear and the Kind Cub.</lightblue></pubtitle> <lightpurple> Zonderkidz,</lightpurple> <lightgreen> 2017.</lightgreen></p>
@@ -292,7 +342,7 @@
         </subsection>
     </section>
     <section xml:id="edition-other-than-first">
-        <title>Edition Other Than the First</title>
+        <title>Citing an Edition Other Than the First</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-EditionOtherThanTheFirst"/>
@@ -319,12 +369,12 @@
             <p indent="hanging"><red>Author Last Name, First Name.</red> <green><q>Title of Chapter or Section.</q> (if applicable)</green> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by<asterisk /> <darkpurple>First Name Last Name (if applicable),</darkpurple> <darkred>Vol. Number (if applicable),</darkred> <lightpink>Number edition ed.,</lightpink> <maroon>City of Publication<asterisk /><asterisk />,</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year.</lightgreen></p>
             <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
             <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
-            <p indent="hanging"><red>Tannsjo, Torbjorn.</red> <lightblue><pubtitle>Understanding Ethics: An Introduction to Moral Theory.</pubtitle></lightblue> <lightpink>2nd ed.</lightpink> <lightpurple>University of Edinburgh Press,</lightpurple> <lightgreen>2008.</lightgreen></p>
+            <p indent="hanging"><red>Tannsjo, Torbjorn.</red> <lightblue><pubtitle>Understanding Ethics: An Introduction to Moral Theory.</pubtitle></lightblue> <lightpink>2nd ed.,</lightpink> <lightpurple>University of Edinburgh Press,</lightpurple> <lightgreen>2008.</lightgreen></p>
             <p>In-text: (Tannsjo 27)</p>
         </subsection>
     </section>
     <section xml:id="chapter-edited-book">
-        <title>Chapter in an Edited Book</title>
+        <title>Citing a Chapter in an Edited Book</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-ChapterInEdited"/>
@@ -346,7 +396,7 @@
             <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Chapter.</q></lightblue> <pink><pubtitle>Title of Anthology,</pubtitle></pink> Translated by or Edited by<asterisk /> <darkred>First Name Last Name (if applicable), </darkred> vol. number (if applicable), <lightpink>Number edition ed.</lightpink> <maroon>City of publication<asterisk /><asterisk />,</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen></p>
             <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
             <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
-            <p indent="hanging"><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> <pink><pubtitle>Literacy, Economy, and Power: Writing and Research after</pubtitle> Literacy in American Lives,</pink>  Edited by <darkred>John Duffy et al.</darkred> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen></p>
+            <p indent="hanging"><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> <pink><pubtitle>Literacy, Economy, and Power: Writing and Research after</pubtitle> Literacy in American Lives,</pink>  Edited by <darkred>John Duffy et al.,</darkred> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen></p>
             <p>In-text: (Christoph 79)</p>
         </subsection>
     </section>
@@ -377,12 +427,12 @@
             <title>MLA</title>
             <!-- This first example should probably not have the example author. -->
             <p indent="hanging"><red>Author Last Name, First Name.</red> <gray>Title of Review (if any).</gray> Review of <lightblue><pubtitle>Title of Reviewed Work,</pubtitle></lightblue> by <gray>Author of Reviewed Work.</gray> <pink><pubtitle>Name of Journal</pubtitle></pink> <darkred>vol. volume issue, no. issue number,</darkred> <lightgreen>Year,</lightgreen> <blue>pp. page range.</blue></p>
-            <p indent="hanging"><red>Paul, John J.</red> Review of <lightblue><pubtitle>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</pubtitle></lightblue> by <gray>Kavita Philip.</gray> <pink><pubtitle>Isis</pubtitle></pink> <darkred>97, no. 2</darkred> <lightgreen>2006</lightgreen> <blue>pp. 370<ndash/>371.</blue></p>
+            <p indent="hanging"><red>Paul, John J.</red> Review of <lightblue><pubtitle>Civilizing Natures: Race, Resources, and Modernity in Colonial South India,</pubtitle></lightblue> by <gray>Kavita Philip.</gray> <pink><pubtitle>Isis</pubtitle></pink> <darkred>97, no. 2,</darkred> <lightgreen>2006,</lightgreen> <blue>pp. 370<ndash/>371.</blue></p>
             <p>In-text: (Paul 370)</p>
         </subsection>
     </section>
     <section xml:id="print-article">
-        <title>Print Journal Article</title>
+        <title>Citing a Print Journal Article</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-PrintArticle"/>
@@ -390,16 +440,14 @@
         </introduction>
         <subsection>
             <title>APA</title>
-            <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue>Title of article.</lightblue> <pink><pubtitle>Name of Journal,</pubtitle></pink><darkred><pubtitle>volume</pubtitle>(issue),</darkred> <blue>page range.</blue></p>
-            <p indent="hanging"><red>Mann, S. A.</red> <lightgreen>(2011).</lightgreen> <lightblue>Pioneers of U.S. ecofeminism and environmental justice.</lightblue> <pink><pubtitle>Feminist Formations</pubtitle></pink> <darkred>23(2),</darkred> <blue>1<ndash/>25.</blue></p>
+            <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue>Title of article.</lightblue> <pink><pubtitle>Name of Journal,</pubtitle></pink> <darkred><pubtitle>volume</pubtitle>(issue),</darkred> <blue>page range.</blue></p>
+            <p indent="hanging"><red>Mann, S. A.</red> <lightgreen>(2011).</lightgreen> <lightblue>Pioneers of U.S. ecofeminism and environmental justice.</lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred><pubtitle>23</pubtitle>(2),</darkred> <blue>1<ndash/>25.</blue></p>
             <p>In-text: (Mann, 2011)</p>
-            <p>For an article found in an online journal, include the DOI<mdash/>or, if the article has no DOI, write Retrieved from the URL<mdash/>after the page range. Do not place a period at the end of the DOI or URL.</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
             <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Article.</q></lightblue> <pink><pubtitle>Name of Journal</pubtitle></pink> <darkred>volume, no. issue</darkred> <lightgreen>(Year of publication):</lightgreen> <blue>page range.</blue></p>
             <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations</pubtitle></pink> <darkred>23, no. 2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue></p>
-            <p>For an article found in an online journal, include the DOI<mdash/>or, if the article has no DOI, include the URL<mdash/>at the end of the citation. Place a period at the end of the DOI or URL.</p>
             <paragraphs>
                 <title>Notes</title>
                 <p>First appearance.<fn>Susan Mann. <q>Pioneers of U.S. Ecofeminism and Environmental Justice,</q> <pubtitle>Feminist Formations</pubtitle> 23, no. 2 (2011): 5.</fn> Consecutive appearances.<fn>Ibid., 6.</fn> Nonconsecutive appearances.<fn>Mann, <q>Pioneers of U.S. Ecofeminism,</q> 10<ndash/>15.</fn></p>
@@ -411,11 +459,38 @@
             <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Article.</q></lightblue> <pink><pubtitle>Name of Journal,</pubtitle></pink> <darkred>vol. volume number, no. issue number,</darkred> <lightgreen>Publication date,</lightgreen> <blue>pp. page range.</blue></p>
             <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>vol. 23, no. 2,</darkred> <lightgreen>2011,</lightgreen> <blue>pp. 1<ndash/>25.</blue></p>
             <p>In-text: (Mann 10)</p>
-            <p>For an article found in an online journal, indicate <q>Web</q> as the medium, and include the date of access after the medium. End the date of access with a period. If you find the article using a database, such as JSTOR or ProQuest, include the name of the database, italicized, between the page range and the medium and end place a period after the name.</p>
+        
+        </subsection>
+    </section>
+    <section xml:id="print-article-online-database">
+        <title>Citing a Journal Article from an Online Database</title>
+        <introduction>
+            <sidebyside width="50%">
+                <image source="images/Citations-PrintArticleOnlineDB"/>
+            </sidebyside>
+        </introduction>
+        <subsection>
+            <title>APA</title>
+            <p>Note: APA does not require that you include database information in citations because databases change over time. If you are using an article from a database that you need to cite using APA, here’s what to do:</p>
+            <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Date of publication).</lightgreen> <lightblue>Title of article.</lightblue> <pink><pubtitle>Periodical Title,</pubtitle></pink> <darkred><pubtitle>Volume,</pubtitle> no. issue,</darkred> <blue>Page range.</blue> <orange>Retrieved from doi</orange> OR <orange>URL</orange> <lightpurple>(accessed access date)</lightpurple></p>
+            <p indent="hanging"><red>Mann, S. A.</red> <lightgreen>(2016).</lightgreen> <lightblue>Pioneers of U.S. ecofeminism and environmental justice.</lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>23,1,</darkred> <blue>198<ndash/>228.</blue> <orange>doi 1353<slash />ff.2011.0028</orange></p>
+            <p>In-text: (Mann 2011, p. 10)</p>
+        </subsection>
+        <subsection>
+            <title>Chicago</title>
+            <p>Note: If no DOI is available, use a stable URL.</p>
+            <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Article Title.</q></lightblue> <pink><pubtitle>Periodical Title</pubtitle></pink> <darkred>Volume, no. issue</darkred> <lightgreen>(Date of publication):</lightgreen> <blue>Page range,</blue> <lightpurple> accessed access date,</lightpurple> <orange>doi</orange> OR <orange> URL</orange></p>
+            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations</pubtitle></pink> <darkred>23, no. 2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue> <lightpurple>accessed September 29, 2017,</lightpurple> <orange>doi: 10.1353<slash />ff.2011.0028</orange></p>
+        </subsection>
+        <subsection>
+            <title>MLA</title>
+            <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Work.</q></lightblue> <pink><pubtitle>Name of Journal,</pubtitle></pink> <darkred>vol. volume number, no. issue number,</darkred> <lightgreen>Date of publication,</lightgreen> <blue>pp. page range.</blue> <darkpurple><pubtitle>Name of Database,</pubtitle></darkpurple> <orange>doi: DOI code</orange></p>
+            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>vol. 23, no. 2,</darkred> <lightgreen>2011,</lightgreen> <blue>pp. 1<ndash/>25.</blue> <darkpurple><pubtitle>Project Muse,</pubtitle></darkpurple> <orange>doi: 10.1353<slash />ff.2011.0028</orange></p>
+            <p>In-text: (Mann 10)</p>
         </subsection>
     </section>
     <section xml:id="website">
-        <title>Website</title>
+        <title>Citing a Website</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-Website"/>
@@ -438,7 +513,7 @@
         <subsection>
             <title>MLA</title>
             <subsubsection>
-                <title>Website with human author</title>
+                <title>Citing a Website with human author</title>
                 <p indent="hanging"><red>Author Last Name, First Name.</red> <darkgreen><pubtitle>Title of Website.</pubtitle></darkgreen> <gray>Name of Publisher,</gray> <navy>Date of publication (if available),</navy> <orange>URL.</orange> <lightgreen>Accessed date.</lightgreen></p>
                 <p indent="hanging"><red>Martin, Mark.</red> <darkgreen><pubtitle>Martin's Microbial Menagerie.</pubtitle></darkgreen> <gray>University of Puget Sound,</gray> <orange>http://webspace.pugetsound.edu/facultypages/momartin/index.htm.</orange> <lightgreen>Accessed 1 Aug. 2016.</lightgreen> </p>
                 <p>In-Text: (Martin)</p>
@@ -454,7 +529,7 @@
         </subsection>
     </section>
     <section xml:id="work-from-website">
-        <title>Work From a Website</title>
+        <title>Citing a Work From a Website</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-WorkFromAWebsite"/>
@@ -485,7 +560,7 @@
         </subsection>
     </section>
     <section xml:id="online-newspaper">
-        <title>Online Newspaper</title>
+        <title>Citing a Online Newspaper</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-OnlineNewspaper"/>
@@ -515,7 +590,7 @@
         </subsection>
     </section>
     <section xml:id="entry-in-encyclopedia">
-        <title>Entry in an Encyclopedia</title>
+        <title>Citing an Entry in an Encyclopedia</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-Encyclopedia"/>
@@ -524,7 +599,7 @@
         <subsection>
             <title>APA</title>
             <p indent="hanging"><red>Author 1 Last Name, Initials., <ampersand/> Author 2 Last Name, Initials.</red> <lightgreen>(Publication year).</lightgreen> <lightblue>Title of entry.</lightblue> <green>In Editor Initials Editor Last Name (Ed.), <pubtitle>Encyclopedia Name.</pubtitle></green> (Vol. <darkred>volume number,</darkred> <blue>page range).</blue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-            <p indent="hanging"><red>Hashimoto, Y., <ampersand/> Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein-coupled receptor.</lightblue> <green>In L.R. Squire (Ed.), <pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <darkred>(Vol. 2, </darkred><blue> pp. 1655<ndash/>1659).</blue> <maroon>Berlin:</maroon> <lightpurple>Springer.</lightpurple></p>
+            <p indent="hanging"><red>Hashimoto, Y., <ampersand/> Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein-coupled receptor.</lightblue> <green>In L.R. Squire (Ed.), <pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <darkred>(Vol. 2, </darkred> <blue> pp. 1655<ndash/>1659).</blue> <maroon>Berlin:</maroon> <lightpurple>Springer.</lightpurple></p>
             <p>In-text: (Hashimoto <ampersand/> Haga, 2009)</p>
         </subsection>
         <subsection>
@@ -545,7 +620,7 @@
         </subsection>
     </section>
     <section xml:id="lecture">
-        <title>Lecture or Speech</title>
+        <title>Citing a Lecture or Speech</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-Lecture"/>
@@ -576,7 +651,7 @@
         </subsection>
     </section>
     <section xml:id="film">
-        <title>Film</title>
+        <title>Citing a Film</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-Film"/>
@@ -606,7 +681,7 @@
         </subsection>
     </section>
     <section xml:id="music-performance">
-        <title>Music Performance</title>
+        <title>Citing a Music Performance</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-MusicPerformance"/>
@@ -637,7 +712,7 @@
         </subsection>
     </section>
     <section xml:id="music-recording">
-        <title>Music Recording</title>
+        <title>Citing a Music Recording</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-MusicRecording"/>
@@ -667,7 +742,7 @@
         </subsection>
     </section>
     <section xml:id="artwork">
-        <title>Artwork</title>
+        <title>Citing an Artwork</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-Artwork"/>
@@ -706,7 +781,7 @@
         </subsection>
     </section>
     <section xml:id="government-document">
-        <title>Government Document</title>
+        <title>Citing a Government Document</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-GovernmentDoc"/>
@@ -729,13 +804,13 @@
         </subsection>
         <subsection>
             <title>MLA</title>
-            <p indent="hanging"><red>Government entity that is author.</red> <lightblue><pubtitle>Title of document.</pubtitle></lightblue> <lightpink>Edition if given and is not First edition,</lightpink> <gray>Publisher,</gray> <lightgreen>Publication date.</lightgreen>, URL.</p>
+            <p indent="hanging"><red>Government entity that is author.</red> <lightblue><pubtitle>Title of document.</pubtitle></lightblue> <lightpink>Edition if given and is not First edition,</lightpink> <gray>Publisher,</gray> <lightgreen>Publication date.</lightgreen> URL.</p>
             <p indent="hanging"><red>Environmental Protection Agency.</red> <lightblue><pubtitle>Climate Change Indicators in the United States.</pubtitle></lightblue> <gray>Environmental Protection Agency,</gray> <lightgreen>2014.</lightgreen> <url href="https://www.epa.gov/sites/production/files/2016-07/documents/climateindicators-full-2014.pdf" link="no"/>.</p>
             <p>In-Text: (U.S. Environmental Protection Agency)</p>
         </subsection>
     </section>
     <section xml:id="graphic-novel">
-        <title>Graphic Novel</title>
+        <title>Citing a Graphic Novel</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-GraphicNovel"/>
@@ -767,7 +842,7 @@
         </subsection>
     </section>
     <section xml:id="translation">
-        <title>Translation</title>
+        <title>Citing a Translation</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/Citations-Translation"/>
@@ -805,31 +880,5 @@
             </subsubsection>
         </subsection>
     </section>
-    <section xml:id="plagiarism">
-        <title>Plagiarism</title>
-        <p>Plagiarism is unethical and has serious repercussions at the University of Puget Sound. As the <pubtitle><init>MLA</init> Handbook</pubtitle> (8th Edition) reads, <q>Plagiarism is presenting another person's ideas, information, expressions, or entire work as one's own</q> (6<ndash/>7). If I hadn't cited the <pubtitle><init>MLA</init> Handbook</pubtitle> just now and had presented the sentence as my own, I would have plagiarized and would have been fired. This is why citing is important and why professionals place so much emphasis on academic integrity. Below are some pointers on how to avoid plagiarism.</p>
-        <p>Because plagiarism is the act of claiming another's intellectual output as your own, plagiarism includes more than not quoting text that ought to be quoted; plagiarism also includes not attributing authorship to ideas that are not originally yours and framing as your own a paper that someone else wrote (even if you paid them). It is also considered plagiarism to reuse an essay that you had previously written. The University of Puget Sound has a policy forbidding the reuse of previous work without express permission from your instructor.</p>
-        <p>For more information on Puget Sound policies on plagiarism, please see the <url href="https://www.pugetsound.edu/files/resources/academichandbook2017-2018.pdf">Puget Sound Academic Handbook</url>.</p>
-        <p>
-            Plagiarism is hardly ever intended. More often, a student who plagiarizes will be unaware that they are doing so. Here are some suggestions to help you avoid plagiarizing.
-            <dl>
-                <li>
-                    <title>Write down everything.</title>
-                    <p>When you're doing research, keep track of all of your sources, especially sources from which you quote or paraphrase. If you're drafting and don't want to break your focus, leave a comment to remind yourself to cite the source later. (A knowledge-management tool such as Zotero can help you to keep track of your sources.)</p>
-                </li>
-                <li>
-                    <title>Attribute everything.</title>
-                    <p>The most important thing to include when attributing authorship is the author's name. This can be done in text, in parentheses, or in a note. If the source does not name an author, provide the title of the source. It is also useful to provide page or line numbers whenever possible. It is safest and often most effective rhetorically to credit the author or source as near to the attributed material as possible; attribution should occur within the same sentence as the attributed material. (For information about the conventions of attribution, both textual and parenthetical, see <xref ref="the-basics"/>.)</p>
-                </li>
-                <li>
-                    <title>When in doubt, quote.</title>
-                    <p>Paraphrasing presents problems for students, primarily because the line between acceptable paraphrase and plagiarism is somewhat arbitrary. Of course, this shouldn't be a problem if you attribute the paraphrased information to its original author(s). Though disciplines and styles have different preferences, the transparency of quoting makes it a safe way to present information that isn't your own. Quoting, however, should never take the place of attributing authorship.</p>
-                </li>
-                <li>
-                    <title>Not everything needs a citation.</title>
-                    <p>Any knowledge that both you and your readers share need not be cited. For instance, it is probably safe to assume that your readers will know that plagiarism is unethical. You could make such a statement without feeling the need to attribute it. However, it would be necessary to attribute authorship to a statement suggesting that plagiarism is ethical<mdash/>for such an idea is not likely to be shared by your readers. That said, when in doubt, attribute. There's little, if anything, wrong with attributing too much, while attributing too little can be disastrous. It is in your best interest to cite.</p>
-                </li>
-            </dl>
-        </p>
-    </section>
+    
 </chapter>
