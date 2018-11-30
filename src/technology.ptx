@@ -279,7 +279,7 @@
             <p>Zotero (and other tools like it) can do many, many things. We're going to cover some basic capabilities Zotero has, but, to learn more about Zotero or other programs, visit the library's page, make an appointment with a liaison librarian, or look up some YouTube tutorials.</p>
         </aside>
         <paragraphs>
-            <title>Step 1: Download Zotero.</title>
+            <title>Step 1: Download Zotero</title>
             <p>You can download it as an extension on Firefox, or you can download a standalone version. The Firefox extension is nice because it's easily accessible in your browser, but the standalone version can be used with browsers other than Firefox, such as Chrome and Safari. We've also heard that the standalone version is good to have in case your browser crashes. In any case, download Zotero and create a free account. You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url>.</p>
         </paragraphs>
         <paragraphs>
@@ -287,7 +287,7 @@
             <p>For more tips on research, see <xref ref="research-methods"/>.</p>
         </paragraphs>
         <paragraphs>
-            <title>Step 3: Tell Zotero which sources you want it to save.</title>
+            <title>Step 3: Tell Zotero which sources you want it to save</title>
             <p>This step looks slightly different depending on whether you're using the Firefox plug-in or the standalone version.</p>
             <p>For the Firefox version:</p>
             <sidebyside width="100%">
@@ -335,23 +335,23 @@
             </sbsgroup>
         </paragraphs>
         <paragraphs>
-            <title>Step 4: Make your bibliography.</title>
+            <title>Step 4: Make your bibliography</title>
             <p>Once you have all necessary sources saved in Zotero, you can ask it (nicely) to make your bibliography. Get ready to be amazed.</p>
             <p>First, open the collection that you want to get sources from. You can highlight the sources you want citations for, or you can choose the whole collection. You can also use the Firefox plug-in or the standalone version. Either way, you'll follow these steps.</p>
             <sbsgroup>
-                <sidebyside width="100%">
+                <sidebyside width="80%">
                     <image source="images/C-CreateBib"/>
                 </sidebyside>
                 <!-- <sidebyside width="100%"> -->
                     <!-- <image source="images/C-ZoteroChooseBib"/> -->
                 <!-- </sidebyside> -->
-                <sidebyside width="100%">
+                <sidebyside width="80%">
                     <image source="images/C-PasteBib"/>
                 </sidebyside>
-                <sidebyside width="100%">
+                <sidebyside width="80%">
                     <image source="images/C-ZoteroWow"/>
                 </sidebyside>
-                <sidebyside width="100%">
+                <sidebyside width="80%">
                     <image source="images/C-DoNotSkip"/>
                 </sidebyside>
             </sbsgroup>
@@ -361,7 +361,7 @@
     <section xml:id="adobe-acrobat-reader">
         <title>Adobe Acrobat Reader</title>
         <paragraphs>
-            <title>Step 1: Download Adobe Acrobat Reader.</title>
+            <title>Step 1: Download Adobe Acrobat Reader</title>
             <p>Adobe Reader is the most common free <init>PDF</init>-viewing software used for the reading, searching, printing, and notating of <init>PDF</init> files. Adobe is great because it allows you to easily interact with your sources, offering a variety of annotation capabilities; in this way, it's also more cost-efficient and environmentally friendly than printing out all 120 pages of that reading assignment because you can highlight and annotate most <init>PDF</init> types (although keep in mind your professor may like you to have a hard copy for class, anyways). To download Adobe Acrobat Reader DC, visit <url href="https://get.adobe.com/reader/">get.adobe.com/reader</url>.</p>
         </paragraphs>
         <paragraphs>
@@ -369,7 +369,7 @@
             <p>Put those great research skills to use! (If you need a refresher on how to get started, see <xref ref="research-methods"/>.)</p>
         </paragraphs>
         <paragraphs>
-            <title>Step 3: Download your source.</title>
+            <title>Step 3: Download your source</title>
             <p>When you find a source you want, download it and save it to your research folder or desktop.</p>
             <sbsgroup>
                 <sidebyside width="100%">
@@ -386,7 +386,7 @@
             <p>Yay! Now you can begin exploring all of the annotation capabilities Adobe has to offer.</p>
         </paragraphs>
         <paragraphs>
-            <title>Step 4: Annotate to your heart's content.</title>
+            <title>Step 4: Annotate to your heart's content</title>
             <p>There are several different ways to annotate a <init>PDF</init> document in Adobe Acrobat. We'll highlight some of these capabilities below.<dl>
                 <li>
                     <title>Commenting</title>
