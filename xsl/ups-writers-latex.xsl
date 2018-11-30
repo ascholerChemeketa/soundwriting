@@ -18,6 +18,16 @@
 
 <xsl:output method="text" />
 
+<!-- 10pt type, Julie Christoph email 2018-11-28 -->
+<xsl:param name="latex.font.size" select="'10pt'"/>
+
+<!-- 9-inch text height, so 1-inch top and bottom margins      -->
+<!-- (inclusive of header/footer); 10pt type creates a 340pt   -->
+<!-- text width as of 2018-11-30, so we fix that here for      -->
+<!-- page-fitting exercise.  Yielding approximately 287 pages. -->
+<!-- Julie Christoph email 2018-11-28                          -->
+<xsl:param name="latex.geometry" select="'total={340pt,9.0in}'"/>
+
 <!-- Make marked <p>s hanging indented for citiation chapter. -->
 <xsl:template match="p[@indent='hanging']">
     <xsl:if test="preceding-sibling::*[not(&SUBDIVISION-METADATA-FILTER;)][1][self::p or self::paragraphs or self::sidebyside]">
