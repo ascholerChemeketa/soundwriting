@@ -293,50 +293,42 @@
         </sidebyside>
     </section>
     <conclusion>
-        <title>Pro Tip</title>
-        <p>Recommended sandwich combination(s) at the <acro>SUB</acro>:</p>
-        <sidebyside>
-            <list>
-                <caption>Sandwich A</caption>
-                <ul>
-                    <li><p>Focaccia bread</p></li>
-                    <li><p>Salami</p></li>
-                    <li><p>Swiss cheese</p></li>
-                    <li><p>Leaf lettuce</p></li>
-                    <li><p>Pickles</p></li>
-                    <li><p>Onion</p></li>
-                    <li><p>Tomato</p></li>
-                    <li><p>Ranch (optional)</p></li>
-                    <li><p>Toast that sandwich!</p></li>
-                </ul>
-            </list>
-            <list>
-                <caption>Sandwich B</caption>
-                <ul>
-                    <li><p>Whole wheat bread</p></li>
-                    <li><p>Turkey</p></li>
-                    <li><p>Swiss cheese</p></li>
-                    <li><p>Pesto</p></li>
-                    <li><p>Hummus</p></li>
-                    <li><p>Spinach</p></li>
-                    <li><p>Pickles</p></li>
-                    <li><p>Olives</p></li>
-                    <li><p>TOAST IT!</p></li>
-                </ul>
-            </list>
-            <list>
-                <caption>Sandwich C</caption>
-                <ul>
-                    <li><p>Rye bread</p></li>
-                    <li><p>Pesto</p></li>
-                    <li><p>Mayo</p></li>
-                    <li><p>Provolone cheese</p></li>
-                    <li><p>Tomatoes</p></li>
-                    <li><p>Pickles</p></li>
-                    <li><p>Black olives</p></li>
-                    <li><p>Leaf lettuce</p></li>
-                </ul>
-            </list>
-        </sidebyside>
+        <p><assemblage>
+            <title>Pro Tip: Sandwich combinations at the SUB</title>
+                <sidebyside>
+                    <ul>
+                        <li><p>Focaccia bread</p></li>
+                            <li><p>Salami</p></li>
+                            <li><p>Swiss cheese</p></li>
+                            <li><p>Leaf lettuce</p></li>
+                            <li><p>Pickles</p></li>
+                            <li><p>Onion</p></li>
+                            <li><p>Tomato</p></li>
+                            <li><p>Ranch (optional)</p></li>
+                            <li><p>Toast that sandwich!</p></li>
+                    </ul>
+                    <ul>
+                         <li><p>Whole wheat bread</p></li>
+                            <li><p>Turkey</p></li>
+                            <li><p>Swiss cheese</p></li>
+                            <li><p>Pesto</p></li>
+                            <li><p>Hummus</p></li>
+                            <li><p>Spinach</p></li>
+                            <li><p>Pickles</p></li>
+                            <li><p>Olives</p></li>
+                            <li><p>TOAST IT!</p></li>
+                    </ul>
+                    <ul>
+                        <li><p>Rye bread</p></li>
+                            <li><p>Pesto</p></li>
+                            <li><p>Mayo</p></li>
+                            <li><p>Provolone cheese</p></li>
+                            <li><p>Tomatoes</p></li>
+                            <li><p>Pickles</p></li>
+                            <li><p>Black olives</p></li>
+                            <li><p>Leaf lettuce</p></li>
+                    </ul>
+                </sidebyside>
+      </assemblage></p>
     </conclusion>
 </chapter>
