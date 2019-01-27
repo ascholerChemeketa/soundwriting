@@ -44,8 +44,9 @@ function setup {
     echo "BUILD: Update Custom XML :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${MBUSER}
-    cp ${SWXSL}/ups-writers-html.xsl  ${MBUSER}/ups-writers-html.xsl
-    cp ${SWXSL}/ups-writers-latex.xsl ${MBUSER}/ups-writers-latex.xsl
+    cp ${SWXSL}/ups-writers-common.xsl  ${MBUSER}/ups-writers-common.xsl
+    cp ${SWXSL}/ups-writers-html.xsl    ${MBUSER}/ups-writers-html.xsl
+    cp ${SWXSL}/ups-writers-latex.xsl   ${MBUSER}/ups-writers-latex.xsl
 }
 
 function build_you_tube_thumbnail {
