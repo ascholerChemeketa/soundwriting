@@ -292,10 +292,10 @@
         </subsection>
         <subsection>
             <title>MLA</title>
-            <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by<asterisk /><darkpurple>First Name Last Name (if applicable),</darkpurple> <darkred>Vol. Number (if applicable),</darkred> <maroon>City of Publication<asterisk /><asterisk />,</maroon> <lightpurple>Publisher<asterisk /><asterisk /><asterisk />,</lightpurple> <lightgreen>year.</lightgreen></p>
-            <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
-            <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
-            <p><lightpurple><asterisk /><asterisk /><asterisk />For university presses, abbreviate University Press with UP.</lightpurple></p>
+            <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by*<darkpurple>First Name Last Name (if applicable),</darkpurple> <darkred>Vol. Number (if applicable),</darkred> <maroon>City of Publication**,</maroon> <lightpurple>Publisher***,</lightpurple> <lightgreen>year.</lightgreen></p>
+            <p>*Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
+            <p><darkred>**include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
+            <p><lightpurple>***For university presses, abbreviate University Press with UP.</lightpurple></p>
             <p indent="hanging"><red>McCarthy, Cormac.</red> <lightblue><pubtitle>The Road.</pubtitle></lightblue> <maroon>New York,</maroon> <lightpurple>Alfred A. Knopf,</lightpurple> <lightgreen>2006.</lightgreen></p>
             <p>In-text: (McCarthy 5)</p>
         </subsection>
@@ -326,16 +326,16 @@
         <subsection>
             <title>MLA</title>
             <p>Two authors</p>
-            <p indent="hanging"><red>Author 1 Last Name, First Name, and Author 2 First Name Last Name.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by<asterisk /><darkpurple> First Name Last Name (if applicable),</darkpurple> <darkred> Vol. Number (if applicable),</darkred> <maroon>City of Publication<asterisk /><asterisk /></maroon>, <lightpurple>Publisher<asterisk /><asterisk /><asterisk />,</lightpurple> <lightgreen>year.</lightgreen></p>
-            <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
-            <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
-            <p><lightpurple><asterisk /><asterisk /><asterisk />For university presses, abbreviate University Press with UP.</lightpurple></p>
+            <p indent="hanging"><red>Author 1 Last Name, First Name, and Author 2 First Name Last Name.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by*<darkpurple> First Name Last Name (if applicable),</darkpurple> <darkred> Vol. Number (if applicable),</darkred> <maroon>City of Publication**</maroon>, <lightpurple>Publisher***,</lightpurple> <lightgreen>year.</lightgreen></p>
+            <p>*Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
+            <p><darkred>**include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
+            <p><lightpurple>***For university presses, abbreviate University Press with UP.</lightpurple></p>
             <p indent="hanging"><red>Bowler, Peter J., and Iwan Rhys Morus.</red> <lightblue><pubtitle>Making Modern Science: A Historical Survey.</pubtitle></lightblue> <lightpurple>U of Chicago P,</lightpurple> <lightgreen>2005.</lightgreen></p>
             <p>In-text: (Bowler and Morus 12)</p>
             <p>Three or more authors</p>
-            <p indent="hanging"><red>Author 1 Last Name, First Name, et al.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by<asterisk /><darkpurple> First Name Last Name (if applicable),</darkpurple> <darkred> Vol. Number (if applicable),</darkred> <maroon>City of Publication<asterisk /><asterisk /></maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
-            <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
-            <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
+            <p indent="hanging"><red>Author 1 Last Name, First Name, et al.</red> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by*<darkpurple> First Name Last Name (if applicable),</darkpurple> <darkred> Vol. Number (if applicable),</darkred> <maroon>City of Publication**</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>year.</lightgreen></p>
+            <p>*Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
+            <p><darkred>**include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
             <p><red>Berenstain, Stan, et al.</red> <pubtitle><lightblue> The Berenstain Bears, Brother Bear and the Kind Cub.</lightblue></pubtitle> <lightpurple> Zonderkidz,</lightpurple> <lightgreen> 2017.</lightgreen></p>
             <p>In-text: (Berenstain et al. 18)</p> 
 
@@ -366,9 +366,9 @@
         </subsection>
         <subsection>
             <title>MLA</title>
-            <p indent="hanging"><red>Author Last Name, First Name.</red> <green><q>Title of Chapter or Section.</q> (if applicable)</green> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by<asterisk /> <darkpurple>First Name Last Name (if applicable),</darkpurple> <darkred>Vol. Number (if applicable),</darkred> <lightpink>Number edition ed.,</lightpink> <maroon>City of Publication<asterisk /><asterisk />,</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year.</lightgreen></p>
-            <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
-            <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
+            <p indent="hanging"><red>Author Last Name, First Name.</red> <green><q>Title of Chapter or Section.</q> (if applicable)</green> <lightblue><pubtitle>Title of Work.</pubtitle></lightblue> Translated by or Edited by* <darkpurple>First Name Last Name (if applicable),</darkpurple> <darkred>Vol. Number (if applicable),</darkred> <lightpink>Number edition ed.,</lightpink> <maroon>City of Publication**,</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year.</lightgreen></p>
+            <p>*Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
+            <p><darkred>**include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
             <p indent="hanging"><red>Tannsjo, Torbjorn.</red> <lightblue><pubtitle>Understanding Ethics: An Introduction to Moral Theory.</pubtitle></lightblue> <lightpink>2nd ed.,</lightpink> <lightpurple>University of Edinburgh Press,</lightpurple> <lightgreen>2008.</lightgreen></p>
             <p>In-text: (Tannsjo 27)</p>
         </subsection>
@@ -393,9 +393,9 @@
         </subsection>
         <subsection>
             <title>MLA</title>
-            <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Chapter.</q></lightblue> <pink><pubtitle>Title of Anthology,</pubtitle></pink> Translated by or Edited by<asterisk /> <darkred>First Name Last Name (if applicable), </darkred> vol. number (if applicable), <lightpink>Number edition ed.</lightpink> <maroon>City of publication<asterisk /><asterisk />,</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen></p>
-            <p><asterisk />Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
-            <p><darkred><asterisk /><asterisk />include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
+            <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Chapter.</q></lightblue> <pink><pubtitle>Title of Anthology,</pubtitle></pink> Translated by or Edited by* <darkred>First Name Last Name (if applicable), </darkred> vol. number (if applicable), <lightpink>Number edition ed.</lightpink> <maroon>City of publication**,</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen></p>
+            <p>*Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
+            <p><darkred>**include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
             <p indent="hanging"><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> <pink><pubtitle>Literacy, Economy, and Power: Writing and Research after</pubtitle> Literacy in American Lives,</pink>  Edited by <darkred>John Duffy et al.,</darkred> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen></p>
             <p>In-text: (Christoph 79)</p>
         </subsection>
@@ -644,8 +644,8 @@
         </subsection>
         <subsection>
             <title>MLA</title>
-            <p indent="hanging"><red>Lecturer Last Name, First Name.</red> <lightblue><q>Title of Lecture.</q></lightblue> <lightpink>Title of particular conference or meeting.</lightpink> <blue>Organization Name,</blue> <gray>Date day month year,</gray> <maroon>Venue,</maroon> <lightgreen>City<asterisk />.</lightgreen> <orange>Type of presentation.</orange></p>
-            <p><asterisk />Omit the city if part of venue name.</p>
+            <p indent="hanging"><red>Lecturer Last Name, First Name.</red> <lightblue><q>Title of Lecture.</q></lightblue> <lightpink>Title of particular conference or meeting.</lightpink> <blue>Organization Name,</blue> <gray>Date day month year,</gray> <maroon>Venue,</maroon> <lightgreen>City*.</lightgreen> <orange>Type of presentation.</orange></p>
+            <p>*Omit the city if part of venue name.</p>
             <p indent="hanging"><red>O'Neil, Kieran.</red> <lightblue><q>Talking Small, Thinking Big: The Influence of External Rapport and Solidarity on Construction of the Collaborative Writing Center Experience.</q></lightblue> <lightpink>European Writing Center Association.</lightpink> <blue>University of Łódź,</blue> <lightgreen>9 July 2016.</lightgreen> <maroon>University of Łódź,</maroon> <orange>Lecture.</orange></p>
             <p>In-text: (O'Neil)</p>
         </subsection>
