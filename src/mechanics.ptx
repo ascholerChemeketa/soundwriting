@@ -1346,31 +1346,31 @@
                 <p>You can also use parentheses in area codes, like 253.879.3404 (which is, coincidentally, the phone number to the Center for Writing, Learning, and Teaching [<init>CWLT</init>]).</p>
             </subsubsection>
             <subsubsection>
-                <title>Brackets <dblbrackets><brackets>these</brackets></dblbrackets></title>
+                <title>Brackets <dblbrackets>[these]</dblbrackets></title>
                 <p>
                     Brackets are kind of weird and don't seem to come up much, but, in general, you can associate them with quoted or parenthetical material. You should use brackets when you:
                     <ul>
                         <li>
                             <p>include a quote that requires clarification to make sense.</p>
-                            <p><q>She said that they <brackets>her roommates</brackets> are the best.</q></p>
+                            <p><q>She said that they [her roommates] are the best.</q></p>
                         </li>
                         <li>
                             <p>include a quote that doesn't fit well within the syntax of your sentence (<eg/>, your quote starts with a lowercase letter, but you put it at the beginning of a sentence).</p>
-                            <p><q><brackets>T</brackets>hey are the best,</q> Shelly said about her roommates.</p>
-                            <p>Shelly loved her roommates last year; she said <q>they <brackets>were</brackets> the best.</q> (Here, we've changed the present tense <q>are</q> to the past tense <q>were</q> in order to match the tense of the sentence.)</p>
+                            <p><q>[T]hey are the best,</q> Shelly said about her roommates.</p>
+                            <p>Shelly loved her roommates last year; she said <q>they [were] the best.</q> (Here, we've changed the present tense <q>are</q> to the past tense <q>were</q> in order to match the tense of the sentence.)</p>
                         </li>
                         <li>
                             <p>want to tell your reader that you have or haven't added something (<eg/>, italics or a grammatical mistake) to a quote.</p>
-                            <p><q>Rainier looked <em>so</em> beautiful today</q> <brackets>emphasis in original</brackets>.</p>
-                            <p>The baby said, <q>the doggie ated <brackets>sic</brackets> my sandwich.</q></p>
+                            <p><q>Rainier looked <em>so</em> beautiful today</q> [emphasis in original].</p>
+                            <p>The baby said, <q>the doggie ated [sic] my sandwich.</q></p>
                         </li>
                         <li>
                             <p>include a short phrase in another language.</p>
-                            <p><q><foreign>Je t'aime</foreign> <brackets>I love you</brackets>,</q> she said to her cat.</p>
+                            <p><q><foreign>Je t'aime</foreign> [I love you],</q> she said to her cat.</p>
                         </li>
                         <li>
                             <p>want to put parentheses inside parentheses.</p>
-                            <p>(I like to use parentheses <brackets>but not all the time</brackets>.)</p>
+                            <p>(I like to use parentheses [but not all the time].)</p>
                         </li>
                     </ul>
                 </p>
