@@ -228,7 +228,7 @@
                     <li><p>If you reference the author in your sentence, you don't need to repeat the author's name in your citation.</p>
                     <p><eg /> In <em>Anna Karenina</em>, Tolstoy empathizes so consummately with all his characters (even the non<ndash />human ones) that large sections of part 6, chapter 9 are told from the perspective of Levin's dog, Laska (1266).</p></li>
                     <li><p>Make sure to spell and capitalize the author's name as they prefer. With last names that include prefixes, do a Google search if you're not sure what part of the author's name is their last name. Some authors choose not to capitalize their names, and it's important to respect that choice.</p>
-                    <p><eg /> Foreshadowing death, <em>Blood Wedding</em>'s Beggarwoman in states, <q>They’ll not leave here. The sound of the river <slash /> will drown in the sound of the trees <slash /> the broken flight of their cries. <slash /> It must be here, and soon. I am weary</q> (García Lorca 3.1.92-95).</p>
+                    <p><eg /> Foreshadowing death, <em>Blood Wedding</em>'s Beggarwoman in states, <q>They’ll not leave here. The sound of the river / will drown in the sound of the trees / the broken flight of their cries. / It must be here, and soon. I am weary</q> (García Lorca 3.1.92-95).</p>
                     <p><eg /> In <em>Black Looks: Race and Representation</em>, bell hooks advocates for a form of epistemological agency<mdash />what she terms an <q>oppositional gaze</q><mdash />that can <q>look back</q> at the gaze of traditional power (131).</p></li>
                     <li><p>Sometimes you may not know the author’s name, and in that case, the first word in the citation should be the first word that is in the Works Cited entry.</p>
                     <p><eg /> Reviews of her work typically praise her flair for language but hint at controversy about her message, as in this review in the Santa Cruz paper of her novel: <q>It is a remarkable production, containing much that is commendable and more that is objectionable, in sentiment and aim</q> (<q>Ideal</q>).</p></li>
@@ -473,19 +473,19 @@
             <title>APA</title>
             <p>Note: APA does not require that you include database information in citations because databases change over time. If you are using an article from a database that you need to cite using APA, here’s what to do:</p>
             <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Date of publication).</lightgreen> <lightblue>Title of article.</lightblue> <pink><pubtitle>Periodical Title,</pubtitle></pink> <darkred><pubtitle>Volume,</pubtitle> no. issue,</darkred> <blue>Page range.</blue> <orange>Retrieved from doi</orange> OR <orange>URL</orange> <lightpurple>(accessed access date)</lightpurple></p>
-            <p indent="hanging"><red>Mann, S. A.</red> <lightgreen>(2016).</lightgreen> <lightblue>Pioneers of U.S. ecofeminism and environmental justice.</lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>23,1,</darkred> <blue>198<ndash/>228.</blue> <orange>doi 1353<slash />ff.2011.0028</orange></p>
+            <p indent="hanging"><red>Mann, S. A.</red> <lightgreen>(2016).</lightgreen> <lightblue>Pioneers of U.S. ecofeminism and environmental justice.</lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>23,1,</darkred> <blue>198<ndash/>228.</blue> <orange>doi 1353/ff.2011.0028</orange></p>
             <p>In-text: (Mann 2011, p. 10)</p>
         </subsection>
         <subsection>
             <title>Chicago</title>
             <p>Note: If no DOI is available, use a stable URL.</p>
             <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Article Title.</q></lightblue> <pink><pubtitle>Periodical Title</pubtitle></pink> <darkred>Volume, no. issue</darkred> <lightgreen>(Date of publication):</lightgreen> <blue>Page range,</blue> <lightpurple> accessed access date,</lightpurple> <orange>doi</orange> OR <orange> URL</orange></p>
-            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations</pubtitle></pink> <darkred>23, no. 2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue> <lightpurple>accessed September 29, 2017,</lightpurple> <orange>doi: 10.1353<slash />ff.2011.0028</orange></p>
+            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations</pubtitle></pink> <darkred>23, no. 2</darkred> <lightgreen>(2011):</lightgreen> <blue>1<ndash/>25.</blue> <lightpurple>accessed September 29, 2017,</lightpurple> <orange>doi: 10.1353/ff.2011.0028</orange></p>
         </subsection>
         <subsection>
             <title>MLA</title>
             <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Work.</q></lightblue> <pink><pubtitle>Name of Journal,</pubtitle></pink> <darkred>vol. volume number, no. issue number,</darkred> <lightgreen>Date of publication,</lightgreen> <blue>pp. page range.</blue> <darkpurple><pubtitle>Name of Database,</pubtitle></darkpurple> <orange>doi: DOI code</orange></p>
-            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>vol. 23, no. 2,</darkred> <lightgreen>2011,</lightgreen> <blue>pp. 1<ndash/>25.</blue> <darkpurple><pubtitle>Project Muse,</pubtitle></darkpurple> <orange>doi: 10.1353<slash />ff.2011.0028</orange></p>
+            <p indent="hanging"><red>Mann, Susan A.</red> <lightblue><q>Pioneers of U.S. Ecofeminism and Environmental Justice.</q></lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>vol. 23, no. 2,</darkred> <lightgreen>2011,</lightgreen> <blue>pp. 1<ndash/>25.</blue> <darkpurple><pubtitle>Project Muse,</pubtitle></darkpurple> <orange>doi: 10.1353/ff.2011.0028</orange></p>
             <p>In-text: (Mann 10)</p>
         </subsection>
     </section>
