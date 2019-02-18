@@ -16,8 +16,8 @@
         <author>
             <personname>Kylie Young</personname>
             <department>
-                <line>Science, Technology, <ampersand/> Society and</line>
-                <line>Sociology <ampersand/> Anthropology, Class of 2017</line>
+                <line>Science, Technology, &amp; Society and</line>
+                <line>Sociology &amp; Anthropology, Class of 2017</line>
             </department>
             <!-- <institution>University of Puget Sound</institution> -->
             <!-- <email></email> -->
