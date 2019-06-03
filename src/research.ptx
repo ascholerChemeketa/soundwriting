@@ -36,54 +36,51 @@
             <title>Don't give up</title>
             <p>Research can be a long process. Finding the best sources for your project can take weeks, months, or even a full semester! Sometimes, you will hit a roadblock and then feel like you have to go all the way back to square one. That's okay, because research is meant to be a cyclical process (see <xref ref="research-process-while-writing"/>). Even when it feels like you are starting over, you are still learning more and more about your topic, which will result in a very well-researched final paper!</p>
         </paragraphs>
-        <list>
-            <introduction>
-                <p>Research is a creative, recursive process, and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
-            </introduction>
-            <ul>
-                <li><p>Consider learning how to use a knowledge-management tool. Collins Library supports RefWorks and Zotero, and any librarian would be more than happy to help you get started. These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p></li>
-                <li><p>Your research assignment prompt likely will indicate what kinds of (and often how many) sources you should aim for. But a source is not a source is not a source! <em>How</em> are you using sources? Take things one step further by analyzing precisely how you will use each source when building your argument so that you're able to use your sources in the most appropriate way. One helpful framework is <url href="http://www.tandfonline.com/doi/pdf/10.1080/07350190701738858">Joseph Bizup's <acro>BEAM</acro> model</url>. <acro>BEAM</acro> is an acronym intended to help us think about the various ways we <em>use</em> sources when writing a researched argument. Understanding how you're using a source is essential to using it correctly and effectively.</p></li>
-            </ul>
+            <p>Research is a creative, recursive process, and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
+            <p>Consider learning how to use a knowledge-management tool. Collins Library supports RefWorks and Zotero, and any librarian would be more than happy to help you get started. These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p>
+            <p>Your research assignment prompt likely will indicate what kinds of (and often how many) sources you should aim for. But a source is not a source is not a source! <em>How</em> are you using sources? Take things one step further by analyzing precisely how you will use each source when building your argument so that you're able to use your sources in the most appropriate way. One helpful framework is <url href="http://www.tandfonline.com/doi/pdf/10.1080/07350190701738858">Joseph Bizup's <acro>BEAM</acro> model</url>. <acro>BEAM</acro> is an acronym intended to help us think about the various ways we <em>use</em> sources when writing a researched argument. Understanding how you're using a source is essential to using it correctly and effectively.</p>
+       <list xml:id="BEAM">
+            <paragraphs>
+                <title><acro>BEAM</acro></title>
+                <p>
+                    <dl>
+                        <li>
+                            <title><acro>B</acro>ackground</title>
+                            <p>You use tertiary sources (subject encyclopedias, textbooks, overviews) to establish basic facts and definitions.</p>
+                        </li>
+                        <li>
+                            <title><acro>E</acro>xhibit</title>
+                            <p>You analyze and interpret primary sources, a dataset, or another phenomenon of study.</p>
+                        </li>
+                        <li>
+                            <title><acro>A</acro>rgument</title>
+                            <p>You evaluate and assess the arguments in academic secondary sources as a way to join the scholarly conversation.</p>
+                        </li>
+                        <li>
+                            <title><acro>M</acro>ethod</title>
+                            <p>You use theories or disciplinary approaches when examining your topic.</p>
+                        </li>
+                    </dl>
+                </p>
+            </paragraphs>
         </list>
-        <assemblage>
-            <title><acro>BEAM</acro></title>
-            <p>
-                <dl>
-                    <li>
-                        <title><acro>B</acro>ackground</title>
-                        <p>You use tertiary sources (subject encyclopedias, textbooks, overviews) to establish basic facts and definitions.</p>
-                    </li>
-                    <li>
-                        <title><acro>E</acro>xhibit</title>
-                        <p>You analyze and interpret primary sources, a dataset, or another phenomenon of study.</p>
-                    </li>
-                    <li>
-                        <title><acro>A</acro>rgument</title>
-                        <p>You evaluate and assess the arguments in academic secondary sources as a way to join the scholarly conversation.</p>
-                    </li>
-                    <li>
-                        <title><acro>M</acro>ethod</title>
-                        <p>You use theories or disciplinary approaches when examining your topic.</p>
-                    </li>
-                </dl>
-            </p>
-        </assemblage>
         <p>Though writing in high school consists mostly of <q>background</q> sources, most research writing that you do in college will be stronger if you use sources in a combination of most or all of these ways.</p>
     </section>
     <section xml:id="define-and-refine-research-question">
         <title>Defining and Refining A Research Question</title>
         <p>Once you've identified and explored your research topic, you'll need to work on refining your research question. A strong research question will allow you to delve into a genuine problem or question to which an answer is not obvious. In other words, you want a question that is debatable and arguable. In creating your own argument to answer the research question, you will use evidence from your research to acknowledge and refute any counterevidence that you encounter.</p>
-        <list>
-            <paragraphs><title>Characteristics of Strong Research Questions</title>
-            <ul>
-                <li><p>typically ask <q>why?</q> or <q>how?</q> questions</p></li>
-                <li><p>have a clear focus</p></li>
-                <li><p>are feasible to answer with the resources and time available to you</p></li>
-                <li><p>are calibrated in scope to the required length of the writing assignment</p></li>
-                <li><p>are of interest or significance to others</p></li>
-            </ul>
-            </paragraphs>
-        </list>
+        <assemblage>
+            <title>Characteristics of Strong Research Questions</title>
+            <p>
+                <ul>
+                    <li><p>typically ask <q>why?</q> or <q>how?</q> questions</p></li>
+                    <li><p>have a clear focus</p></li>
+                    <li><p>are feasible to answer with the resources and time available to you</p></li>
+                    <li><p>are calibrated in scope to the required length of the writing assignment</p></li>
+                    <li><p>are of interest or significance to others</p></li>
+                </ul>
+            </p>
+        </assemblage>
         <list>
             <paragraphs><title>Key Steps</title>
             <ol>
@@ -91,10 +88,20 @@
                 <li><p>Begin to evaluate your research questions. Which question interests you the most? Why?</p></li>
                 <li>
                     <p>
-                        Seek out feedback.
-                        <dl>
-                            <li>
-                                <title>Your peers</title>
+                        Seek out feedback. Different kinds of people will provide different kinds of feedback. See <xref ref="FeedbackSources" text="title"/> for more.
+                    </p>
+                </li>
+                <li><p>Be open to refining your research question. As you continue the research and writing processes, you may discover that your question is too broad or too narrow, or that there's another, related research question that your evidence is suggesting.</p></li>
+                <li><p>Hold off on deciding what your thesis is until you've identified a viable research question and have begun to delve into your research sources. Committing to a thesis prematurely can hamper your research process by causing you only to seek evidence that supports your argument.</p></li>
+            </ol>
+            </paragraphs>
+        </list>
+        <assemblage xml:id="FeedbackSources">
+            <title>Sources of Feedback</title>
+            <p>
+            <dl>
+                <li>
+                    <title>Your peers</title>
                                 <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
                             </li>
                             <li>
@@ -110,13 +117,8 @@
                                 <p>are subject experts and are excellent resources for helping you identify where your question fits in the ongoing scholarly conversation.</p>
                             </li>
                         </dl>
-                    </p>
-                </li>
-                <li><p>Be open to refining your research question. As you continue the research and writing processes, you may discover that your question is too broad or too narrow, or that there's another, related research question that your evidence is suggesting.</p></li>
-                <li><p>Hold off on deciding what your thesis is until you've identified a viable research question and have begun to delve into your research sources. Committing to a thesis prematurely can hamper your research process by causing you only to seek evidence that supports your argument.</p></li>
-            </ol>
-            </paragraphs>
-        </list>
+            </p>
+        </assemblage>
     </section>
     <section>
         <title>Research Tips and Tricks</title>

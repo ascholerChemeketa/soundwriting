@@ -8,7 +8,7 @@
     <section>
         <title>Finding, Skimming, and Reading Sources</title>
         <introduction>
-            <p>Congratulations on finding some sources! Now what? Take a picture of all your books and post it to Instagram so everyone knows that you're taking college seriously! <url href="https://twitter.com/hashtag/totheheights">#totheheights</url> It can be intimidating to have collected piles of useful sources only to realize how much time it will take you to read through them. But do you really need to read all of them completely? The way you approach any source will depend on the nature of the source, the amount of time you have, and the information you seek.</p>
+            <p>Congratulations on finding some sources (see <xref ref="BEAM" text="title"/>)! Now what? Take a picture of all your books and post it to Instagram so everyone knows that you're taking college seriously! <url href="https://twitter.com/hashtag/totheheights">#totheheights</url> It can be intimidating to have collected piles of useful sources only to realize how much time it will take you to read through them. But do you really need to read all of them completely? The way you approach any source will depend on the nature of the source, the amount of time you have, and the information you seek.</p>
             <sidebyside width="50%">
                 <image source="images/HR-StackOfBooks"/>
             </sidebyside>
@@ -20,49 +20,47 @@
         </subsection>
         <subsection>
             <title>Secondary Sources</title>
-            <p>Secondary sources are texts that you use to supplement your argument in some way: by establishing a theoretical premise, by providing a point of reference or departure, or by providing some historical or biographical context (to name a few). They are the secondary objects of your analysis and do not comprise the bulk of your argument. Though it's often rewarding to read secondary sources in their entirety, it's not always practical. The following are some tips for getting the most out of your secondary sources:<dl>
-                <li>
+            <p>Secondary sources are texts that you use to supplement your argument in some way: by establishing a theoretical premise, by providing a point of reference or departure, or by providing some historical or biographical context (to name a few). They are the secondary objects of your analysis and do not comprise the bulk of your argument. Though it's often rewarding to read secondary sources in their entirety, it's not always practical. The following are some tips for getting the most out of your secondary sources:</p>
+                <paragraphs>
                     <title>Figure out what you're looking for</title>
                     <p>Because secondary sources are supplementary, it shouldn't be too difficult to identify what information you need. Writing a paper on the presidency of Barack Obama and need a source that describes the international response to his election? Some useful <xref ref="search-terms">search terms</xref> might include: Obama, election, international, response.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Read the introduction and the conclusion</title>
                     <p>This should give you a good idea of the starting point and end point of the source's argument and its major points. Assess the usefulness of the source based on these sections. If the source doesn't look like it will be of great use to you, put it to the side. For instance, if you found a source called <em>The Military Legacy of the Obama Administration</em>, you might browse through it for a hidden nugget of information, but chances are the source may not be the most helpful to you.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Identify relevant passages</title>
                     <p>Browse headings and subheadings, or chapters, if your source is a book. Skim any relevant sections for key words (see the section on skimming, hereafter). Find a heading that reads <q>European Reactions to the Election of Barack Obama</q>? Mark it!</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Search for key words</title>
                     <p>It's possible to do this manually (picture the word in your head and let your eyes roam the page), but it's far easier to do electronically. If your source is electronic, find the search function on your computer and type in key words: Obama, election, international, response.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>If your source has an index, browse it for key words</title>
                     <p>The index is at the back of the book, and it should refer you to specific pages on which the concept is discussed. The index is also a good way to look for relevant words that you may not have thought of.</p>
-                </li>
-            </dl></p>
+                </paragraphs>
         </subsection>
         <subsection xml:id="skimming">
             <title>Skimming</title>
-            <p>In general, the more actively and patiently you approach a text, the more comprehensive your reading will be. However, sometimes it is highly impractical to read a source in its entirety. Whether you're doing some preliminary reading to familiarize yourself with the existing scholarly discussion or to cram for class, skimming can be a good way to extract the main idea of the text in as little time as possible. Here are some pointers for skimming:<dl>
-                <li>
+            <p>In general, the more actively and patiently you approach a text, the more comprehensive your reading will be. However, sometimes it is highly impractical to read a source in its entirety. Whether you're doing some preliminary reading to familiarize yourself with the existing scholarly discussion or to cram for class, skimming can be a good way to extract the main idea of the text in as little time as possible. Here are some pointers for skimming:</p>
+                <paragraphs>
                     <title>Read the introduction and the conclusion</title>
                     <p>Doing this will give you a sense of the general trajectory of the argument.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Read the first sentence of every paragraph</title>
                     <p>This sentence is usually sufficient to tell you what the main point of the paragraph is and whether you should spend time reading it.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Read both horizontally and vertically</title>
                     <p>Let your eyes roam. Look for keywords and bolded or italicized items.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Read for points and not for analysis</title>
                     <p>Though it's always good to understand how the author arrived at a claim, it is more productive in a pinch to skip the analyses and return to them later.</p>
-                </li>
-            </dl></p>
+                </paragraphs>
         </subsection>
     </section>
     <section>
@@ -81,7 +79,9 @@
         <subsection>
             <title>Reading Critically</title>
             <p>No matter the type or purpose of a source, the reading you'll be doing for your Puget Sound courses will almost always be critical. Reading critically means that you do far more than read the words on a page<mdash/>you engage with them by thinking about them. As you will read in <xref ref="forming-your-argument"/>, academic writing is all about participating in larger scholarly conversations. This participation is largely about making argumentative claims and supporting them with evidence in order to convince an audience of those claims. When you read an academic work, then, you're also participating in the scholarly conversation around that work. As a result, reading critically requires you to read and evaluate the author's claims and evidence. While it isn't your job to treat your sources as if you were a movie or restaurant critic, you should be aware of the places in which the author's argument is unconvincing, contradictory, or contentious. (Note: Critical reading for some primary sources can be slightly different, but we will address those differences in the <q>close reading</q> section that follows.)</p>
-            <p>You can think critically about the text in a number of ways, including:<dl>
+            <list>
+                <caption>Reading Critically</caption>
+                <p>You can think critically about the text in a number of ways, including:<dl>
                 <li>
                     <title>identifying</title>
                     <p>the author's argument(s) and evidence.</p>
@@ -114,7 +114,8 @@
                     <title>listening to your gut</title>
                     <p>and allowing yourself to develop feelings and opinions about the text<mdash/>these feelings might turn into great starting points for an argument or a paper.</p>
                 </li>
-            </dl></p>
+                </dl></p>
+            </list>
             <p>Below are some questions to consider as you go about evaluating claims, evidence, and the source as a whole:<ul>
                 <li><p>Do the author's connections between their claims and their evidence make sense?</p></li>
                 <li><p>Is their evidence valid for and accepted by the discipline in which they're writing?</p></li>
@@ -140,19 +141,25 @@
                 </ul></p>
                 <p>The text that you have read closely is your evidence. To convince your audience of your argument, you must take careful and detailed notes (<ie/>, doing careful and detailed active reading). By including all of the necessary analysis and textual examples, you can tell your reader exactly how you've interpreted a passage.</p>
             </paragraphs>
-            <paragraphs>
-                <title>Reading in the Sciences</title>
-                <p>
-                    Reading in the sciences (social, earth, hard, soft, or otherwise) can be a whole different beast than reading literature, historical documents, or humanities-based secondary sources. If you've ever tried to read a peer reviewed scientific article you may have found yourself feeling lost and confused by the technical words and abbreviations. But have no fear! By using the following strategies, you can become a savvy reader of scientific articles:
-                    <ul>
-                        <li>Start by reading the title and abstract a few times. While you may not absorb it all on a first or even a second reading, the title and abstract of a scientific article offer a snapshot of the whole article. Use the title and abstract as a mental guide to lead you through the text.</li>
-                        <li>Next, skim the introduction to get the context of the project. Make sure to read the last paragraph of the introduction because the research question of the paper will usually be there. Then, skim the discussion/conclusion to determine if or how the goals projected in the introduction were accomplished.</li>
-                        <li>Step three is to look at the figures. While the authors of the paper are motivated to tell a compelling story about their data, it's harder to manipulate a figure. Spend some time reading the figure captions and understanding how the data matches up with what the authors are saying in the text.</li>
-                        <li>If you want to get a still deeper understanding of the paper, read the methodology section. If you read this section carefully and actively, it will allow you to suss out whether the paper stands up to scientific rigor.</li>
-                        <li>Know that you will need to look terminology up along the way. Even professors need to do this when they read articles in an unfamiliar research area.</li>
-                    </ul>
-                </p>
-            </paragraphs>
+        </subsection>
+        <subsection>
+            <title>Reading in the Sciences</title>
+                <p>Reading in the sciences (social, earth, hard, soft, or otherwise) can be a whole different beast than reading literature, historical documents, or humanities-based secondary sources. If you've ever tried to read a peer reviewed scientific article you may have found yourself feeling lost and confused by the technical words and abbreviations. But have no fear! By using the following strategies, you can become a savvy reader of scientific articles:</p>
+                    <paragraphs>
+                        <title>Start by reading the title and abstract a few times</title> <p>While you may not absorb it all on a first or even a second reading, the title and abstract of a scientific article offer a snapshot of the whole article. Use the title and abstract as a mental guide to lead you through the text.</p>
+                    </paragraphs>
+                    <paragraphs>
+                        <title>Next, skim the introduction to get the context of the project</title><p> Make sure to read the last paragraph of the introduction because the research question of the paper will usually be there. Then, skim the discussion/conclusion to determine if or how the goals projected in the introduction were accomplished.</p>
+                    </paragraphs>
+                    <paragraphs>
+                        <title>Look at the figures</title> <p>While the authors of the paper are motivated to tell a compelling story about their data, it's harder to manipulate a figure. Spend some time reading the figure captions and understanding how the data matches up with what the authors are saying in the text.</p>
+                    </paragraphs>
+                    <paragraphs>
+                        <title>If you want to get a still deeper understanding of the paper, read the methodology section</title><p> If you read this section carefully and actively, it will allow you to suss out whether the paper stands up to scientific rigor.</p>
+                    </paragraphs>
+                    <paragraphs>
+                        <title>Know that you will need to look terminology up along the way</title> <p>Even professors need to do this when they read articles in an unfamiliar research area.</p>
+                    </paragraphs>
         </subsection>
     </section>
     <section xml:id="note-taking-strategies">
@@ -161,84 +168,80 @@
         <p>Before you begin reading or taking notes, ask yourself: What class are you taking notes for? Does this class require you to know a lot of specific information (<eg/>, biological processes, historical events, or literary terms), or does it focus more on understanding (<eg/>, <em>why</em> a historical event happened, <em>how</em> to find a derivative, or <em>what type</em> of research method is best for a certain situation)? While all classes have a mix of both types of information, identifying the primary type of information you'll be interacting with will help you decide what form your notes should take.</p>
         <list>
             <paragraphs><title>General Guidelines</title>
-            <dl>
-                <li>
+                <paragraphs>
                     <title>Identify the main argument of the paper or chapter</title>
                     <p> The main argument of a paper or chapter is also called a <term>thesis</term> (see <xref ref="main-claim" text="title"/>). The thesis will help guide your reading and note-taking by telling you what about the argument is important and what you need to pay attention to. You can usually find a thesis in the abstract and near the end of the introduction. If you're having trouble locating the thesis, you might also read the conclusion (don't worry about spoilers<mdash/>usually academic writing is up front about the conclusions of an investigation).</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Identify the main point of each paragraph</title>
                     <p> As you'll see in <xref ref="argumentation-as-process" text="title"/>, clear paragraphs begin with topic sentences. The purpose of a topic sentence is to tell the reader what the paragraph will be about. Use this to your advantage! Like a mini-thesis for each paragraph, topic sentences will guide your reading by telling you what information is worthy to note.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Keep the discipline and class in mind</title>
                     <p> You can't remember everything from every reading, so be strategic about what you pay attention to. Does your discipline focus on data? Dates? Or should you pay more attention to the syntax and voice of the reading? Knowing what you're looking for helps you take better and more useful notes.</p>
-                </li>
-                <li>
+                </paragraphs>
+                <paragraphs>
                     <title>Keep yourself and your personal preferences in mind</title>
                     <p> If you hate outlining because you don't get it, then play around with note-taking strategies until you find what makes the most sense to you, whatever the discipline. If you can't memorize information in your notes and need to use flashcards, then do that. As long as you're recording all of the information that you need to successfully recall information and understand concepts, don't worry about what you're <q>supposed</q> to be doing.</p>
-                </li>
-            </dl>
+                </paragraphs>
         </paragraphs>
         </list>
-        <aside>
+        <assemblage>
             <title>Tip</title>
             <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">Center for Writing, Learning, and Teaching</url> (<init>CWLT</init>)!</p>
-        </aside>
+        </assemblage>
         <sidebyside width="50%">
             <image source="images/HR-Highlighter"/>
         </sidebyside>
         <p>Highlight and underline enough, but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
-        <paragraphs>
+        <assemblage>
             <title>Tip</title>
             <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you think they are interesting and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>
-        </paragraphs>
+        </assemblage>
         <paragraphs>
             <title>Marginal Notes and Annotations</title>
             <p>Take lots of marginal notes! Marginal notes are great tools to ensure that you're reading actively. By writing your own thoughts about the reading and summaries of the author's argument, you're engaging with the reading on a level beyond simply reading the words on the page. Not only will marginal notes help you stay focused, but they'll also be useful when you have to look back over a reading to study for a test or research for a paper.</p>
             <p>The most important thing to remember when you're annotating a source is that what you do doesn't matter as much as how and why you do it. For instance, it makes no difference whether you use asterisks or smiley faces to indicate that something is important; it only matters that you know what it means now and you'll know what it means later. You can highlight, use different color pens, make different symbols or words, use sticky notes or tabs, or dog-ear your pages (unless you're using a library book). Figure out a symbolic system that you like, and then stick to it!</p>
         </paragraphs>
-        <paragraphs>
+        <assemblage>
             <title>Tip</title>
             <p>If you're getting bored with a reading, try writing a few funny comments in the margins. You could even use a curse word. Not only will you give yourself a nice laugh, but the study break will help you refocus and keep reading. These initial emotional reactions to a reading will also help you remember it better in the long term because you're interacting with the reading in new and interesting ways.</p>
-        </paragraphs>
+        </assemblage>
     </section>
     <section xml:id="how-to-read-writing-prompts">
         <title>How to Read Writing Prompts</title>
         <p>One of things that makes Puget Sound such a vibrant intellectual space is the diversity of pedagogical styles represented on campus; as students, we can attest that this diversity makes for more flexible and creative thinkers. That said, we know that it can be difficult to develop a consistent way to interpret and approach writing assignments when those assignments vary by professor and even by course. In this section, you'll find some tips on reading, understanding, and responding to writing assignments. You may also find it helpful to read <xref ref="discipline-specific-writing"/> on Discipline-Specific Writing.</p>
         <p>
             It's important to get started on your essay as early as you can to allow yourself the most time to develop and revise your ideas. To this effect, read through your assignment as soon as you receive it and identify the following:
-            <dl>
-                <li>
-                    <title>The Purpose</title>
+        </p>
+            <paragraphs>
+                <title>The Purpose</title>
                     <p>When approaching an assignment, it's useful to identify the purpose of the assignment. Asking yourself, <q>Why did Professor <fillin/> assign this essay?</q> can help you understand what your professor wants you to get out of this assignment. Often, professors assign written work to clarify your thinking on a topic or concept, sharpen some relevant academic skill, or both. Thus, your English professor might ask you to write an essay about Gertrude Stein to give you practice deciphering ambiguous poetry, or your sociology professor might ask you to write an autoethnography to personalize the connection between, for instance, dorm life and capitalism. Knowing why you're writing a paper<mdash/>that is, knowing that your professor is not sadistically assigning work<mdash/>actually makes writing the paper easier.</p>
-                </li>
-                <li>
-                    <title>The Work to be Done</title>
+            </paragraphs>>
+            <paragraphs>
+                <title>The Work to be Done</title>
                     <p>Now that you've figured out the purpose of the assignment, it's time to identify what the assignment is asking you to do. To do so, pay attention to the active verbs of the prompt. If your prompt asks you to <q><em>Analyze</em> Lewis Carroll's <pubtitle>Alice's Adventures in Wonderland</pubtitle>,</q> make sure your essay is founded on textual analysis. If your prompt asks you to <q><em>Compare</em> the timelines of the Korean War and the Vietnam War,</q> make sure your paper compares. Identifying these active verbs can can give you a basic sense of how your professor will evaluate your essay<mdash/>Does it analyze the novel? Does it compare the wars?<mdash/>and can guide your writing to meet those expectations.</p>
                     <p>Also, identify what type of evidence that you'll need to substantiate your argument: If your professor explicitly asks for a <q>statistical analysis of American automobile consumption in the past decade,</q> make sure you draw on statistics. (Often, this information is implied in the language of the prompt: When a prompt asks you to analyze <pubtitle>Alice's Adventures in Wonderland</pubtitle>, you know you'll be working with the novel.) If you don't know what type of evidence your professor expects you to use, ask.</p>
                     <p>Once you know what your professor is looking for, make a list of things to keep in mind as you write: Having this list for easy reference will keep your paper on topic and help you to foreground the skills under evaluation.</p>
-                </li>
-                <li>
-                    <title>Any Suggestions</title>
+            </paragraphs>
+            <paragraphs>
+                <title>Any Suggestions</title>
                     <p>There are things you <em>must</em> do for an assignment, and there are also things you <em>might</em> do. Professors, especially those at Puget Sound, sincerely want you to succeed. Because they're so benevolent, your professors might provide some suggestions for writing or constructing an argument in response to the prompt. These suggestions can be helpful points of departure, especially if you're having difficulty formulating a response. They're also good examples of responses that your professor would accept. If it seems like there are a lot of questions, chances are, you aren't required to answer all of them (professors don't want to read essays full of a bunch of disjointed ideas). If you're not sure whether something is required or just suggested, ask your professor.</p>
-                </li>
-                <li>
-                    <title>Key Information</title>
+            </paragraphs>
+            <paragraphs>
+                <title>Key Information</title>
                     <p>Once you know the why and the how of your assignment, identify any stipulations regarding <em>length</em>, <em>citation format</em>, the <em>number of required sources</em> (both primary and secondary), and, of course, the <em>due date</em>. Knowing this information will help you to plan your approach and allocate your time: You probably shouldn't wait until Thursday night to begin outlining the six-page paper due in class on Friday. Having this information will also give you a sense of the extent and scope of your response: If you're limited to three pages, you probably won't be able to argue about the evolution of Los Angeles's urban landscape from 1980 to the present; perhaps you could focus on a single aspect<mdash/>building height<mdash/>and hold off on the rest until your 25-page final. Identifying key information can also help you to plan your essay: The tone you adopt (Is it professional or conversational?) and the background that you provide are largely determined by your <em>audience</em>: Are you writing for your professor, your peers, or the general population? Your grasp of key information can help you to contour your approach.</p>
-                </li>
-                <li>
-                    <title>Your Approach</title>
+            </paragraphs>
+            <paragraphs>
+                <title>Your Approach</title>
                     <p>It goes without saying that assignments vary! Some professors will give you a detailed question to respond to, while others will ask you to come up with and respond to your own question. This variation can be perplexing. However, knowing how to approach either type of assignment can save you some anxiety.</p>
                     <p>Students often feel that a specific prompt requires a specific answer. This can be frustrating, especially if you feel that you don't know that answer or that you're being stifled into agreeing with your professor. While it may be the case that your prompt requires a particular answer, it is more likely that your professor will accept a variety of responses. Not only is it more interesting for your professors to evaluate 20 different responses (as opposed to 20 responses making the same point), but we also have it on good word that the joy of assigning essays comes from the variety of responses that such assignments elicit. Thus, while you should ask if you're unsure whether your assignment wants a particular answer, take comfort in the fact that what matters most to most professors is often not the answer you give but how well you argue it.</p>
                     <p>When faced with a bare prompt, students often have the opposite frustration: They don't know where to start! It can seem impossible to start on a paper when all that you're given is: <q>Write an essay on a topic related to the concerns of the course</q> (or something to this effect). Though prompts like this one can seem daunting, they also give you the most intellectual and creative freedom. Your only constraint is your ability to shape an idea of yours into an argument of relevance to the course. Adopting this frame of mind can transform what seems daunting into a liberating opportunity to demonstrate your argumentative facility. If you find yourself stuck, think about what interests you most about your course topic and make some word or concept webs (see <xref ref="the-writing-process"/>); you're likely to find something worth writing about. If you're still stuck, schedule a meeting with your professor, talk with a friend, or see a writing advisor at the <init>CWLT</init>!</p>
-                </li>
-                <li>
-                    <title>Questions</title>
+            </paragraphs>
+            <paragraphs>
+                <title>Questions</title>
                     <p>It's normal to have questions about your assignments. After you read through your prompt, note any questions that you have and ask your professor for clarification. When your professor realizes that they accidentally wrote <q>single-spaced</q> instead of <q>double-spaced,</q> your classmates will thank you.</p>
-                </li>
-            </dl>
-        </p>
+            </paragraphs>
         <p>Here are some examples of real prompts that we've marked up with regard to the above information:</p>
         <example>
             <title>Short Paper (Short Prompt)</title>
