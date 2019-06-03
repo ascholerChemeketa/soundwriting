@@ -212,8 +212,8 @@
             </conclusion>
         </list>
     </section>
-    <section>
-        <title>Resume</title>
+    <section xml:id="section-resume">
+        <title>Resumes</title>
         <paragraphs>
             <title>Resume</title>
             <p>A resume is a list of your education history, past employment, professional skills/knowledge, and any other qualifications that are relevant to the job to which you are applying. Even if you are applying for many jobs within a similar field, you will likely need to revise your resume for every job application you submit (for instance, if you are applying for a computer tech position, you probably wouldn't include your cat-sitting experience). However, there are some basic things you need to include in every resume to make it as strong as possible.</p>
