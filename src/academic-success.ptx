@@ -5,14 +5,14 @@
         <p>By the time you're reading this, you've probably been at Puget Sound long enough to realize that college looked easier on paper than it has turned out to be. Taking <em>only</em> four classes at a time and <em>only</em> being in class twelve hours a week sounded great, but it sounded great because seeing college on paper didn't show you how much work you'd have to do outside of class, how many other activities you'd want to get involved in, and how much less structured your life would be than it was in high school. This freedom and independence is one of the things that makes college such an awesome experience and such a great chance to grow as a person, but it also takes some adapting to, and most graduating seniors could tell you a story off the top of their heads about how they didn't manage their time, got disorganized, or said something inappropriate to a professor or another student in the midst of some unforeseen college calamity.</p>
         <p>Sometimes, it will feel like your life is falling apart around you. We don't know a single college student who hasn't had moments that were incredibly hard, emotionally as much as intellectually, in the course of their time at Puget Sound. Maybe assignments are late. Maybe a friend or family member has needed your help with life-stuff. Maybe your own personal health, mental or physical, is making school difficult. Maybe it's just been raining and grey outside for a week straight and you're tired of being cold and wet every time you leave your room. College is exciting in new, unique ways, but it's also difficult in new, unique ways. New challenges require new approaches, and though we can't say how to fix everything, chapter provides baseline suggestions for how to manage your time, stay organized, and talk to professors, <em>especially</em> when life gets hard.</p>
     </introduction>
-    <section>
+    <section xml:id="talking-to-profs">
         <title>Talking to Professors</title>
         <subsection>
         <title>The New Student-Teacher Relationship</title>
-        <p>College is different from high school in lots of ways, but one of the most important changes that is easy to miss is in the relationship between you and your teachers. In high school, your teachers were <em>proactive</em> so that you could be <em>reactive</em>. This means that your teachers made sure that you knew what homework was due the next day, let you know when you hadn't turned in an assignment, and checked in when you missed class. They initiated action, and you just had to respond. In college, <em>you are expected to be proactive</em>, and your <em>professors will be reactive</em>. This means that if you don't understand course material, get behind on assignments, or miss class, it's up to you to turn in assignments on time, show up to class, and learn course material. This new freedom is a good chance to develop independence and run your own life, but it can also be dangerous if you're not aware of your new responsibility to <em>take responsibility</em> for your own learning and progress. </p>
-        <p>You have a different set of responsibilities and roles as a college student than you did as a high school student, and college professors similarly have a different set of responsibilities and roles than your high school teachers did. Teaching high school is a demanding job, but high school teachers are <em>primarily teachers</em>, which is to say that 95% of their time at work is spent focused on students. College professors are expected to be good teachers, especially at a liberal arts school like the University of Puget Sound, but they are expected also to be scholars who create and publish new knowledge and committee members who help run the university. Finally, college professors work with adult students, and they don't want to treat students as incapable youth any more than students want to be treated as incapable youth.</p>
+        <p>College is different from high school in lots of ways, but one of the most important changes that is easy to miss is in the relationship between you and your teachers. In high school, your teachers were proactive so that you could be reactive. This means that your teachers made sure that you knew what homework was due the next day, let you know when you hadn't turned in an assignment, and checked in when you missed class. They initiated action, and you just had to respond. In college, <em>you are expected to be proactive</em>, and your <em>professors will be reactive</em>. This means that if you don't understand course material, get behind on assignments, or miss class, it's up to you to turn in assignments on time, show up to class, and learn course material. This new freedom is a good chance to develop independence and run your own life, but it can also be dangerous if you're not aware of your new responsibility to take responsibility for your own learning and progress. </p>
+        <p>You have a different set of responsibilities and roles as a college student than you did as a high school student, and college professors similarly have a different set of responsibilities and roles than your high school teachers did. Teaching high school is a demanding job, but high school teachers are primarily teachers, which is to say that 95% of their time at work is spent focused on students. College professors are expected to be good teachers, especially at a liberal arts school like the University of Puget Sound, but they are expected also to be scholars who create and publish new knowledge and committee members who help run the university. Finally, college professors work with adult students, and they don't want to treat students as incapable youth any more than students want to be treated as incapable youth.</p>
         </subsection>
-        <subsection>
+        <subsection xml:id="your-secret-weapon">
         <title>Your Secret Weapon</title>
         <p>We wanted to explain the parts of professors' lives that you probably haven't thought about because it's important context for understanding their many roles, their jobs as your teachers, and how you can relate to them respectfully and productively. That being said, professors are here to teach you and every other student in their class, and they want to do that to the best of their ability while balancing their other responsibilities.</p>
         <p>Making a request of a professor can be difficult, especially while you're still adapting to a new student-teacher dynamic, and oftentimes when a student says something disrespectful to a professor, or visa versa, it's because of a lack of thoughtfulness or understanding, not a willful malevolence. Fortunately, professors <em>give you</em> a secret weapon you can use when you need to make a request. It's called a syllabus. Most students don't recognize the power of the syllabus because syllabi in high school (if you even had them) tend not to be as informative as syllabi in college. In college, by contrast, there are many good reasons to read the syllabus.</p>
@@ -31,12 +31,12 @@
         </p>
         <p>Now there's a magical day at the beginning of the semester called <q>syllabus day</q> where everyone goes to class and just does nothing! How amazing!</p>
         <assemblage>
-            <p>Just kidding! The truth is, of course, that syllabus day is important. Professors reserve an <em>entire day</em> of class to go over the syllabus because they <em>expect</em> students to know their policies and assignment due dates.</p>
+            <p>Just kidding! The truth is, of course, that syllabus day is important. Professors reserve an entire day of class to go over the syllabus because they <em>expect</em> students to know their policies and assignment due dates.</p>
         </assemblage>
     </subsection>
-    <subsection>
+    <subsection xml:id="making-requests">
         <title>Making Requests</title>
-        <p>Professors are amazing resources, which is why it can be so tempting to shoot off a quick email asking if they know of any good sources for your next paper or if they can send you notes for the day of class that you missed. But communicating with professors in a way that's respectful and effective requires that you think a little bit more about what you're asking for. One of the the best rules of thumb for interacting with professors is <un s="1">to do as much work ahead of time as you're about to ask the professor to do for you</un>. If you still need help after taking the steps you should, <un s="1">explain to the professor what you've already done, and ask for something specific</un>. This both lets them know that you've been proactive in meeting your needs, but also gives them a really specific action they can take to help you.</p>
+        <p>Professors are amazing resources, which is why it can be so tempting to shoot off a quick email asking if they know of any good sources for your next paper or if they can send you notes for the day of class that you missed. But communicating with professors in a way that's respectful and effective requires that you think a little bit more about what you're asking for. One of the the best rules of thumb for interacting with professors is to do as much work ahead of time as you're about to ask the professor to do for you. If you still need help after taking the steps you should, explain to the professor what you've already done, and ask for something specific. This communicates that you've been proactive in meeting your needs and gives them a really specific action they can take to help you.</p>
         <example><title>Missing Class</title>
             <p>
                 For example, instead of this:
@@ -64,43 +64,169 @@
         </list>
         </paragraphs>
     </subsection>
-    <subsection>
+    <subsection xml:id="asking-for-extension">
         <title>Asking for an Extension</title>
         <p>One of the most common interactions that you may have with a professor that can still be difficult to navigate is asking for an extension on an assignment. This is difficult for a few reasons, but mostly it's difficult because your perspective and the professor's perspective can differ so much, and understanding these differences can help you ask for what you need in a more thoughtful (and hopefully, successful) way. First of all, you could have lots of reasons for asking for an extension. Maybe there was a family emergency. Maybe you have a lot of other work to do the same day. Maybe you've been stuck in bed sick. Maybe you just didn't plan quite right and started too late. Often, asking for an extension is not planned, but happens as a panicked response to a scenario you didn't want to be in in the first place. Professors know that there are good reasons to ask for an extension, but they've also heard a lot of <em>not</em>good reasons for asking for an extension.</p>
         <p>What might feel catastrophic or unusual in your life is probably something that your professor has heard from another student before. They know that being a student is really tough and that life falls apart sometimes. Everyone gets sick and has to deal with emergencies sometimes. Getting an extension is often better than turning in a partially complete assignment, but when you ask for an extension, think about how what you say will come across to your professor. They've received too many emails that start with <q>Hey, I'm really really busy and I have a lot of work to do for my other classes, and I was hoping I could get an extension on your assignment.</q> They might believe and empathize with you, but because the assignment you're falling behind on has probably been on their syllabus the entire semester, they're just going to think that you planned poorly and now are asking them to accommodate that poor planning. So how should you ask?</p>
         <p>There are a few rules to follow when asking for an extension:
-        <ul><li><un s="1">It is ALWAYS better to ask permission to turn in an assignment late than for forgiveness for having already done so</un>, and it is best to ask as far in advance as possible. This proactive step gives you lots of time to work out a new arrangement with the professor and communicates to the professor that you are thinking ahead and have read their syllabus.</li> 
-        <li><un s="1">Think about who else your late work might affect</un>. Turning in late work will almost certainly require that your professor deal with it separately, but it may also impact other students if you ask to take a test or give a presentation on a different day.</li>
-        <li><un s="1">Check the syllabus</un> and know the professor's policy on late work and extensions, which can vary drastically by discipline and professor.</li> 
-        <li>With the last point in mind, <un s="1">know whether you are asking for the professor to make an exception to their policy or not</un> and<nbsp/><ellipsis/></li>
-        <li>If you're asking the professor for something that's generally not allowed by their policy, <un s="1">give them an out</un> by saying that you recognize that they might not be able to give you what you're asking for. Giving the professor an easy way to reject you may sound counterproductive, but it really makes you seem more reasonable and understanding.</li> 
+        <ul><li>It is ALWAYS better to ask permission to turn in an assignment late than for forgiveness for having already done so, and it is best to ask as far in advance as possible. This proactive step gives you lots of time to work out a new arrangement with the professor and communicates to the professor that you are thinking ahead and have read their syllabus.</li> 
+        <li>Think about who else your late work might affect. Turning in late work will almost certainly require that your professor deal with it separately, but it may also impact other students if you ask to take a test or give a presentation on a different day.</li>
+        <li>Check the syllabus and know the professor's policy on late work and extensions, which can vary drastically by discipline and professor.</li> 
+        <li>With the last point in mind, know whether you are asking for the professor to make an exception to their policy or not, and<nbsp/><ellipsis/></li>
+        <li>If you're asking the professor for something that's generally not allowed by their policy, give them an out by saying that you recognize that they might not be able to give you what you're asking for. Giving the professor an easy way to reject you may sound counterproductive, but it really makes you seem more reasonable and understanding.</li> 
         <li>If you know you can't get an assignment in on time but it's entirely your fault and you know it, be honest about it. Like most people, professors respond far better to people who are being genuine than they do to people who come up with a flimsy reason for why they haven't been able to get something in on time.</li>
         </ul>
         </p>
     </subsection>
-    <subsection>
+    <subsection xml:id="send-or-not-send">
         <title>To Send or not to Send</title>
-        <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is both useful as a skill in itself and transferrable to talking with professors in-person. Before we dive into some example emails, try considering KNOL[these tips] on email etiquette.</p>
-    <example>
-            <list>
+        <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is useful as a skill in itself and is transferrable to talking with professors in-person.</p>
+    <assemblage>
+        <title>Email Etiquette Pointers</title>
+        <p>
             <ul>
-            <li><p>Don't be too casual until you know that it's okay to be casual. This means using a professor's name rather than starting with <q>Hey</q> and generally trying to spell words correctly and use full sentences.</p></li>
-            <li><p>Be <un s="1">clear</un> and <un s="1">brief</un>. Nobody wants to read long, confusing emails (or anything else that's long and confusing).</p></li>
-            <li><p>As with making requests, <un s="1">don't ask the professor to do more work</un> in responding than you've already done to send the email.</p></li>
-            <li><p>Use your <un s="1">Puget Sound email address</un></p></li>
+                <li><p>Don't be too casual until you know that it's okay to be casual. This means using a professor's name rather than starting with <q>Hey</q> and generally trying to spell words correctly and use full sentences.</p></li>
+                <li><p>Be <em>clear</em> and <em>brief</em>. Nobody wants to read long, confusing emails (or anything else that's long and confusing).</p></li>
+                <li><p>As with making requests, don't ask the professor to do more work in responding than you've already done to send the email.</p></li>
+                <li><p>Use your Puget Sound email address.</p></li>
             </ul>
-            </list>
-    </example>
+        </p>
+    </assemblage>
+
         <figure><caption>Sorry I missed class</caption>
         <image source="images/AS-sorryimissedclass"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image></figure>
     <example>
         <figure><caption>Sample Email</caption>
         <image source="images/AS-sampleEditedEmail"><description>Our advice for this email</description></image></figure>
     </example>
-    <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it's easy to be familiar or informal with Puget Sound professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a student ask them for an exception to a rule might not bother them at all; however, they're also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn't good for anyone!</p> 
+    <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it's easy to be familiar or informal with Puget Sound professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a studdefining and ent ask them for an exception to a rule might not bother them at all; however, they're also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn't good for anyone!</p> 
     </subsection>
 </section>
-    <section>
+
+<section>
+    <title>Requesting a Letter of Recommendation</title>
+        <introduction>
+            <p>At some point in your life, you’ll probably need to ask someone for a letter of recommendation. If you’re reading this handbook, you’re most likely a college student, so this section specifically addresses how to ask a professor for a letter of recommendation, but all of the big ideas in this section are true for asking a supervisor or a coworker for a letter of recommendation as well! For the rest of this section, <q>professor</q> means the person you’re asking for a letter of recommendation, and <q>program</q> is a catchall word for the many different things for which you might need a letter of recommendation.</p>
+
+            <p>This section explains three perspectives you should consider when figuring out who to ask for a letter of recommendation and then gives a suggested timeline for when and how you should communicate with the professor(s) you would like to write you a letter.</p>
+        </introduction>
+
+    <subsection xml:id="three-perspectives">
+        <title>Three Intersecting Perspectives</title>
+            <p> In true liberal arts fashion, this handbook recommends that you consider three distinct perspectives as you are going through the process of requesting letters of recommendation: your perspective, your evaluator’s perspective, and your professor’s perspective.
+            </p>
+
+        <paragraphs xml:id="your-perspective">
+            <title>Your Perspective</title>
+            <p>When you ask a professor for a letter of recommendation, you should have answers to the following questions:
+                <ul>
+                    <li><p>Why am I interested in the program I’m applying for?</p></li>
+                    <li><p>How do I think this program will help me with my plans for my future? </p></li>
+                    <li><p>What do I want a professor to say about me?</p></li>
+                    <li><p>Which professors have seen me overcome challenges, engage with course material, take on a leadership role, or do great research?</p></li>
+                </ul>
+            You’ll probably need to think about the answers to these questions as part of your application anyway, but you might not have realized that the answer to these questions affect who you should even consider asking for a letter of recommendation. Different faculty members work in different fields and will know you in different capacities. What you want to share about yourself with an application committee determines who you should ask to write about you.</p>
+        </paragraphs>
+        <paragraphs xml:id="your-evaluators-perspective">
+            <title>Your Evaluator's Perspective</title>
+            <p>Now imagine that you are the person who runs the program that you are applying for.</p>
+                <ul>
+                    <li><p>What qualities do you want to see in a successful applicant, and what experiences is it important that applicants have? </p></li>
+                    <li><p>What institutional values do you have, and how will they affect which applicants you select?</p></li>
+                    <li><p>Which people know your applicants well enough to honestly evaluate the qualities/skills/experiences that they have had? Which professors do you trust most to also understand your values?</p></li>
+                    <li><p>How much do you care about letters of recommendation? Do you just want to know that a student is competent, or are you only interested in an applicant if they immensely impressed their professor?</p></li>
+                </ul>
+            <p>Again, you might already know that you needed to think about these questions for your application, but notice that the answers to these questions also dictate which faculty members will have the most influence over the people deciding whether or not to consider your application favorably!</p>
+        </paragraphs>
+
+        <assemblage>
+            <title>Mind Reading</title>
+            <p> At this point, you might be inclined to say, <q>now how am I supposed to answer those questions? I can’t get inside the heads of the people on the application committee!</q> That’s true, but you can guess the answer to a lot of these questions by carefully reading the program’s website and by talking to to students, professors, or staff members who are familiar with the program.</p>
+        </assemblage>
+
+        <paragraphs xml:id="your-profs-perspective">
+            <title> Your Professor's Perspective</title>
+            <p>Finally, think about where your professor is coming from and what they might need to think about as they are considering whether they are willing to write you a letter and what they can say about you based on their personal interactions with you:</p>
+
+            <ul>
+                <li><p>Do I know my student well enough to write about them in detail? What can I say with honesty and integrity about this student?</p></li>
+                <li><p>What qualities did I see my student exhibit? Was I impressed with these qualities?</p></li>
+                <li><p>What do I know about the program that my student is applying for, and what qualities are the evaluators looking for in an applicant?</p></li>
+                <li><p>What does my student want the application evaluators to know about them?</p></li>
+                <li><p>Who will read my letter?</p></li>
+                <li><p>How am I going to keep track of all of the letters that I agreed to write for various students?</p></li>
+            </ul>
+        </paragraphs>
+
+        <p>Professors often write letters of recommendation to their peers and colleagues at other institutions. Their reputations are at stake when they recommend their students for other opportunities, so they take the integrity of the process seriously. This perspective should not make you panic, but it should encourage you to put yourself in your professor’s shoes and think about the things they have to consider when writing a letter of recommendation.</p>
+
+        <p>If a professor is going to write you a great letter of recommendation, they need to see that you have the qualities that are important for what you are applying for. These could include perseverance through struggle, curiosity about a topic, clever approaches to problems, or any number of other things. The bottom line is that a letter of recommendation is a professor’s argument that you’re a good candidate for the thing you are applying for, and professors can best support this argument if they have a lot of specific evidence about why they think that is. Remember that helping a professor get to know you is not just about how much time you spend with them; it is about what you show them about yourself during that time.</p>
+ 
+        <p>Ideally, your letter-writer is someone who has worked with you in multiple classes or advised you on an independent project and who can tell specific stories that exemplify the unique qualities that make you a good choice for your program of interest. For example, if you are applying for a summer research internship, you should ask for letters of recommendation from professors who have seen you do research. If you have not worked with anyone on an independent research project, faculty who have seen you do research projects in class might be a good option instead.</p>
+    </subsection>
+
+    <subsection>
+        <title> Your (Suggested) Timeline </title>
+            <p>
+                <dl>
+                    <li>
+                        <title>When you...</title>
+                        <p></p>
+                    </li>
+                    <li>
+                        <title>Arrive at college</title>
+                        <p>Build relationships with faculty. Visiting a professor's office hours is a great way to get more out of your education, and it is also a great way to build a relationship with a professor, especially if you haven’t worked closely with a professor in any other context yet. Remember that you can read more about <xref ref="talking-to-profs" text="title"/>, and you can check out [this video] to learn what office hours are and how to use them.</p>
+                    </li>
+                    <li>
+                        <title>Start thinking about applications</title>
+                        <p> Consider the three perspectives described in <xref ref="three-perspectives"/>. Make sure you can answer the questions in <xref ref="your-perspective" text="title"/>. Identify which professor(s) you’d most like to write you a letter.</p>
+                    </li>
+                    <li>
+                        <title>Have 3+ weeks before the application due date</title>
+                        <p> Request letter of recommendation, in person if possible, from your <q>top choice letter writer.</q> Explain what program you are applying for, why you are interested in it, and what made you want to ask that professor in particular for a letter. If the letter of recommendation is a central part of your application, make sure to think about the request from <xref ref="your-profs-perspective" text="title"/>, or directly ask, <q>could you write me a <em>strong</em> letter of recommendation?</q> </p>
+                    </li>
+                    <li>
+                        <title> Receive confirmation that a professor will write you a letter </title>
+                        <p>Send them the following information, even if they did not specifically ask for it:</p>
+                        <p>
+                            <ul>
+                                <li><p>A description of what you are applying for (a link to a website is fine), along with why you are interested in the program or how it fits into your plan for a future career</p></li>
+                                <li><p>All of the application materials <em>you</em> need to submit for your application (e.g. a personal statement, cover letter, or application essay), so that the professor knows how their contribution to your application fits in with the rest of the application materials</p></li>
+                                <li><p>An updated resume or curriculum vitae (<init>CV</init>). See <xref ref="section-resume"/> for advice about making a resume or CV.</p></li>
+                                <li><p>A transcript</p></li>
+                            </ul>
+
+                            <assemblage>
+                                <title>Pro tip</title>
+                                <p>
+                                    If you’re asking a letter writer for multiple letters, give them a consolidated way to keep track of all the letters you’re asking them to write. It’s especially important that they can easily see (1) which programs you’re applying for, (2) when each letter is due, (3) how to submit each letter, and (4) any special instructions about letter content. One good way to do this is to make a table with one row for each program.
+                                </p>
+                            </assemblage>
+
+                            <p>Do not add a professor’s name to online forms or send them letter-writing material until they say that they are willing to write you a letter. Being <q>invitold</q> to write a letter is no fun for them!</p>
+                        </p>
+                    </li>
+                    <li>
+                        <title>Have 3-5 days left before the application is due</title>
+                        <p>
+                            Remind your professor that their letter is due soon. A short email that reminds them about (1) which letter is due, and (2) the date and time that their letter is due is great. One reminder a few days in advance should suffice, but if the due date passes and the program still has not received their letter, you should reach out again to confirm that they submitted it.
+                        </p>
+                    </li>
+                    <li>
+                        <title>Submit your application</title>
+                        <p>
+                            Always say thank you! A hand-written card never goes out of style in this circumstance. After you hear back from a program about whether or not you were accepted, share the news with your professor. If you’re choosing between multiple programs, let your professor know which offer you accept, and stay in touch with them. Maintaining a network of professors who could write you a letter or be a character reference is useful long after you graduate college, so keep in touch with the professors that you know best. 
+                        </p>
+                    </li>
+                </dl>
+            </p>
+<p>
+
+            </p>
+    </subsection>
+</section>
+
+<section>
        <title>Time Management</title>
        
             <introduction>
@@ -112,7 +238,7 @@
     <subsection>
         <title>Good Ol' Procrastination</title>
             <p>Probably the most common challenge that most students (and people) face in managing time is procrastination. Procrastination is often associated with laziness, but really it's more of a question of facing the fear of starting something. Starting something is especially hard (and therefore procrastination most likely) when the task is important to us or difficult to undertake. Harder still is when the task is vague or involves many steps. For this reason, we tend to procrastinate most on our most difficult, abstract tasks that have the greatest impact on our life. How irritating! We can have a huge weight hanging over us (like a research paper, take-home test, or class presentation), but rather than chip away at one of <em>those</em> projects, it's easier for us to do a well-defined reading for a class, finish a problem set, or simply stew in our misery, squandering our time on our favorite website or social media platform.</p>
-            <p>The key thing to note about procrastination is that it results from not knowing how to approach the terrifying scale of an important, abstract project. Only at the last minute, when our mind accepts that we might fail a class if we don't start in on the project that's worth 20% of our grade, do we rally to rush through the assignment before its due. The <q>last-minuteness</q> of our work <em>forces us to compromise and make decisions as we go,</em> and most importantly, it means that if we do poorly on an assignment, <em>it's not because we lacked intelligence, knowledge, or skills, it's because we waited until the last minute.</em> Our decision-making capabilities, not our identity, is at stake.</p>
+            <p>The key thing to note about procrastination is that it results from not knowing how to approach the terrifying scale of an important, abstract project. Only at the last minute, when our mind accepts that we might fail a class if we don't start in on the project that's worth 20% of our grade, do we rally to rush through the assignment before its due. The <q>last-minuteness</q> of our work forces us to compromise and make decisions as we go, and most importantly, it means that if we do poorly on an assignment, <em>it's not because we lacked intelligence, knowledge, or skills,</em> it's because we waited until the last minute. Our decision-making capabilities, not our identity, is at stake.</p>
             <p>Putting our heart into a task (like homework) and then hearing from someone we look up to (like a professor) say that it's not very good can be an awful feeling, so we protect ourselves by simply not giving ourselves the time to put our heart into our work. This attitude is easy to adopt, especially when we get feedback like that we're just <q>not good at math</q> or <q>don't have a way with words</q> or <q>are lazy.</q> These labels are damaging because they send the message that we ARE failures rather than that we have failed to show our best work. College assignments will probably ask most of us to do things that demand that we use skills that we believe we lack; to avoid letting an assignment (or the grade we get on an assignment) be yet another permanent mark of our inferiority, we procrastinate so that we can attribute any undesirable outcome not to our own failings, but to our circumstances.</p>
             <p>This cycle is difficult to break, but one of the most important things to remember is that procrastination almost always diminishes the quality of our work. 
                 <assemblage>
@@ -157,13 +283,27 @@
             <p>Trying to do things that <q>recharge your batteries</q> rather than that leave you feeling guilty about your break is a good way to decide whether a non-work activity is an important break. If you're probably going to be in a better mental, physical, or emotional state to be productive after you take a break to do something, chances are it's self-care, not procrastination.</p>
             <paragraphs><title>General rules for self-care</title>
             <list>
-                <ul>
-                <li><p><em>Get the sleep you need!</em></p><p>Sleeping 6 hours or less a night on a regular basis has similar effects on cognition as the kind of sleep deprivation that is routinely used for interrogation and torture. If you're so sleepy you'd confess to a crime you didn't commit, you're in no shape to write a paper anyone wants to read.</p></li>
-                <li><p><em>Make time to eat well and exercise.</em></p><p>Yes, even if you're busy! You don't have to be a gym rat—just take a walk!</p></li>
-                <li><p><em>Practice good <q>emotional hygiene</q> on a regular basis.</em></p><p>Acknowledge and name your feelings as they happen, keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on us is important--not just for our productivity, but for the rest of our lives as well.</p></li>
-                <li><p><em>Protect your schedule.</em></p><p>Prioritize what you have to do, and then build in time for what you need to do for you first.</p></li>
-                <li><p><em>Be intentional about your self-care.</em></p><p>When we're stressed, we tend to do things mindlessly. Your time is valuable, so spend it on what matters.</p></li>
-            </ul>
+                <dl>
+                    <li>
+                        <title>Sleep</title>
+                        <p>Sleeping 6 hours or less a night on a regular basis has similar effects on cognition as the kind of sleep deprivation that is routinely used for interrogation and torture. If you're so sleepy you'd confess to a crime you didn't commit, you're in no shape to write a paper anyone wants to read.</p>
+                    </li>
+                    <li>
+                        <title>Body</title>
+                        <p>Eat well and exercise. Yes, even if you're busy! You don't have to be a gym rat<mdash/>just take a walk!</p>
+                    </li>
+                    <li>
+                        <title> Mind </title>
+                       <p>Acknowledge and name your feelings as they happen, keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on us is important<mdash/>not just for our productivity, but for the rest of our lives as well.</p>
+                   </li>
+                    <li>
+                        <title>Time</title>
+                        <p>Prioritize what you have to do, and then build in time for what you need to do for you first.</p></li>
+                    <li>
+                        <title>Intentionality</title>
+                        <p>When we're stressed, we tend to do things mindlessly. Your time is valuable, so spend it on what matters.</p>
+                    </li>
+            </dl>
         </list>
     </paragraphs>
     </subsection>
@@ -188,7 +328,7 @@
     </subsection>
     <subsection xml:id="time-chart">
         <title>Making and Using a Time Chart</title>
-        <p>All right. Approach big problems with small goals. Great. But how do you then follow through on those smaller goals? As you start breaking down your bigger projects, you'll find the strategies that work well for you, and tweaking the strategies that we recommend here to be most effective for you is important! That being said, one of the most tried-and-true approaches to managing daily work is the <term>time chart</term>. The point of a time chart is to give you an action plan for each day. It accounts for where you have to be when, but it also includes <em>what work you're going to do when</em>. A time chart isn't a planner or a calendar, but making a good time chart requires that you have a good sense of both <em>what you need to do on a given day</em> and <em>what your time commitments are on a given day</em>, which planners and calendars, respectively, help you keep track of. Finally, time charts are useful because they force you to assign priority to the tasks you want to accomplish.</p>
+        <p>All right. Approach big problems with small goals. Great. But how do you then follow through on those smaller goals? As you start breaking down your bigger projects, you'll find the strategies that work well for you, and tweaking the strategies that we recommend here to be most effective for you is important! That being said, one of the most tried-and-true approaches to managing daily work is the <term>time chart</term>. The point of a time chart is to give you an action plan for each day. It accounts for where you have to be when, but it also includes what work you're going to do when. A time chart isn't a planner or a calendar, but making a good time chart requires that you have a good sense of both what you need to do on a given day and what your time commitments are on a given day, which planners and calendars, respectively, help you keep track of. Finally, time charts are useful because they force you to assign priority to the tasks you want to accomplish.</p>
         <p>So how should you use a time-chart? As is the case with everything we've discussed in the academic consulting section, everyone develops slight variations on the underlying strategies for staying organized and managing time, but the steps we lay out here are a great way to start if you've never made a time chart before. Many people like to use a paper planner, which is what we present first, but there are great digital options for making a time chart as well, such as Google Calendar. First, take a look at the CWLT time chart below. If you like what you see here, you can pick up a time charts like this one at the CWLT.</p>
         <sidebyside width="50%">
                 <image source="images/AS-timechart_sample"/>
@@ -197,32 +337,35 @@
             <title>Time Chart</title>
             <p>With your own time-chart in hand, fill it out following these guidelines and in this order:
             <ul>
-                <li><p>Add all of your <un s="1">classes</un> for the week.</p></li>
-                <li><p>Add your other <un s="1">fixed commitments</un>, which could include sports or music practices, work, exercise, meals, club meetings, and appointments with friends or professors.</p></li>
+                <li><p>Add all of your classes for the week.</p></li>
+                <li><p>Add your other fixed commitments, which could include sports or music practices, work, exercise, meals, club meetings, and appointments with friends or professors.</p></li>
                 <li><p>Look at the time that's left, and schedule in time to work on specific goals or assignments. Remember to<nbsp/><ellipsis/></p>
                     <p><ul>
-                        <li><p><un s="1">Be realistic about how long each task is going to take</un>. This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p></li>
-                        <li><p><un s="1">Remember those sub-goals</un>. Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p></li>
-                        <li><p><un s="1">Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks</un>. Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p></li>
-                        <li><p><un s="1">Make time for review</un>. Our long-term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high-quality review in a short amount of time.</p></li>
-                        <li><p><un s="1">Plan to plan</un>. Schedule a time in your time chart when you'll make a time chart for the <em>next</em> week. Time management and organization strategies are only useful if they're consistent!</p></li>
+                        <li><p>Be realistic about how long each task is going to take. This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p></li>
+                        <li><p>Remember those sub-goals. Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p></li>
+                        <li><p>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks. Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p></li>
+                        <li><p>Make time for review. Your long-term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high-quality review in a short amount of time.</p></li>
+                        <li><p>Plan to plan. Schedule a time in your time chart when you'll make a time chart for the <em>next</em> week. Time management and organization strategies are only useful if they're consistent!</p></li>
                     </ul></p></li>   
             </ul></p>
         </paragraphs>
-        <p>If you're using a digital calendar (such as Google Calendar), the principles for setting up a time chart are the same as for a paper planner, but the digital platform offers KNOL[a few features] that are worth using as well.</p>
-        <example><list><ul><li><p>Set <un s="1">recurring events</un> for the commitments that don't change week to week. This means that your school and work schedule (and maybe more) will show up every week without you having to write them down over and over.</p></li>
-        <li><p>Take advantage of <un s="1">reminders</un>. If meetings or homework assignments have a tendency to slip your mind, you can always turn on notifications on your phone or computer to remind you before you're supposed to be meeting someone or working on something.</p></li>
-        <li><p>Access your calendar/time chart from <un s="1">multiple platforms</un>. If you have a smartphone, you can access your calendar from your phone as well as from any computer, which makes adding new commitments as you learn about them much easier.</p></li>
-        </ul>
-        </list>
-    </example>
-        <p>Whether you use a paper time chart or a digital time chart is up to you, and the simplest way to capture the difference between the two is that a digital time chart <em>trades tangibility for convenience</em>. Planning out your time for a week on paper, much like carrying around a paper planner, gives you something tangible to carry around, pull out after class, and fill out with pens and pencils. It makes your schedule feel more real, and the <em>process</em> required to upkeep a physical calendar keeps your mind engaged in your schedule. A digital calendar relieves you of the responsibility of filling out the same classes week after week and makes your calendar accessible from anywhere, but it does so at the cost of your physical interaction with your time chart, and this physical interaction is a good way to start forming the habits of mind involved in managing time. Plus it's a lot harder to doodle in the margins of your Google Calendar!</p>
+        <p>If you're using a digital calendar (such as Google Calendar), the principles for setting up a time chart are the same as for a paper planner, but the digital platform offers a few features that are worth using as well.</p>
+        <example> <title> Pointers for using a digital calendar </title>
+            <list>
+                <ul>
+                    <li><p>Set recurring events for the commitments that don't change week to week. This means that your school and work schedule (and maybe more) will show up every week without you having to write them down over and over.</p></li>
+                    <li><p>Take advantage of notifications. If meetings or homework assignments have a tendency to slip your mind, you can always turn on notifications on your phone or computer to remind you before you're supposed to be meeting someone or working on something.</p></li>
+                    <li><p>Access your calendar/time chart from multiple platforms. If you have a smartphone, you can access your calendar from your phone as well as from any computer, which makes adding new commitments as you learn about them much easier.</p></li>
+                </ul>
+            </list>
+        </example>
+        <p>Whether you use a paper time chart or a digital time chart is up to you, and the simplest way to capture the difference between the two is that a digital time chart trades tangibility for convenience. Planning out your time for a week on paper, much like carrying around a paper planner, gives you something tangible to carry around, pull out after class, and fill out with pens and pencils. It makes your schedule feel more real, and the <em>process</em> required to upkeep a physical calendar keeps your mind engaged in your schedule. A digital calendar relieves you of the responsibility of filling out the same classes week after week and makes your calendar accessible from anywhere, but it does so at the cost of your physical interaction with your time chart, and this physical interaction is a good way to start forming the habits of mind involved in managing time. Plus it's a lot harder to doodle in the margins of your digital calendar!</p>
     </subsection>
     <subsection>
         <title>A Few Final Thoughts</title>
         <p>It's difficult to remember all the classes, office hours, athletic practices, club meetings, and social events of college. Even more difficult is remembering all the assignments, due-dates, and special club events, that go along with those responsibilities, let alone the relative priority that each item has. More than difficult, though, it's <em>stressful</em>. It detracts from your ability to focus on and enjoy the content of what you're learning when you have to spend mental energy constantly keeping track of what's the highest priority task you have to do next. The <q>weight</q> that comes from mentally juggling so many different tasks is even worse for projects that are large, important, and ambiguous. When you create a time-chart and schedule time to do a specific task, you're effectively relieving yourself of one ball that you were juggling by giving the tasks specific time and place on your schedule.</p>
         <p>Additional Resources</p>
-        <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (AC) at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><c>Center for Writing, Learning, and Teaching</c></url>. Peer ACs are Puget Sound seniors who've been tutoring in the CWLT for at least a year and have received additional training to work with students to develop effective time management, organization, and reading strategies.</p>
+        <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (AC) at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><c>Center for Writing, Learning, and Teaching</c></url>. Peer ACs are Puget Sound students who've been tutoring in the CWLT for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
     </subsection>
 </section>
 <section>
@@ -263,7 +406,7 @@
                 <li><p><em>Assignments.</em> You may receive a paper copy of assignments in class, but it's helpful also to download each assignment from Moodle/Canvas and add it to the digital folder corresponding to that class.</p></li>
             </ol></p></li>
         <li>
-            <p><em>Collect contact information</em> from at least one person in each class. Everyone ends up suffering from the Puget Plague at one point or another, but it doesn't have to make you fall behind in classes. Your week will be a lot easier if you can get the notes and new assignments from a classmate the day of, rather than having to wait until you're recovered to set up a time to meet with your professor. This also gives you a go-to person to study with when exams and papers start coming up.</p></li>       
+            <p><em>Collect contact information</em> from at least one person in each class. Everyone ends up suffering from the Puget Plague at one point or another, but it doesn't have to make you fall behind in classes. Your week will be a lot easier if you can get the notes and new assignments from a classmate the day of, rather than having to wait until you're recovered to set up a time to meet with your professor. This also gives you a go-to person to study with when exams and papers start coming up.</p></li>
         <li>
             <p><em>Designate a study space</em> that you will always have available. This may take a week or two to figure out, but it is really helpful to have at least one place that is accessible and where you can always work, free of clutter. This could be your desk in your room, but that desk always has to have space to work. So if you don't think you can maintain that or if you keep a lot on your desk, maybe it's the library or your resource room in Thompson. Just find a place that you can always (or almost always) access, where you are able to get into a productive study <q>zone.</q></p>
             <p><assemblage>
@@ -360,7 +503,7 @@
             </ul></p>
             <p>Then, do the same with your physical documents. If you don't want to hang on to the paper copy, you can scan things for free at Collins Library's scanners. Your filing system doesn't have to be anything overly complicated. Label the files with the same names as on your computer and add any additional categories you need.</p> 
             </p>
-        </paragraphs>    
-    </subsection>    
+        </paragraphs>
+    </subsection>
     </section>
 </chapter>
