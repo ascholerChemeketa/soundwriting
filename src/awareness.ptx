@@ -84,54 +84,62 @@
             </assemblage>
             <p>While the term intersectionality was initially coined to describe the struggles of Black women in the feminist movement, it can be used even more broadly to understand how systems of oppression are interconnected, and how individuals and groups face discrimination based on multiple identities. As you write, consider the ways that intersectionality applies to your topic. For example, if you are writing about salaries in the United States, explore how they intersect with gender (<eg /> men make more money than women, gender non-conforming, and trans people), race (<eg /> white women make more money than women of color), and ability (people with mental and physical illnesses have a harder time acquiring and keeping jobs than their able<ndash />bodied counterparts). At the same time, be careful about highlighting an aspect of someone’s identity if it may not actually be relevant (see the guideline in <xref ref="writewithequity" /> which contains other important notes about people<ndash />first language and writing with specificity). As you write, we encourage you to use the following subsections in conjunction with one another.</p>
         </subsection>
-        <subsection>
+        <subsection xml:id="gender-inclusivity">
             <title>Language Toward Gender Inclusivity</title>
-            <p>Sexism, which we define below, refers to discrimination of individuals based on sex. As the definition notes, sexism has historically described discrimination specifically against women. The perceived social and biological inferiority of women has existed for centuries in the West (and also throughout the globe), and although women in the last century have made advances<mdash/>the right to own property and vote, for example<mdash/>sexism prevails, especially against women of color and trans women. Women still, on average, earn lower wages than men; women are much more likely than men to be raped or stalked; and women are still underrepresented in positions of power and leadership. Importantly, women of color, at the intersection of race and gender, face each of these challenges to a greater extent than White women. Examples of such intersectional injustices are how, on average, White and Asian American women make about 20% less than White men, while Black and Latina women make about 30 and 40% less than White men respectively or how female immigrants of color sometimes have to choose between reporting domestic abuse and facing deportation or detention. Part of writing with awareness and respect means that you as an author are attentive to the context of historical and current discrimination that women face and cognizant of how the choices you make in writing engage with that context.</p>
+            <p>Sexism refers to discrimination against individuals based on sex and has historically described discrimination specifically against women. The perceived social and biological inferiority of women has existed for centuries in the West (and also throughout the globe), and although women in the last century have made advances<mdash/>the right to own property and vote, for example<mdash/>sexism prevails, especially against women of color and trans women. Women still, on average, earn lower wages than men; women are much more likely than men to be raped or stalked; and women are still underrepresented in positions of power and leadership. Importantly, women of color, at the intersection of race and gender, face each of these challenges to a greater extent than White women. Examples of such intersectional injustices are how, on average, White and Asian American women make about 20% less than White men, while Black and Latina women make about 30 and 40% less than White men respectively or how female immigrants of color sometimes have to choose between reporting domestic abuse and facing deportation or detention. (To learn more about intersectionality, visit <xref ref="intersectionality"/>) Part of writing with awareness and respect means that you as an author are attentive to the context of historical and current discrimination that women face and cognizant of how the choices you make in writing engage with that context.</p>
             <p>Writing with attention to gender inclusivity, however, can be onerous because sexism is ingrained in English. As we wrote at the beginning of this chapter, language can embody prejudice, discrimination, and hierarchies. We have historically used the pronoun <q>he</q> as the standard, universal pronoun. In English, we have only <q>Mr.</q> for men (a title that is the same, regardless of men's marital status), but <q>Miss</q> and <q>Mrs.</q> for women (titles that mark not only gender but also marital status as an essential component of a woman's identity). We also have policemen, firemen, fishermen,and many other job titles that are used generically for all employees in the profession, even though women also work in those professions; many of those titles have female equivalents (policewoman, firewoman, fisherwoman), but those titles are never used generically to refer to all people in the profession<mdash/>and gender is not necessarily important to the work involved in those job titles.</p>
-            <p>But language changes! <q>He</q> is no longer generally accepted as a universal pronoun, and alternatives like singular <q>they</q> have grown in popularity and acceptance. <q>Ms.</q> was created as a parallel title to <q>Mr.,</q> as titles that do not mark marital status. Professional titles such as <q>flight attendant,</q> instead of <q>stewardess,</q> offer gender-neutral job titles that emphasize the work the person does, rather than the gender of the person doing the work. These changes come not from grammarians; they come from people like you who saw injustice and acted against it. Keep reading to learn more about what you can do to continue to combat sexism in your speaking and writing.</p>
+            <p>But language changes! <q>He</q> is no longer generally accepted as a universal pronoun, and alternatives like singular <q>they</q> have grown in popularity and acceptance (to read more about they as a singular pronoun, check out <xref ref="singular-they"/>). <q>Ms.</q> was created as a parallel title to <q>Mr.,</q> as titles that do not mark marital status. Professional titles such as <q>flight attendant,</q> instead of <q>stewardess,</q> offer gender-neutral job titles that emphasize the work the person does, rather than the gender of the person doing the work. These changes come not from grammarians; they come from people like you who saw injustice and acted against it. Keep reading to learn more about what you can do to continue to combat sexism in your speaking and writing.</p>
             <paragraphs xml:id="helpful-terms-for-gender-inclusivity">
-                <title>Helpful terms to know</title></paragraphs>
-                <p>Here are some other guidelines to keep in mind while writing.</p>
-                <paragraphs>
-                    <title>Sexism</title>
-                        <p>is discrimination against individuals, historically women, based on sex.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Misogyny</title>
-                        <p>refers to institutionalized or deeply held hate or prejudice toward women.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Androcentrism</title>
-                        <p>describes when masculinity is central to a particular entity or outlook.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Heteronormativity</title>
-                        <p>refers to the belief system that normalizes and prefers a patriarchal, heterosexual, and gender binary way of living.</p>
-                </paragraphs>
-            <sidebyside>
-                <dl>
-                    <li>
-                        <title>Mix up the order</title>
-                        <p>If you refer frequently to men and women, husbands and wives, sons and daughters, ladies and gentlemen, boys and girls, etc., mix up the order to avoid putting one gender continually ahead of the other. In fact, unless gender is a central facet of your discussion, it's better to avoid perpetuating gender binaries by using alternatives such as <q>distinguished guests,</q> <q>people,</q> <q>human beings,</q> <q>children,</q> <q>adults,</q> <q>individuals,</q> and <q>couples.</q></p>
-                    </li>
-                    <li>
-                        <title>Refer to women in the same way you would men</title>
-                        <p>If you wouldn't say <q>Mr. Faulkner</q> when writing about Faulkner, then don't say <q>Ms. Austen</q> when writing about Jane Austen. Similarly, if a woman holds a title like <q>Dr.,</q> then refer to her as Dr. in the same way you would refer to a male M.D. or Ph.D.</p>
-                    </li>
-                    <li>
-                        <title>Avoid sexist descriptions and terminology</title>
-                        <p>Numerous English words are rooted in sexist ideas about how women should act and live. Terms like <q>barren,</q> <q>spinster,</q> <q>feisty,</q> <q>coy,</q> <q>shrill,</q> <q>emotional,</q> <q>hysterical,</q> <q>frumpy,</q> <q>exotic,</q> <q>ditzy,</q> and <q>catty</q> can all convey implicit judgments about women. Note: the word <q>exotic</q> in particular is an intersectionally oppressive word that has been historically applied to women of color. The word acts to reify Whiteness as the norm while in turn hypersexualizing women of color, and thus making them the targets of sexual violence.</p>
-                    </li>
-                    <li>
-                        <title>Be conscious of gender stereotypes</title>
-                        <p>Pay attention to where you're using certain pronouns. Saying, <q>The lawyer won his trial</q> and <q>The nurse couldn't find her scrubs</q> are also forms of sexist language because they perpetuate gender stereotypes (i.e., the assumption that lawyers are always men and nurses are always women).</p>
-                    </li>
-                    <li>
-                        <title>Be conscious of heteronormativity</title>
-                        <p>Women don't always marry men. Women don't always marry. To this effect, statements such as <q>He needs a girlfriend</q> or <q>She should get married</q> perpetuate heteronormative expectations.</p>
-                    </li>
-                </dl>
-            </sidebyside>
+                <title>Terms</title>
+                <list>
+                    <dl>
+                        <li>
+                            <title> Sexism</title>
+                            <p>is discrimination against individuals, historically women, based on sex.</p>
+                        </li>
+                        <li>
+                            <title>Misogyny</title>
+                            <p>refers to institutionalized or deeply held hate or prejudice toward women.</p>
+                        </li>
+                        <li>
+                            <title>Androcentrism</title>
+                            <p>describes when masculinity is central to a particular entity or outlook.</p>
+                        </li>
+                        <li>
+                            <title>Heteronormativity</title>
+                            <p>refers to the belief system that normalizes and prefers a patriarchal, heterosexual, and gender binary way of living.</p>
+                        </li>
+
+                    </dl>
+                </list>
+            </paragraphs>
+            <paragraphs>
+                <title>Guidelines to keep in mind while writing</title>
+                <list>
+                    <dl>
+                        <li>
+                            <title>Mix up the order</title>
+                            <p>If you refer frequently to men and women, husbands and wives, sons and daughters, ladies and gentlemen, boys and girls, etc., mix up the order to avoid putting one gender continually ahead of the other. In fact, unless gender is a central facet of your discussion, it's better to avoid perpetuating gender binaries by using alternatives such as <q>distinguished guests,</q> <q>people,</q> <q>human beings,</q> <q>children,</q> <q>adults,</q> <q>individuals,</q> and <q>couples.</q></p>
+                        </li>
+                        <li>
+                            <title>Refer to women in the same way you would men</title>
+                            <p>If you wouldn't say <q>Mr. Faulkner</q> when writing about Faulkner, then don't say <q>Ms. Austen</q> when writing about Jane Austen. Similarly, if a woman holds a title like <q>Dr.,</q> then refer to her as Dr. in the same way you would refer to a male M.D. or Ph.D.</p>
+                        </li>
+                        <li>
+                            <title>Avoid sexist descriptions and terminology</title>
+                            <p>Numerous English words are rooted in sexist ideas about how women should act and live. Terms like <q>barren,</q> <q>spinster,</q> <q>feisty,</q> <q>coy,</q> <q>shrill,</q> <q>emotional,</q> <q>hysterical,</q> <q>frumpy,</q> <q>exotic,</q> <q>ditzy,</q> and <q>catty</q> can all convey implicit judgments about women. Note: the word <q>exotic</q> in particular is an intersectionally oppressive word that has been historically applied to women of color. The word acts to reify Whiteness as the norm while in turn hypersexualizing women of color, and thus making them the targets of sexual violence.</p>
+                        </li>
+                        <li>
+                            <title>Be conscious of gender stereotypes</title>
+                            <p>Pay attention to where you're using certain pronouns. Saying, <q>The lawyer won his trial</q> and <q>The nurse couldn't find her scrubs</q> are also forms of sexist language because they perpetuate gender stereotypes (i.e., the assumption that lawyers are always men and nurses are always women).</p>
+                        </li>
+                        <li>
+                            <title>Be conscious of heteronormativity</title>
+                            <p>Women don't always marry men. Women don't always marry. To this effect, statements such as <q>He needs a girlfriend</q> or <q>She should get married</q> perpetuate heteronormative expectations.</p>
+                        </li>
+                    </dl>
+                </list>
+            </paragraphs>
             <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
         </subsection>
         <subsection>
@@ -149,7 +157,7 @@
                 </blockquote>
             </assemblage>
             <p>Mental health and mental illness are frequently mistaken as synonyms; however, mental health refers to a person’s mental well<ndash />being<mdash />including their emotions, thoughts, feelings, and the ability to overcome challenging situations<mdash />while mental illnesses are disorders affecting the way one thinks, feels, behaves, or interacts with the world. Just as it is possible to have poor physical health (<eg /> a broken arm) without having a physical illness, so too do many people experience poor mental health without having a mental illness. People may fall anywhere on the mental health and mental illness spectrums: for example, someone with a chronic mental illness such as OCD may have good mental health. Sometimes mental health concerns that go untreated can develop into mental illnesses, such as anxiety or depression. Additionally, where each of us falls on the health and illness spectrums is always changing, and we will all experience poor health at some point in our life.</p> 
-            <p>In fact, one way of thinking about disability, is that any time we spend able<ndash />bodied is really time spent <q>temporarily able<ndash />bodied</q> since we will all experience disability in our lifetimes. Despite the widespread incidence of disability, disabilities are stigmatized in many cultures, and people with disabilities are discriminated against in both overt ways (such as the eugenics movement) and covert ways (such as buildings that lack wheelchair access and/or Braille translations). A member of the University of Puget Sound NAMI club described how mental illnesses are also sometimes regarded as less legitimate than physical illnesses because they are less visible, giving the example that people are more likely to consider it a sign of weakness to take medication for a mental illness than for a physical illness; just as you would not tell someone with diabetes that they should learn to stop depending on their insulin medication, so, too, would you not consider that someone with a mental illness should eventually grow out of taking their medication.</p>
+            <p>In fact, one way of thinking about disability is that any time we spend able<ndash />bodied is really time spent <q>temporarily able<ndash />bodied</q> since we will all experience disability in our lifetimes. Despite the widespread incidence of disability, disabilities are stigmatized in many cultures, and people with disabilities are discriminated against in both overt ways (such as the eugenics movement) and covert ways (such as buildings that lack wheelchair access and/or Braille translations). A member of the University of Puget Sound NAMI club described how mental illnesses are also sometimes regarded as less legitimate than physical illnesses because they are less visible, giving the example that people are more likely to consider it a sign of weakness to take medication for a mental illness than for a physical illness; just as you would not tell someone with diabetes that they should learn to stop depending on their insulin medication, so, too, would you not consider that someone with a mental illness should eventually grow out of taking their medication.</p>
             <assemblage>
                 <title>Intersections of Mental illness and health</title>
                 <blockquote><p><q>Constantly considering the ways in which mental health and mental illness intersect with a lot of other identities is really important. They don’t exist in isolation from other people's identities, They really intersect with your sexual orientation, your gender identity, your race, your socioeconomic background<ellipsis /><em>you can't really write about mental health and mental illness in isolation of all of those factors that are brought into it.</em></q> <ndash />Member of NAMI, University of Puget Sound, May 2018</p>
@@ -161,8 +169,9 @@
                 </blockquote>
             </assemblage>
             <p>As you write about mental and physical illnesses, be conscious of how they intersect with other aspects of identity. For example, as a member of the University of Puget Sound NAMI club points out, a woman with a mental illness is more likely to be written about as weak and emotional, while men with mental illness tend to be portrayed as violent and angry. These depictions perpetuate false stereotypes of both mental illness and gender. Additionally, the way physical and mental illnesses are conceptualized, diagnosed, and treated varies between different cultures, and factors such as immigration, racial discrimination, and expensive healthcare and medication make access to treatment inaccessible for many people. When writing about illnesses, health, and disability, avoid making broad generalizations, since people’s bodily experiences are dependent on a plethora of other aspects of their identities. Additionally, because of this diversity, the experience of a mental illness for one person is often not the same as for another, and a treatment that works for one person will not necessarily work for another. For more on the importance of writing with specificity, see <xref ref="intersectionality"/> on intersectionality.</p>
-            <p>While it is impossible to foresee and prevent every knowledge gap, using people-first language is a way to combat ableism by acknowledging the common humanity of all individuals rather than referring to certain individuals only by their disability or handicap. What follows is a list of words to avoid as well as words that we hope you use to write and think more inclusively. Please consider these terms as an introduction into an ongoing conversation rather than a comprehensive guide, and continue to foster your awareness by continuing to learn and ask questions!</p>
-            <paragraphs><title>Terms</title></paragraphs>
+            <p>While it is impossible to foresee and prevent every knowledge gap, using people-first language can be a way to combat ableism by acknowledging the common humanity of all individuals rather than referring to certain individuals only by their disability or handicap. To learn more about whether to use people-first language, visit the guidelines in <xref ref="writewithequity"/>. The use of ableist words and phrases remains common in both written and spoken communication. Check out the example below for a list of words to avoid as well as words that you can choose to use instead to write and think more equitably. Please consider these terms as an introduction to an ongoing conversation rather than a comprehensive guide, and continue to foster your awareness by continuing to learn and ask questions!</p>
+            <example xml:id="ableist-phrases">
+                <title>Frequently used ableist phrases and alternatives</title>
                 <paragraphs>
                     <title>Ableist</title>
                         <p>crazy, confined to a wheelchair, defective, dumb, feebleminded, handicapped, idiotic, insane, invalid, lame, lunatic, manic, mental, moron, retard, psycho, psychotic, schizo, short-bus, spaz, simpleton, stupid, special/special needs, unbalanced, unstable</p>
@@ -171,56 +180,51 @@
                     <title>Alternative</title>
                         <p>neuroatypical/neurovariant/neurodivergent, with a/an (physical, mobility, intellectual, cognitive) disability, blind/low-vision, deaf/hard of hearing, uses a wheelchair/cane/walker/crutches, with a chronic health condition</p>
                 </paragraphs>
-                 <list>
-                <caption>Guidelines</caption>
-                <dl>
-                    <li>
-                        <title>Do not write of individuals only in terms of their disabilities.</title>
-                        <p>Just as with women and people from marginalized backgrounds, only refer to disabilities if they are relevant to what you're writing. For example, referencing a wheelchair in a sentence like <q>A man in a wheelchair let me borrow his pen</q> is unnecessary and ableist. However, relevantly referencing disabilities can be important: <q>My friend, who uses a wheelchair, was late to class because of limited accessibility on campus.</q></p>
-                    </li>
-                    <li>
-                        <title>Use the <q>people-first</q> approach.</title>
-                        <p>When writing about people with disabilities, always put the person first. For example, say <q>a person with disabilities</q> rather than <q>a disabled person.</q></p>
-                    </li>
-                    <li>
-                        <title>Disabilities are adjectives, not nouns!</title>
-                        <p>Just as you wouldn't refer to transgender people as <q>transgenders,</q> so, too, would you not refer to people with disabilities as <q>the disabled.</q></p>
-                    </li>
-                    <li>
-                        <title>A disability is a condition, whereas a handicap is a constraint.</title>
-                        <p/>
-                    </li>
-                    <li>
-                        <title>Some disabilities are connected to cultural identities.</title>
-                        <p>For instance, one can be deaf (that is, have the physical condition of not being able to hear), and one can be part of the Deaf community (people who communicate in sign and who identify culturally as Deaf<mdash/>including deaf people but also people who are close to deaf people, such as hearing children of deaf parents). Being deaf doesn't necessarily mean being Deaf, and vice versa.</p>
-                    </li>
-                    <li>
-                        <title>Do not use terms like <q>normal</q> or <q>healthy</q> when referring to people without disabilities.</title>
-                        <p>Some people also object to the phrase <q>able-bodied.</q> Instead, use the term <q>people without disabilities.</q></p>
-                    </li>
-                    <li>
-                        <title>Don't write about people with disabilities (or other marginalized people) in terms of overly heroic or tragic narratives.</title>
-                        <p/>
-                    </li>
-                    <li>
-                        <title>Use the same guidelines for individuals with psychiatric disabilities.</title>
-                        <p><q>They are a person with schizophrenia</q> or <q>They have a diagnosis of schizophrenia.</q></p>
-                    </li>
-                </dl>
-            </list>
+            </example>
+                <paragraphs>
+                    <title>Guidelines for writing with neurological and physical inclusivity in mind</title>
+                    <list>
+                        <dl>
+                            <li>
+                                <title>Reductionism</title>
+                                <p>Only refer to disabilities if they are relevant to what you're writing. For example, referencing a wheelchair in a sentence like <q>A man in a wheelchair let me borrow his pen</q> is unnecessary and ableist. However, relevantly referencing disabilities can be important: <q>My friend, who uses a wheelchair, was late to class because of limited accessibility on campus.</q> (This rule is true for other minoritized identities as well.)</p>
+                            </li>
+                            <li>
+                                <title><q>People<ndash/>First</q></title>
+                                <p>When writing about people with disabilities, it can be useful to put the person first. For example, by saying <q>a person with disabilities</q> rather than <q>a disabled person,</q> and <q>they are a person with schizophrenia</q> or <q>they have a diagnosis of schizophrenia</q> not <q>they are a schizophrenic.</q> While this is a good rule<ndash/>of<ndash/>thumb, it is not always appropriate. Visit section <xref ref="writewithequity"/> to learn about the importance of listening to people's preferences to make this decision.</p>
+                            </li>
+                            <li>
+                                <title>Adjectives</title>
+                                <p>Use <q>disabled</q> as an adjective, not as a noun. Just as you wouldn't refer to transgender people as <q>transgenders,</q> so, too, would you not refer to people with disabilities as <q>the disabled.</q></p>
+                            </li>
+                            <li>
+                                <title>Condition vs. Constraint</title>
+                                <p>Know that a disability is a condition, whereas a handicap is a constraint. Someone can have a disability, such as congenital blindness, but someone cannot <q>have</q> a handicap<mdash/>rather, their environment (lack of braile on signs, for example) handicaps them.</p>
+                            </li>
+                            <li>
+                                <title>Cultural Identities</title>
+                                <p>Recognize that cultural identity can be connected with disability, but that they are not the same thing. For instance, one can be deaf (that is, have the physical condition of not being able to hear), and one can be part of the Deaf community (people who communicate in sign and who identify culturally as Deaf<mdash/>including deaf people but also people who are close to deaf people, such as hearing children of deaf parents). Being deaf doesn't necessarily mean being Deaf, and vice versa.</p>
+                            </li>
+                            <li>
+                                <title>Normality</title>
+                                <p>Do not use terms like <q>normal</q> or <q>healthy</q> when referring to people without disabilities. Some people also object to the phrase <q>able-bodied.</q> Instead, use the term <q>people without disabilities.</q></p>
+                            </li>
+                            <li>
+                                <title>Narrative Impact</title>
+                                <p>Do not write about people with disabilities (or other marginalized people) in terms of overly heroic or tragic narratives, as this reinforces existing stereotypes and emphasizes the <q>otherness</q> of someone with a disability.</p>
+                            </li>
+                            <li>
+                                <title>Visibility</title>
+                                <p>Use this same set of guidelines regardless of whether the disability in question is visible or invisible.</p>
+                            </li>
+                        </dl>
+                    </list>
+                </paragraphs>
             <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Courses on Disability Studies are occasionally offered, and the webpage of the office of <url href="https://www.pugetsound.edu/academics/academic-resources/accessibility-accommodation">Student Accessibility and Accommodation</url> offers educational resources.</p>
         </subsection>
         <subsection>
             <title>Language Toward Racial and Ethnic Inclusivity</title>
             <p>Writing about race and ethnicity is complex because both are linked to past and present histories of horrific oppression and intergroup conflict with correspondingly deep individual and group trauma. Both ethnicity and race can make people targets of stereotyping, prejudice, and violence, while they can also provide a sense of belonging or pride for people. Like most other identities, the categories of race and ethnicity have differed between places and across time. For example, in the United States, court cases such as <em>Dow v. United States (1915)</em> which determined that Syrian people were not <q>white,</q> have been part of sculpting the racial categories we are familiar with today. Racial and ethnic categories continue to drastically impact all of our lives, and so, while complicated, it's important to be aware of the histories behind the words we use and ways we write about race and ethnicity in order to not perpetuate racist ideologies.</p>
-            <paragraphs>
-                <title>Race</title>
-                <p>A socially constructed system of categories and affiliations based primarily on physical characteristics such as variations in hair, eyes, or skin color. Across most parts of the modern world, the construction of race is linked to inequalities in power and histories of oppression including discrimination and slavery.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Ethnicity</title>
-                <p>Generally refers to identities or affiliations based on cultural factors such as nationality, regional heritage, religion, and/or language.</p>
-            </paragraphs>
             <p>Racial prejudice and racism, though related, are distinctly different; while racial prejudice is discrimination against someone because of their race, racism takes into account histories of racial inequality, and describes a system that benefits people in a dominant racial group (whether or not they want to benefit) through the oppression of other racial groups. It should be noted that because racism is dependent on past and present systemic racial inequality, <q>reverse racism</q> does not exist. Racism has manifested in many different ways, while some forms are overt, such as <q>Whites Only</q> signs during the Jim Crow era, other racist histories are embedded in language in less familiar ways. For example, the term <q>Caucasian</q> as a synonym for White has its origins in pseudo<ndash />scientific theories about the racial divisions. Although white<ndash />skinned people might feel uncomfortable with a racial descriptor such as White, using that term is one way to use equivalent terms; there is ethnocentric bias in assuming whiteness as a standard and using terms like Black, Asian, and Latino to designate people as different from that standard. Racism can also appear under the guise of being approving. For example, calling women of color <q>exotic</q> is both dehumanizing and contributes to the hypersexualization of women of color in the U.S. (among other places) and the high rates of sexual violence against them.</p>
             <assemblage>
                 <title>Orientalism in language</title>
@@ -255,15 +259,27 @@
                     </attribution>
                 </blockquote>
             </assemblage>
-            <p>
-                Here are some additional trends to be aware of as you attempt to write toward anti-racism.
-                <ul>
-                    <li>There remains no consensus about  the proper capitalization of <q>Black,</q> especially in relation to <q>White.</q> You can ask your professors for their preferences and, as always, research the implications of each usage. It is always best to be intentional, consistent, and open-minded.</li>
-                    <li>The distinction between Native American and American Indian is also contested. American Indian includes indigenous peoples from the continental U.S., while Native American encompasses indigenous peoples from Alaska and Hawaii. As always, if a preference is expressed, respect it. If not, do some research and select a term advisedly.</li>
-                    <li>Latino/a (in other stylizations, Latin@, Latinx, which have slightly different meanings) refers to any person of Latin American descent living in America. Mexican-Americans may also identify as Chicano/a (or Xicano/a). The terms Chicano/a come from the 1960's Mexican American Civil Rights Movement and represent a more political stance on identity than Latnix (as they are example of words that were reappropriated by the people who they originally referred to in a derogatory way). Hispanic describes any person of Spanish-speaking heritage and may be offensive to people who identify as Latinx or Chicano/a because the word reinforces the history of Spanish colonialism. The meanings of these terms are debated and, as a result, not fixed.</li>
-                    <li>Consider carefully the term <q>minority.</q> Often, <q>minoritized</q> or <q>marginalized</q> is a more accurate descriptor because<mdash />in many cases<mdash />the so<ndash />called minority is not, in fact, quantitatively in the minority, even though the people being described may be marginalized or treated as inferior.</li> 
-                </ul>
-            </p>
+
+            <paragraphs>
+                <title> Guidelines for writing with racial and ethnic inclusivity in mind</title>
+            </paragraphs>
+            <paragraphs>
+                <title>Know that there remains no consensus about  the proper capitalization of <q>Black,</q> especially in relation to <q>White</q></title>
+                <p>You can ask your professors for their preferences and, as always, research the implications of each usage. It is always best to be intentional, consistent, and open-minded.</p>
+            </paragraphs>
+            <paragraphs>
+                <title>Know that the distinction between Native American and American Indian is also contested</title>
+                <p>American Indian includes indigenous peoples from the continental U.S., while Native American encompasses indigenous peoples from Alaska and Hawaii. As always, if a preference is expressed, respect it. If not, do some research and select a term advisedly.</p>
+            </paragraphs>
+            <paragraphs>
+                <title>Beware of oversimplifying Latino/a identity</title>
+                <p>Latino/a (in other stylizations, Latin@, Latinx, which have slightly different meanings) refers to any person of Latin American descent living in America. Mexican-Americans may also identify as Chicano/a (or Xicano/a). The terms Chicano/a come from the 1960's Mexican American Civil Rights Movement and represent a more political stance on identity than Latnix (as they are example of words that were reappropriated by the people who they originally referred to in a derogatory way). Hispanic describes any person of Spanish-speaking heritage and may be offensive to people who identify as Latinx or Chicano/a because the word reinforces the history of Spanish colonialism. The meanings of these terms are debated and, as a result, not fixed.</p>
+            </paragraphs>
+            <paragraphs>
+                <title>Consider carefully the term <q>minority</q></title>
+                <p>Often, <q>minoritized</q> or <q>marginalized</q> is a more accurate descriptor because<mdash/>in many cases<mdash/>the so<ndash/>called minority is not, in fact, quantitatively in the minority, even though the people being described may be marginalized or treated as inferior.</p>
+            </paragraphs>
+
             <assemblage>
                 <title>Write with the terms people choose for themselves</title>
                 <blockquote><p>If you’re writing about a specific person or group of people, <em>try to figure out what they call themselves.</em> While some people identify as Latino, others identify as Afro<ndash />latino, Latinx, Chicano, Hispanic, Guatemalan, Mexican, Mexican American<ellipsis />the list goes on. Additionally, many indigenous people of South America do not identify with the term Latino even though from a U.S. lens we may consider them so.</p>
@@ -273,14 +289,31 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>         
+            </assemblage>
+
+
+            <paragraphs><title>Terms</title>
+                <list>
+                    <dl>
+                        <li>
+                            <title>Race</title>
+                            <p>is a socially constructed system of categories and affiliations based primarily on physical characteristics such as variations in hair, eyes, or skin color. Across most parts of the modern world, the construction of race is linked to inequalities in power and histories of oppression including discrimination and slavery.</p>
+                        </li>
+                        <li>
+                            <title>Ethnicity</title>
+                            <p>generally refers to identities or affiliations based on cultural factors such as nationality, regional heritage, religion, and/or language.</p>
+                        </li>
+                    </dl>
+                </list>
+            </paragraphs>
+
             <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/african-american-studies">African American Studies</url> (<acro>AFAM</acro>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/asian-studies">Asian Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/hispanic-studies">Hispanic Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latin-american-studies">Latin American Studies</url> (<acro>LAS</acro>), and <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latino-studies">Latino/a Studies</url> would be a good way to continue learning, as would getting involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
         </subsection>
-        <subsection>
+        <subsection xml:id="lgbtq-inclusivity">
             <title>Language Toward <init>LGBTQ+</init> Inclusivity</title>
-            <p><init>LGBTQ+</init> spans a wide and complicated range of sexual orientations, gender identities, and diverse bodies. The acronym itself stands for Lesbian, Gay, Bisexual, Trans, Queer/Questioning and others. Even this list does not cover the full range of identities represented by the acronym<mdash/> indeed, some advocate for an extended <init>LGBTQQIAP2S</init>, which stands for Lesbian, Gay, Bisexual, Trans, Queer, Questioning, Intersex, Asexual, Pansexual, and Two-Spirit. Other terms for the community of people who do not identify within the dominant forms of sexuality and gender (heterosexuality or cisgenderism) include <init>GSM</init> (Gender and Sexuality Minorities) or <init>GSD</init> (Gender and Sexuality Diverse). These last two terms, in particular, indicate that members of this community do not all identify as one particular identity at all times; many individuals within the community choose not to identify or to identify as fluid. The amorphous nature of the name portends the difficulty writers may have when referring to individuals within the community: the language of the <init>LGBTQ+</init> community is ever-evolving, so it may not always be clear to you which term to use. To be as respectful and inclusive as possible, use people-first language (say <q>a person who is Queer</q> rather than <q>a Queer person</q>), and keep learning and asking questions. What follows is a list of basic terms and definitions that describe diverse genders and sexualities.</p>
+            <p><init>LGBTQ+</init> spans a wide and complicated range of sexual orientations, gender identities, and diverse bodies. The acronym itself stands for Lesbian, Gay, Bisexual, Trans, Queer/Questioning and others. Even this list does not cover the full range of identities represented by the acronym<mdash/> indeed, some advocate for an extended <init>LGBTQQIAP2S</init>, which stands for Lesbian, Gay, Bisexual, Trans, Queer, Questioning, Intersex, Asexual, Pansexual, and Two-Spirit. Other terms for the community of people who do not identify within the dominant forms of sexuality and gender (heterosexuality or cisgenderism) include <init>GSM</init> (Gender and Sexuality Minorities) or <init>GSD</init> (Gender and Sexuality Diverse). These last two terms, in particular, indicate that members of this community do not all identify as one particular identity at all times; many individuals within the community choose not to identify or to identify as fluid. The amorphous nature of the name portends the difficulty writers may have when referring to individuals within the community: the language of the <init>LGBTQ+</init> community is ever-evolving, so it may not always be clear to you which term to use. To be as respectful and inclusive as possible, you may want to use people-first language (for example, saying <q>a person who is Queer</q> rather than <q>a Queer person</q>). To learn more about deciding when to use people<ndash/>first language, visit <xref ref="writewithequity"/>. What follows is a list of basic terms and definitions that describe diverse genders and sexualities.</p>
             <list>
-                <paragraphs><title>Terms and definitions</title>
+                <paragraphs><title>Terms</title>
                 <dl>
                     <li>
                         <title>Sex</title>
@@ -331,24 +364,13 @@
                         <title>Transition</title>
                         <p>refers to the period of time in someone's life during which they make an inward and outward transition to the gender with which they identify. This period and what occurs within it differ from person to person. <alert>DO NOT</alert> use the term <q>sex change,</q> as it obscures the difference between sex and gender and does not represent all transition experiences.</p>
                     </li>
+                    <li>
+                        <title>Pronouns</title>
+                        <p>refer to a person's name when it is unweildy to keep repeating a name, but since pronouns are gendered in English, a person's chosen pronouns can communicate information about their gender identity. See <xref ref="pronoun-identity"/> for a more extensive discussion of pronouns and identity.</p>
+                    </li>
                 </dl>
                 </paragraphs>
             </list>
-        </subsection>
-        <subsection>
-            <title>Pronouns</title>
-            <p>A pronoun (see <xref ref="pronouns"/>) is a word (including I, you, me, he, she, and they) that refers to a noun, when it's unwieldy to keep referring to that noun by name. When pronouns refer to and represent people, pronouns are usually connected to gender identity, which is the internal, personal perception that one has about one's own gender. A person may identify on either end of the gender binary (man/woman or boy/girl), or in between or outside of it. Using appropriate pronouns is as important as referring to a person by the correct name.</p>
-            <paragraphs xml:id="singular-they">
-                <title>They As a Singular Pronoun</title>
-                <p>Using appropriate pronouns, though, is complicated because gender-neutral singular pronouns are being debated actively at the moment, and, as we discuss above, many people are now arguing that gender is not even relevant in many of the circumstances in which we once emphasized it (for instance, how often is it really important to know whether the person in a sales position is a <q>saleswoman</q> or a <q>salesman</q>?). Debate over gender and pronouns is not new; people have been proposing gender-neutral pronouns <url href="http://www.english.illinois.edu/-people-/faculty/debaron/essays/epicene.htm">since at least the mid-nineteenth century</url>. However, the need for adequate pronouns in English has become more pressing as trans people have become more visible and as the idea of gender identity has been discussed more openly.</p>
-            </paragraphs>
-            <p>People who identify as female typically use she/her pronouns, and those who identify as male usually use he/him pronouns. Individuals whose gender identity does not fit the binary sometimes use they/them pronouns, and<mdash/>more generally<mdash/><q>they</q> is becoming increasingly accepted as a gender-neutral, third-person singular pronoun.</p>
-            <assemblage>
-                <title>Our stance</title>
-                    <p>In this book, we use <q>they</q> as a gender-neutral pronoun in circumstances when the gender of a person is unknown (for example, <q>Please ask each of the students what they would like for dessert</q>) or when that person identifies as neither male nor female (for example, <q>Do you know my friend Ari? They are a math major</q>).</p>
-            </assemblage>
-            <p>Pronouns are important representations of people's gender identity. If you don't know what pronouns someone uses, simply ask them, <q>What pronouns do you use?</q> If you accidentally use the wrong pronoun, apologize, correct yourself, and remember for next time.</p>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
         </subsection>
         <subsection>
             <title>Language Toward Socioeconomic Inclusivity</title>
@@ -446,11 +468,13 @@
     </section>
     <section>
         <title>Writing and Correctness</title>
+        <introduction>
         <p>At the beginning of this chapter, we note that language use is part of the work of equity and inclusion. One way we advance equity is by supporting linguistic diversity on our campus. Linguistic diversity refers to the many varieties of English that people use to communicate and  which are intimately connected to writers' and speakers' identities. Members of the Puget Sound community come from multiple geographic locations and cultures that use a variety of linguistic structures to communicate ideas. These structures may overlap in some ways and diverge in others. These structures also overlap and diverge from specific varieties of English that are used in academic settings. By supporting linguistic diversity, we acknowledge the expansive nature of language, we avoid reproducing inequities inherent in a linguistic monoculture, and we encourage the inclusion of minoritized voices in academic discourse on our campus.</p>
-        <paragraphs xml:id="SAE">
+        </introduction>
+        <subsection xml:id="SAE">
         <title>Standard American English</title>
-        <p>Standard American English (SAE) (also called Academic English, or AE; Mainstream American English, or MAE; and Standard Edited American English, or SEAE) is a variety of English that is held in high esteem. SAE exists primarily as a written form of English and is the form of English that is usually used on campus in our written papers, speeches, lectures, and presentations. Of course, the notion that SAE is <q>standard</q> is contested: On the one hand, because language changes constantly, there is no one moment in time when all users of SAE can agree completely on what the standard is; on the other, SAE is not truly <q>American</q> in that it is not the language of all Americans and has often been used to normalize white, middle- and upper-class language systems and to denigrate language systems that differ from them (and that hence, become <q>non-standard</q> and <q>improper</q>). And even within the basic category of SAE, there are more specific conventions regarding language that distinguish a science class, for example, from a class in humanities.</p></paragraphs>
-        <p>If we support linguistic diversity, we accept that language is not static, that we will encounter words and expressions that come from a variety of disciplines and cultural communities. Merriam Webster defines <url href="https://www.merriam-webster.com/dictionary/language">language</url> as the methods of combining words as understood by a community. By contrast, a <url href="https://www.merriam-webster.com/dictionary/dialect">dialect</url> is defined as a regional variety of a language. While scholars acknowledge distinctions between a language and dialect, the line between the two is not always clear or without problems. One flippant way of explaining the difference between a dialect and a language is that <q>a language is a dialect with an army and a navy</q>; in his essay <q>What's a Language, Anyway?</q>linguist John McWhorter elaborates, <url href="https://www.theatlantic.com/international/archive/2016/01/difference-between-language-dialect/424704/">arguing</url> that there is no objective difference between a language and dialect, that the realities of speech are more complicated than these definitions allow.</p>
+        <p>Standard American English (SAE) (also called Academic English, or AE; Mainstream American English, or MAE; and Standard Edited American English, or SEAE) is a variety of English that is held in high esteem. SAE exists primarily as a written form of English and is the form of English that is usually used on campus in our written papers, speeches, lectures, and presentations. Of course, the notion that SAE is <q>standard</q> is contested: On the one hand, because language changes constantly, there is no one moment in time when all users of SAE can agree completely on what the standard is; on the other, SAE is not truly <q>American</q> in that it is not the language of all Americans and has often been used to normalize white, middle- and upper-class language systems and to denigrate language systems that differ from them (and that hence, become <q>non-standard</q> and <q>improper</q>). And even within the basic category of SAE, there are more specific conventions regarding language that distinguish a science class, for example, from a class in humanities.</p>
+        <p>If we support linguistic diversity, we accept that language is not static, that we will encounter words and expressions that come from a variety of disciplines and cultural communities. Merriam Webster defines <url href="https://www.merriam-webster.com/dictionary/language">language</url> as the methods of combining words as understood by a community. By contrast, a <url href="https://www.merriam-webster.com/dictionary/dialect">dialect</url> is defined as a regional variety of a language. While scholars acknowledge distinctions between a language and dialect, the line between the two is not always clear or without problems. One flippant way of explaining the difference between a dialect and a language is that <q>a language is a dialect with an army and a navy</q>; in his essay <q>What's a Language, Anyway?</q> linguist John McWhorter elaborates, <url href="https://www.theatlantic.com/international/archive/2016/01/difference-between-language-dialect/424704/">arguing</url> that there is no objective difference between a language and dialect, that the realities of speech are more complicated than these definitions allow.</p>
         <p>We can better understand the status of SAE and the role of linguistic diversity in advancing equity and inclusion by considering the history of African American English (AAE), a variety of English spoken by some African Americans. AAE has been researched and written about extensively, more than other varieties of English, and two respected scholars of AAE are John Rickford of Stanford University and Geneva Smitherman of Michigan State University. Like most spoken languages, AAE is rule<ndash />governed and systematic, although the system is too complicated and vast to summarize here. Today, AAE is accepted as a variety of English, but it was rejected as a language in the past and it has been and continues to be maligned using racist ideas about black speech and intelligence. Two highly politicized cases about the use of AAE in public schools are <url href="https://law.justia.com/cases/federal/district-courts/FSupp/473/1371/2148458/"><em>Martin Luther King Jr. Elementary School Children v. Ann Arbor School District Board</em></url> from 1979 and <url href="https://www.nytimes.com/1996/12/21/us/black-english-plan-baffles-some-students-in-oakland.html"><em>Oakland Unified School District's 1996 resolution</em></url> to use AAE. In both cases, the use of AAE by educators as a way to affirm the validity of AAE and to help students learn SAE was considered controversial. It is helpful to know this history when considering AAE in academic contexts.</p>
         <p>In addition to SAE, other rule<ndash />governed varieties of American English include Chicano English (also called Mexican American English), Cajun English, Hawaiian Pidgin (also called Hawaiian Pidgin English and Hawaiian Creole English), and Southern White American English. These varieties of English not only have some different vocabulary than SAE but also<mdash />and more importantly<mdash />have some different grammatical rules than SAE. American Sign Language (ASL), too, has a different grammatical structure than written SAE.</p>
         <assemblage>
@@ -476,5 +500,21 @@
             </ul>
         </p>
         <p>There are also excellent resources on these topics here on campus. Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Taking an English course on the history of English, or courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/african-american-studies/">African American Studies</url> (<init>AFAM</init>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/asian-studies/">Asian Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/hispanic-studies/">Hispanic Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latin-american-studies/">Latin American Studies </url> (<init>LAS</init>), and <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latino-studies/"> Latino/a Studies</url> would be a good way to continue learning, as would getting involved in the Race and Pedagogy Institute (<init>RPI</init>) or in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
+        </subsection>
+        <subsection xml:id="pronoun-identity">
+            <title>Pronouns</title>
+            <p>A pronoun (see <xref ref="pronouns"/>) is a word (including I, you, me, he, she, and they) that refers to a noun, when it's unwieldy to keep referring to that noun by name. When pronouns refer to and represent people, pronouns are usually connected to gender identity, which is the internal, personal perception that one has about one's own gender. A person may identify on either end of the gender spectrum (man/woman or boy/girl), or in between or outside of it (see <xref ref="gender-inclusivity"/> and <xref ref="lgbtq-inclusivity"/> for more). Using appropriate pronouns is as important as referring to a person by the correct name.</p>
+            <paragraphs xml:id="singular-they">
+                <title>They As a Singular Pronoun</title>
+                <p>Using appropriate pronouns, though, is complicated because gender-neutral singular pronouns are being debated actively at the moment, and, as we discuss above, many people are now arguing that gender is not even relevant in many of the circumstances in which we once emphasized it (for instance, how often is it really important to know whether the person in a sales position is a <q>saleswoman</q> or a <q>salesman</q>?). Debate over gender and pronouns is not new; people have been proposing gender-neutral pronouns <url href="http://www.english.illinois.edu/-people-/faculty/debaron/essays/epicene.htm">since at least the mid-nineteenth century</url>. However, the need for adequate pronouns in English has become more pressing as trans people have become more visible and as the idea of gender identity has been discussed more openly.</p>
+            </paragraphs>
+            <p>People who identify as female typically use she/her pronouns, and those who identify as male usually use he/him pronouns. Individuals whose gender identity does not fit the binary sometimes use they/them pronouns, and<mdash/>more generally<mdash/><q>they</q> is becoming increasingly accepted as a gender-neutral, third-person singular pronoun.</p>
+            <assemblage>
+                <title>Our stance</title>
+                    <p>In this book, we use <q>they</q> as a gender-neutral pronoun in circumstances when the gender of a person is unknown (for example, <q>Please ask each of the students what they would like for dessert</q>) or when that person identifies as neither male nor female (for example, <q>Do you know my friend Ari? They are a math major</q>).</p>
+            </assemblage>
+            <p>Pronouns are important representations of people's gender identity. If you don't know what pronouns someone uses, simply ask them, <q>What pronouns do you use?</q> If you accidentally use the wrong pronoun, apologize, correct yourself, and remember for next time.</p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
+        </subsection>
     </section>
 </chapter>
