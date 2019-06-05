@@ -609,10 +609,8 @@
         <introduction>
             <p>Over the course of your writing process, you will inevitably run into roadblocks, get stuck, or have moments of panic. <em>These obstacles and feelings are completely normal.</em> Even the most accomplished professional and academic writers experience writer's block, anxiety, and frustration. The key to overcoming these paralyzing feelings is to develop strategies to use when they arise. As you practice these strategies, you will become better at knowing which strategy to use in order to overcome an obstacle most pleasantly and efficiently.</p>
         </introduction>
-        <subsection>
+        <subsection xml:id="what-to-do-when-you-get-stuck">
             <title>What to do when you get stuck</title>
-            <paragraphs xml:id="what-to-do-when-you-get-stuck"><title>What to do when you get stuck</title>
-            </paragraphs>
             <paragraphs>
                 <title>Identify the source of the problem</title>
                     <p>Are you simply tired and need a break? Sometimes your brain needs a break, and that is okay. Take one!</p>
@@ -671,7 +669,7 @@
             <dl>
                 <li>
                     <title>Good time management helps prevent frustration</title>
-                    <p>Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance (and, if you have to procrastinate, try using the tips in <xref ref="productive-procrastination" text="title"/>).</p></li>
+                    <p>Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance (and, if you have to procrastinate, try using these tips on <xref ref="productive-procrastination" text="title"/>).</p></li>
                 <li>
                     <title>Create a schedule</title>
                     <p>Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the <init>CWLT</init> or Collins Library early enough to get an appointment time that works best for you.</p></li>
