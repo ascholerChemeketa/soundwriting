@@ -133,7 +133,7 @@ function view_html {
 
 # Subroutine to build the electronic PDF version
 function build_pdf {
-    xsltproc --xinclude --stringparam latex.sides one ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam latex.sides one -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
     mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic.pdf
@@ -145,7 +145,7 @@ function view_pdf {
 
 # Subroutine to build the print PDF version
 function build_print {
-    xsltproc --xinclude --stringparam latex.print yes --stringparam latex.sides two ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam latex.print yes --stringparam latex.sides two -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
     mv SoundWriting.pdf ${SCRATCH}/SoundWriting-print.pdf
