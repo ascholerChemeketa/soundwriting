@@ -1123,40 +1123,41 @@
             <sidebyside width="50%">
                 <image source="images/LM-HerbTheStrongVerb"/>
             </sidebyside>
-            <sidebyside>
-                <dl>
-                    <li><title>Affirm</title><p>to assert or support</p></li>
-                    <li><title>Allude</title><p>to point out indirectly</p></li>
-                    <li><title>Amalgamate</title><p>to combine or unite pieces into a whole, to merge</p></li>
-                    <li><title>Ameliorate</title><p>to make better</p></li>
-                    <li><title>Ascertain</title><p>to find out or make sure</p></li>
-                    <li><title>Bolster</title><p>to reinforce, support</p></li>
-                    <li><title>Censure</title><p>to criticize severely</p></li>
-                    <li><title>Concede</title><p>to acknowledge or grant something</p></li>
-                    <li><title>Concur</title><p>to agree</p></li>
-                    <li><title>Contend</title><p>to assert or argue</p></li>
-                    <li><title>Contest</title><p>to oppose, challenge, or argue against</p></li>
-                    <li><title>Demur</title><p>to object, be reluctant</p></li>
-                    <li><title>Differentiate</title><p>to make a distinction between</p></li>
-                    <li><title>Elucidate</title><p>to explain, make clear</p></li>
-                    <li><title>Enable</title><p>to make able or powerful, to make possible</p></li>
-                    <li><title>Engender</title><p>to lead to, to produce or cause</p></li>
-                    <li><title>Essay</title><p>to try, attempt</p></li>
-                    <li><title>Exacerbate</title><p>to make worse, exasperate</p></li>
-                    <li><title>Excoriate</title><p>to criticize or denounce severely</p></li>
-                    <li><title>Function</title><p>to act as, operate</p></li>
-                    <li><title>Laud</title><p>to praise</p></li>
-                    <li><title>Mitigate</title><p>to lessen severity or intensity, to alleviate</p></li>
-                    <li><title>Obfuscate</title><p>to obscure</p></li>
-                    <li><title>Pervade</title><p>to permeate, spread throughout</p></li>
-                    <li><title>Present</title><p>to offer, give, introduce, show</p></li>
-                    <li><title>Squander</title><p>to waste, spend, use irresponsibly</p></li>
-                    <li><title>Stymie</title><p>to stop, block</p></li>
-                    <li><title>Substantiate</title><p>to support something with evidence</p></li>
-                    <li><title>Supplant</title><p>to take the place of, replace</p></li>
-                    <li><title>Vilify</title><p>to defame or slander</p></li>
-                </dl>
-            </sidebyside>
+            <paragraphs xml:id="strong-verb-list">
+                <title>Strong Verbs</title>
+                    <dl>
+                        <li><title>Affirm</title><p>to assert or support</p></li>
+                        <li><title>Allude</title><p>to point out indirectly</p></li>
+                        <li><title>Amalgamate</title><p>to combine or unite pieces into a whole, to merge</p></li>
+                        <li><title>Ameliorate</title><p>to make better</p></li>
+                        <li><title>Ascertain</title><p>to find out or make sure</p></li>
+                        <li><title>Bolster</title><p>to reinforce, support</p></li>
+                        <li><title>Censure</title><p>to criticize severely</p></li>
+                        <li><title>Concede</title><p>to acknowledge or grant something</p></li>
+                        <li><title>Concur</title><p>to agree</p></li>
+                        <li><title>Contend</title><p>to assert or argue</p></li>
+                        <li><title>Contest</title><p>to oppose, challenge, or argue against</p></li>
+                        <li><title>Demur</title><p>to object, be reluctant</p></li>
+                        <li><title>Differentiate</title><p>to make a distinction between</p></li>
+                        <li><title>Elucidate</title><p>to explain, make clear</p></li>
+                        <li><title>Enable</title><p>to make able or powerful, to make possible</p></li>
+                        <li><title>Engender</title><p>to lead to, to produce or cause</p></li>
+                        <li><title>Essay</title><p>to try, attempt</p></li>
+                        <li><title>Exacerbate</title><p>to make worse, exasperate</p></li>
+                        <li><title>Excoriate</title><p>to criticize or denounce severely</p></li>
+                        <li><title>Function</title><p>to act as, operate</p></li>
+                        <li><title>Laud</title><p>to praise</p></li>
+                        <li><title>Mitigate</title><p>to lessen severity or intensity, to alleviate</p></li>
+                        <li><title>Obfuscate</title><p>to obscure</p></li>
+                        <li><title>Pervade</title><p>to permeate, spread throughout</p></li>
+                        <li><title>Present</title><p>to offer, give, introduce, show</p></li>
+                        <li><title>Squander</title><p>to waste, spend, use irresponsibly</p></li>
+                        <li><title>Stymie</title><p>to stop, block</p></li>
+                        <li><title>Substantiate</title><p>to support something with evidence</p></li>
+                        <li><title>Supplant</title><p>to take the place of, replace</p></li>
+                        <li><title>Vilify</title><p>to defame or slander</p></li>
+                    </dl>
+            </paragraphs>
             <aside>
                 <title>Note</title>
                 <p>You don't need to fill your writing with big, obscure words; instead, you'll want to use more complex words where appropriate to convey meaning more precisely and concisely.</p>
