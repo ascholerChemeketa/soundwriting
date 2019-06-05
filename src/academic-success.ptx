@@ -251,8 +251,8 @@
             <sidebyside width="50%">
                 <image source="images/AS-PriorityMatrixModified2"/>
             </sidebyside>
-            <list xml:id="productive-procrastination">
-                <caption>Productive Procrastination Practices</caption>
+            <paragraphs xml:id="productive-procrastination">
+                <title>Productive Procrastination Practices</title>
                     <ul>
                         <li><p>Work on citations</p></li>
                         <li><p>Take the <init>CWLT</init>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
@@ -268,18 +268,18 @@
                         <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>
                         <li><p>Make a writing appointment at the <init>CWLT</init>!</p></li>
                     </ul>
-            </list>
+            </paragraphs>
     </subsection>
     <subsection>
         <title>Procrastination vs. Self-Care</title>
-            <p>Good time management is a form of self-care because it makes it possible to balance activities and commitments that you care about without compromising your mental, physical, and emotional health. Because it's easy to associate <em>not</em> doing work with procrastination, it can be difficult to tell the difference between taking a necessary mental break and procrastinating. So what's the difference?</p>
-            <p>Self Care vs. Procrastination</p>
-                <list>
-                    <ul>
-                        <li><p>Self-care is crucial; procrastination activities are not. It's the difference between getting enough sleep versus making time for a Netflix episode. If you're not making time for the baseline things you need to be healthy (physically, mentally, and emotionally), chances are the extra <q>fun</q> things you are creating time for aren't self-care, but procrastination.</p></li>
-                        <li><p>Each of us will have different ways of <q>recharging our batteries</q> but the point of self-care is that it DOES recharge and rejuvenate—procrastination sucks energy and leaves guilt. Check yourself: do you actually feel rejuvenated after your break, or do you feel worse about yourself than when you started?</p></li>
-                    </ul>
-                </list>
+            <introduction>
+                <p>Good time management is a form of self-care because it makes it possible to balance activities and commitments that you care about without compromising your mental, physical, and emotional health. Because it's easy to associate <em>not</em> doing work with procrastination, it can be difficult to tell the difference between taking a necessary mental break and procrastinating. So what's the difference?</p>
+            </introduction>
+            <paragraphs>
+                <title>Distinguishing procrastination from self-care</title>
+                <p>Self-care is crucial; procrastination activities are not. It's the difference between getting enough sleep versus making time for a Netflix episode. If you're not making time for the baseline things you need to be healthy (physically, mentally, and emotionally), chances are the extra <q>fun</q> things you are creating time for aren't self-care, but procrastination.</p>
+                <p>Each of us will have different ways of <q>recharging our batteries</q> but the point of self-care is that it DOES recharge and rejuvenate—procrastination sucks energy and leaves guilt. Check yourself: do you actually feel rejuvenated after your break, or do you feel worse about yourself than when you started?</p>
+            </paragraphs>
             <p>Trying to do things that <q>recharge your batteries</q> rather than that leave you feeling guilty about your break is a good way to decide whether a non-work activity is an important break. If you're probably going to be in a better mental, physical, or emotional state to be productive after you take a break to do something, chances are it's self-care, not procrastination.</p>
             <paragraphs><title>General rules for self-care</title>
             <list>
@@ -350,15 +350,15 @@
             </ul></p>
         </paragraphs>
         <p>If you're using a digital calendar (such as Google Calendar), the principles for setting up a time chart are the same as for a paper planner, but the digital platform offers a few features that are worth using as well.</p>
-        <example> <title> Pointers for using a digital calendar </title>
-            <list>
+        <assemblage> <title> Pointers for using a digital calendar </title>
+            <p>
                 <ul>
                     <li><p>Set recurring events for the commitments that don't change week to week. This means that your school and work schedule (and maybe more) will show up every week without you having to write them down over and over.</p></li>
                     <li><p>Take advantage of notifications. If meetings or homework assignments have a tendency to slip your mind, you can always turn on notifications on your phone or computer to remind you before you're supposed to be meeting someone or working on something.</p></li>
                     <li><p>Access your calendar/time chart from multiple platforms. If you have a smartphone, you can access your calendar from your phone as well as from any computer, which makes adding new commitments as you learn about them much easier.</p></li>
                 </ul>
-            </list>
-        </example>
+            </p>
+        </assemblage>
         <p>Whether you use a paper time chart or a digital time chart is up to you, and the simplest way to capture the difference between the two is that a digital time chart trades tangibility for convenience. Planning out your time for a week on paper, much like carrying around a paper planner, gives you something tangible to carry around, pull out after class, and fill out with pens and pencils. It makes your schedule feel more real, and the <em>process</em> required to upkeep a physical calendar keeps your mind engaged in your schedule. A digital calendar relieves you of the responsibility of filling out the same classes week after week and makes your calendar accessible from anywhere, but it does so at the cost of your physical interaction with your time chart, and this physical interaction is a good way to start forming the habits of mind involved in managing time. Plus it's a lot harder to doodle in the margins of your digital calendar!</p>
     </subsection>
     <subsection>
