@@ -275,7 +275,7 @@
                 <p>The song tells us that Adele's in California and that the person she's addressing is <q>a million miles away.</q> I wonder: What's a million miles away from California? I Google the earth's diameter and find that it's roughly 8,000 miles in diameter. I do some math to determine where a million miles from California is. But one million divided by 8,000 comes out evenly<mdash/>125. So Adele's addressee is in California as well, or at least in the area. Then I think, Adele is referring to the distance and not the displacement between herself and her addressee. Thus, though the displacement between Adele and her addressee is 0, the figural distance between them is equal to eight times the earth's diameter. The phrase <q>a million miles</q> then encodes, ironically, that, though they are close to each other geographically, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
             </blockquote>
         </paragraphs>
-        <paragraphs>
+        <paragraphs xml:id="Adele-quote-sandwich">
             <title>3. Write</title>
             <p>Now that you've thought about the things you noticed, put your thoughts into words. It can be helpful to speak your thought process while you're writing, just to be as specific as possible.</p>
             <blockquote>
@@ -284,11 +284,15 @@
             <p>(You'll want to make your thought process as transparent as possible so that others can respond to your argument. For instance, someone could respond to the above argument by saying that a person could travel a million miles in a nonlinear fashion such that Adele and her addressee could as likely be 4,000 miles apart as they are 0 miles apart.)</p>
             <p>And you're done! By following this simple, three-step process, the writer comes up with a coherent and thoroughly reasoned analysis that connects evidence to claim in a convincing way.</p>
         </paragraphs>
+        <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality, Sir David Attenborough, narrate the beginning of the <q>Hello</q> music video.</p>
+        <sidebyside width="70%">
+            <video youtube="enu-qR0H_uk" xml:id="attenborough"/>
+        </sidebyside>
+
     </section>
-    <section>
-        <paragraphs>
-            <title>Quote Sandwiches</title>
-            <p>Formally speaking, there are certain conventions that academics like to follow when dealing with evidence. For instance, it is considered inelegant to use advice without introducing it first. Luckily, you just need to keep in mind the <q>quote sandwich,</q> and you'll never make that inelegant mistake.</p>
+    <section xml:id="using-quote-sandwiches">
+        <title>Using Quote Sandwiches</title>
+            <p>Formally speaking, there are certain conventions that academics like to follow when dealing with evidence. For instance, it is considered inelegant to use advice without introducing it first. Luckily, you just need to keep in mind the <term>quote sandwich</term>, and you'll never make that inelegant mistake.</p>
             <p>
                 The quote sandwich is nothing more than a three-part organizational template that consists of the following parts:
                 <ul>
@@ -300,17 +304,9 @@
             <sidebyside width="50%">
                 <image source="images/AD-QuoteSandwich"/>
             </sidebyside>
-            <p>You may have noticed that the written analysis in the previous section was rendered in three different colors. These colors represent different parts of the quote sandwich. The clause in green introduces the quotation that follows it and anticipates the argument that will be made about the evidence in the section in purple. The text in red is the quotation introduced by the clause in green and commented on by the text in purple. The text in purple analyzes the text in red and elaborates on the claim forecasted by the text in green.</p>
+            <p>You may have noticed that the written analysis (see <xref ref="Adele-quote-sandwich" text="title"/>) in the previous section was rendered in three different colors. These colors represent different parts of the quote sandwich. The clause in green introduces the quotation that follows it and anticipates the argument that will be made about the evidence in the section in purple. The text in red is the quotation introduced by the clause in green and commented on by the text in purple. The text in purple analyzes the text in red and elaborates on the claim forecasted by the text in green.</p>
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
-        </paragraphs>
-        <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality, Sir David Attenborough, narrate the beginning of the <q>Hello</q> music video.</p>
-        <sidebyside width="50%">
-            <video youtube="enu-qR0H_uk" preview="generic"/>
-            <video xml:id="attenborough" youtube="enu-qR0H_uk"/>
-        </sidebyside>
-    </section>
-    <conclusion>
-        <p><assemblage>
+            <p><assemblage>
             <title>Pro Tip: Sandwich combinations at the SUB</title>
                 <sidebyside>
                     <ul>
@@ -347,5 +343,5 @@
                     </ul>
                 </sidebyside>
       </assemblage></p>
-    </conclusion>
+    </section>
 </chapter>
