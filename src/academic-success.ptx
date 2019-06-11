@@ -7,7 +7,7 @@
     </introduction>
     <section xml:id="talking-to-profs">
         <title>Talking to Professors</title>
-        <subsection>
+        <subsection xml:id="talking-to-profs-new-relationship">
         <title>The New Student-Teacher Relationship</title>
         <p>College is different from high school in lots of ways, but one of the most important changes that is easy to miss is in the relationship between you and your teachers. In high school, your teachers were proactive so that you could be reactive. This means that your teachers made sure that you knew what homework was due the next day, let you know when you hadn't turned in an assignment, and checked in when you missed class. They initiated action, and you just had to respond. In college, <em>you are expected to be proactive</em>, and your <em>professors will be reactive</em>. This means that if you don't understand course material, get behind on assignments, or miss class, it's up to you to turn in assignments on time, show up to class, and learn course material. This new freedom is a good chance to develop independence and run your own life, but it can also be dangerous if you're not aware of your new responsibility to take responsibility for your own learning and progress. </p>
         <p>You have a different set of responsibilities and roles as a college student than you did as a high school student, and college professors similarly have a different set of responsibilities and roles than your high school teachers did. Teaching high school is a demanding job, but high school teachers are primarily teachers, which is to say that 95% of their time at work is spent focused on students. College professors are expected to be good teachers, especially at a liberal arts school like the University of Puget Sound, but they are expected also to be scholars who create and publish new knowledge and committee members who help run the university. Finally, college professors work with adult students, and they don't want to treat students as incapable youth any more than students want to be treated as incapable youth.</p>
@@ -54,14 +54,22 @@
             <p>Most students feel more comfortable asking for extensions, favors, or help from <em>some</em> faculty members that they wouldn't ask for from <em>other</em> professors. One thing that might not cross your mind <em>but should</em> is why that is. It might be that you have great rapport with a professor you know well and you're sure that it'll be fine. But it's <em>also</em> possible that your professor's identity plays a role in what you think a professor will do for you because implicit bias affects all of our decisions if we're not careful. Academia operates within broader societal structures (not to mention the ones it creates in addition), and as such most of us are less likely to challenge the policy of professors who are male, white, older, or have been teaching a long time. These aren't the only identity factors that play a role in how you might see a professor, but they're worth considering. Think twice about how your professors' identities influence how you see their responsibility to you, and you can help dismantle the identity-based power structures in academia!</p>
         </assemblage>
         <p>It's impossible to write a guide on <q>how to ask any professor for anything in any context,</q> so rather than even attempting that, we'd like to leave off this section and preface the next section with a few tips that are true in any scenario.</p>
-        <paragraphs><title>The Eternal Truths of Making Requests</title> 
-        <list>
-    <dl>
-      <li>
-        <title>Kindness</title><p>Treat professors like people who deserve respect.</p></li>
-        <li><title>Syllabus-awareness</title><p>Know the policy on your request. Are you asking for something that they offer to anyone? Are you asking for something that's not on the syllabus? Are you asking for something that it says they specifically don't allow? Knowing a professor's policy is doubly useful because it (1) helps you decide how to frame your request, and (2) shows the professor that you know what you're doing and informed yourself about their rules.</p></li>
-        <li><title>Thoughtfulness</title><p>Show the professor how you've taken responsibility for your situation and what you've already tried to do. Show the professor why they're the right person for you to go to next, and don't ask one professor for something that you wouldn't ask another professor for just because you think they're a pushover.</p></li></dl>
-        </list>
+        <paragraphs xml:id="par-truth-of-requests">
+            <title>The Eternal Truths of Making Requests</title> 
+            <dl>
+                <li>
+                    <title>Kindness</title>
+                    <p>Treat professors like people who deserve respect.</p>
+                </li>
+                <li>
+                    <title>Syllabus-awareness</title>
+                    <p>Know the policy on your request. Are you asking for something that they offer to anyone? Are you asking for something that's not on the syllabus? Are you asking for something that it says they specifically don't allow? Knowing a professor's policy is doubly useful because it (1) helps you decide how to frame your request, and (2) shows the professor that you know what you're doing and informed yourself about their rules.</p>
+                </li>
+                <li>
+                    <title>Thoughtfulness</title>
+                    <p>Show the professor how you've taken responsibility for your situation and what you've already tried to do. Show the professor why they're the right person for you to go to next, and don't ask one professor for something that you wouldn't ask another professor for just because you think they're a pushover.</p>
+                </li>
+            </dl>
         </paragraphs>
     </subsection>
     <subsection xml:id="asking-for-extension">
@@ -80,7 +88,7 @@
     </subsection>
     <subsection xml:id="send-or-not-send">
         <title>To Send or not to Send</title>
-        <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is useful as a skill in itself and is transferrable to talking with professors in-person. This section addresses emailing <em>professors</em>, but you can learn more about email etiquette in general by reading <xref ref="email-etiquette"/>.</p>
+        <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is useful as a skill in itself and is transferrable to talking with professors in-person. This section addresses emailing <em>professors</em>, but you can learn more about email etiquette in general by reading <xref ref="email-etiquette" text="title"/>.</p>
     <assemblage>
         <title>Email Etiquette Pointers</title>
         <p>
@@ -103,7 +111,7 @@
     </subsection>
 </section>
 
-<section>
+<section xml:id="requesting-letter-of-rec">
     <title>Requesting a Letter of Recommendation</title>
         <introduction>
             <p>At some point in your life, you’ll probably need to ask someone for a letter of recommendation. If you’re reading this handbook, you’re most likely a college student, so this section specifically addresses how to ask a professor for a letter of recommendation, but all of the big ideas in this section are true for asking a supervisor or a coworker for a letter of recommendation as well! For the rest of this section, <q>professor</q> means the person you’re asking for a letter of recommendation, and <q>program</q> is a catchall word for the many different things for which you might need a letter of recommendation.</p>
@@ -129,16 +137,15 @@
         </paragraphs>
         <paragraphs xml:id="your-evaluators-perspective">
             <title>Your Evaluator's Perspective</title>
-            <p>Now imagine that you are the person who runs the program that you are applying for.</p>
+            <p>Now imagine that you are the person who runs the program that you are applying for.
                 <ul>
                     <li><p>What qualities do you want to see in a successful applicant, and what experiences is it important that applicants have? </p></li>
                     <li><p>What institutional values do you have, and how will they affect which applicants you select?</p></li>
                     <li><p>Which people know your applicants well enough to honestly evaluate the qualities/skills/experiences that they have had? Which professors do you trust most to also understand your values?</p></li>
                     <li><p>How much do you care about letters of recommendation? Do you just want to know that a student is competent, or are you only interested in an applicant if they immensely impressed their professor?</p></li>
                 </ul>
-            <p>Again, you might already know that you needed to think about these questions for your application, but notice that the answers to these questions also dictate which faculty members will have the most influence over the people deciding whether or not to consider your application favorably!</p>
+            Again, you might already know that you needed to think about these questions for your application, but notice that the answers to these questions also dictate which faculty members will have the most influence over the people deciding whether or not to consider your application favorably!</p>
         </paragraphs>
-
         <assemblage>
             <title>Mind Reading</title>
             <p> At this point, you might be inclined to say, <q>now how am I supposed to answer those questions? I can’t get inside the heads of the people on the application committee!</q> That’s true, but you can guess the answer to a lot of these questions by carefully reading the program’s website and by talking to to students, professors, or staff members who are familiar with the program.</p>
@@ -165,7 +172,7 @@
         <p>Ideally, your letter-writer is someone who has worked with you in multiple classes or advised you on an independent project and who can tell specific stories that exemplify the unique qualities that make you a good choice for your program of interest. For example, if you are applying for a summer research internship, you should ask for letters of recommendation from professors who have seen you do research. If you have not worked with anyone on an independent research project, faculty who have seen you do research projects in class might be a good option instead.</p>
     </subsection>
 
-    <subsection>
+    <subsection xml:id="letter-request-timeline">
         <title> Your (Suggested) Timeline </title>
             <p>
                 <dl>
@@ -179,7 +186,7 @@
                     </li>
                     <li>
                         <title>Start thinking about applications</title>
-                        <p> Consider the three perspectives described in <xref ref="three-perspectives"/>. Make sure you can answer the questions in <xref ref="your-perspective" text="title"/>. Identify which professor(s) you’d most like to write you a letter.</p>
+                        <p> Consider the three perspectives described in <xref ref="three-perspectives" text="title"/>. Make sure you can answer the questions in <xref ref="your-perspective" text="title"/>. Identify which professor(s) you’d most like to write you a letter.</p>
                     </li>
                     <li>
                         <title>Have 3+ weeks before the application due date</title>
@@ -192,7 +199,7 @@
                             <ul>
                                 <li><p>A description of what you are applying for (a link to a website is fine), along with why you are interested in the program or how it fits into your plan for a future career</p></li>
                                 <li><p>All of the application materials <em>you</em> need to submit for your application (e.g. a personal statement, cover letter, or application essay), so that the professor knows how their contribution to your application fits in with the rest of the application materials</p></li>
-                                <li><p>An updated resume or curriculum vitae (<init>CV</init>). See <xref ref="section-resume"/> for advice about making a resume or CV.</p></li>
+                                <li><p>An updated resume or curriculum vitae (<init>CV</init>). See <xref ref="section-resume"  text="title"/> for advice about making a resume or CV.</p></li>
                                 <li><p>A transcript</p></li>
                             </ul>
 
@@ -226,7 +233,7 @@
     </subsection>
 </section>
 
-<section>
+<section xml:id="academic-success-time-management">
        <title>Time Management</title>
        
             <introduction>
@@ -235,7 +242,7 @@
             <image source="images/AS-juggle"/>
             </sidebyside>
             <p>Before we get into strategies for planning time, it's worth pausing to talk about using time well, and in particular its worth talking about <em>why</em> we don't use our time well.  Time management requires effort and commitment, and having a reason to commit time and energy to the process makes it easier to create and stick to good habits, especially when they're difficult at first.  So let's talk about procrastination.</p></introduction>
-    <subsection>
+    <subsection xml:id="time-management-procrastination">
         <title>Good Ol' Procrastination</title>
             <p>Probably the most common challenge that most students (and people) face in managing time is procrastination. Procrastination is often associated with laziness, but really it's more of a question of facing the fear of starting something. Starting something is especially hard (and therefore procrastination most likely) when the task is important to us or difficult to undertake. Harder still is when the task is vague or involves many steps. For this reason, we tend to procrastinate most on our most difficult, abstract tasks that have the greatest impact on our life. How irritating! We can have a huge weight hanging over us (like a research paper, take-home test, or class presentation), but rather than chip away at one of <em>those</em> projects, it's easier for us to do a well-defined reading for a class, finish a problem set, or simply stew in our misery, squandering our time on our favorite website or social media platform.</p>
             <p>The key thing to note about procrastination is that it results from not knowing how to approach the terrifying scale of an important, abstract project. Only at the last minute, when our mind accepts that we might fail a class if we don't start in on the project that's worth 20% of our grade, do we rally to rush through the assignment before its due. The <q>last-minuteness</q> of our work forces us to compromise and make decisions as we go, and most importantly, it means that if we do poorly on an assignment, <em>it's not because we lacked intelligence, knowledge, or skills,</em> it's because we waited until the last minute. Our decision-making capabilities, not our identity, is at stake.</p>
@@ -245,7 +252,7 @@
                     <title>Note</title>
                     <p>This doesn't mean that as soon as we stop procrastinating, we sail through college with easy A's--quite the contrary. Not procrastinating lets us focus on the thing we came to college to do: we can start improving our skills by giving ourselves time to produce a true rough draft, get help from peers or professors when we're stuck, and generally <em>learn from our assignments</em> rather than <em>fear what they will reveal about us</em>.</p></assemblage></p>
     </subsection>
-    <subsection>
+    <subsection xml:id="time-management-productive-procrastination">
         <title>Productive Procrastination</title>
             <p>Procrastination is especially easy when there's an easily accessible distraction we can use to put off work. Some of the most common distractions are social media, imageboard websites, phone or computer games, TV, and socializing. Sometimes, though, the tasks we perform to procrastinate <em>seem</em> important, and this is called <term>productive procrastination</term>. Symptoms of productive procrastination include cleaning, doing less-intimidating homework, sending emails, or otherwise taking care of day-to-day tasks that <em>are important</em> but that are clearly <em>not urgent</em>. One way of assessing whether you're allocating your time well is to use a the flowchart below. If there's anything on your plate that falls into the top box, <em>do that first</em>. The hard part to remember is <em>to do the middle box after that</em>. The categorization into urgent and not urgent is useful, but the nature of time means that anything that's important and not urgent will soon be both important and urgent! Not procrastinating means taking care of stuff in the middle box whenever you can, especially <em>before</em> it moves into the top box. Thinking in terms of both importance and urgency is a good way to stay out of the trap of feeling productive by doing less important or less urgent work.</p>
             <sidebyside width="50%">
@@ -270,44 +277,45 @@
                     </ul>
             </paragraphs>
     </subsection>
-    <subsection>
+    <subsection xml:id="time-management-procrast-vs-selfcare">
         <title>Procrastination vs. Self-Care</title>
             <introduction>
                 <p>Good time management is a form of self-care because it makes it possible to balance activities and commitments that you care about without compromising your mental, physical, and emotional health. Because it's easy to associate <em>not</em> doing work with procrastination, it can be difficult to tell the difference between taking a necessary mental break and procrastinating. So what's the difference?</p>
             </introduction>
-            <paragraphs>
+            <paragraphs xml:id="par-procrast-vs-selfcare">
                 <title>Distinguishing procrastination from self-care</title>
                 <p>Self-care is crucial; procrastination activities are not. It's the difference between getting enough sleep versus making time for a Netflix episode. If you're not making time for the baseline things you need to be healthy (physically, mentally, and emotionally), chances are the extra <q>fun</q> things you are creating time for aren't self-care, but procrastination.</p>
                 <p>Each of us will have different ways of <q>recharging our batteries</q> but the point of self-care is that it DOES recharge and rejuvenate—procrastination sucks energy and leaves guilt. Check yourself: do you actually feel rejuvenated after your break, or do you feel worse about yourself than when you started?</p>
             </paragraphs>
             <p>Trying to do things that <q>recharge your batteries</q> rather than that leave you feeling guilty about your break is a good way to decide whether a non-work activity is an important break. If you're probably going to be in a better mental, physical, or emotional state to be productive after you take a break to do something, chances are it's self-care, not procrastination.</p>
-            <paragraphs><title>General rules for self-care</title>
-            <list>
-                <dl>
-                    <li>
-                        <title>Sleep</title>
-                        <p>Sleeping 6 hours or less a night on a regular basis has similar effects on cognition as the kind of sleep deprivation that is routinely used for interrogation and torture. If you're so sleepy you'd confess to a crime you didn't commit, you're in no shape to write a paper anyone wants to read.</p>
-                    </li>
-                    <li>
-                        <title>Body</title>
-                        <p>Eat well and exercise. Yes, even if you're busy! You don't have to be a gym rat<mdash/>just eat something green and take a walk!</p>
-                    </li>
-                    <li>
-                        <title> Mind </title>
-                       <p>Acknowledge and name your feelings as they happen: keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on us is important<mdash/>not just for our productivity, but for the rest of our lives as well.</p>
-                   </li>
-                    <li>
-                        <title>Time</title>
-                        <p>Prioritize what you have to do, and then build in time for what you need to do for you first.</p></li>
-                    <li>
-                        <title>Intentionality</title>
-                        <p>When you're stressed, you tend to do things mindlessly. Your time is valuable, so spend it on what matters.</p>
-                    </li>
-            </dl>
-        </list>
-    </paragraphs>
+            <paragraphs xml:id="par-general-rules-self-care">
+                <title>General rules for self-care</title>
+                <p>
+                    <dl>
+                        <li>
+                            <title>Sleep</title>
+                            <p>Sleeping 6 hours or less a night on a regular basis has similar effects on cognition as the kind of sleep deprivation that is routinely used for interrogation and torture. If you're so sleepy you'd confess to a crime you didn't commit, you're in no shape to write a paper anyone wants to read.</p>
+                        </li>
+                        <li>
+                            <title>Body</title>
+                            <p>Eat well and exercise. Yes, even if you're busy! You don't have to be a gym rat<mdash/>just eat something green and take a walk!</p>
+                        </li>
+                        <li>
+                            <title> Mind </title>
+                           <p>Acknowledge and name your feelings as they happen: keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on us is important<mdash/>not just for our productivity, but for the rest of our lives as well.</p>
+                       </li>
+                        <li>
+                            <title>Time</title>
+                            <p>Prioritize what you have to do, and then build in time for what you need to do for you first.</p></li>
+                        <li>
+                            <title>Intentionality</title>
+                            <p>When you're stressed, you tend to do things mindlessly. Your time is valuable, so spend it on what matters.</p>
+                        </li>
+                    </dl>
+                </p>
+            </paragraphs>
     </subsection>
-    <subsection>
+    <subsection xml:id="time-management-good-time-management">
         <title>Good Time Management</title>
         <p>The root of time management is using time well, and using your time well requires understanding the time you have. Depending on how much you enjoy being organized already and how busy or unstructured your life is, you may already have a knack for figuring out what time of day you do your best work, when you have different amounts of free time, and a good sense of how long your work will take.</p> 
         <p>Understanding procrastination helps us identify strategies we can use to avoid it. In particular, breaking down an intimidating project early-on is an essential skill to have when approaching a daunting task. But how do you create good goals that will help you chip away at a big assignment? One way is to ensure that your goals are specific, measurable, attainable, relevant, and time-bound, or SMART for short. So if writing a lab-report is the intimidating project that you're procrastinating on, writing a goal like <q>write lab report</q> in your planner is not especially useful. It's not a sub-goal, and it doesn't give you something specific to work on, so it's far more likely to trigger the <q>aaaaaaaahhh that's so much to do</q> reaction that's likely to lead to procrastination. Let's transform a few poorly formed goals into SMART goals.</p>
@@ -333,21 +341,22 @@
         <sidebyside width="50%">
                 <image source="images/AS-timechart_sample"/>
         </sidebyside>
-        <paragraphs>
+        <paragraphs xml:id="par-time-chart">
             <title>Time Chart</title>
             <p>With your own time-chart in hand, fill it out following these guidelines and in this order:
-            <ul>
-                <li><p>Add all of your classes for the week.</p></li>
-                <li><p>Add your other fixed commitments, which could include sports or music practices, work, exercise, meals, club meetings, and appointments with friends or professors.</p></li>
-                <li><p>Look at the time that's left, and schedule in time to work on specific goals or assignments. Remember to<nbsp/><ellipsis/></p>
-                    <p><ul>
-                        <li><p>Be realistic about how long each task is going to take. This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p></li>
-                        <li><p>Remember those sub-goals. Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p></li>
-                        <li><p>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks. Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p></li>
-                        <li><p>Make time for review. Your long-term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high-quality review in a short amount of time.</p></li>
-                        <li><p>Plan to plan. Schedule a time in your time chart when you'll make a time chart for the <em>next</em> week. Time management and organization strategies are only useful if they're consistent!</p></li>
-                    </ul></p></li>   
-            </ul></p>
+                <ul>
+                    <li><p>Add all of your classes for the week.</p></li>
+                    <li><p>Add your other fixed commitments, which could include sports or music practices, work, exercise, meals, club meetings, and appointments with friends or professors.</p></li>
+                    <li><p>Look at the time that's left, and schedule in time to work on specific goals or assignments. Remember to<nbsp/><ellipsis/></p>
+                        <p><ul>
+                            <li><p>Be realistic about how long each task is going to take. This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p></li>
+                            <li><p>Remember those sub-goals. Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p></li>
+                            <li><p>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks. Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p></li>
+                            <li><p>Make time for review. Your long-term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high-quality review in a short amount of time.</p></li>
+                            <li><p>Plan to plan. Schedule a time in your time chart when you'll make a time chart for the <em>next</em> week. Time management and organization strategies are only useful if they're consistent!</p></li>
+                        </ul></p></li>   
+                </ul>
+            </p>
         </paragraphs>
         <p>If you're using a digital calendar (such as Google Calendar), the principles for setting up a time chart are the same as for a paper planner, but the digital platform offers a few features that are worth using as well.</p>
         <assemblage> <title> Pointers for using a digital calendar </title>
@@ -361,24 +370,25 @@
         </assemblage>
         <p>Whether you use a paper time chart or a digital time chart is up to you, and the simplest way to capture the difference between the two is that a digital time chart trades tangibility for convenience. Planning out your time for a week on paper, much like carrying around a paper planner, gives you something tangible to carry around, pull out after class, and fill out with pens and pencils. It makes your schedule feel more real, and the <em>process</em> required to upkeep a physical calendar keeps your mind engaged in your schedule. A digital calendar relieves you of the responsibility of filling out the same classes week after week and makes your calendar accessible from anywhere, but it does so at the cost of your physical interaction with your time chart, and this physical interaction is a good way to start forming the habits of mind involved in managing time. Plus it's a lot harder to doodle in the margins of your digital calendar!</p>
     </subsection>
-    <subsection>
+    <subsection xml:id="time-management-final-thoughts">
         <title>A Few Final Thoughts</title>
         <p>It's difficult to remember all the classes, office hours, athletic practices, club meetings, and social events of college. Even more difficult is remembering all the assignments, due-dates, and special club events, that go along with those responsibilities, let alone the relative priority that each item has. More than difficult, though, it's <em>stressful</em>. It detracts from your ability to focus on and enjoy the content of what you're learning when you have to spend mental energy constantly keeping track of what's the highest priority task you have to do next. The <q>weight</q> that comes from mentally juggling so many different tasks is even worse for projects that are large, important, and ambiguous. When you create a time-chart and schedule time to do a specific task, you're effectively relieving yourself of one ball that you were juggling by giving the tasks specific time and place on your schedule.</p>
-        <paragraphs><title>Additional Resources</title>
+        <paragraphs xml:id="par-additional-time-management-resources">
+            <title>Additional Resources</title>
             <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (AC) at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><c>Center for Writing, Learning, and Teaching</c></url>. Peer ACs are Puget Sound students who've been tutoring in the CWLT for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
         </paragraphs>
     </subsection>
 </section>
-<section>
+<section xml:id="academic-success-getting-organized">
     <title>Getting Organized</title>
     <introduction>
         <p>There is a lot of digital and print material associated with all of the things you're juggling as a college student. As a student, of course you have lots of papers and books--and their digital equivalents--to keep track of. But you probably also have paper in other areas of your life. As an employee, you likely have tax forms. As a student living away from home or studying abroad, you will likely need to keep track of a passport and other travel-related documents. You probably also have papers associated with clubs and/or off-campus community activities. Keeping all the physical and digital materials in your life organized goes hand in hand with keeping your time organized because having the things you need readily accessible can make the difference between a task taking ten minutes or an hour (or even longer).</p>
     </introduction>
-    <subsection>
+    <subsection xml:id="getting-organized-school-life">
         <title>Getting Your School Life Organized</title>
         <p>
         <ol>
-        <li><p><em>Get a planner and use it.</em> We discuss this strategy above (see <xref ref="time-chart"/>), but it bears repeating!</p></li>
+        <li><p><em>Get a planner and use it.</em> We discuss this strategy above (see <xref ref="time-chart" text="title"/>), but it bears repeating!</p></li>
         <li><p><em>Determine which resources you need for each class and buy/rent/download them.</em></p>
             <p><ol>
                 <li>
@@ -447,7 +457,8 @@
         </li>
         </ol></p>
     </subsection>
-    <subsection><title>Staying Organized</title>
+    <subsection xml:id="getting-organized-staying-organized">
+        <title>Staying Organized</title>
         <ol>
             <li>
                 <p><em>Update your planner, every day.</em></p>
@@ -481,27 +492,29 @@
             </li>
         </ol>
     </subsection>
-    <subsection>
+    <subsection xml:id="getting-organized-school-meets-life">
         <title>School Meets Life</title>
         <p>A lot of what you'll be doing in college revolves around school, but there are lots of other parts of your life where keeping organized will make everything more relaxed and productive. Here are a few tips.</p>
-        <paragraphs>
+        <paragraphs xml:id="par-organizing-email">
         <title>Email</title>
             <p>Once you start college, you'll likely have at least two email addresses: your personal one and your Puget Sound account, and having multiple accounts means that it's helpful to have a plan for keeping on top of those new demands.
-            <p><ul>
-                <li><p>Decide how you want to use your different accounts--there are different approaches. Some people prefer to keep things strictly school vs. personal, and that makes it easier when you graduate and don't use your Puget Sound account any more. Some people like everything being mixed together, because that makes it easier to just check one account. Regardless of your strategy, you'll need to check your Puget Sound email, since you'll get emails from professors and from the school there.</p></li> 
-                <li><p>Don't keep thousands of unread messages in your inbox. If this is already the state of your email, clear/mark as read your unread messages. Before you do this, make sure there are no important unread messages, because it's easy to forget about them once they're marked <q>read.</q> It's different for each type of email, but a quick online search will get you step-by-step instructions.</p></li>
-                <li><p>Check your email at least once a day while you're enrolled in classes and at least every few days during other times if you're expecting contact from anyone. During the school week, it's helpful to check at least once in the morning and once in the evening, as professors will generally inform you about assignments or changes to the syllabus via email. If your morning class is cancelled, you don't want to miss the chance to sleep in because you didn't check your email!</p></li> 
-            </ul></p></p>
+                <ul>
+                    <li><p><em>Decide how you want to use your different accounts<mdash/>there are different approaches.</em> Some people prefer to keep things strictly school vs. personal, and that makes it easier when you graduate and don't use your Puget Sound account any more. Some people like everything being mixed together, because that makes it easier to just check one account. Regardless of your strategy, you'll need to check your Puget Sound email, since you'll get emails from professors and from the school there.</p></li> 
+                    <li><p><em>Don't keep thousands of unread messages in your inbox.</em> If this is already the state of your email, clear/mark as read your unread messages. Before you do this, make sure there are no important unread messages, because it's easy to forget about them once they're marked <q>read.</q> It's different for each type of email, but a quick online search will get you step-by-step instructions.</p></li>
+                    <li><p><em>Check your email at least once a day while you're enrolled in classes and at least every few days during other times if you're expecting contact from anyone.</em> During the school week, it's helpful to check at least once in the morning and once in the evening, as professors will generally inform you about assignments or changes to the syllabus via email. If your morning class is cancelled, you don't want to miss the chance to sleep in because you didn't check your email!</p></li> 
+                </ul>
+            </p>
         </paragraphs>
-        <paragraphs>
+        <paragraphs xml:id="par-organizing-files">
         <title>File organization</title>
-            <p>Part of being an adult is learning how to deal with all of the important papers that will come your way--and all the important papers you'll need to hang on to for when you want to get a job after graduation. Think about what documents are in your life and divide them into categories, so you can always access something if you need it. It really depends on what your life looks like, but some examples that could be helpful are
-            <p><ul>
-        <li><p>The professor's (or department's) policy on extensions and late work</p></li>
-                <li><p>Career information: a running list of the places you've worked, the dates you worked there, and your supervisors' names and contact info--along with the more polished versions of this information (resumes, cover letters for past applications, personal statements). This folder is likely to expand and may need to have more sections within it.</p></li>
-                <li><p>Financial stuff: forms you need for taxes, scholarship information, really anything having to do with money.</p></li>
-                <li><p>Miscellaneous activities: Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in ASUPS club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p></li>
-            </ul></p>
+            <p>Part of being an adult is learning how to deal with all of the important papers that will come your way--and all the important papers you'll need to hang on to for when you want to get a job after graduation. Think about what documents are in your life and divide them into categories, so you can always access something if you need it. It really depends on what your life looks like, but some examples that could be helpful are:
+            <p>
+                <ul>
+                    <li><p>Career information: a running list of the places you've worked, the dates you worked there, and your supervisors' names and contact info--along with the more polished versions of this information (resumes, cover letters for past applications, personal statements). This folder is likely to expand and may need to have more sections within it.</p></li>
+                    <li><p>Financial stuff: forms you need for taxes, scholarship information, really anything having to do with money.</p></li>
+                    <li><p>Miscellaneous activities: Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in ASUPS club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p></li>
+                </ul>
+            </p>
             <p>Then, do the same with your physical documents. If you don't want to hang on to the paper copy, you can scan things for free at Collins Library's scanners. Your filing system doesn't have to be anything overly complicated. Label the files with the same names as on your computer and add any additional categories you need.</p> 
             </p>
         </paragraphs>

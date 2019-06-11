@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="research-methods">
     <title>Research Methods</title>
-    <section>
+    <section xml:id="research-research-methods">
         <title>Essentials</title>
         <p>The word <q>research</q> can seem daunting, but doing independent research can be some of the most exciting work you'll do in college.</p>
         <p><url href="https://pugetsound.edu/library">Collins Library</url> provides access to rich collections, engaging learning environments, innovative instruction, and high-quality service in support of the university's mission of teaching, learning, civic engagement, and diversity. We encourage you to familiarize yourself early on with the scope of materials and the types of services available to you in an academic library, as they may differ markedly from those available in most school and public libraries. Collins Library works in close partnership with the faculty and other campus departments to support your development as a scholar.</p>
@@ -120,7 +120,7 @@
             </p>
         </assemblage>
     </section>
-    <section>
+    <section xml:id="research-tips-tricks">
         <title>Research Tips and Tricks</title>
         <paragraphs>
             <title>Go see a liaison librarian</title>

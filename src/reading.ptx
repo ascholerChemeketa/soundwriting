@@ -5,7 +5,7 @@
         <p>Yes, we know. You learned to read over a decade ago! Why is there a chapter on reading? This chapter is not so much about literacy as it is about strategy. Since you'll likely have to read <em>a lot</em> during your time at Puget Sound, it's helpful to have some strategies that will make reading and researching as quick and painless as possible.</p>
         <p>Reading is the first step to writing, and any skilled writer has undoubtedly read a lot. The first thing you need to remember is to <em>do your course readings</em>! Not only will you be completing work that will help you in your courses, but you'll also get a better feel for writing in that discipline. Your future self will thank you! Reading your course readings also prepares you for researching in that discipline. Especially when you're doing research, being strategic about what and how you read is essential to producing quality content at a pace that isn't agonizingly slow. For more details, tips, and some bad jokes, read on!</p>
     </introduction>
-    <section>
+    <section xml:id="readign-finding-and-skimming">
         <title>Finding, Skimming, and Reading Sources</title>
         <introduction>
             <p>Congratulations on finding some sources (see <xref ref="BEAM" text="title"/>)! Now what? Take a picture of all your books and post it to Instagram so everyone knows that you're taking college seriously! <url href="https://twitter.com/hashtag/totheheights">#totheheights</url> It can be intimidating to have collected piles of useful sources only to realize how much time it will take you to read through them. But do you really need to read all of them completely? The way you approach any source will depend on the nature of the source, the amount of time you have, and the information you seek.</p>
@@ -14,11 +14,11 @@
             </sidebyside>
             <p>Of the sources you'll be working with, many will be primary and secondary. Sometimes it can be difficult to determine whether a source is primary or secondary. For instance, if you're writing an essay for a literature course on Shakespeare's <em>King Lear</em>, then <em>King Lear</em> would likely be your primary source. However, if you're writing a paper analyzing patterns in the critical reception of <em>King Lear</em>, then you may find yourself working with what would otherwise be considered secondary sources<mdash/>critical interpretations of the play, for instance<mdash/>and analyzing those. (For more information on the types of sources, see this <url href="http://collins.pugetsound.edu/Research_Fundamentals_Sources/story.html">Research Fundamentals guide</url> from Collins Library.) That said, in order to find any source, it's important to know what kind of source you're looking for. Think about the kind of information you need, and come up with a list of search terms<mdash/>particular words and concepts you think would return helpful titles.</p>
         </introduction>
-        <subsection>
+        <subsection xml:id="reading-finding-primary">
             <title>Primary Sources</title>
             <p>Primary sources are the texts (though they aren't always <q>texts</q>) upon which you perform the most analysis and upon which you base your argument. It is always desirable to read your primary sources carefully and in their entirety. It's hard to write an argument about a book, for instance, without knowing how it ends or who one of its main characters is. Reading primary sources completely is especially important for essays that depend on analyses of a text's language. You can't analyze language that you haven't read! (The same holds for non-textual <q>texts</q> such as paintings, musical compositions, or scientific data<mdash/>spend time with the source, and think about what its parts add up to.)</p>
         </subsection>
-        <subsection>
+        <subsection xml:id="reading-finding-secondary">
             <title>Secondary Sources</title>
             <p>Secondary sources are texts that you use to supplement your argument in some way: by establishing a theoretical premise, by providing a point of reference or departure, or by providing some historical or biographical context (to name a few). They are the secondary objects of your analysis and do not comprise the bulk of your argument. Though it's often rewarding to read secondary sources in their entirety, it's not always practical. The following are some tips for getting the most out of your secondary sources:</p>
                 <paragraphs>
@@ -63,20 +63,20 @@
                 </paragraphs>
         </subsection>
     </section>
-    <section>
+    <section xml:id="reading-different-types">
         <title>Different Types of Reading</title>
         <introduction>
             <p>You will encounter numerous kinds of readings throughout your college experience (and beyond). Because there are various ways in which we use different kinds of sources, there are also several reading strategies we can use to read our sources most effectively and efficiently. One key skill is to be able to identify why you're reading a source: How will you use it, what information will you need from it, and how will you record or take notes on what you learn from it? The answers to these questions will help you decide how to read your source.</p>
         </introduction>
-        <subsection>
-            <title>Active reading: ALL READING you do should be active reading!</title>
-            <p>In order to read critically, you must read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <em>The Odyssey</em> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing marginal notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
+        <subsection xml:id="reading-types-active">
+            <title>Active Reading</title>
+            <p><alert>All reading you do should be active reading!</alert> In order to read critically, you must read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <em>The Odyssey</em> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing marginal notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
             <sidebyside width="50%">
                 <image source="images/HR-ActiveReading"/>
             </sidebyside>
             <p>You might be muttering to yourself, <q>But reading is enough work!</q> But know that active reading helps you understand and remember what a text says the first time you read it, so you don't have to waste your time reading the same paragraph over and over again. Plus, having a pen in your hand as you read makes it easier for you to write funny comments in the margins as you get frustrated (we all do it). Just be careful not to fall asleep with your pen uncapped. <ellipsis/></p>
         </subsection>
-        <subsection>
+        <subsection xml:id="reading-types-critical">
             <title>Reading Critically</title>
             <p>No matter the type or purpose of a source, the reading you'll be doing for your Puget Sound courses will almost always be critical. Reading critically means that you do far more than read the words on a page<mdash/>you engage with them by thinking about them. As you will read in <xref ref="forming-your-argument"/>, academic writing is all about participating in larger scholarly conversations. This participation is largely about making argumentative claims and supporting them with evidence in order to convince an audience of those claims. When you read an academic work, then, you're also participating in the scholarly conversation around that work. As a result, reading critically requires you to read and evaluate the author's claims and evidence. While it isn't your job to treat your sources as if you were a movie or restaurant critic, you should be aware of the places in which the author's argument is unconvincing, contradictory, or contentious. (Note: Critical reading for some primary sources can be slightly different, but we will address those differences in the <q>close reading</q> section that follows.)</p>
             <list>
@@ -142,7 +142,7 @@
                 <p>The text that you have read closely is your evidence. To convince your audience of your argument, you must take careful and detailed notes (<ie/>, doing careful and detailed active reading). By including all of the necessary analysis and textual examples, you can tell your reader exactly how you've interpreted a passage.</p>
             </paragraphs>
         </subsection>
-        <subsection>
+        <subsection xml:id="reading-types-science">
             <title>Reading in the Sciences</title>
                 <p>Reading in the sciences (social, earth, hard, soft, or otherwise) can be a whole different beast than reading literature, historical documents, or humanities-based secondary sources. If you've ever tried to read a peer reviewed scientific article you may have found yourself feeling lost and confused by the technical words and abbreviations. But have no fear! By using the following strategies, you can become a savvy reader of scientific articles:</p>
                     <paragraphs>

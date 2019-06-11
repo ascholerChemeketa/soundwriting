@@ -2,7 +2,7 @@
 <appendix xml:id="glossary">
     <title>Glossary of Academic Terms</title>
     <p>(Some words you need to know but might have been afraid to ask.)</p>
-    <list>
+    <list xml:id="glossary-writing-words">
         <caption>Words You May See in Writing Assignments</caption>
         <dl>
             <li>
@@ -31,7 +31,7 @@
             </li>
         </dl>
     </list>
-    <list>
+    <list xml:id="glossary-research-words">
         <caption>Research Terms and Kinds of Sources</caption>
         <dl>
             <li>
@@ -64,7 +64,7 @@
             </li>
         </dl>
     </list>
-    <list>
+    <list xml:id="glossary-rhetorical-terms">
         <caption>Rhetorical Terms</caption>
         <dl>
             <li>
@@ -101,7 +101,7 @@
             </li>
         </dl>
     </list>
-    <list>
+    <list xml:id="glossary-words-to-know">
         <caption>Generally Good Words to Know</caption>
         <dl>
             <li>

@@ -38,7 +38,7 @@
                 <image source="images/WP-Question"/>
             </sidebyside>
         </introduction>
-        <subsection>
+        <subsection xml:id="planning-pre-planning">
             <title>Pre-planning Questions</title>
             <paragraphs>
                 <title>Determine the purpose of your paper</title>
@@ -65,7 +65,7 @@
                     <p>Before you begin writing, it's helpful to think about the tone of your essay<mdash/>the language you're going to use, how objective or subjective you will be, from which point of view you will write. For instance, you probably wouldn't write a chemistry lab report using the same language that you would use to write a personal narrative. Deciding on a voice early on can help you figure out what kind of language to use while you are planning, outlining, and drafting your paper.</p>
             </paragraphs>
         </subsection>
-        <subsection>
+        <subsection xml:id="planning-planning-strategies">
             <title>Some Planning Strategies</title>
             <p>There are several planning strategies to help you bridge the gap between the disorganized chaos of brainstorming and the more comprehensible structure of outlining:</p>
             <sidebyside width="50%">
@@ -135,7 +135,7 @@
                 </assemblage>
             <p>Here are a few (but not all!) format options to try:</p>
         </introduction>
-        <subsection>
+        <subsection xml:id="outlining-classic">
             <title>The Classic Outline</title>
                 <p>The classic outline is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
                 <sidebyside width="50%">
@@ -149,7 +149,7 @@
                 <image source="images/WP-BubbleMap"/>
             </sidebyside>
         </subsection>
-        <subsection>
+        <subsection xml:id="outlining-flowchart">
             <title>The Flowchart</title>
             <p>Flowcharts work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
             <sidebyside width="50%">
@@ -157,18 +157,18 @@
             </sidebyside>
         </subsection>
     </section>
-    <section>
+    <section xml:id="process-introductions">
         <title>Introductions</title>
-        <subsection>
+        <subsection xml:id="introductions-role">
             <title>Role of the Introduction (Road Map)</title>
             <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not your audience will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience members why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
             <sidebyside width="50%">
                 <image source="images/WP-RoadMap"/>
             </sidebyside>
         </subsection>
-        <subsection>
+        <subsection xml:id="introuductions-anatomy">
             <title>Anatomy of the Introduction</title>
-            <paragraphs>
+            <paragraphs xml:id="par-intros-common-ground">
                 <title>Common Ground</title>
                 <p>
                     It's important to begin your introduction with a nice, firm handshake with the audience, which often comes in the form of establishing common ground. Your common ground should do two things: 1) introduce your topic, and 2) establish yourself as an authority on the topic at hand. Common ground is usually established in the form of a factual, uncontroversial statement that is likely familiar to your audience and which may comfortably orient them to your topic. It may also introduce the works, authors, and sources you will be using by drawing an observational similarity between them.
@@ -178,7 +178,7 @@
                     </ul>
                 </p>
             </paragraphs>
-            <paragraphs>
+            <paragraphs xml:id="par-intros-posing-problem">
                 <title>Posing the Problem</title>
                 <p>
                     Once you have established common ground, you are now free to interrupt or destabilize this common ground with your main question or problem. This question or problem should arise from a common trend or pattern you uncover within the research; perhaps something you observe in the research does not adhere to common thought, has not been framed in a certain way, or has not been studied at all. Therefore, the question or problem you pose should occur within the context of a broader scholarly conversation. You can pose your problem by drawing a distinction between the audience's expectation and reality, pointing to startling similarities or differences between your sources, or complicating the common ground statement with a more nuanced or holistic perspective of the issue. To highlight this problem, you can use words and phrases like <q>however,</q> <q>although,</q> <q>while,</q> or <q>in actuality.</q>
@@ -195,13 +195,13 @@
                     </ul>
                 </p>
             </paragraphs>
-            <paragraphs>
+            <paragraphs xml:id="par-intros-response-problem">
                 <title>Response to the Problem (Thesis)</title>
                 <p>After destabilizing the common ground by posing the problem and stating the potential consequences of incomplete knowledge, you may now give your audience members some stable footing (don't just leave them hanging!). You can do this by providing the audience with your resolution to the stated problem<mdash/>this is also known as your thesis statement (for tips on thesis development, see <xref ref="thesis-development"/>). Your thesis statement should include a clear assertion of your argument that reflects the general organization of the paper, what kinds of information you will be using, and how you will be using that information to make your argument.</p>
                 <p>There are different ways you may frame your thesis statement. You can offer the solution as the main point of the paper, promising to explicate it in depth throughout your response; this is called a <q>point-first</q> structure. You may also want to detail the problem at length, explore various solutions, and finally offer a solution at the very end of the paper; this structure is called <q>point-last.</q> Whichever structure you choose should be the one best suited to your argument and what you want the main focus of your paper to be.</p>
             </paragraphs>
         </subsection>
-        <subsection>
+        <subsection xml:id="introductions-strategy">
             <title>Strategies for Writing Effective Introductions</title>
             <p>Now that you have the basic tools you need to write an effective introduction, here are some tips and strategies to get you in the intro-writing mood.</p>
             <paragraphs>
@@ -268,9 +268,9 @@
             </example>
         </subsection>
     </section>
-    <section>
+    <section xml:id="process-topic-sentences">
         <title>Topic Sentences, Transitions, and Body Paragraphs</title>
-        <subsection>
+        <subsection xml:id="topic-sentences-ts">
             <title>Topic Sentences (Compass)</title>
             <p>If introductions are the road maps to your argument, topic sentences are the compass coordinates you are using to keep your argument on track with your thesis. For this reason, topic sentences are among the most important components of your paper. Not only do they link each paragraph to your thesis, but they keep your audience (and you) oriented to your argument. Topic sentences should typically be stated at the beginning of each new paragraph and should do two things: 1) introduce the main idea of that paragraph and 2) transition from the previous one. They don't usually include specific details or pieces of evidence (that's what the rest of the paragraph is for), but rather preface the claims you will be making. A helpful way to think about topic sentences is if you were to highlight your thesis, topic sentences, and conclusion, you would have a pretty solid outline of your argument (for more on reverse outlining, see <xref ref="reverse-outlining"/>).</p>
             <p>There are a few different strategies for writing topic sentences. One way might be to include tentative topic sentences in your outline and start with those as you write the corresponding body paragraphs. Another strategy may be to write the body paragraph first, read it over to determine the main idea, and then write the corresponding topic sentence at the top.</p>
@@ -352,7 +352,7 @@
                 </tabular>
             </sidebyside>
         </subsection>
-        <subsection>
+        <subsection xml:id="topic-sentences-body">
             <title>Body Paragraphs (Landmarks/Sights)</title>
             <sidebyside width="50%">
                 <image source="images/WP-EvidenceBinoculars"/>
@@ -376,27 +376,27 @@
             <p>If you find yourself writing paragraphs that are only a couple of sentences long, don't stress. Shorter paragraphs are sometimes helpful for filling in the gaps or acting as transitions between larger claims. However, a proliferation of shorter paragraphs may confuse and disorient the audience. Try outlining each of your paragraphs before you begin writing to help you flesh them out (see <xref ref="performing-textual-analysis"/> and <xref ref="outlining"/> for more tips on how to structure your paragraphs).</p>
         </subsection>
     </section>
-    <section>
+    <section xml:id="process-conclusions">
         <title>Conclusions</title>
         <introduction>
             <sidebyside width="50%">
                 <image source="images/WP-ConclusionCamera"/>
             </sidebyside>
         </introduction>
-        <subsection>
+        <subsection xml:id="conclusion-role">
             <title>Role of the Conclusion (Album)</title>
             <p>
                 When it's 1:59 a.m. in Collins Library and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
                 <p>Just as the introduction is the first thing your audience will read, the conclusion will be the last thing they remember before they put your paper down. In this way, the conclusion can be conceptualized as the photo scrapbook or Facebook album containing all the images from the reader's journey, with a few new trip ideas or future destinations thrown in. For this reason, the conclusion can be a great opportunity for you to reach beyond the scope of the prompt and make connections to greater issues or concepts that were not discussed in your paper.
             </p>
         </subsection>
-        <subsection>
+        <subsection xml:id="conclustion-anatomy">
             <title>Anatomy of the Conclusion</title>
-            <paragraphs>
+            <paragraphs xml:id="par-conclusions-restate">
                 <title>Restating Your Thesis</title>
                 <p>When you reach your conclusion, it's useful to remind the audience where they have been: What was the main argument of your paper and how did the evidence support it? However, don't just restate your thesis as it appeared in your introduction; use different language and boil down your argument into main points to make it clear to the audience exactly what you expected them to learn from reading your paper. It may even be helpful to use sequential sentences to summarize your argument: <q>First, I showed you this. Then, I compared it to this. Finally, I used this knowledge to draw this conclusion.</q> Then, synthesize these points to show how they form a cohesive argument: <q>Based on these points, one may conclude<nbsp/><ellipsis/> [argument].</q> Restating your thesis will consolidate your argument in the reader's mind; this way, even if they didn't read through the rest of your paper, they should be able to identify your primary argument based on your conclusion.</p>
             </paragraphs>
-            <paragraphs>
+            <paragraphs xml:id="par-conclusions-greater-implications">
                 <title>Greater Implications</title>
                 <p>
                     Strong conclusions don't merely restate your thesis statement but also offer some sense of the greater implications or applications of your argument. For instance, you could examine an influence your topic had on another issue, identify its historical significance, or pose practical applications or potential resolutions to your stated problem or question. The conclusion gives you space to briefly explore your topic beyond the prompt or scope of the paper, so use it! Be creative! Make a statement! When considering the greater implications of your argument, it may be helpful to ask yourself the following questions:
@@ -416,7 +416,7 @@
                 </p>
             </paragraphs>
         </subsection>
-        <subsection>
+        <subsection xml:id="conclustion-strategy">
             <title>Strategies for Writing Effective Conclusions</title>
             <p>Now that you know the basic parts of a conclusion, here are some tips and strategies to make yours as effective as it can be.</p>
             <paragraphs>
@@ -483,7 +483,7 @@
         </paragraphs>
         <paragraphs>
             <title>Compartmentalize</title>
-            <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (see <xref ref="tricks-use-technology" text="title"/> below).</p>
+            <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (Remember you can <xref ref="tricks-use-technology" text="title"/>).</p>
         </paragraphs>
         <sidebyside width="50%">
             <image source="images/WP-CutePenguin"/>
@@ -518,7 +518,7 @@
             <image source="images/WP-LoggersLiveGreen"/>
         </sidebyside>
     </section>
-    <section>
+    <section xml:id="process-revising">
         <title>Revising</title>
         <introduction>
             <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the Center for Writing, Learning, and Teaching (<init>CWLT</init>), we focus largely on <acro>HOC</acro>s.</p>
@@ -526,35 +526,35 @@
                 <image source="images/WP-GoodThings"/>
             </sidebyside>
             <p>
-                As you're revising, pay attention to these HOCs:</p>
-                <paragraphs>
+                As you're revising, pay attention to these <acro>HOC</acro>s:</p>
+                <paragraphs xml:id="par-revising-thesis">
                     <title>Thesis</title>
                         <p>Is it argumentative? Does it indicate the sequence of your essay? Is it specific?</p>
                         <p>For instance, a statement such as <q>I dislike broccoli</q> does none of these things. But a statement more along the lines of <q>By recording and examining the verbal and non verbal reactions of college students to eating broccoli, I argue that broccoli provokes feelings of disgust from the majority of college students</q> encapsulates the argument, mentions the evidence to be examined, and hints at the progression of the essay.</p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-revising-topic-sentences">
                     <title>Topic Sentences</title>
                         <p>Do they articulate the main point of your paragraph?</p>
                         <p>Topic sentences should indicate the main point of the paragraphs that they head. For instance, a topic sentence such as <q>Scientists claim that broccoli is a good source of protein and Vitamin E</q> tells the reader that this paragraph will discuss some of the nutritional benefits of broccoli.</p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-revising-transitions">
                     <title>Transitions</title>
                         <p>Do they signal the direction that the paragraphs take?</p>
                         <p>Transitional words such as <q>whereas,</q> <q>however,</q> <q>in addition,</q> and <q>although</q> can be helpful to elucidate the relation between the paragraph and the previous one (see <xref ref="transitions"/>).</p>
                         <p>For instance, a transitioned topic sentence such as <q>While dieticians expound the nutritional value of broccoli, college students insist on its inedibility</q> signals a shift from a paragraph on the nutritional benefit of broccoli to one recording college students<rsq/> disgust at broccoli.</p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-revising-evidence">
                     <title>Evidence</title>
                         <p>In general, do you perform some type of (textual) analysis?</p>
                         <p>For instance, if one student said, <q>When I eat broccoli, my soul shrinks and my hands shake and my insides cleave to the sides of my stomach to avoid the broccoli as it plummets down my digestive tract,</q> I might analyze her statement by saying, <q>The student's hyperbolic and anaphoric description of her reaction to ingesting broccoli, indicated by her literalizing of otherwise figural images, reveals the intensity of her reaction toward broccoli.</q></p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-revising-concluding-sentences">
                     <title>Concluding Sentence</title>
                         <p>Is the reader left with a sense of the paragraph's relevance to the thesis?</p>
                         <p>Include a statement linking the point made in the paragraph to the thesis. Where does it fit in the architecture of the paper?</p>
                         <p>For instance: <q>The qualitative strength of students<rsq/> verbal reactions to eating broccoli suggests their strong aversion to the vegetable.</q></p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-revising-conclusion">
                     <title>Conclusion</title>
                         <p>Does it encapsulate the argument of the paper in a new way? Is there a sense of broader significance or application?</p>
                         <p>For instance, the conclusion</p>
@@ -604,7 +604,7 @@
                 </paragraphs>
         </subsection>
     </section>
-    <section>
+    <section xml:id="process-overcoming-obstacles">
         <title>Overcoming Obstacles</title>
         <introduction>
             <p>Over the course of your writing process, you will inevitably run into roadblocks, get stuck, or have moments of panic. <em>These obstacles and feelings are completely normal.</em> Even the most accomplished professional and academic writers experience writer's block, anxiety, and frustration. The key to overcoming these paralyzing feelings is to develop strategies to use when they arise. As you practice these strategies, you will become better at knowing which strategy to use in order to overcome an obstacle most pleasantly and efficiently.</p>
@@ -632,8 +632,10 @@
                     <p>Keep reading<nbsp/><ellipsis/></p>
             </paragraphs>
         </subsection>
-        <subsection><title>Managing Anxiety</title>
-            <paragraphs><title>Know that you will be okay</title>
+        <subsection xml:id="overcoming-managing-anxiety">
+            <title>Managing Anxiety</title>
+            <paragraphs>
+                <title>Know that you will be okay</title>
                 <p>You will survive writing this paper. Although grades, improvement, and learning are important, your worth as a human being and as a student does not revolve around one college assignment.</p>
             </paragraphs>
             <paragraphs><title>You are not alone</title>
@@ -646,7 +648,8 @@
                 <p>Breathe for a few minutes. Go for a walk, do some yoga, call someone, or watch a funny video on YouTube.</p>
             </paragraphs>
         </subsection>
-        <subsection><title>Managing Frustration</title>
+        <subsection xml:id="overcoming-managing-frustration">
+            <title>Managing Frustration</title>
             <paragraphs><title>Writing is frustrating</title>
                 <p>Words don't always come out in the way you hope they do, and sometimes you just don't know what to say. Acknowledging that you're frustrated may be enough to reorient yourself in order to try again.</p>
             </paragraphs>
@@ -660,7 +663,8 @@
                 <p>If you're too frustrated to continue, do something else entirely and try again later.</p>
             </paragraphs>
         </subsection>
-        <subsection><title>Managing Time</title>
+        <subsection xml:id="overcoming-managing-time">
+            <title>Managing Time</title>
         <sidebyside width="50%">
             <image source="images/clock"/>
         </sidebyside>

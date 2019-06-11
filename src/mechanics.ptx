@@ -13,66 +13,67 @@
         <subsection xml:id="parts-of-speech">
             <title>Parts of Speech</title>
             <p>Each word in a sentence belongs to a part of speech. There are eight parts of speech: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Words can belong to multiple parts of speech, depending on how they're being used. By being able to identify the part of speech a word falls into, you can better understand the underlying forms and meanings of a sentence.</p>
-            <list xml:id="eight-parts-of-speech">
-                <paragraphs><title>Here are the eight parts of speech and some examples</title>
-                <dl>
-                    <li>
-                        <title><term>Noun</term></title>
-                        <p>person, place, or thing</p>
-                        <p>Examples: book, cat, dog, I, me, Puget Sound</p>
-                    </li>
-                    <li>
-                        <title><term>Verb</term></title>
-                        <p>action word</p>
-                        <p>Examples: agonize, do, jump, run, swim</p>
-                    </li>
-                    <li>
-                        <title><term>Adjective</term></title>
-                        <p>describes a noun</p>
-                        <p>Examples: cold, green, rainy, windy</p>
-                    </li>
-                    <li>
-                        <title><term>Adverb</term></title>
-                        <p>describes a verb (often ends in -ly)</p>
-                        <p>Examples: beautifully, fast, quickly, slowly</p>
-                    </li>
-                    <li>
-                        <title><term>Pronoun</term></title>
-                        <p>replaces a noun</p>
-                        <p>Examples: he, his, her, it, she, they, theirs</p>
-                    </li>
-                    <li>
-                        <title><term>Preposition</term></title>
-                        <p>describes timing or placement of a noun or pronoun</p>
-                        <p>Examples: about, at, beside, by, during, for, instead of</p>
-                    </li>
-                    <li>
-                        <title><term>Conjunction</term></title>
-                        <p>connects phrases and clauses<dl>
+                <paragraphs xml:id="eight-parts-of-speech">
+                    <title>Here are the eight parts of speech and some examples</title>
+                    <p>
+                        <dl>
                             <li>
-                                <title><term>Coordinating conjunction</term></title>
-                                <p>coordinates two ideas that are emphasized equally in the sentence</p>
-                                <p>Examples: for, and, nor, but, or, yet, so</p>
-                                <aside>
-                                    <title>Fun Fact</title>
-                                    <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
-                                </aside>
+                                <title><term>Noun</term></title>
+                                <p>person, place, or thing</p>
+                                <p>Examples: book, cat, dog, I, me, Puget Sound</p>
                             </li>
                             <li>
-                                <title><term>Subordinating conjunction</term></title>
-                                <p>subordinates one idea or clause to another idea or clause</p>
-                                <p>Examples: after, although, because, since, than, whether, while</p>
+                                <title><term>Verb</term></title>
+                                <p>action word</p>
+                                <p>Examples: agonize, do, jump, run, swim</p>
                             </li>
-                        </dl></p>
-                    </li>
-                    <li>
-                        <title><term>Interjection</term></title>
-                        <p>an exclamation that shows the writer's emotions</p>
-                        <p>Examples: Ah!, crap, duh, huh?, no!, wow</p>
-                    </li>
-                </dl>
+                            <li>
+                                <title><term>Adjective</term></title>
+                                <p>describes a noun</p>
+                                <p>Examples: cold, green, rainy, windy</p>
+                            </li>
+                            <li>
+                                <title><term>Adverb</term></title>
+                                <p>describes a verb (often ends in -ly)</p>
+                                <p>Examples: beautifully, fast, quickly, slowly</p>
+                            </li>
+                            <li>
+                                <title><term>Pronoun</term></title>
+                                <p>replaces a noun</p>
+                                <p>Examples: he, his, her, it, she, they, theirs</p>
+                            </li>
+                            <li>
+                                <title><term>Preposition</term></title>
+                                <p>describes timing or placement of a noun or pronoun</p>
+                                <p>Examples: about, at, beside, by, during, for, instead of</p>
+                            </li>
+                            <li>
+                                <title><term>Conjunction</term></title>
+                                <p>connects phrases and clauses<dl>
+                                    <li>
+                                        <title><term>Coordinating conjunction</term></title>
+                                        <p>coordinates two ideas that are emphasized equally in the sentence</p>
+                                        <p>Examples: for, and, nor, but, or, yet, so</p>
+                                        <aside>
+                                            <title>Fun Fact</title>
+                                            <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
+                                        </aside>
+                                    </li>
+                                    <li>
+                                        <title><term>Subordinating conjunction</term></title>
+                                        <p>subordinates one idea or clause to another idea or clause</p>
+                                        <p>Examples: after, although, because, since, than, whether, while</p>
+                                    </li>
+                                </dl></p>
+                            </li>
+                            <li>
+                                <title><term>Interjection</term></title>
+                                <p>an exclamation that shows the writer's emotions</p>
+                                <p>Examples: Ah!, crap, duh, huh?, no!, wow</p>
+                            </li>
+                        </dl>
+                    </p>
                 </paragraphs>
-            </list>
             <sidebyside width="50%">
                 <image source="images/LM-PartsofSpeech"/>
             </sidebyside>
@@ -103,15 +104,15 @@
             <subsubsection xml:id="clauses">
                 <title>Clauses</title>
                 <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <term>subject</term> and a <term>predicate</term>, <em>which also means that every clause has a noun and a verb</em>. Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
-                <paragraphs>
+                <paragraphs xml:id="par-clauses-recall">
                     <title>Recall</title>
                     <p>The subject is the thing or person a sentence is about. The predicate is the part of a sentence that modifies (<ie/>, tells you what's going on with) the subject. The predicate also contains a verb and sometimes a direct or an indirect object or different kinds of phrases.</p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-clauses-independent">
                     <title>Independent/Main</title>
                     <p>An independent clause, also called a main clause, has a subject and a verb and conveys a complete thought.</p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-clauses-subordinate">
                     <title>Subordinate/Dependent</title>
                     <p>The primary feature of subordinate/dependent clauses is that they cannot stand alone because they do not form a complete thought. Subordinate/dependent clauses are dependent on an independent clause to make sense.</p>
                 </paragraphs>
@@ -143,22 +144,27 @@
                     </p>
                 </example>
                 <list>
-                    <paragraphs><title>Clauses</title>
-                    <ul>
-                        <li>Begin with subordinating conjunctions.</li>
-                        <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li>
-                    </ul>
+                    <!-- can be folded in with preceding paragraph on dependent clauses, I think. NOT REFERENCED ANYWHERE. that's a new xmlid -->
+                    <paragraphs xml:id="par-clauses-clauses">
+                        <title>Clauses</title>
+                        <p>
+                            <ul>
+                                <li>Begin with subordinating conjunctions.</li>
+                                <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li>
+                            </ul>
+                        </p>
                     </paragraphs>
                 </list>
-                <list>
-                    <paragraphs><title>Adjective/Relative Clauses</title>
-                    <ul>
-                        <li>Act as adjectives to modify a noun (the subject)</li>
-                        <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
-                        <li>Answers the question(s): Which one? How many? What kind?</li>
-                    </ul>
-                    </paragraphs>
-                </list>
+                <paragraphs xml:id="par-clauses-adjective-clauses">
+                    <title>Adjective/Relative Clauses</title>
+                    <p>
+                        <ul>
+                            <li>Act as adjectives to modify a noun (the subject)</li>
+                            <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
+                            <li>Answers the question(s): Which one? How many? What kind?</li>
+                        </ul>
+                    </p>
+                </paragraphs>
                 <example>
                     <p>
                         <q>The Grizz costume, <em>which belongs to the school</em>, is to be used only at official school events.</q>
@@ -179,15 +185,16 @@
                         </ul>
                     </p>
                 </example>
-                <list>
-                    <paragraphs><title>Adverb Clauses</title>
-                    <ul>
-                        <li>Act as adverbs to modify the verb in a sentence</li>
-                        <li>Begin with a subordinating conjunction (although, because, after, until, <etc/>)</li>
-                        <li>Answers the question(s): How? When? Why? Where?</li>
-                    </ul>
-                    </paragraphs>
-                </list>
+                <paragraphs xml:id="par-clauses-adverb">
+                    <title>Adverb Clauses</title>
+                    <p>
+                        <ul>
+                            <li>Act as adverbs to modify the verb in a sentence</li>
+                            <li>Begin with a subordinating conjunction (although, because, after, until, <etc/>)</li>
+                            <li>Answers the question(s): How? When? Why? Where?</li>
+                        </ul>
+                    </p>
+                </paragraphs>
                 <example>
                     <p>
                         <q>I ran around the track until I couldn't run any more.</q>
@@ -208,15 +215,16 @@
                         </ul>
                     </p>
                 </example>
-                <list>
-                    <paragraphs><title>Noun Clauses</title>
-                    <ul>
-                        <li>Act as nouns</li>
-                        <li>Begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, <etc/></li>
-                        <li>Answers the question(s): What? Who?</li>
-                    </ul>
+                    <paragraphs xml:id="par-clauses-noun">
+                        <title>Noun Clauses</title>
+                        <p>
+                            <ul>
+                                <li>Act as nouns</li>
+                                <li>Begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, <etc/></li>
+                                <li>Answers the question(s): What? Who?</li>
+                            </ul>
+                        </p>
                     </paragraphs>
-                </list>
                 <example>
                     <p>
                         <q>Whoever gave me that cookie is the best!</q>
@@ -243,7 +251,11 @@
                     <p>Whereas a clause has both a noun <em>and</em> a verb, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an adjective).</p>
                 </assemblage>
                 <list xml:id="common-types-of-phrases">
-                    <paragraphs><title>The most common types of phrases</title>
+                    <title>List of common types of phrases</title>
+                    <caption>Commonly occuring phrase constructions</caption>
+                    <introduction>
+                        <p>Here are some of the types of phrases you'll see most often:</p>
+                    </introduction>
                     <dl>
                         <li>
                             <title>Infinitive phrases</title>
@@ -276,7 +288,6 @@
                             <p><q>Although it may seem like a good idea, <em>having pizza from The Cellar for every meal</em> probably isn't the way to go.</q></p>
                         </li>
                     </dl>
-                    </paragraphs>
                 </list>
             </subsubsection>
             <subsubsection xml:id="modifiers">
@@ -546,7 +557,7 @@
             <introduction>
                 <p>As we have seen, subjects and verbs (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <init>SAE</init>, you wouldn't say <q>Amanda <em>jog</em> to the field house,</q> but rather <q>Amanda <em>jogs</em> to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
             </introduction>
-            <subsubsection>
+            <subsubsection xml:id="agreement-problems">
                 <title>Problems with subject-verb agreement</title>
                 <p>Any student of a foreign language knows that consistent subject and verb agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular), or<mdash/>in the middle of complex sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
                 <p>Here are a few rules to help guide you through tricky sentences.</p>
@@ -608,7 +619,7 @@
                 </p>
                 <p>You are living through an important and interesting time in the progression of the English language. <q>Formal</q> and <q>standard</q> English (among most other languages) has historically belonged to people in power, people who have used (and still use) language to discriminate against and subjugate individuals who speak non standard forms of English. In spite of this subjugation, speakers of English<mdash/>standard and non standard<mdash/>are beginning to gain power and to reclaim English from those who use it to oppress. Since language and power are intimately intertwined, shifts in power inevitably lead to subsequent shifts in language. These shifts explain why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender-neutral, third-person singular pronoun. While conservative grammarians may lament the devolution of <q>proper English,</q> the reality is that language belongs to its speakers, not to those in power. By acknowledging these shifts in language (and the reasons behind them) within academia, we work toward increasing the access to and inclusivity of the academy. What inevitably follows are new perspectives, experiences, and identities that may lead to even greater equity among scholars and the types of knowledge they produce.</p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-s-endings">
                 <title>-S Endings</title>
                 <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
                 <sidebyside>
@@ -620,7 +631,7 @@
                     </ul>
                 </sidebyside>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-is-are">
                 <title>Is/Are</title>
                 <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                 <p>
@@ -633,7 +644,7 @@
                     </ul>
                 </p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-either-neither">
                 <title>Either/Or, Neither/Nor</title>
                 <p>
                     If <q>either</q> and <q>neither</q> are being used to differentiate a singular item or a singular item among several, they are singular pronouns and need a singular verb.
@@ -667,7 +678,7 @@
                     </ul>
                 </p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-of">
                 <title>Of</title>
                 <p>
                     When using a phrase beginning with <q>of</q> to modify a subject, the subject always comes before the phrase. Therefore, the verb should agree with the subject before the word <q>of.</q>
@@ -677,7 +688,7 @@
                     </ul>
                 </p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-and-or">
                 <title>And/Or</title>
                 <p>
                     When using <q>and</q> in a sentence to combine two or more subjects, use a plural verb. When using <q>or</q> in a sentence to differentiate between two or more subjects, the verb should agree with the plurality of whatever subject is closest to it.
@@ -688,7 +699,7 @@
                     </ul>
                 </p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-confusing-modifiers">
                 <title>Confusing Modifiers</title>
                 <p>
                     Sometimes the subject and verb are separated by modifying phrases and adjectives that describe the subject. While modifiers are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicised.
@@ -705,7 +716,7 @@
                     </ul></p>
                 </assemblage>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-collective-nouns">
                 <title>Collective Nouns</title>
                 <p>There are some subjects that may be singular or plural depending on how you use them.</p>
                 <p>In order to determine whether to use a singular or a plural verb, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
@@ -765,7 +776,7 @@
                     </dl>
                 </sidebyside>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="agreement-fractional-expressions">
                 <title>Fractional Expressions</title>
                 <p>(half/part/some/a majority/all/any/more/most of)</p>
                 <p>Fractional expressions can agree with either plural or singular verbs. Pick the type of verb based on the meaning and context of the fractional expression.</p>
@@ -811,13 +822,23 @@
                     <li><p>Combine the sentence fragment with another sentence.</p></li>
                 </ul>
             </p>
+            <example>
+                <title>Revising sentence fragments</title>
+                <p>
+                    <ul>
+                        <li><p><q>To the <acro>SUB</acro>.</q> → <q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q> In this revision, we combine the fragment with the independent clause, <q>You should take your <acro>SUB</acro> dishes back.</q> By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.</p></li>
+                        <li><p><q>All night long!</q> → <q>I was in the library all night long!</q> Just like the previous example, this fix gets rid of the fragment and makes the sentence more specific. <q>How long were you in the library?</q> <q>I was in the library all night long!</q></p></li>
+                    </ul>
+                </p>
+            </example>
+                <!-- Delete if Julie approves -->
+            <!-- Examples of sentence fragments and revisions:
             <p>
-                Examples of sentence fragments and revisions:
                 <ul>
                     <li><p><q>To the <acro>SUB</acro>.</q> → <q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q> In this revision, we combine the fragment with the independent clause, <q>You should take your <acro>SUB</acro> dishes back.</q> By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.</p></li>
                     <li><p><q>All night long!</q> → <q>I was in the library all night long!</q> Just like the previous example, this fix gets rid of the fragment and makes the sentence more specific. <q>How long were you in the library?</q> <q>I was in the library all night long!</q></p></li>
                 </ul>
-            </p>
+            </p> -->
         </subsection>
         <subsection xml:id="problems-with-parallelism">
             <title>Problems with Parallelism</title>
@@ -825,7 +846,7 @@
                 <p>Parallel sentence structure is a common pattern used to illustrate two or more ideas, items, or phrases that are equally emphasized in a sentence. It's helpful to use parallel structure when you want to include a list of something or apply a series of words, phrases, or clauses to the same adjective or pronoun. This condenses the sentence, making it more efficient and less repetitive. For instance, say Polly likes to do three things. One way of listing those three things would be to write, <q>Polly likes to read books, likes to drink coffee, and likes to pet cats.</q> But that's a pretty tedious sentence. Instead, you could use parallel structure to condense the sentence: <q>Polly likes to read books, drink coffee, and pet cats.</q> In this sentence, the verb phrase <q>likes to</q> applies equally to the infinitive phrases <q>read books,</q> <q>drink coffee,</q> and <q>pet cats.</q></p>
                 <p>However, sometimes it's easy to lose yourself while using parallel sentence structure by being inconsistent with your word, phrase, or clause forms. For instance, consider this common incorrect rewriting of the above sentence: <q>Polly likes to read books, drink coffee, and petting cats.</q> This is incorrect parallel sentence structure because the word forms are not the same; the verb phrase <q>likes to</q> applies to reading books and drinking coffee, but not to petting cats because the verb <q>petting</q> takes care of itself. The sentence indicates that Polly <q>likes to read books,</q> <q>likes to drink coffee,</q> and <q>likes to petting cats,</q> which has too many active verbs (<q>likes to</q> and <q>petting</q>). By replacing the infinitive form of <q>to pet</q> with the gerund form <q>petting,</q> the sentence now doesn't make very much sense. Sometimes inconsistent forms can be tricky to identify, especially when you have a series of complex clauses or phrases. Below are some common examples of parallel structure errors to watch out for.</p>
             </introduction>
-            <subsubsection>
+            <subsubsection xml:id="parallelism-mixing-word-forms">
                 <title>Mixing Word Forms</title>
                 <p>The above sentence is an example of mixing word forms (to read, to drink, and petting). If you have a verb that applies to two or more of the items in the series, it must apply to all items equally in order to preserve correct parallel structure. Take the following example of mixing word forms:</p>
                 <blockquote>
@@ -843,7 +864,7 @@
                     <image source="images/LM-Oppenheimer"/>
                 </sidebyside>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="parallelism-mixing-clause-forms">
                 <title>Mixing Clause Forms</title>
                 <p>The same rule may be applied to a series of complex clauses. If you have a verb that applies to two or more clauses in the series, it must apply equally to all clauses in order to maintain parallel structure. Take the following example of mixing clause forms:</p>
                 <blockquote>
@@ -854,7 +875,7 @@
                     <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
                 </blockquote>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="parallelism-two-nouns">
                 <title>Two Nouns Following One Adjective</title>
                 <p>When you have two or more nouns following an adjective, that adjective must apply to all nouns equally. This can be a tricky mistake to identify; when we read, we often only think to apply the adjective to the noun that immediately follows it in the sentence. However, it's important to make sure that either all nouns share the same adjective equally or each noun has its own adjective in a series. Take the following example of an adjective that is incorrectly applied to both nouns:</p>
                 <blockquote>
@@ -879,7 +900,7 @@
                     </ol>
                 </p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="parallelism-list-after-colon">
                 <title>Lists After a Colon</title>
                 <p>When you have a list after a colon, the parallel structure rule should be equally applied to all items in that list. Take this example of a list that does not follow parallel structure:</p>
                 <blockquote>
@@ -902,13 +923,13 @@
         </subsection>
         <subsection xml:id="problems-with-modifiers">
             <title>Problems with Modifiers</title>
-            <subsubsection>
+            <subsubsection xml:id="parallelism-misplaced-modifiers">
                 <title>Misplaced Modifiers</title>
                 <p>While modifiers can be extremely useful for spicing up sentences, they can sometimes be misplaced too far from the noun they are intending to describe. These <term>misplaced modifiers</term> not only make the sentence confusing to read; they also may actually end up describing something they're not supposed to describe. For instance, take the following sentence:</p>
                 <blockquote>
                     <p><q>Towering above the heads of the students, we gazed in awe up at the sequoia tree.</q></p>
                 </blockquote>
-                <p>In this sentence, <q>towering above the heads of the students</q> is a participial phrase (see <xref ref="participial-phrases" text="title"/> in <xref ref="common-types-of-phrases"/>). However, it's currently being used to describe the pronoun <q>we.</q> Unless <q>we</q> are giants, this sentence doesn't make much sense; how can <q>we</q> tower above the heads of students? Instead, the participial phrase is likely intended to describe the sequoia tree. Consider a revision that places the modifier next to the noun it describes:</p>
+                <p>In this sentence, <q>towering above the heads of the students</q> is a participial phrase (see <xref ref="participial-phrases" text="title"/>). However, it's currently being used to describe the pronoun <q>we.</q> Unless <q>we</q> are giants, this sentence doesn't make much sense; how can <q>we</q> tower above the heads of students? Instead, the participial phrase is likely intended to describe the sequoia tree. Consider a revision that places the modifier next to the noun it describes:</p>
                 <blockquote>
                     <p><q>We gazed in awe up at the sequoia tree towering above the heads of the students.</q></p>
                 </blockquote>
@@ -938,7 +959,7 @@
                     </statement>
                 </example>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="parallelism-dangling-modifiers">
                 <title>Dangling Modifiers</title>
                 <p>In addition to misplaced modifiers, a <term>dangling modifier</term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
                 <blockquote>
@@ -978,7 +999,7 @@
     </section>
     <section xml:id="style-and-word-choice">
         <title>Style and Word Choice</title>
-        <subsection>
+        <subsection xml:id="style-writing-clearly">
             <title>Writing Clearly and Precisely</title>
             <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply.</p>
             <p>
@@ -995,30 +1016,42 @@
                 </ul>
             </p>
             <p>These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.</p>
-            <paragraphs>
+            <paragraphs xml:id="par-writing-precisely-this">
                 <title>Broad use of <q>this,</q> especially as the subject of a sentence</title>
                 <p>Readers like specificity. Using <q>this</q> too much, especially as the subject of a sentence (<eg/> <q>This is what I'm talking about.</q>) conveys too much ambiguity. To what does <q>this</q> refer? Instead of writing <q>this,</q> try to use an interesting word that refers specifically to what you want to talk about. For example, I could write an essay about my dog, Chuck, and say, <q>Chuck likes to take walks. This is why I walk him every day.</q> To avoid using <q>this</q> as the subject of the sentence, though, I could say something like: <q>Chuck likes to take walks. I walk him every day because he loves walks so much.</q> In this sentence, <q>this</q> is replaced with <q>because he loves walks so much.</q></p>
                 <p>You can also simply restructure the sentence(s) to avoid using <q>this</q> as the subject. From the example above, I could also say, <q>Chuck likes to take walks, so I walk him every day.</q> Finally, you can think of a noun that tells your reader what <q>this</q> is referring to: <em>this</em> quote, <em>this</em> information, <em>this</em> verdict, <em>this</em> distinction, <em>this</em> occurrence, <em>this</em> sentiment, <etc/></p>
             </paragraphs>
         </subsection>
-        <subsection>
+        <subsection xml:id="style-effective-words">
             <title>Making Effective Word Choices</title>
             <p>Strong word choice improves the quality of a paper and helps hold the reader's interest; inversely, using words incorrectly or ineffectively can lessen the writer's credibility. As you entrain for forthcoming linguistic endeavors, exploit these pointers to ensure your belles-lettres aren't as annoying and incorrect as this sentence has been.</p>
-            <paragraphs>
+            <paragraphs xml:id="par-effective-words-incorrect">
                 <title>Incorrect Word Choice</title>
                 <p>Incorrect word choice usually occurs when a writer uses a word outside of its standard definition or context. This misuse can happen for a variety of reasons, including the writer having a wrong mental definition of the word, not knowing the word's popular connotation, or using the word in an inappropriate disciplinary context.</p>
             </paragraphs>
-            <list>
-                <paragraphs><title>How to avoid misusing words</title>
-                <ul>
-                    <li><p>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up! (We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p></li>
-                    <li><p>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course). The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p></li>
-                    <li><p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. So how do you avoid misusing words in disciplines with which you are unfamiliar? First, <em>do your course readings</em>! Second, know that you can't avoid every mistake, but that professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p></li>
-                    <li><p>See <xref ref="considering-homophones"/> to avoid misusing words that sound alike.</p></li>
-                </ul>
-                </paragraphs>
-            </list>
-            <paragraphs>
+            <paragraphs xml:id="par-effective-words-misusing">
+                <title>Guidelines to avoid misusing words</title>
+                <p>
+                    <ul>
+                        <li>
+                            <p><em>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up!</em></p>
+                            <p>(We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p>
+                        </li>
+                        <li>
+                            <p><em>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course).</em></p> 
+                            <p>The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p>
+                        </li>
+                        <li>
+                            <p><em>Do your course readings to learn which words have specific (different) meaning in particular disciplines.</em></p>
+                            <p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. You can't avoid every mistake, but professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p>
+                        </li>
+                        <li>
+                            <p><em>Read <xref ref="considering-homophones"/> to avoid misusing words that sound alike.</em></p>
+                        </li>
+                    </ul>
+                </p>
+            </paragraphs>
+            <paragraphs xml:id="par-effective-words-ineffective">
                 <title>Ineffective Word Choice</title>
                 <p>While academic writing usually employs more abstruse and sophisticated language than you find in every day conversation, sometimes using <q>big words</q> simply to sound smart can come across to an audience as pedantic. Words that are overly complicated and obfuscate the meaning of a sentence are therefore ineffective; if the point of writing is to convey meaning clearly, a confusing word should not get in the way of that meaning.</p>
                 <p><em>Alternatively, using words or phrases that are too simplistic, overused, or trite can also ineffectively convey meaning to a reader.</em> Passive sentences, phrases constructed around <q>to be,</q> and clichés like <q>to be honest</q> all diminish the point you're trying to convey to a reader.</p>
@@ -1039,7 +1072,7 @@
                 <image source="images/alternatives-to-boring-words"/>
             </sidebyside>
         </subsection>
-        <subsection>
+        <subsection xml:id="style-using-passive-cautiously">
             <title>Using Passive Constructions Cautiously</title>
             <p>The <term>passive voice</term> is <em>passive</em> because sentences in this structure de-emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take direct objects.</p>
             <p>
@@ -1110,7 +1143,7 @@
                 <p>The large exception to these preferences is science. Most scientific work tends to be written in the passive voice. An active version of the previous sentence would be, <q>Most scientists tend to write in the passive voice.</q> Notice how the first version, the passive one, takes the actor out of the sentence completely. Who does the passive writing in the sciences? The active version answers that question: scientists write in the passive voice in science writing. Sciences tend to use the passive voice to distance the scientist from the science being done. The passive voice is therefore used strategically by the sciences. (Again, the previous sentence could also be active: <q>The sciences (or scientists) therefore use the passive voice strategically.</q>)</p>
             </assemblage>
         </subsection>
-        <subsection>
+        <subsection xml:id="style-using-strong-verbs">
             <title>Using Strong Verbs</title>
             <p>While we use <q>to be</q> frequently in our every day speech, the verb is often too weak as the main verb in formal writing. Uses of <q>to be</q> include: <em>to be, being, am, is, are, was, and were.</em></p>
             <p>Writers prefer not to overuse <q>to be</q> because English contains plenty of stronger (<ie/>, more active, informative, and interesting) verbs. <q>To be</q> also frequently indicates that you are using passive voice. (See item number nine on this list.) Using <q>to be</q> too much thus makes your writing boring or too passive. Which passage below do you prefer?</p>
@@ -1872,7 +1905,7 @@
                         </row>
                     </tabular>
                 </table>
-            <subsubsection>
+            <subsubsection xml:id="homophones-its-its">
                 <title>Incorrect Use of Its and It's</title>
                 <sidebyside width="50%">
                     <image source="images/LM-ItAndRain"/>
@@ -1916,18 +1949,18 @@
             </subsubsection>
         </subsection>
     </section>
-    <section>
+    <section xml:id="mechanics-punctuation-basics">
         <title>Punctuation and Capitalization Basics</title>
-        <subsection>
+        <subsection xml:id="punctuation-punctuation">
             <title>Punctuation</title>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-period">
                 <title>Period <dblbrackets>.</dblbrackets></title>
                 <p>One period:<ul>
                     <li><p>Use periods at the end of complete sentences. ← Like that!</p></li>
                     <li><p>Periods can also go in between and after the letters of certain abbreviations. For example, <eg/>, M.D., <etc/></p></li>
                 </ul></p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-ellipsis">
                 <title>Ellipsis <dblbrackets><ellipsis/></dblbrackets> (AKA: <q>dot dot dot</q>)</title>
                 <p>Use an ellipsis to show that you have omitted part of a quotation.</p>
                 <example>
@@ -1939,7 +1972,7 @@
                     <p>Quoted portion<mdash/><q>I love that the <acro>SUB</acro> has sunbutter <ellipsis/> . It's great because I'm allergic to peanuts.</q></p>
                 </example>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-exclamation">
                 <title>Exclamation <dblbrackets>!</dblbrackets> and Question <dblbrackets>?</dblbrackets> Marks</title>
                 <example>
                     <p><q>Use an exclamation mark when you want to show excitement! (Like this!)</q></p>
@@ -1948,37 +1981,43 @@
                     <p><q>Do you use a question mark when you ask a question? (Answer: Yes, you do.)</q></p>
                 </example>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-comma">
                 <title>Comma <dblbrackets>,</dblbrackets></title>
-                <p>There are five main ways to use a comma. You can use them:<ol>
-                    <li>
-                        <p>to connect <em>two complete sentences</em> with the coordinating conjunctions that make up the acronym <acro>FANBOYS</acro> (for, and, nor, but, or, yet, so).</p>
-                        <p><q>I love using commas, but I need to remember the five main ways to use them!</q></p>
-                        <p>BUT: You DON'T need to put a comma before one of the FANBOYS words if what precedes or follows the word is not a complete sentence (<eg/>, <q>I love using commas but can't remember how to use them</q> → <q>but can't remember how to use them</q> is not a complete sentence).</p>
-                    </li>
-                    <li>
-                        <p>to separate an <em>introductory</em> or <em>explanatory</em> phrase from the rest of the sentence.</p>
-                        <p><q>Having finished her last final, Shelly skipped with joy down Commencement Walk.</q></p>
-                        <p><q>The dog, who had gotten in the habit of walking every day at 3 p.m., grabbed his leash and ran to his owner.</q></p>
-                    </li>
-                    <li>
-                        <p>with transitional phrases (however, moreover, therefore, and for example).</p>
-                        <p><q>For example, you can use a comma in a sentence like this.</q></p>
-                    </li>
-                    <li>
-                        <p>to separate items in a list or series.</p>
-                        <p><q>My favorite foods from the <acro>SUB</acro> include hummus, Greek yogurt, and apples.</q></p>
-                    </li>
-                    <li>
-                        <p>with coordinate adjectives (<ie/>, adjectives that you could combine with <q>and</q>).</p>
-                        <p><q>My RA is the nicest, funniest person on campus.</q></p>
-                    </li>
-                </ol></p>
+                <list xml:id="list-five-comma-uses">
+                    <caption>The five main uses of a comma</caption>
+                    <introduction>
+                        <p>There are five main ways to use a comma. You can use them:</p>
+                    </introduction>
+                    <ol>
+                        <li>
+                            <p>to connect <em>two complete sentences</em> with the coordinating conjunctions that make up the acronym <acro>FANBOYS</acro> (for, and, nor, but, or, yet, so).</p>
+                            <p><q>I love using commas, but I need to remember the five main ways to use them!</q></p>
+                            <p>BUT: You DON'T need to put a comma before one of the FANBOYS words if what precedes or follows the word is not a complete sentence (<eg/>, <q>I love using commas but can't remember how to use them</q> → <q>but can't remember how to use them</q> is not a complete sentence).</p>
+                        </li>
+                        <li>
+                            <p>to separate an <em>introductory</em> or <em>explanatory</em> phrase from the rest of the sentence.</p>
+                            <p><q>Having finished her last final, Shelly skipped with joy down Commencement Walk.</q></p>
+                            <p><q>The dog, who had gotten in the habit of walking every day at 3 p.m., grabbed his leash and ran to his owner.</q></p>
+                        </li>
+                        <li>
+                            <p>with transitional phrases (however, moreover, therefore, and for example).</p>
+                            <p><q>For example, you can use a comma in a sentence like this.</q></p>
+                        </li>
+                        <li>
+                            <p>to separate items in a list or series.</p>
+                            <p><q>My favorite foods from the <acro>SUB</acro> include hummus, Greek yogurt, and apples.</q></p>
+                        </li>
+                        <li>
+                            <p>with coordinate adjectives (<ie/>, adjectives that you could combine with <q>and</q>).</p>
+                            <p><q>My RA is the nicest, funniest person on campus.</q></p>
+                        </li>
+                    </ol>
+                </list>
                 <paragraphs>
                     <title>Note</title>
                     <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), commas (and periods) go inside quotation marks.</p>
                 </paragraphs>
-                <paragraphs>
+                <paragraphs xml:id="par-comma-splices">
                     <title>Comma splices</title>
                     <p>These occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" text="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q></em> Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused?</p>
                     <p>
@@ -1996,7 +2035,7 @@
                     </sidebyside>
                 </paragraphs>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-semicolon">
                 <title>Semicolon <dblbrackets>;</dblbrackets></title>
                 <p>There are two main reasons to use a semicolon:<ol>
                     <li>
@@ -2013,7 +2052,7 @@
                     <p>Don't capitalize the word following the semicolon unless it's a proper noun.</p>
                 </paragraphs>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-colon">
                 <title>Colon <dblbrackets>:</dblbrackets></title>
                 <p>Only use a colon after a complete sentence. Colons tell a reader that what follows is directly related to the sentence that preceded the colon. The following information could be a list of items or another clause.</p>
                 <example>
@@ -2027,18 +2066,18 @@
                     <p>You don't usually need to capitalize the word following a colon (unless it's a proper noun), but some style guides recommend it, so if you have questions, as always, ask your professor.</p>
                 </paragraphs>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-dash">
                 <title>Dash <dblbrackets><ndash/></dblbrackets> and <dblbrackets><mdash/></dblbrackets></title>
                 <p>Dashes<mdash/>and there are two types<mdash/>are used to hyphenate, to indicate ranges, or to set apart important or noteworthy things in a sentence.</p>
                 <p>The <em>en dash</em> (also known as a hyphen). This dash is the dash that appears when you hit the dash key once. You can use it to hyphenate words (like in-depth) or to show a range (1894<ndash/>1904 or numbers 1<ndash/>5).</p>
                 <p>The <em>em dash</em> (also known as a dash). Make an em dash by hitting the dash key twice<mdash/>like this! These longer dashes are what you use to set things apart<mdash/>you can use them with fragments or complete sentences. Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.</p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-parentheses">
                 <title>Parentheses <dblbrackets>(these)</dblbrackets></title>
                 <p>Aside from citations (see <xref ref="citations"/>), parentheses are used in writing to separate words, phrases, or sentences from the main text. When you want to add additional information that doesn't fit well within the main part of a sentence, you can use parentheses to inform your reader while simultaneously keeping your sentence flowing (like this). (Or you can just use parentheses on their own to indicate that something is an aside or afterthought.) For more details on how to use other types of punctuation with parentheses (<eg/>, where does the period go?!), see <xref ref="period-inside-or-outside"/>!</p>
                 <p>You can also use parentheses in area codes, like 253.879.3404 (which is, coincidentally, the phone number to the Center for Writing, Learning, and Teaching [<init>CWLT</init>]).</p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-brackets">
                 <title>Brackets <dblbrackets>[these]</dblbrackets></title>
                 <p>
                     Brackets are kind of weird and don't seem to come up much, but, in general, you can associate them with quoted or parenthetical material. You should use brackets when you:
@@ -2068,14 +2107,15 @@
                     </ul>
                 </p>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-quotations">
                 <title>Quotation Marks</title>
                 <p>When you quote something, you are exactly replicating the words, phrases, and sentences of another source. Therefore, whenever you are quoting something directly, it's always a good idea to make sure you copy the quotation exactly as it appears in the source. Otherwise, you're inadvertently changing what the quote is saying! But sometimes when you write longer and more complicated quotes, you may forget to insert commas or emphases, type a wrong word, or end the quote incorrectly. Besides simply trying to copy the quote exactly, there are a few other guidelines to keep in mind while incorporating quotes into your writing.</p>
                 <sidebyside width="50%">
                     <image source="images/LM-CircleLogoAmpersand"/>
                 </sidebyside>
                 <list>
-                    <paragraphs><title>Quoting complete sentences</title>
+                    <paragraphs>
+                        <title>Quoting complete sentences</title>
                     <dl>
                         <li>
                             <title>Enclose the quote within two sets of quotation marks</title>
@@ -2184,7 +2224,7 @@
                     </paragraphs>
                 </list>
             </subsubsection>
-            <subsubsection>
+            <subsubsection xml:id="punctuation-capitalization-apostrophes">
                 <title>Apostrophes</title>
                 <p>Apostrophes, or single quotation marks, most often mark possession. However, due to the inconsistent nature of English morphology, the task of marking possession is rather complicated.</p>
                 <sidebyside width="50%">
@@ -2280,7 +2320,7 @@
                 </assemblage>
             </subsubsection>
         </subsection>
-        <subsection>
+        <subsection xml:id="punctuation-capitalization">
             <title>Capitalization</title>
             <p>If English were a more consistent language, capitalization might not be such a pain. Unfortunately, it's not, though there are some general guidelines that can help you to decide whether a word should be capitalized or not.</p>
             <list>

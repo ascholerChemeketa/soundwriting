@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
-    <list>
+    <list xml:id="good-too-know-campus-study">
         <caption>On-Campus Places to Study</caption>
         <ul>
             <li><p>Diversions/Oppenheimer</p></li>
@@ -24,7 +24,7 @@
             <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
         </ul>
     </list>
-    <list>
+    <list xml:id="good-to-know-off-campus-study">
         <caption>Off-Campus Places to Study</caption>
         <ul>
             <li><p>Metronome</p></li>
