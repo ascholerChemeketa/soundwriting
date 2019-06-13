@@ -12,7 +12,7 @@
             <sidebyside width="50%">
                 <image source="images/HR-StackOfBooks"/>
             </sidebyside>
-            <p>Of the sources you'll be working with, many will be primary and secondary. Sometimes it can be difficult to determine whether a source is primary or secondary. For instance, if you're writing an essay for a literature course on Shakespeare's <em>King Lear</em>, then <em>King Lear</em> would likely be your primary source. However, if you're writing a paper analyzing patterns in the critical reception of <em>King Lear</em>, then you may find yourself working with what would otherwise be considered secondary sources<mdash/>critical interpretations of the play, for instance<mdash/>and analyzing those. (For more information on the types of sources, see this <url href="http://collins.pugetsound.edu/Research_Fundamentals_Sources/story.html">Research Fundamentals guide</url> from Collins Library.) That said, in order to find any source, it's important to know what kind of source you're looking for. Think about the kind of information you need, and come up with a list of search terms<mdash/>particular words and concepts you think would return helpful titles.</p>
+            <p>Of the sources you'll be working with, many will be primary and secondary. Sometimes it can be difficult to determine whether a source is primary or secondary. For instance, if you're writing an essay for a literature course on Shakespeare's <pubtitle>King Lear</pubtitle>, then <pubtitle>King Lear</pubtitle> would likely be your primary source. However, if you're writing a paper analyzing patterns in the critical reception of <pubtitle>King Lear</pubtitle>, then you may find yourself working with what would otherwise be considered secondary sources<mdash/>critical interpretations of the play, for instance<mdash/>and analyzing those. (For more information on the types of sources, see this <url href="http://collins.pugetsound.edu/Research_Fundamentals_Sources/story.html">Research Fundamentals guide</url> from Collins Library.) That said, in order to find any source, it's important to know what kind of source you're looking for. Think about the kind of information you need, and come up with a list of search terms<mdash/>particular words and concepts you think would return helpful titles.</p>
         </introduction>
         <subsection xml:id="reading-finding-primary">
             <title>Primary Sources</title>
@@ -27,7 +27,7 @@
                 </paragraphs>
                 <paragraphs>
                     <title>Read the introduction and the conclusion</title>
-                    <p>This should give you a good idea of the starting point and end point of the source's argument and its major points. Assess the usefulness of the source based on these sections. If the source doesn't look like it will be of great use to you, put it to the side. For instance, if you found a source called <em>The Military Legacy of the Obama Administration</em>, you might browse through it for a hidden nugget of information, but chances are the source may not be the most helpful to you.</p>
+                    <p>This should give you a good idea of the starting point and end point of the source's argument and its major points. Assess the usefulness of the source based on these sections. If the source doesn't look like it will be of great use to you, put it to the side. For instance, if you found a source called <pubtitle>The Military Legacy of the Obama Administration</pubtitle>, you might browse through it for a hidden nugget of information, but chances are the source may not be the most helpful to you.</p>
                 </paragraphs>
                 <paragraphs>
                     <title>Identify relevant passages</title>
@@ -70,7 +70,7 @@
         </introduction>
         <subsection xml:id="reading-types-active">
             <title>Active Reading</title>
-            <p><alert>All reading you do should be active reading!</alert> In order to read critically, you must read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <em>The Odyssey</em> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing marginal notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
+            <p><alert>All reading you do should be active reading!</alert> In order to read critically, you must read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <pubtitle>The Odyssey</pubtitle> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing marginal notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
             <sidebyside width="50%">
                 <image source="images/HR-ActiveReading"/>
             </sidebyside>

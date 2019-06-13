@@ -213,9 +213,9 @@
             </assemblage>
         </subsection>
         <subsection>
-            <title>In<ndash />text Citations</title>
+            <title>In<ndash/>Text Citations</title>
             <p>For citation styles that include citations in parenthesis in the body of your paper (also known as parenthetic citations), it's crucial that the in<ndash />text citation (the part in your paper that's in parenthesis) corresponds exactly with the full reference at the end of the paper in the Works Cited or References section. But parenthetic citations are also designed to offer information with minimal disruption to the reader's engagement with the text; if some of the citation information is in the sentence itself, then there's no need to repeat the information in the parenthesis.</p>
-            <p>Here are some examples of how to do parenthetic citations. The citations in this section are MLA format, but the general principles apply in parenthetic formats such as APA and Chicago Author Date format (the Chicago formatting style that doesn’t use footnotes).</p>
+            <p>Here are some examples of how to do parenthetic citations. The citations in this section are <init>MLA</init> format, but the general principles apply in parenthetic formats such as <init>APA</init> and Chicago Author Date format (the Chicago formatting style that doesn’t use footnotes).</p>
             <p>
                 <ol>
                     <li><p>If you're quoting an author and don't reference the author in your sentence, then you need to include both pieces of information in your in<ndash />text citation.</p>
@@ -226,10 +226,10 @@
                     <li><p>If there are two authors, include both of their names in the citation.</p>
                     <p><eg /> Realism began as a style of writing that allowed an emerging middle class to identify the events of their daily lives with those that they read about (Knight and Woodman 1).</p></li>
                     <li><p>If you reference the author in your sentence, you don't need to repeat the author's name in your citation.</p>
-                    <p><eg /> In <em>Anna Karenina</em>, Tolstoy empathizes so consummately with all his characters (even the non<ndash />human ones) that large sections of part 6, chapter 9 are told from the perspective of Levin's dog, Laska (1266).</p></li>
+                    <p><eg /> In <pubtitle>Anna Karenina</pubtitle>, Tolstoy empathizes so consummately with all his characters (even the non<ndash />human ones) that large sections of part 6, chapter 9 are told from the perspective of Levin's dog, Laska (1266).</p></li>
                     <li><p>Make sure to spell and capitalize the author's name as they prefer. With last names that include prefixes, do a Google search if you're not sure what part of the author's name is their last name. Some authors choose not to capitalize their names, and it's important to respect that choice.</p>
-                    <p><eg /> Foreshadowing death, <em>Blood Wedding</em>'s Beggarwoman in states, <q>They’ll not leave here. The sound of the river / will drown in the sound of the trees / the broken flight of their cries. / It must be here, and soon. I am weary</q> (García Lorca 3.1.92-95).</p>
-                    <p><eg /> In <em>Black Looks: Race and Representation</em>, bell hooks advocates for a form of epistemological agency<mdash />what she terms an <q>oppositional gaze</q><mdash />that can <q>look back</q> at the gaze of traditional power (131).</p></li>
+                    <p><eg /> Foreshadowing death, <pubtitle>Blood Wedding</pubtitle>'s Beggarwoman in states, <q>They’ll not leave here. The sound of the river / will drown in the sound of the trees / the broken flight of their cries. / It must be here, and soon. I am weary</q> (García Lorca 3.1.92-95).</p>
+                    <p><eg /> In <pubtitle>Black Looks: Race and Representation</pubtitle>, bell hooks advocates for a form of epistemological agency<mdash />what she terms an <q>oppositional gaze</q><mdash />that can <q>look back</q> at the gaze of traditional power (131).</p></li>
                     <li><p>Sometimes you may not know the author’s name, and in that case, the first word in the citation should be the first word that is in the Works Cited entry.</p>
                     <p><eg /> Reviews of her work typically praise her flair for language but hint at controversy about her message, as in this review in the Santa Cruz paper of her novel: <q>It is a remarkable production, containing much that is commendable and more that is objectionable, in sentiment and aim</q> (<q>Ideal</q>).</p></li>
                     <li><p>Sometimes you may be citing multiple works by the same author, so it's not enough to mention just the author's name in the citation, leaving your readers to wonder which entry by that author is the one you're referencing. In those cases, include in your citation the title or just the first word or two of the title if it's a long title.</p>

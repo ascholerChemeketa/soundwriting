@@ -36,7 +36,7 @@
                 <li><p>Language is important. Be very specific about the language you use throughout your writing; here are a couple of specific guidelines:
                     <ul>
                         <li><p>Capitalize <q>African American Studies,</q> and it's singular not plural.</p></li>
-                        <li><p>Use current, appropriate language in your writing. Language used in the past to identify people of color is usually not appropriate in the current context unless you are citing a quote. (see Ch. 6 Writing with Awareness for more help on this, and if you’re still not sure, ask your professor).</p></li>
+                        <li><p>Use current, appropriate language in your writing. Language used in the past to identify people of color is usually not appropriate in the current context unless you are citing a quote. (see <xref ref="writing-with-awareness"/> for more help on this, and if you’re still not sure, ask your professor).</p></li>
                     </ul></p></li>
                 <li><p>Understand and convey the situatedness of whatever you write about. For instance, if you're writing about DuBois, you've got to explain why DuBois was arguing the way he was (in opposition to Booker T. Washington).</p></li>
                 <li><p>Integrating language and quotes from Non-SAE speakers is encouraged. Use your writing as a space to include different voices. For instance, in an upper level AFAM class you might write a scientific counseling article about drug addiction but you could have direct excerpts about people's experiences with drug addiction as African Americans related to whatever section you’re talking about because that adds to it.</p></li>
@@ -129,7 +129,7 @@
         </paragraphs>
         <paragraphs xml:id="writing-biology-additional-resources">
             <title>Additional Resources</title>
-            <p><q>Writing in Biology</q> by Karin Knisely; <q>The Science of Scientific Writing</q> by Kathleen Fisher; and <q>The Art of Scientific Writing</q>  by Claus Bliefert, Hans Friedrich Ebel, and William E. Russey are all great resources for additional writing guidelines.</p>
+            <p><pubtitle>A Student Handbook for Writing in Biology</pubtitle> by Karin Knisely; <pubtitle>The Science of Scientific Writing</pubtitle> by Kathleen Fisher; and <pubtitle>The Art of Scientific Writing</pubtitle>  by Claus Bliefert, Hans Friedrich Ebel, and William E. Russey are all great resources for additional writing guidelines.</p>
         </paragraphs>
     </section>
     <section xml:id="writing-for-business">
@@ -343,10 +343,7 @@
         <paragraphs xml:id="writing-music-hist-additional-resources">
             <title>Additional Resources</title>
             <p>
-                <ul>
-                    <li><p>A Short Guide to Writing About Music by Jonathan D. Bellman</p></li>
-                    <li><p>The <url href="https://www.nytimes.com/section/books/review">New York Times book review section</url> provides great examples of how to write a book review.</p></li>
-                </ul>
+                Check out <pubtitle>A Short Guide to Writing About Music</pubtitle> by Jonathan D. Bellman and The <url href="https://www.nytimes.com/section/books/review"> New York Times book review section</url>.
             </p>
         </paragraphs>
     </section>

@@ -553,12 +553,12 @@
     <section xml:id="tricky-grammar">
         <title>Tricky Grammar</title>
         <subsection xml:id="subject-verb-agreement">
-            <title>Challenges with Subject-Verb Agreement</title>
+            <title>Challenges with Subject<ndash/>Verb Agreement</title>
             <introduction>
                 <p>As we have seen, subjects and verbs (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <init>SAE</init>, you wouldn't say <q>Amanda <em>jog</em> to the field house,</q> but rather <q>Amanda <em>jogs</em> to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
             </introduction>
             <subsubsection xml:id="agreement-problems">
-                <title>Problems with subject-verb agreement</title>
+                <title>Subject<ndash/>Verb Agreement Rules</title>
                 <p>Any student of a foreign language knows that consistent subject and verb agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular), or<mdash/>in the middle of complex sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
                 <p>Here are a few rules to help guide you through tricky sentences.</p>
                 <sidebyside>
@@ -603,7 +603,7 @@
                 </aside>
             </subsubsection>
             <subsubsection xml:id="pronoun-antecedent-not-agreeing">
-                <title>Lack of agreement between pronoun and antecedent, especially the use of <q>they</q> as a singular pronoun</title>
+                <title>Pronoun<ndash/>Antecedent Agreement</title>
                 <p>Problems with agreement occur most commonly when a writer mentions a subject, a movie director, for example, and then uses a pronoun (recall: he, she, they, it) to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender-neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" text="title"/>)</p>
                 <p>A sentence using <q>they</q> but referring to a singular pronoun looks like this:</p>
                 <blockquote>
@@ -611,17 +611,17 @@
                 </blockquote>
                 <p>
                     In terms of grammatical correctness, formal, standard English requires writers to make the correct agreement between a pronoun and its antecedent (<ie/>, you have to use singular pronouns for singular antecedents). For a gender-unspecified singular antecedent, then, a writer has a few options: to use the phrase <q>he or she,</q> to make the subject plural if possible, or to avoid the issue altogether by restructuring the sentence. A sentence of this sort would therefore take one of these three forms:
-                    <ol>
+                    <ul>
                         <li><p><q>I liked what the director of the movie did. He or she did a good job.</q></p></li>
                         <li><p><q>That movie had a good director. When directors pay special attention to lighting like this director did, they are doing a good job.</q></p></li>
                         <li><p><q>That movie was great! I can't believe how well the director focused on light!</q></p></li>
-                    </ol>
+                    </ul>
                 </p>
                 <p>You are living through an important and interesting time in the progression of the English language. <q>Formal</q> and <q>standard</q> English (among most other languages) has historically belonged to people in power, people who have used (and still use) language to discriminate against and subjugate individuals who speak non standard forms of English. In spite of this subjugation, speakers of English<mdash/>standard and non standard<mdash/>are beginning to gain power and to reclaim English from those who use it to oppress. Since language and power are intimately intertwined, shifts in power inevitably lead to subsequent shifts in language. These shifts explain why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender-neutral, third-person singular pronoun. While conservative grammarians may lament the devolution of <q>proper English,</q> the reality is that language belongs to its speakers, not to those in power. By acknowledging these shifts in language (and the reasons behind them) within academia, we work toward increasing the access to and inclusivity of the academy. What inevitably follows are new perspectives, experiences, and identities that may lead to even greater equity among scholars and the types of knowledge they produce.</p>
             </subsubsection>
             <subsubsection xml:id="agreement-s-endings">
                 <title>-S Endings</title>
-                <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> <em>Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</em></p>
+                <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
                 <sidebyside>
                     <ul>
                         <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
@@ -635,7 +635,7 @@
                 <title>Is/Are</title>
                 <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                 <p>
-                    <em>As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).</em>
+                    As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).
                     <ul>
                         <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
                         <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
@@ -1017,7 +1017,7 @@
             </p>
             <p>These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.</p>
             <paragraphs xml:id="par-writing-precisely-this">
-                <title>Broad use of <q>this,</q> especially as the subject of a sentence</title>
+                <title><q>This,</q> as the Subject of a Sentence</title>
                 <p>Readers like specificity. Using <q>this</q> too much, especially as the subject of a sentence (<eg/> <q>This is what I'm talking about.</q>) conveys too much ambiguity. To what does <q>this</q> refer? Instead of writing <q>this,</q> try to use an interesting word that refers specifically to what you want to talk about. For example, I could write an essay about my dog, Chuck, and say, <q>Chuck likes to take walks. This is why I walk him every day.</q> To avoid using <q>this</q> as the subject of the sentence, though, I could say something like: <q>Chuck likes to take walks. I walk him every day because he loves walks so much.</q> In this sentence, <q>this</q> is replaced with <q>because he loves walks so much.</q></p>
                 <p>You can also simply restructure the sentence(s) to avoid using <q>this</q> as the subject. From the example above, I could also say, <q>Chuck likes to take walks, so I walk him every day.</q> Finally, you can think of a noun that tells your reader what <q>this</q> is referring to: <em>this</em> quote, <em>this</em> information, <em>this</em> verdict, <em>this</em> distinction, <em>this</em> occurrence, <em>this</em> sentiment, <etc/></p>
             </paragraphs>
@@ -1035,7 +1035,7 @@
                     <ul>
                         <li>
                             <p><em>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up!</em></p>
-                            <p>(We, for example,  just looked up <q>err</q> to make sure that was the right word to use.)</p>
+                            <p>We, for example,  just looked up <q>err</q> to make sure that was the right word to use.</p>
                         </li>
                         <li>
                             <p><em>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course).</em></p> 
@@ -1207,6 +1207,14 @@
                     <tabular>
                         <col width="30%"/>
                         <col width="70%"/>
+                        <row bottom="major">
+                            <cell>
+                                <p>Homophones</p>
+                            </cell>
+                            <cell>
+                                <p>Appearance in a Sentence</p>
+                            </cell>
+                        </row>
                         <row>
                             <cell>
                                 <p>a lot</p>
@@ -2415,7 +2423,7 @@
                             Do not capitalize the word <q>the</q> before proper nouns unless the word <q>the</q> is itself a part of the proper noun.
                             <ul>
                                 <li><p><q>I attend the University of Puget Sound.</q></p></li>
-                                <li><p><q>In class, we read <em>The Great Gatsby</em>.</q></p></li>
+                                <li><p><q>In class, we read <pubtitle>The Great Gatsby</pubtitle>.</q></p></li>
                             </ul>
                         </p>
                     </li>
