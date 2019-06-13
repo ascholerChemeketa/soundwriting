@@ -55,21 +55,22 @@
         </assemblage>
         <p>It's impossible to write a guide on <q>how to ask any professor for anything in any context,</q> so rather than even attempting that, we'd like to leave off this section and preface the next section with a few tips that are true in any scenario.</p>
         <paragraphs xml:id="par-truth-of-requests">
-            <title>The Eternal Truths of Making Requests</title> 
-            <dl>
-                <li>
-                    <title>Kindness</title>
-                    <p>Treat professors like people who deserve respect.</p>
-                </li>
-                <li>
-                    <title>Syllabus<ndash/>awareness</title>
-                    <p>Know the policy on your request. Are you asking for something that they offer to anyone? Are you asking for something that's not on the syllabus? Are you asking for something that it says they specifically don't allow? Knowing a professor's policy is doubly useful because it (1) helps you decide how to frame your request, and (2) shows the professor that you know what you're doing and informed yourself about their rules.</p>
-                </li>
-                <li>
-                    <title>Thoughtfulness</title>
-                    <p>Show the professor how you've taken responsibility for your situation and what you've already tried to do. Show the professor why they're the right person for you to go to next, and don't ask one professor for something that you wouldn't ask another professor for just because you think they're a pushover.</p>
-                </li>
-            </dl>
+            <title>Strategies for Making Requests:</title>
+            <p>
+                <ul>
+                    <li>
+                        <p><em>Treat professors like people who deserve respect.</em></p>
+                    </li>
+                    <li>
+                        <p><em>Read the syllabus to know the professor's policy on your request.</em></p>
+                        <p>Are you asking for something that they offer to anyone? Are you asking for something that's not on the syllabus? Are you asking for something that it says they specifically don't allow? Knowing a professor's policy is doubly useful because it (1) helps you decide how to frame your request, and (2) shows the professor that you know what you're doing and informed yourself about their rules.</p>
+                    </li>
+                    <li>
+                        <p><em>Show the professor how you've taken responsibility for your situation and what you've already tried to do.</em></p>
+                        <p>Show the professor why they're the right person for you to go to next, and don't ask one professor for something that you wouldn't ask another professor for just because you think they're a pushover.</p>
+                    </li>
+                </ul>
+            </p>
         </paragraphs>
     </subsection>
     <subsection xml:id="asking-for-extension">
@@ -89,17 +90,27 @@
     <subsection xml:id="send-or-not-send">
         <title>To Send or not to Send</title>
         <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is useful as a skill in itself and is transferrable to talking with professors in<ndash/>person. This section addresses emailing <em>professors</em>, but you can learn more about email etiquette in general by reading <xref ref="email-etiquette" text="title"/>.</p>
-    <assemblage>
-        <title>Email Etiquette Pointers</title>
+    <paragraphs>
+        <title>Strategies for Sending Professors Effective Emails</title>
         <p>
             <ul>
-                <li><p>Don't be too casual until you know that it's okay to be casual. This means using a professor's name rather than starting with <q>Hey</q> and generally trying to spell words correctly and use full sentences.</p></li>
-                <li><p>Be <em>clear</em> and <em>brief</em>. Nobody wants to read long, confusing emails (or anything else that's long and confusing).</p></li>
-                <li><p>As with making requests, don't ask the professor to do more work in responding than you've already done to send the email.</p></li>
-                <li><p>Use your Puget Sound email address.</p></li>
+                <li>
+                    <p><em>Don't be too casual until you know that it's okay to be casual.</em></p>
+                    <p><q>Not being casual</q> means using a professor's name rather than starting with <q>Hey</q> and generally trying to spell words correctly and use full sentences.</p>
+                </li>
+                <li>
+                    <p><em>Be <alert>clear</alert> and <alert>brief</alert>.</em></p>
+                    <p>Nobody wants to read long, confusing emails (or anything else that's long and confusing).</p>
+                </li>
+                <li>
+                    <p><em>Don't ask the professor to do more work in responding than you've already done to send the email.</em></p>
+                </li>
+                <li>
+                    <p><em>Use your Puget Sound email address.</em></p>
+                </li>
             </ul>
         </p>
-    </assemblage>
+    </paragraphs>
 
         <figure><caption>Sorry I missed class</caption>
         <image source="images/AS-sorryimissedclass"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image></figure>
@@ -288,29 +299,29 @@
             </paragraphs>
             <p>Trying to do things that <q>recharge your batteries</q> rather than that leave you feeling guilty about your break is a good way to decide whether a non<ndash/>work activity is an important break. If you're probably going to be in a better mental, physical, or emotional state to be productive after you take a break to do something, chances are it's self<ndash/>care, not procrastination.</p>
             <paragraphs xml:id="par-general-rules-self-care">
-                <title>General Rules for Self<ndash/>Care</title>
+                <title>Strategies for Practicing Self<ndash/>Care</title>
                 <p>
-                    <dl>
+                    <ul>
                         <li>
-                            <title>Sleep</title>
+                            <p><em>Sleep enough.</em></p>
                             <p>Sleeping 6 hours or less a night on a regular basis has similar effects on cognition as the kind of sleep deprivation that is routinely used for interrogation and torture. If you're so sleepy you'd confess to a crime you didn't commit, you're in no shape to write a paper anyone wants to read.</p>
                         </li>
                         <li>
-                            <title>Body</title>
-                            <p>Eat well and exercise. Yes, even if you're busy! You don't have to be a gym rat<mdash/>just eat something green and take a walk!</p>
+                            <p><em>Eat well and exercise.</em></p>
+                            <p>Yes, even if you're busy! You don't have to be a gym rat<mdash/>just eat something green and take a walk!</p>
                         </li>
                         <li>
-                            <title> Mind </title>
-                           <p>Acknowledge and name your feelings as they happen: keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on us is important<mdash/>not just for our productivity, but for the rest of our lives as well.</p>
+                            <p><em>Acknowledge and name your feelings as they happen.</em></p>
+                            <p>You could keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on you is important<mdash/>not just for your productivity, but for the rest of your life as well.</p>
                        </li>
                         <li>
-                            <title>Time</title>
-                            <p>Prioritize what you have to do, and then build in time for what you need to do for you first.</p></li>
+                            <p><em>Prioritize what you <alert>must</alert> do, and then build in time for what you need to do for your wellbeing before filling your time with other commitments.</em></p>
+                        </li>
                         <li>
-                            <title>Intentionality</title>
+                            <p><em>Be intentional in using your time.</em></p>
                             <p>When you're stressed, you tend to do things mindlessly. Your time is valuable, so spend it on what matters.</p>
                         </li>
-                    </dl>
+                    </ul>
                 </p>
             </paragraphs>
     </subsection>

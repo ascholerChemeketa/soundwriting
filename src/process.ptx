@@ -10,22 +10,22 @@
         <sidebyside width="50%">
             <image source="images/WP-Brain"/>
         </sidebyside>
-        <assemblage>
-            <title>Some Brainstorming Strategies</title>
+        <paragraphs>
+            <title>Strategies for Brainstorming:</title>
             <p>
-            <ul>
-                <li><p>Talk to a friend about your topic, ideas, and potential arguments.</p></li>
-                <li><p>Draw a picture of your argument in order to develop it.</p></li>
-                <li><p>Freewrite for 15 minutes everything you know about your topic and then try to organize those ideas into conceptual clusters.</p></li>
-                <li><p>Jot down a list of bulleted words or phrases about your topic and then circle the ones that are most interesting to you.</p></li>
-                <li><p>Make a list of questions about your topic (who, what, when, where, why, how) and see which ones you can answer, which ones have multiple answers, and which ones you lack information for.</p></li>
-                <li><p>Write down your topic and approach it from five different directions of analysis: Describe it, locate it within context, apply it to your life/current events, compare it to another topic, argue for/against it.</p></li>
-                <li><p>Put your topic in the center of an idea map, and then make a branch for each idea that you have.</p></li>
-                <li><p>Do some preliminary research about your topic and make note of any trends or patterns you observe.</p></li>
-                <li><p>Think about your topic while you are doing something else, like yoga, cooking, or reading a book for pleasure.</p></li>
-            </ul>
+                <ul>
+                    <li><p><em>Talk to a friend about your topic, ideas, and potential arguments.</em></p></li>
+                    <li><p><em>Draw a picture of your argument in order to develop it.</em></p></li>
+                    <li><p><em>Freewrite for 15 minutes everything you know about your topic and then try to organize those ideas into conceptual clusters.</em></p></li>
+                    <li><p><em>Jot down a list of bulleted words or phrases about your topic and then circle the ones that are most interesting to you.</em></p></li>
+                    <li><p><em>Make a list of questions about your topic (who, what, when, where, why, how) and see which ones you can answer, which ones have multiple answers, and which ones you lack information for.</em></p></li>
+                    <li><p><em>Write down your topic and approach it from five different directions of analysis: Describe it, locate it within context, apply it to your life/current events, compare it to another topic, argue for/against it.</em></p></li>
+                    <li><p><em>Put your topic in the center of an idea map, and then make a branch for each idea that you have.</em></p></li>
+                    <li><p><em>Do some preliminary research about your topic and make note of any trends or patterns you observe.</em></p></li>
+                    <li><p><em>Think about your topic while you are doing something else, like yoga, cooking, or reading a book for pleasure.</em></p></li>
+                </ul>
             </p>
-        </assemblage>
+        </paragraphs>
         <sidebyside width="50%">
             <image source="images/WP-Yoga"/>
         </sidebyside>
@@ -41,6 +41,62 @@
         <subsection xml:id="planning-pre-planning">
             <title>Pre<ndash/>Planning Questions</title>
             <paragraphs>
+                <title>Strategies for Planning your Paper:</title>
+                <p>
+                    <ul>
+                        <li>
+                            <p>
+                                <em>Determine the purpose of your paper.</em>
+                            </p>
+                            <p>
+                                Why are you writing? What is meaningful about your argument? How does it answer or respond to the prompt?
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Identify your audience.</em>
+                            </p>
+                            <p>
+                                Who are you writing for? Your peers? Your professor? Yourself? Identifying your audience is key in helping you frame your argument and determine what is most important for audience comprehension. For most academic papers, your audience will be the greater academic community, which includes your peers and professor. Sometimes, your professor may identify your audience for you. If you have any questions about your audience, remember that it's always best to ask your professor for clarification.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Decide on content.</em>
+                            </p>
+                            <p>
+                                What will your paper be about? What content will you include in your paper to make your argument? What evidence will you use to substantiate your claims? While the content will likely change as you move through the writing process, figuring out what information you need will help you identify what you want to write about and whether you need to conduct more research before you begin writing.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Figure out a format.</em>
+                            </p>
+                            <p>
+                                How will you format your paper? Is it a descriptive essay? An argumentative paper? Compare-contrast? Or perhaps a close reading of a primary source? In order to help you answer this question, go back to the assignment prompt and figure out what it is asking for. This will help you determine the most appropriate structure for your paper and argument.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <alert>Don't feel confined by the <q>Five-Paragraph Essay</q> you may have learned in middle/high school!</alert>
+                            </p>
+                            <p>
+                                This basic format is insufficient for college, and professors will encourage you to break free of it in your writing responses. Rather than letting this intimidate you, try to view it as a liberation: Let the complexity and nuance of your argument guide you toward the structure that works best for you.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Start thinking about style.</em>
+                            </p>
+                            <p>
+                                Before you begin writing, it's helpful to think about the tone of your essay<mdash/>the language you're going to use, how objective or subjective you will be, from which point of view you will write. For instance, you probably wouldn't write a chemistry lab report using the same language that you would use to write a personal narrative. Deciding on a voice early on can help you figure out what kind of language to use while you are planning, outlining, and drafting your paper.
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </paragraphs>
+<!-- Delete when Julie approves of guidelines change. -->
+            <!-- <paragraphs>
                 <title>Determine the purpose of your paper</title>
                     <p>Why are you writing? What is meaningful about your argument? How does it answer or respond to the prompt?</p>
             </paragraphs>
@@ -63,7 +119,7 @@
             <paragraphs>
                 <title>Start thinking about style</title>
                     <p>Before you begin writing, it's helpful to think about the tone of your essay<mdash/>the language you're going to use, how objective or subjective you will be, from which point of view you will write. For instance, you probably wouldn't write a chemistry lab report using the same language that you would use to write a personal narrative. Deciding on a voice early on can help you figure out what kind of language to use while you are planning, outlining, and drafting your paper.</p>
-            </paragraphs>
+            </paragraphs> -->
         </subsection>
         <subsection xml:id="planning-planning-strategies">
             <title>Some Planning Strategies</title>

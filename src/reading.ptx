@@ -21,7 +21,54 @@
         <subsection xml:id="reading-finding-secondary">
             <title>Secondary Sources</title>
             <p>Secondary sources are texts that you use to supplement your argument in some way: by establishing a theoretical premise, by providing a point of reference or departure, or by providing some historical or biographical context (to name a few). They are the secondary objects of your analysis and do not comprise the bulk of your argument. Though it's often rewarding to read secondary sources in their entirety, it's not always practical. The following are some tips for getting the most out of your secondary sources:</p>
-                <paragraphs>
+            <paragraphs xml:id="par-reading-strategies-secondary">
+                <title>Strategies for Finding Secondary Sources:</title>
+                <p>
+                    <ul>
+                        <li>
+                            <p>
+                                <em>Figure out what you're looking for.</em>
+                            </p>
+                            <p>
+                                Because secondary sources are supplementary, it shouldn't be too difficult to identify what information you need. Writing a paper on the presidency of Barack Obama and need a source that describes the international response to his election? Some useful <xref ref="search-terms">search terms</xref> might include: Obama, election, international, response.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Read the introduction and the conclusion.</em>
+                            </p>
+                            <p>
+                                This should give you a good idea of the starting point and end point of the source's argument and its major points. Assess the usefulness of the source based on these sections. If the source doesn't look like it will be of great use to you, put it to the side. For instance, if you found a source called <pubtitle>The Military Legacy of the Obama Administration</pubtitle>, you might browse through it for a hidden nugget of information, but chances are the source may not be the most helpful to you.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Identify relevant passages</em>
+                            </p>
+                            <p>
+                                Browse headings and subheadings, or chapters, if your source is a book. Skim any relevant sections for key words (see the section on skimming, hereafter). Find a heading that reads <q>European Reactions to the Election of Barack Obama</q>? Mark it!
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Search for key words.</em>
+                            </p>
+                            <p>
+                                It's possible to do this manually (picture the word in your head and let your eyes roam the page), but it's far easier to do electronically. If your source is electronic, find the search function on your computer and type in key words: Obama, election, international, response.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>If your source has an index, browse it for key words.</em>
+                            </p>
+                            <p>
+                                The index is at the back of the book, and it should refer you to specific pages on which the concept is discussed. The index is also a good way to look for relevant words that you may not have thought of.
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </paragraphs>
+                <!-- <paragraphs>
                     <title>Figure out what you're looking for</title>
                     <p>Because secondary sources are supplementary, it shouldn't be too difficult to identify what information you need. Writing a paper on the presidency of Barack Obama and need a source that describes the international response to his election? Some useful <xref ref="search-terms">search terms</xref> might include: Obama, election, international, response.</p>
                 </paragraphs>
@@ -40,12 +87,52 @@
                 <paragraphs>
                     <title>If your source has an index, browse it for key words</title>
                     <p>The index is at the back of the book, and it should refer you to specific pages on which the concept is discussed. The index is also a good way to look for relevant words that you may not have thought of.</p>
-                </paragraphs>
+                </paragraphs> -->
         </subsection>
         <subsection xml:id="skimming">
             <title>Skimming</title>
-            <p>In general, the more actively and patiently you approach a text, the more comprehensive your reading will be. However, sometimes it is highly impractical to read a source in its entirety. Whether you're doing some preliminary reading to familiarize yourself with the existing scholarly discussion or to cram for class, skimming can be a good way to extract the main idea of the text in as little time as possible. Here are some pointers for skimming:</p>
-                <paragraphs>
+            <p>In general, the more actively and patiently you approach a text, the more comprehensive your reading will be. However, sometimes it is highly impractical to read a source in its entirety. Whether you're doing some preliminary reading to familiarize yourself with the existing scholarly discussion or to cram for class, skimming can be a good way to extract the main idea of the text in as little time as possible.</p>
+
+            <paragraphs xml:id="par-reading-strategies-skimming">
+                <title>Strategies for Skimming:</title>
+                <p>
+                    <ul>
+                        <li>
+                            <p>
+                                <em>Read the introduction and the conclusion.</em>
+                            </p>
+                            <p>
+                                Doing this will give you a sense of the general trajectory of the argument.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Read the first sentence of every paragraph.</em>
+                            </p>
+                            <p>
+                                This sentence is usually sufficient to tell you what the main point of the paragraph is and whether you should spend time reading it.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Read both horizontally and vertically.</em>
+                            </p>
+                            <p>
+                                Let your eyes roam. Look for keywords and bolded or italicized items.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <em>Read for points and not for analysis.</em>
+                            </p>
+                            <p>
+                                Though it's always good to understand how the author arrived at a claim, it is more productive in a pinch to skip the analyses and return to them later.
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </paragraphs>
+                <!-- <paragraphs>
                     <title>Read the introduction and the conclusion</title>
                     <p>Doing this will give you a sense of the general trajectory of the argument.</p>
                 </paragraphs>
@@ -60,7 +147,7 @@
                 <paragraphs>
                     <title>Read for points and not for analysis</title>
                     <p>Though it's always good to understand how the author arrived at a claim, it is more productive in a pinch to skip the analyses and return to them later.</p>
-                </paragraphs>
+                </paragraphs> -->
         </subsection>
     </section>
     <section xml:id="reading-different-types">
@@ -144,8 +231,57 @@
         </subsection>
         <subsection xml:id="reading-types-science">
             <title>Reading in the Sciences</title>
-                <p>Reading in the sciences (social, earth, hard, soft, or otherwise) can be a whole different beast than reading literature, historical documents, or humanities-based secondary sources. If you've ever tried to read a peer reviewed scientific article you may have found yourself feeling lost and confused by the technical words and abbreviations. But have no fear! By using the following strategies, you can become a savvy reader of scientific articles:</p>
-                    <paragraphs>
+                <p>Reading in the sciences (social, earth, hard, soft, or otherwise) can be a whole different beast than reading literature, historical documents, or humanities-based secondary sources. If you've ever tried to read a peer reviewed scientific article you may have found yourself feeling lost and confused by the technical words and abbreviations. But have no fear! By using the following strategies, you can become a savvy reader of scientific articles.</p>
+
+                <paragraphs xml:id="par-reading-strategies-sciences">
+                    <title>Strategies for Reading in the Sciences:</title>
+                    <p>
+                        <ol>
+                            <li>
+                                <p>
+                                    <em>Start by reading the title and abstract a few times.</em>
+                                </p>
+                                <p>
+                                    While you may not absorb it all on a first or even a second reading, the title and abstract of a scientific article offer a snapshot of the whole article. Use the title and abstract as a mental guide to lead you through the text.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Next, skim the introduction to get the context of the project</em>
+                                </p>
+                                <p>
+                                    Make sure to read the last paragraph of the introduction because the research question of the paper will usually be there. Then, skim the discussion/conclusion to determine if or how the goals projected in the introduction were accomplished.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Look at the figures.</em>
+                                </p>
+                                <p>
+                                    While the authors of the paper are motivated to tell a compelling story about their data, it's harder to manipulate a figure. Spend some time reading the figure captions and understanding how the data matches up with what the authors are saying in the text.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>If you want to get a still deeper understanding of the paper, read the methodology section.</em>
+                                </p>
+                                <p>
+                                    If you read this section carefully and actively, it will allow you to suss out whether the paper stands up to scientific rigor.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <em>Know that you will need to look terminology up along the way.</em>
+                                </p>
+                                <p>
+                                    Even professors need to do this when they read articles in an unfamiliar research area.
+                                </p>
+                            </li>
+                        </ol>
+                    </p>
+                </paragraphs>
+
+                    <!-- <paragraphs>
                         <title>Start by reading the title and abstract a few times</title> <p>While you may not absorb it all on a first or even a second reading, the title and abstract of a scientific article offer a snapshot of the whole article. Use the title and abstract as a mental guide to lead you through the text.</p>
                     </paragraphs>
                     <paragraphs>
@@ -159,7 +295,7 @@
                     </paragraphs>
                     <paragraphs>
                         <title>Know that you will need to look terminology up along the way</title> <p>Even professors need to do this when they read articles in an unfamiliar research area.</p>
-                    </paragraphs>
+                    </paragraphs> -->
         </subsection>
     </section>
     <section xml:id="note-taking-strategies">
@@ -225,7 +361,7 @@
                     <p>Once you know what your professor is looking for, make a list of things to keep in mind as you write: Having this list for easy reference will keep your paper on topic and help you to foreground the skills under evaluation.</p>
             </paragraphs>
             <paragraphs>
-                <title>Any Suggestions</title>
+                <title>Suggestions Versus Requirements</title>
                     <p>There are things you <em>must</em> do for an assignment, and there are also things you <em>might</em> do. Professors, especially those at Puget Sound, sincerely want you to succeed. Because they're so benevolent, your professors might provide some suggestions for writing or constructing an argument in response to the prompt. These suggestions can be helpful points of departure, especially if you're having difficulty formulating a response. They're also good examples of responses that your professor would accept. If it seems like there are a lot of questions, chances are, you aren't required to answer all of them (professors don't want to read essays full of a bunch of disjointed ideas). If you're not sure whether something is required or just suggested, ask your professor.</p>
             </paragraphs>
             <paragraphs>
