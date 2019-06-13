@@ -403,13 +403,13 @@
             </subsubsection>
         </subsection>
         <subsection xml:id="infinitives">
-            <title>Infinitives</title>
+            <title>Grammar of Infinitives</title>
             <introduction>
                 <p><term>Infinitives</term> are verb forms composed of two words, such as <q>to write</q> or <q>to understand.</q> For instance, <q>I like to write sentences using infinitives</q> and <q>To understand infinitives, one should learn when to use them,</q> are examples of the infinitive verb form.</p>
                 <p>But say you wanted to make these sentences a bit more descriptive. You can do this by adding an adverb or adverbial phrase to the verb forms, such as <q>clearly write</q> or <q>fully understand.</q> This may result in <q>splitting the infinitive,</q> where adverbs or adverbial phrases are inserted between the <q>to</q> and the root verb that follows, as in <q>to clearly write</q> or <q>to fully understand.</q> Split infinitives are hotly contested in the grammar world. Some grammarians argue we should always avoid splitting our infinitives while others assert splitting the infinitive isn't a hard rule and can be done if it preserves thought and sentence fluency. Therefore, it's hard to know when to avoid splitting an infinitive and when it's all right to leave it as is. Below are a few guidelines to help you decide whether or not to split your infinitives (infinitive verb forms are <un s="1">underlined</un>, adverbs are <em>italicized</em>).</p>
             </introduction>
             <subsubsection xml:id="when-to-split-infinitives">
-                <title>When to split infinitives</title>
+                <title>When to Split Infinitives</title>
                 <p>Sometimes the sentence meaning is clearer when the adverb modifying the verb stays within the verb form. For instance, consider the sentences below:</p>
                 <blockquote>
                     <p><q>I like <un s="1">to</un> <em>clearly</em> <un s="1">write</un> sentences using infinitives.</q></p>
@@ -466,7 +466,7 @@
                 </aside>
             </subsubsection>
             <subsubsection xml:id="when-to-avoid-splitting-infinitives">
-                <title>When to avoid splitting infinitives</title>
+                <title>When not to Split Infinitives</title>
                 <p>While splitting the infinitive is sometimes necessary to preserve sentence fluency and thought coherency, it is usually better to avoid splitting them when you can. Infinitives are single units of thought, so keeping them intact often improves the reader's understanding of the sentence. Additionally, splitting the infinitive can actually make the sentence more awkward. For instance, take the following sentences where the infinitives are intact:</p>
                 <blockquote>
                     <p><q>You should try <un s="1">to keep</un> infinitives intact <em>whenever possible</em>.</q></p>
@@ -504,7 +504,7 @@
             </subsubsection>
         </subsection>
         <subsection xml:id="pronouns">
-            <title>Pronouns</title>
+            <title>Grammar of Pronouns</title>
             <subsubsection xml:id="indefinite-pronouns">
                 <title>Indefinite Pronouns</title>
                 <p>Many indefinite pronouns (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular verb (-s ending or <q>is</q>/<q>has</q>).</p>
@@ -553,7 +553,7 @@
     <section xml:id="tricky-grammar">
         <title>Tricky Grammar</title>
         <subsection xml:id="subject-verb-agreement">
-            <title>Challenges with Subject<ndash/>Verb Agreement</title>
+            <title>Problems with Subject<ndash/>Verb Agreement</title>
             <introduction>
                 <p>As we have seen, subjects and verbs (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <init>SAE</init>, you wouldn't say <q>Amanda <em>jog</em> to the field house,</q> but rather <q>Amanda <em>jogs</em> to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
             </introduction>
@@ -620,7 +620,7 @@
                 <p>You are living through an important and interesting time in the progression of the English language. <q>Formal</q> and <q>standard</q> English (among most other languages) has historically belonged to people in power, people who have used (and still use) language to discriminate against and subjugate individuals who speak non standard forms of English. In spite of this subjugation, speakers of English<mdash/>standard and non standard<mdash/>are beginning to gain power and to reclaim English from those who use it to oppress. Since language and power are intimately intertwined, shifts in power inevitably lead to subsequent shifts in language. These shifts explain why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender-neutral, third-person singular pronoun. While conservative grammarians may lament the devolution of <q>proper English,</q> the reality is that language belongs to its speakers, not to those in power. By acknowledging these shifts in language (and the reasons behind them) within academia, we work toward increasing the access to and inclusivity of the academy. What inevitably follows are new perspectives, experiences, and identities that may lead to even greater equity among scholars and the types of knowledge they produce.</p>
             </subsubsection>
             <subsubsection xml:id="agreement-s-endings">
-                <title>-S Endings</title>
+                <title><ndash/>S Endings</title>
                 <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
                 <sidebyside>
                     <ul>
@@ -805,7 +805,7 @@
             </subsubsection>
         </subsection>
         <subsection xml:id="sentence-fragments">
-            <title>Sentence Fragments</title>
+            <title>Problems with Sentence Fragments</title>
             <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense.</p>
             <p>
                 So how do you avoid sentence fragments?

@@ -39,7 +39,7 @@
             </sidebyside>
         </introduction>
         <subsection xml:id="planning-pre-planning">
-            <title>Pre-planning Questions</title>
+            <title>Pre<ndash/>Planning Questions</title>
             <paragraphs>
                 <title>Determine the purpose of your paper</title>
                     <p>Why are you writing? What is meaningful about your argument? How does it answer or respond to the prompt?</p>
@@ -158,13 +158,16 @@
         </subsection>
     </section>
     <section xml:id="process-introductions">
-        <title>Introductions</title>
+        <title>Formulating Introductions</title>
         <subsection xml:id="introductions-role">
-            <title>Role of the Introduction (Road Map)</title>
-            <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not your audience will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience members why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
-            <sidebyside width="50%">
-                <image source="images/WP-RoadMap"/>
-            </sidebyside>
+            <title>Role of the Introduction</title>
+            <paragraphs xml:id="par-intros-road-map">
+                <title>The Road Map</title>
+                <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not your audience will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience members why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
+                <sidebyside width="50%">
+                    <image source="images/WP-RoadMap"/>
+                </sidebyside>
+            </paragraphs>
         </subsection>
         <subsection xml:id="introuductions-anatomy">
             <title>Anatomy of the Introduction</title>
@@ -269,14 +272,17 @@
         </subsection>
     </section>
     <section xml:id="process-topic-sentences">
-        <title>Topic Sentences, Transitions, and Body Paragraphs</title>
+        <title>Formulating Topic Sentences, Transitions, and Body Paragraphs</title>
         <subsection xml:id="topic-sentences-ts">
-            <title>Topic Sentences (Compass)</title>
-            <p>If introductions are the road maps to your argument, topic sentences are the compass coordinates you are using to keep your argument on track with your thesis. For this reason, topic sentences are among the most important components of your paper. Not only do they link each paragraph to your thesis, but they keep your audience (and you) oriented to your argument. Topic sentences should typically be stated at the beginning of each new paragraph and should do two things: 1) introduce the main idea of that paragraph and 2) transition from the previous one. They don't usually include specific details or pieces of evidence (that's what the rest of the paragraph is for), but rather preface the claims you will be making. A helpful way to think about topic sentences is if you were to highlight your thesis, topic sentences, and conclusion, you would have a pretty solid outline of your argument (for more on reverse outlining, see <xref ref="reverse-outlining"/>).</p>
-            <p>There are a few different strategies for writing topic sentences. One way might be to include tentative topic sentences in your outline and start with those as you write the corresponding body paragraphs. Another strategy may be to write the body paragraph first, read it over to determine the main idea, and then write the corresponding topic sentence at the top.</p>
-            <sidebyside width="50%">
-                <image source="images/WP-ThesisCompass"/>
-            </sidebyside>
+            <title>Topic Sentences</title>
+            <paragraphs xml:id="par-process-compass">
+                <title>The Compass</title>
+                <p>If introductions are the road maps to your argument, topic sentences are the compass coordinates you are using to keep your argument on track with your thesis. For this reason, topic sentences are among the most important components of your paper. Not only do they link each paragraph to your thesis, but they keep your audience (and you) oriented to your argument. Topic sentences should typically be stated at the beginning of each new paragraph and should do two things: 1) introduce the main idea of that paragraph and 2) transition from the previous one. They don't usually include specific details or pieces of evidence (that's what the rest of the paragraph is for), but rather preface the claims you will be making. A helpful way to think about topic sentences is if you were to highlight your thesis, topic sentences, and conclusion, you would have a pretty solid outline of your argument (for more on reverse outlining, see <xref ref="reverse-outlining"/>).</p>
+                <p>There are a few different strategies for writing topic sentences. One way might be to include tentative topic sentences in your outline and start with those as you write the corresponding body paragraphs. Another strategy may be to write the body paragraph first, read it over to determine the main idea, and then write the corresponding topic sentence at the top.</p>
+                <sidebyside width="50%">
+                    <image source="images/WP-ThesisCompass"/>
+                </sidebyside>
+            </paragraphs>
             <p>
                 Here are some example topic sentences from Puget Sound student papers:
                 <ul>
@@ -312,11 +318,14 @@
             </p>
         </subsection>
         <subsection xml:id="transitions">
-            <title>Transitions (signposts)</title>
-            <sidebyside width="50%">
-                <image source="images/WP-TransitionSignpost"/>
-            </sidebyside>
-            <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
+            <title>Transitions</title>
+            <paragraphs xml:id="par-process-signposts">
+                <title>The Signposts</title>
+                <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
+                <sidebyside width="50%">
+                    <image source="images/WP-TransitionSignpost"/>
+                </sidebyside>
+            </paragraphs>
             <sidebyside>
                 <tabular>
                     <col width="30%"/>
@@ -353,42 +362,45 @@
             </sidebyside>
         </subsection>
         <subsection xml:id="topic-sentences-body">
-            <title>Body Paragraphs (Landmarks/Sights)</title>
-            <sidebyside width="50%">
-                <image source="images/WP-EvidenceBinoculars"/>
-            </sidebyside>
-            <p>
-                Body paragraphs are the different <q>landmarks</q> of your essay. These are the spaces where you can offer evidence for your claims, explain how and why specific details support your claims, and discuss the implications each claim has for the overall argument.</p>
+            <title>Body Paragraphs</title>
+            <paragraphs xml:id="par-process-sights">
+                <title>The Landmarks &amp; Sights</title>
+                <p>Body paragraphs are the different <q>landmarks</q> of your essay. These are the spaces where you can offer evidence for your claims, explain how and why specific details support your claims, and discuss the implications each claim has for the overall argument.</p>
+                <p>
+                    <sidebyside width="50%">
+                        <image source="images/WP-EvidenceBinoculars"/>
+                    </sidebyside>
+                </p>
                 <assemblage>
                     <title>Each body paragraph should contain (at least) these five things</title>
-                <p>
-                <ol>
-                    <li><p>A transition from the previous paragraph</p></li>
-                    <li><p>A topic sentence that states the main idea (can include the transition)</p></li>
-                    <li><p>The evidence supporting that claim</p></li>
-                    <li><p>Analysis of how the evidence supports the claim</p></li>
-                    <li><p>A statement on how this contributes to the overall argument/thesis</p></li>
-                </ol>
-                </p>
-            </assemblage>
-            <p>If you need more than one body paragraph to make a point, don't be afraid to take that space! You may need a few body paragraphs to give yourself enough space to fully explicate your evidence or support a single claim. However, if you find yourself needing to write pages and pages about one part of your argument, this may be an indication that you are trying to cover too much ground. When you go back and revise, you may want to consider either eliminating extraneous or unnecessary information or refocusing your thesis around the part of your argument you feel is the strongest or the most interesting to you.</p>
-            <p>If you find yourself writing paragraphs that are pages long, don't worry<mdash/>they can almost always be broken down into smaller paragraphs. Try identifying points in the paragraph that would be a logical place for a paragraph break. These include transitions shifting from one idea to another (<q>however,</q> <q>although,</q> <q>in contrast,</q> <etc/>), sudden changes in topic, and introductions to a new claim or a new piece of evidence. Enter a paragraph break at these points and see if the paragraphs work as two distinct entities within the larger body; keep in mind you may need to write a new topic sentence or two to preserve logic fluency.</p>
-            <p>If you find yourself writing paragraphs that are only a couple of sentences long, don't stress. Shorter paragraphs are sometimes helpful for filling in the gaps or acting as transitions between larger claims. However, a proliferation of shorter paragraphs may confuse and disorient the audience. Try outlining each of your paragraphs before you begin writing to help you flesh them out (see <xref ref="performing-textual-analysis"/> and <xref ref="outlining"/> for more tips on how to structure your paragraphs).</p>
+                    <p>
+                        <ol>
+                            <li><p>A transition from the previous paragraph</p></li>
+                            <li><p>A topic sentence that states the main idea (can include the transition)</p></li>
+                            <li><p>The evidence supporting that claim</p></li>
+                            <li><p>Analysis of how the evidence supports the claim</p></li>
+                            <li><p>A statement on how this contributes to the overall argument/thesis</p></li>
+                        </ol>
+                    </p>
+                </assemblage>
+                <p>If you need more than one body paragraph to make a point, don't be afraid to take that space! You may need a few body paragraphs to give yourself enough space to fully explicate your evidence or support a single claim. However, if you find yourself needing to write pages and pages about one part of your argument, this may be an indication that you are trying to cover too much ground. When you go back and revise, you may want to consider either eliminating extraneous or unnecessary information or refocusing your thesis around the part of your argument you feel is the strongest or the most interesting to you.</p>
+                <p>If you find yourself writing paragraphs that are pages long, don't worry<mdash/>they can almost always be broken down into smaller paragraphs. Try identifying points in the paragraph that would be a logical place for a paragraph break. These include transitions shifting from one idea to another (<q>however,</q> <q>although,</q> <q>in contrast,</q> <etc/>), sudden changes in topic, and introductions to a new claim or a new piece of evidence. Enter a paragraph break at these points and see if the paragraphs work as two distinct entities within the larger body; keep in mind you may need to write a new topic sentence or two to preserve logic fluency.</p>
+                <p>If you find yourself writing paragraphs that are only a couple of sentences long, don't stress. Shorter paragraphs are sometimes helpful for filling in the gaps or acting as transitions between larger claims. However, a proliferation of shorter paragraphs may confuse and disorient the audience. Try outlining each of your paragraphs before you begin writing to help you flesh them out (see <xref ref="performing-textual-analysis"/> and <xref ref="outlining"/> for more tips on how to structure your paragraphs).</p>
+            </paragraphs>
         </subsection>
     </section>
     <section xml:id="process-conclusions">
-        <title>Conclusions</title>
-        <introduction>
-            <sidebyside width="50%">
-                <image source="images/WP-ConclusionCamera"/>
-            </sidebyside>
-        </introduction>
+        <title>Formulating Conclusions</title>
         <subsection xml:id="conclusion-role">
-            <title>Role of the Conclusion (Album)</title>
-            <p>
-                When it's 1:59 a.m. in Collins Library and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
-                <p>Just as the introduction is the first thing your audience will read, the conclusion will be the last thing they remember before they put your paper down. In this way, the conclusion can be conceptualized as the photo scrapbook or Facebook album containing all the images from the reader's journey, with a few new trip ideas or future destinations thrown in. For this reason, the conclusion can be a great opportunity for you to reach beyond the scope of the prompt and make connections to greater issues or concepts that were not discussed in your paper.
-            </p>
+            <title>Role of the Conclusion</title>
+            <paragraphs xml:id="par-process-album">
+                <title>The Photo Album</title>
+                <p>When it's 1:59 a.m. in Collins Library and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
+                <sidebyside width="50%">
+                    <image source="images/WP-ConclusionCamera"/>
+                </sidebyside>
+                <p>Just as the introduction is the first thing your audience will read, the conclusion will be the last thing they remember before they put your paper down. In this way, the conclusion can be conceptualized as the photo scrapbook or Facebook album containing all the images from the reader's journey, with a few new trip ideas or future destinations thrown in. For this reason, the conclusion can be a great opportunity for you to reach beyond the scope of the prompt and make connections to greater issues or concepts that were not discussed in your paper.</p>
+            </paragraphs>
         </subsection>
         <subsection xml:id="conclustion-anatomy">
             <title>Anatomy of the Conclusion</title>
@@ -448,7 +460,7 @@
         </subsection>
     </section>
     <section xml:id="research-process-while-writing">
-        <title>Research Process While Writing</title>
+        <title>Researching while Writing</title>
         <sidebyside width="50%">
             <image source="images/research-process-not-linear"/>
         </sidebyside>

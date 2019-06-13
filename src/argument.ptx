@@ -18,72 +18,83 @@
             </paragraphs>
         </introduction>
         <subsection xml:id="main-claim">
-            <title>Main Claim: What is the main point you are trying to convey?</title>
-            <p>Every argument should be guided by a main point or central message.</p>
-            <assemblage>
-                <title>Tip</title>
-                    <p>If you don't know your main claim, try asking yourself questions like:
-                <ul>
-                    <li><p><q>What is my main argument?</q></p></li>
-                    <li><p><q>What am I trying to prove or disprove?</q></p></li>
-                </ul>
-                </p>
-            </assemblage>
+            <title>Main Claim</title>
+            <paragraphs xml:id="par-argument-main-claim">
+                <title>What is the Main Point you are Trying to Convey?</title>
+                <p>Every argument should be guided by a main point or central message.</p>
+                <assemblage>
+                    <title>Tip</title>
+                        <p>If you don't know your main claim, try asking yourself questions like:
+                    <ul>
+                        <li><p><q>What is my main argument?</q></p></li>
+                        <li><p><q>What am I trying to prove or disprove?</q></p></li>
+                    </ul>
+                    </p>
+                </assemblage>
             <p>For instance, if you are writing an essay on the influence of caffeine consumption on college students, your main claim, or thesis, might be something like <q>Caffeine consumption has numerous positive benefits for the academic lives of college students.</q> This main claim will then likely be broken down into smaller supporting claims, each of which argues a different part of your main claim. For instance, a possible supporting claim of the statement above might be <q>Caffeine promotes student productivity by binding to adenosine receptors in the brain, preventing tiredness and extending hours of awakeness.</q> Another supporting claim could pose that <q>The consumption of caffeine as a critical facet of campus life creates a shared experience of camaraderie among students which, in turn, facilitates intellectual interaction and interdisciplinary collaboration.</q></p>
+        </paragraphs>
         </subsection>
         <subsection xml:id="arg-elements-evidence">
-            <title>Evidence: What proof are you using to support your claims?</title>
-            <p>While having a main claim is critical in developing your argument, it is not enough to make an effective argument. You can't just say something is true and assume the audience will accept it unconditionally. You also need to support these claims with evidence that can be used to illustrate or bolster your point. Oftentimes, your evidence will lead you to your central claim<mdash/>let it! However, keep in mind that you will have to demonstrate how this evidence best lends itself to supporting your claim, so it's important to use evidence that is relevant, valid, and clearly supports what you are trying to say. Evidence can come in several different forms, including numerical/empirical data, qualitative observations, ethnographic interviews, theoretical analysis, and prior studies derived from primary source material, scholarly journals, or personal experience.</p>
-            <assemblage>
-                <title>Tip</title>
-                <p>To help you determine how your evidence supports your argument, try asking yourself questions like:
-                <ul>
-                    <li><p><q>How does this evidence relate to my main claim?</q></p></li>
-                    <li><p><q>How will I use this evidence to illustrate my argument?</q></p></li>
-                </ul>
-                </p>
-            </assemblage>
-            <p>For instance, potential pieces of evidence supporting the argument for the academic benefits of caffeine consumption could be the test scores or grade point averages of caffeine addicts, experiential evidence offered by students who used caffeine to increase productivity, or the chemical reactions occurring in the brain that stimulate thinking and awareness.</p>
+            <title>Evidence</title>
+            <paragraphs xml:id="par-argument-evidence">
+                <title>What Proof are you Using to Support your Claims?</title>
+                    <p>While having a main claim is critical in developing your argument, it is not enough to make an effective argument. You can't just say something is true and assume the audience will accept it unconditionally. You also need to support these claims with evidence that can be used to illustrate or bolster your point. Oftentimes, your evidence will lead you to your central claim<mdash/>let it! However, keep in mind that you will have to demonstrate how this evidence best lends itself to supporting your claim, so it's important to use evidence that is relevant, valid, and clearly supports what you are trying to say. Evidence can come in several different forms, including numerical/empirical data, qualitative observations, ethnographic interviews, theoretical analysis, and prior studies derived from primary source material, scholarly journals, or personal experience.</p>
+                    <assemblage>
+                        <title>Tip</title>
+                        <p>To help you determine how your evidence supports your argument, try asking yourself questions like:
+                        <ul>
+                            <li><p><q>How does this evidence relate to my main claim?</q></p></li>
+                            <li><p><q>How will I use this evidence to illustrate my argument?</q></p></li>
+                        </ul>
+                        </p>
+                    </assemblage>
+                    <p>For instance, potential pieces of evidence supporting the argument for the academic benefits of caffeine consumption could be the test scores or grade point averages of caffeine addicts, experiential evidence offered by students who used caffeine to increase productivity, or the chemical reactions occurring in the brain that stimulate thinking and awareness.</p>
+                </paragraphs>
         </subsection>
         <subsection xml:id="arg-elements-substantiation">
-            <title>Substantiation: Why does the evidence support your claims?</title>
-            <p>So you have a main claim, sub claims, and evidence to support them. Wouldn't this be enough to make a strong argument? Not quite, because you often need something that connects your evidence to the claim.</p>
-            <assemblage>
-                <title>Tip</title>
-                <p>In order to help you figure out how to substantiate your argument, you can ask yourself questions like:
-                <ul>
-                    <li><p><q>Why is this evidence important?</q></p></li>
-                    <li><p><q>How does this piece of evidence support my claim?</q></p></li>
-                    <li><p><q>What connects the evidence to my main argument?</q></p></li>
-                </ul>
-                </p>
-            </assemblage>
-            <p>For instance, you couldn't just say, <q>Caffeine has positive academic benefits for college students</q> and <q>Caffeine promotes thinking and awareness</q> or <q>Caffeine leads to higher test scores</q>; in order to make this argument valid, <em>there must be an implicit assumption that <q>Thinking and awareness and higher test scores are critical to academic success.</q></em> Therefore, in developing your argument, it's helpful to remember that substantiation of the evidence is as important to your argument as the evidence itself.</p>
+            <title>Substantiation</title>
+            <paragraphs xml:id="par-argument-substantiation">
+                <title>Why does the Evidence Support your Claims?</title>
+                <p>So you have a main claim, sub claims, and evidence to support them. Wouldn't this be enough to make a strong argument? Not quite, because you often need something that connects your evidence to the claim.</p>
+                <assemblage>
+                    <title>Tip</title>
+                    <p>In order to help you figure out how to substantiate your argument, you can ask yourself questions like:
+                    <ul>
+                        <li><p><q>Why is this evidence important?</q></p></li>
+                        <li><p><q>How does this piece of evidence support my claim?</q></p></li>
+                        <li><p><q>What connects the evidence to my main argument?</q></p></li>
+                    </ul>
+                    </p>
+                </assemblage>
+                <p>For instance, you couldn't just say, <q>Caffeine has positive academic benefits for college students</q> and <q>Caffeine promotes thinking and awareness</q> or <q>Caffeine leads to higher test scores</q>; in order to make this argument valid, <em>there must be an implicit assumption that <q>Thinking and awareness and higher test scores are critical to academic success.</q></em> Therefore, in developing your argument, it's helpful to remember that substantiation of the evidence is as important to your argument as the evidence itself.</p>
+            </paragraphs>
         </subsection>
         <subsection xml:id="arg-elements-counterpoint">
-            <title>Counterpoint: What are the limits of your argument?</title>
+            <title>Counterpoint</title>
+            <paragraphs>
+                <title>What are the Limits of your Argument?</title>
+                <p>No matter how effective or well-laid out an argument may be, it will always have some limitations.</p>
+                <assemblage>
+                    <title>Tip</title>
+                    <p>To help you identify areas of weakness in your argument, try asking yourself questions like:
+                    <ul>
+                        <li><p><q>What are the opposing arguments?</q></p></li>
+                        <li><p><q>Why are these counterpoints valid?</q></p></li>
+                    </ul>
+                    </p>
+                </assemblage>
+                <p>For instance, a naysayer of the caffeine argument may bring up the potential negative health effects of caffeine addiction, which may lead to poorer student health and therefore poorer academic success. <em>Rather than covering up these counterpoints or uncertainties and pretending they don't exist, strong arguments confront potential naysayers head-on.</em> By acknowledging areas of weakness in your argument, you actually strengthen your claim by setting yourself up to address and respond to other points of view. For instance, you might address the concerns of caffeine addiction by describing some of the negative health effects of caffeine dependence, such as sleep deprivation and withdrawal symptoms when caffeine is unavailable. You might even acknowledge that caffeine dependence may impact student academic success in the short term by promoting procrastination and enabling a series of all-nighters as compensation. However, you can also weaken and overturn these opposing arguments by asking yourself why your argument outweighs its counterpoints.</p>
+            </paragraphs>
                 <p>
-                No matter how effective or well-laid out an argument may be, it will always have some limitations.</p>
-            <assemblage>
-                <title>Tip</title>
-                <p>To help you identify areas of weakness in your argument, try asking yourself questions like:
-                <ul>
-                    <li><p><q>What are the opposing arguments?</q></p></li>
-                    <li><p><q>Why are these counterpoints valid?</q></p></li>
-                </ul>
+                    To help you determine how your argument might respond to opposing views, ask yourself questions like:
+                    <ul>
+                        <li><p><q>Why does my argument still hold true despite these counterpoints?</q></p></li>
+                        <li><p><q>Why do these counterpoints fall short of invalidating my argument?</q></p></li>
+                        <li><p><q>How might these counterpoints actually strengthen my own argument?</q></p></li>
+                    </ul>
                 </p>
-            </assemblage>
-            <p>For instance, a naysayer of the caffeine argument may bring up the potential negative health effects of caffeine addiction, which may lead to poorer student health and therefore poorer academic success. <em>Rather than covering up these counterpoints or uncertainties and pretending they don't exist, strong arguments confront potential naysayers head-on.</em> By acknowledging areas of weakness in your argument, you actually strengthen your claim by setting yourself up to address and respond to other points of view. For instance, you might address the concerns of caffeine addiction by describing some of the negative health effects of caffeine dependence, such as sleep deprivation and withdrawal symptoms when caffeine is unavailable. You might even acknowledge that caffeine dependence may impact student academic success in the short term by promoting procrastination and enabling a series of all-nighters as compensation. However, you can also weaken and overturn these opposing arguments by asking yourself why your argument outweighs its counterpoints.</p>
-            <p>
-                To help you determine how your argument might respond to opposing views, ask yourself questions like:
-                <ul>
-                    <li><p><q>Why does my argument still hold true despite these counterpoints?</q></p></li>
-                    <li><p><q>Why do these counterpoints fall short of invalidating my argument?</q></p></li>
-                    <li><p><q>How might these counterpoints actually strengthen my own argument?</q></p></li>
-                </ul>
-            </p>
-            <p>For instance, the writer of the caffeine argument may both acknowledge and disable opposing viewpoints through the proposal that <q>While caffeine dependence may lead to some negative health effects, the ultimate academic benefits resulting from increased productivity outweigh the immediate impacts on student health and behavior.</q> This statement would then be followed by counterevidence displaying why the long term academic benefits of caffeine outweigh the negative health effects, and perhaps even how any negative health effects may actually generate academic success by spurring student performance and productivity.</p>
-            <p>After considering counterpoints, you may end up deciding that the counterpoints are more persuasive than your original point. That's okay! It's a sign of intellectual growth when you are able to reconsider your original views on the basis of further research. Just be sure to revise your paper so that the new argument is cohesive.</p>
+                <p>For instance, the writer of the caffeine argument may both acknowledge and disable opposing viewpoints through the proposal that <q>While caffeine dependence may lead to some negative health effects, the ultimate academic benefits resulting from increased productivity outweigh the immediate impacts on student health and behavior.</q> This statement would then be followed by counterevidence displaying why the long term academic benefits of caffeine outweigh the negative health effects, and perhaps even how any negative health effects may actually generate academic success by spurring student performance and productivity.</p>
+                <p>After considering counterpoints, you may end up deciding that the counterpoints are more persuasive than your original point. That's okay! It's a sign of intellectual growth when you are able to reconsider your original views on the basis of further research. Just be sure to revise your paper so that the new argument is cohesive.</p>
         </subsection>
     </section>
     <section xml:id="argument-diversity">
@@ -95,7 +106,7 @@
             <p>Perhaps you are writing an essay arguing whether coffee or tea is a better study stimulant for college students. You may use the Rogerian model to provide equal experiential evidence from people who drink coffee and people who drink tea, Toulmin's data-driven analysis to argue that coffee people receive higher test grades, and then the classical approach to refute the argument that tea is a better study stimulant and substantiate your case for coffee. Mix it up!</p>
         </subsection>
         <subsection xml:id="argumentation-as-process">
-            <title>Argumentation as Process</title>
+            <title>Argumentation as a Process</title>
             <p>Argumentation is not static or linear; rather, it is a dynamic conversation between you and scholars who have preceded you. Regardless of the language and argumentation model you ultimately decide to use, it's important to keep in mind that the argumentative process is just that: a process of discovering, responding to, and contributing to existing knowledge. Your plan should be first to identify what others are saying and then to figure out a way to respond to them that keeps the scholarly conversation going. Who knows? Perhaps one day other scholars may even respond and contribute to your own argument.</p>
         </subsection>
     </section>
@@ -223,7 +234,7 @@
         </subsection>
     </section>
     <section xml:id="argument-organization">
-        <title>Organization of an Argument</title>
+        <title>Organizing an Argument</title>
         <p>At this point in the development of your argument, you should have a working thesis and multiple supporting claims. Now you must think about your argument from the point of view of your audience. Arguments must be organized in a way that audiences can logically follow. Your main goal as a writer is to organize your argument logically and convincingly enough that a reader will be persuaded by what you've written. Because argument organization varies between papers and subjects, you need to figure out what your audience will need and want while reading through your argument.</p>
         <assemblage>
             <title>Tip</title>
