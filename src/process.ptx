@@ -287,7 +287,8 @@
                 <image source="images/WP-AccentTree"/>
             </sidebyside>
             <list>
-                <paragraphs><title>Opening Statements to Avoid in Academic Writing</title>
+                <paragraphs xml:id="par-process-openings-to-avoid">
+                    <title>Opening Statements to Avoid</title>
                 <ul>
                     <li><p>Vague and sweeping statements (<q>Since the dawn of mankind<nbsp/><ellipsis/>,</q> <q>Since the beginning of time<nbsp/><ellipsis/>,</q> <q>The truth is<nbsp/><ellipsis/>,</q> <q>Writers have always<nbsp/><ellipsis/></q>)</p></li>
                     <li><p>Restated questions (<q>Is the sky blue? Yes, it is.</q>)</p></li>
