@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="test-chapter">
+    <title>Display Test Chapter</title>
+    <introduction>
+        <p>Filler introduction</p>
+    </introduction>
+    <section xml:id="test-section">
+        <title>Display Test Section</title>
+        <introduction>
+            Random intro.
+        </introduction>
+        <paragraphs>
+        	<title>Basic Paragraph</title>
+        	<p>
+        		With a little bit of content
+        	</p>
+        </paragraphs>
+
+        <remark>
+        	<title>Remark title</title>
+        	<p> And content in angle p.</p>
+            <p>
+                <ul>
+                    <li><p>Now with a one-element list!</p></li>
+                </ul>
+            </p>
+        </remark>
+
+        <convention>
+        	<title>Convention title</title>
+        	<p> And content in angle p.</p>
+            <list>
+                <caption>List thingy caption</caption>
+                <dl>
+                    <li>
+                        <title>A term</title>
+                        <p> can be defined in a description list</p>
+                    </li>
+                </dl>
+            </list>
+        </convention>
+
+        <note>
+        	<title>Note title</title>
+        	<p> And content in angle p.</p>
+        </note>
+
+        <observation>
+        	<title>Observation title</title>
+        	<p> And content in angle p.</p>
+        </observation>
+
+        <warning>
+        	<title>Warning title</title>
+        	<p> And content in angle p.</p>
+        </warning>
+
+        <insight>
+        	<title>Insight title</title>
+        	<p> And content in angle p.</p>
+        </insight>
+
+        <list>
+            <title>Does this title-only-list work?</title>
+            <ul>
+                <li>
+                    <p> UL with some text.</p>
+                </li>
+                <li>
+                    <p>Another item just for kicks</p>
+                </li>
+            </ul>
+        </list>
+    </section>
+</chapter>

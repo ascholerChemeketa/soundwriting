@@ -30,6 +30,41 @@
 <!-- Julie Christoph email 2018-11-28                          -->
 <xsl:param name="latex.geometry" select="'total={340pt,9.0in}'"/>
 
+<!-- JORDAN MESSING AROUND WITH LATEX DISPLAY OF REMARK-LIKE STRUCTURES -->
+
+<xsl:template match="remark" mode="tcb-style">
+    <xsl:text>colbacktitle=red, colback=red!20!white, colframe=red, coltitle=black</xsl:text>
+</xsl:template>
+
+<xsl:template match="convention" mode="tcb-style">
+    <xsl:text>colbacktitle=blue, coltitle=black, sharp corners=northwest</xsl:text>
+</xsl:template>
+
+<xsl:template match="note" mode="tcb-style">
+    <xsl:text>colbacktitle=green, attach title to upper</xsl:text>
+</xsl:template>
+
+<xsl:template match="observation" mode="tcb-style">
+    <xsl:text>colframe=red!50!black,fonttitle=\normalfont\bfseries, sharp corners=west</xsl:text>
+</xsl:template>
+
+<xsl:template match="warning" mode="tcb-style">
+    <xsl:text>colbacktitle=black!70!blue, sharp corners</xsl:text>
+</xsl:template>
+
+<xsl:template match="insight" mode="tcb-style">
+    <xsl:text>colbacktitle=red,after title={\LaTeX}, sharp corners</xsl:text>
+</xsl:template>
+
+
+<!-- END JORDAN SHENANIGANS -->
+
+
+
+
+
+
+
 <!-- Make marked <p>s hanging indented for citiation chapter. -->
 <xsl:template match="p[@indent='hanging']">
     <xsl:if test="preceding-sibling::*[not(&SUBDIVISION-METADATA-FILTER;)][1][self::p or self::paragraphs or self::sidebyside]">
