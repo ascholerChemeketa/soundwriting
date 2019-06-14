@@ -54,9 +54,8 @@
             <p>Most students feel more comfortable asking for extensions, favors, or help from <em>some</em> faculty members that they wouldn't ask for from <em>other</em> professors. One thing that might not cross your mind <em>but should</em> is why that is. It might be that you have great rapport with a professor you know well and you're sure that it'll be fine. But it's <em>also</em> possible that your professor's identity plays a role in what you think a professor will do for you because implicit bias affects all of our decisions if we're not careful. Academia operates within broader societal structures (not to mention the ones it creates in addition), and as such most of us are less likely to challenge the policy of professors who are male, white, older, or have been teaching a long time. These aren't the only identity factors that play a role in how you might see a professor, but they're worth considering. Think twice about how your professors' identities influence how you see their responsibility to you, and you can help dismantle the identity<ndash/>based power structures in academia!</p>
         </assemblage>
         <p>It's impossible to write a guide on <q>how to ask any professor for anything in any context,</q> so rather than even attempting that, we'd like to leave off this section and preface the next section with a few tips that are true in any scenario.</p>
-        <paragraphs xml:id="par-truth-of-requests">
-            <title>Strategies for Making Requests:</title>
-            <p>
+        <list xml:id="list-truth-of-requests">
+            <title>Strategies for Making Requests</title>
                 <ul>
                     <li>
                         <p><em>Treat professors like people who deserve respect.</em></p>
@@ -70,47 +69,62 @@
                         <p>Show the professor why they're the right person for you to go to next, and don't ask one professor for something that you wouldn't ask another professor for just because you think they're a pushover.</p>
                     </li>
                 </ul>
-            </p>
-        </paragraphs>
+        </list>
     </subsection>
     <subsection xml:id="asking-for-extension">
         <title>Asking for an Extension</title>
         <p>One of the most common interactions that you may have with a professor that can still be difficult to navigate is asking for an extension on an assignment. This is difficult for a few reasons, but mostly it's difficult because your perspective and the professor's perspective can differ so much, and understanding these differences can help you ask for what you need in a more thoughtful (and hopefully, successful) way. First of all, you could have lots of reasons for asking for an extension. Maybe there was a family emergency. Maybe you have a lot of other work to do the same day. Maybe you've been stuck in bed sick. Maybe you just didn't plan quite right and started too late. Often, asking for an extension is not planned, but happens as a panicked response to a scenario you didn't want to be in in the first place. Professors know that there are good reasons to ask for an extension, but they've also heard a lot of <em>not</em> good reasons for asking for an extension.</p>
         <p>What might feel catastrophic or unusual in your life is probably something that your professor has heard from another student before. They know that being a student is really tough and that life falls apart sometimes. Everyone gets sick and has to deal with emergencies sometimes. Getting an extension is often better than turning in a partially complete assignment, but when you ask for an extension, think about how what you say will come across to your professor. They've received too many emails that start with <q>Hey, I'm really really busy and I have a lot of work to do for my other classes, and I was hoping I could get an extension on your assignment.</q> They might believe and empathize with you, but because the assignment you're falling behind on has probably been on their syllabus the entire semester, they're just going to think that you planned poorly and now are asking them to accommodate that poor planning. So how should you ask?</p>
-        <p>There are a few rules to follow when asking for an extension:
-        <ul><li>It is ALWAYS better to ask permission to turn in an assignment late than for forgiveness for having already done so, and it is best to ask as far in advance as possible. This proactive step gives you lots of time to work out a new arrangement with the professor and communicates to the professor that you are thinking ahead and have read their syllabus.</li> 
-        <li>Think about who else your late work might affect. Turning in late work will almost certainly require that your professor deal with it separately, but it may also impact other students if you ask to take a test or give a presentation on a different day.</li>
-        <li>Check the syllabus and know the professor's policy on late work and extensions, which can vary drastically by discipline and professor.</li> 
-        <li>With the last point in mind, know whether you are asking for the professor to make an exception to their policy or not, and<nbsp/><ellipsis/></li>
-        <li>If you're asking the professor for something that's generally not allowed by their policy, give them an out by saying that you recognize that they might not be able to give you what you're asking for. Giving the professor an easy way to reject you may sound counterproductive, but it really makes you seem more reasonable and understanding.</li> 
-        <li>If you know you can't get an assignment in on time but it's entirely your fault and you know it, be honest about it. Like most people, professors respond far better to people who are being genuine than they do to people who come up with a flimsy reason for why they haven't been able to get something in on time.</li>
-        </ul>
-        </p>
+        <list xml:id="list-talking-strategies-extensions">
+            <title>Strategies for Asking for an Extension</title>
+            <ul>
+                <li>
+                    <p><em>Ask permission to turn in an assignment late rather than forgiveness for having already done so, and ask as far in advance as possible.</em></p>
+                    <p>This proactive step gives you lots of time to work out a new arrangement with the professor and communicates to the professor that you are thinking ahead and have read their syllabus.</p>
+                </li>
+                <li>
+                    <p><em>Think about who else your late work might affect.</em></p>
+                    <p>Turning in late work will almost certainly require that your professor deal with it separately, but it may also impact other students if you ask to take a test or give a presentation on a different day.</p>
+                </li>
+                <li>
+                    <p><em>Check the syllabus and know the professor's policy on late work and extensions, which can vary drastically by discipline and professor.</em></p>
+                </li>
+                <li>
+                    <p><em>With the last point in mind, know whether you are asking for the professor to make an exception to their policy or not, and<nbsp/><ellipsis/></em></p>
+                </li>
+                <li>
+                    <p><em>If you're asking the professor for something that's generally not allowed by their policy, give them an out by saying that you recognize that they might not be able to give you what you're asking for.</em></p>
+                    <p>Giving the professor an easy way to reject you may sound counterproductive, but it really makes you seem more reasonable and understanding.</p>
+                </li>
+                <li>
+                    <p><em>If you know you can't get an assignment in on time but it's entirely your fault and you know it, be honest about it.</em></p>
+                    <p>Like most people, professors respond far better to people who are being genuine than they do to people who come up with a flimsy reason for why they haven't been able to get something in on time.</p>
+                </li>
+            </ul>
+        </list>
     </subsection>
     <subsection xml:id="send-or-not-send">
         <title>To Send or not to Send</title>
         <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is useful as a skill in itself and is transferrable to talking with professors in<ndash/>person. This section addresses emailing <em>professors</em>, but you can learn more about email etiquette in general by reading <xref ref="email-etiquette" text="title"/>.</p>
-    <paragraphs>
+    <list xml:id="list-talking-sending-emails">
         <title>Strategies for Sending Professors Effective Emails</title>
-        <p>
-            <ul>
-                <li>
-                    <p><em>Don't be too casual until you know that it's okay to be casual.</em></p>
-                    <p><q>Not being casual</q> means using a professor's name rather than starting with <q>Hey</q> and generally trying to spell words correctly and use full sentences.</p>
-                </li>
-                <li>
-                    <p><em>Be <alert>clear</alert> and <alert>brief</alert>.</em></p>
-                    <p>Nobody wants to read long, confusing emails (or anything else that's long and confusing).</p>
-                </li>
-                <li>
-                    <p><em>Don't ask the professor to do more work in responding than you've already done to send the email.</em></p>
-                </li>
-                <li>
-                    <p><em>Use your Puget Sound email address.</em></p>
-                </li>
-            </ul>
-        </p>
-    </paragraphs>
+        <ul>
+            <li>
+                <p><em>Don't be too casual until you know that it's okay to be casual.</em></p>
+                <p><q>Not being casual</q> means using a professor's name rather than starting with <q>Hey</q> and generally trying to spell words correctly and use full sentences.</p>
+            </li>
+            <li>
+                <p><em>Be <alert>clear</alert> and <alert>brief</alert>.</em></p>
+                <p>Nobody wants to read long, confusing emails (or anything else that's long and confusing).</p>
+            </li>
+            <li>
+                <p><em>Don't ask the professor to do more work in responding than you've already done to send the email.</em></p>
+            </li>
+            <li>
+                <p><em>Use your Puget Sound email address.</em></p>
+            </li>
+        </ul>
+    </list>
 
         <figure><caption>Sorry I missed class</caption>
         <image source="images/AS-sorryimissedclass"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image></figure>
@@ -298,32 +312,30 @@
                 <p>Each of us will have different ways of <q>recharging our batteries</q> but the point of self<ndash/>care is that it <em>does</em> recharge and rejuvenate—procrastination sucks energy and leaves guilt. Check yourself: do you actually feel rejuvenated after your break, or do you feel worse about yourself than when you started?</p>
             </paragraphs>
             <p>Trying to do things that <q>recharge your batteries</q> rather than that leave you feeling guilty about your break is a good way to decide whether a non<ndash/>work activity is an important break. If you're probably going to be in a better mental, physical, or emotional state to be productive after you take a break to do something, chances are it's self<ndash/>care, not procrastination.</p>
-            <paragraphs xml:id="par-general-rules-self-care">
+            <list xml:id="list-general-rules-self-care">
                 <title>Strategies for Practicing Self<ndash/>Care</title>
-                <p>
-                    <ul>
-                        <li>
-                            <p><em>Sleep enough.</em></p>
-                            <p>Sleeping 6 hours or less a night on a regular basis has similar effects on cognition as the kind of sleep deprivation that is routinely used for interrogation and torture. If you're so sleepy you'd confess to a crime you didn't commit, you're in no shape to write a paper anyone wants to read.</p>
-                        </li>
-                        <li>
-                            <p><em>Eat well and exercise.</em></p>
-                            <p>Yes, even if you're busy! You don't have to be a gym rat<mdash/>just eat something green and take a walk!</p>
-                        </li>
-                        <li>
-                            <p><em>Acknowledge and name your feelings as they happen.</em></p>
-                            <p>You could keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on you is important<mdash/>not just for your productivity, but for the rest of your life as well.</p>
-                       </li>
-                        <li>
-                            <p><em>Prioritize what you <alert>must</alert> do, and then build in time for what you need to do for your wellbeing before filling your time with other commitments.</em></p>
-                        </li>
-                        <li>
-                            <p><em>Be intentional in using your time.</em></p>
-                            <p>When you're stressed, you tend to do things mindlessly. Your time is valuable, so spend it on what matters.</p>
-                        </li>
-                    </ul>
-                </p>
-            </paragraphs>
+                <ul>
+                    <li>
+                        <p><em>Sleep enough.</em></p>
+                        <p>Sleeping 6 hours or less a night on a regular basis has similar effects on cognition as the kind of sleep deprivation that is routinely used for interrogation and torture. If you're so sleepy you'd confess to a crime you didn't commit, you're in no shape to write a paper anyone wants to read.</p>
+                    </li>
+                    <li>
+                        <p><em>Eat well and exercise.</em></p>
+                        <p>Yes, even if you're busy! You don't have to be a gym rat<mdash/>just eat something green and take a walk!</p>
+                    </li>
+                    <li>
+                        <p><em>Acknowledge and name your feelings as they happen.</em></p>
+                        <p>You could keep a journal, write a gratitude list, talk with a therapist, etc. Humans are emotional creatures, and recognizing those emotions and the impact they have on you is important<mdash/>not just for your productivity, but for the rest of your life as well.</p>
+                   </li>
+                    <li>
+                        <p><em>Prioritize what you <alert>must</alert> do, and then build in time for what you need to do for your wellbeing before filling your time with other commitments.</em></p>
+                    </li>
+                    <li>
+                        <p><em>Be intentional in using your time.</em></p>
+                        <p>When you're stressed, you tend to do things mindlessly. Your time is valuable, so spend it on what matters.</p>
+                    </li>
+                </ul>
+            </list>
     </subsection>
     <subsection xml:id="time-management-good-time-management">
         <title>Good Time Management</title>
@@ -351,33 +363,62 @@
         <sidebyside width="50%">
                 <image source="images/AS-timechart_sample"/>
         </sidebyside>
-        <paragraphs xml:id="par-time-chart">
-            <title>Time Chart</title>
-            <p>With your own time chart in hand, fill it out following these guidelines and in this order:
-                <ul>
-                    <li><p>Add all of your classes for the week.</p></li>
-                    <li><p>Add your other fixed commitments, which could include sports or music practices, work, exercise, meals, club meetings, and appointments with friends or professors.</p></li>
-                    <li><p>Look at the time that's left, and schedule in time to work on specific goals or assignments. Remember to<nbsp/><ellipsis/></p>
-                        <p><ul>
-                            <li><p>Be realistic about how long each task is going to take. This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p></li>
-                            <li><p>Remember those sub-goals. Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p></li>
-                            <li><p>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks. Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p></li>
-                            <li><p>Make time for review. Your long-term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high-quality review in a short amount of time.</p></li>
-                            <li><p>Plan to plan. Schedule a time in your time chart when you'll make a time chart for the <em>next</em> week. Time management and organization strategies are only useful if they're consistent!</p></li>
-                        </ul></p></li>   
-                </ul>
-            </p>
-        </paragraphs>
+        <p>With your own time chart in hand, fill it out following the following guidelines.</p>
+        <list xml:id="list-time-chart">
+            <title>Strategies for Making a Time Chart</title>
+            <ul>
+                <li>
+                    <p><em>Add all of your classes for the week.</em></p>
+                </li>
+                <li>
+                    <p><em>Add your other fixed commitments, which could include sports or music practices, work, exercise, meals, club meetings, and appointments with friends or professors.</em></p>
+                </li>
+                <li>
+                    <p>Look at the time that's left, and schedule in time to work on specific goals or assignments. Remember to:
+                        <ul>
+                            <li>
+                                <p><em>Be realistic about how long each task is going to take.</em></p>
+                                <p>This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p>
+                            </li>
+                            <li>
+                                <p><em>Remember those sub-goals.</em></p>
+                                <p>Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p>
+                            </li>
+                            <li>
+                                <p><em>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks.</em></p>
+                                <p>Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p>
+                            </li>
+                            <li>
+                                <p><em>Make time for review.</em></p>
+                                <p>Your long-term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high-quality review in a short amount of time.</p>
+                            </li>
+                            <li>
+                                <p><em>Plan to plan.</em></p>
+                                <p>Schedule a time in your time chart when you'll make a time chart for the <em>next</em> week. Time management and organization strategies are only useful if they're consistent!</p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>   
+            </ul>
+        </list>
         <p>If you're using a digital calendar (such as Google Calendar), the principles for setting up a time chart are the same as for a paper planner, but the digital platform offers a few features that are worth using as well.</p>
-        <assemblage> <title> Pointers for using a digital calendar </title>
-            <p>
+        <list xml:id="list-time-digital-calendar">
+            <title>Strategies for Using a Digital Calendar</title>
                 <ul>
-                    <li><p>Set recurring events for the commitments that don't change week to week. This means that your school and work schedule (and maybe more) will show up every week without you having to write them down over and over.</p></li>
-                    <li><p>Take advantage of notifications. If meetings or homework assignments have a tendency to slip your mind, you can always turn on notifications on your phone or computer to remind you before you're supposed to be meeting someone or working on something.</p></li>
-                    <li><p>Access your calendar/time chart from multiple platforms. If you have a smartphone, you can access your calendar from your phone as well as from any computer, which makes adding new commitments as you learn about them much easier.</p></li>
+                    <li>
+                        <p><em>Set recurring events for the commitments that don't change week to week.</em></p>
+                        <p>Using recurring events means that your school and work schedule (and maybe more) will show up every week without you having to write them down over and over.</p>
+                    </li>
+                    <li>
+                        <p><em>Take advantage of notifications.</em></p>
+                        <p>If meetings or homework assignments have a tendency to slip your mind, you can always turn on notifications on your phone or computer to remind you before you're supposed to be meeting someone or working on something.</p>
+                    </li>
+                    <li>
+                        <p><em>Access your calendar/time chart from multiple platforms.</em></p>
+                        <p>If you have a smartphone, you can access your calendar from your phone as well as from any computer, which makes adding new commitments as you learn about them much easier.</p>
+                    </li>
                 </ul>
-            </p>
-        </assemblage>
+        </list>
         <p>Whether you use a paper time chart or a digital time chart is up to you, and the simplest way to capture the difference between the two is that a digital time chart trades tangibility for convenience. Planning out your time for a week on paper, much like carrying around a paper planner, gives you something tangible to carry around, pull out after class, and fill out with pens and pencils. It makes your schedule feel more real, and the <em>process</em> required to upkeep a physical calendar keeps your mind engaged in your schedule. A digital calendar relieves you of the responsibility of filling out the same classes week after week and makes your calendar accessible from anywhere, but it does so at the cost of your physical interaction with your time chart, and this physical interaction is a good way to start forming the habits of mind involved in managing time. Plus it's a lot harder to doodle in the margins of your digital calendar!</p>
     </subsection>
     <subsection xml:id="time-management-final-thoughts">
@@ -396,149 +437,190 @@
     </introduction>
     <subsection xml:id="getting-organized-school-life">
         <title>Getting Your School Life Organized</title>
+        <list>
+            <title>Strategies for Organizing your School Life</title>
+                <ol>
+                    <li>
+                        <p><em>Get a planner and use it.</em> We discuss this strategy above (see <xref ref="time-chart" text="title"/>), but it bears repeating!</p>
+                    </li>
+                    <li>
+                        <p><em>Determine which resources you need for each class and buy/rent/download them.</em></p>
+                        <p>
+                            <ol>
+                                <li>
+                                    <p><em>Even before the semester starts, use the textbook page on the Bookstore website to figure out what you need for the semester.</em></p>
+                                    <p>This is something to look into right away, because in many classes you need to be reading from the textbook before each class. In other classes that require you to read a variety of smaller texts, you generally don't need them all at once. So check your syllabus and prioritize the ones you will be using in the first few weeks of classes, and make a list on your planner for the books you still need to get.</p>
+                                </li>
+                                <li>
+                                    <p><em>On the first day of class when you get the syllabus, see if you need any special computer applications for the class and download them early.</em></p>
+                                    <p>This way, if you run into problems, you have time to solve the problem or go to Tech Services before any assignments requiring the application are due.</p>
+                                </li>
+                                <li>
+                                    <p><em>As soon as you can, print and/or download readings that are posted online so that you can store them in a binder and/or digital folder.</em></p>
+                                    <p>That way, you can access them without WiFi and don't have to worry about a long line at the printer when you want to grab a reading in a hurry.</p>
+                                </li>
+                            </ol>
+                        </p>
+                    </li>
+                    <li>
+                        <p><em>Designate a place to keep track of materials for each class.</em></p>
+                        <p>The system that works best for you will depend somewhat on your classes and your personal preferences, but the basic idea is that you will be working with a lot of paper and digital resources for all of your classes. It's helpful if you use the same basic organizational structure for your digital documents as for your paper documents. A computer is required for lots of assignments in college, and pretty soon documents and readings will start piling in distant folders. Soon, you may find that you can also access some documents after typing approximately twenty different search words in the <q>search my computer</q> bar, until they pop up in a Documents folder within a Documents folder within a Miscellaneous folder. Don't let this happen! Instead, make folders with the name of each class on your personal computer desktop, Google Docs, or your school desktop. This is where the materials for each class will live. Here are some specifics on different kinds of materials you'll have:
+                        <ul>
+                            <li>
+                                <p><term>Notes</term>. For nearly all classes, you'll be keeping notes on paper. If your classes require a lot of lecture notes, a notebook for each class works well. If you have classes that are always on the same day, it can be a good option to have a two<ndash/> or three<ndash/>subject notebook for those classes.</p>
+                            </li>
+                            <li>
+                                <p><term>Readings</term>. If your class uses a collection of various readings, that can lead to a lot of papers floating around! Unless lifting a giant backpack is part of your weight<ndash/>training plan, you will probably not want to bring everything from the whole semester to class every day and you will likely want to have a folder for the week's printed paper readings and a binder in your room where you store readings from earlier and later weeks in the semester.
+                                    <ul>
+                                        <li>
+                                            <p>If your readings are printed out, you will probably find it easiest to organize your stored readings chronologically by week (so, the readings progress from the beginning to the end of the semester, right there in your binder).</p>
+                                        </li>
+                                        <li>
+                                            <p>If your readings are electronic, you may want to rename the files so that they're easy for you to find<mdash/>you might want to name them by the author's last name, or you may want to name them by the date on which you're reading them<mdash/>or by both the author name and the date.</p>
+                                        </li>
+                                    </ul>
+                                </p>
+                            </li>
+                            <li>
+                                <p><term>Assignments.</term> You may receive a paper copy of assignments in class, but it's helpful also to download each assignment from Moodle/Canvas and add it to the digital folder corresponding to that class.</p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p><em>Collect contact informationfrom at least one person in each class.</em></p>
+                    <p>Everyone ends up suffering from the Puget Plague at one point or another, but it doesn't have to make you fall behind in classes. Your week will be a lot easier if you can get the notes and new assignments from a classmate the day of, rather than having to wait until you're recovered to set up a time to meet with your professor. This also gives you a go<ndash/>to person to study with when exams and papers start coming up.</p>
+                </li>
+                <li>
+                    <p><em>Designate a study space that you will always have available.</em></p>
+                    <p>This may take a week or two to figure out, but it is really helpful to have at least one place that is accessible and where you can always work, free of clutter. This could be your desk in your room, but that desk always has to have space to work. So if you don't think you can maintain that or if you keep a lot on your desk, maybe it's the library or your resource room in Thompson. Just find a place that you can always (or almost always) access, where you are able to get into a productive study <q>zone.</q></p>
+                </li>
+            </ol>
+        </list>
         <p>
-        <ol>
-        <li><p><em>Get a planner and use it.</em> We discuss this strategy above (see <xref ref="time-chart" text="title"/>), but it bears repeating!</p></li>
-        <li><p><em>Determine which resources you need for each class and buy/rent/download them.</em></p>
-            <p><ol>
-                <li>
-                    <p>Even before the semester starts, use the textbook page on the Bookstore website to figure out what you need for the semester. This is something to look into right away, because in many classes you need to be reading from the textbook before each class. In other classes that require you to read a variety of smaller texts, you generally don't need them all at once. So check your syllabus and prioritize the ones you will be using in the first few weeks of classes, and make a list on your planner for the books you still need to get.</p>
-                </li>
-                <li>
-                    <p>On the first day of class when you get the syllabus, see if you need any special computer applications for the class and download them early. This way, if you run into problems, you have time to solve the problem or go to Tech Services before any assignments requiring the application are due.</p>
-                </li>
-                <li>
-                    <p>As soon as you can, print and/or download readings that are posted online so that you can store them in a binder and/or digital folder. That way, you can access them without WiFi and don't have to worry about a long line at the printer when you want to grab a reading in a hurry.</p>
-                </li>
-            </ol></p>
-        </li>
-        <li>
-           <p><em>Designate a place to keep track of materials for each class.</em></p>
-            <p>The system that works best for you will depend somewhat on your classes and your personal preferences, but the basic idea is that you will be working with a lot of paper and digital resources for all of your classes. It's helpful if you use the same basic organizational structure for your digital documents as for your paper documents. A computer is required for lots of assignments in college, and pretty soon documents and readings will start piling in distant folders. Soon, you may find that you can also access some documents after typing approximately twenty different search words in the <q>search my computer</q> bar, until they pop up in a Documents folder within a Documents folder within a Miscellaneous folder. Don't let this happen! Instead, make folders with the name of each class on your personal computer desktop, Google Docs, or your school desktop. This is where the materials for each class will live. Here are some specifics on different kinds of materials you'll have:</p>
-            <p><ol>
-                <li><p><em>Notes.</em> For nearly all classes, you'll be keeping notes on paper. If your classes require a lot of lecture notes, a notebook for each class works well. If you have classes that are always on the same day, it can be a good option to have a two<ndash/> or three<ndash/>subject notebook for those classes.</p>
-                </li>
-                <li><p><em>Readings.</em>If your class uses a collection of various readings, that can lead to a lot of papers floating around! Unless lifting a giant backpack is part of your weight<ndash/>training plan, you will probably not want to bring everything from the whole semester to class every day and you will likely want to have a folder for the week's printed paper readings and a binder in your room where you store readings from earlier and later weeks in the semester.</p>
-                    <p><ol>
-                        <li><p>If your readings are printed out, you will probably find it easiest to organize your stored readings chronologically by week (so, the readings progress from the beginning to the end of the semester, right there in your binder).</p></li>
-                        <li><p>If your readings are electronic, you may want to rename the files so that they're easy for you to find<mdash/>you might want to name them by the author's last name, or you may want to name them by the date on which you're reading them<mdash/>or by both the author name and the date.</p></li>
-                    </ol></p>  
-                </li>
-                <li><p><em>Assignments.</em> You may receive a paper copy of assignments in class, but it's helpful also to download each assignment from Moodle/Canvas and add it to the digital folder corresponding to that class.</p></li>
-            </ol></p></li>
-        <li>
-            <p><em>Collect contact information</em> from at least one person in each class. Everyone ends up suffering from the Puget Plague at one point or another, but it doesn't have to make you fall behind in classes. Your week will be a lot easier if you can get the notes and new assignments from a classmate the day of, rather than having to wait until you're recovered to set up a time to meet with your professor. This also gives you a go<ndash/>to person to study with when exams and papers start coming up.</p></li>
-        <li>
-            <p><em>Designate a study space</em> that you will always have available. This may take a week or two to figure out, but it is really helpful to have at least one place that is accessible and where you can always work, free of clutter. This could be your desk in your room, but that desk always has to have space to work. So if you don't think you can maintain that or if you keep a lot on your desk, maybe it's the library or your resource room in Thompson. Just find a place that you can always (or almost always) access, where you are able to get into a productive study <q>zone.</q></p>
-            <p><assemblage>
+            <assemblage>
                 <title>On<ndash/>Campus Places to Study</title>
-        <p><ul>
-            <li><p>Diversions/Oppenheimer</p></li>
-            <li><p>Empty classrooms/resource rooms in Thompson</p></li>
-            <li>
-                <p>The library
+                <p>
                     <ul>
-                        <li>Rooms in the basement</li>
-                        <li>Second floor</li>
-                        <li>Big tables by the front doors</li>
-                        <li>The fourth<ndash/>floor couches</li>
+                        <li><p>Diversions/Oppenheimer</p></li>
+                        <li><p>Empty classrooms/resource rooms in Thompson</p></li>
+                        <li>
+                            <p>The library
+                                <ul>
+                                    <li>Rooms in the basement</li>
+                                    <li>Second floor</li>
+                                    <li>Big tables by the front doors</li>
+                                    <li>The fourth<ndash/>floor couches</li>
+                                </ul>
+                            </p>
+                        </li>
+                        <li><p>Nooks in Wyatt</p></li>
+                        <li><p>Outside (if it's sunny)</p></li>
+                        <li><p>Upstairs in the <acro>SUB</acro></p></li>
+                        <li><p>The rotunda (if it's open)</p></li>
+                        <li><p>Lounges in your residence hall</p></li>
+                        <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
                     </ul>
                 </p>
-            </li>
-            <li><p>Nooks in Wyatt</p></li>
-            <li><p>Outside (if it's sunny)</p></li>
-            <li><p>Upstairs in the <acro>SUB</acro></p></li>
-            <li><p>The rotunda (if it's open)</p></li>
-            <li><p>Lounges in your residence hall</p></li>
-            <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
-        </ul></p>
-            </assemblage></p>
-            <p><assemblage>
+            </assemblage>
+        </p>
+        <p>
+            <assemblage>
                 <title>Off<ndash/>Campus Places to Study</title>
-        <p><ul>
-            <li><p>Metronome</p></li>
-            <li><p>Bluebeard Coffee Roasters</p></li>
-            <li><p>Owen Beach at Point Defiance</p></li>
-            <li><p>Anthem Coffee &amp; Tea</p></li>
-            <!-- Closed <li><p>B#</p></li> -->
-            <li><p>Blackbear</p></li>
-        </ul></p>
-            </assemblage></p>
-        </li>
-        </ol></p>
+                <p>
+                    <ul>
+                        <li><p>Metronome</p></li>
+                        <li><p>Bluebeard Coffee Roasters</p></li>
+                        <li><p>Owen Beach at Point Defiance</p></li>
+                        <li><p>Anthem Coffee &amp; Tea</p></li>
+                        <!-- Closed <li><p>B#</p></li> -->
+                        <li><p>Blackbear</p></li>
+                    </ul>
+                </p>
+            </assemblage>
+        </p>
     </subsection>
     <subsection xml:id="getting-organized-staying-organized">
         <title>Staying Organized</title>
-        <ol>
-            <li>
-                <p><em>Update your planner, every day.</em></p>
-                 <ol>
-                    <li><p>As the semester goes on, keep updating your planner in the daily section when assignments come up</p></li>
-                    <li><p>Also add non<ndash/>academic things to your planner that you need to be sure not to forget. Think doctor appointments, work meetings, and club meetings.</p></li>
-                </ol>
-            </li>
-            <li>
-                <p><em>Secure all the resources you need for each week.</em></p>
-                <ol>
-                    <li><p>This will apply most to classes involving a variety of materials, rather than one main textbook. If your class has frequent readings, download all the readings you will need for that week. Put them in your desktop folder for that class.</p></li>
-                    <li><p>If you'll be reading a new book next week, make sure you have it and switch out your materials.</p></li>
-                    <li><p>Friday is probably the best day to get everything together quickly for the next week. If you're planning to check out for part of the weekend, once you are back in school mode, your assignments will be ready for you to tackle.</p></li>
-                </ol>
-            </li>
-            <li>
-                <p><em>Bring the right materials to each class by planning the day before.</em> Each night, make sure you have the folder and the notebook/binder for each class the next day.</p></li> 
-            <li>
-                <p><em>Keep your technology updated. Back up your files.</em> This is a very important step that gets easily overlooked or put off, but it's easy to do and helps avoid a student's worst nightmare: computer crashes right before a major paper is due, when you lose the file and have to beg your professor for an extension and wallow as you contemplate whether technology is destroying society. This means a lot of stress for you, and your professor is likely to see this kind of predicament as a poor planning problem rather than a technology problem. So, with better planning, you can avoid this!</p>
-                <ol>
-                    <li><p>There are lots of cloud<ndash/>based options for storage (iCloud, GoogleDrive, Dropbox, OneDrive<mdash/>as well as your own personal Puget Sound account at <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/student-technology-resources/network-storage/">vDesk</url>. Even if your computer crashes or gets stolen, you can still access your documents in the cloud.</p></li>
-                    <li><p>You could also back up to an external hard drive.</p></li>
-                    <li><p>If these things are still confusing, just go to Tech Services and ask for help! They will be happy to restore you with a sense of academic calm.</p></li>
-                </ol>
-            </li>
-            <li>
-                <p><em>Put your semester into deep storage.</em> At the end of each semester, make a new folder and place all the classes from the past semester there, so you can access them again if you need to but so that they don't clutter up your day<ndash/>to<ndash/>day life. Label this folder something obvious, like Spring 2018 Courses, or <init>UPS</init> Semester 1. Here's an example</p>
-                <figure>
-                    <caption>Sample file hierarchy for organizing coursework</caption>
-                    <image source="images/AS-deepstorageicloudscreenshot"><description>iCloud drive Deep Storage</description></image>
-                </figure>
-            </li>
-        </ol>
+        <list xml:id="list-academic-success-staying-organized">
+            <title>Strategies for Staying Organized</title>
+            <ul>
+                <li>
+                    <p><em>Update your planner, every day.</em></p>
+                     <p>As the semester goes on, keep updating your planner in the daily section when assignments come up. Also add non<ndash/>academic things to your planner that you need to be sure not to forget. Think doctor appointments, work meetings, and club meetings.</p>
+                </li>
+                <li>
+                    <p><em>Secure all the resources you need for each week.</em></p>
+                    <p>This principle will apply most to classes involving a variety of materials, rather than one main textbook. If your class has frequent readings, download all the readings you will need for that week. Put them in your desktop folder for that class. If you'll be reading a new book next week, make sure you have it and switch out your materials. Friday is probably the best day to get everything together quickly for the next week. If you're planning to check out for part of the weekend, once you are back in school mode, your assignments will be ready for you to tackle.</p>
+                </li>
+                <li>
+                    <p><em>Bring the right materials to each class by planning the day before.</em></p>
+                    <p>Each night, make sure you have the folder and the notebook/binder for each class the next day.</p>
+                </li> 
+                <li>
+                    <p><em>Keep your technology updated, and <em>back up your files.</em></em></p>
+                    <p>This important step is often overlooked or put off, but it's easy to do and helps avoid a student's worst nightmare: your computer crashes right before a major paper is due, when you lose the file and have to beg your professor for an extension and wallow as you contemplate whether technology is destroying society. This means a lot of stress for you, and your professor is likely to see this kind of predicament as a poor planning problem rather than a technology problem. So, with better planning, you can avoid this!</p>
+                    <p>There are lots of cloud<ndash/>based options for storage (iCloud, GoogleDrive, Dropbox, OneDrive<mdash/>as well as your own personal Puget Sound account at <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/student-technology-resources/network-storage/">vDesk</url>. Even if your computer crashes or gets stolen, you can still access your documents in the cloud.</p> 
+                    <p>You could also back up to an external hard drive. If these things are still confusing, just go to Tech Services and ask for help! They will be happy to restore you with a sense of academic calm.</p>
+                </li>
+                <li>
+                    <p><em>Put your semester into deep storage.</em></p>
+                    <p>At the end of each semester, make a new folder and place all the classes from the past semester there, so you can access them again if you need to but so that they don't clutter up your day<ndash/>to<ndash/>day life. Label this folder something obvious, like Spring 2018 Courses, or <init>UPS</init> Semester 1. Here's an example:</p>
+                    <sidebyside>
+                        <image source="images/AS-deepstorageicloudscreenshot"><description>iCloud drive Deep Storage</description></image>
+                    </sidebyside>
+                </li>
+            </ul>
+        </list>
     </subsection>
     <subsection xml:id="getting-organized-school-meets-life">
         <title>School Meets Life</title>
         <p>A lot of what you'll be doing in college revolves around school, but there are lots of other parts of your life where keeping organized will make everything more relaxed and productive. Here are a few tips.</p>
-        <paragraphs xml:id="par-organizing-email">
-        <title>Email</title>
-            <p>Once you start college, you'll likely have at least two email addresses: your personal one and your Puget Sound account, and having multiple accounts means that it's helpful to have a plan for keeping on top of those new demands.
-                <ul>
-                    <li><p><em>Decide how you want to use your different accounts<mdash/>there are different approaches.</em> Some people prefer to keep things strictly school vs. personal, and that makes it easier when you graduate and don't use your Puget Sound account any more. Some people like everything being mixed together, because that makes it easier to just check one account. Regardless of your strategy, you'll need to check your Puget Sound email, since you'll get emails from professors and from the school there.</p></li> 
-                    <li><p><em>Don't keep thousands of unread messages in your inbox.</em> If this is already the state of your email, clear/mark as read your unread messages. Before you do this, make sure there are no important unread messages, because it's easy to forget about them once they're marked <q>read.</q> It's different for each type of email, but a quick online search will get you step<ndash/>by<ndash/>step instructions.</p></li>
-                    <li><p><em>Check your email at least once a day while you're enrolled in classes and at least every few days during other times if you're expecting contact from anyone.</em> During the school week, it's helpful to check at least once in the morning and once in the evening, as professors will generally inform you about assignments or changes to the syllabus via email. If your morning class is cancelled, you don't want to miss the chance to sleep in because you didn't check your email!</p></li> 
-                </ul>
-            </p>
-        </paragraphs>
-        <paragraphs xml:id="par-organizing-files">
-        <title>File organization</title>
-            <p>Part of being an adult is learning how to deal with all of the important papers that will come your way<mdash/>and all the important papers you'll need to hang on to for when you want to get a job after graduation. Think about what documents are in your life and divide them into categories, so you can always access something if you need it. It really depends on what your life looks like, but some examples that could be helpful are:
-            <p>
-                <dl>
-                    <li>
-                        <title>Career information</title>
-                        <p>Keep a running list of the places you've worked, the dates you worked there, and your supervisors' names and contact info<mdash/>along with the more polished versions of this information (resumes, cover letters for past applications, personal statements). This folder is likely to expand and may need to have more sections within it.</p>
-                    </li>
-                    <li>
-                        <title>Financial documents</title>
-                        <p>Organize forms you need for taxes, scholarship information, really anything having to do with money.</p>
-                    </li>
-                    <li>
-                        <title>Miscellaneous activities</title>
-                        <p>Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in <accro>ASUPS</accro> club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p>
-                    </li>
-                </dl>
-            </p>
-            <p>Then, do the same with your physical documents. If you don't want to hang on to the paper copy, you can scan things for free at Collins Library's scanners. Your filing system doesn't have to be anything overly complicated. Label the files with the same names as on your computer and add any additional categories you need.</p> 
-            </p>
-        </paragraphs>
+        
+        <list xml:id="list-organizing-email">
+            <title>Strategies for Organizing Email</title>
+            <introduction>
+                <p>Once you start college, you'll likely have at least two email addresses: your personal one and your Puget Sound account, and having multiple accounts means that it's helpful to have a plan for keeping on top of those new demands.</p>
+            </introduction>
+            <ul>
+                <li>
+                    <p><em>Decide how you want to use your different accounts<mdash/>there are different approaches.</em></p>
+                    <p>Some people prefer to keep things strictly school vs. personal, and that makes it easier when you graduate and don't use your Puget Sound account any more. Some people like everything being mixed together, because that makes it easier to just check one account. Regardless of your strategy, you'll need to check your Puget Sound email, since you'll get emails from professors and from the school there.</p>
+                </li> 
+                <li>
+                    <p><em>Don't keep thousands of unread messages in your inbox.</em></p>
+                    <p>If this is already the state of your email, clear/mark as read your unread messages. Before you do this, make sure there are no important unread messages, because it's easy to forget about them once they're marked <q>read.</q> It's different for each type of email, but a quick online search will get you step<ndash/>by<ndash/>step instructions.</p>
+                </li>
+                <li>
+                    <p><em>Check your email at least once a day while you're enrolled in classes and at least every few days during other times if you're expecting contact from anyone.</em></p>
+                    <p>During the school week, it's helpful to check at least once in the morning and once in the evening, as professors will generally inform you about assignments or changes to the syllabus via email. If your morning class is cancelled, you don't want to miss the chance to sleep in because you didn't check your email!</p>
+                </li> 
+            </ul>
+        </list>
+        <list xml:id="list-organizing-files">
+            <title>Strategies for Organizing Digital Files</title>
+            <introduction>
+                <p>Part of being an adult is learning how to deal with all of the important papers that will come your way<mdash/>and all the important papers you'll need to hang on to for when you want to get a job after graduation. Think about what documents are in your life and divide them into categories, so you can always access something if you need it.</p>
+            </introduction>
+            <ul>
+                <li>
+                    <p><em>Keep track of potential <em>career information.</em></em></p>
+                    <p>Keep a running list of the places you've worked, the dates you worked there, and your supervisors' names and contact info<mdash/>along with the more polished versions of this information (resumes, cover letters for past applications, personal statements). This folder is likely to expand and may need to have more sections within it.</p>
+                </li>
+                <li>
+                    <p><em>Keep track of <em>medical and financial information.</em></em></p>
+                    <p>Organize forms you need for taxes, scholarship information, really anything having to do with money or your health.</p>
+                </li>
+                <li>
+                    <p><em>Keep track of <em>miscellaneous activities</em> you've participated in.</em></p>
+                    <p>Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in <accro>ASUPS</accro> club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p>
+                </li>
+            </ul>
+            <conclusion>
+                <p>Then, do the same with your physical documents. If you don't want to hang on to the paper copy, you can scan things for free at Collins Library's scanners. Your filing system doesn't have to be anything overly complicated. Label the files with the same names as on your computer and add any additional categories you need.</p> 
+            </conclusion>
+        </list>
+        
     </subsection>
     </section>
 </chapter>

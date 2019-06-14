@@ -551,37 +551,39 @@
         </paragraphs>
         <paragraphs>
             <title>Compartmentalize</title>
-            <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (Remember you can <xref ref="tricks-use-technology" text="title"/>).</p>
+            <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (Remember you can <xref ref="tricks-use-technology"/>).</p>
         </paragraphs>
         <sidebyside width="50%">
             <image source="images/WP-CutePenguin"/>
         </sidebyside>
-        <list>
-            <paragraphs><title>Tricks</title>
-            <dl>
-                <li>
-                    <title>Check bibliographies!</title>
-                    <p>If you find yourself repeatedly using a specific article, try looking up the sources that the author lists in the article's bibliography<mdash/>you'll probably find even more sources that are also useful!</p>
-                </li>
-                <li>
-                    <title>Make an annotated bibliography</title>
-                    <p>Sometimes professors assign annotated bibliographies to encourage students to begin researching and thinking about the research process. If you are assigned one, then take it seriously and do as much work as possible on it. By the time you're ready to start writing your paper, you'll already have most of your sources compiled, most of your citations done, and most of your background information gathered. While an annotated bibliography may seem like an unnecessary hassle, you will thank yourself later! If you aren't assigned one, though, you can create an informal version for yourself. Simply gather your useful articles and summarize the <em>argument</em> of each in your own words. You might also add a sentence or two about how you plan to use the article as evidence for your argument. If you're feeling really productive (or if you want to procrastinate productively), you could also write the citations for each article to go along with your annotations (don't leave this for the last second!).</p>
-                </li>
-                <li>
-                    <title>Leave notes to yourself while you're writing</title>
-                    <p>So you have done some research, started figuring out your ideas, and finally gotten into a groove when, all of a sudden, you stumble across something that you need to research more. But the thing is, you don't want to stop writing because you might lose your groove! What do you do? Fear not! You can always leave a note to yourself (like this! <q>Research more about penguins.</q> You might even <highlight>highlight</highlight> the note OR PUT IT IN ALL CAPS to remind yourself to go back and address it!), and continue your sentence as if you've already done the research. Especially since you can always go back and revise your sentence based on the new evidence you find, if you're mid thought and don't want to interrupt yourself, then don't!</p>
-                </li>
-                <li>
-                    <title>Color-code</title>
-                    <p>If you like to color-code, you might try using different-colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: NEVER write in books from Collins Library! Save your sticky notes for those.)</p>
-                </li>
-                <li xml:id="tricks-use-technology">
-                    <title>Use technology</title>
-                    <p>Since most articles are quite long and you probably won't use every page from every article, save your <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
-                </li>
-            </dl>
+        <paragraphs>
+            <title>Strategies for Researching while Writing</title>
+            <p>
+                <ul>
+                    <li>
+                        <p><em>Check bibliographies!</em></p>
+                        <p>If you find yourself repeatedly using a specific article, try looking up the sources that the author lists in the article's bibliography<mdash/>you'll probably find even more sources that are also useful!</p>
+                    </li>
+                    <li>
+                        <p><em>Make an annotated bibliography.</em></p>
+                        <p>Sometimes professors assign annotated bibliographies to encourage students to begin researching and thinking about the research process. If you are assigned one, then take it seriously and do as much work as possible on it. By the time you're ready to start writing your paper, you'll already have most of your sources compiled, most of your citations done, and most of your background information gathered. While an annotated bibliography may seem like an unnecessary hassle, you will thank yourself later! If you aren't assigned one, though, you can create an informal version for yourself. Simply gather your useful articles and summarize the <em>argument</em> of each in your own words. You might also add a sentence or two about how you plan to use the article as evidence for your argument. If you're feeling really productive (or if you want to procrastinate productively), you could also write the citations for each article to go along with your annotations (don't leave this for the last second!).</p>
+                    </li>
+                    <li>
+                        <p><em>Leave notes to yourself while you're writing.</em></p>
+                        <p>So you have done some research, started figuring out your ideas, and finally gotten into a groove when, all of a sudden, you stumble across something that you need to research more. But the thing is, you don't want to stop writing because you might lose your groove! What do you do? Fear not! You can always leave a note to yourself (like this! <q>Research more about penguins.</q> You might even <highlight>highlight</highlight> the note OR PUT IT IN ALL CAPS to remind yourself to go back and address it!), and continue your sentence as if you've already done the research. Especially since you can always go back and revise your sentence based on the new evidence you find, if you're mid thought and don't want to interrupt yourself, then don't!</p>
+                    </li>
+                    <li>
+                        <p><em>Color<ndash/>code.</em></p>
+                        <p>If you like to color-code, you might try using different-colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: <alert>never</alert> write in books from Collins Library! Save your sticky notes for those.)</p>
+                    </li>
+                    <li xml:id="tricks-use-technology">
+                        <title>Use technology</title>
+                        <p><em>Use technology.</em></p>
+                        <p>Since most articles are quite long and you probably won't use every page from every article, save your <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
+                    </li>
+                </ul>
+            </p>
         </paragraphs>
-        </list>
         <sidebyside width="50%">
             <image source="images/WP-LoggersLiveGreen"/>
         </sidebyside>
@@ -736,99 +738,110 @@
         <sidebyside width="50%">
             <image source="images/clock"/>
         </sidebyside>
-        <list>
-            <paragraphs><title>Managing Time</title>
-            <dl>
-                <li>
-                    <title>Good time management helps prevent frustration</title>
-                    <p>Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance (and, if you have to procrastinate, try using these tips on <xref ref="productive-procrastination" text="title"/>).</p></li>
-                <li>
-                    <title>Create a schedule</title>
-                    <p>Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the <init>CWLT</init> or Collins Library early enough to get an appointment time that works best for you.</p></li>
-                <li>
-                    <title>Start early</title>
-                    <p>If planning a timeline is too structured for your personal writing process, you should at least plan to start early!</p>
-                </li>
-                <li>
-                    <title>Make an appointment</title>
-                    <p>Make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</p>
-                </li>
-            </dl>
-            </paragraphs>
-        </list>
-        <list>
-            <paragraphs><title>What do you do if you've put the paper off too long and are now pressed for time?</title>
-            <introduction>
-                <p>Don't put it off any longer. Start! You might be frustrated with yourself, but don't let that frustration derail the time that you do have left. Procrastination happens to everyone, so it's best to forgive yourself, to move on, and to remember that frustration next time you think about procrastinating. Now, take a deep breath and figure out where you are in the writing process. If you haven't yet started<nbsp/><ellipsis/></p>
-            </introduction>
-            <dl>
-                <li>
-                    <title>Research</title>
-                    <p>Do your research. Unfortunately, you may not have as much time as you would like to investigate everything you had hoped to. You have to be as efficient as possible, so don't dilly-dally while you're looking for sources. Use the research terms suggested in <xref ref="research-methods"/> to search more effectively. Read the title of an article and, if it looks promising, click on the link. Read the abstract. If the paper still looks useful to you, download the full article. Skim the introduction and conclusion. Scroll through the article and read section headings. If any part in particular might contribute to your research, skim that section (see <xref ref="skimming"/>). Look for arguments the author is making or any relevant data you might be able to use. When you find something you think you'll need for your paper, stop skimming and read carefully. Make a note of whatever you have found, and make sure that you label or code the note so you know which source it's from. Save the source in whatever way you save sources to keep track of them. Don't let researching become another way for you to procrastinate. When you have a sufficient amount of information, move on. You can (and should) always research more later.</p>
-                </li>
-                <li>
-                    <title>Planning</title>
-                    <p>Get out a piece of paper or a whiteboard and plan. Hopefully you will have previously played around with/practiced different types of outlines so you know which to use (for outlining ideas, see <xref ref="outlining"/>). Even if you haven't, choose a planning and an outline format that you think will enable you to organize your ideas most logically and effectively. Before you begin an outline, try writing down all the ideas you have and connecting them in a way you see fit. Let those connections guide your outline. For your outline, focus on the components of your argument: your main claim, supporting claims, and evidence. Use the six-step process outlined in <xref ref="thesis-development"/> to develop a solid working thesis. Identify an order for the body paragraphs of your paper, and then determine where your evidence will go and how you're going to use it. Be sure not to get too caught up on planning. You might need to revise your plan as you write, so the plan doesn't have to be perfect. It just needs to give you a solid idea of what your paper is going to look like.</p>
-                </li>
-                <li>
-                    <title>Writing</title>
-                    <p>Start writing as soon as possible, but make sure that you're going into your draft with background research and a plan in mind. Some people write well under pressure, while others feel too stressed or stifled to begin writing. Identify which type of writer you are, and then relax and act accordingly. If writing under pressure works for you, then go for it. Just be sure to leave time for revision. If writing under pressure makes you freeze up, then relax! Remember why you chose your topic, what excites you about your research, or what compelling points you plan to make in your essay. Writing last minute is not ideal, but you can still write an amazing paper and develop important ideas in a short amount of time. Yes, your paper most likely would have been better if you had started earlier (remember that for next time!), but you can only move forward now. So take a breath and start writing! You have your research and your plan, and now you only need to put the ideas together. Good luck; you can do it!</p>
-                </li>
-                <li>
-                    <title>Revising</title>
-                    <p>Unless your paper is due in five minutes and you're still writing, it's best to save a little time for revision. Even in that case, consider finishing up what you're writing and try revising for a minute or two<mdash/>a solid, logical argument and the absence of small, accidental errors might benefit you more in the long run than a little extra length. However, when you have more time, save as much as possible for revision. Ideally you'll be able to take a short break to clear your mind before you begin revising, so aim to block off at least 15<ndash/>20 minutes. As long as you have a complete draft, the more time you save for revision, the better. Taking a break and stepping away from your paper, which you'll likely have been staring at for a while, will help you have a better perspective when you return to revise. Take a walk, look out the window, do some stretches, talk to a friend, or grab a snack. When you return, take a breath and read through your paper. Focus primarily on your <em>thesis</em> (Does it make sense? Does it reflect what you ended up arguing throughout your paper?), your <em>topic sentences</em> (Do they tell the reader what each paragraph is about and how each point connects to your main argument? Are they clear?), and your <em>introduction</em> and <em>conclusion</em> (Does your introduction begin without clichés? Do you introduce the topic concisely but effectively? Does your conclusion summarize your argument without simply repeating what you've said? Do you raise questions about significance and further research? What do you leave the reader with?). If you have more time, visit the <xref ref="revision-checklist" text="title"/>. If you have even more time than you thought you would, you can also look for places where elaboration or explanation is needed, where your evidence is weak, where you could reorganize, or where sentences need to be revised or rewritten.</p>
-                </li>
-                <li>
-                    <title>Think about next time</title>
-                    <p>You might have survived this paper, and maybe you even end up getting a great grade, but <em>don't make a habit out of starting your papers late</em>. It's amazing how much more you can learn and how much better you can get at writing when you have the time to reflect on what you've written, to revise thoroughly, and to talk to others about your ideas.</p>
-                </li>
-            </dl>
-            </paragraphs>
-        </list>
-        <list>
-            <paragraphs><title>Some tips to fight off procrastination:</title>
-            <dl>
-                <li>
-                    <title>Figure out why you want to procrastinate</title>
-                    <p>Are you afraid? Uninterested in your topic? Do you not know where to start? Or do you just really want to catch up on your favorite TV show? (For ideas about how to address these problems, see <xref ref="what-to-do-when-you-get-stuck"/>)</p></li>
-                <li>
-                    <title>Tell yourself that you'll work for five minutes</title>
-                    <p>That's it. It may sound crazy, but this is actually a really good way to lie to<mdash/>I mean, to <q>encourage</q><mdash/>yourself in order to get work done. Once you've begun working, your anxiety about starting (or your desire to Internet surf to avoid working) will hopefully diminish, and you will likely find yourself able to work for much longer than five minutes.</p></li>
-                <li>
-                    <title>Create your ideal work environment</title>
-                    <p>You're finally away from home, you have your own (<nbsp/><ellipsis/> shared) space, and you've instituted a moratorium on any type of cleaning or organizing. Although you might be living the cleaning-free dream (perhaps to the dismay of your roommate), consider throwing away some of those granola bar wrappers and taking your <acro>SUB</acro> dishes back to the <acro>SUB</acro> (seriously, take them back to the <acro>SUB</acro>). Having a clean working space might help you focus. If not, try studying in different places around campus until you find a space that you can work in. Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the rotunda, upstairs in the <acro>SUB</acro>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the <init>CWLT</init>, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!). Your study preferences might be different for each of your classes, so experiment!</p></li>
-                <li>
-                    <title>List your tasks, and break them down into parts</title>
-                    <p>While pretending your work doesn't exist may seem like the ideal solution, we assure you that it is not. You can lay all of your books, folders, or syllabi on the ground or your bed and organize them by priority or amount of work. Alternatively, you can make a list with all of your classes and write out the week's assignments for each class. Once you've faced the harsh reality of all the work you have to do, take a breath! Now, split up each task into manageable parts. Have 100 pages of reading? Can you split it up into groups of 20 or 25? Have six math problems? Do them in sets of two or three. Have a ten-page paper to write? Try writing two pages a day. By splitting something into its components, you'll likely feel less overwhelmed and therefore less desperate to procrastinate.</p></li>
-                <li>
-                    <title>Limit distractions</title>
-                    <p>
-                        This tip is probably the worst one. It can be really hard! But know that some time away from the non-research-related Internet (<eg/>, YouTube, Facebook, Netflix, Buzzfeed<nbsp/><ellipsis/> ) isn't a bad thing. In fact, it might make rewarding yourself (after a chunk of study time, of course) with some Internet time even more satisfying. To reduce temptations, you can try various strategies:
-                        <ul>
-                            <li><p> Look up browser plug-ins or apps that restrict access to certain websites for periods of time.</p></li>
-                            <li><p>See if your phone needs an update (it's hard to text when it's taking five minutes to restart!).</p></li>
-                            <li><p>Put your phone on a <q>do not disturb</q> setting, or ask your friends not to bother you for a while; turn off notifications.</p></li>
-                            <li><p>Go in a public place where you'd be embarrassed to be seen procrastinating for two hours.</p></li>
-                            <li><p>Ask a friend to study with you, and keep each other accountable.</p></li>
-                            <li><p>Make a schedule that requires you to work but rewards you with a break (for example, you might work diligently for fifty minutes and then reward yourself with a ten-minute YouTube video or ten minutes of a show on Netflix each hour<mdash/>just beware that you don't get too distracted during your breaks).</p></li>
-                        </ul>
-                    </p>
-                </li>
-                <li>
-                    <title>If you need to, try treating yourself like a small child</title>
-                    <p>You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to The Cellar for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch the new <em>Game of Thrones</em> episode.</q></p></li>
-                <li>
-                    <title>Remind yourself of what you're excited about</title>
-                    <p>Sometimes we get so caught up in the tediousness of the work we have to do that we forget why we're here. Even if you're procrastinating on work for a class you don't enjoy, try to think about the bigger picture<mdash/>completing your assignment means that you're one step closer to fulfilling a requirement and moving on to classes you're more interested in. But hey, the assignment might also surprise you, and you might end up learning something that you find fascinating. You never know!</p></li>
-                <li>
-                    <title>Forgive yourself</title>
-                    <p>Procrastination happens! Forgive yourself and move on. Don't let the fact that you've been procrastinating all day keep you from starting on your work.</p></li>
-                <li>
-                    <title>Decrease the amount of work you have to begin with</title>
-                    <p>You'd be surprised at how much you can get done during the little chunks of time you have throughout the day, be it five minutes before class, an awkward hour in between classes, or extra time in the morning or before bed. Even if you can only read a couple of pages, write a paragraph, or finish a math problem during a small break, that's still less work you'll have to do later. Plan ahead and bring along any materials you might need to be as productive as possible.</p></li>
-            </dl>
-            </paragraphs>
-        </list>
+        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance (and, if you have to procrastinate, try using these tips on <xref ref="productive-procrastination" text="title"/>).</p>
+        <paragraphs>
+            <title>Strategies for Managing Time</title>
+            <p>
+                <ul>
+                    <li>
+                        <p><em>Create a schedule.</em></p>
+                        <p>Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the <init>CWLT</init> or Collins Library early enough to get an appointment time that works best for you.</p>
+                    </li>
+                    <li>
+                        <p><em>Start early.</em></p>
+                        <p>If planning a timeline is too structured for your personal writing process, you should at least plan to start early!</p>
+                    </li>
+                    <li>
+                        <p><em>Make an academic consulting appointment.</em></p>
+                        <p>Make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</p>
+                    </li>
+                </ul>
+            </p>
+        </paragraphs>
+        <paragraphs xml:id="par-process-strategies-too-late">
+            <!-- <title>What do you do if you've put the paper off too long and are now pressed for time?</title> -->
+            <title>Strategeis for Managing Time when you're Pressed for Time</title>
+            <p>
+                <ul>
+                    <li>
+                        <p><em>Don't put it off any longer. Start!</em></p>
+                        <p>You might be frustrated with yourself, but don't let that frustration derail the time that you do have left. Procrastination happens to everyone, so it's best to forgive yourself, to move on, and to remember that frustration next time you think about procrastinating. Now, take a deep breath and figure out where you are in the writing process. If you haven't yet started<nbsp/><ellipsis/></p>
+                    </li>
+                    <li>
+                        <p><em>Do your research.</em></p>
+                        <p>Unfortunately, you may not have as much time as you would like to investigate everything you had hoped to. You have to be as efficient as possible, so don't dilly-dally while you're looking for sources. Use the research terms suggested in <xref ref="research-methods"/> to search more effectively. Read the title of an article and, if it looks promising, click on the link. Read the abstract. If the paper still looks useful to you, download the full article. Skim the introduction and conclusion. Scroll through the article and read section headings. If any part in particular might contribute to your research, skim that section (see <xref ref="skimming"/>). Look for arguments the author is making or any relevant data you might be able to use. When you find something you think you'll need for your paper, stop skimming and read carefully. Make a note of whatever you have found, and make sure that you label or code the note so you know which source it's from. Save the source in whatever way you save sources to keep track of them. Don't let researching become another way for you to procrastinate. When you have a sufficient amount of information, move on. You can (and should) always research more later.</p>
+                    </li>
+                    <li>
+                        <p><em>Get out a piece of paper or a whiteboard and plan.</em></p>
+                        <p>Hopefully you will have previously played around with/practiced different types of outlines so you know which to use (for outlining ideas, see <xref ref="outlining"/>). Even if you haven't, choose a planning and an outline format that you think will enable you to organize your ideas most logically and effectively. Before you begin an outline, try writing down all the ideas you have and connecting them in a way you see fit. Let those connections guide your outline. For your outline, focus on the components of your argument: your main claim, supporting claims, and evidence. Use the six-step process outlined in <xref ref="thesis-development"/> to develop a solid working thesis. Identify an order for the body paragraphs of your paper, and then determine where your evidence will go and how you're going to use it. Be sure not to get too caught up on planning. You might need to revise your plan as you write, so the plan doesn't have to be perfect. It just needs to give you a solid idea of what your paper is going to look like.</p>
+                    </li>
+                    <li>
+                        <p><em>Start writing as soon as possible, but make sure that you're going into your draft with background research and a plan in mind.</em></p>
+                        <p>Some people write well under pressure, while others feel too stressed or stifled to begin writing. Identify which type of writer you are, and then relax and act accordingly. If writing under pressure works for you, then go for it. Just be sure to leave time for revision. If writing under pressure makes you freeze up, then relax! Remember why you chose your topic, what excites you about your research, or what compelling points you plan to make in your essay. Writing last minute is not ideal, but you can still write an amazing paper and develop important ideas in a short amount of time. Yes, your paper most likely would have been better if you had started earlier (remember that for next time!), but you can only move forward now. So take a breath and start writing! You have your research and your plan, and now you only need to put the ideas together. Good luck; you can do it!</p>
+                    </li>
+                    <li>
+                        <p><em>Unless your paper is due in five minutes and you're still writing, <alert>save a little time for revision.</alert></em></p>
+                        <p>Even in that case, consider finishing up what you're writing and try revising for a minute or two<mdash/>a solid, logical argument and the absence of small, accidental errors might benefit you more in the long run than a little extra length. However, when you have more time, save as much as possible for revision. Ideally you'll be able to take a short break to clear your mind before you begin revising, so aim to block off at least 15<ndash/>20 minutes. As long as you have a complete draft, the more time you save for revision, the better. Taking a break and stepping away from your paper, which you'll likely have been staring at for a while, will help you have a better perspective when you return to revise. Take a walk, look out the window, do some stretches, talk to a friend, or grab a snack. When you return, take a breath and read through your paper. Focus primarily on your <em>thesis</em> (Does it make sense? Does it reflect what you ended up arguing throughout your paper?), your <em>topic sentences</em> (Do they tell the reader what each paragraph is about and how each point connects to your main argument? Are they clear?), and your <em>introduction</em> and <em>conclusion</em> (Does your introduction begin without clichés? Do you introduce the topic concisely but effectively? Does your conclusion summarize your argument without simply repeating what you've said? Do you raise questions about significance and further research? What do you leave the reader with?). If you have more time, visit the <xref ref="revision-checklist" text="title"/>. If you have even more time than you thought you would, you can also look for places where elaboration or explanation is needed, where your evidence is weak, where you could reorganize, or where sentences need to be revised or rewritten.</p>
+                    </li>
+                    <li>
+                        <p><em>Think about next time</em></p>
+                        <p>You might have survived this paper, and maybe you even end up getting a great grade, but <em>don't make a habit out of starting your papers late</em>. It's amazing how much more you can learn and how much better you can get at writing when you have the time to reflect on what you've written, to revise thoroughly, and to talk to others about your ideas.</p>
+                    </li>
+                </ul>
+            </p>
+        </paragraphs>
+        <paragraphs xml:id="par-process-strategies-procrastination">
+            <title>Strategies for Fighting off Procrastination</title>
+            <p>
+                <ul>
+                    <li>
+                        <p><em>Figure out why you want to procrastinate.</em></p>
+                        <p>Are you afraid? Uninterested in your topic? Do you not know where to start? Or do you just really want to catch up on your favorite TV show? (For ideas about how to address these problems, see <xref ref="what-to-do-when-you-get-stuck"/>)</p>
+                    </li>
+                    <li>
+                        <p><em>Tell yourself that you'll work for five minutes.</em></p>
+                        <p>That's it. It may sound crazy, but this is actually a really good way to lie to<mdash/>I mean, to <q>encourage</q><mdash/>yourself in order to get work done. Once you've begun working, your anxiety about starting (or your desire to Internet surf to avoid working) will hopefully diminish, and you will likely find yourself able to work for much longer than five minutes.</p>
+                    </li>
+                    <li>
+                        <p><em>Create your ideal work environment.</em></p>
+                        <p>You're finally away from home, you have your own (<nbsp/><ellipsis/> shared) space, and you've instituted a moratorium on any type of cleaning or organizing. Although you might be living the cleaning-free dream (perhaps to the dismay of your roommate), consider throwing away some of those granola bar wrappers and taking your <acro>SUB</acro> dishes back to the <acro>SUB</acro> (seriously, take them back to the <acro>SUB</acro>). Having a clean working space might help you focus. If not, try studying in different places around campus until you find a space that you can work in. Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the rotunda, upstairs in the <acro>SUB</acro>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the <init>CWLT</init>, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!). Your study preferences might be different for each of your classes, so experiment!</p>
+                    </li>
+                    <li>
+                        <p><em>List your tasks, and break them down into parts.</em></p>
+                        <p>While pretending your work doesn't exist may seem like the ideal solution, we assure you that it is not. You can lay all of your books, folders, or syllabi on the ground or your bed and organize them by priority or amount of work. Alternatively, you can make a list with all of your classes and write out the week's assignments for each class. Once you've faced the harsh reality of all the work you have to do, take a breath! Now, split up each task into manageable parts. Have 100 pages of reading? Can you split it up into groups of 20 or 25? Have six math problems? Do them in sets of two or three. Have a ten-page paper to write? Try writing two pages a day. By splitting something into its components, you'll likely feel less overwhelmed and therefore less desperate to procrastinate.</p>
+                    </li>
+                    <li>
+                        <p><em>Limit distractions.</em></p>
+                        <p>This tip is probably the worst one. It can be really hard! But know that some time away from the non-research-related Internet (<eg/>, YouTube, Facebook, Netflix, Buzzfeed<nbsp/><ellipsis/> ) isn't a bad thing. In fact, it might make rewarding yourself (after a chunk of study time, of course) with some Internet time even more satisfying. To reduce temptations, you can try various strategies:
+                            <ul>
+                                <li><p> Look up browser plug-ins or apps that restrict access to certain websites for periods of time.</p></li>
+                                <li><p>See if your phone needs an update (it's hard to text when it's taking five minutes to restart!).</p></li>
+                                <li><p>Put your phone on a <q>do not disturb</q> setting, or ask your friends not to bother you for a while; turn off notifications.</p></li>
+                                <li><p>Go in a public place where you'd be embarrassed to be seen procrastinating for two hours.</p></li>
+                                <li><p>Ask a friend to study with you, and keep each other accountable.</p></li>
+                                <li><p>Make a schedule that requires you to work but rewards you with a break (for example, you might work diligently for fifty minutes and then reward yourself with a ten-minute YouTube video or ten minutes of a show on Netflix each hour<mdash/>just beware that you don't get too distracted during your breaks).</p></li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p><em>If you need to, try treating yourself like a small child.</em></p>
+                        <p>You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to The Cellar for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch the new <em>Game of Thrones</em> episode.</q></p>
+                    </li>
+                    <li>
+                        <p><em>Remind yourself of what you're excited about.</em></p>
+                        <p>Sometimes we get so caught up in the tediousness of the work we have to do that we forget why we're here. Even if you're procrastinating on work for a class you don't enjoy, try to think about the bigger picture<mdash/>completing your assignment means that you're one step closer to fulfilling a requirement and moving on to classes you're more interested in. But hey, the assignment might also surprise you, and you might end up learning something that you find fascinating. You never know!</p>
+                    </li>
+                    <li>
+                        <p><em>Forgive yourself.</em></p>
+                        <p>Procrastination happens! Forgive yourself and move on. Don't let the fact that you've been procrastinating all day keep you from starting on your work.</p>
+                    </li>
+                    <li>
+                        <p><em>Decrease the amount of work you have to begin with.</em></p>
+                        <p>You'd be surprised at how much you can get done during the little chunks of time you have throughout the day, be it five minutes before class, an awkward hour in between classes, or extra time in the morning or before bed. Even if you can only read a couple of pages, write a paragraph, or finish a math problem during a small break, that's still less work you'll have to do later. Plan ahead and bring along any materials you might need to be as productive as possible.</p>
+                    </li>
+                </ul>
+            </p>
+        </paragraphs>
     </subsection>
     </section>
 </chapter>
