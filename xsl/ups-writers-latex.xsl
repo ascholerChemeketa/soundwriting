@@ -41,7 +41,7 @@
 </xsl:template>
 
 <xsl:template match="note" mode="tcb-style">
-    <xsl:text>colbacktitle=green, attach title to upper</xsl:text>
+    <xsl:text> fonttitle=\normalfont\bfseries, coltitle=black, attach title to upper</xsl:text>
 </xsl:template>
 
 <xsl:template match="observation" mode="tcb-style">
@@ -53,7 +53,7 @@
 </xsl:template>
 
 <xsl:template match="insight" mode="tcb-style">
-    <xsl:text>colbacktitle=red,after title={\LaTeX}, sharp corners</xsl:text>
+    <xsl:text>colbacktitle=red,coltitle=black, after title={\LaTeX}, sharp corners</xsl:text>
 </xsl:template>
 
 
