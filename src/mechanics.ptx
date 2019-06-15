@@ -48,22 +48,24 @@
                         </li>
                         <li>
                             <title>Conjunction</title>
-                            <p>connects phrases and clauses<dl>
-                                <li>
-                                    <title>Coordinating conjunction</title>
-                                    <p>coordinates two ideas that are emphasized equally in the sentence</p>
-                                    <p>Examples: for, and, nor, but, or, yet, so</p>
-                                    <aside>
-                                        <title>Fun Fact</title>
-                                        <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
-                                    </aside>
-                                </li>
-                                <li>
-                                    <title>Subordinating conjunction</title>
-                                    <p>subordinates one idea or clause to another idea or clause</p>
-                                    <p>Examples: after, although, because, since, than, whether, while</p>
-                                </li>
-                            </dl></p>
+                            <p>connects phrases and clauses
+                                <dl>
+                                    <li>
+                                        <title>Coordinating conjunction</title>
+                                        <p>coordinates two ideas that are emphasized equally in the sentence</p>
+                                        <p>Examples: for, and, nor, but, or, yet, so</p>
+                                    </li>
+                                    <li>
+                                        <title>Subordinating conjunction</title>
+                                        <p>subordinates one idea or clause to another idea or clause</p>
+                                        <p>Examples: after, although, because, since, than, whether, while</p>
+                                    </li>
+                                </dl>
+                                <insight>
+                                    <!-- <title>Fun Fact</title> -->
+                                    <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
+                                </insight>
+                        </p>
                         </li>
                         <li>
                             <title>Interjection</title>
@@ -340,10 +342,10 @@
                                 <li><p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p></li>
                                 <li><p><q>I need to drink coffee when I'm tired.</q></p></li>
                             </ul></p>
-                            <aside>
-                                <title>Note</title>
+                            <note>
+                                <!-- <title>Note</title> -->
                                 <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
-                            </aside>
+                            </note>
                         </li>
                         <li>
                             <title><term>Compound-Complex</term></title>
@@ -394,10 +396,10 @@
                 <title>Subordination and Coordination</title>
                 <p>Because both clauses in a compound sentence are independent, neither one is obviously backgrounded in relation to the other (as in a complex sentence). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the coordinating conjunction), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
                 <p>As its name implies, a subordinate clause must always be subordinated to the independent clause in a complex sentence. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
-                <paragraphs>
-                    <title>Note</title>
+                <note xml:id="note-mechanics-compound-sentences">
+                    <!-- <title></title> -->
                     <p>Compound sentences are easily transformed into complex sentences. For instance, the example <q>I miss my high school friends, but I'm excited to make new friends.</q> could be reconstructed to read <q>Although I miss my high school friends, I'm excited to make new friends.</q> Consider what meaning you want to convey in your sentence and construct accordingly.</p>
-                </paragraphs>
+                </note>
             </subsubsection>
         </subsection>
         <subsection xml:id="infinitives">
@@ -458,10 +460,10 @@
                         </li>
                     </dl>
                 </p>
-                <aside>
-                    <title>Note</title>
+                <note>
+                    <!-- <title>Note</title> -->
                     <p>Though there are instances when it would be practical to split the infinitive, you need not always use an adverb. Cutting adverbs, especially when they result in split infinitives, often makes writing cleaner and more fluid.</p>
-                </aside>
+                </note>
             </subsubsection>
             <subsubsection xml:id="when-to-avoid-splitting-infinitives">
                 <title>When not to Split Infinitives</title>
@@ -595,10 +597,10 @@
                 </sidebyside>
                 <p>There are also some English words, especially in the sciences, that have tricky plural forms, so you might not even realize that the word you're using is actually plural. One great example is the word <em>data</em>, which is plural (<em><q>The data suggest that<ellipsis/></q></em>).</p>
                 <p>Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
-                <aside>
-                    <title>Note</title>
+                <note>
+                    <!-- <title>Note</title> -->
                     <p>What may seem like problems with subject-verb agreement might actually be <em>correct</em> subject-verb agreement in another variety of English.</p>
-                </aside>
+                </note>
             </subsubsection>
             <subsubsection xml:id="pronoun-antecedent-not-agreeing">
                 <title>Pronoun<ndash/>Antecedent Agreement</title>
@@ -1167,7 +1169,7 @@
             <sidebyside width="50%">
                 <image source="images/LM-HerbTheStrongVerb"/>
             </sidebyside>
-            <paragraphs xml:id="strong-verb-list">
+            <list xml:id="strong-verb-list">
                 <title>Strong Verbs</title>
                     <dl>
                         <li><title>Affirm</title><p>to assert or support</p></li>
@@ -1201,11 +1203,11 @@
                         <li><title>Supplant</title><p>to take the place of, replace</p></li>
                         <li><title>Vilify</title><p>to defame or slander</p></li>
                     </dl>
-            </paragraphs>
-            <aside>
-                <title>Note</title>
+            </list>
+            <note>
+                <!-- <title>Note</title> -->
                 <p>You don't need to fill your writing with big, obscure words; instead, you'll want to use more complex words where appropriate to convey meaning more precisely and concisely.</p>
-            </aside>
+            </note>
         </subsection>
         <subsection xml:id="considering-homophones">
             <title>Considering Homophones</title>
@@ -1961,10 +1963,10 @@
                         <p><q>In spite of the slight breeze, it's [it has] been a pleasant day here on campus.</q></p>
                     </blockquote>
                 </example>
-                <aside>
+                <note>
                     <title>Note</title>
                     <p>It's important to remember that contractions (such as <q>it's</q>) are informal and generally not appropriate in academia and should rarely be used in formal academic writing (such as lab reports, analytical essays, <etc/>). HOWEVER: the use of <q>it's</q> depends on the discipline, professor, writing assignment, and your own creative and scholarly voice, so don't be afraid to employ it intentionally as you see fit.</p>
-                </aside>
+                </note>
             </subsubsection>
         </subsection>
     </section>
@@ -2032,10 +2034,10 @@
                         </li>
                     </ol>
                 </list>
-                <paragraphs>
-                    <title>Note</title>
+                <note>
+                    <!-- <title>Note</title> -->
                     <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), commas (and periods) go inside quotation marks.</p>
-                </paragraphs>
+                </note>
                 <paragraphs xml:id="par-comma-splices">
                     <title>Comma splices</title>
                     <p>These occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" text="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q></em> Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused? What can you do instead? You have several options!</p>
@@ -2081,10 +2083,10 @@
                         <p><q>I like to eat sandwiches; they are yummy.</q></p>
                     </li>
                 </ol></p>
-                <paragraphs>
-                    <title>Note</title>
+                <note>
+                    <!-- <title>Note</title> -->
                     <p>Don't capitalize the word following the semicolon unless it's a proper noun.</p>
-                </paragraphs>
+                </note>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-colon">
                 <title>Colon <dblbrackets>:</dblbrackets></title>
@@ -2095,10 +2097,10 @@
                 <example>
                     <p><q>I learned about the coolest thing in class today: a long time ago, a scientist conducted an experiment where <url href="http://io9.gizmodo.com/18th-century-biologists-put-pants-on-frogs-to-test-the-1552252710">he put tiny pants on frogs</url>.</q></p>
                 </example>
-                <paragraphs>
-                    <title>Note</title>
+                <note>
+                    <!-- <title>Note</title> -->
                     <p>You don't usually need to capitalize the word following a colon (unless it's a proper noun), but some style guides recommend it, so if you have questions, as always, ask your professor.</p>
-                </paragraphs>
+                </note>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-dash">
                 <title>Dash <dblbrackets><ndash/></dblbrackets> and <dblbrackets><mdash/></dblbrackets></title>
@@ -2350,9 +2352,10 @@
                         <li><p>10's</p></li>
                     </ul>
                 </p>
-                <assemblage>
+                <note>
+                    <!-- <title></title> -->
                     <p>Beware the personal pronouns <q>hers,</q> <q>yours,</q> <q>ours,</q> <q>its,</q> <q>theirs,</q> and <q>whose,</q> which do not use an apostrophe.</p>
-                </assemblage>
+                </note>
             </subsubsection>
         </subsection>
         <subsection xml:id="punctuation-capitalization">
@@ -2525,10 +2528,10 @@
                             </li>
                         </ul>
                     </p>
-                    <aside>
-                        <title>Additional Note</title>
+                    <note>
+                        <!-- <title>Additional Note</title> -->
                         <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies!).</q></p>
-                    </aside>
+                    </note>
                 </li>
                 <li xml:id="could-of-contracted-ve">
                     <p><stale>Could of</stale> → <insert>Could've</insert></p>
@@ -2554,10 +2557,10 @@
                         <li><p>Lie → lying = <q>You have been lying around all day!</q></p></li>
                         <li><p>Lay → laying = <q>You have been laying things all over the house!</q></p></li>
                     </ul></p>
-                    <aside>
+                    <insight>
                         <title>A Tip for the Indolent</title>
                         <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to.</p>
-                    </aside>
+                    </insight>
                 </li>
                 <li>
                     <p>Drink/drank/drunk<ul>

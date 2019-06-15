@@ -202,23 +202,36 @@
             <sidebyside width="50%">
                 <image source="images/AD-WorkingThesisResearch"/>
             </sidebyside>
-            <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready? A solid thesis often does <acro>MORE</acro>.</p>
-            <assemblage>
-                <title><acro>MORE</acro></title>
-                <p>
-                    <ul>
-                        <li><p><acro>M</acro>akes a clear assertion of your main claim</p></li>
-                        <li><p><acro>O</acro>ffers the kinds of evidence you will be using</p></li>
-                        <li><p><acro>R</acro>eflects the general organization of your argument/paper</p></li>
-                        <li><p><acro>E</acro>xplains how you will use your evidence to support your claim</p></li>
-                    </ul>
-                </p>
-            </assemblage>
+            <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready?</p>
+            <list xml:id="lsit-argument-MORE">
+                <title>Do <acro>MORE</acro></title>
+                <introduction>
+                    <p>A solid thesis often does <acro>MORE</acro>.</p>
+                </introduction>
+                <dl>
+                    <li>
+                        <title>Makes</title> 
+                        <p>a clear assertion of your main claim</p>
+                    </li>
+                    <li>
+                        <title>Offers</title>
+                        <p>the kinds of evidence you will be using</p>
+                    </li>
+                    <li>
+                        <title>Reflects</title>
+                        <p>the general organization of your argument/paper</p>
+                    </li>
+                    <li>
+                        <title>Explains</title>
+                        <p>how you will use your evidence to support your claim</p>
+                    </li>
+                </dl>
+            </list>
             <sidebyside width="50%">
                 <image source="images/AD-IsItReadyYet"/>
             </sidebyside>
             <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p>
-            <p>Consider the following example theses from Puget Sound student papers. In what ways do they or do they not do <acro>MORE</acro>?</p>
+            <p>Consider the following example theses from Puget Sound student papers. In what ways do they or do they not <xref ref="lsit-argument-MORE"/>?</p>
             <example>
                 <p>While women do have a substantial presence in the <em>Odyssey</em>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <em>Odyssey</em> primarily reinforces the chauvinist framework through which we view the world.</p>
             </example>

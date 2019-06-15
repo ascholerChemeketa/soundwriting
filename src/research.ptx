@@ -106,30 +106,30 @@
             <p>Consider learning how to use a knowledge-management tool. Collins Library supports RefWorks and Zotero, and any librarian would be more than happy to help you get started. These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p>
             <p>Your research assignment prompt likely will indicate what kinds of (and often how many) sources you should aim for. But a source is not a source is not a source! <em>How</em> are you using sources? Take things one step further by analyzing precisely how you will use each source when building your argument so that you're able to use your sources in the most appropriate way. One helpful framework is <url href="http://www.tandfonline.com/doi/pdf/10.1080/07350190701738858">Joseph Bizup's <acro>BEAM</acro> model</url>. <acro>BEAM</acro> is an acronym intended to help us think about the various ways we <em>use</em> sources when writing a researched argument. Understanding how you're using a source is essential to using it correctly and effectively.</p>
         </paragraphs>
-        <paragraphs xml:id="BEAM">
+        <list xml:id="BEAM">
             <title><acro>BEAM</acro></title>
-            <p>
-                <dl>
-                    <li>
-                        <title><acro>B</acro>ackground</title>
-                        <p>You use tertiary sources (subject encyclopedias, textbooks, overviews) to establish basic facts and definitions.</p>
-                    </li>
-                    <li>
-                        <title><acro>E</acro>xhibit</title>
-                        <p>You analyze and interpret primary sources, a dataset, or another phenomenon of study.</p>
-                    </li>
-                    <li>
-                        <title><acro>A</acro>rgument</title>
-                        <p>You evaluate and assess the arguments in academic secondary sources as a way to join the scholarly conversation.</p>
-                    </li>
-                    <li>
-                        <title><acro>M</acro>ethod</title>
-                        <p>You use theories or disciplinary approaches when examining your topic.</p>
-                    </li>
-                </dl>
-            </p>
-            <p>Though writing in high school consists mostly of <q>background</q> sources, most research writing that you do in college will be stronger if you use sources in a combination of most or all of these ways.</p>
-        </paragraphs>
+            <dl>
+                <li>
+                    <title><acro>B</acro>ackground</title>
+                    <p>You use tertiary sources (subject encyclopedias, textbooks, overviews) to establish basic facts and definitions.</p>
+                </li>
+                <li>
+                    <title><acro>E</acro>xhibit</title>
+                    <p>You analyze and interpret primary sources, a dataset, or another phenomenon of study.</p>
+                </li>
+                <li>
+                    <title><acro>A</acro>rgument</title>
+                    <p>You evaluate and assess the arguments in academic secondary sources as a way to join the scholarly conversation.</p>
+                </li>
+                <li>
+                    <title><acro>M</acro>ethod</title>
+                    <p>You use theories or disciplinary approaches when examining your topic.</p>
+                </li>
+            </dl>
+            <conclusion>
+                <p>Though writing in high school consists mostly of <q>background</q> sources, most research writing that you do in college will be stronger if you use sources in a combination of most or all of these ways.</p>
+            </conclusion>
+        </list>
     </section>
     <section xml:id="define-and-refine-research-question">
         <title>Defining and Refining a Research Question</title>

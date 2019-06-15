@@ -63,10 +63,12 @@
                         <li>
                             <p><em>Address your professor with the name they use to sign their emails.</em></p>
                             <p>If a professor uses their first name in their closing, then it is likely that the professor is okay with you calling them by their first name. However, if you're in doubt, then you should definitely ask the professor's preference.</p>
-                            <aside>
-                                <title>Sidenote</title>
-                                <p>It's much easier to ask at the beginning of the semester how a professor prefers to be addressed rather than at the middle or end of the semester, when it is more awkward.</p>
-                            </aside>
+                            <p>
+                                <insight>
+                                    <!-- <title>Sidenote</title> -->
+                                    <p>It's much easier to ask at the beginning of the semester how a professor prefers to be addressed rather than at the middle or end of the semester, when it is more awkward.</p>
+                                </insight>
+                            </p>
                         </li>
                         <li>
                             <p><em>Reply to emails promptly.</em></p>
