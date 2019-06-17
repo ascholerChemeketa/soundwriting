@@ -104,10 +104,10 @@
             <subsubsection xml:id="clauses">
                 <title>Clauses</title>
                 <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <term>subject</term> and a <term>predicate</term>, <em>which also means that every clause has a noun and a verb</em>. Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
-                <paragraphs xml:id="par-clauses-recall">
-                    <title>Recall</title>
+                <note xml:id="note-clauses-recall">
+                    <!-- <title>Recall</title> -->
                     <p>The subject is the thing or person a sentence is about. The predicate is the part of a sentence that modifies (<ie/>, tells you what's going on with) the subject. The predicate also contains a verb and sometimes a direct or an indirect object or different kinds of phrases.</p>
-                </paragraphs>
+                </note>
                 <paragraphs xml:id="par-clauses-independent">
                     <title>Independent/Main</title>
                     <p>An independent clause, also called a main clause, has a subject and a verb and conveys a complete thought.</p>
@@ -1135,28 +1135,26 @@
                 <title>Incorrect Word Choice</title>
                 <p>Incorrect word choice usually occurs when a writer uses a word outside of its standard definition or context. This misuse can happen for a variety of reasons, including the writer having a wrong mental definition of the word, not knowing the word's popular connotation, or using the word in an inappropriate disciplinary context.</p>
             </paragraphs>
-            <paragraphs xml:id="par-effective-words-misusing">
-                <title>Guidelines to avoid misusing words</title>
-                <p>
-                    <ul>
-                        <li>
-                            <p><em>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up!</em></p>
-                            <p>We, for example,  just looked up <q>err</q> to make sure that was the right word to use.</p>
-                        </li>
-                        <li>
-                            <p><em>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course).</em></p> 
-                            <p>The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p>
-                        </li>
-                        <li>
-                            <p><em>Do your course readings to learn which words have specific (different) meaning in particular disciplines.</em></p>
-                            <p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. You can't avoid every mistake, but professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p>
-                        </li>
-                        <li>
-                            <p><em>Read <xref ref="considering-homophones"/> to avoid misusing words that sound alike.</em></p>
-                        </li>
-                    </ul>
-                </p>
-            </paragraphs>
+            <list xml:id="list-effective-words-misusing">
+                <title>Strategies for Using the Right Words</title>
+                <ul>
+                    <li>
+                        <p><em>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up!</em></p>
+                        <p>We, for example,  just looked up <q>err</q> to make sure that was the right word to use.</p>
+                    </li>
+                    <li>
+                        <p><em>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course).</em></p> 
+                        <p>The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p>
+                    </li>
+                    <li>
+                        <p><em>Do your course readings to learn which words have specific (different) meaning in particular disciplines.</em></p>
+                        <p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. You can't avoid every mistake, but professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p>
+                    </li>
+                    <li>
+                        <p><em>Read <xref ref="considering-homophones"/> to avoid misusing words that sound alike.</em></p>
+                    </li>
+                </ul>
+            </list>
             <paragraphs xml:id="par-effective-words-ineffective">
                 <title>Ineffective Word Choice</title>
                 <p>While academic writing usually employs more abstruse and sophisticated language than you find in every day conversation, sometimes using <q>big words</q> simply to sound smart can come across to an audience as pedantic. Words that are overly complicated and obfuscate the meaning of a sentence are therefore ineffective; if the point of writing is to convey meaning clearly, a confusing word should not get in the way of that meaning.</p>
@@ -1225,7 +1223,7 @@
             <sidebyside width="50%">
                 <image source="images/LM-PassiveVoice"/>
             </sidebyside>
-            <list>
+            <list xml:id="list-mechanics-passive-voice-strategies">
                 <title>Strategies for Identifying Passive Voice</title>
                 <introduction>
                 <p>Below are some ways you can identify the passive voice. Please note that these tips are general guidelines, not concrete characteristics of every instance of passive voice.</p>
@@ -1323,8 +1321,24 @@
             <introduction>
                 <p><term>Homophones</term> are words that sound the same but have different meanings and spellings. Because homophones share the same pronunciations (or sound similar), they are commonly confused in writing, especially when you know the spelling of one homophone but intend to convey the other. Below is a list of commonly confused homophones and some example sentences using them. But if you are unsure of a word and it's not listed here, try looking it up in a dictionary or thesaurus to make sure it's the word you want!</p>
             </introduction>
+            <paragraphs>
+                <title>Common Homophones TEST </title>
+                <p>
+                    <sbsgroup margins="0%" widths="45% 45%">
+                        <sidebyside>
+                            <p>I have <em>a lot</em> of homework this week.</p>
+                            <p>I will <em>allot</em> three hours to doing homework today.</p>
+                        </sidebyside>
+                        <sidebyside>
+                            <p>I <em>accept</em> your apology for cutting me in line at Diversions.</p>
+                            <p>I’ve tried every coffee flavoring, <em>except</em> lavender.</p>
+                        </sidebyside>
+                    </sbsgroup>
+                </p>
+            </paragraphs>
+
                 <table xml:id="homophone-table">
-                    <title>Common homophones</title>
+                    <title>Common Homophones</title>
                     <caption>Common homophones and example sentences</caption>
                     <tabular>
                         <col width="30%"/>
@@ -2264,117 +2278,113 @@
                 <sidebyside width="50%">
                     <image source="images/LM-CircleLogoAmpersand"/>
                 </sidebyside>
-                <paragraphs>
+                <list xml:id="list-mechanics-quoting-sentences-strategies">
                     <title>Strategies for Quoting Complete Sentences</title>
-                    <p>
-                        <ul>
-                            <li>
-                                <p><em>Enclose the quote within two sets of quotation marks.</em></p>
-                                <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote. For instance, take the following sentences:</p>
-                                <blockquote>
-                                    <p>According to the first-year seminar student, <q>The <init>CWLT</init> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
-                                </blockquote>
-                                <blockquote>
-                                    <p>In the first-year seminar student's reaction to going to the <init>CWLT</init>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
-                                </blockquote>
-                            </li>
-                            <li>
-                                <p><em>Preface the quote with a comma after the preceding word.</em></p>
-                                <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote. For instance:</p>
-                                <blockquote>
-                                    <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <init>CWLT</init>, then!</q></p>
-                                </blockquote>
-                            </li>
-                            <li>
-                                <p><em>Capitalize the quoted sentence.</em></p>
-                                <p>If you are quoting a complete sentence, capitalize the first letter of the quoted sentence.</p>
-                                <blockquote>
-                                    <p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all Puget Sound students to achieve their academic goals.</q></p>
-                                </blockquote>
-                                <blockquote>
-                                    <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
-                                </blockquote>
-                            </li>
-                            <li>
-                                <p><em>End each quoted sentence within the quotation marks.</em></p>
-                                <p>If you are ending your sentence with a quoted sentence, end the quote with a period, exclamation point, or ellipsis before the final set of quotation marks.</p>
-                            </li>
-                            <li>
-                                <p><em>Integrate your quotes into the grammar of your sentence.</em></p>
-                                <p>If you are breaking your quoted sentence into two parts, end the first part with a comma and do not capitalize the second part.</p>
-                                <blockquote>
-                                    <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
-                                </blockquote>
-                                <blockquote>
-                                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <init>CWLT</init> are very nice and accommodating.</q></p>
-                                </blockquote>
-                            </li>
-                            <li>
-                                <p><em>Use an ellipsis to replace omitted source material.</em></p>
-                                <p>Sometimes the information you want to quote will be near the beginning or end of a long sentence or passage, but the material in between may not be applicable or useful to you. If this is the case, you can use an ellipsis (<ellipsis/>) to replace the material you are omitting. However, it's important that the material you are replacing does not change the meaning or intent of the source material.</p>
-                                <blockquote>
-                                    <p>According to the director of the <init>CWLT</init>, Professor Julie Nelson Christoph, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
-                                </blockquote>
-                                <p>Because any quote comes from a larger context, an ellipsis is only needed at the beginning or end of a quote if it would appear otherwise that the entire sentence was quoted.</p>
-                                <p>For example, if this were the original sentence, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
-                            </li>
-                            <li>
-                                <p><em>Use brackets to indicate non-standard elements or changes.</em></p>
-                                <p>Sometimes direct quotes have spelling or grammatical deviations from <init>SAE</init>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
-                                <blockquote>
-                                    <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
-                                </blockquote>
-                                <blockquote>
-                                    <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p>
-                                </blockquote>
-                            </li>
-                            <li>
-                                <p><em>Use brackets to enclose important nouns missing in quote.</em></p>
-                                <p>Sometimes sentences omit a previously referred-to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun.</p>
-                                <blockquote>
-                                    <p>The writing advisor emphasized, <q>[The <init>CWLT</init>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
-                                </blockquote>
-                                <blockquote>
-                                    <p><q>Additionally, if you need a coffee or tea break, it [the <init>CWLT</init>] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
-                                </blockquote>
-                            </li>
-                        </ul>
-                    </p>
-                </paragraphs>
-                <paragraphs>
+                    <ul>
+                        <li>
+                            <p><em>Enclose the quote within two sets of quotation marks.</em></p>
+                            <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote. For instance, take the following sentences:</p>
+                            <blockquote>
+                                <p>According to the first-year seminar student, <q>The <init>CWLT</init> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
+                            </blockquote>
+                            <blockquote>
+                                <p>In the first-year seminar student's reaction to going to the <init>CWLT</init>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p><em>Preface the quote with a comma after the preceding word.</em></p>
+                            <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote. For instance:</p>
+                            <blockquote>
+                                <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <init>CWLT</init>, then!</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p><em>Capitalize the quoted sentence.</em></p>
+                            <p>If you are quoting a complete sentence, capitalize the first letter of the quoted sentence.</p>
+                            <blockquote>
+                                <p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all Puget Sound students to achieve their academic goals.</q></p>
+                            </blockquote>
+                            <blockquote>
+                                <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p><em>End each quoted sentence within the quotation marks.</em></p>
+                            <p>If you are ending your sentence with a quoted sentence, end the quote with a period, exclamation point, or ellipsis before the final set of quotation marks.</p>
+                        </li>
+                        <li>
+                            <p><em>Integrate your quotes into the grammar of your sentence.</em></p>
+                            <p>If you are breaking your quoted sentence into two parts, end the first part with a comma and do not capitalize the second part.</p>
+                            <blockquote>
+                                <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
+                            </blockquote>
+                            <blockquote>
+                                <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <init>CWLT</init> are very nice and accommodating.</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p><em>Use an ellipsis to replace omitted source material.</em></p>
+                            <p>Sometimes the information you want to quote will be near the beginning or end of a long sentence or passage, but the material in between may not be applicable or useful to you. If this is the case, you can use an ellipsis (<ellipsis/>) to replace the material you are omitting. However, it's important that the material you are replacing does not change the meaning or intent of the source material.</p>
+                            <blockquote>
+                                <p>According to the director of the <init>CWLT</init>, Professor Julie Nelson Christoph, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
+                            </blockquote>
+                            <p>Because any quote comes from a larger context, an ellipsis is only needed at the beginning or end of a quote if it would appear otherwise that the entire sentence was quoted.</p>
+                            <p>For example, if this were the original sentence, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
+                        </li>
+                        <li>
+                            <p><em>Use brackets to indicate non-standard elements or changes.</em></p>
+                            <p>Sometimes direct quotes have spelling or grammatical deviations from <init>SAE</init>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
+                            <blockquote>
+                                <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
+                            </blockquote>
+                            <blockquote>
+                                <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p><em>Use brackets to enclose important nouns missing in quote.</em></p>
+                            <p>Sometimes sentences omit a previously referred-to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun.</p>
+                            <blockquote>
+                                <p>The writing advisor emphasized, <q>[The <init>CWLT</init>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
+                            </blockquote>
+                            <blockquote>
+                                <p><q>Additionally, if you need a coffee or tea break, it [the <init>CWLT</init>] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
+                            </blockquote>
+                        </li>
+                    </ul>
+                </list>
+                <list xml:id="list-mechanics-quoting-fragments-strategies">
                     <title>Strategies for Quoting Sentence Fragments</title>
-                    <p>
-                        <ul>
-                            <li>
-                                <p><em>Quoted fragments should not be capitalized.</em></p>
-                                <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.</p>
-                                <blockquote>
-                                    <p>Although Jordan knew the due date for the lab report was impending, they remarked that they felt a <q>sudden spasm of panic</q> when they realized the report was due tomorrow.</p>
-                                </blockquote>
-                                <blockquote>
-                                    <p>Anxious about their upcoming organic chemistry exam, the student noted that their appointment with the chemistry subject tutor made them feel <q>calm and collected.</q></p>
-                                </blockquote>
-                            </li>
-                            <li>
-                                <p><em>Incorporate quoted fragments into the syntax of your sentence.</em></p>
-                                <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.</p>
-                                <blockquote>
-                                    <p>After their meeting with Rachael Shelden, assistant director of the <init>CWLT</init>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
-                                </blockquote>
-                            </li>
-                            <li>
-                                <p><em>Use block quotes for large quoted sections.</em></p>
-                                <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
-                                <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.</p>
-                                <p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
-                                <blockquote>
-                                    <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
-                                    <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
-                                </blockquote>
-                            </li>
-                        </ul>
-                    </p>
-                </paragraphs>
+                    <ul>
+                        <li>
+                            <p><em>Quoted fragments should not be capitalized.</em></p>
+                            <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.</p>
+                            <blockquote>
+                                <p>Although Jordan knew the due date for the lab report was impending, they remarked that they felt a <q>sudden spasm of panic</q> when they realized the report was due tomorrow.</p>
+                            </blockquote>
+                            <blockquote>
+                                <p>Anxious about their upcoming organic chemistry exam, the student noted that their appointment with the chemistry subject tutor made them feel <q>calm and collected.</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p><em>Incorporate quoted fragments into the syntax of your sentence.</em></p>
+                            <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.</p>
+                            <blockquote>
+                                <p>After their meeting with Rachael Shelden, assistant director of the <init>CWLT</init>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
+                            </blockquote>
+                        </li>
+                        <li>
+                            <p><em>Use block quotes for large quoted sections.</em></p>
+                            <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
+                            <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.</p>
+                            <p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
+                            <blockquote>
+                                <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
+                                <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
+                            </blockquote>
+                        </li>
+                    </ul>
+                </list>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-apostrophes">
                 <title>Apostrophes</title>
@@ -2643,10 +2653,11 @@
                             </li>
                         </ul>
                     </p>
-                    <note>
-                        <!-- <title>Additional Note</title> -->
-                        <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies!).</q></p>
-                    </note>
+                    <p>
+                        <note>
+                            <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies!).</q></p>
+                        </note>
+                    </p>
                 </li>
                 <li xml:id="could-of-contracted-ve">
                     <p><stale>Could of</stale> → <insert>Could've</insert></p>
@@ -2655,27 +2666,37 @@
                 <li xml:id="lay-lie-laid-lain">
                     <p>Lay vs. Lie and Laid vs. Lain</p>
                     <p>Maybe just forget about this one. (Just kidding<mdash/>kind of.) Despite being such a wonderful thing, the act of lying (laying?) down can cause a world of pain when trying to write about it. The crucial thing you must determine is what (or who) is doing the laying/lying: (1) Is someone or something lying down on their own? (2) Or is someone laying something (or someone) else down?</p>
-                    <p>Present tense:<ul>
-                        <li><p>Lie = <q>You lie down.</q></p></li>
-                        <li><p>Lay = <q>You lay something down.</q></p></li>
-                    </ul></p>
+                    <p>Present tense:
+                        <ul>
+                            <li><p>Lie = <q>You lie down.</q></p></li>
+                            <li><p>Lay = <q>You lay something down.</q></p></li>
+                        </ul>
+                    </p>
                     <p>Seems easy enough, but, unfortunately, it gets more confusing.</p>
-                    <p>Past tense:<ul>
-                        <li><p>Lie → lay = <q>You lay down too often.</q></p></li>
-                        <li><p>Lay → lie = <q>You lie something down.</q></p></li>
-                    </ul></p>
-                    <p>Past participle:<ul>
-                        <li><p>Lie → lain = <q>You have lain down for too long.</q></p></li>
-                        <li><p>Lay → laid = <q>You have laid down far too many things today.</q></p></li>
-                    </ul></p>
-                    <p>-ing versions:<ul>
-                        <li><p>Lie → lying = <q>You have been lying around all day!</q></p></li>
-                        <li><p>Lay → laying = <q>You have been laying things all over the house!</q></p></li>
-                    </ul></p>
-                    <insight>
-                        <title>A Tip for the Indolent</title>
-                        <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to.</p>
-                    </insight>
+                    <p>Past tense:
+                        <ul>
+                            <li><p>Lie → lay = <q>You lay down too often.</q></p></li>
+                            <li><p>Lay → lie = <q>You lie something down.</q></p></li>
+                        </ul>
+                    </p>
+                    <p>Past participle:
+                        <ul>
+                            <li><p>Lie → lain = <q>You have lain down for too long.</q></p></li>
+                            <li><p>Lay → laid = <q>You have laid down far too many things today.</q></p></li>
+                        </ul>
+                    </p>
+                    <p><ndash/>ing versions:
+                        <ul>
+                            <li><p>Lie → lying = <q>You have been lying around all day!</q></p></li>
+                            <li><p>Lay → laying = <q>You have been laying things all over the house!</q></p></li>
+                        </ul>
+                    </p>
+                    <p>
+                        <insight>
+                            <!-- <title>A Tip for the Indolent</title> -->
+                            <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to.</p>
+                        </insight>
+                    </p>
                 </li>
                 <li>
                     <p>Drink/drank/drunk<ul>
@@ -2689,44 +2710,60 @@
                     <p>This distinction is rapidly falling out of use, but a tip about how to remember the different usages might come in handy.</p>
                     <p>If you would say <q>him,</q> <q>her,</q> or <q>them,</q> then you should use whom. If you would say <q>he,</q> <q>she,</q> or <q>they,</q> then use who.</p>
                     <p>
-                        Examples:
-                        <ul>
-                            <li><p><q>I am speaking to her.</q> → <q>To whom am I speaking?</q></p></li>
-                            <li><p><q>She called.</q> → <q>Who called?</q></p></li>
-                            <li><p><q>I envy him.</q> → <q>He's the person whom I envy.</q></p></li>
-                        </ul>
+                        <example>
+                            <title>Who vs. Whom</title>
+                            <p>
+                                <ul>
+                                    <li><p><q>I am speaking to her.</q> → <q>To whom am I speaking?</q></p></li>
+                                    <li><p><q>She called.</q> → <q>Who called?</q></p></li>
+                                    <li><p><q>I envy him.</q> → <q>He's the person whom I envy.</q></p></li>
+                                </ul>
+                            </p>
+                        </example>
                     </p>
                 </li>
                 <li>
                     <p>Fewer vs. Less</p>
                     <p>This one is simple! If you can count it, use <q>fewer.</q> If you can't count it, use <q>less.</q></p>
                     <p>
-                        Examples:
-                        <ul>
-                            <li><p><q>I want fewer homework assignments.</q></p></li>
-                            <li><p><q>I want less homework.</q></p></li>
-                            <li><p><q>I want fewer cartons of milk.</q></p></li>
-                            <li><p><q>I want less milk.</q></p></li>
-                        </ul>
+                        <example>
+                            <title>Fewer vs. Less</title>
+                            <p>
+                                <ul>
+                                    <li><p><q>I want fewer homework assignments.</q></p></li>
+                                    <li><p><q>I want less homework.</q></p></li>
+                                    <li><p><q>I want fewer cartons of milk.</q></p></li>
+                                    <li><p><q>I want less milk.</q></p></li>
+                                </ul>
+                            </p>
+                        </example>
                     </p>
                 </li>
                 <li>
                     <p>Who's vs. Whose</p>
                     <p>Possessives in English are the worst! <q>Who's</q> seems like it would denote possession because it has an apostrophe, which is how we usually indicate that someone has something (with the exception of possessive pronouns like hers, his, theirs, and yours, of course<ellipsis/>). But, unfortunately, <q>who's</q> is a contraction of <q>who is</q> or <q>who has</q> and it has nothing to do with possession.</p>
                     <p>
-                        Examples:
-                        <ul>
-                            <li><p><q>Who's that over there?</q> → <q>Who is that over there?</q></p></li>
-                            <li><p><q>She's the one who's been helping me.</q> → <q>She is the one who has been helping me.</q></p></li>
-                        </ul>
+                        <example>
+                            <title>Who's Who?</title>
+                            <p>
+                                <ul>
+                                    <li><p><q>Who's that over there?</q> → <q>Who is that over there?</q></p></li>
+                                    <li><p><q>She's the one who's been helping me.</q> → <q>She is the one who has been helping me.</q></p></li>
+                                </ul>
+                            </p>
+                        </example>
                     </p>
                     <p><q>Whose,</q> on the other hand, indicates that someone, <q>who,</q> possesses something. If you're a fan of early 2000s American comedy, you might use <em>Whose Line is it Anyway?</em> as a mnemonic device.</p>
                     <p>
-                        Examples:
-                        <ul>
-                            <li><p><q>Whose baby is that?</q> → <q>To whom does that baby belong?</q></p></li>
-                            <li><p><q>My friend, whose bike was stolen, decided to buy a U-lock.</q> → <q>My friend, who possessed a bike that was stolen, decided to buy a U-lock.</q></p></li>
-                        </ul>
+                        <example>
+                            <title>Whose Mnemonic Device?</title>
+                            <p>
+                                <ul>
+                                    <li><p><q>Whose baby is that?</q> → <q>To whom does that baby belong?</q></p></li>
+                                    <li><p><q>My friend, whose bike was stolen, decided to buy a U<ndash/>lock.</q> → <q>My friend, who possessed a bike that was stolen, decided to buy a U<ndash/>lock.</q></p></li>
+                                </ul>
+                            </p>
+                        </example>
                     </p>
                 </li>
                 <li>

@@ -179,10 +179,10 @@
                 </ul>
             Again, you might already know that you needed to think about these questions for your application, but notice that the answers to these questions also dictate which faculty members will have the most influence over the people deciding whether or not to consider your application favorably!</p>
         </paragraphs>
-        <assemblage>
-            <title>Mind Reading</title>
+        <insight>
+            <!-- <title>Mind Reading</title> -->
             <p> At this point, you might be inclined to say, <q>now how am I supposed to answer those questions? I can’t get inside the heads of the people on the application committee!</q> That’s true, but you can guess the answer to a lot of these questions by carefully reading the program’s website and by talking to to students, professors, or staff members who are familiar with the program.</p>
-        </assemblage>
+        </insight>
 
         <paragraphs xml:id="your-profs-perspective">
             <title> Your Professor's Perspective</title>
@@ -207,62 +207,56 @@
 
     <subsection xml:id="letter-request-timeline">
         <title> Your Suggested Timeline </title>
-            <p>
-                <dl>
-                    <li>
-                        <title>When you...</title>
-                        <p></p>
-                    </li>
-                    <li>
-                        <title>Arrive at college</title>
-                        <p>Build relationships with faculty. Visiting a professor's office hours is a great way to get more out of your education, and it is also a great way to build a relationship with a professor, especially if you haven’t worked closely with a professor in any other context yet. Remember that you can read more about <xref ref="talking-to-profs" text="title"/>, and you can check out [this video] to learn what office hours are and how to use them.</p>
-                    </li>
-                    <li>
-                        <title>Start thinking about applications</title>
-                        <p> Consider the three perspectives described in <xref ref="three-perspectives" text="title"/>. Make sure you can answer the questions in <xref ref="your-perspective" text="title"/>. Identify which professor(s) you’d most like to write you a letter.</p>
-                    </li>
-                    <li>
-                        <title>Have 3+ weeks before the application due date</title>
-                        <p> Request letter of recommendation, in person if possible, from your <q>top choice letter writer.</q> Explain what program you are applying for, why you are interested in it, and what made you want to ask that professor in particular for a letter. If the letter of recommendation is a central part of your application, make sure to think about the request from <xref ref="your-profs-perspective" text="title"/>, or directly ask, <q>could you write me a <em>strong</em> letter of recommendation?</q> </p>
-                    </li>
-                    <li>
-                        <title> Receive confirmation that a professor will write you a letter </title>
-                        <p>Send them the following information, even if they did not specifically ask for it:</p>
-                        <p>
-                            <ul>
-                                <li><p>A description of what you are applying for (a link to a website is fine), along with why you are interested in the program or how it fits into your plan for a future career</p></li>
-                                <li><p>All of the application materials <em>you</em> need to submit for your application (e.g. a personal statement, cover letter, or application essay), so that the professor knows how their contribution to your application fits in with the rest of the application materials</p></li>
-                                <li><p>An updated resume or curriculum vitae (<init>CV</init>). See <xref ref="section-resume"  text="title"/> for advice about making a resume or CV.</p></li>
-                                <li><p>A transcript</p></li>
-                            </ul>
-
-                            <assemblage>
-                                <title>Pro tip</title>
-                                <p>
-                                    If you’re asking a letter writer for multiple letters, give them a consolidated way to keep track of all the letters you’re asking them to write. It’s especially important that they can easily see (1) which programs you’re applying for, (2) when each letter is due, (3) how to submit each letter, and (4) any special instructions about letter content. One good way to do this is to make a table with one row for each program.
-                                </p>
-                            </assemblage>
-
-                            <p>Do not add a professor’s name to online forms or send them letter<ndash/>writing material until they say that they are willing to write you a letter. Being <q>invitold</q> to write a letter is no fun for them!</p>
-                        </p>
-                    </li>
-                    <li>
-                        <title>Have 3<ndash/>5 days left before the application is due</title>
-                        <p>
-                            Remind your professor that their letter is due soon. A short email that reminds them about (1) which letter is due, and (2) the date and time that their letter is due is great. One reminder a few days in advance should suffice, but if the due date passes and the program still has not received their letter, you should reach out again to confirm that they submitted it.
-                        </p>
-                    </li>
-                    <li>
-                        <title>Submit your application</title>
-                        <p>
-                            Always say thank you! A hand<ndash/>written card never goes out of style in this circumstance. After you hear back from a program about whether or not you were accepted, share the news with your professor. If you’re choosing between multiple programs, let your professor know which offer you accept, and stay in touch with them. Maintaining a network of professors who could write you a letter or be a character reference is useful long after you graduate college, so keep in touch with the professors that you know best. 
-                        </p>
-                    </li>
-                </dl>
-            </p>
-<p>
-
-            </p>
+        <list xml:id="list-letter-request-timeline">
+            <title>When and How to Ask for a Letter of Recommendation</title>
+            <ol>
+                <li>
+                    <p><em><em>When you arrive at college,</em> build relationships with faculty.</em></p>
+                    <p>Visiting a professor's office hours is a great way to get more out of your education, and it is also a great way to build a relationship with a professor, especially if you haven’t worked closely with a professor in any other context yet. Remember that you can read more about <xref ref="talking-to-profs" text="title"/>, and you can check out [this video] to learn what office hours are and how to use them.</p>
+                </li>
+                <li>
+                    <p><em><em>When you start thinking about applications,</em> identify which professor(s) you'd most like to write you a letter.</em></p>
+                    <p>Consider the three perspectives described in <xref ref="three-perspectives" text="title"/>, and make sure you can answer the questions in <xref ref="your-perspective" text="title"/>.</p>
+                </li>
+                <li>
+                    <p><em><em>When there are at least three weeks left before the application due date,</em> 
+                    request letter of recommendation, in person if possible, from your <q>top choice letter writer.</q></em></p>
+                    <p>Explain what program you are applying for, why you are interested in it, and what made you want to ask that professor in particular for a letter. If the letter of recommendation is a central part of your application, make sure to think about the request from <xref ref="your-profs-perspective" text="title"/>, or directly ask, <q>could you write me a <em>strong</em> letter of recommendation?</q></p>
+                </li>
+                <li>
+                    <p><em><em>When you receive confirmation that a professor will write you a letter,</em> send them the following information, even if they did not specifically ask for it:</em>
+                        <ul>
+                            <li>
+                                <p>A description of what you are applying for (a link to a website is fine), along with why you are interested in the program or how it fits into your plan for a future career</p>
+                            </li>
+                            <li>
+                                <p>All of the application materials <em>you</em> need to submit for your application (e.g. a personal statement, cover letter, or application essay), so that the professor knows how their contribution to your application fits in with the rest of the application materials</p>
+                            </li>
+                            <li>
+                                <p>An updated resume or curriculum vitae (<init>CV</init>). See <xref ref="section-resume"  text="title"/> for advice about making a resume or CV.</p>
+                            </li>
+                            <li>
+                                <p>A transcript</p>
+                            </li>
+                        </ul>
+                    </p>
+                    <p>
+                        <insight>
+                            <p>If you’re asking a letter writer for multiple letters, give them a consolidated way to keep track of all the letters you’re asking them to write. It’s especially important that they can easily see (1) which programs you’re applying for, (2) when each letter is due, (3) how to submit each letter, and (4) any special instructions about letter content. One good way to do this is to make a table with one row for each program.</p>
+                        </insight>
+                    </p>
+                    <p>Do not add a professor’s name to online forms or send them letter<ndash/>writing material until they say that they are willing to write you a letter. Being <q>invitold</q> to write a letter is no fun for them!</p>
+                </li>
+                <li>
+                    <p><em><em> When there there are 3<ndash/>5 days left before the application is due,</em> remind your professor that their letter is due soon.</em></p>
+                    <p>A short email that reminds them about (1) which letter is due, and (2) the date and time that their letter is due is great. One reminder a few days in advance should suffice, but if the due date passes and the program still has not received their letter, you should reach out again to confirm that they submitted it.</p>
+                </li>
+                <li>
+                    <p><em><em>When you submit your application,</em> say thank you!</em></p>
+                    <p>A hand<ndash/>written card never goes out of style in this circumstance. After you hear back from a program about whether or not you were accepted, share the news with your professor. If you’re choosing between multiple programs, let your professor know which offer you accept, and stay in touch with them. Maintaining a network of professors who could write you a letter or be a character reference is useful long after you graduate college, so keep in touch with the professors that you know best. </p>
+                </li>
+            </ol>
+        </list>
     </subsection>
 </section>
 

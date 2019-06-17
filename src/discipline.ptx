@@ -4,13 +4,18 @@
     <introduction>
         <p>In the previous chapters, we have discussed general traits of all (or most?) academic writing and all academic writing processes. But, as you will no doubt notice, there are some significant differences between writing in different disciplines. It may sometimes seem like faculty members just want you to keep changing your writing to fit their individual preferences. While we all have our own preferences, faculty members also are trained specialists within their own disciplinary backgrounds, and part of their job is to teach you about those disciplinary backgrounds<mdash/>including the writing conventions of those disciplines.</p>
         <p>To help you navigate the discipline-specific writing conventions you encounter in your courses, we have consulted with faculty in departments at Puget Sound. Based on our conversations with them, we have compiled the following guidelines. Try using these guidelines when you write your next paper; you may find that that seemingly quirky assignment makes more sense than you initially thought!</p>
-        <aside>
+        <!-- <aside>
             <p>Unless otherwise indicated, all quotes come from faculty members in the department interviews that inform the advice given here.</p>
-        </aside>
+        </aside> -->
     </introduction>
     <section xml:id="writing-for-african-american-studies">
         <title>Writing for African American Studies</title>
-        <p>African American Studies (<init>AFAM</init>) is a discipline that you probably didn't encounter in high school, and hopefully you're excited about how much you have to learn. Read this guide to understand the basics of writing in <init>AFAM</init>!</p>
+        <introduction>
+            <p>African American Studies (<init>AFAM</init>) is a discipline that you probably didn't encounter in high school, and hopefully you're excited about how much you have to learn. Read this guide to understand the basics of writing in <init>AFAM</init>!</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with <init>AFAM</init> faculty members that informed this section.</p>
+        </note>
         <paragraphs>
             <title>Purpose</title>
             <p><q><em>Without writing it's hard for students to even learn and process what they're getting from AFAM, because it's so much, but if you start to write it, you can really start to gather your thoughts—what you do know, what you don't know, rather than just being able to shake your head agree, or even give a couple comments randomly in class. When you're trying to put it on paper you see the fact that, most likely it's a lot bigger than you thought.</em></q></p>
@@ -46,13 +51,18 @@
             </ul>
         </paragraphs>
         <paragraphs>
-            <title>External Resources:</title>
+            <title>External Resources</title>
             <p><q>Still Brave: The Evolution of Black Women's Studies</q> and <q>Research Methods in Africana Studies</q> McDougal will give you an idea of the different registers that form <init>AFAM</init> scholarship.</p>
         </paragraphs>
     </section>
     <section xml:id="writing-for-art">
         <title>Writing for Art and Art History</title>
-        <p>Writing about art can be challenging because, before embarking on a discussion or analysis of a work, you first have to translate your experience of a visual image or a structure into language.  This is true not only for Art History students whose papers are often based on the visual analysis of images or monuments, but also for Studio Art students who write artist statements in which they verbally articulate ideas and influences that they have expressed visually in their work.</p>
+        <introduction>
+            <p>Writing about art can be challenging because, before embarking on a discussion or analysis of a work, you first have to translate your experience of a visual image or a structure into language.  This is true not only for Art History students whose papers are often based on the visual analysis of images or monuments, but also for Studio Art students who write artist statements in which they verbally articulate ideas and influences that they have expressed visually in their work.</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with Art and Art History faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-art-genres">
             <title>Genres</title>
             <p>The most frequent types of papers students write in Art History courses include visual analysis papers, research papers, critical analyses of scholarly articles, and exhibition reviews.  While research papers and critical analyses of scholarly articles are similar to such papers in other disciplines (<eg/>, History or English), they likely include a visual analysis component that is not typical in other disciplines.  Visual analysis papers and exhibition reviews are genres unique to Art History and Art Criticism, and they both build on the close reading of a single object/monument or a close reading of a series objects and the space in which they are displayed.  Studio Art students frequently write exhibition reviews or responses, analyses of the work of an influential artist, and artist statements.</p>
@@ -99,7 +109,12 @@
     </section>
     <section xml:id="writing-for-biology">
         <title>Writing for Biology</title>
-        <p>Some students initially believe that writing is not important to science; however, lab reports are actually vital to understanding the context and the relevance of the science you are doing in lab and learning about in class, and their format allows scientists to communicate findings concisely and succinctly. After learning the specific skills that are needed, many students learn that they particularly enjoy writing for the natural sciences. Read this guide to learn about how writing for biology can be helpful and meaningful to you!</p>
+        <introduction>
+            <p>Some students initially believe that writing is not important to science; however, lab reports are actually vital to understanding the context and the relevance of the science you are doing in lab and learning about in class, and their format allows scientists to communicate findings concisely and succinctly. After learning the specific skills that are needed, many students learn that they particularly enjoy writing for the natural sciences. Read this guide to learn about how writing for biology can be helpful and meaningful to you!</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with Biology faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-biology-genres">
             <title>Genres</title>
             <p>As in most science classes, the vast majority of the writing you do will be in the form of lab reports. Lab reports are papers based on an investigation that follows the standard template of an introduction, a methods section, a presentation of results, and a discussion of those results. In most biology classes you will be asked to write both full-length lab reports as well as individual sections of one for practice. Other kinds of writing that you may be asked to do include abstracts, critical reviews (in which you synthesize the primary literature on a topic) or, in upper-division classes, research proposals, and research papers.</p>
@@ -134,7 +149,12 @@
     </section>
     <section xml:id="writing-for-business">
         <title>Writing for Business</title>
-        <p>Business is a social science, making it part of a distinct group of disciplines that use scientific methods to study individual and social behavior. Among these disciplines, business is uniquely oriented toward the professional world outside of purely academic domains. Its professional focus can be unfamiliar and can sometimes disconcert new writers. Read through these guidelines to get a better idea of how to write for business.</p>
+        <introduction>
+            <p>Business is a social science, making it part of a distinct group of disciplines that use scientific methods to study individual and social behavior. Among these disciplines, business is uniquely oriented toward the professional world outside of purely academic domains. Its professional focus can be unfamiliar and can sometimes disconcert new writers. Read through these guidelines to get a better idea of how to write for business.</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with Business faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-business-genres">
             <title>Genres</title>
             <p>The typical genres you'll be writing in for business are short memos<mdash/>in which you will brief your audience with the relevant and pressing facts of a situation<mdash/>and case studies, which consist of three parts: an introduction, in which you will provide appropriate historical and contextual information about a business or company; a strategic analysis section, in which you will identify and analyze structural and organizational problems with that business or company; and a final section, in which you will recommend solutions for those problems. Other typical genres include position papers, in which you will present a disputable issue from one side; research papers, for which you will research a topic and present that research to support a thesis; literature reviews, in which you will summarize and analyze secondary sources relevant to a specific topic; and personal reflections.</p>
@@ -169,7 +189,12 @@
     </section>
     <section xml:id="writing-for-chemistry">
         <title>Writing for Chemistry</title>
-        <p>Writing can sometimes seem like an obstacle for science students. Within scientific culture, the importance of effective communication is often underemphasized. This under emphasis leads many students entering college to see science writing as, at best, a necessary evil, and at worst, a tangled mess of jargon and arbitrary formatting. So far from being true, the exact opposite is the case. In the wise words of Professor Steven Neshyba, <q>Science is in the communication. Science doesn't exist in someone's head. The science <em>is</em> the communication.</q> To learn more about how to be an effective science writer, read this guide!</p>
+        <introduction>
+            <p>Writing can sometimes seem like an obstacle for science students. Within scientific culture, the importance of effective communication is often underemphasized. This under emphasis leads many students entering college to see science writing as, at best, a necessary evil, and at worst, a tangled mess of jargon and arbitrary formatting. So far from being true, the exact opposite is the case. In the wise words of Professor Steven Neshyba, <q>Science is in the communication. Science doesn't exist in someone's head. The science <em>is</em> the communication.</q> To learn more about how to be an effective science writer, read this guide!</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with Chemistry faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-chemistry-genres">
             <title>Genres</title>
             <p>Writing in chemistry is challenging for new students since there are many different types of writing in chemistry. However, most of these genres can be broken down into a shared set of sections, each with its own distinctive style and purpose: a title, an abstract, an introduction, an experimental section, a results section, a discussion, a conclusion, and a literature cited. Together, these sections make up the most fundamental genre in chemistry writing: research articles (<ie/>, lab reports). Further, these sections also make up the research posters, review articles, and research proposals you'll be introduced to in upper-level classes. The only kind of writing in chemistry not made up by these sections is the notes you'll take in your laboratory notebook.</p>
@@ -216,7 +241,12 @@
     </section>
     <section xml:id="writing-for-english">
         <title>Writing for English</title>
-        <p>Many students entering college think they know what writing for an English class should be like: While most students haven't taken a psychology or Science, Technology, and Society class, the majority of students have taken several English classes before college and have prior experience writing English papers. Depending on their experiences, students may believe that English writing is congenitally imprecise and emotional because it is founded on subjective opinions rather than facts because <q>there are no right answers.</q> Alternately, students may think that English papers are brittle five-paragraph essays that impoverish the texts that they analyze. While these assumptions can be hard to displace, English essays are neither unsubstantiated opinions nor life-sucking exercises in pedantry. Rather, English essays can be powerful transformations of your impressions and emotions of a text into a substantiated analysis that reveals the more profound underpinnings of that text. Read this guide to get an idea of how to get the most out of writing for English!</p>
+        <introduction>
+            <p>Many students entering college think they know what writing for an English class should be like: While most students haven't taken a psychology or Science, Technology, and Society class, the majority of students have taken several English classes before college and have prior experience writing English papers. Depending on their experiences, students may believe that English writing is congenitally imprecise and emotional because it is founded on subjective opinions rather than facts because <q>there are no right answers.</q> Alternately, students may think that English papers are brittle five-paragraph essays that impoverish the texts that they analyze. While these assumptions can be hard to displace, English essays are neither unsubstantiated opinions nor life-sucking exercises in pedantry. Rather, English essays can be powerful transformations of your impressions and emotions of a text into a substantiated analysis that reveals the more profound underpinnings of that text. Read this guide to get an idea of how to get the most out of writing for English!</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with English faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-english-genres">
             <title>Genres</title>
             <p><q><em>Close reading is the meat and potatoes<mdash/>or the tofu and seitan<mdash/>of what we do.</em></q></p>
@@ -262,7 +292,12 @@
     </section>
     <section xml:id="writing-for-history">
         <title>Writing for History</title>
-        <p>Among scholars, historians are unique in their pursuit of knowledge from pasts that only get further away rather than clearer as time goes on. The difficulty of sometimes vast amounts of elapsed time combined with the intense and often bewildering particularity of different historical moments can make writing academically about history challenging for students. Read this guide to get an idea of how to think about your task as a historian in training!</p>
+        <introduction>
+            <p>Among scholars, historians are unique in their pursuit of knowledge from pasts that only get further away rather than clearer as time goes on. The difficulty of sometimes vast amounts of elapsed time combined with the intense and often bewildering particularity of different historical moments can make writing academically about history challenging for students. Read this guide to get an idea of how to think about your task as a historian in training!</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with History faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-history-genres">
             <title>Genres</title>
             <p>Of the several kinds of writing you will be asked to do in your history classes, close readings of a primary source are perhaps the most foundational. A close reading is a paper in which you develop an analytical argument that takes into account the historical context the source is from. The skills you use to write a primary source close reading are transferable to the secondary source critiques that you will be asked to write. Another way to think of these critiques is as a way to <q>test other scholars.</q> Other history papers include papers that put primary and secondary sources in conversation with one another, annotated bibliographies, research prospectuses and comparisons of a historian's versus a popular source's version of an event to elucidate the difference between how historians and how others think about the past.</p>
@@ -306,7 +341,12 @@
     </section>
     <section xml:id="writing-for-music">
         <title>Writing for Music and Music History</title>
-        <p>While everyone has heard, and probably even played, music, writing about it is an entirely different province; so even if you are the most ardent music-lover, be prepared to find writing about music unfamiliar. Read this guide to learn more about the skills you will need to write well about music.</p>
+        <introduction>
+            <p>While everyone has heard, and probably even played, music, writing about it is an entirely different province; so even if you are the most ardent music-lover, be prepared to find writing about music unfamiliar. Read this guide to learn more about the skills you will need to write well about music.</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with Music and Music History faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-music-hist-genres">
             <title>Genres</title>
             <p><q><em>It's a pay-attention sort of paper.</em></q></p>
@@ -349,7 +389,12 @@
     </section>
     <section xml:id="writing-for-psychology">
         <title>Writing for Psychology</title>
-        <p>Psychology presents unique challenges to student writers: It can be difficult to navigate between quantitative scientific data and the ineluctably qualitative arguments that you'll need to make about human behavior. Read this guide to get a better idea of what it's important to focus on while writing for psychology!</p>
+        <introduction>
+            <p>Psychology presents unique challenges to student writers: It can be difficult to navigate between quantitative scientific data and the ineluctably qualitative arguments that you'll need to make about human behavior. Read this guide to get a better idea of what it's important to focus on while writing for psychology!</p>
+        </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with Psychology faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="writing-psychology-genres">
             <title>Genres</title>
             <p>There are two main kinds of writing in psychology. The first is research reports, in which you will convey to your audience the research you have done, the reason you did it, what method you did it by, and the results and conclusions you arrived at. The second type of writing you will do is literature reviews, in which you will write papers focused on canvassing a particular area of research to generate new conclusions about that area. Another type of writing you may be asked to do that is less common is translational writing, in which you will be asked to <q>translate</q> scientific writing for general audiences.</p>
@@ -390,6 +435,9 @@
         <introduction>
             <p>Writing for International Political Economy (<init>IPE</init>) can be difficult because, although it’s a social science and subscribes to these writing conventions, it requires clearly integrating the social, cultural, economic, and political dimensions of international issues in order to develop sufficient depth into your topic, a task that can initially be overwhelming. Additionally, <init>IPE</init> research is not just an intellectual exercise; it has vast real<ndash/>world impacts. Policy briefs and theories can shape generations of international relations and have drastic effects on people’s lives around the globe. Therefore, along with learning how to research and organize your ideas, it is important to write with intention and care about the greater implications of what you are arguing. Read this guide to learn more about important aspects of writing for <init>IPE</init>!</p>
         </introduction>
+        <note>
+            <p>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with <init>IPE</init> faculty members that informed this section.</p>
+        </note>
         <paragraphs xml:id="par-ipe-writing-genres">
             <title>Genres</title>
             <p>The vast majority of <init>IPE</init> writing is explanatory, analytical, and synthetic. Three of the most common types of papers you will be asked to write for <init>IPE</init> are research papers, position papers, and essays analyzing course readings. Research papers require you to find outside sources to formulate and support your argument. Position papers typically include an explanatory portion, as if you were writing a report for your employer about your topic, and an analytical section where you will use <init>IPE</init> theories to evaluate the current state of your topic. In other essays you will be asked an analytical question about readings you have done in class and expected to summarize the authors’ complex arguments, identify points of agreement and disagreement among authors, and incorporate relevant passages from the readings into your writing that elaborate (rather than simply re<ndash/>state) your point; these essays are an opportunity to deepen and showcase your understanding of the course readings. You may also be asked to write case studies, outlining the development of a particular issue, international relationship, or country over time; policy briefs, summarizing a particular issue, its policy options, and your recommendations; and reflections, where you’ll describe your own personal standpoint on an issue. One of the common writing challenges in these genres is covering enough breadth to develop sufficient depth on your topic. As you write, work to integrate the political, social, cultural, and economic perspectives of your topic and explain in detail how they relate to one another. Also, don’t merely summarize readings, but instead put the authors in conversation with one another; look at the points that authors agree or disagree on and come up with a unique angle on how they speak to each other (for example, how might one author expand upon an idea developed by an earlier author?).</p>
@@ -408,7 +456,7 @@
         <paragraphs xml:id="par-ipe-writing-evidence">
             <title>Evidence</title>
             <p><em><q>Research, research, research, and cite everything!</q></em></p>
-            <p>The vast majority of evidence used in <init>IPE</init> papers should be peer-reviewed scholarly sources or gray literature. Gray literature is research from outside of academia, including government documents and reports from organizations such as the World Bank or the <init>UN</init>. There are some exceptions depending on the assignment, however, and you should pay attention to the specific audience for which you are being asked to write. For example, if you are asked to write a letter to the editor, the peer-reviewed aspect of sources isn’t as important. Make sure to always cite your sources, including the data that you collect, and use Chicago <xref ref="citations"/> style unless otherwise directed by your professor. </p>
+            <p>The vast majority of evidence used in <init>IPE</init> papers should be peer-reviewed scholarly sources or <term>gray literature</term>. Gray literature is research from outside of academia, including government documents and reports from organizations such as the World Bank or the <init>UN</init>. There are some exceptions depending on the assignment, however, and you should pay attention to the specific audience for which you are being asked to write. For example, if you are asked to write a letter to the editor, the peer-reviewed aspect of sources isn’t as important. Make sure to always cite your sources, including the data that you collect, and use Chicago <xref ref="citations"/> style unless otherwise directed by your professor. </p>
         </paragraphs>
         <paragraphs xml:id="par-ipe-writing-conventions">
             <title>Conventions and Tips</title>

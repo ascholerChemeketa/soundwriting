@@ -30,47 +30,27 @@
             </ul>
         </p>
         </assemblage>
-        <paragraphs xml:id="par-write-with-respect-guidelines">
+        <list xml:id="list-write-with-respect-guidelines">
             <title>Strategies for Writing with Respect</title>
-            <p>
-                <ul>
-                    <li>
-                        <p><em>Write with specificity.</em></p>
-                        <p>Don't make generalizations about groups of people. No individual represents an entire group, and individuals cannot be wholly defined by the groups they are in.</p>
-                    </li>
-                    <li>
-                        <p><em>Write with attention and the desire to keep learning.</em></p>
-                        <p>Don't intentionally write harmful, bigoted, or ignorant statements about people or groups of people. If you're unsure of whether or not what you're writing is harmful, do some research or ask people who have a greater knowledge of the group in question, preferably someone within that group.</p>
-                    </li>
-                    <li>
-                        <p><em>Write with equity.</em></p>
-                        <p>Don't make marginalization central to your discussion of marginalized individuals or groups, unless marginalization is the topic at hand. For instance, a woman of color can be a scientist<mdash/>just as someone with a less culturally marked identity can be. When you write about a woman of color who is a scientist, unless the focus of your writing is how her identity has impacted her professional life, concentrate on the science she does.</p>
-                    </li>
-                    <li>
-                        <p><em>Use your best judgment about using people<ndash/>first language.</em></p>
-                        <p>People<ndash />first language, can be an important way to emphasize a person rather than one aspect of their identity. For example, saying <q>She is an asthmatic</q> can emphasize her disability while <q>She is a person who has asthma,</q> emphasizes that she is a person first—a person who may also be a parent, a teacher, and a person with any number of other significant identities. At the same time, there is no universal preference for people<ndash />first language; there are many situations where person<ndash />first language might actually be more awkward or inappropriate. For example, many members of the Autistic community are resisting being called <q>a person with Aspergers</q> as opposed to Autistic or Aspie, saying this IS a central part of their personhood and that the other theoretically more inclusive language is dismissive of their experience. This is similar to how we would not call a black person <q>A person with blackness.</q> When writing, do some research and use your best judgment to determine if you should use people<ndash />first language, and whenever possible use the language preferred by the people or community you are writing about.</p>
-                    </li>
-                </ul>
-            </p>
-        </paragraphs>
-<!-- Can be removed if Julie supports changes to "guideline"-type instructions -->
-            <!-- </paragraphs>
-                <paragraphs>
-                    <title>Write with specificity</title>
+            <ul>
+                <li>
+                    <p><em>Write with specificity.</em></p>
                     <p>Don't make generalizations about groups of people. No individual represents an entire group, and individuals cannot be wholly defined by the groups they are in.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Write with attention and the desire to keep learning</title>
+                </li>
+                <li>
+                    <p><em>Write with attention and the desire to keep learning.</em></p>
                     <p>Don't intentionally write harmful, bigoted, or ignorant statements about people or groups of people. If you're unsure of whether or not what you're writing is harmful, do some research or ask people who have a greater knowledge of the group in question, preferably someone within that group.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Write with equity</title>
+                </li>
+                <li>
+                    <p><em>Write with equity.</em></p>
                     <p>Don't make marginalization central to your discussion of marginalized individuals or groups, unless marginalization is the topic at hand. For instance, a woman of color can be a scientist<mdash/>just as someone with a less culturally marked identity can be. When you write about a woman of color who is a scientist, unless the focus of your writing is how her identity has impacted her professional life, concentrate on the science she does.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Use your best judgment about using people<ndash/>first language</title>
+                </li>
+                <li>
+                    <p><em>Use your best judgment about using people<ndash/>first language.</em></p>
                     <p>People<ndash />first language, can be an important way to emphasize a person rather than one aspect of their identity. For example, saying <q>She is an asthmatic</q> can emphasize her disability while <q>She is a person who has asthma,</q> emphasizes that she is a person first—a person who may also be a parent, a teacher, and a person with any number of other significant identities. At the same time, there is no universal preference for people<ndash />first language; there are many situations where person<ndash />first language might actually be more awkward or inappropriate. For example, many members of the Autistic community are resisting being called <q>a person with Aspergers</q> as opposed to Autistic or Aspie, saying this IS a central part of their personhood and that the other theoretically more inclusive language is dismissive of their experience. This is similar to how we would not call a black person <q>A person with blackness.</q> When writing, do some research and use your best judgment to determine if you should use people<ndash />first language, and whenever possible use the language preferred by the people or community you are writing about.</p>
-                </paragraphs> -->
+                </li>
+            </ul>
+        </list>
     </section>    
     <section xml:id="awareness-inclusive-language">
         <title>Inclusive Language</title>
@@ -140,30 +120,28 @@
                     </li>
                 </ul>
             </list>
-            <paragraphs xml:id="helpful-terms-for-gender-inclusivity">
+            <list xml:id="helpful-terms-for-gender-inclusivity">
                 <title>Terms</title>
-                <list>
-                    <dl>
-                        <li>
-                            <title> Sexism</title>
-                            <p>is discrimination against individuals, historically women, based on sex.</p>
-                        </li>
-                        <li>
-                            <title>Misogyny</title>
-                            <p>refers to institutionalized or deeply held hate or prejudice toward women.</p>
-                        </li>
-                        <li>
-                            <title>Androcentrism</title>
-                            <p>describes when masculinity is central to a particular entity or outlook.</p>
-                        </li>
-                        <li>
-                            <title>Heteronormativity</title>
-                            <p>refers to the belief system that normalizes and prefers a patriarchal, heterosexual, and gender binary way of living.</p>
-                        </li>
+                <dl>
+                    <li>
+                        <title> Sexism</title>
+                        <p>is discrimination against individuals, historically women, based on sex.</p>
+                    </li>
+                    <li>
+                        <title>Misogyny</title>
+                        <p>refers to institutionalized or deeply held hate or prejudice toward women.</p>
+                    </li>
+                    <li>
+                        <title>Androcentrism</title>
+                        <p>describes when masculinity is central to a particular entity or outlook.</p>
+                    </li>
+                    <li>
+                        <title>Heteronormativity</title>
+                        <p>refers to the belief system that normalizes and prefers a patriarchal, heterosexual, and gender binary way of living.</p>
+                    </li>
 
-                    </dl>
-                </list>
-            </paragraphs>
+                </dl>
+            </list>
             <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
         </subsection>
         <subsection xml:id="inclusivity-neurophysical">

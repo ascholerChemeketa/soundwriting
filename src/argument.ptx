@@ -166,42 +166,51 @@
             <p>A note before we begin: It is important that you write down <em>every version</em> of your thesis. You don't want to have a brilliant idea only to forget it five minutes later; sometimes old versions of your thesis can be useful in crafting newer versions.</p>
         </introduction>
         <subsection xml:id="thesis-dev-six-steps">
-            <title>Six-Step Process</title>
-            <paragraphs xml:id="par-six-step-articulate">
-                <title>Step 1: Articulate your idea</title>
-                <p>Your idea will most likely be guided by your class, professor, or assignment. You may have a range of topics or prompts to choose from, so think through each option carefully and determine which idea interests you most.</p>
-                <p>Let's say that you choose a prompt directing you to argue for or against this statement: <q>I should be able to own as many cats as I want.</q> You're interested in learning more about why cat ownership shouldn't be regulated, so your idea is to argue in favor of the statement.</p>
-            </paragraphs>
-            <paragraphs xml:id="par-six-step-gather">
-                <title>Step 2: Gather knowledge</title>
-                <p>In order to make any kind of claim about your idea, you must first gather information on your topic. This knowledge can come in a variety of forms, including textual analysis, data gathering, or scholarly research. Your discipline or assignment will probably dictate what type of knowledge you need to gather. If in doubt, ask your professor.</p>
-                <p>For your cat assignment, let's say that the knowledge you need to gather will come from scholarly journals. After scouring all of the top academic cat journals, you compile a number of sources that describe the woes of rampant cat homelessness. You find other sources that argue that cats should be bought and sold like consumer goods. As you learn from more reading, the ability to purchase consumer goods is something Americans value as a right.</p>
-            </paragraphs>
-            <paragraphs xml:id="par-six-step-pattern">
-                <title>Step 3: Identify a pattern</title>
-                <p>Patterns in your research can come in many forms. You might find a topic or argument that is repeatedly in conflict with another topic or argument, a source that provides an unexpected argument, or a new way to combine arguments or ideas.</p>
-                <p>In your cat-journal research, you find that cat homelessness is a major problem throughout the world. You also realize that you can combine the first argument, that cats should be bought like consumer goods, and the second argument, that Americans value purchasing consumer goods as a right.</p>
-            </paragraphs>
-            <paragraphs xml:id="par-six-step-formulate">
-                <title>Step 4: Formulate a question that responds to the prompt</title>
-                <p>Now you must think about your research and idea in the context of your assignment. Your question will vary depending on the format of the prompt. If the prompt itself is a question, your question might be a more specific version of the prompt. If the prompt offers up ideas or guidelines, then your question will need to adhere to those ideas or guidelines. Regardless of the format, your question will most likely ask for explanations about why, what about, or how your evidence relates to your claim.</p>
-                <p>Recall the prompt: Argue for or against the statement <q>I should be able to own as many cats as I want.</q></p>
-                <p>You come up with the question: <q>Why should I be able to purchase as many cats as I want?</q></p>
-            </paragraphs>
-            <paragraphs xml:id="par-six-step-listen">
-                <title>Step 5: Listen to the evidence</title>
-                <p>The evidence will guide you to your claim<mdash/>let it! While it may be tempting to pick and choose evidence that supports the claim that you want to make, strong academic argumentation requires researchers to make claims validated and substantiated by a fair and thorough examination of the available evidence. By listening to the evidence, you ensure that your claim answers your question honestly and opens a dialogue with which other researchers can engage.</p>
-            </paragraphs>
-            <sidebyside width="50%">
-                <image source="images/AD-ThesisDevelopment"/>
-            </sidebyside>
-            <paragraphs xml:id="par-six-step-develop">
-                <title>Step 6: Develop a working thesis</title>
-                <p>The claim you devised in Step 5 will become your working thesis. A working thesis is the initial thesis you come up with, and it will guide your subsequent research. That research will, in turn, help you reformulate your working thesis as your research changes and your understanding of your topic, evidence, and main claim shifts. Your research isn't done when you formulate your working thesis, so keep researching and rewriting!</p>
-            </paragraphs>
-            <sidebyside width="50%">
-                <image source="images/AD-WorkingThesisResearch"/>
-            </sidebyside>
+            <title>The Six<ndash/>Step Process</title>
+            <list xml:id="list-argument-six-step">
+                <title>The Six<ndash/>Step Process</title>
+                <ol>
+                    <li xml:id="par-six-step-articulate">
+                        <p><em>Articulate your idea.</em></p>
+                        <p>Your idea will most likely be guided by your class, professor, or assignment. You may have a range of topics or prompts to choose from, so think through each option carefully and determine which idea interests you most.</p>
+                        <p>Let's say that you choose a prompt directing you to argue for or against this statement: <q>I should be able to own as many cats as I want.</q> You're interested in learning more about why cat ownership shouldn't be regulated, so your idea is to argue in favor of the statement.</p>
+                    </li>
+                    <li xml:id="par-six-step-gather">
+                        <p><em>Gather knowledge.</em></p>
+                        <p>In order to make any kind of claim about your idea, you must first gather information on your topic. This knowledge can come in a variety of forms, including textual analysis, data gathering, or scholarly research. Your discipline or assignment will probably dictate what type of knowledge you need to gather. If in doubt, ask your professor.</p>
+                        <p>For your cat assignment, let's say that the knowledge you need to gather will come from scholarly journals. After scouring all of the top academic cat journals, you compile a number of sources that describe the woes of rampant cat homelessness. You find other sources that argue that cats should be bought and sold like consumer goods. As you learn from more reading, the ability to purchase consumer goods is something Americans value as a right.</p>
+                    </li>
+                    <li xml:id="par-six-step-pattern">
+                        <p><em>Identify a pattern.</em></p>
+                        <p>Patterns in your research can come in many forms. You might find a topic or argument that is repeatedly in conflict with another topic or argument, a source that provides an unexpected argument, or a new way to combine arguments or ideas.</p>
+                        <p>In your cat-journal research, you find that cat homelessness is a major problem throughout the world. You also realize that you can combine the first argument, that cats should be bought like consumer goods, and the second argument, that Americans value purchasing consumer goods as a right.</p>
+                    </li>
+                    <li xml:id="par-six-step-formulate">
+                        <p><em>Formulate a question that responds to the prompt.</em></p>
+                        <p>Now you must think about your research and idea in the context of your assignment. Your question will vary depending on the format of the prompt. If the prompt itself is a question, your question might be a more specific version of the prompt. If the prompt offers up ideas or guidelines, then your question will need to adhere to those ideas or guidelines. Regardless of the format, your question will most likely ask for explanations about why, what about, or how your evidence relates to your claim.</p>
+                        <p>Recall the prompt: Argue for or against the statement <q>I should be able to own as many cats as I want.</q></p>
+                        <p>You come up with the question: <q>Why should I be able to purchase as many cats as I want?</q></p>
+                    </li>
+                    <li xml:id="par-six-step-listen">
+                        <p><em>Listen to the evidence.</em></p>
+                        <p>The evidence will guide you to your claim<mdash/>let it! While it may be tempting to pick and choose evidence that supports the claim that you want to make, strong academic argumentation requires researchers to make claims validated and substantiated by a fair and thorough examination of the available evidence. By listening to the evidence, you ensure that your claim answers your question honestly and opens a dialogue with which other researchers can engage.</p>
+                        <p>
+                            <sidebyside width="50%">
+                                <image source="images/AD-ThesisDevelopment"/>
+                            </sidebyside>
+                        </p>
+                    </li>
+                    <li xml:id="par-six-step-develop">
+                        <p><em>Develop a working thesis.</em></p>
+                        <p>The claim you devised in Step 5 will become your working thesis. A working thesis is the initial thesis you come up with, and it will guide your subsequent research. That research will, in turn, help you reformulate your working thesis as your research changes and your understanding of your topic, evidence, and main claim shifts. Your research isn't done when you formulate your working thesis, so keep researching and rewriting!</p>
+                        <p>
+                            <sidebyside width="50%">
+                                <image source="images/AD-WorkingThesisResearch"/>
+                            </sidebyside>
+                        </p>
+                    </li>
+                </ol>
+            </list>
             <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready?</p>
             <list xml:id="lsit-argument-MORE">
                 <title>Do <acro>MORE</acro></title>
