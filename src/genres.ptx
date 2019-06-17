@@ -80,7 +80,7 @@
                     </ul>
                 </p>
             </paragraphs>
-        <todo>Example emails to professors</todo>
+        <!-- TODO <todo>Example emails to professors</todo> -->
     </section>
     <section xml:id="personal-statements">
         <title>Writing Personal Statements</title>
