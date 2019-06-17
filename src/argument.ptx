@@ -232,16 +232,20 @@
             </sidebyside>
             <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p>
             <p>Consider the following example theses from Puget Sound student papers. In what ways do they or do they not <xref ref="lsit-argument-MORE"/>?</p>
-            <example>
-                <p>While women do have a substantial presence in the <em>Odyssey</em>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <em>Odyssey</em> primarily reinforces the chauvinist framework through which we view the world.</p>
+            <example xml:id="ex-argument-women-odyssey">
+                <title>Thesis: Women in the <pubtitle>Odyssey</pubtitle></title>
+                <p>While women do have a substantial presence in the <pubtitle>Odyssey</pubtitle>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <pubtitle>Odyssey</pubtitle> primarily reinforces the chauvinist framework through which we view the world.</p>
             </example>
-            <example>
+            <example xml:id="ex-argument-male-suffrage">
+                <title>Thesis: Male Suffrage</title>
                 <p>The relationship between the two debates was forged by the underlying theme concerning access to the government; universal male suffrage was a microcosm of the tension between the principle of majoritarianism and the preservation of minority rights concerning their places within the government. This question would significantly shape the political discourse in the United States for much of the nineteenth century.</p>
             </example>
-            <example>
+            <example xml:id="ex-argument-immigration-act">
+                <title>Thesis: Immigration Act</title>
                 <p>The Immigration Act of 1965 effectively restructured the United States' immigration policies in such a way that no group, minority or majority, was singled out by being discriminated against or given preferential treatment in terms of its ability to immigrate to America.</p>
             </example>
-            <example>
+            <example xml:id="ex-argument-belief-evidence">
+                <title>Thesis: Belief without Evidence</title>
                 <p>In an excerpt from his book <pubtitle>The Will to Believe</pubtitle>, James successfully disproves Clifford's argument, explained in his article <q>The Ethics of Belief,</q> revealing that, under certain circumstances, it's moral and rational to believe something without evidence.</p>
             </example>
         </subsection>

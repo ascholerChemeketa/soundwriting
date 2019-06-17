@@ -10,7 +10,7 @@
             <p>At this point in your academic career, you are likely acquainted with at least one word processor. Many computers come with a license for <url href="https://products.office.com/en-us/word">Microsoft Word</url> and those that do not may use <url href="https://www.apple.com/pages/">Apple Pages</url> or <url href="https://www.libreoffice.org/discover/writer/">LibreOffice Writer</url> (both of which are free), among others. Also, there are freeware options available online for your word processing needs (<eg/>, <url href="https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online">Microsoft Office Online</url>, <url href="https://www.icloud.com">iCloud Pages</url>, and <url href="https://www.google.com/docs/about/">Google Docs</url>). If you are looking for a word processor, it's best to try out different ones and use the one that works best for you. As Microsoft Office is available to all Puget Sound students on the university's virtual desktop (<url href="https://vdesk.pugetsound.edu">vDesk</url>), it is the word processor we will be exploring here. The exact tips and tricks presented here may not translate across applications, but most word processors will have similar functions.</p>
         </introduction>
         <subsection>
-            <title>Spell-Check Errors</title>
+            <title>Spell<ndash/>Check Errors</title>
             <sidebyside width="50%">
                 <image source="images/LM-Spellcheck"/>
             </sidebyside>

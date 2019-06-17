@@ -37,7 +37,8 @@
     <subsection xml:id="making-requests">
         <title>Making Requests</title>
         <p>Professors are amazing resources, which is why it can be so tempting to shoot off a quick email asking if they know of any good sources for your next paper or if they can send you notes for the day of class that you missed. But communicating with professors in a way that's respectful and effective requires that you think a little bit more about what you're asking for. One of the the best rules of thumb for interacting with professors is to do as much work ahead of time as you're about to ask the professor to do for you. If you still need help after taking the steps you should, explain to the professor what you've already done, and ask for something specific. This communicates that you've been proactive in meeting your needs and gives them a really specific action they can take to help you.</p>
-        <example><title>Contacting your professor after missing class</title>
+        <example>
+            <title>Contacting Your Professor After Missing Class</title>
             <p>
                 For example, instead of this:
                 <blockquote>
@@ -125,13 +126,20 @@
             </li>
         </ul>
     </list>
-
-        <figure><caption>Sorry I missed class</caption>
-        <image source="images/AS-sorryimissedclass"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image></figure>
-    <example>
-        <figure><caption>Sample Email</caption>
-        <image source="images/AS-sampleEditedEmail"><description>Our advice for this email</description></image></figure>
-    </example>
+    <problem>
+        <title>What's wrong with this email?</title>
+        <statement>
+            <p>Can you figure find all the reasons you would not want to send this email to a professor?</p>
+            <sidebyside>
+                <image source="images/AS-sorryimissedclass"><description>HEy, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image>
+            </sidebyside>
+        </statement>
+        <solution>
+            <sidebyside>
+                <image source="images/AS-sampleEditedEmail"/>
+            </sidebyside>
+        </solution>
+    </problem>
     <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it's easy to be familiar or informal with Puget Sound professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a studdefining and ent ask them for an exception to a rule might not bother them at all; however, they're also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn't good for anyone!</p> 
     </subsection>
 </section>
@@ -340,21 +348,36 @@
     <subsection xml:id="time-management-good-time-management">
         <title>Good Time Management</title>
         <p>The root of time management is using time well, and using your time well requires understanding the time you have. Depending on how much you enjoy being organized already and how busy or unstructured your life is, you may already have a knack for figuring out what time of day you do your best work, when you have different amounts of free time, and a good sense of how long your work will take.</p> 
-        <p>Understanding procrastination helps us identify strategies we can use to avoid it. In particular, breaking down an intimidating project early<ndash/>on is an essential skill to have when approaching a daunting task. But how do you create good goals that will help you chip away at a big assignment? One way is to ensure that your goals are <alert>S</alert>pecific, <alert>M</alert>easurable, <alert>A</alert>ttainable, <alert>R</alert>elevant, and <alert>T</alert>ime<ndash/>bound, or <accro>SMART</accro> for short. So if writing a lab<ndash/>report is the intimidating project that you're procrastinating on, writing a goal like <q>write lab report</q> in your planner is not especially useful. It's not a sub<ndash/>goal, and it doesn't give you something specific to work on, so it's far more likely to trigger the <q>aaaaaaaahhh that's so much to do</q> reaction that's likely to lead to procrastination. Let's transform a few poorly formed goals into <accro>SMART</accro> goals.</p>
-        <assemblage>
-            <title>Get <accro>SMART</accro></title>
-            <p> 
+        <p>Understanding procrastination helps us identify strategies we can use to avoid it. In particular, breaking down an intimidating project early<ndash/>on is an essential skill to have when approaching a daunting task. But how do you create good goals that will help you chip away at a big assignment? One way is to ensure that your goals are <alert>S</alert>pecific, <alert>M</alert>easurable, <alert>A</alert>ttainable, <alert>R</alert>elevant, and <alert>T</alert>ime<ndash/>bound, or <accro>SMART</accro> for short. So if writing a lab<ndash/>report is the intimidating project that you're procrastinating on, writing a goal like <q>write lab report</q> in your planner is not especially useful. It's not a sub<ndash/>goal, and it doesn't give you something specific to work on, so it's far more likely to trigger the <q>aaaaaaaahhh that's so much to do</q> reaction that's likely to lead to procrastination.</p>
+        <example>
+            <title>Get <accro>SMART</accro>: Lab Report</title>
+            <p>
                 <dl>
-          <li><title>Original goal:</title><q>Write lab report.</q></li>
-        <li><title><accro>SMART</accro> goal:</title><q>Write intro and methods sections before 9 pm on Wednesday.</q></li>
-        <li><title>Original goal:</title><q>Study for Spanish test</q></li>
-        <li><title><accro>SMART</accro> goal:</title><q>Memorize 30 new Spanish vocab words for 1 hour on Tuesday after seminar.</q></li>
-        <li><title>Original goal:</title><q>Stop procrastinating and write that essay</q></li>
-        <li><title><accro>SMART</accro> goal:</title><q>Leave phone at home, go to the library Monday morning for 3 hours, and write an outline and a list of evidence I'm going to use for my <accro>SOAN</accro> paper. I get <em>two</em> 5<ndash/>minute breaks.</q></li>
+                    <li><title>Original goal</title><q>Write lab report.</q></li>
+                    <li><title><accro>SMART</accro> goal</title><q>Write intro and methods sections before 9 pm on Wednesday.</q></li>
                 </dl>
             </p>
-        </assemblage>
-        <p>Notice that some of these goals aren't just about the goal itself; the last one, for example, addresses the environment in which you want to pursue your goal and what <q>anti<ndash/>procrastination promises</q> you need to make to ensure that you can follow<ndash/>through on your goal. If you break a large project into several goals that you can give yourself on several different days, you have to start far in advance of the due date, but you also <em>make progress far ahead of the due date</em> and have time to ask questions and improve your work as you go. You'll produce a better final product, and achieving small goals along the way feels good!</p>
+        </example>
+        <example>
+            <title>Get <accro>SMART</accro>: Spanish Test</title>
+            <p>
+                <dl>
+                    <li><title>Original goal:</title><q>Study for Spanish test</q></li>
+                    <li><title><accro>SMART</accro> goal:</title><q>Memorize 30 new Spanish vocab words for 1 hour on Tuesday after seminar.</q></li>
+                </dl>
+            </p>
+        </example>
+        <example>
+            <title>Get <accro>SMART</accro>: Essay</title>
+            <p>
+                <dl>
+                    <li><title>Original goal:</title><q>Stop procrastinating and write that essay</q></li>
+                    <li><title><accro>SMART</accro> goal:</title><q>Leave phone at home, go to the library Monday morning for 3 hours, and write an outline and a list of evidence I'm going to use for my <accro>SOAN</accro> paper. I get <em>two</em> 5<ndash/>minute breaks.</q></li>
+                </dl>
+            </p>
+        </example>
+
+        <p>Notice that some of the goals in the preceding examples aren't just about the goal itself; the last one, for example, addresses the environment in which you want to pursue your goal and what <q>anti<ndash/>procrastination promises</q> you need to make to ensure that you can follow<ndash/>through on your goal. If you break a large project into several goals that you can give yourself on several different days, you have to start far in advance of the due date, but you also <em>make progress far ahead of the due date</em> and have time to ask questions and improve your work as you go. You'll produce a better final product, and achieving small goals along the way feels good!</p>
     </subsection>
     <subsection xml:id="time-chart">
         <title>Making and Using a Time Chart</title>

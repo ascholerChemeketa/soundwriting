@@ -117,6 +117,7 @@
                     <p>The primary feature of subordinate/dependent clauses is that they cannot stand alone because they do not form a complete thought. Subordinate/dependent clauses are dependent on an independent clause to make sense.</p>
                 </paragraphs>
                 <example>
+                    <title>Subordinate/Dependent Clause: Raining Outside</title>
                     <p>
                         I will wear my raincoat today because it is raining outside.
                         <ul>
@@ -126,8 +127,9 @@
                     </p>
                 </example>
                 <example>
+                    <title>Subordinate/Dependent Clause: Residence Life</title>
                     <p>
-                        If you want to be an RA, you should attend the upcoming res life info session.
+                        If you want to be an <init>RA</init>, you should attend the upcoming res life info session.
                         <ul>
                             <li><p><q>If you want to be an RA</q> = incomplete</p></li>
                             <li><p><q>you should attend the upcoming res life info session.</q> = complete</p></li>
@@ -135,6 +137,7 @@
                     </p>
                 </example>
                 <example>
+                    <title>Subordinate/Dependent Clause: Hiking and Homework</title>
                     <p>
                         I can go hiking this weekend as long as I finish my homework by Friday.
                         <ul>
@@ -166,6 +169,7 @@
                     </p>
                 </paragraphs>
                 <example>
+                    <title>Adjective/Relative Clause: Grizz</title>
                     <p>
                         <q>The Grizz costume, <em>which belongs to the school</em>, is to be used only at official school events.</q>
                         <ul>
@@ -176,6 +180,7 @@
                     </p>
                 </example>
                 <example>
+                    <title>Adjective/Relative Clause: Chocolate Labs</title>
                     <p>
                         <q>The two chocolate labs <em>that walk around campus</em> are so cute.</q>
                         <ul>
@@ -196,6 +201,7 @@
                     </p>
                 </paragraphs>
                 <example>
+                    <title>Adverb Clause: Running Track</title>
                     <p>
                         <q>I ran around the track until I couldn't run any more.</q>
                         <ul>
@@ -206,6 +212,7 @@
                     </p>
                 </example>
                 <example>
+                    <title>Adverb Clause: Extra Dining Dollars</title>
                     <p>
                         <q>He bought fifty bottles of Powerade at the end of the semester because he had leftover Dining Dollars.</q>
                         <ul>
@@ -226,6 +233,7 @@
                         </p>
                     </paragraphs>
                 <example>
+                    <title>Noun Clause: Anonymous Cookie Friend</title>
                     <p>
                         <q>Whoever gave me that cookie is the best!</q>
                         <ul>
@@ -235,6 +243,7 @@
                     </p>
                 </example>
                 <example>
+                    <title>Noun Clause: Rayleigh Scattering</title>
                     <p>
                         <q>Do you know why the sky is blue?</q>
                         <ul>
@@ -429,37 +438,56 @@
                 </sidebyside>
                 <p>
                     Below are some more examples of infinitives that are probably okay to leave split:
-                    <dl>
-                        <li>
-                            <title>Clear</title>
-                            <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
-                        </li>
-                        <li>
-                            <title>Confusing</title>
-                            <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
-                            <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at The Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
-                        </li>
-                        <li>
+                </p>
+                <example>
+                    <title>Clear Split Infinitive: Puget Sound Outdoors</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>Clear</title>
+                                <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
+                                <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at The Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example>
+                <example>
+                    <title>Clear Split Infinitive: Tea</title>
+                    <p>
+                        <dl>
+                            <li>
                             <title>Clear</title>
                             <p><q>By drinking more tea, I plan <un s="1">to</un> <em>gradually</em> <un s="1">lessen</un> my coffee dependence.</q> [infinitive <q>to lessen</q> is split]</p>
-                        </li>
-                        <li>
-                            <title>Confusing</title>
-                            <p><q>By drinking more tea, I <em>gradually</em> plan <un s="1">to lessen</un> my coffee dependence.</q> [infinitive intact, but modifier <q>gradually</q> could be referring to <q>plan</q> or <q>lessen</q>]</p>
-                            <p><q>By drinking more tea, I plan <un s="1">to lessen</un> <em>gradually</em> my coffee dependence.</q> [infinitive intact, but sentence is awkward]</p>
-                            <p><q>By drinking more tea, I plan <un s="1">to lessen</un> my coffee dependence <em>gradually</em>.</q> [infinitive intact and sentence is acceptable, but modifier <q>gradually</q> is somewhat removed from the verb form <q>to lessen</q>]</p>
-                        </li>
-                        <li>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>By drinking more tea, I <em>gradually</em> plan <un s="1">to lessen</un> my coffee dependence.</q> [infinitive intact, but modifier <q>gradually</q> could be referring to <q>plan</q> or <q>lessen</q>]</p>
+                                <p><q>By drinking more tea, I plan <un s="1">to lessen</un> <em>gradually</em> my coffee dependence.</q> [infinitive intact, but sentence is awkward]</p>
+                                <p><q>By drinking more tea, I plan <un s="1">to lessen</un> my coffee dependence <em>gradually</em>.</q> [infinitive intact and sentence is acceptable, but modifier <q>gradually</q> is somewhat removed from the verb form <q>to lessen</q>]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example>
+                <example>
+                    <title>Clear Split Infinitive: The <init>CICE</init></title>
+                    <p>
+                        <dl>
+                            <li>
                             <title>Clear</title>
                             <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive <q>to involve</q> is split]</p>
-                        </li>
-                        <li>
-                            <title>Confusing</title>
-                            <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but sentence is awkward]</p>
-                            <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
-                        </li>
-                    </dl>
-                </p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but sentence is awkward]</p>
+                                <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example>
                 <note>
                     <!-- <title>Note</title> -->
                     <p>Though there are instances when it would be practical to split the infinitive, you need not always use an adverb. Cutting adverbs, especially when they result in split infinitives, often makes writing cleaner and more fluid.</p>
@@ -481,26 +509,39 @@
                     <p><q>I would like <un s="1">to</un> <em>clearly and concisely</em> <un s="1">write</un> sentences with infinitives.</q></p>
                 </blockquote>
                 <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
-                <sidebyside>
-                    <dl>
-                        <li>
-                            <title>Clear</title>
-                            <p><q>Before the hiking trip, the PSO members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
-                        </li>
-                        <li>
-                            <title>Confusing</title>
-                            <p><q>Before the hiking trip, the PSO members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
-                        </li>
-                        <li>
-                            <title>Clear</title>
-                            <p><q>LogJam! is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
-                        </li>
-                        <li>
-                            <title>Confusing</title>
-                            <p><q>LogJam! is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
-                        </li>
-                    </dl>
-                </sidebyside>
+                <p>
+                    <example>
+                        <title>Unclear Split Infinitive: Puget Sound Outdoors</title>
+                        <p>
+                            <dl>
+                                <li>
+                                    <title>Clear</title>
+                                    <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
+                                </li>
+                                <li>
+                                    <title>Confusing</title>
+                                    <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
+                                </li>
+                            </dl>
+                        </p>
+                    </example>
+
+                    <example>
+                        <title>Unclear Split Infinitive: LogJam</title>
+                        <p>
+                            <dl>
+                                <li>
+                                    <title>Clear</title>
+                                    <p><q>LogJam! is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
+                                </li>
+                                <li>
+                                    <title>Confusing</title>
+                                    <p><q>LogJam! is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
+                                </li>
+                            </dl>
+                        </p>
+                    </example>
+                </p>
             </subsubsection>
         </subsection>
         <subsection xml:id="pronouns">
@@ -509,12 +550,15 @@
                 <title>Indefinite Pronouns</title>
                 <p>Many indefinite pronouns (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular verb (-s ending or <q>is</q>/<q>has</q>).</p>
                 <example>
+                    <title>Indefinite Pronouns: Luau</title>
                     <p><q>Is anyone going to Luau this year? I've heard everyone always has a great time.</q></p>
                 </example>
                 <example>
+                    <title>Indefinite Pronouns: Rollerblading</title>
                     <p><q>Someone is rollerblading around campus.</q></p>
                 </example>
                 <example>
+                    <title>Indefinite Pronouns: Math Question</title>
                     <p><q>Nobody knows the answer to the math question.</q></p>
                 </example>
             </subsubsection>
@@ -522,29 +566,37 @@
                 <title>Each, All, Some, None</title>
                 <p><q>Each</q> is a singular pronoun and requires a singular verb. Therefore, even if the subject of the sentence is plural, <q>each</q> refers to every single member of that group and should be treated as a singular pronoun.</p>
                 <example>
+                    <title>Each, All, Some, None: Research Students</title>
                     <p><q>Each of the research students has access to the lab.</q></p>
                 </example>
                 <example>
+                    <title>Each, All, Some, None: Experience Puget Sound</title>
                     <p><q>Each and every one of you is in for a new experience here at Puget Sound.</q></p>
                 </example>
                 <example>
+                    <title>Each, All, Some, None: Opp Coffee</title>
                     <p><q>Each of the coffee flavors at the Opp sounds enticing.</q></p>
                 </example>
                 <p><q>All,</q> <q>some,</q> and <q>none</q> can be either singular or plural depending on the subject. <q>All</q> and <q>some</q> are singular or plural depending on the plurality of the subject and therefore require an accompanying verb.</p>
                 <example>
+                    <title>Each, All, Some, None: Grass is Greener</title>
                     <p><q>All of the grass on campus is green.</q></p>
                 </example>
                 <example>
+                    <title>Each, All, Some, None: Class Outside</title>
                     <p><q>Some of the professors are holding class outside because it is so sunny.</q></p>
                 </example>
                 <p><q>None</q> can be either plural or singular depending on how many of some item it is referring to. For instance, if <q>none</q> is referring to a single item (<q>not one of these things</q>), a singular verb is required. However, if it is being applied to several items (<q>not any of these things</q>), a plural verb should be used.</p>
                 <example>
+                    <title>Each, All, Some, None: Rat Lab</title>
                     <p><q>So far, none of the rats in the psychology rat lab have escaped.</q> (if you are talking about many rats that have not escaped)</p>
                 </example>
                 <example>
+                    <title>Each, All, Some, None: Return of Rat Lab</title>
                     <p><q>So far, none of the rats in the psychology rat lab has escaped.</q> (if you are talking about one rat that has not escaped among many rats)</p>
                 </example>
                 <example>
+                    <title>Each, All, Some, None: O<ndash/>No<ndash/>Chem</title>
                     <p><q>None of the O-chem students are sleeping the night before their final.</q></p>
                 </example>
             </subsubsection>
@@ -622,82 +674,122 @@
             <subsubsection xml:id="agreement-s-endings">
                 <title><ndash/>S Endings</title>
                 <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
-                <sidebyside>
-                    <ul>
-                        <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
-                        <li><p><q>The first-year seminar student studies in the library.</q></p></li>
-                        <li><p><q>The RDG members dance across the stage.</q></p></li>
-                        <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
-                    </ul>
-                </sidebyside>
+
+                <example>
+                    <title>Agreement with <q><ndash/>S</q> Endings</title>
+                    <p>
+                        <ul>
+                            <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
+                            <li><p><q>The first-year seminar student studies in the library.</q></p></li>
+                            <li><p><q>The RDG members dance across the stage.</q></p></li>
+                            <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
+                        </ul>
+                    </p>
+                </example>
+
             </subsubsection>
             <subsubsection xml:id="agreement-is-are">
                 <title>Is/Are</title>
                 <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                 <p>
                     As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).
-                    <ul>
-                        <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
-                        <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
-                        <li><p><q>The students are going to the open-mic night in the piano lounge.</q></p></li>
-                        <li><p><q>The resident is running for Residence Hall Association president of their hall; they are a strong candidate for the position.</q></p></li>
-                    </ul>
                 </p>
+
+                <example>
+                    <title>Agreement with <q>Is/Are</q></title>
+                    <p>
+                        <ul>
+                            <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
+                            <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
+                            <li><p><q>The students are going to the open-mic night in the piano lounge.</q></p></li>
+                            <li><p><q>The resident is running for Residence Hall Association president of their hall; they are a strong candidate for the position.</q></p></li>
+                        </ul>
+                    </p>
+                </example>
+
             </subsubsection>
             <subsubsection xml:id="agreement-either-neither">
                 <title>Either/Or, Neither/Nor</title>
                 <p>
                     If <q>either</q> and <q>neither</q> are being used to differentiate a singular item or a singular item among several, they are singular pronouns and need a singular verb.
-                    <ul>
-                        <li><p><q>Would you prefer a drip coffee or caffeinated tea?</q> <q>Either is fine with me.</q></p></li>
-                        <li><p><q>Neither of the two coffee machines in Diversions is working.</q></p></li>
-                    </ul>
                 </p>
+                <example>
+                    <title>Agreement (Singular) with <q>Either/Or</q> and <q>Neither/Nor</q></title>
+                    <p>
+                        <ul>
+                            <li><p><q>Would you prefer a drip coffee or caffeinated tea?</q> <q>Either is fine with me.</q></p></li>
+                            <li><p><q>Neither of the two coffee machines in Diversions is working.</q></p></li>
+                        </ul>
+                    </p>
+                </example>
                 <p>
                     If <q>either</q> and <q>neither</q> are being used in interrogative statements, they can use a plural verb.
-                    <ul>
-                        <li><p><q>Are either of you going to the women's lacrosse game?</q></p></li>
-                        <li><p><q>Have neither of my books arrived from ILLiad, yet?</q></p></li>
-                    </ul>
                 </p>
+                <example>
+                    <title>Agreement (Plural) with <q>Either/Or</q> and <q>Neither/Nor</q></title>
+                    <p>
+                        <ul>
+                            <li><p><q>Are either of you going to the women's lacrosse game?</q></p></li>
+                            <li><p><q>Have neither of my books arrived from ILLiad, yet?</q></p></li>
+                        </ul>
+                    </p>
+                </example>
                 <p>
-                    If <q>either</q> and <q>neither</q> are referring to either one item or another item (two items separated by the conjunction <q>or</q> or <q>nor</q>), the verb is determined by the plurality of the item that lies closest to it. A good rule of thumb is to look at the plurality of the subject/noun closest to the verb and change the verb accordingly. However, even if a sentence is grammatically correct, you may have to fiddle with the order of the items in order to make the sentence sound more clear. For instance, take the following example:
-                    <ul>
-                        <li><p><q>Neither my teammates nor my coach was expecting it to rain during practice.</q></p></li>
-                    </ul>
-                    While grammatically correct, this sentence still sounds slightly awkward. Consider a possible revision of the item order below.
-                    <ul>
-                        <li><p><q>Neither my coach nor my teammates were expecting it to rain during practice.</q> (Sounds much better.)</p></li>
-                    </ul>
+                    If <q>either</q> and <q>neither</q> are referring to either one item or another item (two items separated by the conjunction <q>or</q> or <q>nor</q>), the verb is determined by the plurality of the item that lies closest to it. A good rule of thumb is to look at the plurality of the subject/noun closest to the verb and change the verb accordingly. However, even if a sentence is grammatically correct, you may have to fiddle with the order of the items in order to make the sentence sound more clear.
                 </p>
-                <p>
-                    Below are some more examples of using <q>either/or</q> and <q>neither/nor.</q>
-                    <ul>
-                        <li><p><q>Either the geology team or the physics team is going to win the science basketball tournament in the Thompson courtyard.</q></p></li>
-                        <li><p><q>Neither the tables nor the couches in Diversions are open.</q></p></li>
-                    </ul>
-                </p>
+                <example>
+                    <title>Making a Gramatically Correct Sentence Clearer</title>
+                    <p> Look at this sentence:</p>
+                    <blockquote>
+                        <p>Neither my teammates nor my coach was expecting it to rain during practice.</p>
+                    </blockquote>
+                    <p>While grammatically correct, this sentence still sounds slightly awkward. Consider a possible revision of the item order:</p>
+                    <blockquote>
+                        <p>Neither my coach nor my teammates were expecting it to rain during practice.</p>
+                    </blockquote>
+                    Sounds much better, doesn't it?
+                </example>
+                <!-- <p>
+                    Below are some more examples of using <q>either/or</q> and <q>neither/nor.</q> -->
+                <example>
+                    <title>More Agreement with <q>Either/Or</q> and <q>Neither/Nor</q></title>
+                    <p>
+                        <ul>
+                            <li><p><q>Either the geology team or the physics team is going to win the science basketball tournament in the Thompson courtyard.</q></p></li>
+                            <li><p><q>Neither the tables nor the couches in Diversions are open.</q></p></li>
+                        </ul>
+                    </p>
+                </example>
             </subsubsection>
             <subsubsection xml:id="agreement-of">
                 <title>Of</title>
                 <p>
-                    When using a phrase beginning with <q>of</q> to modify a subject, the subject always comes before the phrase. Therefore, the verb should agree with the subject before the word <q>of.</q>
-                    <ul>
-                        <li><p><q>The murder of crows targets the dropped french fry.</q></p></li>
-                        <li><p><q>The Office of Admission is a great place to work if you'd like to be a campus visit guide.</q></p></li>
-                    </ul>
-                </p>
+                    When using a phrase beginning with <q>of</q> to modify a subject, the subject always comes before the phrase. Therefore, the verb should agree with the subject before the word <q>of.</q></p>
+                <example>
+                    <title>Agreement with <q>Of</q></title>
+                    <p>
+                        <ul>
+                            <li><p><q>The murder of crows targets the dropped french fry.</q></p></li>
+                            <li><p><q>The Office of Admission is a great place to work if you'd like to be a campus visit guide.</q></p></li>
+                        </ul>
+                    </p>
+                </example>
             </subsubsection>
             <subsubsection xml:id="agreement-and-or">
                 <title>And/Or</title>
                 <p>
                     When using <q>and</q> in a sentence to combine two or more subjects, use a plural verb. When using <q>or</q> in a sentence to differentiate between two or more subjects, the verb should agree with the plurality of whatever subject is closest to it.
-                    <ul>
-                        <li><p><q>Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</q></p></li>
-                        <li><p><q>My sister or my brothers are coming to visit me on campus.</q></p></li>
-                        <li><p><q>My brothers or my sister is coming to visit me on campus.</q></p></li>
-                    </ul>
                 </p>
+                <example>
+                    <title>Agreement with <q>And/Or</q></title>
+                    <p>
+                        <ul>
+                            <li><p><q>Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</q></p></li>
+                            <li><p><q>My sister or my brothers are coming to visit me on campus.</q></p></li>
+                            <li><p><q>My brothers or my sister is coming to visit me on campus.</q></p></li>
+                        </ul>
+                    </p>
+                </example>
             </subsubsection>
             <subsubsection xml:id="agreement-confusing-modifiers">
                 <title>Confusing Modifiers</title>
@@ -779,29 +871,47 @@
             <subsubsection xml:id="agreement-fractional-expressions">
                 <title>Fractional Expressions</title>
                 <p>(half/part/some/a majority/all/any/more/most of)</p>
-                <p>Fractional expressions can agree with either plural or singular verbs. Pick the type of verb based on the meaning and context of the fractional expression.</p>
-                <p>
-                    Here are some examples:
-                    <dl>
-                        <li>
-                            <title>Plural</title>
-                            <p><q>Some of us are ready to eat.</q></p>
-                            <p><q>The majority of Puget Sound baseball fans buy logger hats at the bookstore.</q></p>
-                            <p><q>All students on campus are really cool.</q></p>
-                        </li>
-                        <li>
-                            <title>Singular</title>
-                            <p><q>Part of the problem is that it's too rainy to do homework outside today.</q></p>
-                            <p><q>Some variation in sandwich preferences is okay (as long as you agree that toasting is the way to go).</q></p>
-                            <p><q>Most of my homework is done<ellipsis/></q></p>
-                        </li>
-                        <li>
-                            <title>Exception</title>
-                            <p><q>More than one</q> is always singular.</p>
-                            <p><q>More than one Met cookie is what I need right now.</q></p>
-                        </li>
-                    </dl>
-                </p>
+                <p>Generally, fractional expressions can agree with either plural or singular verbs. Pick the type of verb based on the meaning and context of the fractional expression.</p>
+                <example>
+                    <title>Fractional Expressions with Plural Agreement</title>
+                    <p>
+                        <ul>
+                            <li>
+                                <p><q>Some of us are ready to eat.</q></p>
+                            </li>
+                            <li>
+                                <p><q>The majority of Puget Sound baseball fans buy logger hats at the bookstore.</q></p>
+                            </li>
+                            <li>
+                                <p><q>All students on campus are really cool.</q></p>
+                            </li>
+                        </ul>
+                    </p>
+                </example>
+                <example>
+                    <title>Fractional Expressions with Singular Agreement</title>
+                    <p>
+                        <ul>
+                            <li>
+                                <p><q>Part of the problem is that it's too rainy to do homework outside today.</q></p>
+                            </li>
+                            <li>
+                                <p><q>Some variation in sandwich preferences is okay (as long as you agree that toasting is the way to go).</q></p>
+                            </li>
+                            <li>
+                                <p><q>Most of my homework is done<ellipsis/></q></p>
+                            </li>
+                        </ul>
+                    </p>
+                </example>
+
+                <note>
+                    <!-- <title></title> -->
+                    <p>
+                        The exception to this flexibility is that the fractional expression <q>more than one</q> is always singular, so you would say, <q>More than one Met cookie <alert>is</alert> what I need right now,</q> not <q>More than one Met cookie <em>are</em> what I need right now.</q>
+                    </p>
+                </note>
+
             </subsubsection>
         </subsection>
         <subsection xml:id="sentence-fragments">
@@ -823,7 +933,7 @@
                 </ul>
             </p>
             <example>
-                <title>Revising sentence fragments</title>
+                <title>Revising Sentence Fragments</title>
                 <p>
                     <ul>
                         <li><p><q>To the <acro>SUB</acro>.</q> → <q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q> In this revision, we combine the fragment with the independent clause, <q>You should take your <acro>SUB</acro> dishes back.</q> By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.</p></li>
@@ -935,28 +1045,26 @@
                 </blockquote>
                 <p>Here are a few more examples of misplaced modifiers and their possible revisions:</p>
                 <example>
-                    <statement>
-                        <blockquote>
-                            <p><q>Liam sprinted up the staircase to his class on the top floor of McIntyre, which was steep and exhausting.</q></p>
-                        </blockquote>
-                        <p>The placement of this modifier makes it seem like the top floor of McIntyre is <q>steep and exhausting.</q></p>
-                        <p>Revision:</p>
-                        <blockquote>
-                            <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of McIntyre.</q></p>
-                        </blockquote>
-                    </statement>
+                    <title>Misplaced Modifier: Tired Liam</title>
+                    <blockquote>
+                        <p><q>Liam sprinted up the staircase to his class on the top floor of McIntyre, which was steep and exhausting.</q></p>
+                    </blockquote>
+                    <p>The placement of this modifier makes it seem like the top floor of McIntyre is <q>steep and exhausting.</q></p>
+                    <p>Revision:</p>
+                    <blockquote>
+                        <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of McIntyre.</q></p>
+                    </blockquote>
                 </example>
                 <example>
-                    <statement>
-                        <blockquote>
-                            <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into Jones Fountain.</q></p>
-                        </blockquote>
-                        <p>This sentence makes it seem like the owner was the one <q>whining pleadingly,</q> not the dog!</p>
-                        <p>Revision:</p>
-                        <blockquote>
-                            <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into Jones Fountain.</q></p>
-                        </blockquote>
-                    </statement>
+                    <title>Misplaced Modifier: Dogs of Puget Sound</title>
+                    <blockquote>
+                        <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into Jones Fountain.</q></p>
+                    </blockquote>
+                    <p>This sentence makes it seem like the owner was the one <q>whining pleadingly,</q> not the dog!</p>
+                    <p>Revision:</p>
+                    <blockquote>
+                        <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into Jones Fountain.</q></p>
+                    </blockquote>
                 </example>
             </subsubsection>
             <subsubsection xml:id="parallelism-dangling-modifiers">
@@ -971,28 +1079,26 @@
                 </blockquote>
                 <p>Here are a few more examples of dangling modifiers and their possible revisions:</p>
                 <example>
-                    <statement>
-                        <blockquote>
-                            <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in Wyatt.</q></p>
-                        </blockquote>
-                        <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
-                        <p>Revision:</p>
-                        <blockquote>
-                            <p><q>Unfamiliar with the campus layout, the first-year student found it difficult to find their classroom in Wyatt.</q></p>
-                        </blockquote>
-                    </statement>
+                    <title>Dangling Modifier: Lost in Wyatt</title>
+                    <blockquote>
+                        <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in Wyatt.</q></p>
+                    </blockquote>
+                    <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
+                    <p>Revision:</p>
+                    <blockquote>
+                        <p><q>Unfamiliar with the campus layout, the first-year student found it difficult to find their classroom in Wyatt.</q></p>
+                    </blockquote>
                 </example>
                 <example>
-                    <statement>
-                        <blockquote>
-                            <p><q>After reviewing the scholarly article, the author's methods appear questionable.</q></p>
-                        </blockquote>
-                        <p>The modifier, <q>After reviewing the scholarly article,</q> is trying to modify an absent noun.</p>
-                        <p>Revision:</p>
-                        <blockquote>
-                            <p><q>After reviewing the scholarly article, I find the author's methods questionable.</q></p>
-                        </blockquote>
-                    </statement>
+                    <title>Dangling Modifier: Method Madness</title>
+                    <blockquote>
+                        <p><q>After reviewing the scholarly article, the author's methods appear questionable.</q></p>
+                    </blockquote>
+                    <p>The modifier, <q>After reviewing the scholarly article,</q> is trying to modify an absent noun.</p>
+                    <p>Revision:</p>
+                    <blockquote>
+                        <p><q>After reviewing the scholarly article, I find the author's methods questionable.</q></p>
+                    </blockquote>
                 </example>
             </subsubsection>
         </subsection>
@@ -1003,7 +1109,7 @@
             <title>Writing Clearly and Precisely</title>
             <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply.</p>
             <p>
-                Here are some examples of long-winded ways to say relatively simple things:
+                Here are some long<ndash/>winded ways to say relatively simple things:
                 <ul>
                     <li><p><q>At this juncture in time<nbsp/><ellipsis/></q> → now, currently</p></li>
                     <li><p><q>By virtue of the fact<nbsp/><ellipsis/></q> → because</p></li>
@@ -1075,44 +1181,47 @@
         <subsection xml:id="style-using-passive-cautiously">
             <title>Using Passive Constructions Cautiously</title>
             <p>The <term>passive voice</term> is <em>passive</em> because sentences in this structure de-emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take direct objects.</p>
-            <p>
-                Here are some examples of active versus passive voice:
-                <dl>
-                    <li>
-                        <title>Active</title>
-                        <p><q>Sally hugged Barbara.</q></p>
-                    </li>
-                    <li>
-                        <title>Passive</title>
-                        <p><q>Barbara was hugged by Sally.</q></p>
-                    </li>
-                    <li>
-                        <title>Active</title>
-                        <p><q>I did my homework.</q></p>
-                    </li>
-                    <li>
-                        <title>Passive</title>
-                        <p><q>My homework was done by me.</q></p>
-                    </li>
-                    <li>
-                        <title>Active</title>
-                        <p><q>My roommate woke me up as she got ready for crew practice.</q></p>
-                    </li>
-                    <li>
-                        <title>Passive</title>
-                        <p><q>I was woken up by my roommate as she got ready for crew practice.</q></p>
-                    </li>
-                    <li>
-                        <title>Active</title>
-                        <p><q>We made mistakes.</q></p>
-                    </li>
-                    <li>
-                        <title>Passive</title>
-                        <p><q>Mistakes were made.</q></p>
-                        <p>(Notice how this form completely omits the actor<mdash/>Who made the mistakes? We don't know! They just were made<ellipsis/>)</p>
-                    </li>
-                </dl>
-            </p>
+            <example>
+                <title>Active Versus Passive Voice</title>
+                <p>
+                    Here are more sentences written in both active and passive voice, for comparison.
+                    <dl>
+                        <li>
+                            <title>Active</title>
+                            <p><q>Sally hugged Barbara.</q></p>
+                        </li>
+                        <li>
+                            <title>Passive</title>
+                            <p><q>Barbara was hugged by Sally.</q></p>
+                        </li>
+                        <li>
+                            <title>Active</title>
+                            <p><q>I did my homework.</q></p>
+                        </li>
+                        <li>
+                            <title>Passive</title>
+                            <p><q>My homework was done by me.</q></p>
+                        </li>
+                        <li>
+                            <title>Active</title>
+                            <p><q>My roommate woke me up as she got ready for crew practice.</q></p>
+                        </li>
+                        <li>
+                            <title>Passive</title>
+                            <p><q>I was woken up by my roommate as she got ready for crew practice.</q></p>
+                        </li>
+                        <li>
+                            <title>Active</title>
+                            <p><q>We made mistakes.</q></p>
+                        </li>
+                        <li>
+                            <title>Passive</title>
+                            <p><q>Mistakes were made.</q></p>
+                            <p>(Notice how this form completely omits the actor<mdash/>Who made the mistakes? We don't know! They just were made<ellipsis/>)</p>
+                        </li>
+                    </dl>
+                </p>
+            </example>
             <sidebyside width="50%">
                 <image source="images/LM-PassiveVoice"/>
             </sidebyside>
@@ -1934,7 +2043,7 @@
                 <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on Todd Field.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on Todd Field,</q> does not make very much sense, so this may be an indication that the correct form to use is <q>its.</q></p>
                 <p>Below are some sentence examples of <q>its</q> and <q>it's</q> to help you distinguish which form to use.</p>
                 <example>
-                    <title>Appropriate usage of <q>its</q></title>
+                    <title>Appropriate Usage of <q>Its</q></title>
                     <blockquote>
                         <p><q>The University celebrated its 128th birthday this year.</q></p>
                     </blockquote>
@@ -1949,7 +2058,7 @@
                     </blockquote>
                 </example>
                 <example>
-                    <title>Appropriate usage of <q>it's</q></title>
+                    <title>Appropriate Usage of <q>It's</q></title>
                     <blockquote>
                         <p><q>Skiing is fun, but it's [it is] also a great workout.</q></p>
                     </blockquote>
@@ -1985,10 +2094,12 @@
                 <title>Ellipsis <dblbrackets><ellipsis/></dblbrackets> (AKA: <q>dot dot dot</q>)</title>
                 <p>Use an ellipsis to show that you have omitted part of a quotation.</p>
                 <example>
+                    <title>Ellipsis: Ubiquitous They</title>
                     <p><em>The Trail</em> reporter wrote, <q>The skit, which was held in the Rendezvous Room, showcased <ellipsis/> the many skills of Puget Sound's improv group, Ubiquitous They.</q></p>
                 </example>
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
                 <example>
+                    <title>Ellipsis: SunBetter</title>
                     <p>Original quote<mdash/><q>I love that the <acro>SUB</acro> has sunbutter and bananas. It's great because I'm allergic to peanuts.</q></p>
                     <p>Quoted portion<mdash/><q>I love that the <acro>SUB</acro> has sunbutter <ellipsis/> . It's great because I'm allergic to peanuts.</q></p>
                 </example>
@@ -1996,9 +2107,11 @@
             <subsubsection xml:id="punctuation-capitalization-exclamation">
                 <title>Exclamation <dblbrackets>!</dblbrackets> and Question <dblbrackets>?</dblbrackets> Marks</title>
                 <example>
+                    <title>Exclamation and Question Marks: Recursive Enthusiasm</title>
                     <p><q>Use an exclamation mark when you want to show excitement! (Like this!)</q></p>
                 </example>
                 <example>
+                    <title>Exclamation and Question Marks: Recursive Interrogation</title>
                     <p><q>Do you use a question mark when you ask a question? (Answer: Yes, you do.)</q></p>
                 </example>
             </subsubsection>
@@ -2092,9 +2205,11 @@
                 <title>Colon <dblbrackets>:</dblbrackets></title>
                 <p>Only use a colon after a complete sentence. Colons tell a reader that what follows is directly related to the sentence that preceded the colon. The following information could be a list of items or another clause.</p>
                 <example>
+                    <title>Colon: Weird Snack</title>
                     <p><q>Please grab me a couple of things from The Cellar: a container of ice cream, a carton of eggs, and some guacamole.</q></p>
                 </example>
                 <example>
+                    <title>Colon: Tiny Pants</title>
                     <p><q>I learned about the coolest thing in class today: a long time ago, a scientist conducted an experiment where <url href="http://io9.gizmodo.com/18th-century-biologists-put-pants-on-frogs-to-test-the-1552252710">he put tiny pants on frogs</url>.</q></p>
                 </example>
                 <note>
