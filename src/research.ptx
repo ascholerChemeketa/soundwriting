@@ -115,41 +115,53 @@
             </p>
         </assemblage>
         <list>
-            <paragraphs><title>Key Steps</title>
+            <title>Key Steps to Finding a Research Question</title>
             <ol>
-                <li><p>Begin by asking as many open-ended <q>why?</q> or <q>how?</q> questions as you can think of. Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Chapter 3 of <pubtitle>The Craft of Research</pubtitle>, available as an ebook in Primo to members of the University of Puget Sound community.</p></li>
-                <li><p>Begin to evaluate your research questions. Which question interests you the most? Why?</p></li>
                 <li>
-                    <p>
-                        Seek out feedback. Different kinds of people will provide different kinds of feedback. See <xref ref="FeedbackSources" text="title"/> for more.
-                    </p>
+                    <p><em>Begin by asking as many open-ended <q>why?</q> or <q>how?</q> questions as you can think of.</em></p>
+                    <p>Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Chapter 3 of <pubtitle>The Craft of Research</pubtitle>, available as an ebook in Primo to members of the University of Puget Sound community.</p>
                 </li>
-                <li><p>Be open to refining your research question. As you continue the research and writing processes, you may discover that your question is too broad or too narrow, or that there's another, related research question that your evidence is suggesting.</p></li>
-                <li><p>Hold off on deciding what your thesis is until you've identified a viable research question and have begun to delve into your research sources. Committing to a thesis prematurely can hamper your research process by causing you only to seek evidence that supports your argument.</p></li>
-            </ol>
-            </paragraphs>
-        </list>
-        <assemblage xml:id="FeedbackSources">
-            <title>Sources of Feedback</title>
-            <p>
-            <dl>
                 <li>
-                    <title>Your peers</title>
-                                <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
-                            </li>
-                            <li>
-                                <title>Peer writing advisors</title>
-                                <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
-                            </li>
-                            <li>
-                                <title>Librarians</title>
-                                <p>will help you explore potential resources for tackling your research question and also will give you honest advice about the feasibility of your focus and project.</p>
-                            </li>
-                            <li>
-                                <title>Your professors</title>
-                                <p>are subject experts and are excellent resources for helping you identify where your question fits in the ongoing scholarly conversation.</p>
-                            </li>
-                        </dl>
+                    <p><em>Begin to evaluate your research questions.</em></p>
+                    <p>Which question interests you the most? Why?</p>
+                </li>
+                <li>
+                    <p><em>Seek out feedback.</em></p>
+                    <p>Different kinds of people will provide different kinds of feedback. See <xref ref="FeedbackSources" text="title"/> for more.</p>
+                </li>
+                <li>
+                    <p><em>Be open to refining your research question.</em></p>
+                    <p>As you continue the research and writing processes, you may discover that your question is too broad or too narrow, or that there's another, related research question that your evidence is suggesting.</p>
+                </li>
+                <li>
+                    <p><em>Hold off on deciding what your thesis is until you've identified a viable research question and have begun to delve into your research sources.</em></p>
+                    <p>Committing to a thesis prematurely can hamper your research process by causing you only to seek evidence that supports your argument.</p>
+                </li>
+            </ol>
+        </list>
+        <assemblage>
+            <p>
+                <list xml:id="FeedbackSources">
+                    <title>Sources of Feedback</title>
+                    <dl>
+                        <li>
+                            <title>Peers</title>
+                            <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
+                        </li>
+                        <li>
+                            <title>Writing Advisors</title>
+                            <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
+                        </li>
+                        <li>
+                            <title>Librarians</title>
+                            <p>will help you explore potential resources for tackling your research question and also will give you honest advice about the feasibility of your focus and project.</p>
+                        </li>
+                        <li>
+                            <title>Professors</title>
+                            <p>are subject experts and are excellent resources for helping you identify where your question fits in the ongoing scholarly conversation.</p>
+                        </li>
+                    </dl>
+                </list>
             </p>
         </assemblage>
     </section>
@@ -184,31 +196,7 @@
                 </li>
                 <li>
                     <p>
-                        <em>Learn some handy tricks for searching databases.</em>
-                    </p>
-                    <p>
-                        <dl>
-                            <li>
-                                <title>An asterisk (<c>*</c>)</title>
-                                <p>at the end of a word (or root of a word) or to replace a letter within a word: <c>Wom*n</c> will tell the database to search for both <q>women</q> and <q>woman.</q> <c>Canad*</c> will tell the database to search for <q>Canada</q> and <q>Canadian.</q></p>
-                            </li>
-                            <li>
-                                <title>Quotation marks (<c>" "</c>)</title>
-                                <p>around a phrase will search the database for that exact phrase: <c>"information literacy"</c> instead of <c>information literacy</c>.</p>
-                            </li>
-                            <li>
-                                <title><c>OR</c></title>
-                                <p>will expand your search to look for more than one keyword: <c>cars OR autos OR automobiles</c> will find sources that contain any one of these keywords.</p>
-                            </li>
-                            <li>
-                                <title><c>AND</c></title>
-                                <p>will limit your search to only those sources that contain both keywords: <c>racism AND slavery</c> will identify only the sources that include both keywords.</p>
-                            </li>
-                            <li>
-                                <title><c>NOT</c></title>
-                                <p>will exclude sources that contain that keyword.</p>
-                            </li>
-                        </dl>
+                        <em>Learn some <xref ref = "list-research-database-search"/>.</em>
                     </p>
                 </li>
             </ul>
@@ -216,5 +204,30 @@
         <sidebyside width="50%">
             <image source="images/RM_KeywordsSearchTerms"/>
         </sidebyside>
+        <list xml:id="list-research-database-search">
+            <title>Tips for Searching a Database</title>
+            <dl>
+                <li>
+                    <title>An asterisk (<c>*</c>)</title>
+                    <p>at the end of a word (or root of a word) or to replace a letter within a word: <c>Wom*n</c> will tell the database to search for both <q>women</q> and <q>woman.</q> <c>Canad*</c> will tell the database to search for <q>Canada</q> and <q>Canadian.</q></p>
+                </li>
+                <li>
+                    <title>Quotation marks (<c>" "</c>)</title>
+                    <p>around a phrase will search the database for that exact phrase: <c>"information literacy"</c> instead of <c>information literacy</c>.</p>
+                </li>
+                <li>
+                    <title><c>OR</c></title>
+                    <p>will expand your search to look for more than one keyword: <c>cars OR autos OR automobiles</c> will find sources that contain any one of these keywords.</p>
+                </li>
+                <li>
+                    <title><c>AND</c></title>
+                    <p>will limit your search to only those sources that contain both keywords: <c>racism AND slavery</c> will identify only the sources that include both keywords.</p>
+                </li>
+                <li>
+                    <title><c>NOT</c></title>
+                    <p>will exclude sources that contain that keyword.</p>
+                </li>
+            </dl>
+        </list>
     </section>
 </chapter>

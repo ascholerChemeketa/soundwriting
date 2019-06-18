@@ -47,57 +47,53 @@
     </assemblage>
     <p>In length alone, the spoken version is shorter. By simplifying sentence structure and vocabulary, the spoken version is much more easily understandable. The speaker is patient with their explanations and clarifies things for the audience (<q>which in this case meant that all white males could vote</q>). By understanding the limits of aural processing, you can tailor your oral presentation to the needs of your audience and create, in so doing, a more pleasant experience for all.</p>
     <p>We have considered some of the differences between spoken and written communication and suggested some strategies to negotiate them. Understanding these differences will help you to take advantage of the real time, face-to-face context of oral communication.</p>
-    <paragraphs xml:id="par-speaking-strategies-delivering">
+    <list xml:id="list-speaking-strategies-delivering">
         <title>Strategies for Delivering a Spoken Argument</title>
-        <p>
-            <ul>
-                <li>
-                    <p><em>Prepare ahead of time.</em></p>
-                    <p>Even if you consider yourself to be a great improviser, you should begin preparing your presentation <em>at least</em> a couple of days in advance to give yourself time to<nbsp/><ellipsis/></p>
-                </li>
-                <li>
-                    <p><em>Practice!</em></p>
-                    <p>Practicing your presentation <em>over and over</em> will help you feel more confident and comfortable when the time comes for you to actually present. We know that practicing speeches in college can sometimes be difficult, especially when you don't want to bother your roommate, but you have plenty of options! Try out a study room in the basement of Collins Library, find an empty lounge in your residence hall, take turns practicing with other people in your class (or with your course assistant), make an appointment at the Center for Writing, Learning, and Teaching (<init>CWLT</init>), take your presentation notes on a walk and practice as you go (just watch out for cars and passersby!), or visit your professor during office hours for some feedback. Having a few run-throughs under your belt will make you more comfortable when you actually present.</p>
-                </li>
-                <li>
-                    <p><em>Don't over<ndash/>prepare.</em></p>
-                    <p>Of course, don't prepare so much that your presentation becomes all that you think about. It's important to sleep and take breaks!</p>
-                </li>
-                <li>
-                    <p><em>Don't read; speak.</em></p>
-                    <p>The purpose of a presentation is not to read the audience your paper. Your audience can read. What they can't do when reading a written paper is engage in face-to-face communication with the writer. Engage your listeners on a personal level by actually <em>talking</em> to them. They'll be more interested in what you have to say, and you'll be happy to have been heard. (You might even be able to get away with a couple of jokes in your oral presentation. While we don't recommend undermining your authority with knock-knock jokes every other slide, a tasteful joke can help to establish rapport between you and your audience.)</p>
-                </li>
-                <li>
-                    <p><em>Make eye contact.</em></p>
-                    <p>Although it might seem scary to look directly at your audience, making eye contact will actually make the presentation less awkward! Making eye contact also tells your audience that you reciprocate the attention that they're giving you.</p>
-                    <sidebyside width="50%">
-                        <image source="images/SW-eyes"/>
-                    </sidebyside>
-                </li>
-                <li>
-                    <p><em>Assume good intent.</em></p>
-                    <p>Sometimes people in your audience may look like they are not paying attention or like they aren't enjoying your presentation. While this may be the case, don't panic if people look less than enthralled. It's impossible to know why they look the way they do: They may have been sitting there for a long time, or maybe their resting face is not as perky and interested as your own! That said, when you're in the audience listening to other presentations, make an extra effort to be a good listener and to look interested and alert, even if you've been sitting there for a long time.</p>
-                </li>
-                <li>
-                    <p><em>Remember that class presentations are learning experiences.</em></p>
-                    <p>Class presentations, as with everything you do in college, are practice. Your classmates are dealing with the same stresses and anxieties as you, and your professor is aware that you are <em>practicing</em> and <em>learning</em>. If it helps, ask your professor if you can use the timer on your phone to keep track of time during your presentation. (But don't do this if watching the seconds tick by will make you more anxious!)</p>
-                </li>
-            </ul>
-        </p>
-    </paragraphs>
+        <ul>
+            <li>
+                <p><em>Prepare ahead of time.</em></p>
+                <p>Even if you consider yourself to be a great improviser, you should begin preparing your presentation <em>at least</em> a couple of days in advance to give yourself time to<nbsp/><ellipsis/></p>
+            </li>
+            <li>
+                <p><em>Practice!</em></p>
+                <p>Practicing your presentation <em>over and over</em> will help you feel more confident and comfortable when the time comes for you to actually present. We know that practicing speeches in college can sometimes be difficult, especially when you don't want to bother your roommate, but you have plenty of options! Try out a study room in the basement of Collins Library, find an empty lounge in your residence hall, take turns practicing with other people in your class (or with your course assistant), make an appointment at the Center for Writing, Learning, and Teaching (<init>CWLT</init>), take your presentation notes on a walk and practice as you go (just watch out for cars and passersby!), or visit your professor during office hours for some feedback. Having a few run-throughs under your belt will make you more comfortable when you actually present.</p>
+            </li>
+            <li>
+                <p><em>Don't over<ndash/>prepare.</em></p>
+                <p>Of course, don't prepare so much that your presentation becomes all that you think about. It's important to sleep and take breaks!</p>
+            </li>
+            <li>
+                <p><em>Don't read; speak.</em></p>
+                <p>The purpose of a presentation is not to read the audience your paper. Your audience can read. What they can't do when reading a written paper is engage in face-to-face communication with the writer. Engage your listeners on a personal level by actually <em>talking</em> to them. They'll be more interested in what you have to say, and you'll be happy to have been heard. (You might even be able to get away with a couple of jokes in your oral presentation. While we don't recommend undermining your authority with knock-knock jokes every other slide, a tasteful joke can help to establish rapport between you and your audience.)</p>
+            </li>
+            <li>
+                <p><em>Make eye contact.</em></p>
+                <p>Although it might seem scary to look directly at your audience, making eye contact will actually make the presentation less awkward! Making eye contact also tells your audience that you reciprocate the attention that they're giving you.</p>
+                <sidebyside width="50%">
+                    <image source="images/SW-eyes"/>
+                </sidebyside>
+            </li>
+            <li>
+                <p><em>Assume good intent.</em></p>
+                <p>Sometimes people in your audience may look like they are not paying attention or like they aren't enjoying your presentation. While this may be the case, don't panic if people look less than enthralled. It's impossible to know why they look the way they do: They may have been sitting there for a long time, or maybe their resting face is not as perky and interested as your own! That said, when you're in the audience listening to other presentations, make an extra effort to be a good listener and to look interested and alert, even if you've been sitting there for a long time.</p>
+            </li>
+            <li>
+                <p><em>Remember that class presentations are learning experiences.</em></p>
+                <p>Class presentations, as with everything you do in college, are practice. Your classmates are dealing with the same stresses and anxieties as you, and your professor is aware that you are <em>practicing</em> and <em>learning</em>. If it helps, ask your professor if you can use the timer on your phone to keep track of time during your presentation. (But don't do this if watching the seconds tick by will make you more anxious!)</p>
+            </li>
+        </ul>
+    </list>
     <p>Just breathe and relax, and it will be all right.</p>
-    <paragraphs xml:id="par-speaking-five-differences">
+    <list xml:id="list-speaking-five-differences">
         <title>Top 5 Differences Between Written and Spoken (or Signed) Language</title>
-        <p>
-            <ol>
-                <li><p>The obvious difference (excluding the modern inventions of radio, telephones, and television): written language allows people to communicate across time and space, while spoken language happens immediately and is available only for those who can hear it (or see it, in the case of sign languages).</p></li>
-                <li><p>Virtually every human being learns to speak, while literacy is far less common. Today, almost 17% of adults around the world are illiterate.</p></li>
-                <li><p>Because reading and writing are consciously learned behaviors while the ability to speak is acquired naturally, many scientists and linguists think that spoken language is innate and written language is a human construct.</p></li>
-                <li><p>Spoken and signed languages can have varieties and dialects, while written language is generally more regulated and standardized.</p></li>
-                <li><p>Writing and speaking appear to use different parts of the brain.</p></li>
-            </ol>
-        </p>
-    </paragraphs>
+        <ol>
+            <li><p>The obvious difference (excluding the modern inventions of radio, telephones, and television): written language allows people to communicate across time and space, while spoken language happens immediately and is available only for those who can hear it (or see it, in the case of sign languages).</p></li>
+            <li><p>Virtually every human being learns to speak, while literacy is far less common. Today, almost 17% of adults around the world are illiterate.</p></li>
+            <li><p>Because reading and writing are consciously learned behaviors while the ability to speak is acquired naturally, many scientists and linguists think that spoken language is innate and written language is a human construct.</p></li>
+            <li><p>Spoken and signed languages can have varieties and dialects, while written language is generally more regulated and standardized.</p></li>
+            <li><p>Writing and speaking appear to use different parts of the brain.</p></li>
+        </ol>
+    </list>
     <paragraphs>
         <title>Differences in Dialectual/Cultural Rules</title>
         <p>Communication extends far beyond the grammatical features used by a speaker or writer. A person's grammar may be technically correct, but the meaning of their words can provoke anger, laughter, misunderstanding, or outright confusion. Since language revolves around <em>context</em>, knowing the context in which you speak or write is essential to producing culturally appropriate messages. In linguistics, the study of these cultural and contextual language rules is called <term>pragmatics</term>.</p>

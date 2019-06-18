@@ -113,38 +113,34 @@
     <section xml:id="argument-strong-argument">
         <title>Making a Strong Argument</title>
         <p>Having the basic elements of an argument (main claim, evidence, substantiation, and counterpoint) is important, but that's not all you can do to make your argument as strong as possible. The most effective arguments are specific, meaningful, arguable within the scope of the assignment, supported by firm lines of evidence, and contestable. While you are developing your argument, use the following questions to help you frame and strengthen it further.</p>
-        <list>
-            <paragraphs xml:id="par-argument-checklist">
-                <title>Argument Checklist</title>
-                <p>
-                    <dl>
-                        <li>
-                            <title>Is it too broad/specific?</title>
-                            <p>Arguments often start out broad in scope and then narrow as more and more evidence is collected. The trick is making sure an argument doesn't stay too broad or become so narrow that it no longer becomes arguable. For instance, the argument <q>Rain influences people's behavior</q> would be daunting to research and argue because people likely respond to rain in a number of different ways. On the other hand, the argument <q>Rain influences the walking rates of Puget Sound students in Tacoma, Washington, differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</p>
-                        </li>
-                        <li>
-                            <title>Is it arguable based on the available evidence?</title>
-                            <p>In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to <url href="https://pugetsound.edu/library">Collins Library</url>, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <em>The Trail</em> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the Collins Library search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</p>
-                        </li>
-                        <li>
-                            <title>Does the evidence support it?</title>
-                            <p>You also need to make sure the evidence available supports your argument. It's important to listen to your evidence and let it point you in the direction of your argument rather than the other way around. For instance, if all of the evidence points toward the argument that <q>Rainfall promotes student productivity,</q> you likely wouldn't argue the opposite (that <q>Rainfall reduces student productivity</q>). It's also important to remember to use your evidence wisely. For example, if you find a piece of evidence showing that more students study in Collins Library during periods of heavy rainfall, it would be unwise to use this evidence to argue that students do not study in the library when it is nice outside. Let the evidence lead the way.</p>
-                        </li>
-                        <li>
-                            <title>Is it contestable?</title>
-                            <p>A strong argument should be debatable and challenged by other viewpoints. The strength of your argument actually stems from how well you address these opposing views. For instance, if you were to argue that <q>Rain is condensed moisture falling from the sky,</q> there would be little room for debate because you are arguing a widely accepted fact. However, if you were to argue that <q>Students tend to focus more on homework assignments when it is raining,</q> those who feel that rain lessens productivity by motivating students to crawl into their warm beds might disagree.</p>
-                        </li>
-                        <li>
-                            <title>Does it offer something new to the existing literature?</title>
-                            <p>One of the greatest challenges in developing your argument is making it unique and discernible from the arguments of previous studies or literature. Your argument should not be a mere rehashing of someone else's opinion or conclusions but should rather use these findings as evidence to support your own claim about a topic. It's also helpful if your argument is interesting enough to hold your attention throughout the research and writing process; otherwise, you may find yourself bored a few pages into the assignment! For instance, the above argument <q>Rain is condensed moisture falling from the sky</q> would be pretty boring to write about and has already been supported by numerous scientific studies. In contrast, the alternative argument <q>Students tend to focus more on homework assignments when it is raining</q> is interesting, takes a stance on a certain topic, and is likely less well-supported than the previous statement. It's your argument, so own it!</p>
-                        </li>
-                        <li>
-                            <title>Does it respond to the prompt/assignment?</title>
-                            <p>Even if you have a brilliant argument, it's important to remember that it needs to respond to your prompt or assignment (see <xref ref="how-to-read-writing-prompts"/>). If the prompt asked you to <q>assess the influence of rainfall on student academic productivity,</q> you likely wouldn't argue that <q>the weather during a prospective student's campus tour influences their decision to attend Puget Sound.</q> Some professors are more particular about their assignment prompts or rubrics than others and may have specific guidelines or requirements that you will need to take into account as you construct your argument. In situations when you notice that your argument has shifted away from the prompt, resist the feeling that you must stifle your argument to <q>fit the requirements</q>; try to perceive those situations as opportunities to articulate your argument in a way that both satisfies the assignment and preserves your voice. One way to do this is to imagine your argument as an open dialogue with your professor rather than simply a response to a prompt.</p>
-                        </li>
-                    </dl>
-                </p>
-            </paragraphs>
+        <list xml:id="list-argument-checklist">
+            <title>Argument Checklist</title>
+            <ul label="circle">
+                <li>
+                    <p><em>Is it too broad or too specific?</em></p>
+                    <p>Arguments often start out broad in scope and then narrow as more and more evidence is collected. The trick is making sure an argument doesn't stay too broad or become so narrow that it no longer becomes arguable. For instance, the argument <q>Rain influences people's behavior</q> would be daunting to research and argue because people likely respond to rain in a number of different ways. On the other hand, the argument <q>Rain influences the walking rates of Puget Sound students in Tacoma, Washington, differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</p>
+                </li>
+                <li>
+                    <p><em>Is it arguable based on the available evidence?</em></p>
+                    <p>In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to <url href="https://pugetsound.edu/library">Collins Library</url>, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <em>The Trail</em> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the Collins Library search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</p>
+                </li>
+                <li>
+                    <p><em>Does the evidence support it?</em></p>
+                    <p>You also need to make sure the evidence available supports your argument. It's important to listen to your evidence and let it point you in the direction of your argument rather than the other way around. For instance, if all of the evidence points toward the argument that <q>Rainfall promotes student productivity,</q> you likely wouldn't argue the opposite (that <q>Rainfall reduces student productivity</q>). It's also important to remember to use your evidence wisely. For example, if you find a piece of evidence showing that more students study in Collins Library during periods of heavy rainfall, it would be unwise to use this evidence to argue that students do not study in the library when it is nice outside. Let the evidence lead the way.</p>
+                </li>
+                <li>
+                    <p><em>Is it contestable?</em></p>
+                    <p>A strong argument should be debatable and challenged by other viewpoints. The strength of your argument actually stems from how well you address these opposing views. For instance, if you were to argue that <q>Rain is condensed moisture falling from the sky,</q> there would be little room for debate because you are arguing a widely accepted fact. However, if you were to argue that <q>Students tend to focus more on homework assignments when it is raining,</q> those who feel that rain lessens productivity by motivating students to crawl into their warm beds might disagree.</p>
+                </li>
+                <li>
+                    <p><em>Does it offer something new to the existing literature?</em></p>
+                    <p>One of the greatest challenges in developing your argument is making it unique and discernible from the arguments of previous studies or literature. Your argument should not be a mere rehashing of someone else's opinion or conclusions but should rather use these findings as evidence to support your own claim about a topic. It's also helpful if your argument is interesting enough to hold your attention throughout the research and writing process; otherwise, you may find yourself bored a few pages into the assignment! For instance, the above argument <q>Rain is condensed moisture falling from the sky</q> would be pretty boring to write about and has already been supported by numerous scientific studies. In contrast, the alternative argument <q>Students tend to focus more on homework assignments when it is raining</q> is interesting, takes a stance on a certain topic, and is likely less well-supported than the previous statement. It's your argument, so own it!</p>
+                </li>
+                <li>
+                    <p><em>Does it respond to the prompt/assignment?</em></p>
+                    <p>Even if you have a brilliant argument, it's important to remember that it needs to respond to your prompt or assignment (see <xref ref="how-to-read-writing-prompts"/>). If the prompt asked you to <q>assess the influence of rainfall on student academic productivity,</q> you likely wouldn't argue that <q>the weather during a prospective student's campus tour influences their decision to attend Puget Sound.</q> Some professors are more particular about their assignment prompts or rubrics than others and may have specific guidelines or requirements that you will need to take into account as you construct your argument. In situations when you notice that your argument has shifted away from the prompt, resist the feeling that you must stifle your argument to <q>fit the requirements</q>; try to perceive those situations as opportunities to articulate your argument in a way that both satisfies the assignment and preserves your voice. One way to do this is to imagine your argument as an open dialogue with your professor rather than simply a response to a prompt.</p>
+                </li>
+            </ul>
         </list>
         <sidebyside width="50%">
             <image source="images/AD-Rain"/>
@@ -163,7 +159,9 @@
                 <image source="images/AD-CuteCat"/>
             </sidebyside>
             <p>Now, how do you go about writing your thesis? Since your thesis is the main point of your argument, you may find it difficult and time consuming to construct the perfect sentence (or two!). Strategies to develop your thesis are therefore very important. Let's start from the beginning.</p>
-            <p>A note before we begin: It is important that you write down <em>every version</em> of your thesis. You don't want to have a brilliant idea only to forget it five minutes later; sometimes old versions of your thesis can be useful in crafting newer versions.</p>
+            <note>
+                <p>It is important that you write down <alert>every version</alert> of your thesis. You don't want to have a brilliant idea only to forget it five minutes later; sometimes old versions of your thesis can be useful in crafting newer versions.</p>
+            </note>
         </introduction>
         <subsection xml:id="thesis-dev-six-steps">
             <title>The Six<ndash/>Step Process</title>
@@ -262,27 +260,39 @@
     <section xml:id="argument-organization">
         <title>Organizing an Argument</title>
         <p>At this point in the development of your argument, you should have a working thesis and multiple supporting claims. Now you must think about your argument from the point of view of your audience. Arguments must be organized in a way that audiences can logically follow. Your main goal as a writer is to organize your argument logically and convincingly enough that a reader will be persuaded by what you've written. Because argument organization varies between papers and subjects, you need to figure out what your audience will need and want while reading through your argument.</p>
-        <assemblage>
-            <title>Tip</title>
-            <p>
-            Consider asking yourself these questions:
+        <list xml:id="list-argument-organizing-questions">
+            <title>Questions to Ask yourself to Organize your Argument</title>
             <ul>
                 <li><p><q>What pieces of your argument does an audience need in order to make sense of the following parts?</q></p></li>
                 <li><p><q>Do the pieces of your argument need to build on each other in a certain way?</q></p></li>
                 <li><p><q>Should you organize your supporting claims chronologically? By order of importance?</q></p></li>
             </ul>
-            </p>
-        </assemblage>
-            <p>Now, to answer these questions, you have a few options:
+        </list>
+        <p>Now, to answer these questions, you have a few options:</p>
+        <list xml:id="list-argument-organizing-strategies">
+            <title>Strategies for Organizing an Argument</title>
             <ul>
-                <li><p>Make a few different outlines (see <xref ref="planning"/>).</p></li>
-                <li><p>Write your supporting claims on notecards and organize them a few different ways.</p></li>
-                <li><p>Map out your ideas by drawing connections between your claim, supporting claims, and evidence.</p></li>
-                <li><p>Talk through your argument with someone, perhaps a writing advisor at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/writing-advisor-schedule">Center for Writing, Learning, and Teaching</url>! (It might also be helpful to take notes during/record the conversation so you have content from the conversation to use as you return to writing and organizing.)</p></li>
-                <li><p>Ask yourself, <q>Which one seems the most logical?</q></p></li>
-                <li><p>Ask a friend or peer to look at your organizational schemes to see what he or she thinks is most logical.</p></li>
+                <li>
+                    <p><em>Make a few different outlines (see <xref ref="planning"/>).</em></p>
+                </li>
+                <li>
+                    <p><em>Write your supporting claims on notecards and organize them a few different ways.</em></p>
+                </li>
+                <li>
+                    <p><em>Map out your ideas by drawing connections between your claim, supporting claims, and evidence.</em></p>
+                </li>
+                <li>
+                    <p><em>Talk through your argument with someone, perhaps a writing advisor at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/writing-advisor-schedule">Center for Writing, Learning, and Teaching</url>!</em></p>
+                    <p>(It might also be helpful to take notes during/record the conversation so you have content from the conversation to use as you return to writing and organizing.)</p>
+                </li>
+                <li>
+                    <p><em>Ask yourself, <q>Which one seems the most logical?</q></em></p>
+                </li>
+                <li>
+                    <p><em>Ask a friend or peer to look at your organizational schemes to see what he or she thinks is most logical.</em></p>
+                </li>
             </ul>
-        </p>
+        </list>
     </section>
     <section xml:id="performing-textual-analysis">
         <title>Using Evidence to Support an Argument</title>
