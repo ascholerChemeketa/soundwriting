@@ -30,7 +30,7 @@
                         <cell>References</cell>
                     </row>
                     <row bottom="minor">
-                        <cell>In<ndash/>Text Citations</cell>
+                        <cell>In<ndash/>text Citations</cell>
                         <cell>(Author page)</cell>
                         <cell>
                             <line>Footnotes (see below);</line>
@@ -541,13 +541,13 @@
                 <title>Citing a Website with human author</title>
                 <p indent="hanging"><red>Author Last Name, First Name.</red> <darkgreen><pubtitle>Title of Website.</pubtitle></darkgreen> <gray>Name of Publisher,</gray> <navy>Date of publication (if available),</navy> <orange>URL.</orange> <lightgreen>Accessed date.</lightgreen></p>
                 <p indent="hanging"><red>Martin, Mark.</red> <darkgreen><pubtitle>Martin's Microbial Menagerie.</pubtitle></darkgreen> <gray>University of Puget Sound,</gray> <orange>http://webspace.pugetsound.edu/facultypages/momartin/index.htm.</orange> <lightgreen>Accessed 1 Aug. 2016.</lightgreen> </p>
-                <p>In<ndash/>Text: (Martin)</p>
+                <p>In<ndash/>text: (Martin)</p>
             </subsubsection>
             <subsubsection>
                 <title>Website with organization as author</title>
                 <p indent="hanging"><red>Organization.</red> <darkgreen><pubtitle>Title of Website.</pubtitle></darkgreen> <gray>Abbreviation of sponsor of site,</gray> <lightgreen>Date updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
                 <p indent="hanging"><red>University of Puget Sound.</red> <darkgreen><pubtitle>University of Puget Sound.</pubtitle></darkgreen> <gray>UPS,</gray> <lightgreen>2016.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
-                <p>In<ndash/>Text: (University of Puget Sound)</p>
+                <p>In<ndash/>text: (University of Puget Sound)</p>
                 <p>For a website with no known author, begin the citation with the title of the website.</p>
                 <p>For a website with no known title, use a description such as <q>Main page</q> instead of a title.</p>
             </subsubsection>
@@ -581,7 +581,7 @@
             <p indent="hanging"><red>Author last name, First Name.</red> <lightblue><q>Title of Work.</q></lightblue> <darkgreen><pubtitle>Title of Website,</pubtitle></darkgreen> <gray>Name of Publisher,</gray> <navy>Date of publication (if available),</navy> <orange>URL.</orange> <lightgreen>Accessed access date.</lightgreen></p>
             <p indent="hanging"><red>Ausubel, Ramona.</red> <lightblue><q>Poppyseed.</q></lightblue> <darkgreen><pubtitle>Salon.</pubtitle></darkgreen> <gray>Salon,</gray> <navy>11 May 2013,</navy> <orange> <url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/" link="no"/>.</orange> <lightgreen>Accessed 8 January 2018.</lightgreen></p>
             <p>For a work with no known author from a website, begin the citation with the title of the work.</p>
-            <p>In<ndash/>Text: (Ausubel)</p>
+            <p>In<ndash/>text: (Ausubel)</p>
         </subsection>
     </section>
     <section xml:id="online-newspaper">
@@ -747,7 +747,7 @@
             <title>APA</title>
             <p indent="hanging"><red>Artist Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue>Title of track.</lightblue> On <gray><pubtitle>Album name</pubtitle></gray> <teal>[Medium].</teal> <maroon>City of Publication, State/Country:</maroon> <purple>Manufacturer.</purple></p>
             <p indent="hanging"><red>Hornsby, B.</red> <lightgreen>(2004).</lightgreen> <lightblue>Dreamland.</lightblue> On <gray><pubtitle>Halcyon days</pubtitle></gray> <teal>[CD].</teal> <maroon>New York City, NY:</maroon> <purple>Columbia Records.</purple></p>
-            <p>In<ndash/>Text: (Hornsby, 2004)</p>
+            <p>In<ndash/>text: (Hornsby, 2004)</p>
         </subsection>
         <subsection xml:id="music-recording-chicago">
             <title>Chicago</title>
@@ -763,7 +763,7 @@
             <title>MLA</title>
             <p indent="hanging"><red>Artist Last Name, First Name.</red> <lightblue><q>Title of Recording.</q></lightblue> <gray><pubtitle>Album.</pubtitle></gray> <purple>Manufacturer,</purple> <lightgreen>Year of publication.</lightgreen> <teal>Medium.</teal></p>
             <p indent="hanging"><red>Hornsby, Bruce.</red> <lightblue><q>Dreamland.</q></lightblue> <gray><pubtitle>Halcyon Days.</pubtitle></gray> <purple>Columbia Records,</purple> <lightblue>2004.</lightblue> <teal>CD.</teal></p>
-            <p>In<ndash/>Text: (Hornsby)</p>
+            <p>In<ndash/>text: (Hornsby)</p>
         </subsection>
     </section>
     <section xml:id="artwork">
@@ -777,7 +777,7 @@
             <title>APA</title>
             <p indent="hanging"><red>Artist Last Name, Initials.</red> <lightgreen>(Year of composition).</lightgreen> <lightblue><pubtitle>Title of work</pubtitle></lightblue> <teal>[medium of composition].</teal> <maroon>City:</maroon> <purple>Institution.</purple></p>
             <p indent="hanging"><red>di Lodovico Buonarroti Simoni, M.</red> <lightgreen>(1504).</lightgreen> <lightblue><pubtitle>David</pubtitle></lightblue> <teal>[Carrara marble sculpture].</teal> <maroon>Florence, Italy:</maroon> <purple>Accademia di Belle Arti di Firenze.</purple></p>
-            <p>In<ndash/>Text: (di Lodovico Buonarroti Simoni, 1504)</p>
+            <p>In<ndash/>text: (di Lodovico Buonarroti Simoni, 1504)</p>
         </subsection>
         <subsection xml:id="artwork-chicago">
             <title>Chicago</title>
@@ -831,7 +831,7 @@
             <title>MLA</title>
             <p indent="hanging"><red>Government entity that is author.</red> <lightblue><pubtitle>Title of document.</pubtitle></lightblue> <lightpink>Edition if given and is not First edition,</lightpink> <gray>Publisher,</gray> <lightgreen>Publication date.</lightgreen> URL.</p>
             <p indent="hanging"><red>Environmental Protection Agency.</red> <lightblue><pubtitle>Climate Change Indicators in the United States.</pubtitle></lightblue> <gray>Environmental Protection Agency,</gray> <lightgreen>2014.</lightgreen> <url href="https://www.epa.gov/sites/production/files/2016-07/documents/climateindicators-full-2014.pdf" link="no"/>.</p>
-            <p>In<ndash/>Text: (U.S. Environmental Protection Agency)</p>
+            <p>In<ndash/>text: (U.S. Environmental Protection Agency)</p>
         </subsection>
     </section>
     <section xml:id="graphic-novel">
@@ -845,7 +845,7 @@
             <title>APA</title>
             <p indent="hanging"><red>Author 1 Last Name, Initials, &amp; Author 2 Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <maroon>City, State/Country:</maroon> <purple>Publisher.</purple></p>
             <p indent="hanging"><red>Moore, A., &amp; Gibbons, D.,</red> <lightgreen>(1986).</lightgreen> <lightblue><pubtitle>Watchmen, No. 1.</pubtitle></lightblue> <maroon>New York, NY:</maroon> <purple>DC Comics.</purple></p>
-            <p>In<ndash/>Text: (Moore &amp; Gibbons, 1986, p. 1)</p>
+            <p>In<ndash/>text: (Moore &amp; Gibbons, 1986, p. 1)</p>
         </subsection>
         <subsection xml:id="graphic-novel-chicago">
             <title>Chicago</title>
@@ -863,7 +863,7 @@
             <p indent="hanging"><red>Moore, Alan, writer.</red> <lightblue><pubtitle>Watchmen, No. 1.</pubtitle></lightblue> <red>Art by Dave Gibbons.</red> <purple>DC Comics,</purple> <lightgreen>1986.</lightgreen> </p>
             <p>Note: With graphic novels when the art and the writing are by different people, you should cite the contributor first whose work is the focus of your analysis, as in</p>
             <p>Gibbons, Dave, artist. <em>Watchmen, No. 1.</em> Writing by Alan Moore. DC Comics, 1986.</p>
-            <p>In<ndash/>Text: (Moore 1)</p>
+            <p>In<ndash/>text: (Moore 1)</p>
         </subsection>
     </section>
     <section xml:id="translation">
@@ -877,7 +877,7 @@
             <title>APA</title>
             <p indent="hanging"><red>Author Last Name, Initials.</red> (<lightgreen>Date</lightgreen>). <lightblue><pubtitle>Title of work.</pubtitle></lightblue> (Translator Initials Last Name, Trans.). <maroon>City of publication:</maroon> <purple>Publisher.</purple> (Original work published <lightgreen>Year of original work publication</lightgreen>).</p>
             <p indent="hanging"><red>Shikibu, M.</red> (<lightgreen>2001</lightgreen>). <lightblue><pubtitle>The tale of Genji.</pubtitle></lightblue> (R. Tyler, Trans.). <maroon>New York, NY:</maroon> <purple>Penguin Books.</purple> (Original work published <lightgreen>circa 1021</lightgreen>).</p>
-            <p>In<ndash/>Text: (Shikibu, 2001)</p>
+            <p>In<ndash/>text: (Shikibu, 2001)</p>
         </subsection>
         <subsection xml:id="translation-chicago">
             <title>Chicago</title>
@@ -895,13 +895,13 @@
                 <title>If emphasizing work and original author</title>
                 <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue>Title of work.</lightblue> <navy>Trans. by Translator First Name Last Name. Publisher,</navy> <lightgreen>Date of publication.</lightgreen></p>
                 <p indent="hanging"><red>Shikibu, Murasaki.</red> <lightblue>The Tale of Genji.</lightblue> <navy>Trans. by Royall Tyler. Penguin Books,</navy> <lightgreen>2001.</lightgreen></p>
-                <p>In<ndash/>Text: (Shikibu)</p>
+                <p>In<ndash/>text: (Shikibu)</p>
             </subsubsection>
             <subsubsection>
                 <title>If emphasizing translation and translator (less common, and only if translation itself is being examined)</title>
                 <p><navy>Translator Last Name, First Name, translator.</navy> <lightblue>Title of work.</lightblue> By <red>Author First Name Last Name.</red> <navy>Publisher,</navy> <lightgreen>Date.</lightgreen></p>
                 <p><navy>Tyler, Royall, translator.</navy> <lightblue>The Tale of Genji.</lightblue> By <red>Murasaki Shikibu.</red> <navy>Penguin Books,</navy> <lightgreen>2001.</lightgreen></p>
-                <p>In<ndash/>Text: (Tyler)</p>
+                <p>In<ndash/>text: (Tyler)</p>
             </subsubsection>
         </subsection>
     </section>
