@@ -548,7 +548,7 @@
             <title>Grammar of Pronouns</title>
             <subsubsection xml:id="indefinite-pronouns">
                 <title>Indefinite Pronouns</title>
-                <p>Many indefinite pronouns (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular verb (-s ending or <q>is</q>/<q>has</q>).</p>
+                <p>Many indefinite pronouns (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular verb (<ndash/>s ending or <q>is</q>/<q>has</q>).</p>
                 <example>
                     <title>Indefinite Pronouns: Luau</title>
                     <p><q>Is anyone going to Luau this year? I've heard everyone always has a great time.</q></p>
@@ -1160,16 +1160,17 @@
                 <p>While academic writing usually employs more abstruse and sophisticated language than you find in every day conversation, sometimes using <q>big words</q> simply to sound smart can come across to an audience as pedantic. Words that are overly complicated and obfuscate the meaning of a sentence are therefore ineffective; if the point of writing is to convey meaning clearly, a confusing word should not get in the way of that meaning.</p>
                 <p><em>Alternatively, using words or phrases that are too simplistic, overused, or trite can also ineffectively convey meaning to a reader.</em> Passive sentences, phrases constructed around <q>to be,</q> and clichés like <q>to be honest</q> all diminish the point you're trying to convey to a reader.</p>
             </paragraphs>
-            <paragraphs>
-                <title>Which sentence below do you think is more effective?</title>
+            <example>
+                <title>Effective Word Choice: Alas, Poor Hamlet!</title>
                 <blockquote>
                     <p><q>To be honest, I didn't think that Hamlet was played by the right actor.</q></p>
                     <p><q>The actor who played Hamlet fell five times on stage, broke poor Yorick's skull, and forgot his lines during the <q>To be, or not to be<ellipsis/></q> speech. The directors of the play should have chosen a better actor to play Hamlet.</q></p>
                 </blockquote>
-            </paragraphs>
-            <sidebyside width="50%">
-                <image source="images/LM-Hamlet"/>
-            </sidebyside>
+                <sidebyside width="50%">
+                    <image source="images/LM-Hamlet"/>
+                </sidebyside>
+            </example>
+            
             <p><em>Here are some synonyms that you might consider using to replace common or boring words.</em> Remember to search for the definition of the synonym if you're uncertain of its meaning or connotations to ensure that it correctly conveys the meaning of your sentence.</p>
             <sidebyside width="100%">
                 <!-- Replace with real table -->
@@ -2140,7 +2141,11 @@
                         <li>
                             <p>to connect <em>two complete sentences</em> with the coordinating conjunctions that make up the acronym <acro>FANBOYS</acro> (for, and, nor, but, or, yet, so).</p>
                             <p><q>I love using commas, but I need to remember the five main ways to use them!</q></p>
-                            <p>BUT: You DON'T need to put a comma before one of the FANBOYS words if what precedes or follows the word is not a complete sentence (<eg/>, <q>I love using commas but can't remember how to use them</q> → <q>but can't remember how to use them</q> is not a complete sentence).</p>
+                            <p>
+                                <note>
+                                    <p>You <alert>don't</alert> need to put a comma before one of the <accro>FANBOYS</accro> words if what precedes or follows the word is not a complete sentence (<eg/>, <q>I love using commas but can't remember how to use them</q> → <q>but can't remember how to use them</q> is not a complete sentence).</p>
+                                </note>
+                            </p>
                         </li>
                         <li>
                             <p>to separate an <em>introductory</em> or <em>explanatory</em> phrase from the rest of the sentence.</p>
@@ -2166,30 +2171,30 @@
                     <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), commas (and periods) go inside quotation marks.</p>
                 </note>
                 <paragraphs xml:id="par-comma-splices">
-                    <title>Comma splices</title>
+                    <title>Comma Splices</title>
                     <p>These occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" text="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q></em> Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused? What can you do instead? You have several options!</p>
                     <list xml:id="list-mechanics-resoloving-splices">
                         <title>Strategies for Resolving Comma Splices</title>
                         <ul>
                             <li>
                                 <p><em>Keep the sentences as they are and replace the comma with a semicolon.</em></p>
-                                <p>This option works for sentences that are too closely related for a period but for which a coordinating conjunction would be inappropriate. (For example, <em><q>I like cats; they are cute.</q></em>)</p>
+                                <p>This option works for sentences that are too closely related for a period but for which a coordinating conjunction would be inappropriate. (For example, <q>I like cats; they are cute.</q>)</p>
                             </li>
                             <li>
                                 <p><em>Split the clauses into two sentences.</em></p>
-                                <p>For example, <em><q>Comma splices make sentences less precise. Can you see how the absence of a comma splice improves my sentence(s)?</q></em></p>
+                                <p>For example, <q>Comma splices make sentences less precise. Can you see how the absence of a comma splice improves my sentence(s)?</q></p>
                             </li>
                             <li>
                                 <p><em>Put a coordinating conjunction (see <xref ref="parts-of-speech"/>) after the comma and before the second clause.</em></p>
-                                <p>For example, <em><q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></em></p>
+                                <p>For example, <q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></p>
                             </li>
                             <li>
                                 <p><em>Alter the clauses so that one is no longer an independent clause.</em></p>
-                                <p>For example, <em><q>Comma splices aren't great, which is why I don't use them.</q></em></p>
+                                <p>For example, <q>Comma splices aren't great, which is why I don't use them.</q></p>
                             </li>
                             <li>
                                 <p><em>Combine the idea into one sentence/independent clause.</em></p>
-                                <p><em><q>I don't use comma splices.</q></em></p>
+                                <p>For example, <q>I don't use comma splices.</q></p>
                             </li>
                         </ul>
                     </list>
@@ -2240,7 +2245,7 @@
             <subsubsection xml:id="punctuation-capitalization-parentheses">
                 <title>Parentheses <dblbrackets>(these)</dblbrackets></title>
                 <p>Aside from citations (see <xref ref="citations"/>), parentheses are used in writing to separate words, phrases, or sentences from the main text. When you want to add additional information that doesn't fit well within the main part of a sentence, you can use parentheses to inform your reader while simultaneously keeping your sentence flowing (like this). (Or you can just use parentheses on their own to indicate that something is an aside or afterthought.) For more details on how to use other types of punctuation with parentheses (<eg/>, where does the period go?!), see <xref ref="period-inside-or-outside"/>!</p>
-                <p>You can also use parentheses in area codes, like 253.879.3404 (which is, coincidentally, the phone number to the Center for Writing, Learning, and Teaching [<init>CWLT</init>]).</p>
+                <p>You can also use parentheses in area codes, like (253) 879<ndash/>3404 (which is, coincidentally, the phone number to the Center for Writing, Learning, and Teaching [<init>CWLT</init>]).</p>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-brackets">
                 <title>Brackets <dblbrackets>[these]</dblbrackets></title>
@@ -2283,30 +2288,35 @@
                     <ul>
                         <li>
                             <p><em>Enclose the quote within two sets of quotation marks.</em></p>
-                            <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote. For instance, take the following sentences:</p>
-                            <blockquote>
-                                <p>According to the first-year seminar student, <q>The <init>CWLT</init> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
-                            </blockquote>
-                            <blockquote>
-                                <p>In the first-year seminar student's reaction to going to the <init>CWLT</init>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
-                            </blockquote>
+                            <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote.</p>
+                            <p>
+                                <example>
+                                    <title>Using Quotation Marks</title>
+                                    <p>According to the first-year seminar student, <q>The <init>CWLT</init> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
+                                    <p>In the first-year seminar student's reaction to going to the <init>CWLT</init>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>Preface the quote with a comma after the preceding word.</em></p>
-                            <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote. For instance:</p>
-                            <blockquote>
-                                <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <init>CWLT</init>, then!</q></p>
-                            </blockquote>
+                            <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote.</p>
+                            <p>
+                                <example>
+                                    <title>Prefacing Quotes with a Comma</title>
+                                    <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <init>CWLT</init>, then!</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>Capitalize the quoted sentence.</em></p>
                             <p>If you are quoting a complete sentence, capitalize the first letter of the quoted sentence.</p>
-                            <blockquote>
-                                <p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all Puget Sound students to achieve their academic goals.</q></p>
-                            </blockquote>
-                            <blockquote>
-                                <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Capitalizing a Quoted Sentence</title>
+                                    <p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all Puget Sound students to achieve their academic goals.</q></p>
+                                    <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>End each quoted sentence within the quotation marks.</em></p>
@@ -2315,41 +2325,52 @@
                         <li>
                             <p><em>Integrate your quotes into the grammar of your sentence.</em></p>
                             <p>If you are breaking your quoted sentence into two parts, end the first part with a comma and do not capitalize the second part.</p>
-                            <blockquote>
-                                <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
-                            </blockquote>
-                            <blockquote>
-                                <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <init>CWLT</init> are very nice and accommodating.</q></p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Integrating Quotes</title>
+                                    <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
+                                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <init>CWLT</init> are very nice and accommodating.</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>Use an ellipsis to replace omitted source material.</em></p>
                             <p>Sometimes the information you want to quote will be near the beginning or end of a long sentence or passage, but the material in between may not be applicable or useful to you. If this is the case, you can use an ellipsis (<ellipsis/>) to replace the material you are omitting. However, it's important that the material you are replacing does not change the meaning or intent of the source material.</p>
-                            <blockquote>
-                                <p>According to the director of the <init>CWLT</init>, Professor Julie Nelson Christoph, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Using an Ellipses to Replace Source Material</title>
+                                    <p>According to the director of the <init>CWLT</init>, Professor Julie Nelson Christoph, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
+                                </example>
+                            </p>
                             <p>Because any quote comes from a larger context, an ellipsis is only needed at the beginning or end of a quote if it would appear otherwise that the entire sentence was quoted.</p>
-                            <p>For example, if this were the original sentence, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
+                            <p>
+                                <example>
+                                    <title>Using Ellipses to Quote Honestly</title>
+                                    <p>If the original sentence were, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>Use brackets to indicate non-standard elements or changes.</em></p>
                             <p>Sometimes direct quotes have spelling or grammatical deviations from <init>SAE</init>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
-                            <blockquote>
-                                <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
-                            </blockquote>
-                            <blockquote>
-                                <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Using Brackets to Indicate Changes</title>
+                                        <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
+                                        <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>Use brackets to enclose important nouns missing in quote.</em></p>
                             <p>Sometimes sentences omit a previously referred-to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun.</p>
-                            <blockquote>
-                                <p>The writing advisor emphasized, <q>[The <init>CWLT</init>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
-                            </blockquote>
-                            <blockquote>
-                                <p><q>Additionally, if you need a coffee or tea break, it [the <init>CWLT</init>] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Using Brackets to Insert Nouns</title>
+                                    <p>The writing advisor emphasized, <q>[The <init>CWLT</init>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
+                                    <p><q>Additionally, if you need a coffee or tea break, it [the <init>CWLT</init>] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
+                                </example>
+                            </p>
                         </li>
                     </ul>
                 </list>
@@ -2359,29 +2380,38 @@
                         <li>
                             <p><em>Quoted fragments should not be capitalized.</em></p>
                             <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.</p>
-                            <blockquote>
-                                <p>Although Jordan knew the due date for the lab report was impending, they remarked that they felt a <q>sudden spasm of panic</q> when they realized the report was due tomorrow.</p>
-                            </blockquote>
-                            <blockquote>
-                                <p>Anxious about their upcoming organic chemistry exam, the student noted that their appointment with the chemistry subject tutor made them feel <q>calm and collected.</q></p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Not Capitalizing Sentence Fragments</title>
+                                    <p>Although Jordan knew the due date for the lab report was impending, they remarked that they felt a <q>sudden spasm of panic</q> when they realized the report was due tomorrow.</p>
+                                    <p>Anxious about their upcoming organic chemistry exam, the student noted that their appointment with the chemistry subject tutor made them feel <q>calm and collected.</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>Incorporate quoted fragments into the syntax of your sentence.</em></p>
                             <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.</p>
-                            <blockquote>
-                                <p>After their meeting with Rachael Shelden, assistant director of the <init>CWLT</init>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Incorporating Quotes into Syntax of Sentence</title>
+                                    <p>After their meeting with Rachael Shelden, assistant director of the <init>CWLT</init>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
                             <p><em>Use block quotes for large quoted sections.</em></p>
                             <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
                             <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.</p>
-                            <p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
-                            <blockquote>
-                                <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
-                                <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
-                            </blockquote>
+                            <p>
+                                <example>
+                                    <title>Using Block Quotes for Large Excerpts</title>
+                                    <p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
+                                    <blockquote>
+                                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
+                                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
+                                    </blockquote>
+                                </example>
+                            </p>
                         </li>
                     </ul>
                 </list>
@@ -2456,14 +2486,19 @@
                 </sidebyside>
                 <p>
                     Apostrophes are also used to mark contractions, or two words combined, such as <q>could</q> and <q>have,</q> which can be contracted, or shortened, to <q>could've.</q> A single apostrophe takes the place of omitted letters.
-                    <ul cols="2">
-                        <li><p>Can't</p></li>
-                        <li><p>We'd</p></li>
-                        <li><p>It's</p></li>
-                        <li><p>Won't</p></li>
-                    </ul>
                 </p>
-                <p><q>Won't</q> is an interesting case because its spelling does not correspond to its implied contraction <q>will not.</q> Linguists suspect that this is because, over time, the pronunciation of the contraction shifted such that <q>will</q> became <q>woll,</q> resulting in the current form <q>won't.</q> It should be noted that the above contractions constitute their own words without an apostrophe (cant, wed, its, and wont are all words). In order to avoid confusion, it is important to include the apostrophe in contractions.</p>
+                <example>
+                    <title>Shortening Words with Apostrophes</title>
+                    <p>
+                        <ul>
+                            <li><p>Cannot &#8594; Can't</p></li>
+                            <li><p>We would &#8594; We'd</p></li>
+                            <li><p>It is &#8594; It's</p></li>
+                            <li><p>Will not &#8594; Won't</p></li>
+                        </ul>
+                    </p>
+                    <p><q>Won't</q> is an interesting case because its spelling does not correspond to its implied contraction <q>will not.</q> Linguists suspect that this is because, over time, the pronunciation of the contraction shifted such that <q>will</q> became <q>woll,</q> resulting in the current form <q>won't.</q> It should be noted that the above contractions constitute their own words without an apostrophe (cant, wed, its, and wont are all words). In order to avoid confusion, it is important to include the apostrophe in contractions.</p>
+                </example>
                 <p>Apostrophes can also come at the front of a word, such as <q>'Twas</q> to mark omitted letters (omitted from <q>'Twas</q> is the letter <q>I</q>: <q>It was</q>).</p>
                 <p>Apostrophes can also be used in conjunction with single letters (such as grades), abbreviations, and numerals (including years). There are no standard rules for these usages. Ask your professor for their preference and be consistent. Aim for clarity where necessary. For instance, the plural form <q>As</q> (referring to the letter grade) will likely be misread as <q>As</q> the word. Use an apostrophe here (<q>A's</q>).</p>
                 <p>
