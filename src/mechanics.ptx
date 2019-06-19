@@ -83,14 +83,17 @@
             <subsubsection xml:id="subject-predicate">
                 <title>Subject<ndash/>Predicate</title>
                 <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), a basic sentence is composed of two parts: the subject and the predicate. The <term>subject</term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction. The <term>predicate</term> is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first-year student waited in line for the Farm-to-Table special,</q> the noun phrase <q>the first-year student</q> would be the subject and <q>waited in line for the Farm-to-Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject).</p>
-                <p>
-                    Below you can find a few example sentences showing the subject and predicate (the subject is italicized and the predicate is in regular typeface):
-                    <ul>
-                        <li><p><em>Ollie</em> studied in Diversions.</p></li>
-                        <li><p><em>The IPE professor</em> told the class to turn the assignment in on Moodle.</p></li>
-                        <li><p><em>The a capella group <q>What She Said</q></em> will perform at the spring concert.</p></li>
-                    </ul>
-                </p>
+                <example>
+                    <title>Subject<ndash/>Predicate: Sample Sentences</title>
+                    <p>
+                        Below you can find a few example sentences showing the subject (<em>italicized</em>) and predicate (regular typeface):
+                        <ul>
+                            <li><p><em>Ollie</em> studied in Diversions.</p></li>
+                            <li><p><em>The IPE professor</em> told the class to turn the assignment in on Moodle.</p></li>
+                            <li><p><em>The a capella group <q>What She Said</q></em> will perform at the spring concert.</p></li>
+                        </ul>
+                    </p>
+                </example>
             </subsubsection>
             <subsubsection xml:id="direct-indirect-objects">
                 <title>Direct and Indirect Objects</title>
@@ -260,8 +263,7 @@
                     <p>Whereas a clause has both a noun <em>and</em> a verb, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an adjective).</p>
                 </assemblage>
                 <list xml:id="common-types-of-phrases">
-                    <title>List of common types of phrases</title>
-                    <caption>Commonly occuring phrase constructions</caption>
+                    <title>Common Types of Phrases</title>
                     <introduction>
                         <p>Here are some of the types of phrases you'll see most often:</p>
                     </introduction>
@@ -302,15 +304,15 @@
             <subsubsection xml:id="modifiers">
                 <title>Modifiers</title>
                 <paragraphs>
-                    <title><term>Modifiers</term></title>
+                    <title>Modifiers</title>
                     <p>are words, phrases, or clauses that characterize a noun and are typically used to add description or specificity to a sentence. You can identify the modifier in a sentence by asking yourself which or what kind of noun the sentence is highlighting. For example, in the sentence <q>The students gazed in awe at the towering sequoia tree,</q> the word <q>towering</q> is being used to modify or describe the sequoia tree. Therefore, to identify the modifier, you can ask yourself <q>Which sequoia tree?</q> and answer <q>The towering one.</q></p>
                 </paragraphs>
                 <paragraphs>
-                    <title><term>Participle phrases</term></title>
+                    <title>Participle phrases</title>
                     <p>can also act as modifiers. For instance, in the sentence <q>Gazing at the towering sequoia tree, the students were in awe,</q> the phrase <q>gazing at the towering sequoia tree</q> is the modifier describing the students. You can play the same game as before: <q>Which students were in awe?</q> <q>The ones gazing at the towering sequoia tree.</q></p>
                 </paragraphs>
                 <paragraphs>
-                    <title><term>Adjective clauses</term></title>
+                    <title>Adjective clauses</title>
                     <p>can act as another type of modifier. In the sentence <q>The sequoia tree, which was towering over the students, inspired widespread awe,</q> the clause <q>which was towering over the students</q> is the modifier describing the sequoia tree. Again: <q>What kind of sequoia tree?</q> <q>The one towering over the students.</q></p>
                 </paragraphs>
             </subsubsection>
@@ -323,10 +325,11 @@
                     <p>Dependent/subordinate clause = a subject + a verb + something else = thought that cannot stand alone and make sense</p>
                     <p>Coordinating conjunction = <acro>FANBOYS</acro> (for, and, nor, but, or, yet, so)</p>
                 </paragraphs>
-                <sidebyside>
+                <list>
+                    <title>Types of Sentences</title>
                     <dl>
                         <li>
-                            <title><term>Simple</term></title>
+                            <title>Simple</title>
                             <p>one independent clause</p>
                             <p>Examples:<ul>
                                 <li><p><q>I love Puget Sound.</q></p></li>
@@ -335,7 +338,7 @@
                             </ul></p>
                         </li>
                         <li>
-                            <title><term>Compound</term></title>
+                            <title>Compound</title>
                             <p>at least two independent clauses connected via a coordinating conjunction</p>
                             <p>Examples:<ul>
                                 <li><p><q>I miss my high school friends, but I'm excited to make new friends.</q></p></li>
@@ -344,62 +347,73 @@
                             </ul></p>
                         </li>
                         <li>
-                            <title><term>Complex</term></title>
+                            <title>Complex</title>
                             <p>independent clause and one or more dependent/subordinate clauses</p>
                             <p>Examples:<ul>
                                 <li><p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p></li>
                                 <li><p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p></li>
                                 <li><p><q>I need to drink coffee when I'm tired.</q></p></li>
                             </ul></p>
-                            <note>
-                                <!-- <title>Note</title> -->
-                                <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
-                            </note>
+                            <p>
+                                <note>
+                                    <!-- <title>Note</title> -->
+                                    <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
+                                </note>
+                            </p>
                         </li>
                         <li>
-                            <title><term>Compound-Complex</term></title>
+                            <title>Compound<ndash/>Complex</title>
                             <p>two or more independent clauses and at least one dependent/subordinate clause</p>
                             <p>Examples:<ul>
                                 <li><p><q>Independent clauses are really cool, but sometimes they get too long when you add too much information.</q></p></li>
                             </ul></p>
                         </li>
                     </dl>
-                </sidebyside>
+                </list>
             </subsubsection>
             <subsubsection xml:id="functional-types-of-sentences">
                 <title>Functional Types of Sentences</title>
-                <paragraphs>
-                    <title>Declarative</title>
-                    <p>Declarative sentences make statements. You will use primarily declarative sentences in your academic writing.</p>
-                    <blockquote>
-                        <p>This sentence is a declarative sentence.</p>
-                        <p>My favorite club is Yoga Club.</p>
-                    </blockquote>
-                </paragraphs>
-                <paragraphs>
-                    <title>Interrogative</title>
-                    <p>Interrogative sentences interrogate<mdash/>that is, they ask questions and end with question marks.</p>
-                    <blockquote>
-                        <p>Don't you think that <q>interrogative</q> is a funny word?</p>
-                        <p>Why are we talking about question marks?</p>
-                    </blockquote>
-                </paragraphs>
-                <paragraphs>
-                    <title>Imperative</title>
-                    <p>Imperative sentences do what we all love to do; they give people directions and tell them what to do.</p>
-                    <blockquote>
-                        <p>Go tell him that it's imperative that he knows what an imperative sentence is.</p>
-                        <p>Grab me a Greek yogurt from the <acro>SUB</acro>, please.</p>
-                    </blockquote>
-                </paragraphs>
-                <paragraphs>
-                    <title>Exclamatory</title>
-                    <p>Exclamatory sentences exclaim things! They are so exciting!</p>
-                    <blockquote>
-                        <p>I love Puget Sound!</p>
-                        <p>I love writing!</p>
-                    </blockquote>
-                </paragraphs>
+                <list>
+                    <title>Functional Types of Sentences</title>
+                    <dl>
+                        <li>
+                            <title>Declarative sentences</title>
+                            <p>make statements. You will use primarily declarative sentences in your academic writing.</p>
+                        </li>
+                        <li>
+                            <title>Interrogative sentences</title>
+                            <p>interrogate<mdash/>that is, they ask questions and end with question marks.</p>
+                        </li>
+                        <li>
+                            <title>Imperative sentences</title>
+                            <p>do what we all love to do; they give people directions and tell them what to do.</p>
+                        </li>
+                        <li>
+                            <title>Exclamatory sentences</title>
+                            <p>exclaim things! They are so exciting!</p>
+                        </li>
+                    </dl>
+                </list>
+                <example>
+                    <title>Declarative Sentences</title>
+                    <p><q>This sentence is a declarative sentence.</q></p>
+                    <p><q>My favorite club is Yoga Club.</q></p>
+                </example>
+                <example>
+                    <title>Interrogative Sentences</title>
+                    <p><q>Don't you think that <sq>interrogative</sq> is a funny word?</q></p>
+                    <p><q>Why are we talking about question marks?</q></p>
+                </example>
+                <example>
+                    <title>Imperative Sentences</title>
+                    <p><q>Go tell him that it's imperative that he knows what an imperative sentence is.</q></p>
+                    <p><q>Grab me a Greek yogurt from the <acro>SUB</acro>, please.</q></p>
+                </example>
+                <example>
+                    <title>Exclamatory Sentences</title>
+                    <p>I love Puget Sound!</p>
+                    <p>I love writing!</p>
+                </example>
             </subsubsection>
             <subsubsection xml:id="subordination-coordination">
                 <title>Subordination and Coordination</title>
@@ -566,37 +580,37 @@
                 <title>Each, All, Some, None</title>
                 <p><q>Each</q> is a singular pronoun and requires a singular verb. Therefore, even if the subject of the sentence is plural, <q>each</q> refers to every single member of that group and should be treated as a singular pronoun.</p>
                 <example>
-                    <title>Each, All, Some, None: Research Students</title>
+                    <title>Each as a Pronoun: Research Students</title>
                     <p><q>Each of the research students has access to the lab.</q></p>
                 </example>
                 <example>
-                    <title>Each, All, Some, None: Experience Puget Sound</title>
+                    <title>Each as a Pronoun: Experience Puget Sound</title>
                     <p><q>Each and every one of you is in for a new experience here at Puget Sound.</q></p>
                 </example>
                 <example>
-                    <title>Each, All, Some, None: Opp Coffee</title>
+                    <title>Each as a Pronoun: Opp Coffee</title>
                     <p><q>Each of the coffee flavors at the Opp sounds enticing.</q></p>
                 </example>
                 <p><q>All,</q> <q>some,</q> and <q>none</q> can be either singular or plural depending on the subject. <q>All</q> and <q>some</q> are singular or plural depending on the plurality of the subject and therefore require an accompanying verb.</p>
                 <example>
-                    <title>Each, All, Some, None: Grass is Greener</title>
+                    <title>All as a Pronoun: Grass is Greener</title>
                     <p><q>All of the grass on campus is green.</q></p>
                 </example>
                 <example>
-                    <title>Each, All, Some, None: Class Outside</title>
+                    <title>All as a Pronoun: Class Outside</title>
                     <p><q>Some of the professors are holding class outside because it is so sunny.</q></p>
                 </example>
                 <p><q>None</q> can be either plural or singular depending on how many of some item it is referring to. For instance, if <q>none</q> is referring to a single item (<q>not one of these things</q>), a singular verb is required. However, if it is being applied to several items (<q>not any of these things</q>), a plural verb should be used.</p>
                 <example>
-                    <title>Each, All, Some, None: Rat Lab</title>
+                    <title>None as a Pronoun: Rat Lab</title>
                     <p><q>So far, none of the rats in the psychology rat lab have escaped.</q> (if you are talking about many rats that have not escaped)</p>
                 </example>
                 <example>
-                    <title>Each, All, Some, None: Return of Rat Lab</title>
+                    <title>None as a Pronoun: Return of Rat Lab</title>
                     <p><q>So far, none of the rats in the psychology rat lab has escaped.</q> (if you are talking about one rat that has not escaped among many rats)</p>
                 </example>
                 <example>
-                    <title>Each, All, Some, None: O<ndash/>No<ndash/>Chem</title>
+                    <title>None as a Pronoun: O<ndash/>No<ndash/>Chem</title>
                     <p><q>None of the O-chem students are sleeping the night before their final.</q></p>
                 </example>
             </subsubsection>
@@ -612,38 +626,53 @@
             <subsubsection xml:id="agreement-problems">
                 <title>Subject<ndash/>Verb Agreement Rules</title>
                 <p>Any student of a foreign language knows that consistent subject and verb agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular), or<mdash/>in the middle of complex sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
-                <p>Here are a few rules to help guide you through tricky sentences.</p>
-                <sidebyside>
+                <list>
+                    <title>Strategies for Maintaining Subject<ndash/>Verb Agreement</title>
+                    <introduction>
+                        <p>Here are a few rules to help guide you through tricky sentences.</p>
+                    </introduction>
                     <ul>
                         <li>
-                            <p>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>and,</q> use a plural verb:</p>
-                            <blockquote>
-                                <p><q>President Crawford and professors <em>meet</em> with students frequently.</q></p>
-                            </blockquote>
+                            <p><em>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>and,</q> use a plural verb.</em></p>
+                            <p>
+                                <example>
+                                    <title>Agreement with Multiple Subjects</title>
+                                    <p><q>President Crawford <em>and</em> professors <alert>meet</alert> with students frequently.</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
-                            <p>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> the <em>verb corresponds with the noun or pronoun closest to it:</em></p>
-                            <blockquote>
-                                <p><q>Either President Crawford or professors <em>meet</em> with students frequently.</q></p>
-                                <p><q>Either professors or President Crawford <em>meets</em> with students frequently.</q></p>
-                            </blockquote>
+                            <p><em>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> make the verb correspond with the noun or pronoun closest to it</em></p>
+                            <p>
+                                <example>
+                                    <title>Agreement with Multiple Possible Subjects</title>
+                                    <p><q><em>Either</em> President Crawford <em>or</em> professors <alert>meet</alert> with students frequently.</q></p>
+                                    <p><q><em>Either</em> professors <em>or</em> President Crawford <alert>meets</alert> with students frequently.</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
-                            <p>When the subject of a sentence is a collective noun (group, jury, band, <etc/>) or a title (of a book, play, country, <etc/>), the verb will always be singular.</p>
-                            <blockquote>
-                                <p><q>I hope that band plays at LogJam! again.</q></p>
-                                <p><q>The newest edition of <em>Crosscurrents</em> is great.</q></p>
-                            </blockquote>
+                            <p><em>When the subject of a sentence is a collective noun (group, jury, band, <etc/>) or a title (of a book, play, country, <etc/>), always make the verb singular.</em></p>
+                            <p>
+                                <example>
+                                    <title>Agreement with a Collective Noun</title>
+                                    <p><q>I hope that <em>band</em> <alert>plays</alert> at LogJam! again.</q></p>
+                                    <p><q>The newest <em>edition</em> of <pubtitle>Crosscurrents</pubtitle> <alert>is</alert> great.</q></p>
+                                </example>
+                            </p>
                         </li>
                         <li>
-                            <p>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</p>
-                            <blockquote>
-                                <p><q>The <em>number</em> of on-campus trees <em>grows</em> each year.</q></p>
-                                <p><q>The <em>Passages leader</em>, alongside all of their passagees, <em>was</em> excited to reach the end of the trail.</q></p>
-                            </blockquote>
+                            <p><em>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</em></p>
+                            <p>
+                                <example>
+                                    <title>Agreement Across a Phrase</title>
+                                    <p><q>The <em>number</em> of on-campus trees <alert>grows</alert> each year.</q></p>
+                                    <p><q>The <em>Passages leader</em>, alongside all of their passagees, <alert>was</alert> excited to reach the end of the trail.</q></p>
+                                </example>
+                            </p>
                         </li>
                     </ul>
-                </sidebyside>
+                </list>
                 <sidebyside width="50%">
                     <image source="images/LM-SubjectVerbAgreement"/>
                 </sidebyside>
@@ -916,22 +945,23 @@
         </subsection>
         <subsection xml:id="sentence-fragments">
             <title>Problems with Sentence Fragments</title>
-            <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense.</p>
-            <p>
-                So how do you avoid sentence fragments?
+            <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense. So how do you avoid sentence fragments?</p>
+            <list xml:id="list-mechanics-avoiding-fragments">
+                <title>Strategies for Avoiding Sentence Fragments</title>
                 <ul>
-                    <li><p>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</p></li>
-                    <li><p>Word processing programs can help you to identify fragments<mdash/>but don't depend on them!</p></li>
-                    <li><p>Mentally take your sentence out of context, then ask yourself, <em><q>Does this sentence alone make sense?</q></em></p></li>
+                    <li><p><em>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</em></p></li>
+                    <li><p><em>Use word processing programs to identify fragments<mdash/>but don't depend on them!</em></p></li>
+                    <li><p><em>Mentally take your sentence out of context, then ask yourself, <q>Does this sentence alone make sense?</q></em></p></li>
                 </ul>
-            </p>
-            <p>
-                If you do find a sentence fragment, try these two revision tips:
-                <ul>
-                    <li><p>Add the necessary components of a sentence that the fragment is missing.</p></li>
-                    <li><p>Combine the sentence fragment with another sentence.</p></li>
-                </ul>
-            </p>
+            </list>
+            <insight>
+                <p>If you do find a sentence fragment, try these two revision tips:
+                    <ul>
+                        <li><p>Add the necessary components of a sentence that the fragment is missing.</p></li>
+                        <li><p>Combine the sentence fragment with another sentence.</p></li>
+                    </ul>
+                </p>
+            </insight>
             <example>
                 <title>Revising Sentence Fragments</title>
                 <p>
@@ -1162,20 +1192,74 @@
             </paragraphs>
             <example>
                 <title>Effective Word Choice: Alas, Poor Hamlet!</title>
+                <p>Compare the following two sentences:</p>
                 <blockquote>
                     <p><q>To be honest, I didn't think that Hamlet was played by the right actor.</q></p>
                     <p><q>The actor who played Hamlet fell five times on stage, broke poor Yorick's skull, and forgot his lines during the <q>To be, or not to be<ellipsis/></q> speech. The directors of the play should have chosen a better actor to play Hamlet.</q></p>
                 </blockquote>
+                <p>The first sentence isn't <em>bad,</em> but the second sentences uses specific verbs that are widely known to paint a rich picture about why the actor who played Hamlet should get the hook.</p>
                 <sidebyside width="50%">
                     <image source="images/LM-Hamlet"/>
                 </sidebyside>
             </example>
-            
-            <p><em>Here are some synonyms that you might consider using to replace common or boring words.</em> Remember to search for the definition of the synonym if you're uncertain of its meaning or connotations to ensure that it correctly conveys the meaning of your sentence.</p>
-            <sidebyside width="100%">
-                <!-- Replace with real table -->
-                <image source="images/alternatives-to-boring-words"/>
-            </sidebyside>
+            <p>Here are some synonyms that you might consider using to replace common or boring words. Remember to search for the definition of the synonym if you're uncertain of its meaning or connotations to ensure that it correctly conveys the meaning of your sentence.</p>
+            <list xml:id="list-mechanics-overused-words">
+                <title>Overused Words and More Colorful Alternatives</title>
+                <dl>
+                    <li>
+                        <title>say</title>
+                            <p>claim, convey, respond, report, maintain, state, deliver, express, communicate, make known, indicate, speak, voice, vocalize, assert</p>
+                    </li>
+                    <li>
+                        <title>use</title>
+                            <p>employ, utilize, apply, practice, operate, adopt, wield</p>
+                    </li>
+                    <li>
+                        <title>means</title>
+                            <p>symbolizes, conveys, implies, suggests, alludes to, connotes, foreshadows, determines</p>
+                    </li>
+                    <li>
+                        <title>there is/are</title>
+                            <p>restructure sentence to convey more meaning: <q>George listed five reasons <ellipsis/></q> instead of <q>there are five reasons <ellipsis/></q></p>
+                    </li>
+                    <li>
+                        <title>interesting</title>
+                            <p>compelling, curious, provocative, striking, engaging, enthralling, stimulating, intriguing</p>
+                    </li>
+                    <li>
+                        <title>effective</title>
+                            <p>successful, powerful, efficacious, impactful, convincing, persuasive, cogent</p>
+                    </li>
+                    <li>
+                        <title>unique</title>
+                            <p>distinct, rare, idiosyncratic, particular, sui generis, exceptional, extraordinary, unparalleled, unprecedented</p>
+                    </li>
+                    <li>
+                        <title>important or significant</title>
+                            <p>rather than using these words, clarify <em>why</em>something is important by picking a verb or adjective that is more specific: <q>This passage is significant <ellipsis/></q> could become <q>The tone of this passage demonstrates <ellipsis/></q></p>
+                    </li>
+                    <li>
+                        <title>a lot</title>
+                            <p>a collection, heaps, a slew, a wealth, a plenty, numerous, piles, a great deal, an abundance, myriad</p>
+                    </li>
+                    <li>
+                        <title>really (1)</title>
+                            <p> undeoubtedly, genuinely, admittedly, honestly, truly, without a doubt</p>
+                    </li>
+                    <li>
+                        <title>really (2)</title>
+                            <p>certainly, extremely, decidedly, thoroughly, exceptionally, surely</p>
+                    </li>
+                    <li>
+                        <title>actually</title>
+                            <p>literally, truly, indeed</p>
+                    </li>
+                    <li>
+                        <title>very</title>
+                            <p>extremely, exceedingly, exceptionally, decidedly, particularly, deeply, extraordinarily, noticeably, unusually, profoundly, remarkably</p>
+                    </li>
+                </dl>
+            </list>
         </subsection>
         <subsection xml:id="style-using-passive-cautiously">
             <title>Using Passive Constructions Cautiously</title>
@@ -2423,7 +2507,10 @@
                     <image source="images/LM-TurtlesAndWomen"/>
                 </sidebyside>
                 <list>
-                    <paragraphs><title>To indicate possession for <ellipsis/></title>
+                    <title>Ways you can Indicate Possession with an Apostrophe</title>
+                    <introduction>
+                        <p>You can use an apostrophe to indicate possession for<nbsp/><ellipsis/></p>
+                    </introduction>
                     <dl>
                         <li>
                             <title>A singular noun or proper noun</title>
@@ -2479,7 +2566,6 @@
                             <p>[Gina] + ['] + [s] and [Tommy] + ['] + [s] = Gina's and Tommy's</p>
                         </li>
                     </dl>
-                    </paragraphs>
                 </list>
                 <sidebyside width="50%">
                     <image source="images/LM-GiraffeTree"/>

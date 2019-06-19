@@ -168,7 +168,7 @@
     <section xml:id="research-tips-tricks">
         <title>Research Tips and Strategies</title>
         <list xml:id="list-research-finding-sources">
-            <title>Strategies for Finding Sources:</title>
+            <title>Strategies for Finding Sources</title>
             <ul>
                 <li>
                     <p>
@@ -186,7 +186,7 @@
                         You may struggle to find more than a few sources that perfectly suit your topic. In such a case, look at the the references cited by the few sources that you have found. There's a good chance you'll find other articles that can help you get back on track.
                     </p>
                 </li>
-                <li xml:id="search-terms">
+                <li>
                     <p>
                         <em>Refine your search terms.</em>
                     </p>
