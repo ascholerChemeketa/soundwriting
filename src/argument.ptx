@@ -22,15 +22,14 @@
             <paragraphs xml:id="par-argument-main-claim">
                 <title>What is the Main Point you are Trying to Convey?</title>
                 <p>Every argument should be guided by a main point or central message.</p>
-                <assemblage>
-                    <title>Tip</title>
-                        <p>If you don't know your main claim, try asking yourself questions like:
-                    <ul>
-                        <li><p><q>What is my main argument?</q></p></li>
-                        <li><p><q>What am I trying to prove or disprove?</q></p></li>
-                    </ul>
+                <insight>
+                    <p>If you don't know your main claim, try asking yourself questions like:
+                        <ul>
+                            <li><p><q>What is my main argument?</q></p></li>
+                            <li><p><q>What am I trying to prove or disprove?</q></p></li>
+                        </ul>
                     </p>
-                </assemblage>
+                </insight>
             <p>For instance, if you are writing an essay on the influence of caffeine consumption on college students, your main claim, or thesis, might be something like <q>Caffeine consumption has numerous positive benefits for the academic lives of college students.</q> This main claim will then likely be broken down into smaller supporting claims, each of which argues a different part of your main claim. For instance, a possible supporting claim of the statement above might be <q>Caffeine promotes student productivity by binding to adenosine receptors in the brain, preventing tiredness and extending hours of awakeness.</q> Another supporting claim could pose that <q>The consumption of caffeine as a critical facet of campus life creates a shared experience of camaraderie among students which, in turn, facilitates intellectual interaction and interdisciplinary collaboration.</q></p>
         </paragraphs>
         </subsection>
@@ -39,15 +38,14 @@
             <paragraphs xml:id="par-argument-evidence">
                 <title>What Proof are you Using to Support your Claims?</title>
                     <p>While having a main claim is critical in developing your argument, it is not enough to make an effective argument. You can't just say something is true and assume the audience will accept it unconditionally. You also need to support these claims with evidence that can be used to illustrate or bolster your point. Oftentimes, your evidence will lead you to your central claim<mdash/>let it! However, keep in mind that you will have to demonstrate how this evidence best lends itself to supporting your claim, so it's important to use evidence that is relevant, valid, and clearly supports what you are trying to say. Evidence can come in several different forms, including numerical/empirical data, qualitative observations, ethnographic interviews, theoretical analysis, and prior studies derived from primary source material, scholarly journals, or personal experience.</p>
-                    <assemblage>
-                        <title>Tip</title>
+                    <insight>
                         <p>To help you determine how your evidence supports your argument, try asking yourself questions like:
-                        <ul>
-                            <li><p><q>How does this evidence relate to my main claim?</q></p></li>
-                            <li><p><q>How will I use this evidence to illustrate my argument?</q></p></li>
-                        </ul>
+                            <ul>
+                                <li><p><q>How does this evidence relate to my main claim?</q></p></li>
+                                <li><p><q>How will I use this evidence to illustrate my argument?</q></p></li>
+                            </ul>
                         </p>
-                    </assemblage>
+                    </insight>
                     <p>For instance, potential pieces of evidence supporting the argument for the academic benefits of caffeine consumption could be the test scores or grade point averages of caffeine addicts, experiential evidence offered by students who used caffeine to increase productivity, or the chemical reactions occurring in the brain that stimulate thinking and awareness.</p>
                 </paragraphs>
         </subsection>
@@ -56,16 +54,15 @@
             <paragraphs xml:id="par-argument-substantiation">
                 <title>Why does the Evidence Support your Claims?</title>
                 <p>So you have a main claim, sub claims, and evidence to support them. Wouldn't this be enough to make a strong argument? Not quite, because you often need something that connects your evidence to the claim.</p>
-                <assemblage>
-                    <title>Tip</title>
+                <insight>
                     <p>In order to help you figure out how to substantiate your argument, you can ask yourself questions like:
-                    <ul>
-                        <li><p><q>Why is this evidence important?</q></p></li>
-                        <li><p><q>How does this piece of evidence support my claim?</q></p></li>
-                        <li><p><q>What connects the evidence to my main argument?</q></p></li>
-                    </ul>
+                        <ul>
+                            <li><p><q>Why is this evidence important?</q></p></li>
+                            <li><p><q>How does this piece of evidence support my claim?</q></p></li>
+                            <li><p><q>What connects the evidence to my main argument?</q></p></li>
+                        </ul>
                     </p>
-                </assemblage>
+                </insight>
                 <p>For instance, you couldn't just say, <q>Caffeine has positive academic benefits for college students</q> and <q>Caffeine promotes thinking and awareness</q> or <q>Caffeine leads to higher test scores</q>; in order to make this argument valid, <em>there must be an implicit assumption that <q>Thinking and awareness and higher test scores are critical to academic success.</q></em> Therefore, in developing your argument, it's helpful to remember that substantiation of the evidence is as important to your argument as the evidence itself.</p>
             </paragraphs>
         </subsection>
@@ -74,15 +71,14 @@
             <paragraphs>
                 <title>What are the Limits of your Argument?</title>
                 <p>No matter how effective or well<ndash/>laid out an argument may be, it will always have some limitations.</p>
-                <assemblage>
-                    <title>Tip</title>
+                <insight>
                     <p>To help you identify areas of weakness in your argument, try asking yourself questions like:
-                    <ul>
-                        <li><p><q>What are the opposing arguments?</q></p></li>
-                        <li><p><q>Why are these counterpoints valid?</q></p></li>
-                    </ul>
+                        <ul>
+                            <li><p><q>What are the opposing arguments?</q></p></li>
+                            <li><p><q>Why are these counterpoints valid?</q></p></li>
+                        </ul>
                     </p>
-                </assemblage>
+                </insight>
                 <p>For instance, a naysayer of the caffeine argument may bring up the potential negative health effects of caffeine addiction, which may lead to poorer student health and therefore poorer academic success. <em>Rather than covering up these counterpoints or uncertainties and pretending they don't exist, strong arguments confront potential naysayers head<ndash/>on.</em> By acknowledging areas of weakness in your argument, you actually strengthen your claim by setting yourself up to address and respond to other points of view. For instance, you might address the concerns of caffeine addiction by describing some of the negative health effects of caffeine dependence, such as sleep deprivation and withdrawal symptoms when caffeine is unavailable. You might even acknowledge that caffeine dependence may impact student academic success in the short term by promoting procrastination and enabling a series of all<ndash/>nighters as compensation. However, you can also weaken and overturn these opposing arguments by asking yourself why your argument outweighs its counterpoints.</p>
             </paragraphs>
                 <p>
@@ -295,7 +291,7 @@
         </list>
     </section>
     <section xml:id="performing-textual-analysis">
-        <title>Using Evidence to Support an Argument</title>
+        <title>Supporting an Argument with Evidence</title>
         <p>To be convincing, an argument must have compelling evidence linked and supported with clear analysis. Strong arguments are thoroughly reasoned and continuous in their analysis of evidence, which is sometimes challenging, but it helps to keep a few principles in mind: Notice<ndash/>Think<ndash/>Write and the Quote Sandwich.</p>
         <p>Consider the following construction, which is neither thoroughly reasoned nor continuous:</p>
         <assemblage>
