@@ -2,14 +2,14 @@
 <chapter xml:id="author-guide">
     <title>Authoring and Styling Guide for <pubttile>Sound Writing</pubttile></title>
     <introduction>
-        <p>This <q>chapter</q> of <pubtitle>Sound Writing</pubtitle> is meant to help future authors, editors, and <q>publishers</q> of the handbook make content additions and updates in a consistent way. Unlike text editing programs like Microsoft Word or Pages, PreTeXt is a <term>markup langugae</term>, which means that portions of text can be demarkated as <em>being a specific kind of text</em>, and formatting for how that text should be displayed can be determined for the <em>whole document</em> based on what the text is, strucuturally, rather than on how an author wants a particualr title to look in a specific instance. This approach to writing is perhaps unfamiliar to you (and probably feels limiting) if you normally write with programs like Word or Pages that let you individually control font, font size, indentation, stylistic elements, <etc/> on a case<ndash/>by<ndash/>case basis; however, the advantage of using a markup language is that it is easy to make document<ndash/>wide stylistic modifications quickly and consistently. To take advantage of these benifits, you, the author, must shift your perspective on the writing process a little bit. As you make updates and additions to <pubtitle>Sound Writing</pubtitle>, you shoul not ask yourself, <q>How do I want this bit of text to look?</q> rather, you should ask, <q>What <em>kind of text am I adding, structurally?</em></q></p>
-        <p>Before diving into what all that vague philosophical mumbo<ndas/>jumbo actually means, let's consider a few counterexamples of good use of PreTeXt to show you how you might find a way to make the handbook <em>look</em> good without actually abiding by good authoring principles.</p>
+        <p>This <q>chapter</q> of <pubtitle>Sound Writing</pubtitle> is meant to help future authors, editors, and <q>publishers</q> of the handbook make content additions and updates in a consistent way. Unlike text editing programs like Microsoft Word or Pages, <pretext/> is a <term>markup langugae</term>, which means that portions of text can be demarkated as <em>being a specific kind of text</em>, and formatting for how that text should be displayed can be determined for the <em>whole document</em> based on what the text is, strucuturally, rather than on how an author wants a particualr title to look in a specific instance. This approach to writing is perhaps unfamiliar to you (and probably feels limiting) if you normally write with programs like Word or Pages that let you individually control font, font size, indentation, stylistic elements, <etc/> on a case<ndash/>by<ndash/>case basis; however, the advantage of using a markup language is that it is easy to make document<ndash/>wide stylistic modifications quickly and consistently. To take advantage of these benifits, you, the author, must shift your perspective on the writing process a little bit. As you make updates and additions to <pubtitle>Sound Writing</pubtitle>, you shoul not ask yourself, <q>How do I want this bit of text to look?</q> rather, you should ask, <q>What <em>kind of text am I adding, structurally?</em></q></p>
+        <p>Before diving into what all that vague philosophical mumbo<ndas/>jumbo actually means, let's consider a few counterexamples of good use of <pretext/> to show you how you might find a way to make the handbook <em>look</em> good without actually abiding by good authoring principles.</p>
         <example xml:id="ex-ag-tag-abuse-em">
             <title>It's all just italics, right?</title>
-            <p>Suppose you're writing something, and you want to <em>really stress</em> the importance of a particular point. So you put it in italics, like we did. Great. Later, you're talking about your favorite book, <pubtitle>Harry Potter</pubtitle><fn>Yeah, like you're the <em>first person</em> in the <init>CWLT</init> whose favorite book is <pubtitle>Harry Potter</pubtitle><nbsp/><ellipsis/></fn>, so you put that in italics too. Only you <alert>don't</alert>. You're using italics for two different purposes, so because you're now thinking like an author in a markup language, you don't think <q>ah, I want them to both <em>be</em> italicized,</q> like you would if you were writing in <init>MS</init> Word. Instead, you noticed that the first use of italics (<q>really stress</q>) was <em>emphasizing</em> a point, so you used the <c>em</c> <term>tag</term> to indicate to the publisher of the handbook, <q>this text should stand apart because it is important for the reader to recognize it as important.</q> In theory, the publisher could decide that italics are gauche and make the calll to put all of the text that you said shoudl be emphasized in bold, rather than italics, and <em>that stylistic choice would not interfere with how you communicate content to your reader.</em></p>
-            <p>In the second use of italics (<q>Harry Potter</q>), you were not emphasizing the title of a book, you were trying to follow the rule about italicizing the titles of books and similar publications. Again, this is a good way to think if you're writing in a program like Microsoft Word, but it's not a good way to think in a markup language because you focused on how you wanted something to look, not on what kind of text it was and <em>why</em> you wanted it to look a certain way. In this case, we want to make it clear to the reader that <pubtitle>Harry Potter</pubtitle> is a book, so we wrap it in the <c>pubtitle</c> tag. So even though <em>(1) Harry Potter</em> and <pubtitle>(2) Harry Potter</pubtitle> might both look the same right now, (1) has italics because it is emphasized, and (2) has italics because it is demarkated as a publication. If a future publisher decided that publications should be underlined, not italicized, (1) would not get this handbook<ndash/>wide style update because the author did not correctly take advantage of the fact that they were writing in a markup language.</p>
+            <p>Suppose you're writing something, and you want to <em>really stress</em> the importance of a particular point. So you put it in italics, like we did. Great. Later, you're talking about your favorite book, <pubtitle>Harry Potter</pubtitle><fn>Yeah, like you're the <em>first person</em> in the <init>CWLT</init> whose favorite book is <pubtitle>Harry Potter</pubtitle><nbsp/><ellipsis/></fn>, so you put that in italics too. Only you <alert>don't</alert>. You're using italics for two different purposes, so because you're now thinking like an author in a markup language, you don't think <q>ah, I want them to both <em>be</em> italicized,</q> like you would if you were writing in <init>MS</init> Word. Instead, you noticed that the first use of italics (<q>really stress</q>) was <em>emphasizing</em> a point, so you used the <c>&lt;em&gt;</c> <term>tag</term> to indicate to the publisher of the handbook, <q>this text should stand apart because it is important for the reader to recognize it as important.</q> In theory, the publisher could decide that italics are gauche and make the calll to put all of the text that you said shoudl be emphasized in bold, rather than italics, and <em>that stylistic choice would not interfere with how you communicate content to your reader.</em></p>
+            <p>In the second use of italics (<q>Harry Potter</q>), you were not emphasizing the title of a book, you were trying to follow the rule about italicizing the titles of books and similar publications. Again, this is a good way to think if you're writing in a program like Microsoft Word, but it's not a good way to think in a markup language because you focused on how you wanted something to look, not on what kind of text it was and <em>why</em> you wanted it to look a certain way. In this case, we want to make it clear to the reader that <pubtitle>Harry Potter</pubtitle> is a book, so we wrap it in the <c>&lt;pubtitle&gt;</c> tag. So even though <em>(1) Harry Potter</em> and <pubtitle>(2) Harry Potter</pubtitle> might both look the same right now, (1) has italics because it is emphasized, and (2) has italics because it is demarkated as a publication. If a future publisher decided that publications should be underlined, not italicized, (1) would not get this handbook<ndash/>wide style update because the author did not correctly take advantage of the fact that they were writing in a markup language.</p>
         </example>
-        <p>At this point, if you have not yet read the <url href="https://pretextbook.org/doc/author-guide/html/">PreTeXt Author's Guide</url> and bookmarked the PreTeXt page at <url href="https://pretextbook.org/"> <c>pretextbook.org</c></url>, <alert>STOP READING AND DO SO RIGHT NOW BECAUSE IT IS THE MOST EXTENSIVE COMPANION GUIDE TO THIS ABBREVIATED QUICK<ndash/>START.</alert></p>
+        <p>At this point, if you have not yet read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url> and bookmarked the <pretext/> page at <url href="https://pretextbook.org/"> <c>pretextbook.org</c></url>, <alert>STOP READING AND DO SO RIGHT NOW.</alert> The resources provided on the <pretext/> webside, including the PUBLISHER'S GUIDE, the AUTHOR'S GUIDE, and the SAMPLE ARTICLE will be invaluable to you as a novice <pretext/> author.</p>
     </introduction>
     <!-- You can insert comments into your code, and it's probably a good idea to do that, though what you include in a comment might vary. You can also comment OUT poritons of your code, which is a good way of removing code that you're not yet sure you want to get rid of (maybe you're testing out a new format for content but haven't gotten the boss's approval yet). You could also use comments to add keywords to a section or clarify divisions between content -->
     <section xml:id="ag-general-principles">
@@ -18,9 +18,47 @@
             <p>TODO</p>
         </introduction>
         <subsection>
+            <title>Using Lists</title>
+            <introduction>
+                <p><pubtitle>Sound Writing</pubtitle> relies heavily on lists to convey content to the reader in an organized, aesthetically pleasing way. To reap the beneifits from this decision, it is important to adhere to the principles for what <em>kinds</em> of lists should be used in which scenarios, as well as how they should be formatted.</p>
+            </introduction>
+            <subsubsection>
+                <title>Providing Guidelines, Strategies, or Rules</title>
+                <introduction>
+                    <p>Perhaps the most common use of lists in the handbook is to give the reader consolidated instructions about <em>what</em> to do or <em>how</em> to do something (it is a writing handbook, after all). Often, you will want to also explain <em>why</em> to do something, so the list structure must be flexibile enough to accomodate both long explanations and brief pointers about what the reader should do. You may, in your journey of authorship of the handbook, discover that you want your particular set of instructions to look different, but <alert>readers benefit from consistency</alert>. If you think that instructions in general should be formatted differently, you should update how lists look <em>everywhere</em>, and you should update these instructions.</p>
+                </introduction>
+                <list xml:id="list-authoring-principles-strategies">
+                    <title>Strategies for Providing Strategies in <pubtitle>Sound Writing</pubtitle></title>
+                    <ul>
+                        <li>
+                            <p><em>Use a <c>&lt;list&gt;</c> as the outermost container for your set of instructions.</em></p>
+                            <p>This tag is known as a <q>named list</q>, and can be cross<ndash/>referenced, given titles, and used to store description lists, ordered lists, and unordered lists alike. Read more about <url href="https://pretextbook.org/doc/author-guide/html/topic-lists.html">lists</url> from the <pretext/> Author's Guide.</p>
+                        </li>
+                        <li>
+                            <p><em>Give your list a title, <q>Strategies for <fillin/></q> where the blank is a gerund phrase like <q>providing strategies in <pubtitle>Sound Writing</pubtitle>.</q></em></p>
+                            <p>This consistency alerts readers right away to what kind of content they are about ot read.</p>
+                            <p>
+                                <note>
+                                    <p>The choice of the term <q>strategies</q> as opposed to <q>guidelines</q> or <q>rules</q> is intentional<mdash/><pubtitle>Sound Writing</pubtitle> is authored primarily by students and is meant to be informative and reliable without being authoritative. Its goal is to explain norms that really impact writing, for better and for worse, without putting them on a pedestal as a moral good. The term <q>strategies</q> achieves this end because it leaves the reader with the agency to decide whether they want to employ each strategy depending on whether they want to achieve the outcome it leads to or not.</p>
+                                </note>
+                            </p>
+                        </li>
+                        <li>
+                            <p><em>Use an unordered list (<c>&lt;ul&gt;</c>) unless the order of the steps matters.</em></p>
+                            <p>Unfortunately, doing this makes it impossible to cross<ndash/>reference individual items from your list, so you will have to reference the entire list if you wish to remind readers of a strategy that is elsewhere in the handbook. Treat this as a productive constraint and keep the focus of your strategies narrow and specific.</p>
+                        </li>
+                        <li>
+                            <p><em>Make the first sentence of each list item an <em>imperative</em> instruction<mdash/>it must be something that readers can <em>DO</em>, not just a fact.</em></p>
+                            <p>You can accomplish this by wrapping the instruction in both emphasis (<c>&lt;em&gt;</c>) and a paragraph block (<c>&lt;p&gt;</c>). Subsequent explanation that clarifies the instruction should be placed in a separate paragraph block so that there is a clear visual distinction between the imperative and the explanation.</p>
+                        </li>
+                    </ul>
+                </list>
+            </subsubsection>
+        </subsection>
+        <subsection>
             <title>Just Because It Works <ellipsis/></title>
             <p>
-                using a default dash (-) rather than an <c>ndash</c> (<ndash/>)
+                BAD: using a default dash (-) rather than an <c>&lt;ndash&gt;</c> (<ndash/>)
             </p>
         </subsection>
         <subsection>
@@ -29,13 +67,114 @@
         </subsection>
         <subsection>
             <title>Cross<ndash/>Referencing Schema</title>
+            <introduction>
+            <p>To take advantage of cross<ndash/>referencing, which <pretext/> and a digital platform make easy, you will need to provide an <term>xml id</term> to every element that you wish to be able to cross<ndash/>reference. You can find more on <url href="https://pretextbook.org/doc/author-guide/html/topic-cross-referencing.html">cross<ndash/>referencing</url> in the <url href="https://pretextbook.org/doc/author-guide/html/index.html"><pretext/> Author's Guide </url>, so here we only address the schema we (try to) use in <pubtitle>Sound Writing</pubtitle></p>
+            </introduction>
+            <paragraphs xml:id="par-ag-referencing-schema">
+                <title>Assigning xml:id Tags</title>
+                <p>Since the handbook was authored over a long period of time and put into <pretext/> by numerous people, the naming conventions for cross<ndash/>referencing are not wholly consistent throughout the handbook. Nevertheless, we recommend that you abide by the following naming practices:
+                    <dl>
+                        <li>
+                            <title><c>&lt;chapter&gt;</c></title>
+                            <p><c>xml:id="chapter-name"</c></p>
+                        </li>
+                        <li>
+                            <title><c>&lt;section&gt;</c></title>
+                            <p><c>xml:id="[one-word-chapter-name]-section-name"</c></p>
+                        </li>
+                        <li>
+                            <title><c>&lt;subsection&gt;</c></title>
+                            <p><c>xml:id="[one-word-section-name]-subsection-name"</c></p>
+                        </li>
+                        <li>
+                            <title><c>&lt;subsubsection&gt;</c></title>
+                            <p><c>xml:id="[one-word-subsection-name]-subsubsection-name"</c></p>
+                        </li>
+                        <li>
+                            <title><c>&lt;paragraphs&gt;</c></title>
+                            <p><c>xml:id="par-[one-word-parent-division-name]-paragraphs-title"</c></p>
+                        </li>
+                        <li>
+                            <title><c>&lt;list&gt;</c></title>
+                            <p><c>xml:id="list-[one-word-section-name]-abbreviated-list-title"</c></p>
+                        </li>
+                    </dl>
+                </p>
+            </paragraphs>
         </subsection>
+        
         <subsection>
             <title>Comments on Tag Use</title>
         </subsection>
     </section>
+
     <section>
         <title>Element &amp; Division Formatting Architecture</title>
+        <subsection>
+            <title>Narrative Offset Elements (Remark<ndash/>Like)</title>
+            <introduction>
+                <p>Talk about how as a class, remark<ndash/>like elements have to behave the same, but individually, they can be formatted differently, then for each element, need to list rules of HOW it's used and examples of what it looks like.</p>
+                <p> Can use remark|convention|note|observation|warning|insight </p>
+            </introduction>
+            <subsubsection>
+                <title>Note</title>
+                <note>
+                    <title>Note title</title>
+                    <p> And content in angle p.</p>
+                </note>
+            </subsubsection>
+            <subsubsection>
+                <title>Insight</title>
+                    <insight>
+                        <title>Insight title</title>
+                        <p>And content in angle p.</p>
+                        <p>You can have multiple <q>p's.</q></p>
+                        <p>
+                            <ul>
+                                <li><p>And lists!</p></li>
+                            </ul>
+                        </p>
+                </insight>
+            </subsubsection>
+            <subsubsection>
+                <title>Sample Display for Unused Elements</title>
+                <remark>
+                    <title>Remark title</title>
+                    <p> And content in angle p.</p>
+                    <p>
+                        <ul>
+                            <li><p>Now with a one-element list!</p></li>
+                        </ul>
+                    </p>
+                </remark>
+
+                <convention>
+                    <title>Convention title</title>
+                    <p> And content in angle p.</p>
+                    <list>
+                        <caption>List thingy caption</caption>
+                        <dl>
+                            <li>
+                                <title>A term</title>
+                                <p> can be defined in a description list</p>
+                            </li>
+                        </dl>
+                    </list>
+                </convention>
+
+                <observation>
+                    <title>Observation title</title>
+                    <p> And content in angle p.</p>
+                </observation>
+
+                <warning>
+                    <title>Warning title</title>
+                    <p> And content in angle p.</p>
+                </warning>
+
+            </subsubsection>
+        </subsection>
+
     </section>
     <section xml:id="ag-chapter-formatting-architecture">
         <title>Chapter Formatting Architecture</title>
@@ -43,13 +182,24 @@
             <p>In this chapter, we'll lay out the style guide for how chapters that have specific formatting should look, and we'll show you how to write the <init>XML</init> code that will give them this consistent formatting.</p>
         </introduction>
         <subsection>
+            <title>Formatting Guide: Discipline<ndash/>Specific Writing</title>
+            <introduction>
+                <p>This formatting guide focuses specifically on how to make consisitent additions to the <xref ref="discipline-specific-writing"/> section.</p>
+            </introduction>
+            <paragraphs>
+                <title>Overall Structure</title>
+                <p>Sections in this chapter are written in close collaboration with faculty members in the department that the section covers. Typically, the student handbook author interviews faculty members and then writes the contents of the section based on what faculty members say in those interviews. A completed draft is presented to the department for approval, and upon receiving approval, it is put into the handbook in its final version.</p>
+                <p>Each section begins with a brief introduction about what makes writing in a particular discipline difficult and is followed by a <c>&lt;note&gt;</c> with the following text: <q>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with <fillin/> faculty members that informed this section.</q> The remainder of the section is broken into <c>&lt;paragraphs&gt;</c> titled <q>Genres,</q> <q>Purpose,</q> <q>Traits and Characteristics,</q> <q>Evidence,</q> <q>Conventions and Tips,</q> and <q>Additional Resources.</q> When relevant, the first sentence after the <c>&lt;title&gt;</c> of each paragraph should be a quote by a faculty member excerpted from the informational interview that informed the section. This quote should be in quotation marks (<c>&lt;q&gt;</c>) <em>and</em> italicized with emphasis (<c>&lt;em&gt;</c>).</p>
+            </paragraphs>
+        </subsection>
+        <subsection>
             <title>Formatting Guide: Writing with Awareness</title>
             <introduction>
                 <p>This formatting guide focuses specifically on how to make consisitent additions to the subsections within <xref ref="awareness-inclusive-language"/>. <xref ref="intersectionality"/> is the framing perspective for the <xref ref="awareness-inclusive-language"/> section, but all subsequent subsections should be titled <q>Language Toward <fillin/> Inclusivity</q> and should contain the internal structure discussed below.</p>
             </introduction>
             <paragraphs xml:id="par-ag-wwa-overview">
                 <title>Overview</title>
-                <p>Following the <alert>required</alert> introduction (wrap text in a <c>introduction</c> tag at the beginning of the subsection), you should describe factual content that you want to impart to readers in a <c>paragraphs</c> division with the title <q>Overview.</q> This overview is also <alert>required</alert>, although it can be as long or as short as it needs to be. Additionally, you can include excerpted quotes from Puget Sound students, faculty, or staff in <em>any</em> of the portions of this chapter in an <c>asssemblage</c>, which will surround them in a blue box and mark them as external content.</p>
+                <p>Following the <alert>required</alert> introduction (wrap text in a <c>&lt;introduction&gt;</c> tag at the beginning of the subsection), you should describe factual content that you want to impart to readers in a <c>&lt;paragraphs&gt;</c> division with the title <q>Overview.</q> This overview is also <alert>required</alert>, although it can be as long or as short as it needs to be. Additionally, you can include excerpted quotes from Puget Sound students, faculty, or staff in <em>any</em> of the portions of this chapter in an <c>&lt;asssemblage&gt;</c>, which will surround them in a blue box and mark them as external content.</p>
                 <p>
                     <assemblage>
                         <title>Staff Perspectives: Musings</title>
@@ -70,18 +220,18 @@
                 <ul>
                     <li>
                         <p><em>Make the first stenence of each element of this list an imperative.</em></p>
-                        <p>If you need to add additional explanation to clarify the instruction above, do so in a separate paragraph (<c>p</c> tag) as part of the same list element (<c>li</c> tag) below the imperative. These explanations can be several sentences long, if need be, or they can not exist at all. The important part is that the first sentence is (1) an imperative command<mdash/>a strategy and (2) emphasized as important with the <c>em</c> tag.</p>
+                        <p>If you need to add additional explanation to clarify the instruction above, do so in a separate paragraph (<c>&lt;p&gt;</c> tag) as part of the same list element (<c>&lt;li&gt;</c> tag) below the imperative. These explanations can be several sentences long, if need be, or they can not exist at all. The important part is that the first sentence is (1) an imperative command<mdash/>a strategy and (2) emphasized as important with the <c>&lt;em&gt;</c> tag.</p>
                     </li>
                     <li>
                         <p><em>Title the list <q>Strategies for Writing with <fillin/> in Mind</q> to be consistent with how we give guidelines elsewhere in the handbook.</em></p>
                         <p>You would fill in the blank spot with whatever content you filled in the blank spot in the title of the subsection with, so in <q>Writing Toward <em>Racial and Ethnic</em> Inclusivity,</q> the list of guidelines or tips or instructions would be, <q>Strategies for Writing with <em>Racial and Ethnic</em> Inclusivity in Mind.</q></p>
                     </li>
                     <li>
-                        <p><em>Create the list by wrapping an unordered list (<c>ul</c>) in a list (<c>list</c>).</em></p>
+                        <p><em>Create the list by wrapping an unordered list (<c>&lt;ul&gt;</c>) in a list (<c>&lt;list&gt;</c>).</em></p>
                     </li>
                     <li>
                         <p><em>After the list of strategies, insert a list of key terms with the simple title <q>Terms.</q></em></p>
-                        <p>The list of terms is, like the list of strategies, <alert>optional</alert>, but if it is included, it must be added as a description list (<c>dl</c>) wrapped inside a <c>list</c> in which the <term>undefined terms</term> are the <c>title</c> of each list item and the phrase completing a sentence beginning with the undefined term (and defining it) follows in the paragraph (<c>p</c>) that follows.</p>
+                        <p>The list of terms is, like the list of strategies, <alert>optional</alert>, but if it is included, it must be added as a description list (<c>&lt;dl&gt;</c>) wrapped inside a <c>&lt;list&gt;</c> in which the <term>undefined terms</term> are the <c>&lt;title&gt;</c> of each list item and the phrase completing a sentence beginning with the undefined term (and defining it) follows in the paragraph (<c>&lt;p&gt;</c>) that follows.</p>
                     </li>
                 </ul>
             </list>
@@ -99,9 +249,27 @@
                 </dl>
             </list>
             <conclusion>
-                <p>The last portion of these subsections should be a <c>conclusion</c>, which is <alert>optional</alert>, but is a great place to refer readers to additional, relevant resources. We could refer you to an example of what one of these sections actually looks like (check out <xref ref="inclusivity-racial"/>), or remind you to read the <url href="https://pretextbook.org/doc/author-guide/html/">PreTeXt Author's Guide</url>.</p>
+                <p>The last portion of these subsections should be a <c>&lt;conclusion&gt;</c>, which is <alert>optional</alert>, but is a great place to refer readers to additional, relevant resources. We could refer you to an example of what one of these sections actually looks like (check out <xref ref="inclusivity-racial"/>), or remind you to read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url>.</p>
             </conclusion>
         </subsection>
+    </section>
+    <section>
+        <title>Future Additions and Revisions</title>
+        <list>
+            <title>Additions</title>
+            <ul>
+                <li>
+                    <p>Add a textbook reading guide to science reading section</p>
+                </li>
+            </ul>
+        </list>
+        <list>
+            <title>Revisions</title>
+            <ul>
+                <li>
+                </li>
+            </ul>
+        </list>
     </section>
 
 
