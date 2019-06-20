@@ -331,29 +331,23 @@
                         <li>
                             <title>Simple</title>
                             <p>one independent clause</p>
-                            <p>Examples:<ul>
-                                <li><p><q>I love Puget Sound.</q></p></li>
-                                <li><p><q>My RCC is so cool.</q></p></li>
-                                <li><p><q>Puget Sound is in Washington.</q></p></li>
-                            </ul></p>
+                            <p><q>I love Puget Sound.</q></p>
+                            <p><q>My RCC is so cool.</q></p>
+                            <p><q>Puget Sound is in Washington.</q></p>
                         </li>
                         <li>
                             <title>Compound</title>
                             <p>at least two independent clauses connected via a coordinating conjunction</p>
-                            <p>Examples:<ul>
-                                <li><p><q>I miss my high school friends, but I'm excited to make new friends.</q></p></li>
-                                <li><p><q>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</q></p></li>
-                                <li><p><q>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</q></p></li>
-                            </ul></p>
+                            <p><q>I miss my high school friends, but I'm excited to make new friends.</q></p>
+                            <p><q>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</q></p>
+                            <p><q>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</q></p>
                         </li>
                         <li>
                             <title>Complex</title>
                             <p>independent clause and one or more dependent/subordinate clauses</p>
-                            <p>Examples:<ul>
-                                <li><p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p></li>
-                                <li><p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p></li>
-                                <li><p><q>I need to drink coffee when I'm tired.</q></p></li>
-                            </ul></p>
+                            <p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p>
+                            <p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p>
+                            <p><q>I need to drink coffee when I'm tired.</q></p>
                             <p>
                                 <note>
                                     <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
@@ -363,9 +357,7 @@
                         <li>
                             <title>Compound<ndash/>Complex</title>
                             <p>two or more independent clauses and at least one dependent/subordinate clause</p>
-                            <p>Examples:<ul>
-                                <li><p><q>Independent clauses are really cool, but sometimes they get too long when you add too much information.</q></p></li>
-                            </ul></p>
+                            <p><q>Independent clauses are really cool, but sometimes they get too long when you add too much information.</q></p>
                         </li>
                     </dl>
                 </list>
