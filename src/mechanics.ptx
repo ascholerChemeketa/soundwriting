@@ -167,7 +167,7 @@
                         <ul>
                             <li>Act as adjectives to modify a noun (the subject)</li>
                             <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
-                            <li>Answers the question(s): Which one? How many? What kind?</li>
+                            <li>Answer the question(s): Which one? How many? What kind?</li>
                         </ul>
                     </p>
                 </paragraphs>
@@ -199,7 +199,7 @@
                         <ul>
                             <li>Act as adverbs to modify the verb in a sentence</li>
                             <li>Begin with a subordinating conjunction (although, because, after, until, <etc/>)</li>
-                            <li>Answers the question(s): How? When? Why? Where?</li>
+                            <li>Answer the question(s): How? When? Why? Where?</li>
                         </ul>
                     </p>
                 </paragraphs>
@@ -231,7 +231,7 @@
                             <ul>
                                 <li>Act as nouns</li>
                                 <li>Begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, <etc/></li>
-                                <li>Answers the question(s): What? Who?</li>
+                                <li>Answer the question(s): What? Who?</li>
                             </ul>
                         </p>
                     </paragraphs>
@@ -896,7 +896,7 @@
             </subsubsection>
             <subsubsection xml:id="agreement-fractional-expressions">
                 <title>Fractional Expressions</title>
-                <p>(half/part/some/a majority/all/any/more/most of)</p>
+                <p>A <term>fractional expression</term> begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a noun.</p>
                 <p>Generally, fractional expressions can agree with either plural or singular verbs. Pick the type of verb based on the meaning and context of the fractional expression.</p>
                 <example>
                     <title>Fractional Expressions with Plural Agreement</title>
@@ -1038,15 +1038,24 @@
                 <blockquote>
                     <p><q>The sandwich station at the <acro>SUB</acro> has the following spread options: hummus, pesto, mayo, mustard, and relish.</q></p>
                 </blockquote>
-                <p>
-                    To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:
+                <p>To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:</p>
+                <list>
+                    <title>Strategies for Employing Parallelism</title>
                     <ul>
-                        <li><p>While writing a list or series, make sure every item in the series is grammatically consistent (all <ndash/>ing endings vs. infinitive, passive vs. active voice, <etc/>).</p></li>
-                        <li><p>If you have an adjective or pronoun to describe the first word of a series, apply that descriptor equally to every item in the series to make sure it makes sense.</p></li>
-                        <li><p>Read carefully through your paper, paying close attention to series connected by conjunctions (<q>and</q>/<q>or</q>) and checking either side of the sentence for correct parallel structure.</p></li>
-                        <li><p>If you have a list or series, isolate every item into its own sentence, identify descriptors you can attribute to every item, and then condense the sentence accordingly.</p></li>
+                        <li>
+                            <p><em>While writing a list or series, make sure every item in the series is grammatically consistent (all <ndash/>ing endings vs. infinitive, passive vs. active voice, <etc/>).</em></p>
+                        </li>
+                        <li>
+                            <p><em>If you have an adjective or pronoun to describe the first word of a series, apply that descriptor equally to every item in the series to make sure it makes sense.</em></p>
+                        </li>
+                        <li>
+                            <p><em>Read carefully through your paper, paying close attention to series connected by conjunctions (<q>and</q>/<q>or</q>) and checking either side of the sentence for correct parallel structure.</em></p>
+                        </li>
+                        <li>
+                            <p><em>If you have a list or series, isolate every item into its own sentence, identify descriptors you can attribute to every item, and then condense the sentence accordingly.</em></p>
+                        </li>
                     </ul>
-                </p>
+                </list>
             </subsubsection>
         </subsection>
         <subsection xml:id="problems-with-modifiers">
@@ -1125,21 +1134,24 @@
         <title>Style and Word Choice</title>
         <subsection xml:id="style-writing-clearly">
             <title>Writing Clearly and Precisely</title>
-            <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply.</p>
-            <p>
-                Here are some long<ndash/>winded ways to say relatively simple things:
-                <ul>
-                    <li><p><q>At this juncture in time<nbsp/><ellipsis/></q> → now, currently</p></li>
-                    <li><p><q>By virtue of the fact<nbsp/><ellipsis/></q> → because</p></li>
-                    <li><p><q>For the purpose of<nbsp/><ellipsis/></q> → to</p></li>
-                    <li><p><q>In all likelihood<nbsp/><ellipsis/></q> → probably</p></li>
-                    <li><p><q>In the event that<nbsp/><ellipsis/></q> → if</p></li>
-                    <li><p><q>In this regard, it is of significance that<nbsp/><ellipsis/></q> → simply omit and get on with your sentence</p></li>
-                    <li><p><q>The truth is that<nbsp/><ellipsis/></q>  →  simply omit and get on with your sentence</p></li>
-                    <li><p><q>Until such time as</q> → until</p></li>
-                </ul>
-            </p>
-            <p>These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.</p>
+            <paragraphs>
+                <title>Verbosity</title>
+                <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply.</p>
+                <p>
+                    Here are some long<ndash/>winded ways to say relatively simple things:
+                    <ul>
+                        <li><p><q>At this juncture in time<nbsp/><ellipsis/></q> → now, currently</p></li>
+                        <li><p><q>By virtue of the fact<nbsp/><ellipsis/></q> → because</p></li>
+                        <li><p><q>For the purpose of<nbsp/><ellipsis/></q> → to</p></li>
+                        <li><p><q>In all likelihood<nbsp/><ellipsis/></q> → probably</p></li>
+                        <li><p><q>In the event that<nbsp/><ellipsis/></q> → if</p></li>
+                        <li><p><q>In this regard, it is of significance that<nbsp/><ellipsis/></q> → simply omit and get on with your sentence</p></li>
+                        <li><p><q>The truth is that<nbsp/><ellipsis/></q>  →  simply omit and get on with your sentence</p></li>
+                        <li><p><q>Until such time as</q> → until</p></li>
+                    </ul>
+                </p>
+                <p>These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.</p>
+            </paragraphs>
             <paragraphs xml:id="par-writing-precisely-this">
                 <title><q>This,</q> as the Subject of a Sentence</title>
                 <p>Readers like specificity. Using <q>this</q> too much, especially as the subject of a sentence (<eg/> <q>This is what I'm talking about.</q>) conveys too much ambiguity. To what does <q>this</q> refer? Instead of writing <q>this,</q> try to use an interesting word that refers specifically to what you want to talk about. For example, I could write an essay about my dog, Chuck, and say, <q>Chuck likes to take walks. This is why I walk him every day.</q> To avoid using <q>this</q> as the subject of the sentence, though, I could say something like: <q>Chuck likes to take walks. I walk him every day because he loves walks so much.</q> In this sentence, <q>this</q> is replaced with <q>because he loves walks so much.</q></p>
@@ -1332,9 +1344,9 @@
                     In both examples, there are three main people: us (the writer), the flight attendant, and Jim. The first example, the one in the passive voice, becomes long and confusing. The reader will have forgotten who asked whom to do what by the time Jim's name comes up. The second example, however, more clearly explains the scenario because there is less confusion about who is doing what.
                 </p>
             </example>
-            <assemblage>
+            <note>
                 <p>The large exception to these preferences is science. Most scientific work tends to be written in the passive voice. An active version of the previous sentence would be, <q>Most scientists tend to write in the passive voice.</q> Notice how the first version, the passive one, takes the actor out of the sentence completely. Who does the passive writing in the sciences? The active version answers that question: scientists write in the passive voice in science writing. Sciences tend to use the passive voice to distance the scientist from the science being done. The passive voice is therefore used strategically by the sciences. (Again, the previous sentence could also be active: <q>The sciences (or scientists) therefore use the passive voice strategically.</q>)</p>
-            </assemblage>
+            </note>
         </subsection>
         <subsection xml:id="style-using-strong-verbs">
             <title>Using Strong Verbs</title>
@@ -2571,7 +2583,7 @@
                 </example>
                 <p>Apostrophes can also come at the front of a word, such as <q>'Twas</q> to mark omitted letters (omitted from <q>'Twas</q> is the letter <q>I</q>: <q>It was</q>).</p>
                 <p>Apostrophes can also be used in conjunction with single letters (such as grades), abbreviations, and numerals (including years). There are no standard rules for these usages. Ask your professor for their preference and be consistent. Aim for clarity where necessary. For instance, the plural form <q>As</q> (referring to the letter grade) will likely be misread as <q>As</q> the word. Use an apostrophe here (<q>A's</q>).</p>
-                <p>
+                <!-- <p>
                     Generally accepted usages:
                     <ul cols="2">
                         <li><p>Ph.D.s</p></li>
@@ -2581,7 +2593,18 @@
                         <li><p>'10s</p></li>
                         <li><p>10's</p></li>
                     </ul>
-                </p>
+                </p> -->
+                <example>
+                    <title>Clarifying Pluralization with Apostrophes</title>
+                    <p>
+                        Generally accepted usages:
+                        <ul>
+                            <li><p>Ph.D.s &#8594; Ph.D.'s</p></li>
+                            <li><p>2010s &#8594; 2010's</p></li>
+                            <li><p>'10s &#8594; 10's</p></li>
+                        </ul>
+                    </p>
+                </example>
                 <note>
                     <p>Beware the personal pronouns <q>hers,</q> <q>yours,</q> <q>ours,</q> <q>its,</q> <q>theirs,</q> and <q>whose,</q> which do not use an apostrophe.</p>
                 </note>
