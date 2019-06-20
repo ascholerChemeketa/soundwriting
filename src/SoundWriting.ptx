@@ -34,8 +34,7 @@
         <xi:include href="genres.ptx"/>
         <!-- Using Technology -->
         <xi:include href="technology.ptx"/>
-        <!-- Test Display Chapter -->
-        <xi:include href="JMF_Element_Display_Test.ptx"/>'
+
         <!-- Author's/Publisher's Guide -->
         <xi:include href="AUTHOR-GUIDE.ptx"/>
 
