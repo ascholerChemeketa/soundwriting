@@ -18,6 +18,12 @@
             <p>TODO</p>
         </introduction>
         <subsection>
+            <title>Just Because It Works <ellipsis/></title>
+            <p>
+                using a default dash (-) rather than an <c>ndash</c> (<ndash/>)
+            </p>
+        </subsection>
+        <subsection>
             <title>Using Sublime Text</title>
             <p>ADD using whitespace in SublimeText</p>
         </subsection>

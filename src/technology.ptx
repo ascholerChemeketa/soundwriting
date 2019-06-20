@@ -2,7 +2,7 @@
 <chapter xml:id="using-technology">
     <title>Using Technology</title>
     <introduction>
-        <p>As people with butterfinger typing who (more often than we'd like to admit) accidently hit the <q>delete</q> key after highlighting entire new paragraphs we've just written, we'll be the first to admit it: TECHNOLOGY IS HARD (and thank goodness for <q>Edit-Undo</q>). And with our academic and social lives becoming increasingly dependent on a wider variety of technological resources for researching, sharing, and disseminating information, maintaining a basic level of computer literacy is essential for students now more than ever. But whether it's using Microsoft Word to spell-check your writing or trying to keep track of all your final research paper sources, technology can also be a lifesaver. Here we've compiled a list of tips and tricks to help you use the software programs available to you as efficiently (and with as little hair tearing out) as possible.</p>
+        <p>As people with butterfinger typing who (more often than we'd like to admit) accidently hit the <q>delete</q> key after highlighting entire new paragraphs we've just written, we'll be the first to admit it: TECHNOLOGY IS HARD (and thank goodness for <q>Edit<ndash/>Undo</q>). And with our academic and social lives becoming increasingly dependent on a wider variety of technological resources for researching, sharing, and disseminating information, maintaining a basic level of computer literacy is essential for students now more than ever. But whether it's using Microsoft Word to spell<ndash/>check your writing or trying to keep track of all your final research paper sources, technology can also be a lifesaver. Here we've compiled a list of tips and tricks to help you use the software programs available to you as efficiently (and with as little hair tearing out) as possible.</p>
     </introduction>
     <section xml:id="microsoft-word">
         <title>Microsoft Word</title>
@@ -14,7 +14,7 @@
             <sidebyside width="50%">
                 <image source="images/LM-Spellcheck"/>
             </sidebyside>
-            <p>Computer technologies have undeniably improved the speed and accuracy of our writing abilities, particularly through the use of automatic spelling and grammar checkers in many word processors. While these checkers can be useful, it is easy to become over-reliant on these technologies as a replacement of individual proofreading. We often forget that computers can't read our minds. In fact, many simple spelling and grammar errors actually can be <em>caused</em> by an over-dependence on auto-checkers, with word processors replacing your misspelled words with incorrect suggestions based on common Web word-distortions. For instance, a sentence stating, <q>I definantly saw something fishy going on</q> would be auto-corrected to <q>I defiantly saw something fishy going on,</q> which has a meaning different than what the writer originally intended (<q>definitely</q>). If you use spell-check or grammar-check, look individually at the suggestions your word processor makes, rathern than accepting all the corrections at once. It's also important to remember that computer auto-checkers, while useful, should not be used as a replacement for manual proofreading. Carefully read through your document, give it to a friend, and/or take it to the Center for Writing, Learning, and Teaching (<init>CWLT</init>) for some help with proofreading strategies (though don't expect the <init>CWLT</init> to actually do all the proofreading for you). Below is a list of commonly misspelled words that often are auto-corrected to very different words.</p>
+            <p>Computer technologies have undeniably improved the speed and accuracy of our writing abilities, particularly through the use of automatic spelling and grammar checkers in many word processors. While these checkers can be useful, it is easy to become over<ndash/>reliant on these technologies as a replacement of individual proofreading. We often forget that computers can't read our minds. In fact, many simple spelling and grammar errors actually can be <em>caused</em> by an over<ndash/>dependence on auto<ndash/>checkers, with word processors replacing your misspelled words with incorrect suggestions based on common Web word<ndash/>distortions. For instance, a sentence stating, <q>I definantly saw something fishy going on</q> would be auto<ndash/>corrected to <q>I defiantly saw something fishy going on,</q> which has a meaning different than what the writer originally intended (<q>definitely</q>). If you use spell<ndash/>check or grammar<ndash/>check, look individually at the suggestions your word processor makes, rathern than accepting all the corrections at once. It's also important to remember that computer auto<ndash/>checkers, while useful, should not be used as a replacement for manual proofreading. Carefully read through your document, give it to a friend, and/or take it to the Center for Writing, Learning, and Teaching (<init>CWLT</init>) for some help with proofreading strategies (though don't expect the <init>CWLT</init> to actually do all the proofreading for you). Below is a list of commonly misspelled words that often are auto<ndash/>corrected to very different words.</p>
             <sidebyside width="100%">
                 <!-- <image source="images/LM-SpellingAutoCorrect"/> -->
                 <tabular>
@@ -22,7 +22,7 @@
                     <row bottom="major">
                         <cell>Intended Word</cell>
                         <cell>Common Misspelling</cell>
-                        <cell>Auto-Corrected Word</cell>
+                        <cell>Auto<ndash/>Corrected Word</cell>
                     </row>
                     <row bottom="minor">
                         <cell>definitely</cell>
@@ -116,11 +116,11 @@
         <subsection>
             <title>Formatting Reference Lists, Bibliographies, and Works Cited</title>
             <p>Whether you are writing using <init>APA</init>, Chicago, or <init>MLA</init> citation style, you will most likely be required to include a reference list, bibliography, or works cited (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations"/> and <xref ref="zotero"/> for some very helpful tricks), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
-            <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create a reference list, bibliography, or works cited page using hanging indents, begin with centering a References (or Bibliography or Works Cited, depending on what citation style you're using) title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced in <init>APA</init> and <init>MLA</init> and single-spaced with a blank line after each entry in Chicago).</p>
+            <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create a reference list, bibliography, or works cited page using hanging indents, begin with centering a References (or Bibliography or Works Cited, depending on what citation style you're using) title at the top of your page and entering your first citation beneath it (remember to keep everything double<ndash/>spaced in <init>APA</init> and <init>MLA</init> and single<ndash/>spaced with a blank line after each entry in Chicago).</p>
             <sidebyside width="100%">
                 <image source="images/tech-72"/>
             </sidebyside>
-            <p>Next, place your cursor at the very beginning of the second line of your citation, right-click, and select the <q>Paragraph</q> option.</p>
+            <p>Next, place your cursor at the very beginning of the second line of your citation, right<ndash/>click, and select the <q>Paragraph</q> option.</p>
             <sidebyside width="100%">
                 <image source="images/tech-73"/>
             </sidebyside>
@@ -148,7 +148,7 @@
             <sidebyside width="100%">
                 <image source="images/tech-18"/>
             </sidebyside>
-            <p>A red-outlined box will appear to the right with a line indicating the section being discussed by the comment. In this box, you can write friendly suggestions, observations, and questions about the text, which your peer may then reply to or check off as resolved.</p>
+            <p>A red<ndash/>outlined box will appear to the right with a line indicating the section being discussed by the comment. In this box, you can write friendly suggestions, observations, and questions about the text, which your peer may then reply to or check off as resolved.</p>
             <sidebyside width="100%">
                 <image source="images/tech-19"/>
             </sidebyside>
@@ -184,8 +184,8 @@
             <p>Sometimes your professors will require you to preface your paper with a cover page. Cover page formats vary by citation style, but typically include the title of your paper, your name, course number/title, professor name, and assignment due date. The APA style requires university affiliation, a running header, and an author note instead of course, professor name, and due date. Remember that if you have any questions about how to format your cover page, it's best to ask your professor for their preferences.</p>
             <paragraphs>
                 <title><init>APA</init></title>
-                <p><init>APA</init>-style cover pages require your title, name, university affiliation, an author note, a page number, and a header that runs along the top of every page of the document. Generally this running header provides a short synopsis of the topic of your paper (but does not exactly copy your title).</p>
-                <p>To begin, place your double-spaced title, name, and university affiliation about one-third of the way down the page. If an author's note is required, place this about two-thirds of the way down (and centered). An author's note includes the departmental and institutional information of the student, any grants or funding associated with the project, and contact information by which to contact them.</p>
+                <p><init>APA</init><ndash/>style cover pages require your title, name, university affiliation, an author note, a page number, and a header that runs along the top of every page of the document. Generally this running header provides a short synopsis of the topic of your paper (but does not exactly copy your title).</p>
+                <p>To begin, place your double<ndash/>spaced title, name, and university affiliation about one<ndash/>third of the way down the page. If an author's note is required, place this about two<ndash/>thirds of the way down (and centered). An author's note includes the departmental and institutional information of the student, any grants or funding associated with the project, and contact information by which to contact them.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-32"/>
                 </sidebyside>
@@ -193,7 +193,7 @@
                 <sidebyside width="100%">
                     <image source="images/tech-33"/>
                 </sidebyside>
-                <p>Next, you can add your running header in front of the page number by writing <q>Running head: TITLE.</q> To right-justify your running header, hit the <q>tab</q> key once. Keep in mind that your running header should not be more than 50 characters long.</p>
+                <p>Next, you can add your running header in front of the page number by writing <q>Running head: TITLE.</q> To right<ndash/>justify your running header, hit the <q>tab</q> key once. Keep in mind that your running header should not be more than 50 characters long.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-34"/>
                 </sidebyside>
@@ -201,7 +201,7 @@
                 <sidebyside width="100%">
                     <image source="images/tech-35"/>
                 </sidebyside>
-                <p>When you have written subsequent pages, the running header will automatically be added to the top of each page. However, you no longer want the term <q>Running head:</q> to preface each subsequent header. To delete this from the following pages, place your cursor on the page 2 header, re-check the <q>Different First Page</q> box in the <q>Design</q> tab, and delete the <q>Running head:</q> from the header on page 2.</p>
+                <p>When you have written subsequent pages, the running header will automatically be added to the top of each page. However, you no longer want the term <q>Running head:</q> to preface each subsequent header. To delete this from the following pages, place your cursor on the page 2 header, re<ndash/>check the <q>Different First Page</q> box in the <q>Design</q> tab, and delete the <q>Running head:</q> from the header on page 2.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-36"/>
                 </sidebyside>
@@ -212,14 +212,14 @@
             </paragraphs>
             <paragraphs>
                 <title>Chicago</title>
-                <p>For a Chicago-style cover page, your title, name, course name and number, and assignment due date are single-spaced. You do not need to add your professor's name (although doing so likely would not hurt). Your title is centered one-third of the way down the page; if it has a subtitle, separate it with a colon and place the subtitle on the next line. Your name, course name/number, and due date should all go about two-thirds of the way down and should be single-spaced.</p>
+                <p>For a Chicago<ndash/>style cover page, your title, name, course name and number, and assignment due date are single<ndash/>spaced. You do not need to add your professor's name (although doing so likely would not hurt). Your title is centered one<ndash/>third of the way down the page; if it has a subtitle, separate it with a colon and place the subtitle on the next line. Your name, course name/number, and due date should all go about two<ndash/>thirds of the way down and should be single<ndash/>spaced.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-38"/>
                 </sidebyside>
             </paragraphs>
             <paragraphs>
                 <title><init>MLA</init></title>
-                <p>To add an <init>MLA</init>-style cover page, simply shift down until your paper begins on the second page of the document (if you click <q>Different First Page</q> using the guidelines above for the <init>APA</init> cover page, a page number will not appear on this first page). Include your double-spaced title about one-third of the way down the page, followed by your name, course name and number, professor name, and due date about two-thirds of the way down (all double-spaced).</p>
+                <p>To add an <init>MLA</init><ndash/>style cover page, simply shift down until your paper begins on the second page of the document (if you click <q>Different First Page</q> using the guidelines above for the <init>APA</init> cover page, a page number will not appear on this first page). Include your double<ndash/>spaced title about one<ndash/>third of the way down the page, followed by your name, course name and number, professor name, and due date about two<ndash/>thirds of the way down (all double<ndash/>spaced).</p>
                 <sidebyside width="100%">
                     <image source="images/tech-31"/>
                 </sidebyside>
@@ -288,14 +288,13 @@
         </paragraphs>
         <paragraphs>
             <title>Step 3: Tell Zotero which sources you want it to save</title>
-            <p>This step looks slightly different depending on whether you're using the Firefox plug-in or the standalone version.</p>
+            <p>This step looks slightly different depending on whether you're using the Firefox plug<ndash/>in or the standalone version.</p>
             <p>For the Firefox version:</p>
             <sidebyside width="100%">
                 <image source="images/C-ZoteroZ"/>
             </sidebyside>
             <note>
-                <!-- <title>Note</title> -->
-                <p>You can also skip this step if you don't want to open the Zotero plug-in. The program will still save articles with the next two steps, even if you can't see your library.</p>
+                <p>You can also skip this step if you don't want to open the Zotero plug<ndash/>in. The program will still save articles with the next two steps, even if you can't see your library.</p>
             </note>
             <sidebyside width="100%">
                 <image source="images/C-ZoteroPaper"/>
@@ -337,7 +336,7 @@
         <paragraphs>
             <title>Step 4: Make your bibliography</title>
             <p>Once you have all necessary sources saved in Zotero, you can ask it (nicely) to make your bibliography. Get ready to be amazed.</p>
-            <p>First, open the collection that you want to get sources from. You can highlight the sources you want citations for, or you can choose the whole collection. You can also use the Firefox plug-in or the standalone version. Either way, you'll follow these steps.</p>
+            <p>First, open the collection that you want to get sources from. You can highlight the sources you want citations for, or you can choose the whole collection. You can also use the Firefox plug<ndash/>in or the standalone version. Either way, you'll follow these steps.</p>
             <sbsgroup>
                 <sidebyside width="80%">
                     <image source="images/C-CreateBib"/>
@@ -362,7 +361,7 @@
         <title>Adobe Acrobat Reader</title>
         <paragraphs>
             <title>Step 1: Download Adobe Acrobat Reader</title>
-            <p>Adobe Reader is the most common free <init>PDF</init>-viewing software used for the reading, searching, printing, and notating of <init>PDF</init> files. Adobe is great because it allows you to easily interact with your sources, offering a variety of annotation capabilities; in this way, it's also more cost-efficient and environmentally friendly than printing out all 120 pages of that reading assignment because you can highlight and annotate most <init>PDF</init> types (although keep in mind your professor may like you to have a hard copy for class, anyways). To download Adobe Acrobat Reader DC, visit <url href="https://get.adobe.com/reader/">get.adobe.com/reader</url>.</p>
+            <p>Adobe Reader is the most common free <init>PDF</init><ndash/>viewing software used for the reading, searching, printing, and notating of <init>PDF</init> files. Adobe is great because it allows you to easily interact with your sources, offering a variety of annotation capabilities; in this way, it's also more cost<ndash/>efficient and environmentally friendly than printing out all 120 pages of that reading assignment because you can highlight and annotate most <init>PDF</init> types (although keep in mind your professor may like you to have a hard copy for class, anyways). To download Adobe Acrobat Reader DC, visit <url href="https://get.adobe.com/reader/">get.adobe.com/reader</url>.</p>
         </paragraphs>
         <paragraphs>
             <title>Step 2: Do some research!</title>
@@ -403,7 +402,7 @@
                     </sidebyside>
                     <note>
                         <!-- <title>Note</title> -->
-                        <p>While this highlighting technique works for most <init>PDF</init> files, some files that have been photocopied don't have the right line-spacing to accommodate the highlighter function. However, Adobe is smart; in these cases, an option to highlight manually using a box-select tool should be available.</p>
+                        <p>While this highlighting technique works for most <init>PDF</init> files, some files that have been photocopied don't have the right line<ndash/>spacing to accommodate the highlighter function. However, Adobe is smart; in these cases, an option to highlight manually using a box<ndash/>select tool should be available.</p>
                     </note>
                 </li>
             </dl></p>
@@ -427,15 +426,15 @@
                     </sidebyside>
                 </li>
                 <li>
-                    <title>Strike-Through</title>
-                    <p>If you'd like to strike-through a section of text (particularly useful if you're editing one of your own pieces or if you want to identify a part of the source document with which you do not agree), select the icon fourth from the left (<q>T</q> with a strike-through) and highlight the desired section of text. A red line will strike through this section of text.</p>
+                    <title>Strike<ndash/>Through</title>
+                    <p>If you'd like to strike<ndash/>through a section of text (particularly useful if you're editing one of your own pieces or if you want to identify a part of the source document with which you do not agree), select the icon fourth from the left (<q>T</q> with a strike<ndash/>through) and highlight the desired section of text. A red line will strike through this section of text.</p>
                     <sidebyside width="100%">
                         <image source="images/tech-87"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Replacing Text</title>
-                    <p>If you'd like to replace text (not so useful for annotating published source documents, but especially useful if you're editing yours or another's paper), select the fifth icon from the left (<q>T</q> with a strike-through and a speech bubble) and highlight the section of desired text. A blue line will strike through this section of the original text and a window text box will appear allowing you to write the text you want to replace it with.</p>
+                    <p>If you'd like to replace text (not so useful for annotating published source documents, but especially useful if you're editing yours or another's paper), select the fifth icon from the left (<q>T</q> with a strike<ndash/>through and a speech bubble) and highlight the section of desired text. A blue line will strike through this section of the original text and a window text box will appear allowing you to write the text you want to replace it with.</p>
                     <sidebyside width="100%">
                         <image source="images/tech-88"/>
                     </sidebyside>
@@ -462,8 +461,8 @@
                     </sidebyside>
                 </li>
                 <li>
-                    <title>Drawing Free-form</title>
-                    <p>You can also draw free-form on the document to emphasize certain sections or (if you're good at drawing using a mouse or touchpad, which I am not) even draw pictures or write comments to annotate the document. To do this, select the ninth icon from the left (pen) and begin to write/draw in red pen anywhere on the document.</p>
+                    <title>Drawing Free<ndash/>form</title>
+                    <p>You can also draw free<ndash/>form on the document to emphasize certain sections or (if you're good at drawing using a mouse or touchpad, which I am not) even draw pictures or write comments to annotate the document. To do this, select the ninth icon from the left (pen) and begin to write/draw in red pen anywhere on the document.</p>
                     <sidebyside width="100%">
                         <image source="images/tech-92"/>
                     </sidebyside>
@@ -478,7 +477,7 @@
                 </li>
                 <li>
                     <title>Adding Shapes</title>
-                    <p>If you're more artistically/visually inclined, you can also add pre-formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop-down menu to select which shape you'd like to draw.</p>
+                    <p>If you're more artistically/visually inclined, you can also add pre<ndash/>formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop<ndash/>down menu to select which shape you'd like to draw.</p>
                     <sbsgroup>
                         <sidebyside width="100%">
                             <image source="images/tech-94"/>
@@ -487,7 +486,7 @@
                             <image source="images/tech-95"/>
                         </sidebyside>
                     </sbsgroup>
-                    <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line-thickness icons at the far right of the toolbar.</p>
+                    <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line<ndash/>thickness icons at the far right of the toolbar.</p>
                     <sidebyside width="100%">
                         <image source="images/tech-96"/>
                     </sidebyside>
@@ -502,7 +501,7 @@
                 </li>
                 <li>
                     <title>Changing the Page Viewer</title>
-                    <p>There are also useful page-viewing capabilities to the left side of the screen under the <q>Page Thumbnails,</q> <q>Bookmarks,</q> and <q>Attachments</q> icons. <q>Page Thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
+                    <p>There are also useful page<ndash/>viewing capabilities to the left side of the screen under the <q>Page Thumbnails,</q> <q>Bookmarks,</q> and <q>Attachments</q> icons. <q>Page Thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
                     <sidebyside width="100%">
                         <image source="images/tech-98"/>
                     </sidebyside>

@@ -185,7 +185,6 @@
             Again, you might already know that you needed to think about these questions for your application, but notice that the answers to these questions also dictate which faculty members will have the most influence over the people deciding whether or not to consider your application favorably!</p>
         </paragraphs>
         <insight>
-            <!-- <title>Mind Reading</title> -->
             <p> At this point, you might be inclined to say, <q>now how am I supposed to answer those questions? I can’t get inside the heads of the people on the application committee!</q> That’s true, but you can guess the answer to a lot of these questions by carefully reading the program’s website and by talking to to students, professors, or staff members who are familiar with the program.</p>
         </insight>
 
@@ -280,7 +279,6 @@
             <p>Putting our heart into a task (like homework) and then hearing from someone we look up to (like a professor) say that it's not very good can be an awful feeling, so we protect ourselves by simply not giving ourselves the time to put our heart into our work. This attitude is easy to adopt, especially when we get feedback like that we're just <q>not good at math</q> or <q>don't have a way with words</q> or <q>are lazy.</q> These labels are damaging because they send the message that we <em>are</em> failures rather than that we have failed to show our best work. College assignments will probably ask most of us to do things that demand that we use skills that we believe we lack; to avoid letting an assignment (or the grade we get on an assignment) be yet another permanent mark of our inferiority, we procrastinate so that we can attribute any undesirable outcome not to our own failings, but to our circumstances.</p>
             <p>This cycle is difficult to break, but one of the most important things to remember is that procrastination almost always diminishes the quality of our work.</p>
             <note>
-                <!-- <title>Note</title> -->
                 <p>This doesn't mean that as soon as we stop procrastinating, we sail through college with easy A's<mdash/>quite the contrary. Not procrastinating lets us focus on the thing we came to college to do: we can start improving our skills by giving ourselves time to produce a true rough draft, get help from peers or professors when we're stuck, and generally <em>learn from our assignments</em> rather than <em>fear what they will reveal about us</em>.</p>
             </note>
     </subsection>
@@ -401,19 +399,19 @@
                         <ul>
                             <li>
                                 <p><em>Be realistic about how long each task is going to take.</em></p>
-                                <p>This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p>
+                                <p>This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem<ndash/>set?</p>
                             </li>
                             <li>
-                                <p><em>Remember those sub-goals.</em></p>
+                                <p><em>Remember those sub<ndash/>goals.</em></p>
                                 <p>Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p>
                             </li>
                             <li>
-                                <p><em>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks.</em></p>
+                                <p><em>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest<ndash/>priority tasks.</em></p>
                                 <p>Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p>
                             </li>
                             <li>
                                 <p><em>Make time for review.</em></p>
-                                <p>Your long-term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high-quality review in a short amount of time.</p>
+                                <p>Your long<ndash/>term memory will remember content best if you review it right as you start to forget what you've learned. Taking time at the end of the day to go over class notes and remember the highlights of what you learned is a great way to do high<ndash/>quality review in a short amount of time.</p>
                             </li>
                             <li>
                                 <p><em>Plan to plan.</em></p>
@@ -446,7 +444,7 @@
     </subsection>
     <subsection xml:id="time-management-final-thoughts">
         <title>A Few Final Thoughts</title>
-        <p>It's difficult to remember all the classes, office hours, athletic practices, club meetings, and social events of college. Even more difficult is remembering all the assignments, due-dates, and special club events, that go along with those responsibilities, let alone the relative priority that each item has. More than difficult, though, it's <em>stressful</em>. It detracts from your ability to focus on and enjoy the content of what you're learning when you have to spend mental energy constantly keeping track of what's the highest priority task you have to do next. The <q>weight</q> that comes from mentally juggling so many different tasks is even worse for projects that are large, important, and ambiguous. When you create a time chart and schedule time to do a specific task, you're effectively relieving yourself of one ball that you were juggling by giving the tasks specific time and place on your schedule.</p>
+        <p>It's difficult to remember all the classes, office hours, athletic practices, club meetings, and social events of college. Even more difficult is remembering all the assignments, due<ndash/>dates, and special club events, that go along with those responsibilities, let alone the relative priority that each item has. More than difficult, though, it's <em>stressful</em>. It detracts from your ability to focus on and enjoy the content of what you're learning when you have to spend mental energy constantly keeping track of what's the highest priority task you have to do next. The <q>weight</q> that comes from mentally juggling so many different tasks is even worse for projects that are large, important, and ambiguous. When you create a time chart and schedule time to do a specific task, you're effectively relieving yourself of one ball that you were juggling by giving the tasks specific time and place on your schedule.</p>
         <paragraphs xml:id="par-additional-time-management-resources">
             <title>Additional Resources</title>
             <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (<init>AC</init>) at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/">Center for Writing, Learning, and Teaching</url>. Peer <init>AC</init>s are Puget Sound students who've been tutoring in the <init>CWLT</init> for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
@@ -556,7 +554,6 @@
                         <li><p>Bluebeard Coffee Roasters</p></li>
                         <li><p>Owen Beach at Point Defiance</p></li>
                         <li><p>Anthem Coffee &amp; Tea</p></li>
-                        <!-- Closed <li><p>B#</p></li> -->
                         <li><p>Blackbear</p></li>
                     </ul>
                 </p>

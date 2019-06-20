@@ -408,7 +408,7 @@
         <subsection xml:id="chapter-apa">
             <title>APA</title>
             <p indent="hanging"><red>Author Last Name, Initials</red>. (<lightgreen>Year of publication</lightgreen>). <lightblue>Title of chapter</lightblue>. In Editors' first Initials Last Names (Eds.), <pink><pubtitle>Title of anthology</pubtitle></pink> (pp. <blue>Page range</blue>). <maroon>City of publication, State</maroon>: <lightpurple>Publisher</lightpurple>.</p>
-            <p indent="hanging"><red>Christoph, J. N.</red> (<lightgreen>2014</lightgreen>). <lightblue>Sponsoring education for all: Revisiting the sacred/secular divide in twenty-first-century Zanzibar.</lightblue> In J. Duffy, J. N. Christoph, E. Goldblatt, N. Graff, R. Nowacek, &amp; B. Trabold (Eds.), <pink><pubtitle>Literacy, economy, and power: Writing and research after</pubtitle> Literacy in American Lives</pink> (pp. <blue>79<ndash/>96</blue>). <maroon>Carbondale, IL:</maroon> <lightpurple>Southern Illinois University Press.</lightpurple></p>
+            <p indent="hanging"><red>Christoph, J. N.</red> (<lightgreen>2014</lightgreen>). <lightblue>Sponsoring education for all: Revisiting the sacred/secular divide in twenty<ndash/>first<ndash/>century Zanzibar.</lightblue> In J. Duffy, J. N. Christoph, E. Goldblatt, N. Graff, R. Nowacek, &amp; B. Trabold (Eds.), <pink><pubtitle>Literacy, economy, and power: Writing and research after</pubtitle> Literacy in American Lives</pink> (pp. <blue>79<ndash/>96</blue>). <maroon>Carbondale, IL:</maroon> <lightpurple>Southern Illinois University Press.</lightpurple></p>
             <p>In<ndash/>text: (Christoph, 2014)</p>
         </subsection>
         <subsection xml:id="chapter-chicago">
@@ -421,7 +421,7 @@
             <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue><q>Title of Chapter.</q></lightblue> <pink><pubtitle>Title of Anthology,</pubtitle></pink> Translated by or Edited by* <darkred>First Name Last Name (if applicable), </darkred> vol. number (if applicable), <lightpink>Number edition ed.</lightpink> <maroon>City of publication**,</maroon> <lightpurple>Publisher,</lightpurple> <lightgreen>Year of publication.</lightgreen></p>
             <p>*Here list any other contributors to the work with the method of their contribution noted (<eg />Translated by Emily Wilson).</p>
             <p><darkred>**include only if work was published before 1900, has different versions in different countries or is a rare book.</darkred></p>
-            <p indent="hanging"><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty-First-Century Zanzibar.</q></lightblue> <pink><pubtitle>Literacy, Economy, and Power: Writing and Research after</pubtitle> Literacy in American Lives,</pink>  Edited by <darkred>John Duffy et al.,</darkred> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen></p>
+            <p indent="hanging"><red>Christoph, Julie Nelson.</red> <lightblue><q>Sponsoring Education for All: Revisiting the Sacred/Secular Divide in Twenty<ndash/>First<ndash/>Century Zanzibar.</q></lightblue> <pink><pubtitle>Literacy, Economy, and Power: Writing and Research after</pubtitle> Literacy in American Lives,</pink>  Edited by <darkred>John Duffy et al.,</darkred> <lightpurple>Southern Illinois University Press,</lightpurple> <lightgreen>2014.</lightgreen></p>
             <p>In<ndash/>text: (Christoph 79)</p>
         </subsection>
     </section>
@@ -624,7 +624,7 @@
         <subsection xml:id="encycolopedia-apa">
             <title>APA</title>
             <p indent="hanging"><red>Author 1 Last Name, Initials., &amp; Author 2 Last Name, Initials.</red> <lightgreen>(Publication year).</lightgreen> <lightblue>Title of entry.</lightblue> <green>In Editor Initials Editor Last Name (Ed.), <pubtitle>Encyclopedia Name.</pubtitle></green> (Vol. <darkred>volume number,</darkred> <blue>page range).</blue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-            <p indent="hanging"><red>Hashimoto, Y., &amp; Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein-coupled receptor.</lightblue> <green>In L.R. Squire (Ed.), <pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <darkred>(Vol. 2, </darkred> <blue> pp. 1655<ndash/>1659).</blue> <maroon>Berlin:</maroon> <lightpurple>Springer.</lightpurple></p>
+            <p indent="hanging"><red>Hashimoto, Y., &amp; Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein<ndash/>coupled receptor.</lightblue> <green>In L.R. Squire (Ed.), <pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <darkred>(Vol. 2, </darkred> <blue> pp. 1655<ndash/>1659).</blue> <maroon>Berlin:</maroon> <lightpurple>Springer.</lightpurple></p>
             <p>In<ndash/>text: (Hashimoto &amp; Haga, 2009)</p>
         </subsection>
         <subsection xml:id="encycolopedia-chicago">
@@ -633,14 +633,14 @@
             <p indent="hanging"><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein-Coupled Receptor.</q></lightblue> In <green><pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <darkred>2nd vol.</darkred> Edited by Marc D. Binder, Nobutaka Hirokawa, and Uwe Windhorst. <maroon>Berlin:</maroon> <lightpurple>Springer,</lightpurple> <lightgreen>2009.</lightgreen></p>
             <paragraphs>
                 <title>Notes</title>
-                <p>First appearance.<fn>Yuichi Hashimoto and Tatsuya Haga, <q>G. Protein-Coupled Receptor,</q> in Encyclopedia of Neuroscience. 2nd vol. ed. Marc Binder, Nobutaka Hirokawa, and Uwe Windhorst, (Berlin: Springer, 2003), s.v. <q>g-coupled protein receptor.</q></fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>Hashimoto and Haga, <q>G. Protein-Coupled Receptor.</q></fn></p>
+                <p>First appearance.<fn>Yuichi Hashimoto and Tatsuya Haga, <q>G. Protein<ndash/>Coupled Receptor,</q> in Encyclopedia of Neuroscience. 2nd vol. ed. Marc Binder, Nobutaka Hirokawa, and Uwe Windhorst, (Berlin: Springer, 2003), s.v. <q>g<ndash/>coupled protein receptor.</q></fn> Consecutive appearances.<fn>Ibid.</fn> Nonconsecutive appearances.<fn>Hashimoto and Haga, <q>G. Protein<ndash/>Coupled Receptor.</q></fn></p>
                 <p>For more information about how to insert footnotes, see <xref ref="inserting-footnotes"/>.</p>
             </paragraphs>
         </subsection>
         <subsection xml:id="encycolopedia-mla">
             <title>MLA</title>
             <p indent="hanging"><red>Author Last Name, First Name</red> <lightblue><q>Title of Article.</q></lightblue> <green><pubtitle>Encyclopedia Name.</pubtitle></green> <lightpurple>Edited by First Name Last Name.</lightpurple> <lightpink>edition number ed. (if applicable),</lightpink>  <darkred>vol. Volume number</darkred> <orange>Publisher,</orange> <lightgreen>Year.</lightgreen></p>
-            <p indent="hanging"><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein-Coupled Receptor.</q></lightblue> <green><pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <lightpurple>Edited by Marc Binder.</lightpurple> <lightpink>2009 ed.,</lightpink>  <darkred>vol. 1</darkred> <orange>Springer,</orange> <lightgreen>2009.</lightgreen></p>
+            <p indent="hanging"><red>Hashimoto, Yuichi, and Tatsuya Haga.</red> <lightblue><q>G Protein<ndash/>Coupled Receptor.</q></lightblue> <green><pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <lightpurple>Edited by Marc Binder.</lightpurple> <lightpink>2009 ed.,</lightpink>  <darkred>vol. 1</darkred> <orange>Springer,</orange> <lightgreen>2009.</lightgreen></p>
             <p>In<ndash/>text: (Hashimoto and Haga)</p>
         </subsection>
     </section>

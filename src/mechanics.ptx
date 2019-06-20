@@ -2,13 +2,13 @@
 <chapter xml:id="writing-sentence-level">
     <title>Writing at the Sentence Level</title>
     <introduction>
-        <p>Although some people are willing to express their undying love for grammar via sonnet, most people find sentence-level mechanics daunting, overwhelming, confusing, and sometimes (gasp!) boring. Just the sight of sentence diagrams sends some people straight back to their seventh-grade English class and provokes tears of frustration. There are multitudes of components, hordes of definitions, and seemingly endless numbers of terms. How can anyone keep them all straight?!</p>
+        <p>Although some people are willing to express their undying love for grammar via sonnet, most people find sentence<ndash/>level mechanics daunting, overwhelming, confusing, and sometimes (gasp!) boring. Just the sight of sentence diagrams sends some people straight back to their seventh<ndash/>grade English class and provokes tears of frustration. There are multitudes of components, hordes of definitions, and seemingly endless numbers of terms. How can anyone keep them all straight?!</p>
         <p>Fear not. The good news is that you've had a miraculous understanding of English grammar (or the grammar of whatever your first language may be) since the time you learned to ask for more Cheerios. Your babbles as a baby, simple sentences as a toddler, and recent rap battles with friends have all prepared you to understand, work with, and manipulate language in complicated and ingenious ways. You're already so cool!</p>
     </introduction>
     <section xml:id="grammar-basics">
         <title>Grammar Basics</title>
         <introduction>
-            <p>The purpose of this section is to help elucidate why you can understand the sentence you're currently reading (What parts does it contain? What do those parts mean?). We hope to lay out completely yet concisely all of the sentence-level basics with which you should be familiar. Let's get started (don't worry<mdash/>we'll ease into it)!</p>
+            <p>The purpose of this section is to help elucidate why you can understand the sentence you're currently reading (What parts does it contain? What do those parts mean?). We hope to lay out completely yet concisely all of the sentence<ndash/>level basics with which you should be familiar. Let's get started (don't worry<mdash/>we'll ease into it)!</p>
         </introduction>
         <subsection xml:id="parts-of-speech">
             <title>Parts of Speech</title>
@@ -33,7 +33,7 @@
                         </li>
                         <li>
                             <title>Adverb</title>
-                            <p>describes a verb (often ends in -ly)</p>
+                            <p>describes a verb (often ends in <ndash/>ly)</p>
                             <p>Examples: beautifully, fast, quickly, slowly</p>
                         </li>
                         <li>
@@ -82,7 +82,7 @@
             <title>Basic Sentence Structure</title>
             <subsubsection xml:id="subject-predicate">
                 <title>Subject<ndash/>Predicate</title>
-                <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), a basic sentence is composed of two parts: the subject and the predicate. The <term>subject</term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction. The <term>predicate</term> is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first-year student waited in line for the Farm-to-Table special,</q> the noun phrase <q>the first-year student</q> would be the subject and <q>waited in line for the Farm-to-Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject).</p>
+                <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), a basic sentence is composed of two parts: the subject and the predicate. The <term>subject</term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction. The <term>predicate</term> is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first<ndash/>year student waited in line for the Farm<ndash/>to<ndash/>Table special,</q> the noun phrase <q>the first<ndash/>year student</q> would be the subject and <q>waited in line for the Farm<ndash/>to<ndash/>Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject).</p>
                 <example>
                     <title>Subject<ndash/>Predicate: Sample Sentences</title>
                     <p>
@@ -156,7 +156,7 @@
                         <p>
                             <ul>
                                 <li>Begin with subordinating conjunctions.</li>
-                                <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li>
+                                <li>There are three types of dependent clauses: adjective, adverb, and noun clauses. Each of these types of clauses is named after a part of speech because, when used in dependent<ndash/>clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</li>
                             </ul>
                         </p>
                     </paragraphs>
@@ -272,7 +272,7 @@
                             <title>Infinitive phrases</title>
                             <p>Infinitive phrases feature our good friend, the infinitive verb.</p>
                             <p><q><em>To include</em> all types of phrases in this list would be too boring.</q></p>
-                            <p><q><em>To pull</em> an all-nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso.</q></p>
+                            <p><q><em>To pull</em> an all<ndash/>nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso.</q></p>
                         </li>
                         <li>
                             <title>Prepositional phrases</title>
@@ -288,13 +288,13 @@
                         </li>
                         <li xml:id="participial-phrases">
                             <title>Participial phrases</title>
-                            <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in -ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in -ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
+                            <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in <ndash/>ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in <ndash/>ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
                             <p><q>I like my eggs from the <acro>SUB</acro> <em>covered in ketchup</em>.</q></p>
                             <p><q>The student ran to catch up with her friends, <em>slipping in the puddles</em> along Commencement Walk.</q></p>
                         </li>
                         <li>
                             <title>Gerund phrases</title>
-                            <p>A gerund is a verb that ends in <q>-ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, -ing) to a sentence.</p>
+                            <p>A gerund is a verb that ends in <q><ndash/>ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, <ndash/>ing) to a sentence.</p>
                             <p><q><em>Crying while studying</em> is not recommended.</q></p>
                             <p><q>Although it may seem like a good idea, <em>having pizza from The Cellar for every meal</em> probably isn't the way to go.</q></p>
                         </li>
@@ -356,7 +356,6 @@
                             </ul></p>
                             <p>
                                 <note>
-                                    <!-- <title>Note</title> -->
                                     <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
                                 </note>
                             </p>
@@ -611,7 +610,7 @@
                 </example>
                 <example>
                     <title>None as a Pronoun: O<ndash/>No<ndash/>Chem</title>
-                    <p><q>None of the O-chem students are sleeping the night before their final.</q></p>
+                    <p><q>None of the O<ndash/>chem students are sleeping the night before their final.</q></p>
                 </example>
             </subsubsection>
         </subsection>
@@ -666,7 +665,7 @@
                             <p>
                                 <example>
                                     <title>Agreement Across a Phrase</title>
-                                    <p><q>The <em>number</em> of on-campus trees <alert>grows</alert> each year.</q></p>
+                                    <p><q>The <em>number</em> of on<ndash/>campus trees <alert>grows</alert> each year.</q></p>
                                     <p><q>The <em>Passages leader</em>, alongside all of their passagees, <alert>was</alert> excited to reach the end of the trail.</q></p>
                                 </example>
                             </p>
@@ -680,36 +679,36 @@
                 <p>Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
                 <note>
                     <!-- <title>Note</title> -->
-                    <p>What may seem like problems with subject-verb agreement might actually be <em>correct</em> subject-verb agreement in another variety of English.</p>
+                    <p>What may seem like problems with subject<ndash/>verb agreement might actually be <em>correct</em> subject<ndash/>verb agreement in another variety of English.</p>
                 </note>
             </subsubsection>
             <subsubsection xml:id="pronoun-antecedent-not-agreeing">
                 <title>Pronoun<ndash/>Antecedent Agreement</title>
-                <p>Problems with agreement occur most commonly when a writer mentions a subject, a movie director, for example, and then uses a pronoun (recall: he, she, they, it) to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender-neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" text="title"/>)</p>
+                <p>Problems with agreement occur most commonly when a writer mentions a subject, a movie director, for example, and then uses a pronoun (recall: he, she, they, it) to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender<ndash/>neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" text="title"/>)</p>
                 <p>A sentence using <q>they</q> but referring to a singular pronoun looks like this:</p>
                 <blockquote>
                     <p><q>I liked what the director of the movie did. They did a good job.</q></p>
                 </blockquote>
                 <p>
-                    In terms of grammatical correctness, formal, standard English requires writers to make the correct agreement between a pronoun and its antecedent (<ie/>, you have to use singular pronouns for singular antecedents). For a gender-unspecified singular antecedent, then, a writer has a few options: to use the phrase <q>he or she,</q> to make the subject plural if possible, or to avoid the issue altogether by restructuring the sentence. A sentence of this sort would therefore take one of these three forms:
+                    In terms of grammatical correctness, formal, standard English requires writers to make the correct agreement between a pronoun and its antecedent (<ie/>, you have to use singular pronouns for singular antecedents). For a gender<ndash/>unspecified singular antecedent, then, a writer has a few options: to use the phrase <q>he or she,</q> to make the subject plural if possible, or to avoid the issue altogether by restructuring the sentence. A sentence of this sort would therefore take one of these three forms:
                     <ul>
                         <li><p><q>I liked what the director of the movie did. He or she did a good job.</q></p></li>
                         <li><p><q>That movie had a good director. When directors pay special attention to lighting like this director did, they are doing a good job.</q></p></li>
                         <li><p><q>That movie was great! I can't believe how well the director focused on light!</q></p></li>
                     </ul>
                 </p>
-                <p>You are living through an important and interesting time in the progression of the English language. <q>Formal</q> and <q>standard</q> English (among most other languages) has historically belonged to people in power, people who have used (and still use) language to discriminate against and subjugate individuals who speak non standard forms of English. In spite of this subjugation, speakers of English<mdash/>standard and non standard<mdash/>are beginning to gain power and to reclaim English from those who use it to oppress. Since language and power are intimately intertwined, shifts in power inevitably lead to subsequent shifts in language. These shifts explain why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender-neutral, third-person singular pronoun. While conservative grammarians may lament the devolution of <q>proper English,</q> the reality is that language belongs to its speakers, not to those in power. By acknowledging these shifts in language (and the reasons behind them) within academia, we work toward increasing the access to and inclusivity of the academy. What inevitably follows are new perspectives, experiences, and identities that may lead to even greater equity among scholars and the types of knowledge they produce.</p>
+                <p>You are living through an important and interesting time in the progression of the English language. <q>Formal</q> and <q>standard</q> English (among most other languages) has historically belonged to people in power, people who have used (and still use) language to discriminate against and subjugate individuals who speak non standard forms of English. In spite of this subjugation, speakers of English<mdash/>standard and non standard<mdash/>are beginning to gain power and to reclaim English from those who use it to oppress. Since language and power are intimately intertwined, shifts in power inevitably lead to subsequent shifts in language. These shifts explain why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender<ndash/>neutral, third<ndash/>person singular pronoun. While conservative grammarians may lament the devolution of <q>proper English,</q> the reality is that language belongs to its speakers, not to those in power. By acknowledging these shifts in language (and the reasons behind them) within academia, we work toward increasing the access to and inclusivity of the academy. What inevitably follows are new perspectives, experiences, and identities that may lead to even greater equity among scholars and the types of knowledge they produce.</p>
             </subsubsection>
             <subsubsection xml:id="agreement-s-endings">
                 <title><ndash/>S Endings</title>
-                <p>In <init>SAE</init>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
+                <p>In <init>SAE</init>, third<ndash/>person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present<ndash/>tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
 
                 <example>
                     <title>Agreement with <q><ndash/>S</q> Endings</title>
                     <p>
                         <ul>
                             <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
-                            <li><p><q>The first-year seminar student studies in the library.</q></p></li>
+                            <li><p><q>The first<ndash/>year seminar student studies in the library.</q></p></li>
                             <li><p><q>The RDG members dance across the stage.</q></p></li>
                             <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
                         </ul>
@@ -719,7 +718,7 @@
             </subsubsection>
             <subsubsection xml:id="agreement-is-are">
                 <title>Is/Are</title>
-                <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
+                <p>Third<ndash/>person singular subjects require the present<ndash/>tense verb <q>is,</q> while plural subjects require the present<ndash/>tense verb <q>are.</q></p>
                 <p>
                     As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).
                 </p>
@@ -730,7 +729,7 @@
                         <ul>
                             <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
                             <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
-                            <li><p><q>The students are going to the open-mic night in the piano lounge.</q></p></li>
+                            <li><p><q>The students are going to the open<ndash/>mic night in the piano lounge.</q></p></li>
                             <li><p><q>The resident is running for Residence Hall Association president of their hall; they are a strong candidate for the position.</q></p></li>
                         </ul>
                     </p>
@@ -778,8 +777,6 @@
                     </blockquote>
                     Sounds much better, doesn't it?
                 </example>
-                <!-- <p>
-                    Below are some more examples of using <q>either/or</q> and <q>neither/nor.</q> -->
                 <example>
                     <title>More Agreement with <q>Either/Or</q> and <q>Neither/Nor</q></title>
                     <p>
@@ -825,8 +822,8 @@
                 <p>
                     Sometimes the subject and verb are separated by modifying phrases and adjectives that describe the subject. While modifiers are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicised.
                     <ul>
-                        <li><p><q><un s="1">President Crawford</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
-                        <li><p><q>The <un s="1">first-year resident</un>, who was feeling <acro>FOMO</acro> and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
+                        <li><p><q><un s="1">President Crawford</un>, along with the first<ndash/>year students, <em>is attending</em> Convocation.</q></p></li>
+                        <li><p><q>The <un s="1">first<ndash/>year resident</un>, who was feeling <acro>FOMO</acro> and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
                         <li><p><q><un s="1">Diversions Cafe</un> (and its baristas) <em>provides</em> a great space to study and socialize.</q></p></li>
                     </ul>
                 </p>
@@ -935,7 +932,6 @@
                 </example>
 
                 <note>
-                    <!-- <title></title> -->
                     <p>
                         The exception to this flexibility is that the fractional expression <q>more than one</q> is always singular, so you would say, <q>More than one Met cookie <alert>is</alert> what I need right now,</q> not <q>More than one Met cookie <em>are</em> what I need right now.</q>
                     </p>
@@ -971,14 +967,6 @@
                     </ul>
                 </p>
             </example>
-                <!-- Delete if Julie approves -->
-            <!-- Examples of sentence fragments and revisions:
-            <p>
-                <ul>
-                    <li><p><q>To the <acro>SUB</acro>.</q> → <q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q> In this revision, we combine the fragment with the independent clause, <q>You should take your <acro>SUB</acro> dishes back.</q> By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.</p></li>
-                    <li><p><q>All night long!</q> → <q>I was in the library all night long!</q> Just like the previous example, this fix gets rid of the fragment and makes the sentence more specific. <q>How long were you in the library?</q> <q>I was in the library all night long!</q></p></li>
-                </ul>
-            </p> -->
         </subsection>
         <subsection xml:id="problems-with-parallelism">
             <title>Problems with Parallelism</title>
@@ -1008,11 +996,11 @@
                 <title>Mixing Clause Forms</title>
                 <p>The same rule may be applied to a series of complex clauses. If you have a verb that applies to two or more clauses in the series, it must apply equally to all clauses in order to maintain parallel structure. Take the following example of mixing clause forms:</p>
                 <blockquote>
-                    <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, more <q>for-here</q> options, and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+                    <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, more <q>for<ndash/>here</q> options, and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
                 </blockquote>
-                <p>In this sentence, Diversions has cut a lot of waste by doing two things: 1) offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and 2) encouraging people to recycle. While the first three clauses in the series (discounts, drinks, and options) all share the verb <q>offering</q> equally, the fourth clause (recycling lids and sleeves) only uses the verb <q>encouraging.</q> To correct this sentence to preserve parallel structure, you have to insert the conjunction <q>and</q> between the second and third clauses to distinguish what Diversions is <q>offering</q> from what it is <q>encouraging.</q> Take the corrected revision:</p>
+                <p>In this sentence, Diversions has cut a lot of waste by doing two things: 1) offering mug discounts, free Cup Karma drinks, and more <q>for<ndash/>here</q> options and 2) encouraging people to recycle. While the first three clauses in the series (discounts, drinks, and options) all share the verb <q>offering</q> equally, the fourth clause (recycling lids and sleeves) only uses the verb <q>encouraging.</q> To correct this sentence to preserve parallel structure, you have to insert the conjunction <q>and</q> between the second and third clauses to distinguish what Diversions is <q>offering</q> from what it is <q>encouraging.</q> Take the corrected revision:</p>
                 <blockquote>
-                    <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+                    <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <q>for<ndash/>here</q> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
                 </blockquote>
             </subsubsection>
             <subsubsection xml:id="parallelism-two-nouns">
@@ -1053,7 +1041,7 @@
                 <p>
                     To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:
                     <ul>
-                        <li><p>While writing a list or series, make sure every item in the series is grammatically consistent (all -ing endings vs. infinitive, passive vs. active voice, <etc/>).</p></li>
+                        <li><p>While writing a list or series, make sure every item in the series is grammatically consistent (all <ndash/>ing endings vs. infinitive, passive vs. active voice, <etc/>).</p></li>
                         <li><p>If you have an adjective or pronoun to describe the first word of a series, apply that descriptor equally to every item in the series to make sure it makes sense.</p></li>
                         <li><p>Read carefully through your paper, paying close attention to series connected by conjunctions (<q>and</q>/<q>or</q>) and checking either side of the sentence for correct parallel structure.</p></li>
                         <li><p>If you have a list or series, isolate every item into its own sentence, identify descriptors you can attribute to every item, and then condense the sentence accordingly.</p></li>
@@ -1116,7 +1104,7 @@
                     <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
                     <p>Revision:</p>
                     <blockquote>
-                        <p><q>Unfamiliar with the campus layout, the first-year student found it difficult to find their classroom in Wyatt.</q></p>
+                        <p><q>Unfamiliar with the campus layout, the first<ndash/>year student found it difficult to find their classroom in Wyatt.</q></p>
                     </blockquote>
                 </example>
                 <example>
@@ -1263,7 +1251,7 @@
         </subsection>
         <subsection xml:id="style-using-passive-cautiously">
             <title>Using Passive Constructions Cautiously</title>
-            <p>The <term>passive voice</term> is <em>passive</em> because sentences in this structure de-emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take direct objects.</p>
+            <p>The <term>passive voice</term> is <em>passive</em> because sentences in this structure de<ndash/>emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take direct objects.</p>
             <example>
                 <title>Active Versus Passive Voice</title>
                 <p>
@@ -1397,7 +1385,6 @@
                     </dl>
             </list>
             <note>
-                <!-- <title>Note</title> -->
                 <p>You don't need to fill your writing with big, obscure words; instead, you'll want to use more complex words where appropriate to convey meaning more precisely and concisely.</p>
             </note>
         </subsection>
@@ -1673,7 +1660,7 @@
                                 <p>grate</p>
                             </cell>
                             <cell>
-                                <p>The first-year student accidentally dropped their keycard into the rainwater <em>grate</em> by the <init>SUB</init>.</p>
+                                <p>The first<ndash/>year student accidentally dropped their keycard into the rainwater <em>grate</em> by the <init>SUB</init>.</p>
                             </cell>
                         </row>
                         <row bottom = "medium">
@@ -1817,7 +1804,7 @@
                                 <p>male</p>
                             </cell>
                             <cell>
-                                <p><em>Male</em>, female, trans, non-binary, and gender non-conformoning bathrooms are offered in many of the academic and residential buildings on campus.</p>
+                                <p><em>Male</em>, female, trans, non<ndash/>binary, and gender non<ndash/>conformoning bathrooms are offered in many of the academic and residential buildings on campus.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1929,7 +1916,7 @@
                                 <p>reign</p>
                             </cell>
                             <cell>
-                                <p>President Thomas was our <em>reigning</em> president between 2003-2016.</p>
+                                <p>President Thomas was our <em>reigning</em> president between 2003<ndash/>2016.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2162,7 +2149,7 @@
                         <p><q>Skiing is fun, but it's [it is] also a great workout.</q></p>
                     </blockquote>
                     <blockquote>
-                        <p><q>From Tacoma, it's [it is] only a brief 45-minute drive to Seattle.</q></p>
+                        <p><q>From Tacoma, it's [it is] only a brief 45<ndash/>minute drive to Seattle.</q></p>
                     </blockquote>
                     <blockquote>
                         <p><q>I've worked for weeks on my paper, but how do I know when it's [it is] really finished?</q></p>
@@ -2251,7 +2238,6 @@
                     </ol>
                 </list>
                 <note>
-                    <!-- <title>Note</title> -->
                     <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), commas (and periods) go inside quotation marks.</p>
                 </note>
                 <paragraphs xml:id="par-comma-splices">
@@ -2300,7 +2286,6 @@
                     </li>
                 </ol></p>
                 <note>
-                    <!-- <title>Note</title> -->
                     <p>Don't capitalize the word following the semicolon unless it's a proper noun.</p>
                 </note>
             </subsubsection>
@@ -2316,14 +2301,13 @@
                     <p><q>I learned about the coolest thing in class today: a long time ago, a scientist conducted an experiment where <url href="http://io9.gizmodo.com/18th-century-biologists-put-pants-on-frogs-to-test-the-1552252710">he put tiny pants on frogs</url>.</q></p>
                 </example>
                 <note>
-                    <!-- <title>Note</title> -->
                     <p>You don't usually need to capitalize the word following a colon (unless it's a proper noun), but some style guides recommend it, so if you have questions, as always, ask your professor.</p>
                 </note>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-dash">
                 <title>Dash <dblbrackets><ndash/></dblbrackets> and <dblbrackets><mdash/></dblbrackets></title>
                 <p>Dashes<mdash/>and there are two types<mdash/>are used to hyphenate, to indicate ranges, or to set apart important or noteworthy things in a sentence.</p>
-                <p>The <em>en dash</em> (also known as a hyphen). This dash is the dash that appears when you hit the dash key once. You can use it to hyphenate words (like in-depth) or to show a range (1894<ndash/>1904 or numbers 1<ndash/>5).</p>
+                <p>The <em>en dash</em> (also known as a hyphen). This dash is the dash that appears when you hit the dash key once. You can use it to hyphenate words (like in<ndash/>depth) or to show a range (1894<ndash/>1904 or numbers 1<ndash/>5).</p>
                 <p>The <em>em dash</em> (also known as a dash). Make an em dash by hitting the dash key twice<mdash/>like this! These longer dashes are what you use to set things apart<mdash/>you can use them with fragments or complete sentences. Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.</p>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-parentheses">
@@ -2376,8 +2360,8 @@
                             <p>
                                 <example>
                                     <title>Using Quotation Marks</title>
-                                    <p>According to the first-year seminar student, <q>The <init>CWLT</init> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
-                                    <p>In the first-year seminar student's reaction to going to the <init>CWLT</init>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
+                                    <p>According to the first<ndash/>year seminar student, <q>The <init>CWLT</init> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
+                                    <p>In the first<ndash/>year seminar student's reaction to going to the <init>CWLT</init>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
                                 </example>
                             </p>
                         </li>
@@ -2412,7 +2396,7 @@
                             <p>
                                 <example>
                                     <title>Integrating Quotes</title>
-                                    <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
+                                    <p><q>I'm kind of scared to make a writing appointment,</q> the first<ndash/>year student acknowledged, <q>but I think I will anyway.</q></p>
                                     <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <init>CWLT</init> are very nice and accommodating.</q></p>
                                 </example>
                             </p>
@@ -2435,7 +2419,7 @@
                             </p>
                         </li>
                         <li>
-                            <p><em>Use brackets to indicate non-standard elements or changes.</em></p>
+                            <p><em>Use brackets to indicate non<ndash/>standard elements or changes.</em></p>
                             <p>Sometimes direct quotes have spelling or grammatical deviations from <init>SAE</init>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence.</p>
                             <p>
                                 <example>
@@ -2447,7 +2431,7 @@
                         </li>
                         <li>
                             <p><em>Use brackets to enclose important nouns missing in quote.</em></p>
-                            <p>Sometimes sentences omit a previously referred-to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun.</p>
+                            <p>Sometimes sentences omit a previously referred<ndash/>to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun.</p>
                             <p>
                                 <example>
                                     <title>Using Brackets to Insert Nouns</title>
@@ -2543,12 +2527,12 @@
                         <li>
                             <title>A singular compound noun</title>
                             <p>[compound noun] + ['] + [s]</p>
-                            <p>[Father-in-law] + ['] + [s] = Father-in-law's</p>
+                            <p>[Father<ndash/>in<ndash/>law] + ['] + [s] = Father<ndash/>in<ndash/>law's</p>
                         </li>
                         <li>
                             <title>A plural compound noun</title>
                             <p>[compound noun] + ['] + [s]</p>
-                            <p>[Fathers-in-law] + ['] + [s] = Fathers-in-law's</p>
+                            <p>[Fathers<ndash/>in<ndash/>law] + ['] + [s] = Fathers<ndash/>in<ndash/>law's</p>
                         </li>
                         <li>
                             <title>Joint possession</title>
@@ -2599,7 +2583,6 @@
                     </ul>
                 </p>
                 <note>
-                    <!-- <title></title> -->
                     <p>Beware the personal pronouns <q>hers,</q> <q>yours,</q> <q>ours,</q> <q>its,</q> <q>theirs,</q> and <q>whose,</q> which do not use an apostrophe.</p>
                 </note>
             </subsubsection>
@@ -2625,7 +2608,7 @@
                     </li>
                     <li>
                         <p>
-                            Professional titles should be capitalized only when they precede the title-holder's name.
+                            Professional titles should be capitalized only when they precede the title<ndash/>holder's name.
                             <ul>
                                 <li><p>Capitalize <q>president</q> in the sentence <q>President Isiaah Crawford joined the university in 2016.</q></p></li>
                                 <li><p>Do not capitalize <q>president</q> in the sentence <q>The 14th president of the University of Puget Sound is Isiaah Crawford.</q></p></li>
@@ -2814,7 +2797,6 @@
                     </p>
                     <p>
                         <insight>
-                            <!-- <title>A Tip for the Indolent</title> -->
                             <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to.</p>
                         </insight>
                     </p>
