@@ -9,20 +9,30 @@
             <p>Suppose you're writing something, and you want to <em>really stress</em> the importance of a particular point. So you put it in italics, like we did. Great. Later, you're talking about your favorite book, <pubtitle>Harry Potter</pubtitle><fn>Yeah, like you're the <em>first person</em> in the <init>CWLT</init> whose favorite book is <pubtitle>Harry Potter</pubtitle><nbsp/><ellipsis/></fn>, so you put that in italics too. Only you <alert>don't</alert>. You're using italics for two different purposes, so because you're now thinking like an author in a markup language, you don't think <q>ah, I want them to both <em>be</em> italicized,</q> like you would if you were writing in <init>MS</init> Word. Instead, you noticed that the first use of italics (<q>really stress</q>) was <em>emphasizing</em> a point, so you used the <c>&lt;em&gt;</c> <term>tag</term> to indicate to the publisher of the handbook, <q>this text should stand apart because it is important for the reader to recognize it as important.</q> In theory, the publisher could decide that italics are gauche and make the calll to put all of the text that you said shoudl be emphasized in bold, rather than italics, and <em>that stylistic choice would not interfere with how you communicate content to your reader.</em></p>
             <p>In the second use of italics (<q>Harry Potter</q>), you were not emphasizing the title of a book, you were trying to follow the rule about italicizing the titles of books and similar publications. Again, this is a good way to think if you're writing in a program like Microsoft Word, but it's not a good way to think in a markup language because you focused on how you wanted something to look, not on what kind of text it was and <em>why</em> you wanted it to look a certain way. In this case, we want to make it clear to the reader that <pubtitle>Harry Potter</pubtitle> is a book, so we wrap it in the <c>&lt;pubtitle&gt;</c> tag. So even though <em>(1) Harry Potter</em> and <pubtitle>(2) Harry Potter</pubtitle> might both look the same right now, (1) has italics because it is emphasized, and (2) has italics because it is demarkated as a publication. If a future publisher decided that publications should be underlined, not italicized, (1) would not get this handbook<ndash/>wide style update because the author did not correctly take advantage of the fact that they were writing in a markup language.</p>
         </example>
-        <p>At this point, if you have not yet read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url> and bookmarked the <pretext/> page at <url href="https://pretextbook.org/"> <c>pretextbook.org</c></url>, <alert>STOP READING AND DO SO RIGHT NOW.</alert> The resources provided on the <pretext/> webside, including the PUBLISHER'S GUIDE, the AUTHOR'S GUIDE, and the SAMPLE ARTICLE will be invaluable to you as a novice <pretext/> author.</p>
+        <p>At this point, if you have not yet read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url> and bookmarked the <pretext/> page at <url href="https://pretextbook.org/"> <c>pretextbook.org</c></url>, <alert>STOP READING AND DO SO RIGHT NOW.</alert> The resources provided on the <pretext/> webside, including the <url href="https://pretextbook.org/doc/publisher-guide/html/index.html">Publisher's Guide</url>, the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url>, and the <url href="https://pretextbook.org/examples/sample-article/html/index.html"> Sample Article</url> will be invaluable to you as a novice <pretext/> author. The sample article is particularly useful becasue you can look directly at the <init>XML</init> file in <c>mathbook/examples/sample-article/sample-article.xml</c>.</p>
     </introduction>
     <!-- You can insert comments into your code, and it's probably a good idea to do that, though what you include in a comment might vary. You can also comment OUT poritons of your code, which is a good way of removing code that you're not yet sure you want to get rid of (maybe you're testing out a new format for content but haven't gotten the boss's approval yet). You could also use comments to add keywords to a section or clarify divisions between content -->
     <section xml:id="ag-general-principles">
         <title>General Principles for Authoring <pubtitle>Sound Writing</pubtitle></title>
         <introduction>
-            <p>TODO</p>
+            <p>This section is dedicated to general consistency principles that have been established after lots of careful thought about how the content of the handbook is structured overall.</p>
+            <note>
+                <p>In the <init>XML</init> markup language, content is categorized (and later formatted) based on how it is marked with <term><init>XML tags</init></term>. In most cases, you must <q>wrap</q> text in an opening tag and a closing tag, where the opening tag is always wrapped in angle brackets (like this <c>&lt;keyword&gt;</c>) and the closing tag is nearly identical but follows the opening bracket with a forward slash (like this <c>&lt;/keyword&gt;</c>). The one exception to this general principle is that some special keywords require only a single tag, so if you want to talk aobut the document markup language <latex/>, you need only write <c>&lt;latex/&gt;</c>. If you're using Sublime Text to edit the text of the handbook, you can automatically close any open tag by typing <c>&lt;/</c>; the program will autofill the closing tag for the most recently opened tag. Throughout this Author's Guide, whenever instructions are provided about using a tag, only the opening tag is provided. <alert>You should assume that a closing tag formatted as described above is also required.</alert></p>
+            </note>
         </introduction>
+        <subsection>
+            <title>Comments on Tag Use</title>
+        </subsection>
+        <subsection>
+            <title>Using Paragraphs</title>
+            <p>The <c>&lt;paragraphs&gt;</c> tag, which is also the most granular <q>division</q> possible in <pretext/>, is a useful way of collecting a few <q>paragraphs</q> of thought under a heading. You can think of it a little bit like a sub<em>sub<em>sub</em></em>section. Paragraphs have a <c>&lt;title&gt;</c>, and you shoudl treat this title as such: obey capitalization rules consistent with other titles in the handbook, make sure that the tile is as concise and precise as possible and that it appropriately introduces the topic that is discussed in the following paragraphs (<c>&lt;p&gt;</c>). Above all, <alert>DO NOT</alert> use the <c>&lt;paragraphs&gt;</c> structure to just put a sentence in bold, as this is <term>tag abuse</term><mdash/>you're making decisions about what something <em>is</em>based on how you want it to <em>look</em>, rather than the reverse. You can consult <url href="https://pretextbook.org/doc/author-guide/html/topic-paragraphs.html">the Paragraphs section of the <pretext/> Author's Guide</url> for a list of more specific tags you might use, and you can check out <xref ref="general-principles-providing-guidelines"/> for ways to emphasize instructions that you want the reader to follow.</p>
+        </subsection>
         <subsection>
             <title>Using Lists</title>
             <introduction>
                 <p><pubtitle>Sound Writing</pubtitle> relies heavily on lists to convey content to the reader in an organized, aesthetically pleasing way. To reap the beneifits from this decision, it is important to adhere to the principles for what <em>kinds</em> of lists should be used in which scenarios, as well as how they should be formatted.</p>
             </introduction>
-            <subsubsection>
+            <subsubsection xml:id="general-principles-providing-guidelines">
                 <title>Providing Guidelines, Strategies, or Rules</title>
                 <introduction>
                     <p>Perhaps the most common use of lists in the handbook is to give the reader consolidated instructions about <em>what</em> to do or <em>how</em> to do something (it is a writing handbook, after all). Often, you will want to also explain <em>why</em> to do something, so the list structure must be flexibile enough to accomodate both long explanations and brief pointers about what the reader should do. You may, in your journey of authorship of the handbook, discover that you want your particular set of instructions to look different, but <alert>readers benefit from consistency</alert>. If you think that instructions in general should be formatted differently, you should update how lists look <em>everywhere</em>, and you should update these instructions.</p>
@@ -49,13 +59,14 @@
                         </li>
                         <li>
                             <p><em>Make the first sentence of each list item an <em>imperative</em> instruction<mdash/>it must be something that readers can <em>DO</em>, not just a fact.</em></p>
-                            <p>You can accomplish this by wrapping the instruction in both emphasis (<c>&lt;em&gt;</c>) and a paragraph block (<c>&lt;p&gt;</c>). Subsequent explanation that clarifies the instruction should be placed in a separate paragraph block so that there is a clear visual distinction between the imperative and the explanation.</p>
+                            <p>To mark this imperative as distinct from the explanation, you should wrap the instruction in both emphasis (<c>&lt;em&gt;</c>) and a paragraph block (<c>&lt;p&gt;</c>). Subsequent explanation that clarifies the instruction should be placed in a separate paragraph block so that there is a clear visual distinction between the imperative and the explanation.</p>
                         </li>
                     </ul>
                 </list>
             </subsubsection>
-            <subsection>
+            <subsection xml:id="general-principles-using-examples">
                 <title>Using Examples</title>
+                <p>Examples should be marked as such with the <c>&lt;example&gt;</c> tag whenever they do not direclty provide content required for the reader to understand what they are reading. A good heuristic to use when deciding whether or not to make something an example is <q>Do I need to read the example to <em>learn</em> facts about the concept I'm reading about, or do I just need to read the example to <em>understand</em> the concept better?</q> Never bury essential information in an example, and conversely, avoid intertwining non<ndash/>essential examples into the main handbook text.</p>
             </subsection>
         </subsection>
         <subsection>
@@ -71,7 +82,7 @@
         <subsection>
             <title>Cross<ndash/>Referencing Schema</title>
             <introduction>
-            <p>To take advantage of cross<ndash/>referencing, which <pretext/> and a digital platform make easy, you will need to provide an <term>xml id</term> to every element that you wish to be able to cross<ndash/>reference. You can find more on <url href="https://pretextbook.org/doc/author-guide/html/topic-cross-referencing.html">cross<ndash/>referencing</url> in the <url href="https://pretextbook.org/doc/author-guide/html/index.html"><pretext/> Author's Guide </url>, so here we only address the schema we (try to) use in <pubtitle>Sound Writing</pubtitle></p>
+            <p>To take advantage of cross<ndash/>referencing, which <pretext/> and a digital platform make easy, you will need to provide an <term>xml id</term> to every element that you wish to be able to cross<ndash/>reference. The beauty of this system is that if you change where a piece of cross<ndash/>referenced content is located, all of the reference links still work because you haven't changed the <c>xml:id</c>. This means that if you <em>do</em> change the <c>xml:id</c>, your links <alert>will</alert>break. You can find more on <url href="https://pretextbook.org/doc/author-guide/html/topic-cross-referencing.html">cross<ndash/>referencing</url> in the <url href="https://pretextbook.org/doc/author-guide/html/index.html"><pretext/> Author's Guide </url>, so here we only address the schema we (try to) use in <pubtitle>Sound Writing</pubtitle>.</p>
             </introduction>
             <paragraphs xml:id="par-ag-referencing-schema">
                 <title>Assigning xml:id Tags</title>
@@ -104,10 +115,6 @@
                     </dl>
                 </p>
             </paragraphs>
-        </subsection>
-        
-        <subsection>
-            <title>Comments on Tag Use</title>
         </subsection>
     </section>
 
@@ -274,6 +281,21 @@
             </ul>
         </list>
     </section>
+    <sections xml:id="ag-faq">
+        <title>FAQ</title>
+        <p>Nobody asks questions, so these aren't so much <q>frequently asked questions</q> as they are <q>Jordan's burning questions that Rob or Julie answered</q> (or that he miraculously figured out all by himself *pats back)</p>
+        <list>
+            <title>FAQ</title>
+            <dl>
+                <li>
+                    <title>Why don't my knols open in the private version of the handbook?!</title>
+                    <p>This question was answered in the <url href="https://pretextbook.org/doc/author-guide/html/faq.html">Author's Guide <init>FAQ</init></url>.</p>
+                </li>
+
+            </dl>
+        </list>
+
+    </sections>
 
 
 
