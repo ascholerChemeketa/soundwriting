@@ -30,6 +30,13 @@
             </ul>
         </p>
         </assemblage>
+        <paragraphs xml:id="par-write-respect-historical-baggage">
+            <title>Historical Baggage</title>
+            <p>Words carry baggage made up of the social structures, hierarchies, and power dynamics that they are associated with. These social contexts have long<ndash/>lasting legacies and so even though a social structure may no longer exist, the words associated with it carry forth the historical memory of that structure and their use can re<ndash/>instantiate or assert it. For example, the use of the n<ndash/>word by White people harkens back to a time in America when White people enslaved, tortured, raped, and murdered Black people in a systematically supported way. As such, its use by a White person is unacceptable because it is a reenactment of that power structure, which has a legacy that continues to impact people’s lived experiences in the United States.</p>
+            <p>On the other hand, some Black people today have reclaimed the n<ndash/>word, and many other marginalized groups have reclaimed other slurs used against them. In these cases, the use of a slur by a member of the group targeted by the slur can be empowering because it is a symbol for surviving an oppressive, violent system and serves as a source or empowerment for continuing to fight oppressors and oppressive systems.</p>
+            <p>To complicate things, some once<ndash/>derogatory words can become neutral, and some once<ndash/>neutral terms can become derogatory, and this too is important to keep in mind as you write and speak about people and their identities. For example, the term <q>Quaker</q> was originally a derogatory label for members of the Religious Society of Friends, however, it has since lost its offensive meaning and is an accepted name. Contrastingly, the word <q>moron</q> started out as a clinical term for people with mental disabilities but has since become derogatory. Furthermore, some words carry specific derogatory histories when used together, for example calling Black women <q>angry</q> or women in general <q>hysterical</q> connotate racist and sexist stereotypes, respectively.</p>
+            <p>Because the historical contexts that words reference have ongoing legacies that impact people differently, a word that seems harmless to one person might cause harm to another person. As you write, take care to learn about the historical baggage that the words you use carry, and be receptive to feedback your readers share with you about the impact your word choice has on them.</p>
+        </paragraphs>
         <list xml:id="list-write-with-respect-guidelines">
             <title>Strategies for Writing with Respect</title>
             <ul>
@@ -61,6 +68,17 @@
             <sidebyside width="50%">
             <image source="images/WWA-Intersectionality"/>
             </sidebyside>
+            <assemblage>
+                <title>Student Perspectives: More than a Single Identity</title>
+                <blockquote>
+                    <p>When we step into a place we are not just Black; we are Black males, we are Black women, we are people who are part of the <init>LGBTQ</init> community, we are more than just one single identity. These identities do conflict and they do affect us, sometimes equally and sometimes one more than the other. I’ve been in a situation where I knew for a fact that it was my gender that got me into the problem, but because I was Black, it was worse.</p>
+                    <attribution>
+                        <line>Member of the Black Student Union</line>
+                        <line>University of Puget Sound</line>
+                        <line>May 2019</line>
+                    </attribution>
+                </blockquote>
+            </assemblage>
             <p>The term <q>intersectionality</q> was coined in 1989 by Black feminist lawyer Kimberlé Crenshaw to describe how the discrimination faced by Black women is simultaneously based on race and gender. In a seminar at the 2001 World Conference Against Racism, Crenshaw used the metaphor of a traffic intersection to describe how women of color must simultaneously navigate multiple forms of oppression saying <q>intersectionality is what occurs when a woman from a minority group <ellipsis /> tries to navigate the main crossing in the city.<ellipsis /> The main highway is Racism Road. One cross street can be Colonialism, [the other] Patriarchy Street.</q> Rather than navigate each road in isolation of the others, the woman of color must navigate them all at the same time, their interaction making her task that much more complex. Accordingly, because everyone has intersectional identities oppressive systems are not navigated separately concurrently. Thus, when intersectionality is overlaid with power imbalances, those with multiple marginalized identities<mdash />such as being Black and female in the U.S., or disabled, Queer and poor<mdash />experience oppression and discrimination against several aspects of their identity.</p>
             <assemblage>
                 <title>Student Perspectives: Intersections within an Identity</title>
@@ -151,13 +169,13 @@
             </introduction>
             <paragraphs>
                 <title>Overview</title>
-                <p>Despite the progress that has been made, disabilities and illnesses continue to be stigmatized, and the way we write about them has the power to break down or perpetuate stereotypes that directly affect the lives of people with these conditions. Additionally, many terms carry historical baggage that we, as writers, aren’t always aware of; for instance, while in the early twentieth century people classified as <q>idiots</q> were subject to forced sterilization, we now use the word casually. By learning the history behind the words we use and choosing to write respectfully about people with mental and physical disabilities we help create a culture that rejects ableism.</p>
+                <p>Despite the progress that has been made, disabilities and illnesses continue to be stigmatized, and the way we write about them has the power to break down or perpetuate stereotypes that directly affect the lives of people with these conditions. Additionally, many terms carry <xref ref="par-write-respect-historical-baggage"/> that we, as writers, aren’t always aware of; for instance, while in the early twentieth century people classified as <q>idiots</q> were subject to forced sterilization, we now use the word casually. By learning the history behind the words we use and choosing to write respectfully about people with mental and physical disabilities we help create a culture that rejects ableism.</p>
                 <p>
                     <assemblage>
                         <title>Student Perspectives: Cultural Context of Mental Health and Illness</title>
                         <blockquote><p>This is why I'm always saying research those cultural contexts, you know, because <em>with mental illness and mental health, the way in which we talk about it is all a form of social control.</em></p>
                             <attribution>
-                                <line>Member of NAMI</line>
+                                <line>Member of <init>NAMI</init></line>
                                 <line>University of Puget Sound</line>
                                 <line>May 2018</line>
                             </attribution>
@@ -169,9 +187,9 @@
                 <p>
                     <assemblage>
                         <title>Student Perspectives: Intersections of Mental Illness and Health</title>
-                        <blockquote><p><q>Constantly considering the ways in which mental health and mental illness intersect with a lot of other identities is really important. They don’t exist in isolation from other people's identities, They really intersect with your sexual orientation, your gender identity, your race, your socioeconomic background<ellipsis /><em>you can't really write about mental health and mental illness in isolation of all of those factors that are brought into it.</em></q> <ndash />Member of NAMI, University of Puget Sound, May 2018</p>
+                        <blockquote><p>Constantly considering the ways in which mental health and mental illness intersect with a lot of other identities is really important. They don’t exist in isolation from other people's identities, They really intersect with your sexual orientation, your gender identity, your race, your socioeconomic background<ellipsis />you can't really write about mental health and mental illness in isolation of all of those factors that are brought into it.</p>
                             <attribution>
-                                <line>Member of NAMI</line>
+                                <line>Member of <init>NAMI</init></line>
                                 <line>University of Puget Sound</line>
                                 <line>May 2018</line>
                             </attribution>
@@ -274,16 +292,17 @@
                 </p>
                 <p>It is helpful to be aware of conventions within particular disciplines, but also to remember that these conventions may reflect racism embedded in histories of the academy, and that scholars within and across different academic disciplines may not agree on definitions and conventions related to race and ethnicity. When in doubt, do some research and do not be afraid to engage in conversations about appropriate usage. When referring to a particular person or group, use the term that they prefer.</p>
                 <p>
-                    <assemblage>
-                        <title>Student Perspectives: the Context of Data</title>
-                        <blockquote><p>Empirical data is probably going to be what people are going to struggle the most with because empirical data is already academic data so why would you challenge it, question it, or not write it as it was published? But academic authors are constrained by the terms and categories they use. For instance, when researchers use census data, for the most part they're going to refer to Asian Pacific Islanders as <q>Asian,</q> which limits our ability to actually dig into the topic and to do further research because of the limits of that umbrella category. If you're taking information from a book or journal article, be sure to understand what lens or what framework they are using to justify using that or where that original author is coming with that intent.</p>
-                            <attribution>
-                                <line>Member of the Asian and Pacific Islander Collective</line>
-                                <line>University of Puget Sound</line>
-                                <line>May 2018</line>
-                            </attribution>
-                        </blockquote>
-                    </assemblage>
+                    <!-- Removed because duplicated information in the previous quote -->
+                <!-- <assemblage>
+                    <title>Student Perspectives: the Context of Data</title>
+                    <blockquote><p>Empirical data is probably going to be what people are going to struggle the most with because empirical data is already academic data so why would you challenge it, question it, or not write it as it was published? But academic authors are constrained by the terms and categories they use. For instance, when researchers use census data, for the most part they're going to refer to Asian Pacific Islanders as <q>Asian,</q> which limits our ability to actually dig into the topic and to do further research because of the limits of that umbrella category. If you're taking information from a book or journal article, be sure to understand what lens or what framework they are using to justify using that or where that original author is coming with that intent.</p>
+                        <attribution>
+                            <line>Member of the Asian and Pacific Islander Collective</line>
+                            <line>University of Puget Sound</line>
+                            <line>May 2018</line>
+                        </attribution>
+                    </blockquote>
+                </assemblage> -->
                 </p>
             </paragraphs>
             <list xml:id="list-racial-inclusivity-guidelines">
