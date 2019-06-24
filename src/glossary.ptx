@@ -3,7 +3,7 @@
     <title>Glossary of Academic Terms</title>
     <p>(Some words you need to know but might have been afraid to ask.)</p>
     <list xml:id="glossary-writing-words">
-        <caption>Words You May See in Writing Assignments</caption>
+        <title>Words You May See in Writing Assignments</title>
         <dl>
             <li>
                 <title>Analyze</title>
@@ -32,7 +32,7 @@
         </dl>
     </list>
     <list xml:id="glossary-research-words">
-        <caption>Research Terms and Kinds of Sources</caption>
+        <title>Research Terms and Kinds of Sources</title>
         <dl>
             <li>
                 <title>Annotated bibliography</title>
@@ -65,7 +65,7 @@
         </dl>
     </list>
     <list xml:id="glossary-rhetorical-terms">
-        <caption>Rhetorical Terms</caption>
+        <title>Rhetorical Terms</title>
         <dl>
             <li>
                 <title>Ethos/Pathos/Logos</title>
@@ -102,7 +102,7 @@
         </dl>
     </list>
     <list xml:id="glossary-words-to-know">
-        <caption>Generally Good Words to Know</caption>
+        <title>Generally Good Words to Know</title>
         <dl>
             <li>
                 <title>-centrism</title>
@@ -195,6 +195,83 @@
             <li>
                 <title>Zeitgeist</title>
                 <p>the spirit of a given historical period, defined by that period's prominent ideas and ideologies.</p>
+            </li>
+        </dl>
+    </list>
+    <list xml:id="list-glossary-grammar-terms">
+        <title>Grammar Terms</title>
+        <dl>
+            <li xml:id="definition-subject">
+                <title>subject</title>
+                <p>is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction.</p>
+            </li>
+            <li xml:id="definition-predicate">
+                <title>predicate</title>
+                <p>is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase.</p>
+            </li>
+            <li xml:id="definition-direct-object">
+                <title>direct object</title>
+                <p>is the noun on which the action occurs.</p>
+            </li>
+            <li xml:id="definition-indirect-object">
+                <title>indirect object</title>
+                <p>is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object.</p>
+            </li>
+            <li xml:id="definition-clause">
+                <title>clause</title>
+                <p>is composed of a <xref ref="definition-subject"/> and a <xref ref="definition-predicate"/>, which also means that every clause has a noun and a verb. </p>
+            </li>
+            <li xml:id="definition-independent-clause">
+                <title>independent clause</title>
+                <p>also called a main clause, has a subject and a verb and conveys a complete thought.</p>
+            </li>
+            <li xml:id="definition-dependent-clause">
+                <title>dependent/subordinate clause</title>
+                <p>also called dpendent clause, cannot stand alone because they do not form a complete thought. Subordinate/dependent clauses are dependent on an independent clause to make sense.</p>
+            </li>
+            <li xml:id="definition-adjective-clause">
+                <title>adjective/relataive clause</title>
+                <p>a <xref ref="definition-dependent-clause"/> that acts as an adjective to modify a noun.</p>
+            </li>
+            <li xml:id="definition-adverb-clause">
+                <title>adverb clause</title>
+                <p>a <xref ref="definition-dependent-clause"/> that acts as an adverb to modify the verb in a sentence.</p>
+            </li>
+            <li xml:id="definition-noun-clause">
+                <title>noun clause</title>
+                <p>a <xref ref="definition-dependent-clause"/> that acts as a noun</p>
+            </li>
+            <li xml:id="definition-modifier">
+                <title>modifier</title>
+                <p>is a word, phrase, or clause that characterizes a noun and is typically used to add description or specificity to a sentence.</p>
+            </li>
+            <li xml:id="definition-present-participle">
+                <title>present participle</title>
+                <p>verb ending in <q><ndash/>ing</q> that acts as an <xref ref="definition-adjective"/></p>
+            </li>
+            <li xml:id="definition-past-participle">
+                <title>past participle</title>
+                <p>verb ending in <q><ndash/>ed</q> (or an irregular form) that acts as an <xref ref="definition-adjective"/></p>
+            </li>
+            <li xml:id="definition-gerund">
+                <title>gerund</title>
+                <p>verb ending in <q><ndash/>ing</q> that acts as a <xref ref="definition-noun"/></p>
+            </li>
+            <li xml:id="definition-infinitives">
+                <title>infinitive</title>
+                <p>a verb form composed of two words: <q>to</q> + [verb]</p>
+            </li>
+            <li xml:id="definition-fractional-expression">
+                <title>fractional expression</title>
+                <p>begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun"/></p>
+            </li>
+            <li xml:id="definition-collective-noun">
+                <title>collective noun</title>
+                <p></p>
+            </li>
+            <li>
+                <title></title>
+                <p></p>
             </li>
         </dl>
     </list>
