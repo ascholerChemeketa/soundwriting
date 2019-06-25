@@ -82,25 +82,20 @@
             <p>For Art History papers, your evidence will be drawn from three types of sources: the visual evidence provided by the work of art that you are analyzing; primary textual sources that date to the same period as your visual evidence; and scholarly secondary sources.  Secondary scholarly sources can provide you with a framework for analysis, or can provide factual information about primary sources that the author used but you may not have easy access to. Secondary sources can also offer an interpretation of the work you are analyzing which you may accept or reject based on your own critical analysis of the work, primary sources, and the scholarly literature. You will need to document the sources of your ideas and information vigorously throughout your paper in order to show what sources you have used for your work; art historians typically use footnotes or endnotes for such purpose.</p>
             <p>Papers that you will write in Studio Art courses will focus primarily on visual evidence, although occasionally primary sources of artists' writings or secondary scholarly sources will also be used.</p>
         </paragraphs>
-        <list>
-            <paragraphs xml:id="writing-art-tips">
-                <title>Conventions and Tips</title>
-            <dl>
+        <paragraphs xml:id="writing-art-tips">
+            <title>Conventions and Tips</title>
+            <ul>
                 <li>
-                    <title>Be selective</title>
-                    <p>When you are writing a visual analysis, keep in mind that you will not be able to describe every detail of the work, so you will need to select the most dominant features that convey the meaning of the work. In organizing a visual analysis, always provide a brief description of the work as a whole before examining specific details of it more fully.</p>
+                    <p>Be selective. When you are writing a visual analysis, keep in mind that you will not be able to describe every detail of the work, so you will need to select the most dominant features that convey the meaning of the work. In organizing a visual analysis, always provide a brief description of the work as a whole before examining specific details of it more fully.</p>
                 </li>
                 <li>
-                    <title>Be descriptive and analytical</title>
-                    <p>When you describe visual features of an artwork in your visual analysis, explain why those aspects of the work contribute to the overall meaning conveyed by the work. Describing a visual feature of an artwork is similar to using quotes in other disciplines, such as History or English.  Just as you do not throw a quote from a primary or secondary source into your text without explaining its importance, do not let the visual evidence speak for itself, since a different viewer might draw different conclusions than what you are getting at.</p>
+                    <p>Be descriptive and analytical. When you describe visual features of an artwork in your visual analysis, explain why those aspects of the work contribute to the overall meaning conveyed by the work. Describing a visual feature of an artwork is similar to using quotes in other disciplines, such as History or English.  Just as you do not throw a quote from a primary or secondary source into your text without explaining its importance, do not let the visual evidence speak for itself, since a different viewer might draw different conclusions than what you are getting at.</p>
                 </li>
                 <li>
-                    <title>Use Chicago</title>
                     <p>Use Chicago Style to format your references in Art History papers.</p>
                 </li>
-            </dl>
-            </paragraphs>
-        </list>
+            </ul>
+        </paragraphs>
         <paragraphs xml:id="writing-art-additional-resources">
             <title>Additional Resources</title>
             <p>Read the sections on <xref ref="writing-for-history" text="title"/> and <xref ref="writing-for-english" text="title"/> of this handbook to gain more understanding about close reading and analysis of primary and secondary sources.</p>
@@ -215,24 +210,22 @@
             <p><q><em>A figure saves a thousand words.</em></q></p>
             <p>Evidence in chemistry<mdash/>as in all natural sciences<mdash/>is exclusively empirical, reproducible data from experiments you have done yourself or from a peer<ndash/>reviewed, scholarly source. As the quote marking this subsection suggests, it can be very helpful to organize your results and explain the context you give in your introduction using figures and tables. These tables and figures are a powerful way to harness your evidence if you pair them with descriptive captions and embed them in the text of your lab report. That said, figures and tables don't <em>replace</em> words: don't include a figure if you don't explain it in text!</p>
         </paragraphs>
-             <paragraphs xml:id="writing-chemistry-tips">
-                <title>Conventions and Tips</title>
-                    <p>
-                    <ul>
-                        <li><p>Don't write from beginning to end. Many students think they should write a report in the order that it appears, but this is often an inefficient way to write a research paper<mdash/>the abstract comes immediately after the title, but it should normally be written last, because it is easier to summarize the research after you've written the entire report and have thus refined your understanding of the research. Although there is no one<ndash/>size<ndash/>fits<ndash/>all approach, here is an order that is usually effective: Organize your thoughts and your data, write the Experimental Section, prepare the important illustrations (<ie/>, Tables, Figures, and Schemes), write the Results section (using the illustrations as a guide), draft an outline of the Discussion section, write the Introduction, complete the Discussion Section, write the Conclusions, add References, write the Title and Abstract.</p></li>
-                        <li><p>Start early and get help if needed. Usually professors won't have time to go over your whole draft, so make sure you go into office hours or send an email with a few specific questions for them to answer.</p></li>
-                        <li><p>Know your audience. You are writing for other chemists with a similar level of knowledge to your own but who are not familiar with the exact experiments you performed. You don't have to go into gory detail about procedures that any chemist should know<mdash/>it is even OK to use a little jargon if it is part of the chemist's lexicon. For example, <q>the reaction was heated at reflux for 2 hours</q> is perfectly clear to any chemist who has taken organic chemistry.</p></li>
-                        <li><p>Delete superfluous words: don't say <q>the melting point <em>was determined to be</em> 198<ndash/>199ºC,</q> say <q>the melting point <em>is</em> 198<ndash/>199ºC.</q></p></li>
-                        <li><p>Chemical names are not capitalized (unless they are trade names).</p></li>
-                        <li><p>All manuscripts should be double<ndash/>spaced (unless told otherwise).</p></li>
-                        <li><p>Use the proper number of significant figures when reporting data.</p></li>
-                        <li><p>Always put a space between a number and its units.</p></li>
-                        <li><p>Always put a zero in front of a decimal value, otherwise a decimal can be mistaken for a period.</p></li>
-                        <li><p>Use the correct citation style.</p></li>
-                        <li><p>Write in pen in your lab notebook. You'll find out why, if you spill something!</p></li>
-                    </ul>
-                </p>
-            </paragraphs>
+         <paragraphs xml:id="writing-chemistry-tips">
+            <title>Conventions and Tips</title>
+            <ul>
+                <li><p>Don't write from beginning to end. Many students think they should write a report in the order that it appears, but this is often an inefficient way to write a research paper<mdash/>the abstract comes immediately after the title, but it should normally be written last, because it is easier to summarize the research after you've written the entire report and have thus refined your understanding of the research. Although there is no one<ndash/>size<ndash/>fits<ndash/>all approach, here is an order that is usually effective: Organize your thoughts and your data, write the Experimental Section, prepare the important illustrations (<ie/>, Tables, Figures, and Schemes), write the Results section (using the illustrations as a guide), draft an outline of the Discussion section, write the Introduction, complete the Discussion Section, write the Conclusions, add References, write the Title and Abstract.</p></li>
+                <li><p>Start early and get help if needed. Usually professors won't have time to go over your whole draft, so make sure you go into office hours or send an email with a few specific questions for them to answer.</p></li>
+                <li><p>Know your audience. You are writing for other chemists with a similar level of knowledge to your own but who are not familiar with the exact experiments you performed. You don't have to go into gory detail about procedures that any chemist should know<mdash/>it is even OK to use a little jargon if it is part of the chemist's lexicon. For example, <q>the reaction was heated at reflux for 2 hours</q> is perfectly clear to any chemist who has taken organic chemistry.</p></li>
+                <li><p>Delete superfluous words: don't say <q>the melting point <em>was determined to be</em> 198<ndash/>199ºC,</q> say <q>the melting point <em>is</em> 198<ndash/>199ºC.</q></p></li>
+                <li><p>Chemical names are not capitalized (unless they are trade names).</p></li>
+                <li><p>All manuscripts should be double<ndash/>spaced (unless told otherwise).</p></li>
+                <li><p>Use the proper number of significant figures when reporting data.</p></li>
+                <li><p>Always put a space between a number and its units.</p></li>
+                <li><p>Always put a zero in front of a decimal value, otherwise a decimal can be mistaken for a period.</p></li>
+                <li><p>Use the correct citation style.</p></li>
+                <li><p>Write in pen in your lab notebook. You'll find out why, if you spill something!</p></li>
+            </ul>
+        </paragraphs>
         <paragraphs xml:id="writing-chemistry-additional-resources">
             <title>Additional Resources</title>
             <p><i>Journal of the American Chemical Society</i>.</p>
@@ -271,19 +264,17 @@
         </paragraphs>
          <paragraphs xml:id="writing-english-tips">
             <title>Conventions and Tips</title>
-            <p>
-                <ul>
-                    <li><p>When you get an essay back, carefully consider the comments your professor has made. Professors put a lot of time and thought into writing them. These comments are a great way not only to improve your writing but also serve as the beginning of a conversation you can have with your professor during office hours.</p></li>
-                    <li><p>Although English writing has a reputation for being florid and ornate, as in every other discipline, good writing is clear writing. Don't use as many adverbs as possible or sacrifice clarity and coherence for an elevated register.</p></li>
-                    <li><p>Make sure you're telling your reader exactly what you want them to think. Don't make your reader intuit your argument.</p></li>
-                    <li><p>If you don't know something, look it up! Answering your own questions is part of the writing process. You have the vast power of the Internet at your fingertips! If you're having trouble doing this on your own, schedule a writing appointment or get in touch with a librarian!</p></li>
-                    <li><p>You can get better with each assignment, but you're not going to become a top<ndash/>tier English scholar in one assignment, or even one semester. Don't get discouraged! Focus on getting better.</p></li>
-                    <li><p>A thesis can be more than one sentence! And it doesn't have to be at the end of the first paragraph.</p></li>
-                    <li><p>You can use the first person, but use it carefully. Use <em>I</em> when you need to acknowledge that your view diverges from others' views or when you need to be clear about some aspect of your methods which you personally did (<em>One</em> did not review a year's worth of newspapers; <em>I</em> did).</p></li>
-                    <li><p>Don't hide behind an <em>I</em> to say that it's just little old me who thinks something, but that it's probably not right; however, some hedging is good! You don't have to <q>prove</q> something beyond a shadow of a doubt; you can be circumspect and use words like <q>suggests</q> or <q>indicates</q> to acknowledge where the evidence isn't strong enough to make a bolder claim.</p></li>
-                    <li><p>Introduce the authors of your secondary sources in text. This helps establish context and shows that you are entering into a conversation with other scholars.</p></li>
-                </ul>
-            </p>
+            <ul>
+                <li><p>When you get an essay back, carefully consider the comments your professor has made. Professors put a lot of time and thought into writing them. These comments are a great way not only to improve your writing but also serve as the beginning of a conversation you can have with your professor during office hours.</p></li>
+                <li><p>Although English writing has a reputation for being florid and ornate, as in every other discipline, good writing is clear writing. Don't use as many adverbs as possible or sacrifice clarity and coherence for an elevated register.</p></li>
+                <li><p>Make sure you're telling your reader exactly what you want them to think. Don't make your reader intuit your argument.</p></li>
+                <li><p>If you don't know something, look it up! Answering your own questions is part of the writing process. You have the vast power of the Internet at your fingertips! If you're having trouble doing this on your own, schedule a writing appointment or get in touch with a librarian!</p></li>
+                <li><p>You can get better with each assignment, but you're not going to become a top<ndash/>tier English scholar in one assignment, or even one semester. Don't get discouraged! Focus on getting better.</p></li>
+                <li><p>A thesis can be more than one sentence! And it doesn't have to be at the end of the first paragraph.</p></li>
+                <li><p>You can use the first person, but use it carefully. Use <em>I</em> when you need to acknowledge that your view diverges from others' views or when you need to be clear about some aspect of your methods which you personally did (<em>One</em> did not review a year's worth of newspapers; <em>I</em> did).</p></li>
+                <li><p>Don't hide behind an <em>I</em> to say that it's just little old me who thinks something, but that it's probably not right; however, some hedging is good! You don't have to <q>prove</q> something beyond a shadow of a doubt; you can be circumspect and use words like <q>suggests</q> or <q>indicates</q> to acknowledge where the evidence isn't strong enough to make a bolder claim.</p></li>
+                <li><p>Introduce the authors of your secondary sources in text. This helps establish context and shows that you are entering into a conversation with other scholars.</p></li>
+            </ul>
         </paragraphs>
         <paragraphs xml:id="writing-english-additional-resources">
             <title>Additional Resources</title>
@@ -321,18 +312,16 @@
         </paragraphs>
         <paragraphs xml:id="writing-history-tips">
             <title>Conventions and Tips</title>
-            <p>
-                <ul>
-                    <li><p>It is fundamental to historical writing that you put your sources in context. Without this contextualization, your analysis may be anachronistic.</p></li>
-                    <li><p>Secondary sources aren't proof. Don't use theories as facts, instead use them to frame your argument rather than <q>prove</q> it.</p></li>
-                    <li><p>Because you want to appeal to non expert readers, avoid jargon. If you absolutely need technical terminology, then be sure to define your terms.</p></li>
-                    <li><p>Avoid the counterfactual. Write about what happened, not what would have, should have, or could have happened.</p></li>
-                    <li><p>Don't make broad claims or generalizations about human nature. Instead work to preserve the particularity of the past.</p></li>
-                    <li><p>When writing historically, chronological order should be your default way to organize, however, don't be limited by chronology if your paper would be clearer organized another way (<eg/>, thematically, by historical figures or groups).</p></li>
-                    <li><p>Write in the past tense!</p></li>
-                    <li><p>Citations are important. Use the Chicago style in general.</p></li>
-                </ul>
-            </p>
+            <ul>
+                <li><p>It is fundamental to historical writing that you put your sources in context. Without this contextualization, your analysis may be anachronistic.</p></li>
+                <li><p>Secondary sources aren't proof. Don't use theories as facts, instead use them to frame your argument rather than <q>prove</q> it.</p></li>
+                <li><p>Because you want to appeal to non expert readers, avoid jargon. If you absolutely need technical terminology, then be sure to define your terms.</p></li>
+                <li><p>Avoid the counterfactual. Write about what happened, not what would have, should have, or could have happened.</p></li>
+                <li><p>Don't make broad claims or generalizations about human nature. Instead work to preserve the particularity of the past.</p></li>
+                <li><p>When writing historically, chronological order should be your default way to organize, however, don't be limited by chronology if your paper would be clearer organized another way (<eg/>, thematically, by historical figures or groups).</p></li>
+                <li><p>Write in the past tense!</p></li>
+                <li><p>Citations are important. Use the Chicago style in general.</p></li>
+            </ul>
         </paragraphs>
         <paragraphs xml:id="writing-history-additional-resources">
             <title>Additional Resources</title>
@@ -371,14 +360,12 @@
         </paragraphs>
         <paragraphs xml:id="writing-music-hist-tips">
             <title>Conventions and Tips</title>
-            <p>
-                <ul>
-                    <li><p>Describing music involves using a series of agreed<ndash/>upon metaphors (e.g. a wet sound v. a dry sound). While such terminology can be daunting, it can be very helpful when writing about sound.</p></li>
-                    <li><p>With the above tip in mind, there is sometimes a misconception that when you are writing about music it has to be really jargon<ndash/>laden and technical. If you are uncomfortable with writing about music, it is always better to say what you have to say clearly rather than throwing words out like a cloud of squid ink.</p></li>
-                    <li><p>Because music takes place in time, there is a tendency to work your way through a piece that you are writing about from beginning to end. Part of mastery is not being stuck doing this kind of <q>inchworm</q> writing. If you notice yourself using <q>and then</q> a lot, think about whether you could organize your thoughts in a more persuasive way.</p></li>
-                    <li><p>Make sure to refer specifically to the measure in a score or the timing in a recording when describing a musical piece.</p></li>
-                </ul>
-            </p>
+            <ul>
+                <li><p>Describing music involves using a series of agreed<ndash/>upon metaphors (e.g. a wet sound v. a dry sound). While such terminology can be daunting, it can be very helpful when writing about sound.</p></li>
+                <li><p>With the above tip in mind, there is sometimes a misconception that when you are writing about music it has to be really jargon<ndash/>laden and technical. If you are uncomfortable with writing about music, it is always better to say what you have to say clearly rather than throwing words out like a cloud of squid ink.</p></li>
+                <li><p>Because music takes place in time, there is a tendency to work your way through a piece that you are writing about from beginning to end. Part of mastery is not being stuck doing this kind of <q>inchworm</q> writing. If you notice yourself using <q>and then</q> a lot, think about whether you could organize your thoughts in a more persuasive way.</p></li>
+                <li><p>Make sure to refer specifically to the measure in a score or the timing in a recording when describing a musical piece.</p></li>
+            </ul>
         </paragraphs>
         <paragraphs xml:id="writing-music-hist-additional-resources">
             <title>Additional Resources</title>
@@ -418,12 +405,10 @@
         </paragraphs>
         <paragraphs xml:id="writing-psychology-tips">
             <title>Conventions and Tips</title>
-            <p>
-                <ul>
-                    <li><p>Psychology writing operates on the sometimes subtle differentiation between broad generalizations and possible explanations. For this reason, writing in psychology relies on the <q>tentative tone.</q> Don't say <q>love is dangerous,</q> instead say <q>love can be dangerous</q> and add supporting evidence, allowing room for other conclusions.</p></li>
-                    <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. Cite them, but don't introduce them formally.</p></li>
-                </ul>
-            </p>
+            <ul>
+                <li><p>Psychology writing operates on the sometimes subtle differentiation between broad generalizations and possible explanations. For this reason, writing in psychology relies on the <q>tentative tone.</q> Don't say <q>love is dangerous,</q> instead say <q>love can be dangerous</q> and add supporting evidence, allowing room for other conclusions.</p></li>
+                <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. Cite them, but don't introduce them formally.</p></li>
+            </ul>
         </paragraphs>
         <paragraphs xml:id="writing-psychology-additional-resources">
             <title>Additional Resources</title>
@@ -460,37 +445,35 @@
         </paragraphs>
         <paragraphs xml:id="par-ipe-writing-conventions">
             <title>Conventions and Tips</title>
-            <p>
-                <ul>
-                    <li>
-                        <p>Use the Chicago citation style unless otherwise directed by your professor. If in doubt, ask what they prefer.</p>
-                    </li>
-                    <li>
-                        <p>Make sure to read over your professor’s feedback on drafts and take the time to learn from their comments and make their suggested changes. They spend a lot of time giving feedback so not only is it respectful but it’s arguably the process that helps your writing grow the most.</p>
-                    </li>
-                    <li>
-                        <p>Learning the difference between an opinion and an argument is key for writing a strong <init>IPE</init> paper. An opinion is based on values or beliefs and doesn’t necessarily have to be supported with evidence. You can disregard all of the evidence to the contrary and still hold onto your opinion. An argument must be something about which other reasonable parties could disagree and it must be supportable with evidence. When writing an <init>IPE</init> paper, don’t take off running with your first opinion and try to find sources to support it. Instead, take the time to read sources and build an argument before writing.</p>
-                    </li>
-                    <li>
-                        <p>You should not start your paper with broad generalizations such as <q>since the dawn of time<nbsp/><ellipsis/></q> (see <xref ref="par-process-openings-to-avoid"/>). While your paper should be accessible to any college educated reader, it’s important to begin with the topic your paper is actually about.</p>
-                    </li>
-                    <li>
-                        <p>There are few <init>IPE</init> specific writing conventions because <init>IPE</init> is not a distinct discipline per se, but social science writing conventions should be followed. Active and passive voices are both generally okay (though see <xref ref="style-using-passive-cautiously"/>), and sometimes first person is allowed as well. Different professors will have different preferences, so check in with them about the writing style they prefer.</p>
-                    </li>
-                    <li>
-                        <p>Your professors may disagree about aspects of your paper (such as having a roadmap sentence in your introduction) or emphasize different features (such as having a contained introduction). These are all great opportunities to visit your professor’s office hours and ask them about their writing preferences.</p>
-                    </li>
-                    <li>
-                        <p>Be aware that some words, such as <q>liberal,</q> carry a different meaning in <init>IPE</init> than in the general public. When using <init>IPE</init> terminology, make sure that you know its meaning in the field.</p>
-                    </li>
-                    <li>
-                        <p>The amount of research you do indicates to your professor how much effort you have put into your paper; often professors look at the reference page before reading your paper to get a sense of the scope and depth of your research. Therefore, to write a strong paper you should do a lot of research, go well above the minimum number of sources required, and cite everything!</p>
-                    </li>
-                    <li>
-                        <p><init>IPE</init> papers can be very long, and the secret to not getting paralyzed by their length is to break your work into chunks. Start early and set small deadlines for yourself. You should not write these papers in one sitting; rather, your professors expect you to build your paper and argument over time.</p>
-                    </li>
-                </ul>
-            </p>
+            <ul>
+                <li>
+                    <p>Use the Chicago citation style unless otherwise directed by your professor. If in doubt, ask what they prefer.</p>
+                </li>
+                <li>
+                    <p>Make sure to read over your professor’s feedback on drafts and take the time to learn from their comments and make their suggested changes. They spend a lot of time giving feedback so not only is it respectful but it’s arguably the process that helps your writing grow the most.</p>
+                </li>
+                <li>
+                    <p>Learning the difference between an opinion and an argument is key for writing a strong <init>IPE</init> paper. An opinion is based on values or beliefs and doesn’t necessarily have to be supported with evidence. You can disregard all of the evidence to the contrary and still hold onto your opinion. An argument must be something about which other reasonable parties could disagree and it must be supportable with evidence. When writing an <init>IPE</init> paper, don’t take off running with your first opinion and try to find sources to support it. Instead, take the time to read sources and build an argument before writing.</p>
+                </li>
+                <li>
+                    <p>You should not start your paper with broad generalizations such as <q>since the dawn of time<nbsp/><ellipsis/></q> (see <xref ref="par-process-openings-to-avoid"/>). While your paper should be accessible to any college educated reader, it’s important to begin with the topic your paper is actually about.</p>
+                </li>
+                <li>
+                    <p>There are few <init>IPE</init> specific writing conventions because <init>IPE</init> is not a distinct discipline per se, but social science writing conventions should be followed. Active and passive voices are both generally okay (though see <xref ref="style-using-passive-cautiously"/>), and sometimes first person is allowed as well. Different professors will have different preferences, so check in with them about the writing style they prefer.</p>
+                </li>
+                <li>
+                    <p>Your professors may disagree about aspects of your paper (such as having a roadmap sentence in your introduction) or emphasize different features (such as having a contained introduction). These are all great opportunities to visit your professor’s office hours and ask them about their writing preferences.</p>
+                </li>
+                <li>
+                    <p>Be aware that some words, such as <q>liberal,</q> carry a different meaning in <init>IPE</init> than in the general public. When using <init>IPE</init> terminology, make sure that you know its meaning in the field.</p>
+                </li>
+                <li>
+                    <p>The amount of research you do indicates to your professor how much effort you have put into your paper; often professors look at the reference page before reading your paper to get a sense of the scope and depth of your research. Therefore, to write a strong paper you should do a lot of research, go well above the minimum number of sources required, and cite everything!</p>
+                </li>
+                <li>
+                    <p><init>IPE</init> papers can be very long, and the secret to not getting paralyzed by their length is to break your work into chunks. Start early and set small deadlines for yourself. You should not write these papers in one sitting; rather, your professors expect you to build your paper and argument over time.</p>
+                </li>
+            </ul>
         </paragraphs>
         <paragraphs xml:id="par-ipe-writing-resources">
             <title>Additional Resources</title>

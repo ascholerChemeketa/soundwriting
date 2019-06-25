@@ -124,7 +124,7 @@
             <p>You might be muttering to yourself, <q>But reading is enough work!</q> But know that active reading helps you understand and remember what a text says the first time you read it, so you don't have to waste your time reading the same paragraph over and over again. Plus, having a pen in your hand as you read makes it easier for you to write funny comments in the margins as you get frustrated (we all do it). Just be careful not to fall asleep with your pen uncapped. <ellipsis/></p>
         </subsection>
         <subsection xml:id="reading-types-critical">
-            <title>Critical Reading</title>
+            <title>Reading Critically</title>
             <p>No matter the type or purpose of a source, the reading you'll be doing for your Puget Sound courses will almost always be critical. Reading critically means that you do far more than read the words on a page<mdash/>you engage with them by thinking about them. As you will read in <xref ref="forming-your-argument"/>, academic writing is all about participating in larger scholarly conversations. This participation is largely about making argumentative claims and supporting them with evidence in order to convince an audience of those claims. When you read an academic work, then, you're also participating in the scholarly conversation around that work. As a result, reading critically requires you to read and evaluate the author's claims and evidence. While it isn't your job to treat your sources as if you were a movie or restaurant critic, you should be aware of the places in which the author's argument is unconvincing, contradictory, or contentious. (Note: Critical reading for some primary sources can be slightly different, but we will address those differences in the <q>close reading</q> section that follows.)</p>
             <list xml:id="list-reading-reading-critically">
                 <title>Ways to Read Critically</title>
@@ -166,34 +166,62 @@
                     </li>
                 </dl>
             </list>
-            <p>Below are some questions to consider as you go about evaluating claims, evidence, and the source as a whole:<ul>
-                <li><p>Do the author's connections between their claims and their evidence make sense?</p></li>
-                <li><p>Is their evidence valid for and accepted by the discipline in which they're writing?</p></li>
-                <li><p>Does the author's argument contradict, support, or deviate from other arguments you've read? If so, which argument is more convincing? Why?</p></li>
-                <li><p>Are there any points you can argue against? Or any points that support another argument you want to make? In what ways can this source be useful to you?</p></li>
-            </ul></p>
+            <assemblage>
+                <title>Helpful Questions for Evaluating Sources</title>
+                <p>
+                    <ul>
+                        <li><p>Do the author's connections between their claims and their evidence make sense?</p></li>
+                        <li><p>Is their evidence valid for and accepted by the discipline in which they're writing?</p></li>
+                        <li><p>Does the author's argument contradict, support, or deviate from other arguments you've read? If so, which argument is more convincing? Why?</p></li>
+                        <li><p>Are there any points you can argue against? Or any points that support another argument you want to make? In what ways can this source be useful to you?</p></li>
+                    </ul>
+                </p>
+            </assemblage>
             <paragraphs>
                 <title>Close Reading</title>
                 <p>Close reading most frequently occurs in literary studies, but you can also use close reading skills for other disciplines, such as history or sociology. Like reading critically and actively, reading closely enables you to engage with the text on a much deeper level than if you simply skimmed or scanned it. Using the critical and active reading skills you've developed, you now need to add in an additional component: close analysis. You perform a close analysis of a formal text in the same way you would agonize over the meaning of the word <q>okay</q> in a text message from your new romantic interest. In both cases, <q>close analysis</q> means that you are reading a relatively small portion of text in extreme detail. Perhaps the most important thing to remember about close readings is that you are not only trying to describe the text. While describing the text may be an important part of your analysis, you need to do just that<mdash/>analyze! Your analysis extends beyond the literal meaning of the words on the page to the underlying meaning the writer is conveying.</p>
                 <sidebyside width="50%">
                     <image source="images/HR-NewRomanticInterest"/>
                 </sidebyside>
-                <p>Consider asking yourself these questions as you do a close reading:<ul>
-                    <li><p>What is the author saying? Is the message clear? What does it mean?</p></li>
-                    <li><p>Do I see any patterns?</p></li>
-                    <li><p>Is the text in first person? Second? Third?</p></li>
-                    <li><p>Does anything about the grammar or sentence structure stick out?</p></li>
-                    <li><p>What literary devices does the author use<mdash/><eg/>, metaphor, simile, hyperbole, imagery, personification, alliteration, allusion, euphony or cacophony, symbolism, irony, <etc/>? (No matter what you notice, there's probably a fancy word that describes it: parataxis? anagnorisis? epanalepsis? What the<mdash/>?!)</p></li>
-                    <li><p>If the text is a poem, what meter, rhythm, and rhyme scheme is the author using? Even if the text isn't a poem, are there any phonetic patterns or rhythms?</p></li>
-                    <li><p>Are there any words you don't know? (If so, look them up!)</p></li>
-                    <li><p>Is any type of character or plot development happening in the passage?</p></li>
-                    <li><p>What is the relationship between content and form in the passage? How do the passage's formal features inflect the meaning of the passage?</p></li>
-                </ul></p>
+                <assemblage>
+                    <title>Helpful Questions for Reading Closely</title>
+                    <p>
+                        <ul>
+                            <li>
+                                <p>What is the author saying? Is the message clear? What does it mean?</p>
+                            </li>
+                            <li>
+                                <p>Do I see any patterns?</p>
+                            </li>
+                            <li>
+                                <p>Is the text in first person? Second? Third?</p>
+                            </li>
+                            <li>
+                                <p>Does anything about the grammar or sentence structure stick out?</p>
+                            </li>
+                            <li>
+                                <p>What literary devices does the author use<mdash/><eg/>, metaphor, simile, hyperbole, imagery, personification, alliteration, allusion, euphony or cacophony, symbolism, irony, <etc/>? (No matter what you notice, there's probably a fancy word that describes it: parataxis? anagnorisis? epanalepsis? What the<mdash/>?!)</p>
+                            </li>
+                            <li>
+                                <p>If the text is a poem, what meter, rhythm, and rhyme scheme is the author using? Even if the text isn't a poem, are there any phonetic patterns or rhythms?</p>
+                            </li>
+                            <li>
+                                <p>Are there any words you don't know? (If so, look them up!)</p>
+                            </li>
+                            <li>
+                                <p>Is any type of character or plot development happening in the passage?</p>
+                            </li>
+                            <li>
+                                <p>What is the relationship between content and form in the passage? How do the passage's formal features inflect the meaning of the passage?</p>
+                            </li>
+                        </ul>
+                    </p>
+                </assemblage>
                 <p>The text that you have read closely is your evidence. To convince your audience of your argument, you must take careful and detailed notes (<ie/>, doing careful and detailed active reading). By including all of the necessary analysis and textual examples, you can tell your reader exactly how you've interpreted a passage.</p>
             </paragraphs>
         </subsection>
         <subsection xml:id="reading-types-science">
-            <title>Science Reading</title>
+            <title>Reading in the Sciences</title>
                 <p>Reading in the sciences (social, earth, hard, soft, or otherwise) can be a whole different beast than reading literature, historical documents, or humanities-based secondary sources. If you've ever tried to read a peer reviewed scientific article you may have found yourself feeling lost and confused by the technical words and abbreviations. But have no fear! By using the following strategies, you can become a savvy reader of scientific articles.</p>
             <list xml:id="list-reading-strategies-sciences">
                 <title>Strategies for Reading in the Sciences</title>
@@ -268,7 +296,6 @@
             </ul>
         </list>
         <insight>
-            <!-- <title>Tip</title> -->
             <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">Center for Writing, Learning, and Teaching</url> (<init>CWLT</init>)!</p>
         </insight>
         <sidebyside width="50%">
@@ -276,7 +303,6 @@
         </sidebyside>
         <p>Highlight and underline enough, but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
         <insight>
-            <!-- <title>Tip</title> -->
             <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you think they are interesting and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>
         </insight>
         <paragraphs>
@@ -298,7 +324,7 @@
             <paragraphs>
                 <title>The Purpose</title>
                     <p>When approaching an assignment, it's useful to identify the purpose of the assignment. Asking yourself, <q>Why did Professor <fillin/> assign this essay?</q> can help you understand what your professor wants you to get out of this assignment. Often, professors assign written work to clarify your thinking on a topic or concept, sharpen some relevant academic skill, or both. Thus, your English professor might ask you to write an essay about Gertrude Stein to give you practice deciphering ambiguous poetry, or your sociology professor might ask you to write an autoethnography to personalize the connection between, for instance, dorm life and capitalism. Knowing why you're writing a paper<mdash/>that is, knowing that your professor is not sadistically assigning work<mdash/>actually makes writing the paper easier.</p>
-            </paragraphs>>
+            </paragraphs>
             <paragraphs>
                 <title>The Work to be Done</title>
                     <p>Now that you've figured out the purpose of the assignment, it's time to identify what the assignment is asking you to do. To do so, pay attention to the active verbs of the prompt. If your prompt asks you to <q><em>Analyze</em> Lewis Carroll's <pubtitle>Alice's Adventures in Wonderland</pubtitle>,</q> make sure your essay is founded on textual analysis. If your prompt asks you to <q><em>Compare</em> the timelines of the Korean War and the Vietnam War,</q> make sure your paper compares. Identifying these active verbs can can give you a basic sense of how your professor will evaluate your essay<mdash/>Does it analyze the novel? Does it compare the wars?<mdash/>and can guide your writing to meet those expectations.</p>

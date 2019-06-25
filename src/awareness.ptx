@@ -18,17 +18,18 @@
         <title>Writing with Respect</title>
         <p>Writing with respect is a crucial component of writing with awareness. By demonstrating to your readers that you strive to be aware and respectful of their various identities and experiences, you make your writing more inclusive and inviting<mdash/>and make it more likely that your audience will engage with your ideas.</p>
         <p>To write respectfully about other people, it is helpful to be aware of our own identities and positionalities. We are all informed by our experiences, and it is not always easy to recognize how our cultural lenses affects our world<ndash/>views. We are all, to some degree, ethnocentric; we know our own culture (and gender, ability, race, sexuality, class, religion, <etc />) best, and we cannot help but view and evaluate other cultures through our own experiences; we may even implicitly consider our own identity to be superior to that of others, and it may take explicit attention to remember that there are other equally valid lifestyles and experiences. In order to write with awareness, then, we should avoid writing ethnocentrically.</p>
-        <assemblage><title>Here are some questions to ask yourself as you write</title>
-        <p>
-            <ul>
-                <li>Am I making broad generalizations, or do I write with complexity and nuance about people who are different than me? Am I considering other perspectives respectfully rather than in a patronizing or paternalistic way?</li>
-                <li>Am I making value judgments about other ways of living? If so, are they appropriate to the specific discipline or course for which I'm writing?</li>
-                <li>Do I use thorough and fair scholarly sources?</li>
-                <li>Are all of my claims supported with evidence?</li>
-                <li>Do my warrants (the logic connecting my evidence to my claims) rely on Western/American definitions or world<ndash />views (for example, evidence: a certain group of people still uses hunting and gathering as its primary mode of subsistence; claim: people in this group are uncivilized; warrant: <q>civilization</q> is defined by advanced agriculture)?</li>
-                <li>Am I aware of my own cultural biases and mindful about how they might affect my scholarship and language choices?</li>
-            </ul>
-        </p>
+        <assemblage>
+            <title>Helpful Questions for Writing Respectuflly</title>
+            <p>
+                <ul>
+                    <li>Am I making broad generalizations, or do I write with complexity and nuance about people who are different than me? Am I considering other perspectives respectfully rather than in a patronizing or paternalistic way?</li>
+                    <li>Am I making value judgments about other ways of living? If so, are they appropriate to the specific discipline or course for which I'm writing?</li>
+                    <li>Do I use thorough and fair scholarly sources?</li>
+                    <li>Are all of my claims supported with evidence?</li>
+                    <li>Do my warrants (the logic connecting my evidence to my claims) rely on Western/American definitions or world<ndash />views (for example, evidence: a certain group of people still uses hunting and gathering as its primary mode of subsistence; claim: people in this group are uncivilized; warrant: <q>civilization</q> is defined by advanced agriculture)?</li>
+                    <li>Am I aware of my own cultural biases and mindful about how they might affect my scholarship and language choices?</li>
+                </ul>
+            </p>
         </assemblage>
         <paragraphs xml:id="par-write-respect-historical-baggage">
             <title>Historical Baggage</title>
@@ -440,8 +441,6 @@
                 </example>
                 <p>Writing about socioeconomic status or class without acknowledging inequalities in opportunities does injustice to the people that those inequalities affect. Avoiding classist language is an important step toward changing the classist ideologies that underlie and reproduce the structural inequalities that lead to economic disparity.</p>
             </paragraphs>
-
-<!-- Although there aren't clear guidelines to follow, we next give you a few helpful definitions and terms to avoid to get you started writing more inclusively. -->
             <list xml:id="list-socioeconomic-inclusivity-guidelines">
                 <title>Strategies for Writing with Socioeconomic Inclusivity in Mind</title>
                 <ul>
@@ -563,7 +562,7 @@
             <p>We can better understand the status of <init>SAE</init> and the role of linguistic diversity in advancing equity and inclusion by considering the history of African American English (<init>AAE</init>), a variety of English spoken by some African Americans. <init>AAE</init> has been researched and written about extensively, more than other varieties of English, and two respected scholars of <init>AAE</init> are John Rickford of Stanford University and Geneva Smitherman of Michigan State University. Like most spoken languages, <init>AAE</init> is rule<ndash/>governed and systematic, although the system is too complicated and vast to summarize here. Today, <init>AAE</init> is accepted as a variety of English, but it was rejected as a language in the past and it has been and continues to be maligned using racist ideas about black speech and intelligence. Two highly politicized cases about the use of <init>AAE</init> in public schools are <url href="https://law.justia.com/cases/federal/district-courts/FSupp/473/1371/2148458/"><pubtitle>Martin Luther King Jr. Elementary School Children v. Ann Arbor School District Board</pubtitle></url> from 1979 and <url href="https://www.nytimes.com/1996/12/21/us/black-english-plan-baffles-some-students-in-oakland.html"><em>Oakland Unified School District's 1996 resolution</em></url> to use <init>AAE</init>. In both cases, the use of <init>AAE</init> by educators as a way to affirm the validity of <init>AAE</init> and to help students learn <init>SAE</init> was considered controversial. It is helpful to know this history when considering <init>AAE</init> in academic contexts.</p>
             <p>In addition to <init>SAE</init>, other rule<ndash/>governed varieties of American English include Chicano English (also called Mexican American English), Cajun English, Hawaiian Pidgin (also called Hawaiian Pidgin English and Hawaiian Creole English), and Southern White American English. These varieties of English not only have some different vocabulary than <init>SAE</init> but also<mdash/>and more importantly<mdash/>have some different grammatical rules than <init>SAE</init>. American Sign Language (<init>ASL</init>), too, has a different grammatical structure than written <init>SAE</init>.</p>
             <assemblage>
-                <title>Questions to ask yourself to engage with linguistic diversity equitably</title>
+                <title>Helpful Questions for Embracing Linguistic Diversity</title>
                 <p>
                     <ul>
                         <li>Do I assume the English that I speak and write is the only way to communicate ideas?</li>
