@@ -15,6 +15,7 @@
             <p>Developing your argument to fulfill all of these requirements is a difficult process and may even seem insurmountable at times. But don't despair! Here are some basic things that every argument should have, regardless of writing type or discipline.</p>
         </introduction>
         <subsection xml:id="main-claim">
+            <title>Main Claim</title>
             <p>Every argument should be guided by a main point or central message.</p>
             <insight>
                 <p>If you don't know your main claim, try asking yourself questions like, <q>What is my main argument?</q> and <q>What am I trying to prove or disprove?</q></p>
@@ -103,7 +104,7 @@
     <section xml:id="thesis-development">
         <title>Developing a Thesis</title>
         <introduction>
-            <p>So you've been given a writing assignment. You've read <xref ref="how-to-read-writing-prompts"/>, and you've begun thinking about the components of a good argument, but now what? In order to structure your paper effectively and to know what supporting claims it needs, you need to have a <term>main claim</term> or <term>thesis</term>. A thesis is an argumentative, contestable statement that tells an audience exactly what a writer intends to argue (for more information, see <xref ref="the-bubble-map"/>).</p>
+            <p>So you've been given a writing assignment. You've read <xref ref="how-to-read-writing-prompts"/>, and you've begun thinking about the components of a good argument, but now what? In order to structure your paper effectively and to know what supporting claims it needs, you need to have a <xref ref="main-claim"/> or <term>thesis</term>. A thesis is an argumentative, contestable statement that tells an audience exactly what a writer intends to argue (for more information, see <xref ref="the-bubble-map"/>).</p>
             <sidebyside width="50%">
                 <image source="images/AD-Car"/>
             </sidebyside>
@@ -119,6 +120,9 @@
         </introduction>
         <subsection xml:id="thesis-dev-six-steps">
             <title>The Six<ndash/>Step Process</title>
+            <sidebyside width="50%">
+                <image source="images/AD-ThesisDevelopment"/>
+            </sidebyside>
             <list xml:id="list-argument-six-step">
                 <title>The Six<ndash/>Step Process</title>
                 <ol>
@@ -146,23 +150,16 @@
                     <li xml:id="par-six-step-listen">
                         <p><em>Listen to the evidence.</em></p>
                         <p>The evidence will guide you to your claim<mdash/>let it! While it may be tempting to pick and choose evidence that supports the claim that you want to make, strong academic argumentation requires researchers to make claims validated and substantiated by a fair and thorough examination of the available evidence. By listening to the evidence, you ensure that your claim answers your question honestly and opens a dialogue with which other researchers can engage.</p>
-                        <p>
-                            <sidebyside width="50%">
-                                <image source="images/AD-ThesisDevelopment"/>
-                            </sidebyside>
-                        </p>
                     </li>
                     <li xml:id="par-six-step-develop">
                         <p><em>Develop a working thesis.</em></p>
                         <p>The claim you devised in Step 5 will become your working thesis. A working thesis is the initial thesis you come up with, and it will guide your subsequent research. That research will, in turn, help you reformulate your working thesis as your research changes and your understanding of your topic, evidence, and main claim shifts. Your research isn't done when you formulate your working thesis, so keep researching and rewriting!</p>
-                        <p>
-                            <sidebyside width="50%">
-                                <image source="images/AD-WorkingThesisResearch"/>
-                            </sidebyside>
-                        </p>
                     </li>
                 </ol>
             </list>
+            <sidebyside width="50%">
+                <image source="images/AD-WorkingThesisResearch"/>
+            </sidebyside>
             <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready?</p>
             <list xml:id="lsit-argument-MORE">
                 <title>Do <acro>MORE</acro></title>
@@ -219,9 +216,9 @@
             <title>Helpful Questions for Organizing your Argument</title>
             <p>
                 <ul>
-                    <li><p><q>What pieces of your argument does an audience need in order to make sense of the following parts?</q></p></li>
-                    <li><p><q>Do the pieces of your argument need to build on each other in a certain way?</q></p></li>
-                    <li><p><q>Should you organize your supporting claims chronologically? By order of importance?</q></p></li>
+                    <li><p>What pieces of your argument does an audience need in order to make sense of the following parts?</p></li>
+                    <li><p>Do the pieces of your argument need to build on each other in a certain way?</p></li>
+                    <li><p>Should you organize your supporting claims chronologically? By order of importance?</p></li>
                 </ul>
             </p>
         </assemblage>
