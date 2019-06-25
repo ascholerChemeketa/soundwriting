@@ -15,7 +15,10 @@
 
 <xsl:output method="html" />
 
-<xsl:param name="html.css.file" select="'mathbook-ups.css'"/>
+<!-- maroon_grey color scheme is UPS colors     -->
+<!-- NB: switch will change at some point later -->
+<xsl:param name="debug.colors" select="'maroon_grey'"/>
+
 <xsl:param name="html.knowl.example" select="'yes'"/>
 
 <xsl:param name="chunk.level" select="'3'" />
