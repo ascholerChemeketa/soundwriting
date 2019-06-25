@@ -23,6 +23,8 @@
 
 <xsl:param name="chunk.level" select="'3'" />
 
+<xsl:param name="html.google-search" select="'006554281949096578650:uk_1tz_o6ey'" />
+
 <!-- Make marked <p>s hanging indented for citiation chapter. -->
 <xsl:template match="p[@indent='hanging']" mode="body">
     <xsl:param name="block-type" />
