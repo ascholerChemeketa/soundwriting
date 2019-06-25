@@ -6,8 +6,8 @@
         <p>Before diving into what all that vague philosophical mumbo<ndas/>jumbo actually means, let's consider a few counterexamples of good use of <pretext/> to show you how you might find a way to make the handbook <em>look</em> good without actually abiding by good authoring principles.</p>
         <example xml:id="ex-ag-tag-abuse-em">
             <title>It's all just italics, right?</title>
-            <p>Suppose you're writing something, and you want to <em>really stress</em> the importance of a particular point. So you put it in italics, like we did. Great. Later, you're talking about your favorite book, <pubtitle>Harry Potter</pubtitle><fn>Yeah, like you're the <em>first person</em> in the <init>CWLT</init> whose favorite book is <pubtitle>Harry Potter</pubtitle><nbsp/><ellipsis/></fn>, so you put that in italics too. Only you <alert>don't</alert>. You're using italics for two different purposes, so because you're now thinking like an author in a markup language, you don't think <q>ah, I want them to both <em>be</em> italicized,</q> like you would if you were writing in <init>MS</init> Word. Instead, you noticed that the first use of italics (<q>really stress</q>) was <em>emphasizing</em> a point, so you used the <c>&lt;em&gt;</c> <term>tag</term> to indicate to the publisher of the handbook, <q>this text should stand apart because it is important for the reader to recognize it as important.</q> In theory, the publisher could decide that italics are gauche and make the calll to put all of the text that you said shoudl be emphasized in bold, rather than italics, and <em>that stylistic choice would not interfere with how you communicate content to your reader.</em></p>
-            <p>In the second use of italics (<q>Harry Potter</q>), you were not emphasizing the title of a book, you were trying to follow the rule about italicizing the titles of books and similar publications. Again, this is a good way to think if you're writing in a program like Microsoft Word, but it's not a good way to think in a markup language because you focused on how you wanted something to look, not on what kind of text it was and <em>why</em> you wanted it to look a certain way. In this case, we want to make it clear to the reader that <pubtitle>Harry Potter</pubtitle> is a book, so we wrap it in the <c>&lt;pubtitle&gt;</c> tag. So even though <em>(1) Harry Potter</em> and <pubtitle>(2) Harry Potter</pubtitle> might both look the same right now, (1) has italics because it is emphasized, and (2) has italics because it is demarkated as a publication. If a future publisher decided that publications should be underlined, not italicized, (1) would not get this handbook<ndash/>wide style update because the author did not correctly take advantage of the fact that they were writing in a markup language.</p>
+            <p>Suppose you're writing something, and you want to <em>really stress</em> the importance of a particular point. So you put it in italics, like we did. Great. Later, you're talking about your favorite book, <pubtitle>Harry Potter</pubtitle><fn>Yeah, like you're the <em>first person</em> in the <init>CWLT</init> whose favorite book is <pubtitle>Harry Potter</pubtitle><nbsp/><ellipsis/></fn>, so you put that in italics too. Only you <alert>don't</alert>. You're using italics for two different purposes, so because you're now thinking like an author in a markup language, you don't think <q>ah, I want them to both <em>be</em> italicized,</q> like you would if you were writing in <init>MS</init> Word. Instead, you noticed that the first use of italics (<q>really stress</q>) was <em>emphasizing</em> a point, so you used the <tag>em</tag> <term>tag</term> to indicate to the publisher of the handbook, <q>this text should stand apart because it is important for the reader to recognize it as important.</q> In theory, the publisher could decide that italics are gauche and make the calll to put all of the text that you said shoudl be emphasized in bold, rather than italics, and <em>that stylistic choice would not interfere with how you communicate content to your reader.</em></p>
+            <p>In the second use of italics (<q>Harry Potter</q>), you were not emphasizing the title of a book, you were trying to follow the rule about italicizing the titles of books and similar publications. Again, this is a good way to think if you're writing in a program like Microsoft Word, but it's not a good way to think in a markup language because you focused on how you wanted something to look, not on what kind of text it was and <em>why</em> you wanted it to look a certain way. In this case, we want to make it clear to the reader that <pubtitle>Harry Potter</pubtitle> is a book, so we wrap it in the <tag>pubtitle</tag> tag. So even though <em>(1) Harry Potter</em> and <pubtitle>(2) Harry Potter</pubtitle> might both look the same right now, (1) has italics because it is emphasized, and (2) has italics because it is demarkated as a publication. If a future publisher decided that publications should be underlined, not italicized, (1) would not get this handbook<ndash/>wide style update because the author did not correctly take advantage of the fact that they were writing in a markup language.</p>
         </example>
         <p>At this point, if you have not yet read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url> and bookmarked the <pretext/> page at <url href="https://pretextbook.org/"> <c>pretextbook.org</c></url>, <alert>STOP READING AND DO SO RIGHT NOW.</alert> The resources provided on the <pretext/> webside, including the <url href="https://pretextbook.org/doc/publisher-guide/html/index.html">Publisher's Guide</url>, the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url>, and the <url href="https://pretextbook.org/examples/sample-article/html/index.html"> Sample Article</url> will be invaluable to you as a novice <pretext/> author. The sample article is particularly useful becasue you can look directly at the <init>XML</init> file in <c>mathbook/examples/sample-article/sample-article.xml</c>.</p>
     </introduction>
@@ -17,22 +17,62 @@
         <introduction>
             <p>This section is dedicated to general consistency principles that have been established after lots of careful thought about how the content of the handbook is structured overall.</p>
             <note>
-                <p>In the <init>XML</init> markup language, content is categorized (and later formatted) based on how it is marked with <term><init>XML tags</init></term>. In most cases, you must <q>wrap</q> text in an opening tag and a closing tag, where the opening tag is always wrapped in angle brackets (like this <c>&lt;keyword&gt;</c>) and the closing tag is nearly identical but follows the opening bracket with a forward slash (like this <c>&lt;/keyword&gt;</c>). The one exception to this general principle is that some special keywords require only a single tag, so if you want to talk aobut the document markup language <latex/>, you need only write <c>&lt;latex/&gt;</c>. If you're using Sublime Text to edit the text of the handbook, you can automatically close any open tag by typing <c>&lt;/</c>; the program will autofill the closing tag for the most recently opened tag. Throughout this Author's Guide, whenever instructions are provided about using a tag, only the opening tag is provided. <alert>You should assume that a closing tag formatted as described above is also required.</alert></p>
+                <p>In the <init>XML</init> markup language, content is categorized (and later formatted) based on how it is marked with <term><init>XML tags</init></term>. In most cases, you must <q>wrap</q> text in an opening tag and a closing tag, where the opening tag is a word in angle brackets (like this <tag>tag</tag>) and the closing tag is nearly identical but follows the opening bracket with a forward slash (like this <tag>/tag</tag>). The one exception to this general principle is that some special keywords require only a single tag, so if you want to talk aobut the document markup language <latex/>, you need only write <tag>latex/</tag>. If you're using Sublime Text to edit the text of the handbook, you can automatically close any open tag by typing <c>&lt;/</c>; the program will autofill the closing tag for the most recently opened tag. Throughout this Author's Guide, whenever instructions are provided about using a tag, only the opening tag is provided. <alert>You should assume that a closing tag formatted as described above is also required.</alert></p>
             </note>
         </introduction>
         <subsection>
             <title>Comments on Tag Use</title>
-            <p>idk where to put this but description lists should always have a LOWERCASE title so that cross refs can be incorporated into sentences...right?</p>
-            <p>NO putting numbered item in other numbered item</p>
+            <list xml:id="list-ag-dos-donts">
+                <title>Collection of <q>Do's</q> and <q>Don'ts</q></title>
+                <ol>
+                    <li>
+                        <p>When making a description list (<tag>dl</tag>), you should always leave the <tag>title</tag> of each list item <alert>lowercase</alert> since these titles are often cross<ndash/>referenced within a sentence.</p>
+                    </li>
+                    <li>
+                        <p><alert>DO NOT</alert> use a default dash (-) rather than an <tag>ndash</tag> (<ndash/>) within the text <alert>unless</alert> you are writing something in the verbatim <tag>c</tag> tag that the reader should interpret as literal keyboard input.</p>
+                    </li>
+                    <li>
+                        <p>You should not put a <q>numbered</q> block within another numbered block. So an <tag>example</tag> should never go in a <tag>list</tag>, for example. This is a rule that we have not necessarily abided by in every scenario, but it remains a long<ndash/> term goal for the handbook.</p>
+                    </li>
+                </ol>
+            </list>
         </subsection>
-        <subsection>
+        <subsection xml:id="general-principles-using-paragraphs">
             <title>Using Paragraphs</title>
-            <p>The <c>&lt;paragraphs&gt;</c> tag, which is also the most granular <q>division</q> possible in <pretext/>, is a useful way of collecting a few <q>paragraphs</q> of thought under a heading. You can think of it a little bit like a sub<em>sub<em>sub</em></em>section. Paragraphs have a <c>&lt;title&gt;</c>, and you shoudl treat this title as such: obey capitalization rules consistent with other titles in the handbook, make sure that the tile is as concise and precise as possible and that it appropriately introduces the topic that is discussed in the following paragraphs (<c>&lt;p&gt;</c>). Above all, <alert>DO NOT</alert> use the <c>&lt;paragraphs&gt;</c> structure to just put a sentence in bold, as this is <term>tag abuse</term><mdash/>you're making decisions about what something <em>is</em>based on how you want it to <em>look</em>, rather than the reverse. You can consult <url href="https://pretextbook.org/doc/author-guide/html/topic-paragraphs.html">the Paragraphs section of the <pretext/> Author's Guide</url> for a list of more specific tags you might use, and you can check out <xref ref="general-principles-providing-guidelines"/> for ways to emphasize instructions that you want the reader to follow.</p>
+            <p>The <tag>paragraphs</tag> tag, which is also the most granular <q>division</q> possible in <pretext/>, is a useful way of collecting a few <q>paragraphs</q> of thought under a heading. You can think of it a little bit like a sub<em>sub<em>sub</em></em>section. Paragraphs have a <tag>title</tag>, and you shoudl treat this title as such: obey capitalization rules consistent with other titles in the handbook, make sure that the tile is as concise and precise as possible and that it appropriately introduces the topic that is discussed in the following paragraphs (<tag>p</tag>). Above all, <alert>DO NOT</alert> use the <tag>paragraphs</tag> structure to just put a sentence in bold, as this is <term>tag abuse</term><mdash/>you're making decisions about what something <em>is</em> based on how you want it to <em>look</em>, rather than the reverse. You can consult <url href="https://pretextbook.org/doc/author-guide/html/topic-paragraphs.html">the Paragraphs section of the <pretext/> Author's Guide</url> for a list of more specific tags you might use, and you can check out <xref ref="general-principles-providing-guidelines"/> for ways to emphasize instructions that you want the reader to follow.</p>
         </subsection>
-        <subsection>
+        <subsection xml:id="general-principles-using-lists">
             <title>Using Lists</title>
             <introduction>
-                <p><pubtitle>Sound Writing</pubtitle> relies heavily on lists to convey content to the reader in an organized, aesthetically pleasing way. To reap the beneifits from this decision, it is important to adhere to the principles for what <em>kinds</em> of lists should be used in which scenarios, as well as how they should be formatted.</p>
+                <p>
+                    <pubtitle>Sound Writing</pubtitle> relies heavily on lists to convey content to the reader in an organized, aesthetically pleasing way. To reap the beneifits from this decision, it is important to adhere to the principles for what <em>kinds</em> of lists should be used in which scenarios, as well as how they should be formatted.
+                </p>
+                <p>
+                    In <pubtitle>Sound Writing</pubtitle>, you can use a list when<ellipsis/>
+                    <ul>
+                        <li>
+                            <p>defining a list of terms.</p>
+                        </li>
+                        <li>
+                            <p>finishing a sentence many different ways (like this!).</p>
+                        </li>
+                        <li>
+                            <p>explaining an acronym.</p>
+                        </li>
+                        <li>
+                            <p><xref ref="general-principles-providing-guidelines"/>.</p>
+                        </li>
+                        <li>
+                            <p><xref ref="general-principles-providing-questions"/>.</p>
+                        </li>
+                        <li>
+                            <p>making a checklist, either with explanations of each item (see <xref ref="list-argument-checklist"/>) or without (EXAMPLE 4.5.3?).</p>
+                        </li>
+                    </ul>
+                </p>
+                <p>
+                    If content that you want to put in a list doesn't fit one of these criteria, it may still be appropriate to use a list, but consider carefully whether there's a more appropriate way to display your content that's already being used in <pubtitle>Sound Writing</pubtitle> or another way to format your content to keep the handbook consistent.
+                </p>
             </introduction>
             <subsubsection xml:id="general-principles-providing-guidelines">
                 <title>Providing Guidelines, Strategies, or Rules</title>
@@ -43,7 +83,7 @@
                     <title>Strategies for Providing Strategies in <pubtitle>Sound Writing</pubtitle></title>
                     <ul>
                         <li>
-                            <p><em>Use a <c>&lt;list&gt;</c> as the outermost container for your set of instructions.</em></p>
+                            <p><em>Use a <tag>list</tag> as the outermost container for your set of instructions.</em></p>
                             <p>This tag is known as a <q>named list</q>, and can be cross<ndash/>referenced, given titles, and used to store description lists, ordered lists, and unordered lists alike. Read more about <url href="https://pretextbook.org/doc/author-guide/html/topic-lists.html">lists</url> from the <pretext/> Author's Guide.</p>
                         </li>
                         <li>
@@ -56,67 +96,129 @@
                             </p>
                         </li>
                         <li>
-                            <p><em>Use an unordered list (<c>&lt;ul&gt;</c>) unless the order of the steps matters.</em></p>
+                            <p><em>Use an unordered list (<tag>ul</tag>) unless the order of the steps matters.</em></p>
                             <p>Unfortunately, doing this makes it impossible to cross<ndash/>reference individual items from your list, so you will have to reference the entire list if you wish to remind readers of a strategy that is elsewhere in the handbook. Treat this as a productive constraint and keep the focus of your strategies narrow and specific.</p>
                         </li>
                         <li>
                             <p><em>Make the first sentence of each list item an <em>imperative</em> instruction<mdash/>it must be something that readers can <em>DO</em>, not just a fact.</em></p>
-                            <p>To mark this imperative as distinct from the explanation, you should wrap the instruction in both emphasis (<c>&lt;em&gt;</c>) and a paragraph block (<c>&lt;p&gt;</c>). Subsequent explanation that clarifies the instruction should be placed in a separate paragraph block so that there is a clear visual distinction between the imperative and the explanation.</p>
+                            <p>To mark this imperative as distinct from the explanation, you should wrap the instruction in both emphasis (<tag>em</tag>) and a paragraph block (<tag>p</tag>). Subsequent explanation that clarifies the instruction should be placed in a separate paragraph block so that there is a clear visual distinction between the imperative and the explanation.</p>
                         </li>
                     </ul>
                 </list>
             </subsubsection>
-            <subsection xml:id="general-principles-using-examples">
-                <title>Using Examples</title>
-                <p>Examples should be marked as such with the <c>&lt;example&gt;</c> tag whenever they do not direclty provide content required for the reader to understand what they are reading. A good heuristic to use when deciding whether or not to make something an example is <q>Do I need to read the example to <em>learn</em> facts about the concept I'm reading about, or do I just need to read the example to <em>understand</em> the concept better?</q> Never bury essential information in an example, and conversely, avoid intertwining non<ndash/>essential examples into the main handbook text.</p>
-            </subsection>
+            <subsubsection xml:id="general-principles-providing-questions">
+                <title>Providing Questions the Reader Should Consider</title>
+                <p>
+                    Another way that lists are used frequently is to provide the reader with a list of questions to consider. We format this list as follows:
+                    <ul>
+                        <li>
+                            <p>The outermost block is an <tag>assemblage</tag> that contains a <tag>title</tag> and a <tag>p</tag> that holds an unordered list (<tag>ul</tag>).</p>
+                        </li>
+                        <li>
+                            <p>The <tag>title</tag> of the assemblage should be <q>Helpful Questions for <fillin/></q> where the blank is filled in with a specific gerund phrase.</p>
+                        </li>
+                        <li>
+                            <p>Each list item within this structure should be a <alert>question</alert> and since each item is a question the reader should ask themselves (and nothing else), you should not use quotatiopn marks around the questions.</p>
+                        </li>
+                    </ul>
+                </p>
+                <p>For example:></p>
+                <assemblage>
+                    <title>Helpful Questions for Authoring <pubtitle>Sound Writing</pubtitle></title>
+                    <p>
+                        <ul>
+                            <li>
+                                <p>Did you read all of this guide and the <pretext/> Author's Guide?</p>
+                            </li>
+                            <li>
+                                <p><ellipsis/>did you <em>actually</em> though?</p>
+                            </li>
+                        </ul>
+                    </p>
+                </assemblage>
+            </subsubsection>
+        </subsection>
+        <subsection xml:id="general-principles-using-examples">
+            <title>Using Examples</title>
+            <p>Examples should be marked as such with the <tag>example</tag> tag whenever they do not direclty provide content required for the reader to understand what they are reading. A good heuristic to use when deciding whether or not to make something an example is <q>Do I need to read the example to <em>learn</em> facts about the concept I'm reading about, or do I just need to read the example to <em>understand</em> the concept better?</q> Never bury essential information in an example, and conversely, avoid intertwining non<ndash/>essential examples into the main handbook text.</p>
         </subsection>
         <subsection>
-            <title>Just Because It Works <ellipsis/></title>
-            <p>
-                BAD: using a default dash (-) rather than an <c>&lt;ndash&gt;</c> (<ndash/>)
-            </p>
-        </subsection>
-        <subsection>
-            <title>Using Sublime Text</title>
-            <p>ADD using whitespace in SublimeText</p>
+            <title>Using Assemblages</title>
+            <introduction>
+                <p>
+                    Because of how aesthetically pleasing they are in breaking up large blocks of text, it can be tempting to use an <tag>assemblage</tag> haphazardly to commit the <pretext/> sin of authoring with aesthetics, rather than structure, in mind.
+                </p>
+                <assemblage>
+                    <title>Sample Assemblage</title>
+                    <p>
+                        Doesn't this look nice and important? I bet you didn't even read the first paragraph of this introduction because the blue box just pulled your focus into this 100% frivolous text.
+                    </p>
+                    <p>
+                        Anyway, an assemblage can have (but does not require) a <tag>title</tag> and was designed to be a simple, amorphous container for other simple blocks like <tag>p</tag>. Don't go crazy nesting structures within assemblages. You <alert>cannot cross<ndash/>reference an assemblage</alert> since it is not a <q>numbered</q> block.
+                    </p>
+                </assemblage>
+                <p>
+                    Whenever possible, you should only use an assemblage when<ellipsis/>
+                    <ul>
+                        <li>
+                            <p>you want a fact that you're explaining in a <tag>p</tag> to stand out as especially important.</p>
+                        </li>
+                        <li>
+                            <p>you are <xref ref="general-principles-providing-questions"/> (wrap the entire unnamed list in a <tag>p</tag> in the assemblage body).</p>
+                        </li>
+                        <li>
+                            <p>you are highlighting a quote from a student, staff, or faculty member (this is used extensively in <xref ref="awareness-inclusive-language"/>).</p>
+                        </li>
+                    </ul>
+                </p>
+                <note>
+                    <title>Preventing Tag Abuse of Assemblage</title>
+                    <p>
+                        Based on these guidelines, it will be tempting to use an assemblage to call attention to a <q>note</q> or <q>tip</q> that you want the reader to keep in mind, but you should use the <tag>note</tag> and <tag>insight</tag> (displays as <q>tip</q>) in those cases! See REFER TO REMARK LIKE SECTION for more info.
+                    </p>
+                </note>
+            </introduction>
         </subsection>
         <subsection>
             <title>Cross<ndash/>Referencing Schema</title>
             <introduction>
-            <p>To take advantage of cross<ndash/>referencing, which <pretext/> and a digital platform make easy, you will need to provide an <term>xml id</term> to every element that you wish to be able to cross<ndash/>reference. The beauty of this system is that if you change where a piece of cross<ndash/>referenced content is located, all of the reference links still work because you haven't changed the <c>xml:id</c>. This means that if you <em>do</em> change the <c>xml:id</c>, your links <alert>will</alert>break. You can find more on <url href="https://pretextbook.org/doc/author-guide/html/topic-cross-referencing.html">cross<ndash/>referencing</url> in the <url href="https://pretextbook.org/doc/author-guide/html/index.html"><pretext/> Author's Guide </url>, so here we only address the schema we (try to) use in <pubtitle>Sound Writing</pubtitle>.</p>
+            <p>To take advantage of cross<ndash/>referencing, which <pretext/> and a digital platform make easy, you will need to provide an <term>xml id</term> to every element that you wish to be able to cross<ndash/>reference. The beauty of this system is that if you change where a piece of cross<ndash/>referenced content is located, all of the reference links still work because you haven't changed the <c>xml:id</c>. This means that if you <em>do</em> change the <c>xml:id</c>, your links <alert>will</alert> break. You can find more on <url href="https://pretextbook.org/doc/author-guide/html/topic-cross-referencing.html">cross<ndash/>referencing</url> in the <url href="https://pretextbook.org/doc/author-guide/html/index.html"><pretext/> Author's Guide </url>, so here we only address the schema we (try to) use in <pubtitle>Sound Writing</pubtitle>.</p>
             </introduction>
             <paragraphs xml:id="par-ag-referencing-schema">
                 <title>Assigning xml:id Tags</title>
                 <p>Since the handbook was authored over a long period of time and put into <pretext/> by numerous people, the naming conventions for cross<ndash/>referencing are not wholly consistent throughout the handbook. Nevertheless, we recommend that you abide by the following naming practices:
                     <dl>
                         <li>
-                            <title><c>&lt;chapter&gt;</c></title>
+                            <title><tag>chapter</tag></title>
                             <p><c>xml:id="chapter-name"</c></p>
                         </li>
                         <li>
-                            <title><c>&lt;section&gt;</c></title>
+                            <title><tag>section</tag></title>
                             <p><c>xml:id="[one-word-chapter-name]-section-name"</c></p>
                         </li>
                         <li>
-                            <title><c>&lt;subsection&gt;</c></title>
+                            <title><tag>subsection</tag></title>
                             <p><c>xml:id="[one-word-section-name]-subsection-name"</c></p>
                         </li>
                         <li>
-                            <title><c>&lt;subsubsection&gt;</c></title>
+                            <title><tag>subsubsection</tag></title>
                             <p><c>xml:id="[one-word-subsection-name]-subsubsection-name"</c></p>
                         </li>
                         <li>
-                            <title><c>&lt;paragraphs&gt;</c></title>
+                            <title><tag>paragraphs</tag></title>
                             <p><c>xml:id="par-[one-word-parent-division-name]-paragraphs-title"</c></p>
                         </li>
                         <li>
-                            <title><c>&lt;list&gt;</c></title>
+                            <title><tag>list</tag></title>
                             <p><c>xml:id="list-[one-word-section-name]-abbreviated-list-title"</c></p>
                         </li>
                     </dl>
                 </p>
             </paragraphs>
+            <warning xml:id="warning-ag-title-importance">
+                <title>Importance of Titles</title>
+                <p>Make sure that everything you hope to cross<ndash/>reference has <em>both</em> an xml:id <em>and</em> a <tag>title</tag> since the handbook cross<ndash/>references by title, so without a <tag>title</tag> there will be no display text for the link (although it will still work)</p>
+            </warning>
         </subsection>
     </section>
 
@@ -125,27 +227,50 @@
         <subsection>
             <title>Narrative Offset Elements (Remark<ndash/>Like)</title>
             <introduction>
-                <p>Talk about how as a class, remark<ndash/>like elements have to behave the same, but individually, they can be formatted differently, then for each element, need to list rules of HOW it's used and examples of what it looks like.</p>
-                <p> Can use remark|convention|note|observation|warning|insight </p>
+                <p>
+                    One capability that you as an author should look to implement is the possibility for <pretext/> to intersperse the text with a handful of <q>remark<ndash/>like</q> elements that belong to the same <q>class.</q> All of these elements follow the same <q>programming rules,</q> so anything that you can do with one of the elements, you can do with any of them (and conversely anything that doesn't work in one won't work in any of the others either). Each element can be formatted differently, however, so you can easily call your reader's attention to the different kinds of content that you're sharing with them.
+                </p>
+                <p>
+                    There are six <q>remark<ndash/>like</q> elements you can use: <tag>remark</tag>, <tag>convention</tag>, <tag>note</tag>, <tag>observation</tag>, <tag>warning</tag>, and <tag>insight</tag> (tip). So far, we have implemented <xref ref="element-formatting-note"/> and <xref ref="element-formatting-insight"/> and provided rules for using each of them. You are encouraged to find ways to incorporate more remark<ndash/>like elements into the handbook; however, <em>you must also identify a structural role that the element fills</em> and provide guidelines to future authors for how to use the element in a consistent way.
+                </p>
             </introduction>
-            <subsubsection>
+            <subsubsection xml:id="element-formatting-note">
                 <title>Note</title>
+                <p>
+                    A <tag>note</tag> captures text that doesn't flow with the narrative arc of the text you're writing but that you consider essential for readers to know. You do not need to give your note a <tag>title</tag><mdash/>it should just display the text <q>Note.</q> without any numbering.
+                </p>
                 <note>
-                    <title>Note title</title>
-                    <p> And content in angle p.</p>
+                    <title>Note with a Title</title>
+                    <p>And content in angle a <tag>p</tag>.</p>
+                    <p>And more content in another <tag>p</tag>!</p>
+                </note>
+                <note>
+                    <p>Note without a title</p>
+                    <p>
+                        <ul>
+                            <li>You can have any of the three list types (<tag>ul</tag>, <tag>ol</tag>, or <tag>dl</tag>) in a note.
+                            </li>
+                        </ul>
+                    </p>
                 </note>
             </subsubsection>
-            <subsubsection>
-                <title>Insight</title>
-                    <insight>
-                        <title>Insight title</title>
-                        <p>And content in angle p.</p>
-                        <p>You can have multiple <q>p's.</q></p>
-                        <p>
-                            <ul>
-                                <li><p>And lists!</p></li>
-                            </ul>
-                        </p>
+            <subsubsection xml:id="element-formatting-insight">
+                <title>Tip (Insight)</title>
+                <p>
+                    Because offering <q>tips</q> is common practice in all sorts of guides, we have renamed the <tag>insight</tag> tag to display as a <q>tip</q> instead. You should only call something a <q>tip</q> and use the <tag>insight</tag> tag when the advice you're giving the reader can truly be heeded or disregarded without impacting the reader's success. So <q>make a <init>CWLT</init> appointment for the week before your paper is due so you're accountable for starting it!</q> is an appropriate tip because it recommends an <em>optional method</em> for achieving a goal. <q>Start your paper early!</q> is <em>not</em> a good tip because following this advice is an expectation, not a <q>system hack.</q>
+                </p>
+                <insight>
+                    <title>Tip with a Title</title>
+                    <p>And content in angle p.</p>
+                    <p>You can have multiple <q>p's.</q></p>
+                    <p>
+                        <ul>
+                            <li><p>And lists!</p></li>
+                        </ul>
+                    </p>
+                </insight>
+                <insight>
+                    <p>Here's another hot tip for you (this time without a title): sprinkle the handbook with easily<ndash/>formatted REMARK-LIKE structures so that the writing handbook looks like the instructional equivalent of dessert and not a droll pile of boring additional reading!</p>
                 </insight>
             </subsubsection>
             <subsubsection>
@@ -201,7 +326,7 @@
             <paragraphs>
                 <title>Overall Structure</title>
                 <p>Sections in this chapter are written in close collaboration with faculty members in the department that the section covers. Typically, the student handbook author interviews faculty members and then writes the contents of the section based on what faculty members say in those interviews. A completed draft is presented to the department for approval, and upon receiving approval, it is put into the handbook in its final version.</p>
-                <p>Each section begins with a brief introduction about what makes writing in a particular discipline difficult and is followed by a <c>&lt;note&gt;</c> with the following text: <q>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with <fillin/> faculty members that informed this section.</q> The remainder of the section is broken into <c>&lt;paragraphs&gt;</c> titled <q>Genres,</q> <q>Purpose,</q> <q>Traits and Characteristics,</q> <q>Evidence,</q> <q>Conventions and Tips,</q> and <q>Additional Resources.</q> When relevant, the first sentence after the <c>&lt;title&gt;</c> of each paragraph should be a quote by a faculty member excerpted from the informational interview that informed the section. This quote should be in quotation marks (<c>&lt;q&gt;</c>) <em>and</em> italicized with emphasis (<c>&lt;em&gt;</c>).</p>
+                <p>Each section begins with a brief introduction about what makes writing in a particular discipline difficult and is followed by a <tag>note</tag> with the following text: <q>Unless otherwise stated, all quotes throughout this section are excerpted from the interview with <fillin/> faculty members that informed this section.</q> The remainder of the section is broken into <tag>paragraphs</tag> titled <q>Genres,</q> <q>Purpose,</q> <q>Traits and Characteristics,</q> <q>Evidence,</q> <q>Conventions and Tips,</q> and <q>Additional Resources.</q> When relevant, the first sentence after the <tag>title</tag> of each paragraph should be a quote by a faculty member excerpted from the informational interview that informed the section. This quote should be in quotation marks (<tag>q</tag>) <em>and</em> italicized with emphasis (<tag>em</tag>).</p>
             </paragraphs>
         </subsection>
         <subsection>
@@ -211,7 +336,7 @@
             </introduction>
             <paragraphs xml:id="par-ag-wwa-overview">
                 <title>Overview</title>
-                <p>Following the <alert>required</alert> introduction (wrap text in a <c>&lt;introduction&gt;</c> tag at the beginning of the subsection), you should describe factual content that you want to impart to readers in a <c>&lt;paragraphs&gt;</c> division with the title <q>Overview.</q> This overview is also <alert>required</alert>, although it can be as long or as short as it needs to be. Additionally, you can include excerpted quotes from Puget Sound students, faculty, or staff in <em>any</em> of the portions of this chapter in an <c>&lt;asssemblage&gt;</c>, which will surround them in a blue box and mark them as external content.</p>
+                <p>Following the <alert>required</alert> introduction (wrap text in a <tag>introduction</tag> tag at the beginning of the subsection), you should describe factual content that you want to impart to readers in a <tag>paragraphs</tag> division with the title <q>Overview.</q> This overview is also <alert>required</alert>, although it can be as long or as short as it needs to be. Additionally, you can include excerpted quotes from Puget Sound students, faculty, or staff in <em>any</em> of the portions of this chapter in an <tag>asssemblage</tag>, which will surround them in a blue box and mark them as external content.</p>
                 <p>
                     <assemblage>
                         <title>Staff Perspectives: Musings</title>
@@ -232,18 +357,18 @@
                 <ul>
                     <li>
                         <p><em>Make the first stenence of each element of this list an imperative.</em></p>
-                        <p>If you need to add additional explanation to clarify the instruction above, do so in a separate paragraph (<c>&lt;p&gt;</c> tag) as part of the same list element (<c>&lt;li&gt;</c> tag) below the imperative. These explanations can be several sentences long, if need be, or they can not exist at all. The important part is that the first sentence is (1) an imperative command<mdash/>a strategy and (2) emphasized as important with the <c>&lt;em&gt;</c> tag.</p>
+                        <p>If you need to add additional explanation to clarify the instruction above, do so in a separate paragraph (<tag>p</tag> tag) as part of the same list element (<tag>li</tag> tag) below the imperative. These explanations can be several sentences long, if need be, or they can not exist at all. The important part is that the first sentence is (1) an imperative command<mdash/>a strategy and (2) emphasized as important with the <tag>em</tag> tag.</p>
                     </li>
                     <li>
                         <p><em>Title the list <q>Strategies for Writing with <fillin/> in Mind</q> to be consistent with how we give guidelines elsewhere in the handbook.</em></p>
                         <p>You would fill in the blank spot with whatever content you filled in the blank spot in the title of the subsection with, so in <q>Writing Toward <em>Racial and Ethnic</em> Inclusivity,</q> the list of guidelines or tips or instructions would be, <q>Strategies for Writing with <em>Racial and Ethnic</em> Inclusivity in Mind.</q></p>
                     </li>
                     <li>
-                        <p><em>Create the list by wrapping an unordered list (<c>&lt;ul&gt;</c>) in a list (<c>&lt;list&gt;</c>).</em></p>
+                        <p><em>Create the list by wrapping an unordered list (<tag>ul</tag>) in a list (<tag>list</tag>).</em></p>
                     </li>
                     <li>
                         <p><em>After the list of strategies, insert a list of key terms with the simple title <q>Terms.</q></em></p>
-                        <p>The list of terms is, like the list of strategies, <alert>optional</alert>, but if it is included, it must be added as a description list (<c>&lt;dl&gt;</c>) wrapped inside a <c>&lt;list&gt;</c> in which the <term>undefined terms</term> are the <c>&lt;title&gt;</c> of each list item and the phrase completing a sentence beginning with the undefined term (and defining it) follows in the paragraph (<c>&lt;p&gt;</c>) that follows.</p>
+                        <p>The list of terms is, like the list of strategies, <alert>optional</alert>, but if it is included, it must be added as a description list (<tag>dl</tag>) wrapped inside a <tag>list</tag> in which the <term>undefined terms</term> are the <tag>title</tag> of each list item and the phrase completing a sentence beginning with the undefined term (and defining it) follows in the paragraph (<tag>p</tag>) that follows.</p>
                     </li>
                 </ul>
             </list>
@@ -261,7 +386,7 @@
                 </dl>
             </list>
             <conclusion>
-                <p>The last portion of these subsections should be a <c>&lt;conclusion&gt;</c>, which is <alert>optional</alert>, but is a great place to refer readers to additional, relevant resources. We could refer you to an example of what one of these sections actually looks like (check out <xref ref="inclusivity-racial"/>), or remind you to read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url>.</p>
+                <p>The last portion of these subsections should be a <tag>conclusion</tag>, which is <alert>optional</alert>, but is a great place to refer readers to additional, relevant resources. We could refer you to an example of what one of these sections actually looks like (check out <xref ref="inclusivity-racial"/>), or remind you to read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url>.</p>
             </conclusion>
         </subsection>
     </section>
@@ -273,12 +398,22 @@
                 <li>
                     <p>Add a textbook reading guide to science reading section</p>
                 </li>
+                <li>
+                    <p>Add <xref ref="ag-addition-cv"/> or reject and remove from this guide.</p>
+                </li>
+                <li>
+                    <p>Add <xref ref="ag-addition-introductions"/> or reject and remove from this guide.</p>
+                </li>
             </ul>
         </list>
         <list>
             <title>Revisions</title>
             <ul>
                 <li>
+                    <p>Make <xref ref="using-technology"/> higher<ndash/>level and remove excessive use of large images.</p>
+                </li>
+                <li>
+                    <p>Look up an online link<ndash/>checker and run it on the public version of <pubtitle>Sound Writing</pubtitle> to make sure that all of our hyperlinks are still functional. This is especially important to do <alert>after the Puget Sound website overhaul scheduled for spring 2020</alert>. Also, remember that this chekc will only return <em>broken</em> links, not links that still work but refer to old or outdated information.</p>
                 </li>
             </ul>
         </list>
@@ -296,13 +431,121 @@
 
             </dl>
         </list>
-
     </sections>
-
-
-
-
-
+    <section xml:id="ag-addition-cv">
+        <title>POSSIBLE ADDITION: Writing Curriculum Vitae</title>
+        <introduction>
+            <aside>
+                This section would be added to Chapter 11, <q>Genres</q> below <q>Writing Resumes.</q> It would need to be approved before being added.
+            </aside>
+        </introduction>
+        <paragraphs>
+            <title>What is a Curriculum Vitae?</title>
+            <p>
+                Writing a Curriculum Vitae (often abbreviated as <q><init>CV</init></q> or shortened to <q>vita</q>) has much in common with <xref ref="section-resume"/>; however your <init>CV</init> serves a slightly different purpose than your resume. Resumes are more popular in non<ndash/>academic work and tend to prioritize your relevant skills and professional experience, and you are expected to tailor your resume to suit each individual job you apply for. The purpose of a <init>CV</init>, on the other hand, is to speak to your comprehensive qualification to be a member of an academic community. Broadly speaking, the three core aspects of an academic job are (1) creating new knowledge by undertaking research and sharing your results, (2) propagating existing knowledge by teaching students, and (3) serving on committees to run academic institutions and societies. At each stage of your career, your <init>CV</init> should speak to what you’ve done in each of these categories over the course of your life.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>When to have a <init>CV</init></title>
+            <p>
+                If you’re interested in an academic job, you should start keeping track of your academic work when you begin your undergraduate education. You might not need to send anyone your <init>CV</init> until you apply for graduate school 4+ years later (or perhaps not even until you’re applying to jobs after you get a PhD), but since a <init>CV</init> is meant to be comprehensive and because you only need one, it’s easiest to build one as you progress through your life. If you’re not interested in academic jobs, it still might be useful to build a <init>CV</init> to serve as a <q>master resume</q> that you can pull content from each time you apply for a new opportunity.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>The Contents of a <init>CV</init></title>
+            <p>
+                What you as an undergrad can put on your <init>CV</init> to apply for graduate school is vastly different from what a veteran professor can put on their <init>CV</init> to apply for an associate dean position, but in both cases the <init>CV</init> should be a comprehensive record of an individual’s scholarly work. Whereas writing a good resume requires that you know a lot about the position that you’re applying for, writing a good <init>CV</init> requires that you keep a good <q>paper trail</q> of your significant academic work, especially for things that you’ve done that fit into one of the three core aspects listed above. You’ll probably want to keep track of the following:
+                <ul>
+                    <li>
+                        <p>Your educational history as far back as your undergraduate college, including any awards you’ve won or honor societies you’re a part of</p>
+                    </li>
+                    <li>
+                        <p>
+                            Your research experience:
+                            <ul>
+                                <li>Descriptions of what you specifically did, much as you would list for a resume</li>
+                                <li>List of all of your scholarly publications</li>
+                                <li>List of any non<ndash/>peer<ndash/>reviewed writing you did. If you can link to a place where someone reading your <init>CV</init> could find something you wrote, you should include it!</li>
+                                <li>List of any presentations you’ve given (even to your home department here at Puget Sound).</li>
+                                <li>List of any conferences you’ve attended, especially if you presented work at these conferences.</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Your teaching experience (including any work you've done tutoring or mentoring)
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Your service
+                            <ul>
+                                <li>Working on<ndash/> or off<ndash/>campus</li>
+                                <li>Volunteering on<ndash/> or off<ndash/>campus</li>
+                            </ul>
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </paragraphs>
+        <assemblage>
+            <title><q>Hey, This is Just a Long Resume!</q></title>
+            <p>
+                As far as the content of what appears on a <init>CV</init>, you may at first notice that you’re putting everything on your <init>CV</init>, and that’s okay. When you’re just starting out, part of the function of a <init>CV</init> is maintaining a record (build that paper trail!) of the path you’re taking. As you get older and progress through graduate school, fellowship experiences, post<ndash/>docs and professorships, you can remove the least<ndash/>relevant items from your <init>CV</init>, but it’s difficult to retroactively add many years of experience to a <init>CV</init> that you need down the road if you haven’t been keeping track of all of your experiences, awards, presentations, and more.
+            </p>
+        </assemblage>
+    </section>
+    <section xml:id="ag-addition-introductions">
+        <title>POSSIBLE ADDITION: Division Introductions</title>
+        <paragraphs>
+            <title>3.2 Diversity of Argumentation Modes</title>
+            <p>
+                If you like to argue, we have good news for you: not only are there different <em>topics</em> to argue about and <em>positions</em> to take in arguments<mdash/>there are different styles, or <em>modes</em> that you can choose from to structure your argument! You may find that you prefer some modes over others, but you should treat modes of argumentation as tools in your toolbox; you wouldn’t say that some tools are <em>better</em> than other tools because each tool is suited for a different task. Additionally, recognizing the tools that other people are using in their arguments will help you understand and critique them, which is an important aspect of engaging with the scholarly community.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>4.4 Introductions</title>
+            <p>
+                Writing an introduction is widely considered one of the most challenging steps in writing a paper. The challenge of writing a great introduction is real, but armed with a good understanding of introductions, a useful metaphor, and some concrete guidelines, the task of hooking your reader, laying out your argument, and asserting your thesis is one you can overcome.  In this section, you’ll learn <em>why</em> you need an introduction, <em>what</em> goes in an introduction, and <em>how</em> to construct an effective introduction (and yes, we got lost in the meta trying to write <em>this</em> introduction!).
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>4.5 Body Paragraphs</title>
+            <p>
+                If your introduction is your roadmap, the main body of your paper is the journey you’re taking your reader on. Like your grandparents, your reader doesn’t trust Google Maps, so you’re going to need to make sure that they don’t get lost trying to understand your argument. You can help your reader out in this endeavor by carefully considering how to organize your body paragraphs, what topic sentences best summarize the claims that support your thesis, and what transitions will cue your reader in on how your ideas are connected to one another. Continuing the road trip metaphor, topic sentences are like the compass readings that keep your reader oriented relative to their destination. Transitions are the signposts that alert the reader that there’s a hairpin turn ahead or that they’re crossing state lines, and, body paragraphs are the landmarks along the way that make the reader appreciate the journey toward understanding your thesis.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>4.6 Conclusions</title>
+            <p>
+                Introductions and conclusions are the bookends that hold your paper together, and like writing introductions, writing conclusions can produce the <q>I want to tear my hair out</q> sensation that college students know (and love?). While introductions need to convince your reader to take the journey that is reading your paper and give them a good idea of what they’ll learn if they do so, conclusions need to give your reader a sense of closure after they finish their journey. In this section, you’ll learn why you need a conclusion,  what to put in your conclusion, and how to go about writing a conclusion that will give your reader the <q>looking<ndash/>back<ndash/>fondly<ndash/>on<ndash/>a<ndash/>great<ndash/>trip</q> feeling that a photo album can create.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>6.2 Inclusive Language</title>
+            <p>
+                This section is a thorough rebuttal of the childhood idiom <q>sticks and stones may break my bones, but words will never hurt me.</q> Here you can learn how words are connected to existing and previous power structures within and beyond academia and why it is important to consider your choice of language, especially as you write about individuals’ complex, intersectional identities and the relationships those identities have to the many different systems and personal interactions that comprise society. As you will read many times over again, this section is an introduction to the ever<ndash/>changing task of writing respectfully and knowledgeably about identity, not the be<ndash/>all and end<ndash/>all of writing with awareness.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>7.2 Tricky Grammar</title>
+            <p>
+                Having covered some of the fundamental principles of grammar in the previous section, it’s time to level up! There are lots of English grammar topics that are tricky enough to merit a position in this section; however, the ones that you’ll learn about here made the cut because they’re not just tricky<mdash/>they’re commonly relevant. Building on the fundamental rules of grammar from the previous section, you’ll get another layer of nuance in this section, which covers some of the challenges of ensuring subject<ndash/>verb agreement, avoiding sentence fragments, using parallelism, and placing modifiers.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>7.3 Style and Word Choice</title>
+            <p>
+                Having noticed that a great number of professors wax loquacious when giving lectures, you may be perplexed to learn that academics actually value brevity in academic writing. Professors face some of the same challenges that you probably face in college: they have a lot of reading to do, what they’re reading is specific and hard to understand, and they have to write about it themselves. From this predicament emerges the importance of writing precisely and clearly, choosing words carefully, being wary of passive voice, and packing meaning into a sentence by using colorful, strong verbs. In this section, you will learn to make intentional decisions about your writing style and word choice to enrich your essays.
+            </p>
+        </paragraphs>
+        <paragraphs>
+            <title>7.4 Punctuation and Capitalization Basics</title>
+            <p>
+                How to punctuate a sentence and when to capitalize a word are especially challenging decisions to make because of the vast number of rules and exceptions to rules that govern when to capitalization and punctuation, not to mention the fact that there are some rules that are contested (ever heard of an Oxford comma?). In this section, you won’t find <em>every</em> rule concerning capitalization and punctuation, but if you learn the rules here (which are all frequently<ndash/>relevant), you will be prepared to answer the majority of questions that you will have while writing.
+            </p>
+        </paragraphs>
+    </section>
 
 
 </chapter>
