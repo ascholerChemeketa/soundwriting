@@ -540,12 +540,14 @@
                 <title>MLA</title>
                 <paragraphs>
                     <title>Website with Human Author</title>
+                    <p></p>
                     <p indent="hanging"><red>Author Last Name, First Name.</red> <darkgreen><pubtitle>Title of Website.</pubtitle></darkgreen> <gray>Name of Publisher,</gray> <navy>Date of publication (if available),</navy> <orange>URL.</orange> <lightgreen>Accessed date.</lightgreen></p>
                     <p indent="hanging"><red>Martin, Mark.</red> <darkgreen><pubtitle>Martin's Microbial Menagerie.</pubtitle></darkgreen> <gray>University of Puget Sound,</gray> <orange>http://webspace.pugetsound.edu/facultypages/momartin/index.htm.</orange> <lightgreen>Accessed 1 Aug. 2016.</lightgreen> </p>
                     <p>In<ndash/>text: (Martin)</p>
                 </paragraphs>
                 <paragraphs>
                     <title>Website with Organization Author</title>
+                    <p></p>
                     <p indent="hanging"><red>Organization.</red> <darkgreen><pubtitle>Title of Website.</pubtitle></darkgreen> <gray>Abbreviation of sponsor of site,</gray> <lightgreen>Date updated.</lightgreen> <teal>Medium.</teal> <navy>Date of access: day month year.</navy></p>
                     <p indent="hanging"><red>University of Puget Sound.</red> <darkgreen><pubtitle>University of Puget Sound.</pubtitle></darkgreen> <gray>UPS,</gray> <lightgreen>2016.</lightgreen> <teal>Web.</teal> <navy>29 July 2016.</navy></p>
                     <p>In<ndash/>text: (University of Puget Sound)</p>
@@ -794,12 +796,14 @@
                 <title>MLA</title>
                 <paragraphs>
                     <title>Artwork Viewed in Person</title>
+                    <p></p>
                     <p indent="hanging"><red>Artist Last Name, First Name.</red> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <lightgreen>Year of composition,</lightgreen> <purple>Institution,</purple> <maroon>City.</maroon></p>
                     <p indent="hanging"><red>di Lodovico Buonarroti Simoni, Michelangelo.</red> <lightblue><pubtitle>David.</pubtitle></lightblue> <lightgreen>1504,</lightgreen> <purple>Accademia di Belle Arti di Firenze,</purple> <maroon>Florence.</maroon></p>
                     <p>In<ndash/>text: (di Lodovico Buonarroti Simoni)</p>
                 </paragraphs>
                 <paragraphs>
                     <title>Artwork Viewed Online</title>
+                    <p></p>
                     <p indent="hanging"><red>Artist Last Name, First Name.</red> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <lightgreen>Year of composition.</lightgreen> <darkgreen><pubtitle>Title of website,</pubtitle></darkgreen> <gray>Name of Publisher (if different than Name of website),</gray> <orange>URL.</orange></p>
                     <p indent="hanging"><red>Michelangelo.</red> <lightblue><pubtitle>David.</pubtitle></lightblue> <lightgreen>1504.</lightgreen> <darkgreen><pubtitle>Accademia: Guide to the Accademia Gallery in Florence,</pubtitle></darkgreen> <orange>http://www.accademia.org/explore-museum/artworks/michelangelos-david/.</orange></p>
                     <p>In<ndash/>text: (di Lodovico Buonarroti Simoni)</p>
@@ -893,15 +897,20 @@
             <subsubsection xml:id="translation-mla">
                 <title>MLA</title>
                 <paragraphs>
-                    <title>Emphasizing Original Text</title>
+                    <title>Emphasizing Original Text/Author</title>
+                    <p></p>
                     <p indent="hanging"><red>Author Last Name, First Name.</red> <lightblue>Title of work.</lightblue> <navy>Trans. by Translator First Name Last Name. Publisher,</navy> <lightgreen>Date of publication.</lightgreen></p>
                     <p indent="hanging"><red>Shikibu, Murasaki.</red> <lightblue>The Tale of Genji.</lightblue> <navy>Trans. by Royall Tyler. Penguin Books,</navy> <lightgreen>2001.</lightgreen></p>
                     <p>In<ndash/>text: (Shikibu)</p>
                 </paragraphs>
                 <paragraphs>
-                    <title>Emphasizing Translation<fn>This is uncommon and should only used if the translation itself is being analyzed.</fn></title>
-                    <p><navy>Translator Last Name, First Name, translator.</navy> <lightblue>Title of work.</lightblue> By <red>Author First Name Last Name.</red> <navy>Publisher,</navy> <lightgreen>Date.</lightgreen></p>
-                    <p><navy>Tyler, Royall, translator.</navy> <lightblue>The Tale of Genji.</lightblue> By <red>Murasaki Shikibu.</red> <navy>Penguin Books,</navy> <lightgreen>2001.</lightgreen></p>
+                    <title>Emphasizing Translation/Translator</title>
+                    <aside>
+                        <p>This is uncommon and should only used if the translation itself is being analyzed.</p>
+                    </aside>
+                    <p></p>
+                    <p indent="hanging"><navy>Translator Last Name, First Name, translator.</navy> <lightblue>Title of work.</lightblue> By <red>Author First Name Last Name.</red> <navy>Publisher,</navy> <lightgreen>Date.</lightgreen></p>
+                    <p indent="hanging"><navy>Tyler, Royall, translator.</navy> <lightblue>The Tale of Genji.</lightblue> By <red>Murasaki Shikibu.</red> <navy>Penguin Books,</navy> <lightgreen>2001.</lightgreen></p>
                     <p>In<ndash/>text: (Tyler)</p>
                 </paragraphs>
             </subsubsection>
