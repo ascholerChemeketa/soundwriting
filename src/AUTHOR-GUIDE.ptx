@@ -120,6 +120,9 @@
                         <li>
                             <p>Each list item within this structure should be a <alert>question</alert> and since each item is a question the reader should ask themselves (and nothing else), you should not use quotatiopn marks around the questions.</p>
                         </li>
+                        <li>
+                            <p>Each question should be written in <em>first<ndash/>person</em>, as in <q>Is what I'm writing helpful to future authors?</q> not <q>Is what you're writing helpful to future authors?</q></p>
+                        </li>
                     </ul>
                 </p>
                 <p>For example:></p>
@@ -128,10 +131,10 @@
                     <p>
                         <ul>
                             <li>
-                                <p>Did you read all of this guide and the <pretext/> Author's Guide?</p>
+                                <p>Did I read all of this guide and the <pretext/> Author's Guide?</p>
                             </li>
                             <li>
-                                <p><ellipsis/>did you <em>actually</em> though?</p>
+                                <p><ellipsis/>did I <em>really</em> though?</p>
                             </li>
                         </ul>
                     </p>
