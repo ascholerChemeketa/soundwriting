@@ -668,7 +668,7 @@
                 <p>Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
                 <note>
                     <!-- <title>Note</title> -->
-                    <p>What may seem like problems with subject<ndash/>verb agreement might actually be <em>correct</em> subject<ndash/>verb agreement in another variety of English. See <xref ref="awareness-writing-correctness"/></p>
+                    <p>What may seem like problems with subject<ndash/>verb agreement might actually be <em>correct</em> subject<ndash/>verb agreement in another variety of English. See <xref ref="awareness-writing-correctness"/> to read more.</p>
                 </note>
             </subsubsection>
             <subsubsection xml:id="pronoun-antecedent-not-agreeing">
@@ -829,61 +829,60 @@
                 <title>Collective Nouns</title>
                 <p>There are some <xref ref="definition-subject">subjects</xref> that may be singular or plural depending on how you use them.</p>
                 <p>In order to determine whether to use a singular or a plural <xref ref="definition-verb"/>, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
+                <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room was silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at Diversions.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
                 <p>A list of these collective nouns and example uses may be found below.</p>
-                <sidebyside>
-                    <dl>
-                        <li>
-                            <title>class</title>
-                            <p><q>The calculus <un s="1">class</un> <em>is</em> silent during the test.</q></p>
-                            <p><q>After the test, the <un s="1">class</un> <em>buy</em> their celebratory smoothies at Diversions.</q></p>
-                        </li>
-                        <li>
-                            <title>jury</title>
-                            <p><q>The <un s="1">jury</un> <em>was</em> late to the trial.</q></p>
-                            <p><q>The <un s="1">jury</un> <em>appear</em> to be bored or sleeping during the trial; they keep yawning and nodding off.</q></p>
-                        </li>
-                        <li>
-                            <title>team</title>
-                            <p><q>The Puget Sound women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
-                            <p><q>This year, the women's soccer <un s="1">team</un> <em>are</em> going home to visit their families after their NCAA win.</q></p>
-                        </li>
-                        <li>
-                            <title>army</title>
-                            <p><q>The <un s="1">army</un> <em>trains</em> thoroughly.</q></p>
-                            <p><q>The <un s="1">army</un> <em>return</em> home after the war.</q></p>
-                        </li>
-                        <li>
-                            <title>council</title>
-                            <p><q>The <un s="1">council</un> <em>votes</em> in favor of the bill.</q></p>
-                            <p><q>The <un s="1">council</un> <em>disagree</em> about which way to vote.</q></p>
-                        </li>
-                        <li>
-                            <title>family</title>
-                            <p><q>My <un s="1">family</un> <em>is</em> the best.</q></p>
-                            <p><q>My <un s="1">family</un> <em>are</em> funny.</q></p>
-                        </li>
-                        <li>
-                            <title>group</title>
-                            <p><q>The <un s="1">group</un> always <em>leaves</em> the room a mess.</q></p>
-                            <p><q>The <un s="1">group</un> <em>sing</em>, <em>dance</em>, and <em>act</em>.</q></p>
-                        </li>
-                        <li>
-                            <title>audience</title>
-                            <p><q>The <un s="1">audience</un> <em>applauds</em>.</q></p>
-                            <p><q>The <un s="1">audience</un> <em>were</em> hooting and hollering.</q></p>
-                        </li>
-                        <li>
-                            <title>board</title>
-                            <p><q>The <un s="1">Board</un> of Trustees <em>is</em> willing to hear students about fossil fuel divestment.</q></p>
-                            <p><q>The <un s="1">Board</un> of Trustees <em>have</em> different opinions about divestment.</q></p>
-                        </li>
-                        <li>
-                            <title>crowd</title>
-                            <p><q>And the <un s="1">crowd</un> <em>goes</em> wild!</q></p>
-                            <p><q>The <un s="1">crowd</un> <em>are</em> running, jumping, and yelling.</q></p>
-                        </li>
-                    </dl>
-                </sidebyside>
+                <example>
+                    <title>Sample Sentences with Collective Nouns</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>jury</title>
+                                <p><q>The <un s="1">jury</un> <em>was</em> late to the trial.</q></p>
+                                <p><q>The <un s="1">jury</un> <em>appear</em> to be bored or sleeping during the trial; they keep yawning and nodding off.</q></p>
+                            </li>
+                            <li>
+                                <title>team</title>
+                                <p><q>The Puget Sound women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
+                                <p><q>This year, the women's soccer <un s="1">team</un> <em>are</em> going home to visit their families after their NCAA win.</q></p>
+                            </li>
+                            <li>
+                                <title>army</title>
+                                <p><q>The <un s="1">army</un> <em>trains</em> thoroughly.</q></p>
+                                <p><q>The <un s="1">army</un> <em>return</em> home after the war.</q></p>
+                            </li>
+                            <li>
+                                <title>council</title>
+                                <p><q>The <un s="1">council</un> <em>votes</em> in favor of the bill.</q></p>
+                                <p><q>The <un s="1">council</un> <em>disagree</em> about which way to vote.</q></p>
+                            </li>
+                            <li>
+                                <title>family</title>
+                                <p><q>My <un s="1">family</un> <em>is</em> the best.</q></p>
+                                <p><q>My <un s="1">family</un> <em>are</em> funny.</q></p>
+                            </li>
+                            <li>
+                                <title>group</title>
+                                <p><q>The <un s="1">group</un> always <em>leaves</em> the room a mess.</q></p>
+                                <p><q>The <un s="1">group</un> <em>sing</em>, <em>dance</em>, and <em>act</em>.</q></p>
+                            </li>
+                            <li>
+                                <title>audience</title>
+                                <p><q>The <un s="1">audience</un> <em>applauds</em>.</q></p>
+                                <p><q>The <un s="1">audience</un> <em>were</em> hooting and hollering.</q></p>
+                            </li>
+                            <li>
+                                <title>board</title>
+                                <p><q>The <un s="1">Board</un> of Trustees <em>is</em> willing to hear students about fossil fuel divestment.</q></p>
+                                <p><q>The <un s="1">Board</un> of Trustees <em>have</em> different opinions about divestment.</q></p>
+                            </li>
+                            <li>
+                                <title>crowd</title>
+                                <p><q>And the <un s="1">crowd</un> <em>goes</em> wild!</q></p>
+                                <p><q>The <un s="1">crowd</un> <em>are</em> running, jumping, and yelling.</q></p>
+                            </li>
+                        </dl>
+                    </p>
+                </example>
             </subsubsection>
             <subsubsection xml:id="agreement-fractional-expressions">
                 <title>Fractional Expressions</title>
@@ -1362,13 +1361,17 @@
                 <p><q>I was going to Diversions when I saw something that was interesting. It was my friend, Sally. Sally was outside and was sleeping on her chemistry textbook.</q></p>
                 <p><q>On my way to Diversions, I happened upon an interesting (and funny) sight: my friend, Sally, had fallen asleep outside, using her chemistry textbook as a pillow!</q></p>
             </blockquote>
-            <p>Try using a thesaurus to find alternative words. But use caution! Sometimes thesauruses mislead writers when the writer doesn't fully understand the connotation or typical uses of a synonym.</p>
-            <p>Here's a list of strong verbs to consider using. There are short definitions to give you an idea of what the word means, but be sure to look up any words you use to make sure that the contexts in which you're using them align with their meaning. There may also be alternative meanings that aren't listed here, so the dictionary and thesaurus will still be your friends.</p>
+            <warning xml:id="warning-mechanics-using-thesauruses">
+                <title>Thesaurus Use</title>
+                <p>Try using a thesaurus to find alternative words, <alert>but use caution!</alert> Sometimes thesauruses mislead writers when the writer doesn't fully understand the connotation or typical uses of a synonym.</p>
+            </warning>
+            <p>Here's a list of <xref ref="example-strong-verbs"/> to consider using. There are short definitions to give you an idea of what the word means, but be sure to look up any words you use to make sure that the contexts in which you're using them align with their meaning. There may also be alternative meanings that aren't listed here, so the dictionary and thesaurus will still be your friends.</p>
             <sidebyside width="50%">
                 <image source="images/LM-HerbTheStrongVerb"/>
             </sidebyside>
-            <list xml:id="strong-verb-list">
-                <title>Strong Verbs</title>
+            <example xml:id="example-strong-verbs">
+                <title>Some Strong Verbs</title>
+                <p>
                     <dl>
                         <li><title>Affirm</title><p>to assert or support</p></li>
                         <li><title>Allude</title><p>to point out indirectly</p></li>
@@ -1401,7 +1404,8 @@
                         <li><title>Supplant</title><p>to take the place of, replace</p></li>
                         <li><title>Vilify</title><p>to defame or slander</p></li>
                     </dl>
-            </list>
+                </p>
+            </example>
             <note>
                 <p>You don't need to fill your writing with big, obscure words; instead, you'll want to use more complex words where appropriate to convey meaning more precisely and concisely.</p>
             </note>
@@ -2593,6 +2597,214 @@
             <title>Capitalization</title>
             <p>If English were a more consistent language, capitalization might not be such a pain. Unfortunately, it's not, though there are some general guidelines that can help you to decide whether a word should be capitalized or not.</p>
             <list>
+                <title>Words that you Should Capitalize</title>
+                <introduction>
+                    <p>Generally, you should capitalize <ellipsis/></p>
+                </introduction>
+                <ul>
+                    <li>
+                        <p>
+                            <em><xref ref="definition-proper-noun">proper nouns</xref>.</em>
+                            <ul>
+                                <li>
+                                    <p><q>Of all the colleges and universities out there, I chose to attend the <alert>University of Puget Sound</alert>, which I like to call the <sq><alert>Stanford</alert> of the <alert>West Coast</alert>.</sq></q></p>
+                                </li>
+                                <li>
+                                    <p><q>Sometimes <alert>Grizz</alert> hangs out outside of <alert>Diversions Cafe</alert>.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                        <p>If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness"/> where we discuss this issue further.)</p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>professional titles when they precede the title<ndash/>holder's name.</em>
+                            <ul>
+                                <li>
+                                    <p><q><alert>President</alert> Isiaah Crawford joined the university in 2016.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>formal titles when the title is used to address someone.</em>
+                            <ul>
+                                <li>
+                                    <p><q>Hello, <alert>Admiral</alert>.</q></p>
+                                </li>
+                                <li>
+                                    <p><q>How was your day, <alert>Admiral</alert>?</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                        <aside>
+                            <p>How <q>formal</q> does a title need to be to be capitalized? Unfortunately, Google does not provide a gradient that will tell you how formal a given title is. It is relatively safe to assume that a title such as <q>Admiral</q> is formal enough to be capitalized, while a title such as <q>mister</q> is more ambiguous. The lack of a standard will likely cause some confusion at some point in your college career. Once again, do not be afraid to ask.</p>
+                        </aside>
+                    </li>
+                    <li>
+                        <p>
+                            <em>family member's kinship names (Mom, Father) when they preface a proper name or when they are used in place of the name.</em>
+                            <ul>
+                                <li>
+                                    <p><q>I gave a peach to <alert>Mother</alert>.</q></p>
+                                </li>
+                                <li>
+                                    <p><q>We returned the car to <alert>Uncle John</alert>.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>nicknames.</em>
+                            <ul>
+                                <li>
+                                    <p><q>I gave <alert>Scooby</alert> the sandwich.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>geographical regions (that are not the points of a compass).</em>
+                            <ul>
+                                <li>
+                                    <p><q>My friend lives in the <alert>Midwest</alert>.</q></p>
+                                </li>
+                                <li>
+                                    <p><q>The sunsets are especially beautiful on the <alert>West Coast</alert>.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p><em>the first word in a complete quotation, or a quotation set off by a comma, even when the quotation begins in the middle of a sentence.</em></p>
+                        <blockquote>
+                            <p>The <pubtitle>Sound Writing</pubtitle> handbook said, <q><alert>The</alert> first word in a quotation should be capitalized!</q></p>
+                        </blockquote>
+                    </li>
+                    <li>
+                        <p>
+                            <em>specific course names, (but not general academic subjects).</em>
+                            <ul>
+                                <li>
+                                    <p><q>I enjoyed taking <alert>Multivariable Calculus</alert>, though I'm by no means a mathematics major.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                </ul>
+            </list>
+
+            <list>
+                <title>Words that you Should not Capitalize</title>
+                <introduction>
+                    <p>Generally, you should not capitalize <ellipsis/></p>
+                </introduction>
+                <ul>
+                    <li>
+                        <p>
+                            <em>professional titles when they do not precede the title<ndash/>holder's name.</em>
+                            <ul>
+                                <li>
+                                    <p><q>The 14th <alert>president</alert> of the University of Puget Sound is Isiaah Crawford.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>occupational designators.</em>
+                            <ul>
+                                <li>
+                                    <p>The university's <alert>mascot</alert> Grizz</p>
+                                </li>
+                                <li>
+                                    <p>The movie's <alert>director</alert> Christopher Nolan</p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>kinship names when they follow a possessive pronoun, when they follow a proper name, or when they do not refer to a specific person.</em>
+                            <ul>
+                                <li>
+                                    <p><q>My <alert>mom</alert> bought me some shoes.</q></p>
+                                </li>
+                                <li>
+                                    <p><q>The Franco <alert>brothers</alert> are good actors (debatable).</q></p>
+                                </li>
+                                <li>
+                                    <p><q>Emperor penguins make good <alert>mothers</alert> and <alert>fathers</alert>.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>the first word in a quotation that reads as part of the sentence (is not set off by a comma).</em>
+                        </p>
+                        <blockquote>
+                            <p>The handbook said that I should <q><alert>not</alert> capitalize the first word in a quotation that reads as part of the sentence.</q></p>
+                        </blockquote>
+                    </li>
+                    <li>
+                        <p>
+                            <em>the first item in a list after a colon.</em>
+                            <ul>
+                                <li>
+                                    <p><q>To do: <alert>homework</alert>, cook dinner, sleep.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>points on a compass.</em>
+                            <ul>
+                                <li>
+                                    <p><q>We drove <alert>east</alert> for five hours.</q></p>
+                                </li>
+                                <li>
+                                    <p><q>The <alert>eastern coast</alert> of O'ahu has nice beaches.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>general academic subjects.</em>
+                            <ul>
+                                <li>
+                                    <p>I'm a <alert>biology</alert> major, but I still like taking <alert>philosophy</alert> classes.</p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <em>the word <q>the</q> before <xref ref="definition-proper-noun">proper nouns</xref> unless the word <q>the</q> is itself a part of the proper noun.</em>
+                            <ul>
+                                <li>
+                                    <p><q>I attend <alert>the</alert> University of Puget Sound.</q></p>
+                                </li>
+                                <li>
+                                    <p><q>In class, we read <pubtitle><alert>The</alert> Great Gatsby</pubtitle>.</q></p>
+                                </li>
+                            </ul>
+                        </p>
+                    </li>
+                </ul>
+            </list>
+            <note>
+                <title>Capitalization of <q>Professor</q></title>
+                <p>One of the capitalization murky areas you might encounter here on campus is the word <q>professr.</q> Would it be <q>I asked <alert>professor</alert> Julie Nelson Christoph a question about capitalization</q> or <q>I asked <alert>Professor</alert> Julie Nelson Christoph a question about capitalization</q>?</p>
+                <p>There are different theories about <q>professor,</q> which makes it, and others like it, problematic. There is, of course, no clear answer. In this case, it would be better to ask.</p>
+            </note>
+<!-- OLD FORMATTING -->
+            <!-- <list>
                 <paragraphs><title>General Guidelines</title>
                 <ul>
                     <li>
@@ -2708,32 +2920,31 @@
                     </li>
                 </ul>
                 </paragraphs>
-            </list>
-            <list>
-                <paragraphs><title>Titles</title>
-                <ul>
-                    <li>
-                        <p>
-                            Knowing what to capitalize in titles can be incredibly confusing and frustrating. Different styles have their own policies, so consult the official stylebooks for the style in which you're writing. In general, when capitalizing, it is usually safe to capitalize:
-                            <ul>
-                                <li><p>The title's first word</p></li>
-                                <li><p>Adjectives, adverbs, pronouns, nouns, proper nouns, and verbs (except the <q>to</q> in infinitives)</p></li>
-                            </ul>
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            It is usually safe not to capitalize:
-                            <ul>
-                                <li><p>Articles (a, an, the)</p></li>
-                                <li><p>Coordinating conjunctions (and, or, but, for, yet, so, nor)</p></li>
-                            </ul>
-                        </p>
-                    </li>
-                    <li><p>It is also fairly painless to find a capitalization automator online, which will capitalize your title according to the stylesheet you choose. (Google search <q>Capitalize my title.</q>)</p></li>
-                </ul>
-                </paragraphs>
-            </list>
+            </list> -->
+            <paragraphs xml:id="par-mechanics-capitalizing-titles">
+                <title>Capitalizing Titles</title>
+                <p>
+                    Knowing what to capitalize in titles can be incredibly confusing and frustrating. Different styles have their own policies, so consult the official stylebooks for the style in which you're writing. In general, when capitalizing, it is usually safe to capitalize:
+                    <ul>
+                        <li>
+                            <p>the title's first word</p>
+                        </li>
+                        <li>
+                            <p><xref ref="definition-adjective">adjectives</xref>, <xref ref="definition-adverb">adverbs</xref>, <xref ref="definition-pronoun">pronouns</xref>, <xref ref="definition-noun">nouns</xref>, proper nouns, and <xref ref="definition-verb">verbs</xref> (except the <q>to</q> in infinitives).</p>
+                        </li>
+                    </ul>
+                    It is usually safe not to capitalize:
+                    <ul>
+                        <li>
+                            <p>articles (a, an, the)</p>
+                        </li>
+                        <li>
+                            <p><xref ref="definition-conjunction-coordinating">coordinating conjunctions</xref></p>
+                        </li>
+                    </ul>
+                </p>
+                <p>It is also fairly painless to find a capitalization automator online, which will capitalize your title according to the stylesheet you choose. (Google search <q>Capitalize my title.</q>)</p>
+            </paragraphs>
         </subsection>
     </section>
     <section xml:id="top-10-tips-confusing-english">
