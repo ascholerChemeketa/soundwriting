@@ -50,12 +50,7 @@
                         <em>Start early.</em>
                     </p>
                     <p>
-                        You never know exactly how long your research project is going to take, but chances are it's going to take a lot longer than you think. The first sources you find won't always be the most helpful, so it's important to take your time with the search. Also, your question will change from when you first begin, so make sure you allow yourself enough time to get that second or third round of research done, as well.
-                    </p>
-                    <p>
-                        <assemblage>
-                            <p>If you find a really great book through SUMMIT or ILLiad, remember that it can take up to ten business days to get to you, so it's important to account for that in your timeline.</p>
-                        </assemblage>
+                        You never know exactly how long your research project is going to take, but chances are it's going to take a lot longer than you think. The first sources you find won't always be the most helpful, so it's important to take your time with the search. Also, your question will change from when you first begin, so make sure you allow yourself enough time to get that second or third round of research done, as well. And don't forget about <xref ref="warning-research-fulfillment-time"/>!
                     </p>
                 </li>
                 <li>
@@ -68,6 +63,10 @@
                 </li>
             </ul>
         </list>
+        <warning xml:id="warning-research-fulfillment-time">
+            <title>Order Fulfillment Time</title>
+            <p>If you find a really great book through <accro>SUMMIT</accro> or ILLiad, remember that it can take up to ten business days to get to you, so it's important to account for that in your timeline.</p>
+        </warning>
         <paragraphs>
             <title>Organizing and Analyzing Sources</title>
             <p>Research is a creative, recursive process, and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
@@ -209,7 +208,7 @@
             <dl>
                 <li>
                     <title>An asterisk (<c>*</c>)</title>
-                    <p>at the end of a word (or root of a word) or to replace a letter within a word: <c>Wom*n</c> will tell the database to search for both <q>women</q> and <q>woman.</q> <c>Canad*</c> will tell the database to search for <q>Canada</q> and <q>Canadian.</q></p>
+                    <p>at the end of a word (or root of a word) will replace a letter within a word: <c>Wom*n</c> will tell the database to search for both <q>women</q> and <q>woman.</q> <c>Canad*</c> will tell the database to search for <q>Canada</q> and <q>Canadian.</q></p>
                 </li>
                 <li>
                     <title>Quotation marks (<c>" "</c>)</title>
