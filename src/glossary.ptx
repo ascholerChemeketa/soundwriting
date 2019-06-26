@@ -201,6 +201,10 @@
     <list xml:id="list-glossary-grammar-terms">
         <title>Grammar Terms</title>
         <dl>
+            <li xml:id="definition-proper-noun">
+                <title>proper noun</title>
+                <p>a specific <xref ref="definition-noun"/>, like a name, though not limited to human names. Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Cafe)</p>
+            </li>
             <li xml:id="definition-subject">
                 <title>subject</title>
                 <p>is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction.</p>
