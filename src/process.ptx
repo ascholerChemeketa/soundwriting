@@ -96,31 +96,28 @@
                         </li>
                         <li>
                             <p>
-                                <em>Create a <xref ref="par-process-mind-map"/></em>
+                                <em>Create a <xref ref="planning-mind-map"/></em>
                             </p>
                         </li>
                         <li>
                             <p>
-                                <em>Try <xref ref="par-process-freewrite"/></em>
+                                <em>Try <xref ref="planning-freewrite"/></em>
                             </p>
                         </li>
                         <li>
                             <p>
-                                <em>Try <xref ref="par-process-draw"/></em>
+                                <em>Try <xref ref="planning-draw"/></em>
                             </p>
                         </li>
                     </ul>
                 </list>
-            <!-- </subsubsection> -->
-            <!-- <subsubsection xml:id="planning-planning-strategies"> -->
-                <!-- <title>Some Planning Strategies</title> -->
                 <sidebyside width="50%">
                     <image source="images/WP-PlanningHead"/>
                 </sidebyside>
-                <paragraphs xml:id="par-process-mind-map">
-                    <title>Mind Map</title>
-                    <p>Mind maps can help you organize your ideas further by identifying different parts of your argument and drawing connections between them. Start with your main idea or topic in the center of the page. Then write down subheadings for everything you think is important for understanding your argument around this main idea. Then write down the pieces of evidence or the reasons you believe your argument beneath each of these subheadings. Finally, use arrows, pictures, or words to draw connections between the main idea, subheadings, and pieces of evidence. For a more visual approach, draw heavier lines or multiple arrows between the relationships that are the strongest so you can identify where your argument is the most convincing.</p>
-                </paragraphs>
+            </subsubsection>
+            <subsubsection xml:id="planning-mind-map">
+                <title>Mind Map</title>
+                <p>Mind maps can help you organize your ideas further by identifying different parts of your argument and drawing connections between them. Start with your main idea or topic in the center of the page. Then write down subheadings for everything you think is important for understanding your argument around this main idea. Then write down the pieces of evidence or the reasons you believe your argument beneath each of these subheadings. Finally, use arrows, pictures, or words to draw connections between the main idea, subheadings, and pieces of evidence. For a more visual approach, draw heavier lines or multiple arrows between the relationships that are the strongest so you can identify where your argument is the most convincing.</p>
                 <assemblage>
                     <title>Helpful Questions for Making a Mind Map</title>
                     <p>
@@ -152,10 +149,10 @@
                 <sidebyside width="50%">
                     <image source="images/WP-Mindmap"/>
                 </sidebyside>
-                <paragraphs xml:id="par-process-freewrite">
-                    <title>Freewriting</title>
-                    <p>Another great way to start planning to write your paper is to write! In the freewriting method, write down everything you can think about your topic: thesis, claims, evidence, areas of uncertainty, logic gaps, anything you know you will have to address while writing your paper. Don't worry about formatting or grammar or sentence styling or whether your writing <q>looks good</q><mdash/>those will come later. For now, try to focus on the content of your argument: What do you want to argue, what evidence do you have to argue it, and what do you want the audience to get out of your paper? Freewriting can be useful for helping you figure out what you truly want to write about, and oftentimes your argument and thesis may even change after you've let the pencil wander aimlessly. Let it! This is proof that you are actively thinking about and revising your argument, which is a crucial part of the writing process.</p>
-                </paragraphs>
+            </subsubsection>
+            <subsubsection xml:id="planning-freewrite">
+                <title>Freewriting</title>
+                <p>Another great way to start planning to write your paper is to write! In the freewriting method, write down everything you can think about your topic: thesis, claims, evidence, areas of uncertainty, logic gaps, anything you know you will have to address while writing your paper. Don't worry about formatting or grammar or sentence styling or whether your writing <q>looks good</q><mdash/>those will come later. For now, try to focus on the content of your argument: What do you want to argue, what evidence do you have to argue it, and what do you want the audience to get out of your paper? Freewriting can be useful for helping you figure out what you truly want to write about, and oftentimes your argument and thesis may even change after you've let the pencil wander aimlessly. Let it! This is proof that you are actively thinking about and revising your argument, which is a crucial part of the writing process.</p>
                 <insight>
                     <p>
                         If you're having trouble getting started, here are some prompts to help get you going:
@@ -167,10 +164,10 @@
                         </ul>
                     </p>
                 </insight>
-                <paragraphs xml:id="par-process-draw">
-                    <title>Drawing</title>
-                    <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic<ndash/>stylized picture for each step of your argument. You do you!</p>
-                </paragraphs>
+            </subsubsection>
+            <subsubsection xml:id="planning-draw">
+                <title>Drawing</title>
+                <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic<ndash/>stylized picture for each step of your argument. You do you!</p>
                 <sidebyside width="50%">
                     <image source="images/WP-ChalkboardTip"/>
                 </sidebyside>
