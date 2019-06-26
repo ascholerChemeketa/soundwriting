@@ -200,16 +200,20 @@
                 <p>As you write about mental and physical illnesses, be conscious of how they intersect with other aspects of identity. For example, as a member of the University of Puget Sound NAMI club points out, a woman with a mental illness is more likely to be written about as weak and emotional, while men with mental illness tend to be portrayed as violent and angry. These depictions perpetuate false stereotypes of both mental illness and gender. Additionally, the way physical and mental illnesses are conceptualized, diagnosed, and treated varies between different cultures, and factors such as immigration, racial discrimination, and expensive healthcare and medication make access to treatment inaccessible for many people. When writing about illnesses, health, and disability, avoid making broad generalizations, since people’s bodily experiences are dependent on a plethora of other aspects of their identities. Additionally, because of this diversity, the experience of a mental illness for one person is often not the same as for another, and a treatment that works for one person will not necessarily work for another. For more on the importance of writing with specificity, see <xref ref="intersectionality"/> on intersectionality.</p>
                 <p>While it is impossible to foresee and prevent every knowledge gap, using people<ndash/>first language can be a way to combat ableism by acknowledging the common humanity of all individuals rather than referring to certain individuals only by their disability or handicap. To learn more about whether to use people<ndash/>first language, review <xref ref="writewithequity"/>. The use of ableist words and phrases remains common in both written and spoken communication. Check out the example below for a list of words to avoid as well as words that you can choose to use instead to write and think more equitably. Please consider these terms as an introduction to an ongoing conversation rather than a comprehensive guide, and continue to foster your awareness by continuing to learn and ask questions!</p>
                 <example xml:id="ableist-phrases">
-                    <!-- REVISE to have accurate scope and framing and to use lists consistently -->
                     <title>Frequently used Ableist Phrases and Alternatives</title>
-                    <paragraphs>
-                        <title>Ableist</title>
-                            <p>crazy, confined to a wheelchair, defective, dumb, feebleminded, handicapped, idiotic, insane, invalid, lame, lunatic, manic, mental, moron, retard, psycho, psychotic, schizo, short<ndash/>bus, spaz, simpleton, stupid, special/special needs, unbalanced, unstable</p>
-                    </paragraphs>
-                    <paragraphs>
-                        <title>Alternative</title>
-                            <p>neuroatypical/neurovariant/neurodivergent, with a/an (physical, mobility, intellectual, cognitive) disability, blind/low<ndash/>vision, deaf/hard of hearing, uses a wheelchair/cane/walker/crutches, with a chronic health condition</p>
-                    </paragraphs>
+                    <p>
+                        Here are a few common ableist words and phrases along with alternative ways that you can refer to people respectfully:
+                        <dl>
+                            <li>
+                                <title>ableist</title>
+                                <p>crazy, confined to a wheelchair, defective, dumb, feebleminded, handicapped, idiotic, insane, invalid, lame, lunatic, manic, mental, moron, retard, psycho, psychotic, schizo, short<ndash/>bus, spaz, simpleton, stupid, special/special needs, unbalanced, unstable</p>
+                            </li>
+                            <li>
+                                <title>alternatives</title>
+                                <p>neuroatypical/neurovariant/neurodivergent, with a/an (physical, mobility, intellectual, cognitive) disability, blind/low<ndash/>vision, deaf/hard of hearing, uses a wheelchair/cane/walker/crutches, with a chronic health condition</p>
+                            </li>
+                        </dl>
+                    </p>
                 </example>
             </paragraphs>
             <list xml:id="list-neurophysical-inclusivity-guidelines">
