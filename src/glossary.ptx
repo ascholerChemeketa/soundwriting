@@ -207,31 +207,31 @@
             </li>
             <li xml:id="definition-subject">
                 <title>subject</title>
-                <p>is the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction.</p>
+                <p>the person or entity that does an action or is the main focus of the sentence. The subject may be a noun, proper noun, personal pronoun, noun phrase, or different nouns linked by a conjunction.</p>
             </li>
             <li xml:id="definition-predicate">
                 <title>predicate</title>
-                <p>is the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase.</p>
+                <p>the action or description of the subject. Predicates may be verbs, verbs accompanied by helping verbs, or an entire verb phrase.</p>
             </li>
             <li xml:id="definition-direct-object">
                 <title>direct object</title>
-                <p>is the noun on which the action occurs.</p>
+                <p>the noun on which the action occurs.</p>
             </li>
             <li xml:id="definition-indirect-object">
                 <title>indirect object</title>
-                <p>is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object.</p>
+                <p>the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object.</p>
             </li>
             <li xml:id="definition-clause">
                 <title>clause</title>
-                <p>is composed of a <xref ref="definition-subject"/> and a <xref ref="definition-predicate"/>, which also means that every clause has a noun and a verb. </p>
+                <p>composed of a <xref ref="definition-subject"/> and a <xref ref="definition-predicate"/>, which also means that every clause has a noun and a verb. </p>
             </li>
             <li xml:id="definition-independent-clause">
-                <title>independent clause</title>
-                <p>also called a main clause, has a subject and a verb and conveys a complete thought.</p>
+                <title>independent/main clause</title>
+                <p>a subject and a verb and conveys a complete thought.</p>
             </li>
             <li xml:id="definition-dependent-clause">
                 <title>dependent/subordinate clause</title>
-                <p>also called dpendent clause, cannot stand alone because they do not form a complete thought. Subordinate/dependent clauses are dependent on an independent clause to make sense.</p>
+                <p>a sentence element that adds information but that does not form a complete thought. Subordinate/dependent clauses are dependent on an <xref ref="definition-independent-clause"/> to make sense.</p>
             </li>
             <li xml:id="definition-adjective-clause">
                 <title>adjective/relataive clause</title>
@@ -247,19 +247,19 @@
             </li>
             <li xml:id="definition-modifier">
                 <title>modifier</title>
-                <p>is a word, phrase, or clause that characterizes a noun and is typically used to add description or specificity to a sentence.</p>
+                <p>a word, phrase, or clause that characterizes a noun and is typically used to add description or specificity to a sentence.</p>
             </li>
             <li xml:id="definition-present-participle">
                 <title>present participle</title>
-                <p>verb ending in <q><ndash/>ing</q> that acts as an <xref ref="definition-adjective"/></p>
+                <p>a verb ending in <q><ndash/>ing</q> that acts as an <xref ref="definition-adjective"/></p>
             </li>
             <li xml:id="definition-past-participle">
                 <title>past participle</title>
-                <p>verb ending in <q><ndash/>ed</q> (or an irregular form) that acts as an <xref ref="definition-adjective"/></p>
+                <p>a verb ending in <q><ndash/>ed</q> (or an irregular form) that acts as an <xref ref="definition-adjective"/></p>
             </li>
             <li xml:id="definition-gerund">
                 <title>gerund</title>
-                <p>verb ending in <q><ndash/>ing</q> that acts as a <xref ref="definition-noun"/></p>
+                <p>a verb ending in <q><ndash/>ing</q> that acts as a <xref ref="definition-noun"/></p>
             </li>
             <li xml:id="definition-infinitives">
                 <title>infinitive</title>
@@ -267,15 +267,15 @@
             </li>
             <li xml:id="definition-fractional-expression">
                 <title>fractional expression</title>
-                <p>begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun"/></p>
+                <p>an expression that begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun"/></p>
             </li>
             <li xml:id="definition-collective-noun">
                 <title>collective noun</title>
-                <p></p>
+                <p>a <xref ref="definition-noun"/> that refers to a group, like <q>family.</q></p>
             </li>
             <li xml:id="definition-FANBOYS">
                 <title><accro>FANBOYS</accro></title>
-                <p>helps you remember the seven <xref ref="definition-conjunction-coordinating">coordinating conjunctions</xref>, <alert>F</alert>or, <alert>A</alert>nd, <alert>N</alert>or, <alert>B</alert>ut, <alert>O</alert>r, <alert>Y</alert>et, and <alert>S</alert>o</p>
+                <p>an acronym that helps you remember the seven <xref ref="definition-conjunction-coordinating">coordinating conjunctions</xref>, <alert>F</alert>or, <alert>A</alert>nd, <alert>N</alert>or, <alert>B</alert>ut, <alert>O</alert>r, <alert>Y</alert>et, and <alert>S</alert>o</p>
             </li>
         </dl>
     </list>
