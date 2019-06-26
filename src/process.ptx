@@ -235,7 +235,7 @@
                 <paragraphs xml:id="par-intros-common-ground">
                     <title>Common Ground</title>
                     <p>
-                        It's important to begin your introduction with a nice, firm handshake with the audience, which often comes in the form of establishing common ground. Your common ground should do two things: 1) introduce your topic, and 2) establish yourself as an authority on the topic at hand. Common ground is usually established in the form of a factual, uncontroversial statement that is likely familiar to your audience and which may comfortably orient them to your topic. It may also introduce the works, authors, and sources you will be using by drawing an observational similarity between them.
+                        It's important to begin your introduction with a nice, firm handshake with the audience, which often comes in the form of establishing common ground. Your common ground should do two things: 1) introduce your topic, and 2) establish yourself as an authority on the topic at hand. Common ground is usually established in the form of a factual, uncontroversial statement that is likely familiar to your audience and which may comfortably orient them to your topic. It may also introduce the works, authors, and sources you will be using by drawing an observational similarity between them. When establishing common ground, steer clear of these <xref ref="list-process-openings-to-avoid"/> and opt for something like these <xref ref="list-process-effective-openings"/> instead. You can also read more about <xref ref="example-process-revising-opening"/>.
                     </p>
                     <p>
                         <example>
@@ -287,32 +287,41 @@
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="introductions-strategy">
-                <title>Strategies for Writing Effective Introductions</title>
+                <title>Writing Effective Introductions</title>
                 <p>Now that you have the basic tools you need to write an effective introduction, here are some tips and strategies to get you in the intro<ndash/>writing mood.</p>
-                <paragraphs>
-                    <title>Introductions shouldn't necessarily be written first</title>
-                    <p>Even though it appears first in your paper, the introduction is generally not the first thing you write. Oftentimes you need to have a solid thesis and some of your body paragraphs<mdash/>maybe even your whole paper<mdash/>before you begin writing your introduction. Your introduction is supposed to prepare the reader for what to expect in your paper, so it's usually better to wait to write it until you have a really strong idea of where you're headed. This being said, if you feel like writing the introduction will help you develop a path forward, go for it! Just keep in mind that it will likely change as you move through the rest of your paper.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Consider your introduction the <q>road map</q> to your paper</title>
-                    <p>While writing your introduction, you should prepare the audience for what's ahead. To this end, your thesis should reflect the general organization of your argument. However, if you find you need more room to elaborate on the paper's organization, you may also find it helpful to include a clear road map for what you plan to accomplish. You may even want to be very explicit, using phrasing something like this: <q>First, I will explore this issue. Then, I will look at the issue from this perspective. Finally, I will bring these two first parts together to examine the issue in this way.</q> Don't be afraid to tell the audience exactly what they should expect from you and your argument; doing so establishes you as the authority, provides your audience with a compass to guide them through your paper, and disables the risk of any surprises sneaking through that may take your audience off guard.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Introductions can be multiple paragraphs</title>
-                    <p>Especially for longer responses, such as research papers, you may find that the introduction of your topic and explanation of the problem takes a few paragraphs<mdash/>that's okay! You may not even get to your thesis until a page or so in. Depending on the recommended length of your paper, this may be appropriate to the scope of your argument. It's also okay if you feel you are putting too much in the introduction<mdash/>first write as much as you feel is necessary to get to your thesis statement, then go back and see if there is anything that could justify its own body paragraph or that may not be as necessary to your introduction as you originally thought.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Start with something concise, engaging, and applicable</title>
-                    <p>Crafting the opening sentence of your introduction can be a daunting task, especially as it sets the tone for your argument, introduces the topic of your paper, and is the first thing your audience will read. Thinking about how broad or specific to start can be useful in helping you figure out the appropriate scope for your introduction. For instance, many introductions start with a broader statement and then narrow in scope as they begin to focus in on the specific problem and the thesis. While this structure is useful, it's important to keep in mind that the <q>broader</q> opening statement should still be specific to your topic, interesting, and relevant to what you will be discussing. For example, you probably shouldn't start a research paper about the destruction of the Sundarbans mangrove forest with the opening statements, <q>Forests are inherently valuable to mankind</q> or <q>Mankind is destroying the Earth's natural resources.</q> Both of these statements are too broad to generate much interest and don't really indicate what the paper will be about. Consider instead the opening statement:</p>
+                <note>
+                    <!-- <title></title> -->
+                    <p>You don't necessarily need to write your introduction first! Even though it appears first in your paper, the introduction is generally not the first thing you write. Oftentimes you need to have a solid thesis and some of your body paragraphs<mdash/>maybe even your whole paper<mdash/>before you begin writing your introduction. Your introduction is supposed to prepare the reader for what to expect in your paper, so it's usually better to wait to write it until you have a really strong idea of where you're headed. This being said, if you feel like writing the introduction will help you develop a path forward, go for it! Just keep in mind that it will likely change as you move through the rest of your paper.</p>
+                </note>
+                <list xml:id="list-process-introduction-strategies">
+                    <title>Strategies for Writing Effective Introductions</title>
+                    <ul>
+                        <li>
+                            <p><em>Consider your introduction the <q>road map</q> to your paper.</em></p>
+                            <p>While writing your introduction, you should prepare the audience for what's ahead. To this end, your thesis should reflect the general organization of your argument. However, if you find you need more room to elaborate on the paper's organization, you may also find it helpful to include a clear road map for what you plan to accomplish. You may even want to be very explicit, using phrasing something like this: <q>First, I will explore this issue. Then, I will look at the issue from this perspective. Finally, I will bring these two first parts together to examine the issue in this way.</q> Don't be afraid to tell the audience exactly what they should expect from you and your argument; doing so establishes you as the authority, provides your audience with a compass to guide them through your paper, and disables the risk of any surprises sneaking through that may take your audience off guard.</p>
+                        </li>
+                        <li>
+                            <p><em>Make the length of your introduction proportional to the length of your paper.</em></p>
+                            <p>Especially for longer responses, such as research papers, you may find that the introduction of your topic and explanation of the problem takes a few paragraphs<mdash/>that's okay! You may not even get to your thesis until a page or so in. Depending on the recommended length of your paper, this may be appropriate to the scope of your argument. It's also okay if you feel you are putting too much in the introduction<mdash/>first write as much as you feel is necessary to get to your thesis statement, then go back and see if there is anything that could justify its own body paragraph or that may not be as necessary to your introduction as you originally thought.</p>
+                        </li>
+                        <li>
+                            <p><em>Start with something concise, engaging, and applicable.</em></p>
+                            <p>Crafting the opening sentence of your introduction can be a daunting task, especially as it sets the tone for your argument, introduces the topic of your paper, and is the first thing your audience will read. Thinking about how broad or specific to start can be useful in helping you figure out the appropriate scope for your introduction. For instance, many introductions start with a broader statement and then narrow in scope as they begin to focus in on the specific problem and the thesis. While this structure is useful, it's important to keep in mind that the <q>broader</q> opening statement should still be specific to your topic, interesting, and relevant to what you will be discussing.</p>
+                        </li>
+                    </ul>
+                </list>
+                <sidebyside width="50%">
+                    <image source="images/WP-AccentTree"/>
+                </sidebyside>
+                <example xml:id="example-process-revising-opening">
+                    <title>Revising an Opening Statement</title>
+                    <p>For example, you probably shouldn't start a research paper about the destruction of the Sundarbans mangrove forest with the opening statements, <q>Forests are inherently valuable to mankind</q> or <q>Mankind is destroying the Earth's natural resources.</q> Both of these statements are too broad to generate much interest and don't really indicate what the paper will be about. Consider instead the opening statement:</p>
                     <blockquote>
                         <p><q>Comprising the largest block of mangrove forest globally and accounting for 3% of global mangrove area, the Sundarbans of Eastern India and Bangladesh are biogeographically, ecologically, and culturally unique in their species biodiversity and ecosystem services.</q></p>
                     </blockquote>
                     <p>This statement is specific, interesting, and introduces the topic at hand. However, it's also broad enough to hint at the bigger picture while opening the floor to a more specific problem or insight. While there are a variety of different ways to craft an interesting and relevant opening to your introduction, there are some opening statement types that are generally too broad, obvious, informal, over<ndash/>used, or boring to be employed in academic writing and, as a result, should be avoided. (However, it's important to remember that the type of opening statement obviously depends on the discipline and type of writing assignment; therefore, rather than strictly adhering to this list, use it as a guide.)</p>
-                </paragraphs>
-                <sidebyside width="50%">
-                    <image source="images/WP-AccentTree"/>
-                </sidebyside>
-                <list xml:id="par-process-openings-to-avoid">
+                </example>
+                <list xml:id="list-process-openings-to-avoid">
                     <title>Opening Statements to Avoid</title>
                     <ul>
                         <li><p>Vague and sweeping statements (<q>Since the dawn of mankind<nbsp/><ellipsis/>,</q> <q>Since the beginning of time<nbsp/><ellipsis/>,</q> <q>The truth is<nbsp/><ellipsis/>,</q> <q>Writers have always<nbsp/><ellipsis/></q>)</p></li>
@@ -522,20 +531,25 @@
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="conclustion-strategy">
-                <title>Strategies for Writing Effective Conclusions</title>
+                <title>Writing Effective Conclusions</title>
                 <p>Now that you know the basic parts of a conclusion, here are some tips and strategies to make yours as effective as it can be.</p>
-                <paragraphs>
-                    <title>Try articulating your entire argument in three to four sentences</title>
-                    <p>When crafting your conclusion, it can be tempting to rewrite as much as you can about your argument, because it's all important, right? Where do you stop? How much is too much? You may even feel tempted to just copy and paste your topic sentences into the conclusion to avoid having to rearticulate your entire argument. Try to resist these temptations to be lazy. The purpose of the conclusion is to consolidate only the <em>most important points of your paper</em> to demonstrate how they fit together to form your overall argument. Your audience has already read your paper, so what are the points you want them to remember? To avoid simply rewriting your paper in the conclusion, try expressing your entire argument in three to four sentences, thinking only about the critical organs that keep your paper alive. Your conclusion should represent a sharper condensation of your argument.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Restate your thesis <ellipsis/> without looking at your thesis</title>
-                    <p>Don't just copy and paste your thesis from the introduction, hoping that your audience won't notice. They will notice, because the introduction and conclusion fulfill very different functions, and you introduction should emphasize different parts of your argument than your conclusion does. Your argument likely will have evolved or grown somewhat over the course of writing your paper; while you may have to revise your thesis to reflect this, the way you present your argument in your conclusion will likely be slightly different from how you wrote it in the introduction. To avoid simply restating your thesis using the same language, try writing your conclusion without looking at your thesis at all. As you should now be intimately acquainted with your topic (having just written several pages on it), doing so will likely enable you to restate your thesis to reflect a more evolved and sophisticated understanding of your argument.</p>
-                </paragraphs>
-                <paragraphs>
-                    <title>Play the <q>But, why?</q> game with a friend</title>
-                    <p>If you've ever spent time around young children, you are likely familiar with the <q>But, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer, <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say, <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a writing advisor read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
-                </paragraphs>
+                <list xml:id="list-process-conclusion-strategies">
+                    <title>Strategies for Writing Effective Conclusions</title>
+                    <ul>
+                        <li>
+                            <p><em>Try articulating your entire argument in three to four sentences.</em></p>
+                            <p>When crafting your conclusion, it can be tempting to rewrite as much as you can about your argument, because it's all important, right? Where do you stop? How much is too much? You may even feel tempted to just copy and paste your topic sentences into the conclusion to avoid having to rearticulate your entire argument. Try to resist these temptations to be lazy. The purpose of the conclusion is to consolidate only the <em>most important points of your paper</em> to demonstrate how they fit together to form your overall argument. Your audience has already read your paper, so what are the points you want them to remember? To avoid simply rewriting your paper in the conclusion, try expressing your entire argument in three to four sentences, thinking only about the critical organs that keep your paper alive. Your conclusion should represent a sharper condensation of your argument.</p>
+                        </li>
+                        <li>
+                            <p><em>Restate your thesis <ellipsis/> without looking at your thesis.</em></p>
+                            <p>Don't just copy and paste your thesis from the introduction, hoping that your audience won't notice. They will notice, because the introduction and conclusion fulfill very different functions, and you introduction should emphasize different parts of your argument than your conclusion does. Your argument likely will have evolved or grown somewhat over the course of writing your paper; while you may have to revise your thesis to reflect this, the way you present your argument in your conclusion will likely be slightly different from how you wrote it in the introduction. To avoid simply restating your thesis using the same language, try writing your conclusion without looking at your thesis at all. As you should now be intimately acquainted with your topic (having just written several pages on it), doing so will likely enable you to restate your thesis to reflect a more evolved and sophisticated understanding of your argument.</p>
+                        </li>
+                        <li>
+                            <p><em>Play the <q>But, why?</q> game with a friend.</em></p>
+                            <p>If you've ever spent time around young children, you are likely familiar with the <q>But, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer, <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say, <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a writing advisor read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
+                        </li>
+                    </ul>
+                </list>
                 <sidebyside width="50%">
                     <image source="images/WP-ButWhy"/>
                 </sidebyside>
