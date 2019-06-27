@@ -184,7 +184,7 @@
                                 <ul>
                                     <li><p>Do each of my claims follow a purposeful pattern or sequence?</p></li>
                                     <li><p>Is this pattern chronological? Logic<ndash/>based? In order of importance? Compare<ndash/>contrast?</p></li>
-                                    <li><p>Am I giving my audience everything they need to fully understand your argument?</p></li>
+                                    <li><p>Am I giving my audience everything they need to fully understand my argument?</p></li>
                                     <li><p>Does the order of my claims merely list points or does it culminate toward a larger argument?</p></li>
                                     <li><p>Does my argument naturally follow from the claims I presented, in the order I presented them?</p></li>
                                     <li><p>Does the order of my claims roughly follow the arrangement of my thesis?</p></li>
@@ -577,7 +577,8 @@
             <p>The process of researching, writing, and revising is not linear. You don't stop researching when you start writing, and you don't stop researching or writing when you begin revising. As was mentioned in <xref ref="forming-your-argument"/>, it is best to think of your initial thesis as a <term>working thesis</term>. During your research, writing, and revising process, your argument will (and should) change based on what you read and write. You may end up writing a completely different paper than you had originally envisioned, or your final thesis may simply be a revised and refined version of your working thesis. Regardless, as you write your first draft, it is important that you don't stop doing research. How, then, does your research process evolve with your writing?</p>
             <p>Research is initially very broad. You're trying to figure out what scholarship on your topic exists and where you might contribute to the scholarly conversation regarding that topic. As you work toward a thesis, that research will become increasingly specific because you have a better idea of what kind of sources and evidence you need and what kind of background your reader will need to make sense of your argument. Figuring out when to write, when to research, and when to revise can be difficult, so below are some tips and tricks to help you determine what to do and when to do it.</p>
             <paragraphs>
-                <title>First, after you do your initial research, WRITE!</title>
+                <title>Writing while Researching</title>
+                <!-- <title>First, after you do your initial research, WRITE!</title> -->
                 <p>Don't let the guise of <q>needing to do more research</q> let you procrastinate on writing for too long. Because time, accessibility, and resources limit the type and amount of research you can do, you will never have enough research (but that's okay!). You should start writing when you feel like you have a solid understanding of necessary background information and a good outline of your argument. (Of course, you can always write before this point in the process, too.) Even if what you're writing is incoherent and doesn't end up in the final draft, the process of getting your thoughts onto paper will help you sort out your ideas.</p>
             </paragraphs>
             <assemblage>
@@ -591,19 +592,22 @@
                             <li><p>have nothing else to say and realize that you need to expand your research question and argument.</p></li>
                             <li><p>are repeatedly citing the same source (unless that source is what your paper is about!).</p></li>
                         </ul>
-                        Don't make a claim without the evidence to back it up!
+                        Don't make a claim without the evidence to back it up! If you're feeling stuck but don't think you need to do more research, check out <xref ref="what-to-do-when-you-get-stuck"/>.
                     </p>
             </assemblage>
-            <paragraphs>
+            <!-- <paragraphs>
                 <title>Review</title>
                 <p><xref ref="what-to-do-when-you-get-stuck" text="title"/> If you're stuck and not sure whether or not it's because you need to do more research.</p>
-            </paragraphs>
+            </paragraphs> -->
+            <note>
+                <title>Unused Research</title>
+                <!-- <title>Don't worry if you don't use all of your research</title> -->
+                <p>Don't worry if you don't use all of your research! If reading this list is making you sad and overwhelmed (<q>But I already have so much research! I've already done so much work! I'm already so overwhelmed!</q>), worry not. A lot of the initial research you do doesn't end up being part of your final product, but that's okay! Doing a lot of research helps familiarize you with the field and points your research in the right direction. While researching and writing, it's normal to realize that you don't actually need to write about everything that you read.</p>
+                <!-- Conducting research while you're writing only means that you're a step (or a few steps!)  closer to a final draft.-->
+                <!-- you may realize that you need information you hadn't anticipated or even known existed prior to researching -->
+            </note>
             <paragraphs>
-                <title>Don't worry if you don't use all of your research</title>
-                <p>If reading this list is making you sad and overwhelmed (<q>But I already have so much research! I've already done so much work! I'm already so overwhelmed!</q>), worry not. A lot of the initial research you do doesn't end up being part of your final product, but that's okay! Doing a lot of research helps familiarize you with the field and points your research in the right direction. Conducting research while you're writing only means that you're a step (or a few steps!) closer to a final draft. While researching and writing, you may realize that you need information you hadn't anticipated or even known existed prior to researching.</p>
-            </paragraphs>
-            <paragraphs>
-                <title>Compartmentalize</title>
+                <title>Bringing Order to the Chaos</title>
                 <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (Remember you can use a knowledge management tool like <xref ref="zotero"/> to keep track of sources or a <init>PDF</init> reader like <xref ref="adobe-acrobat-reader"/> to mark up your digital copies of texts).</p>
             </paragraphs>
             <sidebyside width="50%">
