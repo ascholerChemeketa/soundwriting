@@ -25,7 +25,7 @@
                 <title>Synthesize</title>
                 <p>to combine or integrate several things into one coherent whole.</p>
             </li>
-            <li>
+            <li xml:id="definition-thesis">
                 <title>Thesis</title>
                 <p>an argument, or the statement of an argument to be followed by substantiation.</p>
             </li>
@@ -276,6 +276,51 @@
             <li xml:id="definition-FANBOYS">
                 <title><accro>FANBOYS</accro></title>
                 <p>an acronym that helps you remember the seven <xref ref="definition-conjunction-coordinating">coordinating conjunctions</xref>, <alert>F</alert>or, <alert>A</alert>nd, <alert>N</alert>or, <alert>B</alert>ut, <alert>O</alert>r, <alert>Y</alert>et, and <alert>S</alert>o</p>
+            </li>
+        </dl>
+    </list>
+    <list>
+        <title>Unsorted Glossary Terms</title>
+        <dl>
+            <li>
+                <title>Roulmin model</title>
+                <p>model of argumentation that prioritizes evidence, claim, and warrants as the most critical parts of an argument.</p>
+            </li>
+            <li>
+                <title>classical approach</title>
+                <p>model of argumentation that requres you to propose a certain stance, refute the opposing view, and offer proof to substantiate your claims.</p>
+            </li>
+            <li>
+                <title>Rogerian model</title>
+                <p>model of argumentation that promotes more neutral and compromising view of both sides of an argument.</p>
+            </li>
+            <li>
+                <title>quote sandwich</title>
+                <p>a three<ndash/>part organizational template for incorporating evidence into a paper that consists of introducing context of evidence in argument (upper bun), quoting and citing evidence (filling), and analyzing evidence (lower bun).</p>
+            </li>
+            <li>
+                <title>classic outline</title>
+                <p>an outline technique that is very linear, organized, and clear because it organizes your paper.</p>
+            </li>
+            <li>
+                <title>bubble map</title>
+                <p>an outline technique that is less<ndash/>structured than the classic outline and allow you to nonlinearly connect your claims.</p>
+            </li>
+            <li>
+                <title>flowchart</title>
+                <p>an outline technique that can show both linear and nonlinear connections between your points.</p>
+            </li>
+            <li>
+                <title>working thesis</title>
+                <p>a <xref ref="definition-thesis"/> that guides your argument but that is still evolving as you write your paper.</p>
+            </li>
+            <li>
+                <title>transitive verb</title>
+                <p>a <xref ref="definition-verb"/> that accepts a <xref ref="definition-direct-object"/> and possibly also an <xref ref="definition-indirect-object"/>.</p>
+            </li>
+            <li>
+                <title>pragmatics</title>
+                <p>the study of cultural and contextual language rules </p>
             </li>
         </dl>
     </list>
