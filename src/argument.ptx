@@ -163,12 +163,9 @@
             <sidebyside width="50%">
                 <image source="images/AD-WorkingThesisResearch"/>
             </sidebyside>
-            <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready?</p>
+            <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready? You can ask yourself if your thesis is doing <acro>MORE</acro>.</p>
             <list xml:id="lsit-argument-MORE">
-                <title>Do <acro>MORE</acro></title>
-                <introduction>
-                    <p>A solid thesis often does <acro>MORE</acro>.</p>
-                </introduction>
+                <title><acro>MORE</acro></title>
                 <dl>
                     <li>
                         <title>Makes</title> 
@@ -192,7 +189,7 @@
                 <image source="images/AD-IsItReadyYet"/>
             </sidebyside>
             <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p>
-            <p>Consider the following example theses from Puget Sound student papers. In what ways do they or do they not <xref ref="lsit-argument-MORE"/>?</p>
+            <p>Consider the following example theses from Puget Sound student papers. In what ways do they or do they not do <xref ref="lsit-argument-MORE"/>?</p>
             <example xml:id="ex-argument-women-odyssey">
                 <title>Thesis: Women in the <pubtitle>Odyssey</pubtitle></title>
                 <p>While women do have a substantial presence in the <pubtitle>Odyssey</pubtitle>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <pubtitle>Odyssey</pubtitle> primarily reinforces the chauvinist framework through which we view the world.</p>
@@ -239,7 +236,7 @@
                 </li>
                 <li>
                     <p><em>Talk through your argument with someone, perhaps a <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/writing-advisor-schedule">writing advisor at the Center for Writing, Learning, and Teaching</url>!</em></p>
-                    <p>(It might also be helpful to take notes during/record the conversation so you have content from the conversation to use as you return to writing and organizing.)</p>
+                    <p>It might also be helpful to take notes during/record the conversation so you have content from the conversation to use as you return to writing and organizing.</p>
                 </li>
                 <li>
                     <p><em>Ask yourself, <q>Which one seems the most logical?</q></em></p>
@@ -278,7 +275,7 @@
             <p>Effective analysis is predicated on <q>how</q> and <q>why</q> questions. Ask yourself these types of questions to move from the realm of identifying to that of speculating.</p>
             <p>Let's think about some things that we noticed: What do these rhetorical, aesthetic, logical, or formal choices mean, or how do they contribute to the meaning of the text? Pay attention to how form and content intersect. For example, I might look at the phrase <q>a million miles</q> and think that, since the earth is only 8,000 miles in diameter, Adele's longing for this person is otherworldly, or exceeds the bounds of earthly description.</p>
             <blockquote>
-                <p>The song tells us that Adele's in California and that the person she's addressing is <q>a million miles away.</q> I wonder: What's a million miles away from California? I Google the earth's diameter and find that it's roughly 8,000 miles in diameter. I do some math to determine where a million miles from California is. But one million divided by 8,000 comes out evenly<mdash/>125. So Adele's addressee is in California as well, or at least in the area. Then I think, Adele is referring to the distance and not the displacement between herself and her addressee. Thus, though the displacement between Adele and her addressee is 0, the figural distance between them is equal to eight times the earth's diameter. The phrase <q>a million miles</q> then encodes, ironically, that, though they are close to each other geographically, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
+                <p>The song tells us that Adele's in California and that the person she's addressing is <q>a million miles away.</q> I wonder: What's a million miles away from California? I Google the earth's diameter and find that it's roughly 8,000 miles in diameter. I do some math to determine where a million miles from California is. But one million divided by 8,000 comes out evenly<mdash/>125. So Adele's addressee is in California as well, or at least in the area. Then I think, Adele is referring to the distance and not the displacement between herself and her addressee. Thus, though the displacement between Adele and her addressee is 0, the figural distance between them is equal to 125 times the earth's diameter. The phrase <q>a million miles</q> then encodes, ironically, that, though they are close to each other geographically, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
             </blockquote>
         </paragraphs>
         <paragraphs xml:id="Adele-quote-sandwich">
@@ -287,7 +284,9 @@
             <blockquote>
                 <p><green>In <q>Hello,</q> Adele's use of hyperbole reveals the otherworldly intensity of her longing; she sings,</green> <darkred><q>I'm in California dreaming<nbsp/><ellipsis/><nbsp/>/<nbsp/><ellipsis/><nbsp/>/ There's such a difference between us / And a million miles</q> (10<ndash/>11).</darkred> <darkpurple>The phrase <q>a million miles</q> is an exaggerated estimation of the distance between Adele and the person whom she addresses. The use of <q>California</q> as a geographical marker suggests that the person Adele is addressing is a million miles away from California. However, the earth is only 8,000 miles in diameter. One million divided by 8,000 is 125 with no remainder. Assuming the person Adele is addressing is also somewhere on earth, the <q>million miles</q> between Adele and her addressee actually locates the addressee in California. <q>A million miles</q> must then refer to a distance, as opposed to a displacement, suggesting that though the displacement between Adele and her addressee is 0, the figural distance between them is equal to 125 times the earth's diameter. The phrase <q>a million miles</q> then encodes, ironically, that, though they are in the same geographic space, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</darkpurple></p>
             </blockquote>
-            <p>(You'll want to make your thought process as transparent as possible so that others can respond to your argument. For instance, someone could respond to the above argument by saying that a person could travel a million miles in a nonlinear fashion such that Adele and her addressee could as likely be 4,000 miles apart as they are 0 miles apart.)</p>
+            <note>
+                <p>(You'll want to make your thought process as transparent as possible so that others can respond to your argument. For instance, someone could respond to the above argument by saying that a person could travel a million miles in a nonlinear fashion such that Adele and her addressee could as likely be 4,000 miles apart as they are 0 miles apart.)</p>
+            </note>
             <p>And you're done! By following this simple, three<ndash/>step process, the writer comes up with a coherent and thoroughly reasoned analysis that connects evidence to claim in a convincing way.</p>
         </paragraphs>
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality, Sir David Attenborough, narrate the beginning of the <q>Hello</q> music video.</p>
@@ -313,7 +312,7 @@
             <p>You may have noticed that the written analysis (see <xref ref="Adele-quote-sandwich" text="title"/>) in the previous section was rendered in three different colors. These colors represent different parts of the quote sandwich. The clause in green introduces the quotation that follows it and anticipates the argument that will be made about the evidence in the section in purple. The text in red is the quotation introduced by the clause in green and commented on by the text in purple. The text in purple analyzes the text in red and elaborates on the claim forecasted by the text in green.</p>
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
             <assemblage>
-                <title>On the subject of sandwiches</title>
+                <title>On the Subject of Sandwiches</title>
                     <p> Here are three great sandwiches you can build at the SUB:
                         <dl>
                             <li>
