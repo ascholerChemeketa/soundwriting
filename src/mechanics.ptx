@@ -81,7 +81,7 @@
             <title>Basic Sentence Structure</title>
             <subsubsection xml:id="subject-predicate">
                 <title>Subject<ndash/>Predicate</title>
-                <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), a basic sentence is composed of two parts: the subject and the predicate. The <term>subject</term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a <xref ref="definition-noun"/>, proper noun, personal <xref ref="definition-pronoun"/>, <xref ref="definition-noun-phrases"/>, or different nouns linked by a <xref ref="definition-conjunction"/>. The <term>predicate</term> is the action or description of the subject. The predicate may be a <xref ref="definition-verb"/>, a verb accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first<ndash/>year student waited in line for the Farm<ndash/>to<ndash/>Table special,</q> the noun phrase <q>the first<ndash/>year student</q> would be the subject and <q>waited in line for the Farm<ndash/>to<ndash/>Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject).</p>
+                <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), a basic sentence is composed of two parts: the subject and the predicate. The <term>subject<idx>subject</idx></term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a <xref ref="definition-noun"/>, proper noun, personal <xref ref="definition-pronoun"/>, <xref ref="definition-noun-phrases"/>, or different nouns linked by a <xref ref="definition-conjunction"/>. The <term>predicate<idx>predicate</idx></term> is the action or description of the subject. The predicate may be a <xref ref="definition-verb"/>, a verb accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first<ndash/>year student waited in line for the Farm<ndash/>to<ndash/>Table special,</q> the noun phrase <q>the first<ndash/>year student</q> would be the subject and <q>waited in line for the Farm<ndash/>to<ndash/>Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject).</p>
                 <example>
                     <title>Subject<ndash/>Predicate: Sample Sentences</title>
                     <p>
@@ -97,8 +97,8 @@
             <subsubsection xml:id="direct-indirect-objects">
                 <title>Direct and Indirect Objects</title>
                 <p>A complete sentence always has a <xref ref="definition-subject"/> and a <xref ref="definition-predicate"/>. A predicate can include both direct and indirect objects.</p>
-                <p>A <term>direct object</term> is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs.</p>
-                <p>An <term>indirect object</term> is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
+                <p>A <term>direct object<idx>direct object</idx></term> is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs.</p>
+                <p>An <term>indirect object<idx>indirect object</idx></term> is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
                 <sidebyside width="50%">
                     <image source="images/LM-Direct-Indirect"/>
                 </sidebyside>
@@ -112,11 +112,11 @@
                 <!-- </note> -->
                 <!-- <paragraphs xml:id="par-clauses-independent"> -->
                     <!-- <title>Independent/Main</title> -->
-                <p>An <term>independent clause</term>, also called a <term>main clause</term>, has a <xref ref="definition-subject"/> and a <xref ref="definition-verb"/> and conveys a complete thought.</p>
+                <p>An <term>independent clause<idx>independent clause</idx></term>, also called a <term>main clause<idx>main clause</idx></term>, has a <xref ref="definition-subject"/> and a <xref ref="definition-verb"/> and conveys a complete thought.</p>
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-subordinate"> -->
                     <!-- <title>Subordinate/Dependent</title> -->
-                <p>The primary feature of a <term>dependent clause</term> is that it cannot stand alone because it does not form a complete thought. A <xref ref="definition-dependent-clause"/> (also called a <term>dependent clause</term>) is dependent on an <xref ref="definition-independent-clause"/> to make sense. Subordinate clauses begin with a <xref ref="definition-conjunction-subordinate"/>.</p>
+                <p>The primary feature of a <term>dependent clause<idx>dependent clause</idx></term> is that it cannot stand alone because it does not form a complete thought. A <xref ref="definition-dependent-clause"/> (also called a <term>dependent clause<idx>dependent clause</idx></term>) is dependent on an <xref ref="definition-independent-clause"/> to make sense. Subordinate clauses begin with a <xref ref="definition-conjunction-subordinate"/>.</p>
                 <!-- </paragraphs> -->
                 <example>
                     <title>Subordinate/Dependent Clause: Raining Outside</title>
@@ -166,7 +166,7 @@
                     <!-- <title>Adjective/Relative Clauses</title> -->
                     <!-- <p> -->
                         <!-- <ul> -->
-                <p>An <term>adjective/relative clause</term> acts as an adjective to modify a <xref ref="definition-noun"/> (the <xref ref="definition-subject"/>). Adjective clauses begin with a relative <xref ref="definition-pronoun"/> or a relative <xref ref="definition-adverb"/> (that, who, which, whose, whom, when, why, where). Adjective clauses answer questions like <q>Which one?</q> <q>How many?</q> and <q>What kind?</q></p>
+                <p>An <term>adjective/relative clause<idx>adjective/relative clause</idx></term> acts as an adjective to modify a <xref ref="definition-noun"/> (the <xref ref="definition-subject"/>). Adjective clauses begin with a relative <xref ref="definition-pronoun"/> or a relative <xref ref="definition-adverb"/> (that, who, which, whose, whom, when, why, where). Adjective clauses answer questions like <q>Which one?</q> <q>How many?</q> and <q>What kind?</q></p>
                             <!-- <li>Act as adjectives to modify a noun (the subject)</li>
                             <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
                             <li>Answer the question(s): Which one? How many? What kind?</li>
@@ -198,7 +198,7 @@
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-adverb"> -->
                     <!-- <title>Adverb Clauses</title> -->
-                    <p>An <term>adverb clause</term> acts as an <xref ref="definition-adverb"/> to modify the <xref ref="definition-verb"/> in a sentence. Adverb clauses begin with a <xref ref="definition-conjunction-subordinate"/> (although, because, after, until, <etc/>).</p>
+                    <p>An <term>adverb clause<idx>adverb clause</idx></term> acts as an <xref ref="definition-adverb"/> to modify the <xref ref="definition-verb"/> in a sentence. Adverb clauses begin with a <xref ref="definition-conjunction-subordinate"/> (although, because, after, until, <etc/>).</p>
                 
                     <!-- <p>
                         <ul>
@@ -233,7 +233,7 @@
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-noun"> -->
                     <!-- <title>Noun Clauses</title> -->
-                    <p>A <term>noun clause</term> acts as a noun. Noun clauses begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, <etc/>, and answer questions like <q>What?</q> or <q>Who?</q></p>
+                    <p>A <term>noun clause<idx>noun clause</idx></term> acts as a noun. Noun clauses begin with who, whom, which, that, when, how, why, and whatever, whoever, whenever, wherever, <etc/>, and answer questions like <q>What?</q> or <q>Who?</q></p>
                         <!-- <p>
                             <ul>
                                 <li>Act as nouns</li>
@@ -285,7 +285,7 @@
                         </li>
                         <li xml:id="definition-prepositional-phrases">
                             <title>prepositional phrase</title>
-                            <p>Remember that a <xref ref="definition-preposition"/> tells you the timing or placement of a noun. A <term>prepositional phrase</term>, then, is a phrase that tells you about the timing or placement of another part of the sentence. Prepositional phrases function as either adjectives (to modify a noun, as in <q>The cat on the bed</q>) or as adverbs (to modify a verb as in <q>The cat jumped off the bed</q>).</p>
+                            <p>Remember that a <xref ref="definition-preposition"/> tells you the timing or placement of a noun. A <term>prepositional phrase<idx>prepositional phrase</idx></term>, then, is a phrase that tells you about the timing or placement of another part of the sentence. Prepositional phrases function as either adjectives (to modify a noun, as in <q>The cat on the bed</q>) or as adverbs (to modify a verb as in <q>The cat jumped off the bed</q>).</p>
                             <p><q>That cat is <em>under the table</em>.</q></p>
                             <p><q>As I walked <em>along dark campus pathways</em>, I was glad that I had called a security escort.</q></p>
                         </li>
@@ -312,7 +312,7 @@
             </subsubsection>
             <subsubsection xml:id="modifiers">
                 <title>Modifiers</title>
-                <p>A <term>modifier</term> is a word, phrase, or clause that characterizes a noun and is typically used to add description or specificity to a sentence. You can identify the modifier in a sentence by asking yourself which or what kind of noun the sentence is highlighting. For example, in the sentence <q>The students gazed in awe at the towering sequoia tree,</q> the word <q>towering</q> is being used to modify or describe the sequoia tree. Therefore, to identify the modifier, you can ask yourself <q>Which sequoia tree?</q> and answer <q>The towering one.</q></p>
+                <p>A <term>modifier<idx>modifier</idx></term> is a word, phrase, or clause that characterizes a noun and is typically used to add description or specificity to a sentence. You can identify the modifier in a sentence by asking yourself which or what kind of noun the sentence is highlighting. For example, in the sentence <q>The students gazed in awe at the towering sequoia tree,</q> the word <q>towering</q> is being used to modify or describe the sequoia tree. Therefore, to identify the modifier, you can ask yourself <q>Which sequoia tree?</q> and answer <q>The towering one.</q></p>
                 <paragraphs>
                     <title>Participial Phrase as Modifier</title>
                     <p>A <xref ref="definition-participial-phrases"/> can also act as a <xref ref="definition-modifier"/>. For instance, in the sentence <q>Gazing at the towering sequoia tree, the students were in awe,</q> the phrase <q>gazing at the towering sequoia tree</q> is the modifier describing the students. You can play the same game as before: <q>Which students were in awe?</q> <q>The ones gazing at the towering sequoia tree.</q></p>
@@ -425,7 +425,7 @@
         <subsection xml:id="infinitives">
             <title>Grammar of Infinitives</title>
             <introduction>
-                <p><term>Infinitives</term> are verb forms composed of two words, such as <q>to write</q> or <q>to understand.</q> For instance, <q>I like to write sentences using infinitives</q> and <q>To understand infinitives, one should learn when to use them,</q> are examples of the infinitive verb form.</p>
+                <p><term>Infinitives<idx>infinitives</idx></term> are verb forms composed of two words, such as <q>to write</q> or <q>to understand.</q> For instance, <q>I like to write sentences using infinitives</q> and <q>To understand infinitives, one should learn when to use them,</q> are examples of the infinitive verb form.</p>
                 <p>But say you wanted to make these sentences a bit more descriptive. You can do this by adding an <xref ref="definition-adverb"/> or adverbial phrase to the verb forms, such as <q>clearly write</q> or <q>fully understand.</q> This may result in <q>splitting the infinitive,</q> where adverbs or adverbial phrases are inserted between the <q>to</q> and the root verb that follows, as in <q>to clearly write</q> or <q>to fully understand.</q> Split infinitives are hotly contested in the grammar world. Some grammarians argue we should always avoid splitting our infinitives while others assert splitting the infinitive isn't a hard rule and can be done if it preserves thought and sentence fluency. Therefore, it's hard to know when to avoid splitting an infinitive and when it's all right to leave it as is. Below are a few guidelines to help you decide whether or not to split your infinitives (infinitive verb forms are <un s="1">underlined</un>, adverbs are <em>italicized</em>).</p>
             </introduction>
             <subsubsection xml:id="when-to-split-infinitives">
@@ -887,7 +887,7 @@
             </subsubsection>
             <subsubsection xml:id="agreement-fractional-expressions">
                 <title>Fractional Expressions</title>
-                <p>A <term>fractional expression</term> begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun"/>.</p>
+                <p>A <term>fractional expression<idx>fractional expression</idx></term> begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun"/>.</p>
                 <p>Generally, fractional expressions can agree with either plural or singular <xref ref="definition-verb">verbs</xref>. Pick the type of verb based on the meaning and context of the fractional expression.</p>
                 <example>
                     <title>Fractional Expressions with Plural Agreement</title>
@@ -1068,7 +1068,7 @@
             <title>Problems with Modifiers</title>
             <subsubsection xml:id="parallelism-misplaced-modifiers">
                 <title>Misplaced Modifiers</title>
-                <p>While modifiers can be extremely useful for spicing up sentences, they can sometimes be misplaced too far from the noun they are intending to describe. These <term>misplaced modifiers</term> not only make the sentence confusing to read; they also may actually end up describing something they're not supposed to describe. For instance, take the following sentence:</p>
+                <p>While modifiers can be extremely useful for spicing up sentences, they can sometimes be misplaced too far from the noun they are intending to describe. These <term>misplaced modifiers<idx>misplaced modifiers</idx></term> not only make the sentence confusing to read; they also may actually end up describing something they're not supposed to describe. For instance, take the following sentence:</p>
                 <blockquote>
                     <p><q>Towering above the heads of the students, we gazed in awe up at the sequoia tree.</q></p>
                 </blockquote>
@@ -1102,7 +1102,7 @@
             </subsubsection>
             <subsubsection xml:id="parallelism-dangling-modifiers">
                 <title>Dangling Modifiers</title>
-                <p>In addition to misplaced modifiers, a <term>dangling modifier</term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
+                <p>In addition to misplaced modifiers, a <term>dangling modifier<idx>dangling modifier</idx></term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
                 <blockquote>
                     <p><q>After writing for hours in Collins Library, the paper was finally finished.</q></p>
                 </blockquote>
@@ -1308,7 +1308,7 @@
         </subsection>
         <subsection xml:id="style-using-passive-cautiously">
             <title>Using Passive Constructions Cautiously</title>
-            <p>The <term>passive voice</term> is <em>passive</em> because sentences in this structure de<ndash/>emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs</term>, which take <xref ref="definition-direct-object">direct objects</xref>.</p>
+            <p>The <term>passive voice<idx>passive voice</idx></term> is <em>passive</em> because sentences in this structure de<ndash/>emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs<idx>transitive verbs</idx></term>, which take <xref ref="definition-direct-object">direct objects</xref>.</p>
             <example>
                 <title>Active Versus Passive Voice</title>
                 <p>
@@ -1453,7 +1453,7 @@
         <subsection xml:id="considering-homophones">
             <title>Considering Homophones</title>
             <introduction>
-                <p><term>Homophones</term> are words that sound the same but have different meanings and spellings. Because homophones share the same pronunciations (or sound similar), they are commonly confused in writing, especially when you know the spelling of one homophone but intend to convey the other. Below is a list of commonly confused homophones and some example sentences using them. But if you are unsure of a word and it's not listed here, try looking it up in a dictionary or thesaurus to make sure it's the word you want!</p>
+                <p><term>Homophones<idx>homophones</idx></term> are words that sound the same but have different meanings and spellings. Because homophones share the same pronunciations (or sound similar), they are commonly confused in writing, especially when you know the spelling of one homophone but intend to convey the other. Below is a list of commonly confused homophones and some example sentences using them. But if you are unsure of a word and it's not listed here, try looking it up in a dictionary or thesaurus to make sure it's the word you want!</p>
             </introduction>
             <!-- ROB'S ALTERNATIVE SUGGESTION TO USING TABLES FOR HOMOPHONES -->
             <!-- <paragraphs>

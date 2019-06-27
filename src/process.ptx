@@ -195,21 +195,21 @@
             </introduction>
             <subsubsection xml:id="outlining-classic">
                 <title>The Classic Outline</title>
-                    <p>The <term>classic outline</term> is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
+                    <p>The <term>classic outline<idx>classic outline</idx></term> is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
                     <sidebyside width="50%">
                         <image source="images/WP-ClassicOutline"/>
                     </sidebyside>
             </subsubsection>
             <subsubsection xml:id="the-bubble-map">
                 <title>The Bubble Map</title>
-                <p>The <term>bubble map</term> is a great option for writers who prefer a less-structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
+                <p>The <term>bubble map<idx>bubble map</idx></term> is a great option for writers who prefer a less-structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
                 <sidebyside width="50%">
                     <image source="images/WP-BubbleMap"/>
                 </sidebyside>
             </subsubsection>
             <subsubsection xml:id="outlining-flowchart">
                 <title>The Flowchart</title>
-                <p><term>Flowcharts</term> work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
+                <p><term>Flowcharts<idx>flowcharts</idx></term> work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
                 <sidebyside width="50%">
                     <image source="images/WP-Flowchart"/>
                 </sidebyside>
@@ -574,7 +574,7 @@
             <sidebyside width="50%">
                 <image source="images/research-process-not-linear"/>
             </sidebyside>
-            <p>The process of researching, writing, and revising is not linear. You don't stop researching when you start writing, and you don't stop researching or writing when you begin revising. As was mentioned in <xref ref="forming-your-argument"/>, it is best to think of your initial thesis as a <term>working thesis</term>. During your research, writing, and revising process, your argument will (and should) change based on what you read and write. You may end up writing a completely different paper than you had originally envisioned, or your final thesis may simply be a revised and refined version of your working thesis. Regardless, as you write your first draft, it is important that you don't stop doing research. How, then, does your research process evolve with your writing?</p>
+            <p>The process of researching, writing, and revising is not linear. You don't stop researching when you start writing, and you don't stop researching or writing when you begin revising. As was mentioned in <xref ref="forming-your-argument"/>, it is best to think of your initial thesis as a <term>working thesis<idx>working thesis</idx></term>. During your research, writing, and revising process, your argument will (and should) change based on what you read and write. You may end up writing a completely different paper than you had originally envisioned, or your final thesis may simply be a revised and refined version of your working thesis. Regardless, as you write your first draft, it is important that you don't stop doing research. How, then, does your research process evolve with your writing?</p>
             <p>Research is initially very broad. You're trying to figure out what scholarship on your topic exists and where you might contribute to the scholarly conversation regarding that topic. As you work toward a thesis, that research will become increasingly specific because you have a better idea of what kind of sources and evidence you need and what kind of background your reader will need to make sense of your argument. Figuring out when to write, when to research, and when to revise can be difficult, so below are some tips and tricks to help you determine what to do and when to do it.</p>
             <paragraphs>
                 <title>Writing while Researching</title>
