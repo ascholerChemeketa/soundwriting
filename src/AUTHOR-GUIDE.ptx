@@ -276,6 +276,17 @@
                     <p>Here's another hot tip for you (this time without a title): sprinkle the handbook with easily<ndash/>formatted REMARK-LIKE structures so that the writing handbook looks like the instructional equivalent of dessert and not a droll pile of boring additional reading!</p>
                 </insight>
             </subsubsection>
+            <subsubsection xml:id="element-formatting-warning">
+                <title>Warning</title>
+                <warning>
+                    As a rhetorical device, the <tag>warning</tag> tag/block/environment verges on too authoritarian for this handbook. Don't let the power go to your head; this handbook is still meant to be student<ndash/>authored and to give students agency with and control over language by laying bare the unerlying rules without acting all hign<ndash/>and<ndash/>mighty about it.
+                </warning>
+                <p>You are encouraged to use a <tag>warning</tag> to call the reader's attention to an <em>essential action</em>. Here's a heuristic for figuring out when to use a warning: While you might use an <tag>insight</tag> (tip) to <em>suggest a method</em> to a reader and a <tag>note</tag> to provide essential information that the reader needs to know to succeed, a <tag>warning</tag> is slightly stronger<mdash/>it is an action that the reader <em>must</em> take to succeed. It is especially effective to use the warning environment when you have just explained something to the reader that might lead them down a dangerous path. Say you're writing a section about how physics is about building up understanding of the world from a minimal set of first principles. Your reader might be pretty into that, and you wouldn't want them to get into trouble <ellipsis/></p>
+                <warning>
+                    <title>Elitism</title>
+                    <p>Physics <em>does</em> value a perspective of building efficient models from <q>first principles,</q> but don't act like other disciplines are worthless or that you can <q>figure out</q> an entire academic discipline after taking an intro class just because you're a physics major. This attitude is incorrect, and it's especially socially costly to walk around Wyatt talking like that <ellipsis/>.</p>
+                </warning>
+            </subsubsection>
             <subsubsection>
                 <title>Sample Display for Unused Elements</title>
                 <remark>
@@ -306,11 +317,6 @@
                     <title>Observation title</title>
                     <p> And content in angle p.</p>
                 </observation>
-
-                <warning>
-                    <title>Warning title</title>
-                    <p> And content in angle p.</p>
-                </warning>
 
             </subsubsection>
         </subsection>
@@ -417,6 +423,21 @@
                 </li>
                 <li>
                     <p>Look up an online link<ndash/>checker and run it on the public version of <pubtitle>Sound Writing</pubtitle> to make sure that all of our hyperlinks are still functional. This is especially important to do <alert>after the Puget Sound website overhaul scheduled for spring 2020</alert>. Also, remember that this chekc will only return <em>broken</em> links, not links that still work but refer to old or outdated information.</p>
+                </li>
+                <li>
+                    <p><q>Productive Procrastination</q> <q>On-Campus places to study</q> and <q>Off campus places to study</q> assemblages were just thrown into <xref ref="academic-success"/> and they make no sense there. <em>Remove</em> or <em>relocate.</em></p>
+                </li>
+                <li>
+                    <p>4.2.3 <q>Writing Transitions</q> table in <xref ref="par-process-signposts"/> is out of place and should perhaps be restructured.</p>
+                </li>
+                <li>
+                    <p><xref ref="writing-sentence-level"/> needs a consistency overhaul. Keep working on adding undefined terms to the glossary and cross<ndash/>referencing throughout that chapter (and beyond that chapter).</p>
+                </li>
+                <li>
+                    <p>Maintain and update this guide!</p>
+                </li>
+                <li>
+                    <p>Keep figuring out homophone table in <xref ref="considering-homophones"/> Needs to either be in Rob's new format (commented out in xml) or longtables needs to work.</p>
                 </li>
             </ul>
         </list>
@@ -548,6 +569,12 @@
                 How to punctuate a sentence and when to capitalize a word are especially challenging decisions to make because of the vast number of rules and exceptions to rules that govern when to capitalization and punctuation, not to mention the fact that there are some rules that are contested (ever heard of an Oxford comma?). In this section, you won’t find <em>every</em> rule concerning capitalization and punctuation, but if you learn the rules here (which are all frequently<ndash/>relevant), you will be prepared to answer the majority of questions that you will have while writing.
             </p>
         </paragraphs>
+    </section>
+    <section xml:id="ag-sandbox">
+        <title>Sandbox</title>
+        <definition>
+            <p>A <term>random word</term> has a specific meaning, maybe?</p>
+        </definition>
     </section>
 
 

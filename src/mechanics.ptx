@@ -1415,7 +1415,8 @@
             <introduction>
                 <p><term>Homophones</term> are words that sound the same but have different meanings and spellings. Because homophones share the same pronunciations (or sound similar), they are commonly confused in writing, especially when you know the spelling of one homophone but intend to convey the other. Below is a list of commonly confused homophones and some example sentences using them. But if you are unsure of a word and it's not listed here, try looking it up in a dictionary or thesaurus to make sure it's the word you want!</p>
             </introduction>
-            <paragraphs>
+            <!-- ROB'S ALTERNATIVE SUGGESTION TO USING TABLES FOR HOMOPHONES -->
+            <!-- <paragraphs>
                 <title>Common Homophones TEST </title>
                 <p>
                     <sbsgroup margins="0%" widths="45% 45%">
@@ -1429,7 +1430,7 @@
                         </sidebyside>
                     </sbsgroup>
                 </p>
-            </paragraphs>
+            </paragraphs> -->
 
                 <table xml:id="homophone-table">
                     <title>Common Homophones</title>
@@ -2596,7 +2597,8 @@
         <subsection xml:id="punctuation-capitalization">
             <title>Capitalization</title>
             <p>If English were a more consistent language, capitalization might not be such a pain. Unfortunately, it's not, though there are some general guidelines that can help you to decide whether a word should be capitalized or not.</p>
-            <list>
+            <!-- NEW FORMATTING THAT DOESN'T SHOW COMPARISON WELL ENOUGH -->
+            <!-- <list>
                 <title>Words that you Should Capitalize</title>
                 <introduction>
                     <p>Generally, you should capitalize <ellipsis/></p>
@@ -2802,9 +2804,9 @@
                 <title>Capitalization of <q>Professor</q></title>
                 <p>One of the capitalization murky areas you might encounter here on campus is the word <q>professr.</q> Would it be <q>I asked <alert>professor</alert> Julie Nelson Christoph a question about capitalization</q> or <q>I asked <alert>Professor</alert> Julie Nelson Christoph a question about capitalization</q>?</p>
                 <p>There are different theories about <q>professor,</q> which makes it, and others like it, problematic. There is, of course, no clear answer. In this case, it would be better to ask.</p>
-            </note>
+            </note> -->
 <!-- OLD FORMATTING -->
-            <!-- <list>
+            <list>
                 <paragraphs><title>General Guidelines</title>
                 <ul>
                     <li>
@@ -2920,7 +2922,7 @@
                     </li>
                 </ul>
                 </paragraphs>
-            </list> -->
+            </list>
             <paragraphs xml:id="par-mechanics-capitalizing-titles">
                 <title>Capitalizing Titles</title>
                 <p>
