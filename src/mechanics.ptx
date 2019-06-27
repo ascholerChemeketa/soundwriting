@@ -198,7 +198,7 @@
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-adverb"> -->
                     <!-- <title>Adverb Clauses</title> -->
-                    <p>An <term>adverb clause</term> acts as an <xref ref="definition-adverb"/> to modify the <xref ref="definition-verb"/> in a sentence. Adverb clauses begin with a <xref ref="definition-conjunction-subordinate"/> (although, because, after, until,<etc/>).</p>
+                    <p>An <term>adverb clause</term> acts as an <xref ref="definition-adverb"/> to modify the <xref ref="definition-verb"/> in a sentence. Adverb clauses begin with a <xref ref="definition-conjunction-subordinate"/> (although, because, after, until, <etc/>).</p>
                 
                     <!-- <p>
                         <ul>
@@ -267,9 +267,10 @@
             <subsubsection xml:id="phrases">
                 <title>Phrases</title>
                 <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscaping makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar related, though, there are far too many phrases with overly confusing names. To remember and understand each type of phrase, it might be helpful for you to review <xref ref="eight-parts-of-speech"/>. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
-                <assemblage>
+                <note>
+                    <title>Distinguishing a Phrase from a Clause</title>
                     <p>Whereas a clause has both a <xref ref="definition-noun"/> <em>and</em> a <xref ref="definition-verb"/>, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an <xref ref="definition-adjective"/>).</p>
-                </assemblage>
+                </note>
                 <list xml:id="common-types-of-phrases">
                     <title>Common Types of Phrases</title>
                     <introduction>
@@ -829,8 +830,8 @@
                 <title>Collective Nouns</title>
                 <p>There are some <xref ref="definition-subject">subjects</xref> that may be singular or plural depending on how you use them.</p>
                 <p>In order to determine whether to use a singular or a plural <xref ref="definition-verb"/>, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
-                <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room was silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at Diversions.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
-                <p>A list of these collective nouns and example uses may be found below.</p>
+                <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room is silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at Diversions.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
+                <p>A list of some collective nouns and example uses may be found below.</p>
                 <example>
                     <title>Sample Sentences with Collective Nouns</title>
                     <p>
@@ -1142,7 +1143,46 @@
             <paragraphs>
                 <title>Verbosity</title>
                 <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply.</p>
-                <p>
+                <p>Here are some long<ndash/>winded ways to say relatively simple things:</p>
+                <sbsgroup margins="10%" widths="40% 40%">
+                    <sidebyside>
+                        <p><em>What you (an intellectual) said</em></p>
+                        <p><em>What you meant</em></p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>At this juncture in time <ellipsis/></q></p>
+                        <p><q>now,</q> <q>currently</q></p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>By virtue of the fact<nbsp/><ellipsis/></q></p>
+                        <p><q>because</q></p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>For the purpose of<nbsp/><ellipsis/></q></p>
+                        <p><q>to</q></p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>In all likelihood<nbsp/><ellipsis/></q></p>
+                        <p><q>probably</q></p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>In the event that<nbsp/><ellipsis/></q></p>
+                        <p><q>if</q></p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>In this regard, it is of significance that<nbsp/><ellipsis/></q></p>
+                        <p>simply omit and get on with your sentence</p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>he truth is that<nbsp/><ellipsis/></q></p>
+                        <p>simply omit and get on with your sentence</p>
+                    </sidebyside>
+                    <sidebyside>
+                        <p><q>Until such time as<nbsp/><ellipsis/></q></p>
+                        <p><q>until</q></p>
+                    </sidebyside>
+                </sbsgroup>
+                <!-- <p>
                     Here are some long<ndash/>winded ways to say relatively simple things:
                     <ul>
                         <li><p><q>At this juncture in time<nbsp/><ellipsis/></q> → now, currently</p></li>
@@ -1154,7 +1194,7 @@
                         <li><p><q>The truth is that<nbsp/><ellipsis/></q>  →  simply omit and get on with your sentence</p></li>
                         <li><p><q>Until such time as</q> → until</p></li>
                     </ul>
-                </p>
+                </p> -->
                 <p>These kinds of empty phrases do not improve your writing and only add a tiny bit to the length of your paper (and length probably isn't the most important thing your professor wanted you to produce, anyhow). If you're hoping to sound scholarly, look closely at the precise and specific scholarly language that is used in your discipline.</p>
             </paragraphs>
             <paragraphs xml:id="par-writing-precisely-this">
@@ -2950,7 +2990,7 @@
         </subsection>
     </section>
     <section xml:id="top-10-tips-confusing-english">
-        <title>Top 10 Confusing Things in English</title>
+        <title>10 Confusing Things in English</title>
         <p>
             <ol>
                 <li xml:id="and-I-vs-and-me">
