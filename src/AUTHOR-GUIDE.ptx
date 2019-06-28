@@ -51,13 +51,13 @@
                     In <pubtitle>Sound Writing</pubtitle>, you can use a list when<ellipsis/>
                     <ul>
                         <li>
-                            <p>defining a list of terms.</p>
+                            <p>defining a list of terms (See <q>Terms</q> at the bottom of the <url href="https://soundwriting.pugetsound.edu/lgbtq-inclusivity.html">LGBTQ+ INclusivity</url> page.).</p>
                         </li>
                         <li>
                             <p>finishing a sentence many different ways (like this!).</p>
                         </li>
                         <li>
-                            <p>explaining an acronym.</p>
+                            <p>explaining an acronym (See BEAM at the bottom of the <url href="https://soundwriting.pugetsound.edu/research-research-methods.html">Research Essentials</url> page.).</p>
                         </li>
                         <li>
                             <p><xref ref="general-principles-providing-guidelines"/>.</p>
@@ -66,7 +66,7 @@
                             <p><xref ref="general-principles-providing-questions"/>.</p>
                         </li>
                         <li>
-                            <p>making a checklist, either with explanations of each item (see <xref ref="list-argument-checklist"/>) or without (EXAMPLE 4.5.3?).</p>
+                            <p>making a checklist, either with explanations of each item (see <url href="https://soundwriting.pugetsound.edu/argument-strong-argument.html">Making a Strong Argument</url>) or without.</p>
                         </li>
                     </ul>
                 </p>
@@ -88,12 +88,7 @@
                         </li>
                         <li>
                             <p><em>Give your list a title, <q>Strategies for <fillin/></q> where the blank is a gerund phrase like <q>providing strategies in <pubtitle>Sound Writing</pubtitle>.</q></em></p>
-                            <p>This consistency alerts readers right away to what kind of content they are about ot read.</p>
-                            <p>
-                                <note>
-                                    <p>The choice of the term <q>strategies</q> as opposed to <q>guidelines</q> or <q>rules</q> is intentional<mdash/><pubtitle>Sound Writing</pubtitle> is authored primarily by students and is meant to be informative and reliable without being authoritative. Its goal is to explain norms that really impact writing, for better and for worse, without putting them on a pedestal as a moral good. The term <q>strategies</q> achieves this end because it leaves the reader with the agency to decide whether they want to employ each strategy depending on whether they want to achieve the outcome it leads to or not.</p>
-                                </note>
-                            </p>
+                            <p>This consistency alerts readers right away to what kind of content they are about ot read. The choice of the term <q>strategies</q> as opposed to <q>guidelines</q> or <q>rules</q> is intentional<mdash/><pubtitle>Sound Writing</pubtitle> is authored primarily by students and is meant to be informative and reliable without being authoritative. Its goal is to explain norms that really impact writing, for better and for worse, without putting them on a pedestal as a moral good. The term <q>strategies</q> achieves this end because it leaves the reader with the agency to decide whether they want to employ each strategy depending on whether they want to achieve the outcome it leads to or not.</p>
                         </li>
                         <li>
                             <p><em>Use an unordered list (<tag>ul</tag>) unless the order of the steps matters.</em></p>
@@ -121,11 +116,11 @@
                             <p>Each list item within this structure should be a <alert>question</alert> and since each item is a question the reader should ask themselves (and nothing else), you should not use quotatiopn marks around the questions.</p>
                         </li>
                         <li>
-                            <p>Each question should be written in <em>first<ndash/>person</em>, as in <q>Is what I'm writing helpful to future authors?</q> not <q>Is what you're writing helpful to future authors?</q></p>
+                            <p>Each question should be written in <em>first<ndash/>person</em>, as in <q>Is what I'm writing going to be helpful to future authors?</q> not <q>Is what you're writing helpful to future authors?</q></p>
                         </li>
                     </ul>
                 </p>
-                <p>For example:></p>
+                <p>For example:</p>
                 <assemblage>
                     <title>Helpful Questions for Authoring <pubtitle>Sound Writing</pubtitle></title>
                     <p>
@@ -170,14 +165,14 @@
                             <p>you are <xref ref="general-principles-providing-questions"/> (wrap the entire unnamed list in a <tag>p</tag> in the assemblage body).</p>
                         </li>
                         <li>
-                            <p>you are highlighting a quote from a student, staff, or faculty member (this is used extensively in <xref ref="awareness-inclusive-language"/>).</p>
+                            <p>you are highlighting a quote from a student, staff, or faculty member (this is used extensively in <url href="https://soundwriting.pugetsound.edu/awareness-inclusive-language.html">Inclusive Language</url>).</p>
                         </li>
                     </ul>
                 </p>
                 <note>
                     <title>Preventing Tag Abuse of Assemblage</title>
                     <p>
-                        Based on these guidelines, it will be tempting to use an assemblage to call attention to a <q>note</q> or <q>tip</q> that you want the reader to keep in mind, but you should use the <tag>note</tag> and <tag>insight</tag> (displays as <q>tip</q>) in those cases! See REFER TO REMARK LIKE SECTION for more info.
+                        Based on these guidelines, it will be tempting to use an assemblage to call attention to a <q>note</q> or <q>tip</q> that you want the reader to keep in mind, but you should use the <tag>note</tag> and <tag>insight</tag> (displays as <q>tip</q>) in those cases! See <xref ref="ag-narrative-offset"/> for more info.
                     </p>
                 </note>
             </introduction>
@@ -213,7 +208,12 @@
                         </li>
                         <li>
                             <title><tag>list</tag></title>
-                            <p><c>xml:id="list-[one-word-section-name]-abbreviated-list-title"</c></p>
+                            <p><c>xml:id="list-[one-word-chapter-name]-abbreviated-list-title"</c></p>
+                        </li>
+                        <li>
+                            <title><tag>warning</tag>, <tag>note</tag>, <tag>insight</tag>, <etc/></title>
+                            <p><c>"warning/note/insight-[one-word-chapter-name]-title"</c></p>
+                            <p>(Currently, we only rarely cross<ndash/>reference these remark<ndash/>like elements; not all warnings/notes/insights even have titles.)</p>
                         </li>
                     </dl>
                 </p>
@@ -227,7 +227,7 @@
 
     <section>
         <title>Element &amp; Division Formatting Architecture</title>
-        <subsection>
+        <subsection xml:id="ag-narrative-offset">
             <title>Narrative Offset Elements (Remark<ndash/>Like)</title>
             <introduction>
                 <p>
@@ -303,7 +303,7 @@
                     <title>Convention title</title>
                     <p> And content in angle p.</p>
                     <list>
-                        <caption>List thingy caption</caption>
+                        <title>List thingy title</title>
                         <dl>
                             <li>
                                 <title>A term</title>
@@ -330,7 +330,7 @@
         <subsection>
             <title>Formatting Guide: Discipline<ndash/>Specific Writing</title>
             <introduction>
-                <p>This formatting guide focuses specifically on how to make consisitent additions to the <xref ref="discipline-specific-writing"/> section.</p>
+                <p>This formatting guide focuses specifically on how to make consisitent additions to the <url href="https://soundwriting.pugetsound.edu/discipline-specific-writing.html">Discipline<ndash/>Specific Writing</url> section.</p>
             </introduction>
             <paragraphs>
                 <title>Overall Structure</title>
@@ -341,7 +341,7 @@
         <subsection>
             <title>Formatting Guide: Writing with Awareness</title>
             <introduction>
-                <p>This formatting guide focuses specifically on how to make consisitent additions to the subsections within <xref ref="awareness-inclusive-language"/>. <xref ref="intersectionality"/> is the framing perspective for the <xref ref="awareness-inclusive-language"/> section, but all subsequent subsections should be titled <q>Language Toward <fillin/> Inclusivity</q> and should contain the internal structure discussed below.</p>
+                <p>This formatting guide focuses specifically on how to make consisitent additions to the subsections within <url href="https://soundwriting.pugetsound.edu/awareness-inclusive-language.html">Inclusive Language</url>. <url href="https://soundwriting.pugetsound.edu/intersectionality.html">Intersectionality</url> is the framing perspective for the Inclusive Language section, but all subsequent subsections should be titled <q>Language Toward <fillin/> Inclusivity</q> and should contain the internal structure discussed below.</p>
             </introduction>
             <paragraphs xml:id="par-ag-wwa-overview">
                 <title>Overview</title>
@@ -350,7 +350,7 @@
                     <assemblage>
                         <title>Staff Perspectives: Musings</title>
                         <blockquote>
-                            <p><q>Typically, it's odd to quote yourself, but I find it empowering to see my own words, written out, as if someone else said them. This seems like as good a place as any to tell everyone that you can see the salaries of the highest<ndash/>paid officials at Puget Sound by looking up the <init>IRS</init> form 990: Schedule J tax form.</q></p>
+                            <p>Typically, it's odd to quote yourself, but I find it empowering to see my own words, written out, as if someone else said them. This seems like as good a place as any to tell everyone that you can see the salaries of the highest<ndash/>paid officials at Puget Sound by looking up the <init>IRS</init> form 990: Schedule J tax form.</p>
                             <attribution>
                                 <line>Jordan Fonseca</line>
                                 <line>University of Puget Sound</line>
@@ -395,7 +395,7 @@
                 </dl>
             </list>
             <conclusion>
-                <p>The last portion of these subsections should be a <tag>conclusion</tag>, which is <alert>optional</alert>, but is a great place to refer readers to additional, relevant resources. We could refer you to an example of what one of these sections actually looks like (check out <xref ref="inclusivity-racial"/>), or remind you to read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url>.</p>
+                <p>The last portion of these subsections should be a <tag>conclusion</tag>, which is <alert>optional</alert>, but is a great place to refer readers to additional, relevant resources. We could refer you to an example of what one of these sections actually looks like (check out <url href="https://soundwriting.pugetsound.edu/inclusivity-racial.html">Lanugage Toward Racial and Ethnic Inclusivity</url>), or remind you to read the <url href="https://pretextbook.org/doc/author-guide/html/"><pretext/> Author's Guide</url>.</p>
             </conclusion>
         </subsection>
     </section>
@@ -413,31 +413,50 @@
                 <li>
                     <p>Add <xref ref="ag-addition-introductions"/> or reject and remove from this guide.</p>
                 </li>
+                <li>
+                    <p>Add images (or replace boring images) in the following places (largely chosen because these sections are either very short or very long blocks of text):
+                        <ul>
+                            <li>Subsection 2.1.1 <q>primary sources</q></li>
+                            <li>Subsection 2.1.3 <q>Skimming</q></li>
+                            <li>Subsection 3.2.2 <q>Argumentation as a Process</q></li>
+                            <li>Subsection 4.4.1 <q>Identifying Obstacles</q></li>
+                            <li>Subsection 4.4.3 <q>Managing Frustration</q>></li>
+                            <li>Subsection 4.4.4 <q>Managing Time</q></li>
+                            <li>More?</li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>Revise video of Pierre explaining office hours (music, grainy intro and outro slides<mdash/>might need guideance from Office of Communicatiosn. Upload to Vimeo and insert into handbook (it's easy, thanks to Rob).</p>
+                </li>
+                <li>
+                    Keep updating and revising the glossary!
+                </li>
             </ul>
         </list>
         <list>
             <title>Revisions</title>
             <ul>
                 <li>
-                    <p>Make <xref ref="using-technology"/> higher<ndash/>level and remove excessive use of large images.</p>
+                    <p>Make <url href="https://soundwriting.pugetsound.edu/using-technology.html">Using Technology</url> higher<ndash/>level and remove excessive use of large images.</p>
                 </li>
                 <li>
-                    <p>Look up an online link<ndash/>checker and run it on the public version of <pubtitle>Sound Writing</pubtitle> to make sure that all of our hyperlinks are still functional. This is especially important to do <alert>after the Puget Sound website overhaul scheduled for spring 2020</alert>. Also, remember that this chekc will only return <em>broken</em> links, not links that still work but refer to old or outdated information.</p>
+                    <p>Look up an online link<ndash/>checker and run it on the public version of <pubtitle>Sound Writing</pubtitle> to make sure that all of our hyperlinks are still functional. This is especially important to do <alert>after the Puget Sound website overhaul scheduled for spring 2020</alert>. Also, remember that this check will only return <em>broken</em> links, not links that still work but refer to old or outdated information.</p>
                 </li>
                 <li>
-                    <p><q>Productive Procrastination</q> <q>On-Campus places to study</q> and <q>Off campus places to study</q> assemblages were just thrown into <xref ref="academic-success"/> and they make no sense there. <em>Remove</em> or <em>relocate.</em></p>
+                    <p><q>Productive Procrastination</q> <q>On-Campus places to study</q> and <q>Off campus places to study</q> assemblages were just thrown into <url href="https://soundwriting.pugetsound.edu/academic-success.html"> Strategies for Academic Success</url> and they make no sense there. <em>Remove</em> or <em>relocate.</em></p>
                 </li>
                 <li>
-                    <p>4.2.3 <q>Writing Transitions</q> table in <xref ref="par-process-signposts"/> is out of place and should perhaps be restructured.</p>
+                    <p>4.2.3 <q>Writing Transitions</q> table in <url href="https://soundwriting.pugetsound.edu/transitions.html">Writing Transitions</url> is out of place and should perhaps be restructured.</p>
                 </li>
                 <li>
-                    <p><xref ref="writing-sentence-level"/> needs a consistency overhaul. Keep working on adding undefined terms to the glossary and cross<ndash/>referencing throughout that chapter (and beyond that chapter).</p>
+                    <p>Keep working on adding undefined terms to the glossary and cross<ndash/>referencing throughout <url href="https://soundwriting.pugetsound.edu/writing-sentence-level.html">Writing at the Sentence Level</url> (and beyond that chapter).</p>
                 </li>
                 <li>
                     <p>Maintain and update this guide!</p>
                 </li>
                 <li>
-                    <p>Keep figuring out homophone table in <xref ref="considering-homophones"/> Needs to either be in Rob's new format (commented out in xml) or longtables needs to work.</p>
+                    <p>Keep figuring out homophone table in <url href="https://soundwriting.pugetsound.edu/considering-homophones.html">Considering Homophones</url> Needs to either be in Rob's new format (commented out in xml) or longtables needs to work.</p>
                 </li>
             </ul>
         </list>
@@ -466,7 +485,7 @@
         <paragraphs>
             <title>What is a Curriculum Vitae?</title>
             <p>
-                Writing a Curriculum Vitae (often abbreviated as <q><init>CV</init></q> or shortened to <q>vita</q>) has much in common with <xref ref="section-resume"/>; however your <init>CV</init> serves a slightly different purpose than your resume. Resumes are more popular in non<ndash/>academic work and tend to prioritize your relevant skills and professional experience, and you are expected to tailor your resume to suit each individual job you apply for. The purpose of a <init>CV</init>, on the other hand, is to speak to your comprehensive qualification to be a member of an academic community. Broadly speaking, the three core aspects of an academic job are (1) creating new knowledge by undertaking research and sharing your results, (2) propagating existing knowledge by teaching students, and (3) serving on committees to run academic institutions and societies. At each stage of your career, your <init>CV</init> should speak to what you’ve done in each of these categories over the course of your life.
+                Writing a Curriculum Vitae (often abbreviated as <q><init>CV</init></q> or shortened to <q>vita</q>) has much in common with <url href="https://soundwriting.pugetsound.edu/section-resume.html">Writing Resumes</url>; however your <init>CV</init> serves a slightly different purpose than your resume. Resumes are more popular in non<ndash/>academic work and tend to prioritize your relevant skills and professional experience, and you are expected to tailor your resume to suit each individual job you apply for. The purpose of a <init>CV</init>, on the other hand, is to speak to your comprehensive qualification to be a member of an academic community. Broadly speaking, the three core aspects of an academic job are (1) creating new knowledge by undertaking research and sharing your results, (2) propagating existing knowledge by teaching students, and (3) serving on committees to run academic institutions and societies. At each stage of your career, your <init>CV</init> should speak to what you’ve done in each of these categories over the course of your life.
             </p>
         </paragraphs>
         <paragraphs>
