@@ -219,6 +219,9 @@
     <section xml:id="process-writing">
         <title>Writing</title>
         <subsection xml:id="process-introductions">
+            <introduction>
+                <p>Writing an introduction is widely considered one of the most challenging steps in writing a paper. The challenge of writing a great introduction is real, but armed with a good understanding of introductions, a useful metaphor, and some concrete guidelines, the task of hooking your reader, laying out your argument, and asserting your thesis is one you can overcome.  In this section, you’ll learn <em>why</em> you need an introduction, <em>what</em> goes in an introduction, and <em>how</em> to construct an effective introduction (and yes, we got lost in the meta trying to write <em>this</em> introduction!).</p>
+            </introduction>
             <title>Writing Introductions</title>
             <subsubsection xml:id="introductions-role">
                 <title>Role of the Introduction</title>
@@ -422,6 +425,9 @@
         </subsection>
         <subsection xml:id="transitions">
             <title>Writing Transitions</title>
+            <introduction>
+                <p>Transitions are the signposts that alert the reader that there’s a hairpin turn ahead or that they’re crossing state lines, and, body paragraphs are the landmarks along the way that make the reader appreciate the journey toward understanding your thesis.</p>
+            </introduction>
             <paragraphs xml:id="par-process-signposts">
                 <title>The Signposts</title>
                 <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
@@ -466,6 +472,9 @@
         </subsection>
         <subsection xml:id="topic-sentences-body">
             <title>Writing Body Paragraphs</title>
+            <introduction>
+                <p>If your introduction is your roadmap, the main body of your paper is the journey you’re taking your reader on. Like your grandparents, your reader doesn’t trust Google Maps, so you’re going to need to make sure that they don’t get lost trying to understand your argument. You can help your reader out in this endeavor by carefully considering how to organize your body paragraphs, what topic sentences best summarize the claims that support your thesis, and what transitions will cue your reader in on how your ideas are connected to one another.</p>
+            </introduction>
             <paragraphs xml:id="par-process-sights">
                 <title>The Landmarks &amp; Sights</title>
                 <p>Body paragraphs are the different <q>landmarks</q> of your essay. These are the spaces where you can offer evidence for your claims, explain how and why specific details support your claims, and discuss the implications each claim has for the overall argument.</p>
@@ -493,6 +502,9 @@
         </subsection>
         <subsection xml:id="process-conclusions">
             <title>Writing Conclusions</title>
+            <introduction>
+                <p>Conclusions should give your reader the same sense of finality and progress that hearing your <init>GPS</init> say, <q>You have arrived at your destination</q> gives you. This is a tall order, and writing conclusions can produce the <q>I want to tear my hair out</q> sensation that college students know (and love?). While introductions need to convince your reader to take the journey that is reading your paper and give them a good idea of what they’ll learn if they do so, conclusions need to give your reader a sense of closure after they finish their journey. In this section, you’ll learn why you need a conclusion,  what to put in your conclusion, and how to go about writing a conclusion that will give your reader the <q>looking<ndash/>back<ndash/>fondly<ndash/>on<ndash/>a<ndash/>great<ndash/>trip</q> feeling that a photo album can create.</p>
+            </introduction>
             <subsubsection xml:id="conclusion-role">
                 <title>Role of the Conclusion</title>
                 <paragraphs xml:id="par-process-album">

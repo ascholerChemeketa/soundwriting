@@ -615,6 +615,9 @@
     </section>
     <section xml:id="tricky-grammar">
         <title>Tricky Grammar</title>
+        <introduction>
+            <p>Having covered some of the fundamental principles of grammar in the previous section, it’s time to level up! There are lots of English grammar topics that are tricky enough to merit a position in this section; however, the ones that you’ll learn about here made the cut because they’re not just tricky<mdash/>they’re commonly relevant. Building on the fundamental rules of grammar from the previous section, you’ll get another layer of nuance in this section, which covers some of the challenges of ensuring subject<ndash/>verb agreement, avoiding sentence fragments, using parallelism, and placing modifiers.</p>
+        </introduction>
         <subsection xml:id="subject-verb-agreement">
             <title>Problems with Subject<ndash/>Verb Agreement</title>
             <introduction>
@@ -1139,6 +1142,9 @@
     <section xml:id="style-and-word-choice">
         <title>Style and Word Choice</title>
         <subsection xml:id="style-writing-clearly">
+            <introduction>
+                <p>Having noticed that a great number of professors wax loquacious when giving lectures, you may be perplexed to learn that academics actually value brevity in academic writing. Professors face some of the same challenges that you probably face in college: they have a lot of reading to do, what they’re reading is specific and hard to understand, and they have to write about it themselves. From this predicament emerges the importance of writing precisely and clearly, choosing words carefully, being wary of passive voice, and packing meaning into a sentence by using colorful, strong verbs. In this section, you will learn to make intentional decisions about your writing style and word choice to enrich your essays.</p>
+            </introduction>
             <title>Writing Clearly and Precisely</title>
             <paragraphs>
                 <title>Verbosity</title>
@@ -2230,6 +2236,9 @@
     </section>
     <section xml:id="mechanics-punctuation-basics">
         <title>Punctuation and Capitalization Basics</title>
+        <introduction>
+            <p>How to punctuate a sentence and when to capitalize a word are especially challenging decisions to make because of the vast number of rules and exceptions to rules that govern when to capitalization and punctuation, not to mention the fact that there are some rules that are contested (ever heard of an Oxford comma?). In this section, you won’t find <em>every</em> rule concerning capitalization and punctuation, but if you learn the rules here (which are all frequently relevant), you will be prepared to answer the majority of questions that you will have while writing.</p>
+        </introduction>
         <subsection xml:id="punctuation-punctuation">
             <title>Punctuation</title>
             <subsubsection xml:id="punctuation-capitalization-period">

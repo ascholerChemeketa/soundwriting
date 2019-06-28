@@ -57,6 +57,11 @@
     </section>
     <section xml:id="argument-diversity">
         <title>Diversity of Argumentation Modes</title>
+        <introduction>
+            <p>
+                If you like to argue, we have good news for you: not only are there different <em>topics</em> to argue about and <em>positions</em> to take in arguments<mdash/>there are different styles, or <em>modes</em> that you can choose from to structure your argument! You may find that you prefer some modes over others, but you should treat modes of argumentation as tools in your toolbox; you wouldn’t say that some tools are <em>better</em> than other tools because each tool is suited for a different task. Additionally, recognizing the tools that other people are using in their arguments will help you understand and critique them, which is an important aspect of engaging with the scholarly community.
+            </p>
+        </introduction>
         <subsection>
             <title>Different Models of Argumentation</title>
             <p>While there are many different forms of argumentation, the four basic parts described above (main claim, evidence, substantiation, counterpoint) are key elements of many argumentative forms. However, these components can be interpreted differently in different disciplines (see <xref ref="discipline-specific-writing"/>) and for different assignments. For instance, the argument of a definitional or informational essay will employ language distinct from that of a scientific or philosophical study. A preferred argumentation form for your professor may not include language such as <q>main claim, evidence, substantiation, and counterpoint,</q> but may employ similar components that do similar things.</p>
@@ -249,29 +254,24 @@
     </section>
     <section xml:id="performing-textual-analysis">
         <title>Supporting an Argument with Evidence</title>
-        <p>To be convincing, an argument must have compelling evidence linked and supported with clear analysis. Strong arguments are thoroughly reasoned and continuous in their analysis of evidence, which is sometimes challenging, but it helps to keep a few principles in mind: Notice<ndash/>Think<ndash/>Write and the Quote Sandwich.</p>
-        <p>Consider the following construction, which is neither thoroughly reasoned nor continuous:</p>
-        <assemblage>
-            <title>Claim</title>
-            <p>Though they are in the same geographic space, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
-        </assemblage>
-        <sidebyside><tabular><row><cell>+</cell></row></tabular></sidebyside>
-        <assemblage>
-            <title>Evidence</title>
-            <p>In <q>Hello,</q> Adele sings, <q>I'm in California dreaming<nbsp/><ellipsis/><nbsp/>/<nbsp/><ellipsis/><nbsp/>/ There's such a difference between us / And a million miles</q> (10<ndash/>11).</p>
-        </assemblage>
-        <sidebyside><tabular><row><cell>=</cell></row></tabular></sidebyside>
-        <assemblage>
+        <p>To be convincing, an argument must have compelling evidence linked and supported with clear analysis. Strong arguments are thoroughly reasoned and continuous in their analysis of evidence, which is sometimes challenging, but it helps to keep a few principles in mind: Notice<ndash/>Reflect<ndash/>Write and <xref ref="using-quote-sandwiches"/>.</p>
+        <warning>
+            <title>Poorly Reasoned Analysis</title>
+            <p>It is possible to write a claim and then throw in some evidence without connecting the two. Consider the following construction:</p>
+            <p><alert>Claim:</alert> Though they are in the same geographic space, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
+            <sidebyside><tabular><row><cell>+</cell></row></tabular></sidebyside>
+            <p><alert>Evidence:</alert> In <q>Hello,</q> Adele sings, <q>I'm in California dreaming<nbsp/><ellipsis/><nbsp/>/<nbsp/><ellipsis/><nbsp/>/ There's such a difference between us / And a million miles</q> (10<ndash/>11).</p>
+            <sidebyside><tabular><row><cell>=</cell></row></tabular></sidebyside>
             <p>In <q>Hello,</q> Adele sings, <q>I'm in California dreaming<nbsp/><ellipsis/><nbsp/>/<nbsp/><ellipsis/><nbsp/>/ There's such a difference between us / And a million miles</q> (10<ndash/>11). Though they are in the same geographic space, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
-        </assemblage>
-        <p>Okay, what the Grizz is going on? Though the intuitive reader may be able to follow the writer's logic, this argument lacks the analysis necessary to explicitly connect the evidence to the claim; because it lacks this analysis, the argument is not as convincing as it could be. How can the writer better analyze the text to make their point? Let's consider the following three<ndash/>step principle.</p>
+            <p>Okay, what the Grizz is going on? Though the intuitive reader may be able to follow the writer's logic, this argument lacks the analysis necessary to explicitly connect the evidence to the claim; because it lacks this analysis, the argument is not as convincing as it could be. How can the writer better analyze the text to make their point? Let's consider the following three<ndash/>step principle.</p>
+        </warning>
         <paragraphs xml:id="par-argument-notice">
-            <title>1. Notice</title>
+            <title>Noticing your Evidence</title>
             <p>Effective analysis identifies the specific elements of the evidence that point to the claim being made.</p>
             <p>Look over the lyrics to Adele's <q>Hello.</q> Notice anything that stands out to you and anything you think might be meaningful for the song. Pay attention to language, syntax (sentence structure), logic, and other formal or thematic aspects. For instance, I might think that when Adele sings <q>a million miles</q> she's exaggerating just a little.</p>
         </paragraphs>
         <paragraphs xml:id="par-argument-think">
-            <title>2. Think</title>
+            <title>Reflecting on your Evidence</title>
             <p>Effective analysis is predicated on <q>how</q> and <q>why</q> questions. Ask yourself these types of questions to move from the realm of identifying to that of speculating.</p>
             <p>Let's think about some things that we noticed: What do these rhetorical, aesthetic, logical, or formal choices mean, or how do they contribute to the meaning of the text? Pay attention to how form and content intersect. For example, I might look at the phrase <q>a million miles</q> and think that, since the earth is only 8,000 miles in diameter, Adele's longing for this person is otherworldly, or exceeds the bounds of earthly description.</p>
             <blockquote>
@@ -279,8 +279,8 @@
             </blockquote>
         </paragraphs>
         <paragraphs xml:id="Adele-quote-sandwich">
-            <title>3. Write</title>
-            <p>Now that you've thought about the things you noticed, put your thoughts into words. It can be helpful to speak your thought process while you're writing, just to be as specific as possible.</p>
+            <title>Writing about your Evidence</title>
+            <p>Now that you've reflected on the things you noticed, put your thoughts into words. It can be helpful to speak your thought process while you're writing, just to be as specific as possible.</p>
             <blockquote>
                 <p><green>In <q>Hello,</q> Adele's use of hyperbole reveals the otherworldly intensity of her longing; she sings,</green> <darkred><q>I'm in California dreaming<nbsp/><ellipsis/><nbsp/>/<nbsp/><ellipsis/><nbsp/>/ There's such a difference between us / And a million miles</q> (10<ndash/>11).</darkred> <darkpurple>The phrase <q>a million miles</q> is an exaggerated estimation of the distance between Adele and the person whom she addresses. The use of <q>California</q> as a geographical marker suggests that the person Adele is addressing is a million miles away from California. However, the earth is only 8,000 miles in diameter. One million divided by 8,000 is 125 with no remainder. Assuming the person Adele is addressing is also somewhere on earth, the <q>million miles</q> between Adele and her addressee actually locates the addressee in California. <q>A million miles</q> must then refer to a distance, as opposed to a displacement, suggesting that though the displacement between Adele and her addressee is 0, the figural distance between them is equal to 125 times the earth's diameter. The phrase <q>a million miles</q> then encodes, ironically, that, though they are in the same geographic space, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</darkpurple></p>
             </blockquote>
