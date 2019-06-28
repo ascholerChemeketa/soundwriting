@@ -17,7 +17,7 @@
         <introduction>
             <p>This section is dedicated to general consistency principles that have been established after lots of careful thought about how the content of the handbook is structured overall.</p>
             <note>
-                <p>In the <init>XML</init> markup language, content is categorized (and later formatted) based on how it is marked with <term><init>XML tags</init></term>. In most cases, you must <q>wrap</q> text in an opening tag and a closing tag, where the opening tag is a word in angle brackets (like this <tag>tag</tag>) and the closing tag is nearly identical but follows the opening bracket with a forward slash (like this <tag>/tag</tag>). The one exception to this general principle is that some special keywords require only a single tag, so if you want to talk aobut the document markup language <latex/>, you need only write <tag>latex/</tag>. If you're using Sublime Text to edit the text of the handbook, you can automatically close any open tag by typing <c>&lt;/</c>; the program will autofill the closing tag for the most recently opened tag. Throughout this Author's Guide, whenever instructions are provided about using a tag, only the opening tag is provided. <alert>You should assume that a closing tag formatted as described above is also required.</alert></p>
+                <p>In the <init>XML</init> markup language, content is categorized (and later formatted) based on how it is marked with <term><init>XML tags</init></term>. In most cases, you must <q>wrap</q> text in an opening tag and a closing tag, where the opening tag is a word in angle brackets (like this <tag>tag</tag>) and the closing tag is nearly identical but follows the opening bracket with a forward slash (like this <tag>/ tag</tag>). The one exception to this general principle is that some special keywords require only a single tag, so if you want to talk aobut the document markup language <latex/>, you need only write <tag>latex /</tag>. If you're using Sublime Text to edit the text of the handbook, you can automatically close any open tag by typing <c>&lt;/</c>; the program will autofill the closing tag for the most recently opened tag. Throughout this Author's Guide, whenever instructions are provided about using a tag, only the opening tag is provided. <alert>You should assume that a closing tag formatted as described above is also required.</alert></p>
             </note>
         </introduction>
         <subsection>
@@ -51,7 +51,7 @@
                     In <pubtitle>Sound Writing</pubtitle>, you can use a list when<ellipsis/>
                     <ul>
                         <li>
-                            <p>defining a list of terms (See <q>Terms</q> at the bottom of the <url href="https://soundwriting.pugetsound.edu/lgbtq-inclusivity.html">LGBTQ+ INclusivity</url> page.).</p>
+                            <p>defining a list of terms (See <q>Terms</q> at the bottom of the <url href="https://soundwriting.pugetsound.edu/lgbtq-inclusivity.html">LGBTQ+ Inclusivity</url> page.).</p>
                         </li>
                         <li>
                             <p>finishing a sentence many different ways (like this!).</p>
@@ -458,6 +458,12 @@
                 <li>
                     <p>Keep figuring out homophone table in <url href="https://soundwriting.pugetsound.edu/considering-homophones.html">Considering Homophones</url> Needs to either be in Rob's new format (commented out in xml) or longtables needs to work.</p>
                 </li>
+                <li>
+                    <p>7.4.2 Capitalization list is a long, complicated list that could use some kind of revision for (1) consistency with how we use lists, and (2) more effective juxtaposition of when to and when not to capitalize when the rules seem blurry.</p>
+                </li>
+                <li>
+                    <p>7.1.2 <q>Phrases</q> is a description list with examples built in. Could be reformatted to be more similar to <q>Clauses</q> above. Something should be done to minimize incorporation of examples into the text as has been done (plus more kinds of phrases should be defined); however, it's hard to tell whether the example sentences are essential for understanding the content of SW or not.</p>
+                </li>
             </ul>
         </list>
     </section>
@@ -475,118 +481,4 @@
             </dl>
         </list>
     </sections>
-    <section xml:id="ag-addition-cv">
-        <title>POSSIBLE ADDITION: Writing Curriculum Vitae</title>
-        <introduction>
-            <aside>
-                This section would be added to Chapter 11, <q>Genres</q> below <q>Writing Resumes.</q> It would need to be approved before being added.
-            </aside>
-        </introduction>
-        <paragraphs>
-            <title>What is a Curriculum Vitae?</title>
-            <p>
-                Writing a Curriculum Vitae (often abbreviated as <q><init>CV</init></q> or shortened to <q>vita</q>) has much in common with <url href="https://soundwriting.pugetsound.edu/section-resume.html">Writing Resumes</url>; however your <init>CV</init> serves a slightly different purpose than your resume. Resumes are more popular in non<ndash/>academic work and tend to prioritize your relevant skills and professional experience, and you are expected to tailor your resume to suit each individual job you apply for. The purpose of a <init>CV</init>, on the other hand, is to speak to your comprehensive qualification to be a member of an academic community. Broadly speaking, the three core aspects of an academic job are (1) creating new knowledge by undertaking research and sharing your results, (2) propagating existing knowledge by teaching students, and (3) serving on committees to run academic institutions and societies. At each stage of your career, your <init>CV</init> should speak to what you’ve done in each of these categories over the course of your life.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>When to have a <init>CV</init></title>
-            <p>
-                If you’re interested in an academic job, you should start keeping track of your academic work when you begin your undergraduate education. You might not need to send anyone your <init>CV</init> until you apply for graduate school 4+ years later (or perhaps not even until you’re applying to jobs after you get a PhD), but since a <init>CV</init> is meant to be comprehensive and because you only need one, it’s easiest to build one as you progress through your life. If you’re not interested in academic jobs, it still might be useful to build a <init>CV</init> to serve as a <q>master resume</q> that you can pull content from each time you apply for a new opportunity.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>The Contents of a <init>CV</init></title>
-            <p>
-                What you as an undergrad can put on your <init>CV</init> to apply for graduate school is vastly different from what a veteran professor can put on their <init>CV</init> to apply for an associate dean position, but in both cases the <init>CV</init> should be a comprehensive record of an individual’s scholarly work. Whereas writing a good resume requires that you know a lot about the position that you’re applying for, writing a good <init>CV</init> requires that you keep a good <q>paper trail</q> of your significant academic work, especially for things that you’ve done that fit into one of the three core aspects listed above. You’ll probably want to keep track of the following:
-                <ul>
-                    <li>
-                        <p>Your educational history as far back as your undergraduate college, including any awards you’ve won or honor societies you’re a part of</p>
-                    </li>
-                    <li>
-                        <p>
-                            Your research experience:
-                            <ul>
-                                <li>Descriptions of what you specifically did, much as you would list for a resume</li>
-                                <li>List of all of your scholarly publications</li>
-                                <li>List of any non<ndash/>peer<ndash/>reviewed writing you did. If you can link to a place where someone reading your <init>CV</init> could find something you wrote, you should include it!</li>
-                                <li>List of any presentations you’ve given (even to your home department here at Puget Sound).</li>
-                                <li>List of any conferences you’ve attended, especially if you presented work at these conferences.</li>
-                            </ul>
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Your teaching experience (including any work you've done tutoring or mentoring)
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Your service
-                            <ul>
-                                <li>Working on<ndash/> or off<ndash/>campus</li>
-                                <li>Volunteering on<ndash/> or off<ndash/>campus</li>
-                            </ul>
-                        </p>
-                    </li>
-                </ul>
-            </p>
-        </paragraphs>
-        <assemblage>
-            <title><q>Hey, This is Just a Long Resume!</q></title>
-            <p>
-                As far as the content of what appears on a <init>CV</init>, you may at first notice that you’re putting everything on your <init>CV</init>, and that’s okay. When you’re just starting out, part of the function of a <init>CV</init> is maintaining a record (build that paper trail!) of the path you’re taking. As you get older and progress through graduate school, fellowship experiences, post<ndash/>docs and professorships, you can remove the least<ndash/>relevant items from your <init>CV</init>, but it’s difficult to retroactively add many years of experience to a <init>CV</init> that you need down the road if you haven’t been keeping track of all of your experiences, awards, presentations, and more.
-            </p>
-        </assemblage>
-    </section>
-    <section xml:id="ag-addition-introductions">
-        <title>POSSIBLE ADDITION: Division Introductions</title>
-        <paragraphs>
-            <title>3.2 Diversity of Argumentation Modes</title>
-            <p>
-                If you like to argue, we have good news for you: not only are there different <em>topics</em> to argue about and <em>positions</em> to take in arguments<mdash/>there are different styles, or <em>modes</em> that you can choose from to structure your argument! You may find that you prefer some modes over others, but you should treat modes of argumentation as tools in your toolbox; you wouldn’t say that some tools are <em>better</em> than other tools because each tool is suited for a different task. Additionally, recognizing the tools that other people are using in their arguments will help you understand and critique them, which is an important aspect of engaging with the scholarly community.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>4.4 Introductions</title>
-            <p>
-                Writing an introduction is widely considered one of the most challenging steps in writing a paper. The challenge of writing a great introduction is real, but armed with a good understanding of introductions, a useful metaphor, and some concrete guidelines, the task of hooking your reader, laying out your argument, and asserting your thesis is one you can overcome.  In this section, you’ll learn <em>why</em> you need an introduction, <em>what</em> goes in an introduction, and <em>how</em> to construct an effective introduction (and yes, we got lost in the meta trying to write <em>this</em> introduction!).
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>4.5 Body Paragraphs</title>
-            <p>
-                If your introduction is your roadmap, the main body of your paper is the journey you’re taking your reader on. Like your grandparents, your reader doesn’t trust Google Maps, so you’re going to need to make sure that they don’t get lost trying to understand your argument. You can help your reader out in this endeavor by carefully considering how to organize your body paragraphs, what topic sentences best summarize the claims that support your thesis, and what transitions will cue your reader in on how your ideas are connected to one another. Continuing the road trip metaphor, topic sentences are like the compass readings that keep your reader oriented relative to their destination. Transitions are the signposts that alert the reader that there’s a hairpin turn ahead or that they’re crossing state lines, and, body paragraphs are the landmarks along the way that make the reader appreciate the journey toward understanding your thesis.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>4.6 Conclusions</title>
-            <p>
-                Introductions and conclusions are the bookends that hold your paper together, and like writing introductions, writing conclusions can produce the <q>I want to tear my hair out</q> sensation that college students know (and love?). While introductions need to convince your reader to take the journey that is reading your paper and give them a good idea of what they’ll learn if they do so, conclusions need to give your reader a sense of closure after they finish their journey. In this section, you’ll learn why you need a conclusion,  what to put in your conclusion, and how to go about writing a conclusion that will give your reader the <q>looking<ndash/>back<ndash/>fondly<ndash/>on<ndash/>a<ndash/>great<ndash/>trip</q> feeling that a photo album can create.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>6.2 Inclusive Language</title>
-            <p>
-                This section is a thorough rebuttal of the childhood idiom <q>sticks and stones may break my bones, but words will never hurt me.</q> Here you can learn how words are connected to existing and previous power structures within and beyond academia and why it is important to consider your choice of language, especially as you write about individuals’ complex, intersectional identities and the relationships those identities have to the many different systems and personal interactions that comprise society. As you will read many times over again, this section is an introduction to the ever<ndash/>changing task of writing respectfully and knowledgeably about identity, not the be<ndash/>all and end<ndash/>all of writing with awareness.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>7.2 Tricky Grammar</title>
-            <p>
-                Having covered some of the fundamental principles of grammar in the previous section, it’s time to level up! There are lots of English grammar topics that are tricky enough to merit a position in this section; however, the ones that you’ll learn about here made the cut because they’re not just tricky<mdash/>they’re commonly relevant. Building on the fundamental rules of grammar from the previous section, you’ll get another layer of nuance in this section, which covers some of the challenges of ensuring subject<ndash/>verb agreement, avoiding sentence fragments, using parallelism, and placing modifiers.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>7.3 Style and Word Choice</title>
-            <p>
-                Having noticed that a great number of professors wax loquacious when giving lectures, you may be perplexed to learn that academics actually value brevity in academic writing. Professors face some of the same challenges that you probably face in college: they have a lot of reading to do, what they’re reading is specific and hard to understand, and they have to write about it themselves. From this predicament emerges the importance of writing precisely and clearly, choosing words carefully, being wary of passive voice, and packing meaning into a sentence by using colorful, strong verbs. In this section, you will learn to make intentional decisions about your writing style and word choice to enrich your essays.
-            </p>
-        </paragraphs>
-        <paragraphs>
-            <title>7.4 Punctuation and Capitalization Basics</title>
-            <p>
-                How to punctuate a sentence and when to capitalize a word are especially challenging decisions to make because of the vast number of rules and exceptions to rules that govern when to capitalization and punctuation, not to mention the fact that there are some rules that are contested (ever heard of an Oxford comma?). In this section, you won’t find <em>every</em> rule concerning capitalization and punctuation, but if you learn the rules here (which are all frequently<ndash/>relevant), you will be prepared to answer the majority of questions that you will have while writing.
-            </p>
-        </paragraphs>
-    </section>
 </chapter>
