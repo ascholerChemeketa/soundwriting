@@ -589,12 +589,4 @@
             </p>
         </paragraphs>
     </section>
-    <section xml:id="ag-sandbox">
-        <title>Sandbox</title>
-        <definition>
-            <p>A <term>random word</term> has a specific meaning, maybe?</p>
-        </definition>
-    </section>
-
-
 </chapter>
