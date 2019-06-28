@@ -41,19 +41,19 @@
 </xsl:template>
 
 <xsl:template match="note" mode="tcb-style">
-    <xsl:text> fonttitle=\normalfont\bfseries, coltitle=black, attach title to upper</xsl:text>
+    <xsl:text> fonttitle=\normalfont\bfseries, colbacktitle=green!80!black, colframe=green!80!black, colback=green!10!white, coltitle=black</xsl:text>
 </xsl:template>
 
 <xsl:template match="observation" mode="tcb-style">
-    <xsl:text>colframe=red!50!black,fonttitle=\normalfont\bfseries, sharp corners=west</xsl:text>
+    <xsl:text>fonttitle=\normalfont\bfseries, colframe=red!50!black,fonttitle=\normalfont\bfseries, sharp corners=west</xsl:text>
 </xsl:template>
 
 <xsl:template match="warning" mode="tcb-style">
-    <xsl:text>colbacktitle=black!70!blue, sharp corners</xsl:text>
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=red!80!black, colframe=red!80!black, colback=red!10!white, coltitle=black</xsl:text>
 </xsl:template>
 
 <xsl:template match="insight" mode="tcb-style">
-    <xsl:text>colbacktitle=red,coltitle=black, after title={\LaTeX}, sharp corners</xsl:text>
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=yellow, colframe=yellow, colback=yellow!10!white, coltitle=black</xsl:text>
 </xsl:template>
 
 
