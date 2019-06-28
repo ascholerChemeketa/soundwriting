@@ -35,9 +35,6 @@
         <!-- Using Technology -->
         <xi:include href="technology.ptx"/>
 
-        <!-- Author's/Publisher's Guide -->
-        <xi:include href="AUTHOR-GUIDE.ptx"/>
-
         <!-- Backmatter -->
         <xi:include href="backmatter.ptx"/>
 
