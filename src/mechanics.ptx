@@ -555,63 +555,6 @@
                 </p>
             </subsubsection>
         </subsection>
-        <subsection xml:id="pronouns">
-            <title>Grammar of Pronouns</title>
-            <subsubsection xml:id="indefinite-pronouns">
-                <title>Indefinite Pronouns</title>
-                <p>Many indefinite <xref ref="definition-pronoun">pronouns</xref> (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular <xref ref="definition-verb"/> (<ndash/>s ending or <q>is</q>/<q>has</q>).</p>
-                <example>
-                    <title>Indefinite Pronouns: Luau</title>
-                    <p><q>Is anyone going to Luau this year? I've heard everyone always has a great time.</q></p>
-                </example>
-                <example>
-                    <title>Indefinite Pronouns: Rollerblading</title>
-                    <p><q>Someone is rollerblading around campus.</q></p>
-                </example>
-                <example>
-                    <title>Indefinite Pronouns: Math Question</title>
-                    <p><q>Nobody knows the answer to the math question.</q></p>
-                </example>
-            </subsubsection>
-            <subsubsection xml:id="each-all-some-none">
-                <title>Each, All, Some, None</title>
-                <p><q>Each</q> is a singular <xref ref="definition-pronoun"/> and requires a singular <xref ref="definition-verb"/>. Therefore, even if the subject of the sentence is plural, <q>each</q> refers to every single member of that group and should be treated as a singular pronoun.</p>
-                <example>
-                    <title>Each as a Pronoun: Research Students</title>
-                    <p><q>Each of the research students has access to the lab.</q></p>
-                </example>
-                <example>
-                    <title>Each as a Pronoun: Experience Puget Sound</title>
-                    <p><q>Each and every one of you is in for a new experience here at Puget Sound.</q></p>
-                </example>
-                <example>
-                    <title>Each as a Pronoun: Opp Coffee</title>
-                    <p><q>Each of the coffee flavors at the Opp sounds enticing.</q></p>
-                </example>
-                <p><q>All,</q> <q>some,</q> and <q>none</q> can be either singular or plural depending on the subject. <q>All</q> and <q>some</q> are singular or plural depending on the plurality of the subject and therefore require an accompanying verb.</p>
-                <example>
-                    <title>All as a Pronoun: Grass is Greener</title>
-                    <p><q>All of the grass on campus is green.</q></p>
-                </example>
-                <example>
-                    <title>All as a Pronoun: Class Outside</title>
-                    <p><q>Some of the professors are holding class outside because it is so sunny.</q></p>
-                </example>
-                <p><q>None</q> can be either plural or singular depending on how many of some item it is referring to. For instance, if <q>none</q> is referring to a single item (<q>not one of these things</q>), a singular verb is required. However, if it is being applied to several items (<q>not any of these things</q>), a plural verb should be used.</p>
-                <example>
-                    <title>None as a Pronoun: Rat Lab</title>
-                    <p><q>So far, none of the rats in the psychology rat lab have escaped.</q> (if you are talking about many rats that have not escaped)</p>
-                </example>
-                <example>
-                    <title>None as a Pronoun: Return of Rat Lab</title>
-                    <p><q>So far, none of the rats in the psychology rat lab has escaped.</q> (if you are talking about one rat that has not escaped among many rats)</p>
-                </example>
-                <example>
-                    <title>None as a Pronoun: O<ndash/>No<ndash/>Chem</title>
-                    <p><q>None of the O<ndash/>chem students are sleeping the night before their final.</q></p>
-                </example>
-            </subsubsection>
-        </subsection>
     </section>
     <section xml:id="tricky-grammar">
         <title>Tricky Grammar</title>
@@ -690,8 +633,59 @@
                         <li><p><q>That movie was great! I can't believe how well the director focused on light!</q></p></li>
                     </ul>
                 </p>
-                <p>You are living through an important and interesting time in the progression of the English language. <q>Formal</q> and <q>standard</q> English (among most other languages) has historically belonged to people in power, people who have used (and still use) language to discriminate against and subjugate individuals who speak non standard forms of English. In spite of this subjugation, speakers of English<mdash/>standard and non standard<mdash/>are beginning to gain power and to reclaim English from those who use it to oppress. Since language and power are intimately intertwined, shifts in power inevitably lead to subsequent shifts in language. These shifts explain why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender<ndash/>neutral, third<ndash/>person singular pronoun. While conservative grammarians may lament the devolution of <q>proper English,</q> the reality is that language belongs to its speakers, not to those in power. By acknowledging these shifts in language (and the reasons behind them) within academia, we work toward increasing the access to and inclusivity of the academy. What inevitably follows are new perspectives, experiences, and identities that may lead to even greater equity among scholars and the types of knowledge they produce.</p>
+                <p>More conservative grammarians may insist that these are the only ways to refer to a single person of unspecified gender. Language is always changing, however, and today English is slowly being reclaimed by some groups it has historically been used to subjugate, including women and individuals who do not conform to the gender binary (see <xref ref="SAE"/>). These shifts explain why it is now inappropriate to use <q>he</q> as the default pronoun and why <q>they</q> is becoming increasingly accepted as a gender–neutral, third–person singular pronoun (see <xref ref="pronoun-identity"/>).</p>
             </subsubsection>
+            <subsubsection xml:id="indefinite-pronouns-agreement">
+            <title>Indefinite Pronouns</title>
+                <p>Indefinite <xref ref="definition-pronoun">pronouns</xref> do not refer to any particular person or thing, and it is not always obvious whether they are singular or plural, which can make subject-verb agreement a bit tricky.Many indefinite pronouns (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular <xref ref="definition-verb"/> (<ndash/>s ending or <q>is</q>/<q>has</q>).</p>
+                <example>
+                    <title>Anyone and Everyone as Pronouns: Luau</title>
+                    <p><q>Is anyone going to Luau this year? I've heard everyone always has a great time.</q></p>
+                </example>
+                <example>
+                    <title>Someone as a Pronouns: Rollerblading</title>
+                    <p><q>Someone is rollerblading around campus.</q></p>
+                </example>
+                <example>
+                    <title>Nobody as a Pronoun: Math Question</title>
+                    <p><q>Nobody knows the answer to the math question.</q></p>
+                </example>
+                <p><q>Each</q> is a singular <xref ref="definition-pronoun"/> and requires a singular <xref ref="definition-verb"/>. Therefore, even if the subject of the sentence is plural, <q>each</q> refers to every single member of that group and should be treated as a singular pronoun.</p>
+                <example>
+                    <title>Each as a Pronoun: Research Students</title>
+                    <p><q>Each of the research students has access to the lab.</q></p>
+                </example>
+                <example>
+                    <title>Each as a Pronoun: Experience Puget Sound</title>
+                    <p><q>Each and every one of you is in for a new experience here at Puget Sound.</q></p>
+                </example>
+                <example>
+                    <title>Each as a Pronoun: Opp Coffee</title>
+                    <p><q>Each of the coffee flavors at the Opp sounds enticing.</q></p>
+                </example>
+                <p><q>All,</q> <q>some,</q> and <q>none</q> can be either singular or plural depending on the subject. <q>All</q> and <q>some</q> are singular or plural depending on the plurality of the subject and therefore require an accompanying verb.</p>
+                <example>
+                    <title>All as a Pronoun: Grass is Greener</title>
+                    <p><q>All of the grass on campus is green.</q></p>
+                </example>
+                <example>
+                    <title>All as a Pronoun: Class Outside</title>
+                    <p><q>Some of the professors are holding class outside because it is so sunny.</q></p>
+                </example>
+                <p><q>None</q> can be either plural or singular depending on how many of some item it is referring to. For instance, if <q>none</q> is referring to a single item (<q>not one of these things</q>), a singular verb is required. However, if it is being applied to several items (<q>not any of these things</q>), a plural verb should be used.</p>
+                <example>
+                    <title>None as a Pronoun: Rat Lab</title>
+                    <p><q>So far, none of the rats in the psychology rat lab have escaped.</q> (if you are talking about many rats that have not escaped)</p>
+                </example>
+                <example>
+                    <title>None as a Pronoun: Return of Rat Lab</title>
+                    <p><q>So far, none of the rats in the psychology rat lab has escaped.</q> (if you are talking about one rat that has not escaped among many rats)</p>
+                </example>
+                <example>
+                    <title>None as a Pronoun: O<ndash/>No<ndash/>Chem</title>
+                    <p><q>None of the O<ndash/>chem students are sleeping the night before their final.</q></p>
+                </example>
+</subsubsection>
             <subsubsection xml:id="agreement-s-endings">
                 <title><ndash/>S Endings</title>
                 <p>In <init>SAE</init>, third<ndash/>person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present<ndash/>tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
