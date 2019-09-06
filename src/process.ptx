@@ -829,13 +829,15 @@
             </list>
         </subsection>
         <subsection xml:id="overcoming-managing-time">
-            <title>Managing Time</title>
+            <title>Meeting Deadlines</title>
         <sidebyside width="50%">
             <image source="images/clock"/>
         </sidebyside>
-        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance (and, if you have to procrastinate, try using these tips on <xref ref="productive-procrastination" text="title"/>).</p>
+        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). If you often find yourself writing papers at the last minute, read this section or try making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">appointment</url> with an academic consultant at the CWLT to practice scheduling and time management. Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
+        <p>However, you may find yourself reading this section after it is too late for a well-developed plan or academic consulting appointment. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
+        <p>Also, especially if you’re running late due to illness or other circumstances out of your control, remember that you can always (politely!) <xref ref="asking-for-extension" text="title">ask for an extension </xref>. Still, you should never expect an extension and even if you sent that email you should start writing as soon as possible! </p>
         <list xml:id="list-process-managing-time-strategies">
-            <title>Strategies for Managing Time</title>
+            <title>Strategies for Meeting Deadlines</title>
             <ul>
                 <li>
                     <p><em>Create a schedule.</em></p>
@@ -876,57 +878,7 @@
                 </li>
                 <li>
                     <p><em>Think about next time</em></p>
-                    <p>You might have survived this paper, and maybe you even end up getting a great grade, but <em>don't make a habit out of starting your papers late</em>. It's amazing how much more you can learn and how much better you can get at writing when you have the time to reflect on what you've written, to revise thoroughly, and to talk to others about your ideas.</p>
-                </li>
-            </ul>
-        </list>
-        <list xml:id="list-process-strategies-procrastination">
-            <title>Strategies for Fighting off Procrastination</title>
-            <ul>
-                <li>
-                    <p><em>Figure out why you want to procrastinate.</em></p>
-                    <p>Are you afraid? Uninterested in your topic? Do you not know where to start? Or do you just really want to catch up on your favorite TV show? (For ideas about how to address these problems, see <xref ref="what-to-do-when-you-get-stuck"/>)</p>
-                </li>
-                <li>
-                    <p><em>Tell yourself that you'll work for five minutes.</em></p>
-                    <p>That's it. It may sound crazy, but this is actually a really good way to lie to<mdash/>I mean, to <q>encourage</q><mdash/>yourself in order to get work done. Once you've begun working, your anxiety about starting (or your desire to Internet surf to avoid working) will hopefully diminish, and you will likely find yourself able to work for much longer than five minutes.</p>
-                </li>
-                <li>
-                    <p><em>Create your ideal work environment.</em></p>
-                    <p>You're finally away from home, you have your own (<nbsp/><ellipsis/> shared) space, and you've instituted a moratorium on any type of cleaning or organizing. Although you might be living the cleaning<ndash/>free dream (perhaps to the dismay of your roommate), consider throwing away some of those granola bar wrappers and taking your <acro>SUB</acro> dishes back to the <acro>SUB</acro> (seriously, take them back to the <acro>SUB</acro>). Having a clean working space might help you focus. If not, try studying in different places around campus until you find a space that you can work in. Depending on your noise<ndash/>level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the rotunda, upstairs in the <acro>SUB</acro>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the <init>CWLT</init>, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!). Your study preferences might be different for each of your classes, so experiment!</p>
-                </li>
-                <li>
-                    <p><em>List your tasks, and break them down into parts.</em></p>
-                    <p>While pretending your work doesn't exist may seem like the ideal solution, we assure you that it is not. You can lay all of your books, folders, or syllabi on the ground or your bed and organize them by priority or amount of work. Alternatively, you can make a list with all of your classes and write out the week's assignments for each class. Once you've faced the harsh reality of all the work you have to do, take a breath! Now, split up each task into manageable parts. Have 100 pages of reading? Can you split it up into groups of 20 or 25? Have six math problems? Do them in sets of two or three. Have a ten<ndash/>page paper to write? Try writing two pages a day. By splitting something into its components, you'll likely feel less overwhelmed and therefore less desperate to procrastinate.</p>
-                </li>
-                <li>
-                    <p><em>Limit distractions.</em></p>
-                    <p>This tip is probably the worst one. It can be really hard! But know that some time away from the non<ndash/>research<ndash/>related Internet (<eg/>, YouTube, Facebook, Netflix, Buzzfeed<nbsp/><ellipsis/> ) isn't a bad thing. In fact, it might make rewarding yourself (after a chunk of study time, of course) with some Internet time even more satisfying. To reduce temptations, you can try various strategies:
-                        <ul>
-                            <li><p> Look up browser plug<ndash/>ins or apps that restrict access to certain websites for periods of time.</p></li>
-                            <li><p>See if your phone needs an update (it's hard to text when it's taking five minutes to restart!).</p></li>
-                            <li><p>Put your phone on a <q>do not disturb</q> setting, or ask your friends not to bother you for a while; turn off notifications.</p></li>
-                            <li><p>Go in a public place where you'd be embarrassed to be seen procrastinating for two hours.</p></li>
-                            <li><p>Ask a friend to study with you, and keep each other accountable.</p></li>
-                            <li><p>Make a schedule that requires you to work but rewards you with a break (for example, you might work diligently for fifty minutes and then reward yourself with a ten<ndash/>minute YouTube video or ten minutes of a show on Netflix each hour<mdash/>just beware that you don't get too distracted during your breaks).</p></li>
-                        </ul>
-                    </p>
-                </li>
-                <li>
-                    <p><em>If you need to, try treating yourself like a small child.</em></p>
-                    <p>You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to The Cellar for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch the new <em>Game of Thrones</em> episode.</q></p>
-                </li>
-                <li>
-                    <p><em>Remind yourself of what you're excited about.</em></p>
-                    <p>Sometimes we get so caught up in the tediousness of the work we have to do that we forget why we're here. Even if you're procrastinating on work for a class you don't enjoy, try to think about the bigger picture<mdash/>completing your assignment means that you're one step closer to fulfilling a requirement and moving on to classes you're more interested in. But hey, the assignment might also surprise you, and you might end up learning something that you find fascinating. You never know!</p>
-                </li>
-                <li>
-                    <p><em>Forgive yourself.</em></p>
-                    <p>Procrastination happens! Forgive yourself and move on. Don't let the fact that you've been procrastinating all day keep you from starting on your work.</p>
-                </li>
-                <li>
-                    <p><em>Decrease the amount of work you have to begin with.</em></p>
-                    <p>You'd be surprised at how much you can get done during the little chunks of time you have throughout the day, be it five minutes before class, an awkward hour in between classes, or extra time in the morning or before bed. Even if you can only read a couple of pages, write a paragraph, or finish a math problem during a small break, that's still less work you'll have to do later. Plan ahead and bring along any materials you might need to be as productive as possible.</p>
+                    <p>You might have survived this paper, and maybe you even end up getting a great grade, but <em>don't make a habit out of starting your papers late</em>. It's amazing how much more you can learn and how much better you can get at writing when you have the time to reflect on what you've written, to revise thoroughly, and to talk to others about your ideas. See <xref ref="academic-success-time-management"/> to set yourself up for success next time!</p>
                 </li>
             </ul>
         </list>
