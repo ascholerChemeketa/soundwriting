@@ -41,7 +41,7 @@
                         <li><p>Use current, appropriate language in your writing. Language used in the past to identify people of color is usually not appropriate in the current context unless you are citing a quote. (see <xref ref="writing-with-awareness"/> for more help on this, and if you’re still not sure, ask your professor).</p></li>
                     </ul></p></li>
                 <li><p>Understand and convey the situatedness of whatever you write about. For instance, if you're writing about DuBois, you've got to explain why DuBois was arguing the way he was (in opposition to Booker T. Washington).</p></li>
-                <li><p>Integrating language and quotes from Non<ndash/><init>SAE</init> speakers is encouraged. Use your writing as a space to include different voices. For instance, in an upper level <init>AFAM</init> class you might write a scientific counseling article about drug addiction but you could have direct excerpts about people's experiences with drug addiction as African Americans related to whatever section you’re talking about because that adds to it.</p></li>
+                <li><p>Integrating language and quotes from Non<ndash/><init>SAE</init> speakers is encouraged. Use your writing as a space to include different voices. For instance, in an upper level <init>AFAM</init> class you might write a scientific counseling article about drug addiction but you could have direct excerpts about people's experiences with drug addiction as African Americans related to whatever section you’re talking about because that adds to it (see <xref ref="SAE" text="title">Standard American English</xref>).</p></li>
                 <li><p>Define your terms! You can't assume that everybody knows what you mean. Also sometimes there are many words for the same definition. You need to explain that when you say <q>Black,</q> you mean this vs. when you say <q>African American</q> you mean that.</p></li>
                 <li><p>Don't rely on jargon! Your writing should be a way you can express what you're learning in class to the public. Jargon can get in the way.</p></li>
                 <li><p>Come to class and do the reading so that you're prepared to write respectfully.</p></li>
@@ -89,7 +89,7 @@
                     <p>Be descriptive and analytical. When you describe visual features of an artwork in your visual analysis, explain why those aspects of the work contribute to the overall meaning conveyed by the work. Describing a visual feature of an artwork is similar to using quotes in other disciplines, such as History or English.  Just as you do not throw a quote from a primary or secondary source into your text without explaining its importance, do not let the visual evidence speak for itself, since a different viewer might draw different conclusions than what you are getting at.</p>
                 </li>
                 <li>
-                    <p>Use Chicago Style to format your references in Art History papers.</p>
+                    <p>Use Chicago Style to format your <xref ref="citations" text="title">references</xref> in Art History papers.</p>
                 </li>
             </ul>
         </paragraphs>
@@ -220,7 +220,7 @@
                 <li><p>Use the proper number of significant figures when reporting data.</p></li>
                 <li><p>Always put a space between a number and its units.</p></li>
                 <li><p>Always put a zero in front of a decimal value, otherwise a decimal can be mistaken for a period.</p></li>
-                <li><p>Use the correct citation style.</p></li>
+                <li><p>Use the correct <xref ref="citations" text="title">citation</xref> style.</p></li>
                 <li><p>Write in pen in your lab notebook. You'll find out why, if you spill something!</p></li>
             </ul>
         </paragraphs>
@@ -318,7 +318,7 @@
                 <li><p>Don't make broad claims or generalizations about human nature. Instead work to preserve the particularity of the past.</p></li>
                 <li><p>When writing historically, chronological order should be your default way to organize, however, don't be limited by chronology if your paper would be clearer organized another way (<eg/>, thematically, by historical figures or groups).</p></li>
                 <li><p>Write in the past tense!</p></li>
-                <li><p>Citations are important. Use the Chicago style in general.</p></li>
+                <li><p><xref ref="citations" text="title">Citations</xref> are important. Use the Chicago style in general.</p></li>
             </ul>
         </paragraphs>
         <paragraphs xml:id="writing-history-additional-resources">
@@ -405,7 +405,7 @@
             <title>Conventions and Tips</title>
             <ul>
                 <li><p>Psychology writing operates on the sometimes subtle differentiation between broad generalizations and possible explanations. For this reason, writing in psychology relies on the <q>tentative tone.</q> Don't say <q>love is dangerous,</q> instead say <q>love can be dangerous</q> and add supporting evidence, allowing room for other conclusions.</p></li>
-                <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. Cite them, but don't introduce them formally.</p></li>
+                <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. <xref ref="citations" text="title">Cite</xref> them, but don't introduce them formally.</p></li>
             </ul>
         </paragraphs>
         <paragraphs xml:id="writing-psychology-additional-resources">

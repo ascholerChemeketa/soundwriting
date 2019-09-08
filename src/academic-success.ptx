@@ -253,7 +253,7 @@
                 </li>
                 <li>
                     <p><em><em>When you submit your application,</em> say thank you!</em></p>
-                    <p>A hand<ndash/>written card never goes out of style in this circumstance. After you hear back from a program about whether or not you were accepted, share the news with your professor. If you’re choosing between multiple programs, let your professor know which offer you accept, and stay in touch with them. Maintaining a network of professors who could write you a letter or be a character reference is useful long after you graduate college, so keep in touch with the professors that you know best. </p>
+                    <p>A hand<ndash/>written card never goes out of style in this circumstance (See <xref ref="thank-you-notes"/>). After you hear back from a program about whether or not you were accepted, share the news with your professor. If you’re choosing between multiple programs, let your professor know which offer you accept, and stay in touch with them. Maintaining a network of professors who could write you a letter or be a character reference is useful long after you graduate college, so keep in touch with the professors that you know best. </p>
                 </li>
             </ol>
         </list>
@@ -291,7 +291,7 @@
             <paragraphs xml:id="productive-procrastination">
                 <title>Productive Procrastination Practices</title>
                     <ul>
-                        <li><p>Work on citations</p></li>
+                        <li><p>Work on <xref ref="citations"/></p></li>
                         <li><p>Take the <init>CWLT</init>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
                         <li><p>Type up your notes/evidence</p></li>
                         <li><p>Make to<ndash/>do lists</p></li>
@@ -303,7 +303,7 @@
                         <li><p>There's a huge <q>study</q> genre on YouTube. Go watch a couple videos to get inspired!</p></li>
                         <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
                         <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>
-                        <li><p>Make a writing appointment at the <init>CWLT</init>!</p></li>
+                        <li><p>Make a writing appointment at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url>!</p></li>
                     </ul>
             </paragraphs>
     </subsection>
@@ -462,7 +462,7 @@
                                 <p>This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem<ndash/>set?</p>
                             </li>
                             <li>
-                                <p><em>Remember those sub<ndash/>goals.</em></p>
+                                <p><em>Remember those <xref ref="time-management-good-time-management" text="title">sub<ndash/>goals</xref>.</em></p>
                                 <p>Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p>
                             </li>
                             <li>

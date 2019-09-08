@@ -6,7 +6,7 @@
     </introduction>
     <section xml:id="email-etiquette">
         <title>Writing Emails</title>
-        <p>Emailing faculty, staff, and off<ndash/>campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. But formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply. Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
+        <p>Emailing faculty, staff, and off<ndash/>campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. But formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply (see <xref ref="talking-to-profs"/>). Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
         <sidebyside width="50%">
             <image source="images/genres-dear-professor"/>
         </sidebyside>
@@ -107,7 +107,7 @@
             <ul>
                 <li>
                     <p><em>Use your personal statement to complement your application.</em></p>
-                    <p>You're likely writing this statement alongside a number of other application materials (resume, CV, essay responses, <etc/>), so make sure you don't just repeat what you included in these other documents. Think of your personal statement as an opportunity to showcase the qualities and interests that you don't have room to display in your other materials.</p>
+                    <p>You're likely writing this statement alongside a number of other application materials (<xref ref="section-resume" text="title">resume</xref>, <xref ref="genres-addition-cv" text="title">CV</xref>, essay responses, <etc/>), so make sure you don't just repeat what you included in these other documents. Think of your personal statement as an opportunity to showcase the qualities and interests that you don't have room to display in your other materials.</p>
                 </li>
                 <li>
                     <p><em>Be as clear and succinct as possible.</em></p>
@@ -292,7 +292,7 @@
                 </li>
                 <li>
                     <p><em>Use simple prose.</em></p>
-                    <p>Your resume is not the place to show off your writing abilities to your potential employer<mdash/>save that for the cover letter. Rather, resumes should use clear and concise prose (often bulleted fragments) to showcase 1) what you've done and 2) how it contributed to your overall preparedness. </p>
+                    <p>Your resume is not the place to show off your writing abilities to your potential employer<mdash/>save that for the cover letter. Rather, resumes should use <xref ref="style-writing-clearly" text="title">clear and concise prose</xref> (often bulleted fragments) to showcase 1) what you've done and 2) how it contributed to your overall preparedness. </p>
                 </li>
                 <li>
                     <p><em>Avoid using vague or overused phrases.</em></p>
