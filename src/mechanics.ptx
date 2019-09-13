@@ -807,7 +807,7 @@
             <subsubsection xml:id="agreement-confusing-modifiers">
                 <title>Confusing Modifiers</title>
                 <p>
-                    Sometimes the <xref ref="definition-subject"/> and <xref ref="definition-verb"/> are separated by modifying phrases and <xref ref="definition-adjective">adjectives</xref> that describe the subject. While <xref ref="definition-modifier">modifiers</xref> are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicised.
+                    Sometimes the <xref ref="definition-subject"/> and <xref ref="definition-verb"/> are separated by modifying phrases and <xref ref="definition-adjective">adjectives</xref> that describe the subject. While <xref ref="definition-modifier">modifiers</xref> are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicized.
                     <ul>
                         <li><p><q><un s="1">President Crawford</un>, along with the first<ndash/>year students, <em>is attending</em> Convocation.</q></p></li>
                         <li><p><q>The <un s="1">first<ndash/>year resident</un>, who was feeling <acro>FOMO</acro> and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
@@ -929,7 +929,7 @@
         </subsection>
         <subsection xml:id="sentence-fragments">
             <title>Problems with Sentence Fragments</title>
-            <p>Sentence fragmentts are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense. So how do you avoid sentence fragments?</p>
+            <p>Sentence fragments are incomplete sentences. Like here. That sentence is not a complete sentence because it cannot stand on its own and make sense. So how do you avoid sentence fragments?</p>
             <list xml:id="list-mechanics-avoiding-fragments">
                 <title>Strategies for Avoiding Sentence Fragments</title>
                 <ul>
@@ -1023,7 +1023,7 @@
                             </blockquote>
                         </li>
                         <li>
-                            <p>repeat the pronoun before <q>array</q> to prevent the misperception that it is a <q>rambunctious array</q></p>
+                            <p>repeat the pronoun before <q>array</q> to prevent the misconception that it is a <q>rambunctious array</q></p>
                             <blockquote>
                                 <p><q>The Cellar's rambunctious atmosphere and its array of ice cream flavors make it a good place to go to unwind.</q></p>
                             </blockquote>
@@ -1289,7 +1289,7 @@
                     </li>
                     <li>
                         <title>really (1)</title>
-                            <p> undeoubtedly, genuinely, admittedly, honestly, truly, without a doubt</p>
+                            <p> undoubtedly, genuinely, admittedly, honestly, truly, without a doubt</p>
                     </li>
                     <li>
                         <title>really (2)</title>
@@ -1747,7 +1747,7 @@
                                 <p>grate</p>
                             </cell>
                             <cell>
-                                <p>The first<ndash/>year student accidentally dropped their keycard into the rainwater <em>grate</em> by the <init>SUB</init>.</p>
+                                <p>The first<ndash/>year student accidentally dropped their key-card into the rainwater <em>grate</em> by the <init>SUB</init>.</p>
                             </cell>
                         </row>
                         <row bottom = "medium">
@@ -1891,7 +1891,7 @@
                                 <p>male</p>
                             </cell>
                             <cell>
-                                <p><em>Male</em>, female, trans, non<ndash/>binary, and gender non<ndash/>conformoning bathrooms are offered in many of the academic and residential buildings on campus.</p>
+                                <p><em>Male</em>, female, trans, non<ndash/>binary, and gender non<ndash/>conforming bathrooms are offered in many of the academic and residential buildings on campus.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1907,7 +1907,7 @@
                                 <p>pallet</p>
                             </cell>
                             <cell>
-                                <p>I didn’t bring my bedframe when I moved to campus, so I was worried I might have to build one from wooden <em>pallets</em>. Luckily, the University supplied a bed in my room.</p>
+                                <p>I didn’t bring my bed frame when I moved to campus, so I was worried I might have to build one from wooden <em>pallets</em>. Luckily, the University supplied a bed in my room.</p>
                             </cell>
                         </row>
                         <row>
@@ -2059,7 +2059,7 @@
                                 <p>than</p>
                             </cell>
                             <cell>
-                                <p>Is Opopenheimer better <em>than</em> Diversions?</p>
+                                <p>Is Oppenheimer better <em>than</em> Diversions?</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2275,7 +2275,7 @@
                 </example>
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
                 <example>
-                    <title>Ellipsis: SunBetter</title>
+                    <title>Ellipsis: Sunbutter</title>
                     <p>Original quote<mdash/><q>I love that the <acro>SUB</acro> has sunbutter and bananas. It's great because I'm allergic to peanuts.</q></p>
                     <p>Quoted portion<mdash/><q>I love that the <acro>SUB</acro> has sunbutter <ellipsis/> . It's great because I'm allergic to peanuts.</q></p>
                 </example>
@@ -2504,7 +2504,7 @@
                 </example>
                 <example xml:id="example-punctuation-ellipses-honestly">
                     <title>Using Ellipses to Quote Honestly</title>
-                    <p>If the original sentence were, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
+                    <p>If the original sentence were, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool Frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
                 </example>
                 <example xml:id="example-punctuation-brackets-changes">
                     <title>Using Brackets to Indicate Changes</title>
@@ -2981,7 +2981,7 @@
                     </li>
                     <li>
                         <p>Capitalize specific course names, but do not capitalize academic subjects.</p>
-                        <p><q>I enjoyed taking Multivariable Calculus, though I'm by no means a mathematics major.</q></p>
+                        <p><q>I enjoyed taking Multivariate Calculus, though I'm by no means a mathematics major.</q></p>
                     </li>
                     <li>
                         <p>Do not capitalize the first item in a list after a colon.</p>

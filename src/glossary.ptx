@@ -234,7 +234,7 @@
                 <p>a sentence element that adds information but that does not form a complete thought. Subordinate/dependent clauses are dependent on an <xref ref="definition-independent-clause"/> to make sense.</p>
             </li>
             <li xml:id="definition-adjective-clause">
-                <title>adjective/relataive clause</title>
+                <title>adjective/relative clause</title>
                 <p>a <xref ref="definition-dependent-clause"/> that acts as an adjective to modify a noun.</p>
             </li>
             <li xml:id="definition-adverb-clause">
@@ -283,12 +283,12 @@
         <title>Unsorted Glossary Terms</title>
         <dl>
             <li>
-                <title>Roulmin model</title>
+                <title>Toulmin model</title>
                 <p>model of argumentation that prioritizes evidence, claim, and warrants as the most critical parts of an argument.</p>
             </li>
             <li>
                 <title>classical approach</title>
-                <p>model of argumentation that requres you to propose a certain stance, refute the opposing view, and offer proof to substantiate your claims.</p>
+                <p>model of argumentation that requires you to propose a certain stance, refute the opposing view, and offer proof to substantiate your claims.</p>
             </li>
             <li>
                 <title>Rogerian model</title>
