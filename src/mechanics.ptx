@@ -1390,8 +1390,32 @@
                 </p>
             </example>
             <note>
-                <p>The large exception to these preferences is science. Most scientific work tends to be written in the passive voice. An active version of the previous sentence would be, <q>Most scientists tend to write in the passive voice.</q> Notice how the first version, the passive one, takes the actor out of the sentence completely. Who does the passive writing in the sciences? The active version answers that question: scientists write in the passive voice in science writing. Sciences tend to use the passive voice to distance the scientist from the science being done. The passive voice is therefore used strategically by the sciences. (Again, the previous sentence could also be active: <q>The sciences (or scientists) therefore use the passive voice strategically.</q>)</p>
+                <p>The large exception to these preferences is science. More scientific work tends to be written in the passive voice. An active version of the previous sentence would be, <q>More scientists tend to write in the passive voice.</q> Notice how the first version, the passive one, takes the actor out of the sentence completely. Who does the passive writing in the sciences? The active version answers that question: scientists write in the passive voice in science writing. Sciences tend to use the passive voice to distance the scientist from the science being done. The passive voice is therefore used strategically by the sciences. (Again, the previous sentence could also be active: <q>The sciences (or scientists) therefore use the passive voice strategically.</q>) This convention still varies across disciplines and even in different sections of the same lab report; be sure to check with your professor for their preferences! </p>
             </note>
+            <example xml:id="example-mechanics-lab-reports">
+                <title>Passive Voice for Lab Reports</title>
+                    <dl>
+                        <li>
+                            <title>Active</title>
+                            <p><q>We summarized the melting and boiling points of the four compounds in Figure 1.</q></p>
+                        </li>
+                        <li>
+                            <title>Passive</title>
+                            <p><q>The melting and boiling points of the four compounds are summarized in Figure 1.</q></p>
+                        </li>
+                    </dl>
+                    <dl>
+                        <li>
+                            <title>Active</title>
+                            <p><q>We rinsed the solid with ethanol (10.0 mL, 1M) and dried it with vacuum filtration.</q></p>
+                        </li>
+                        <li>
+                            <title>Passive</title>
+                            <p><q>The solid was rinsed with ethanol (10.0 mL, 1M) and dried with vacuum filtration.</q></p>
+                        </li>
+                    </dl>
+                <p>Note that constructions like <q>were rinsed</q> and <q>are summarized</q> are very useful in this kind of writing. Also, the verb often appears towards the end of the sentence, after the object it is acting upon. Following these patterns can help you get comfortable with passive voice. Reading scientific literature and becoming familiar with the tone is also a great way to improve your scientific writing. </p>
+            </example>
         </subsection>
         <subsection xml:id="style-using-strong-verbs">
             <title>Using Strong Verbs</title>
