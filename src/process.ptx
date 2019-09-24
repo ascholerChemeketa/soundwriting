@@ -896,43 +896,38 @@
         </list>
     </subsection>
     <subsection xml:id="identifying-as-writer">
-		<title>Identifying as a Writer</title>
-		<paragraphs>
-			<p>Sometimes when you are struggling with academic work, you may have moments when you simply don’t feel up to the tasks ahead of you. You may feel as though you will never be a successful student or a good writer, and these feelings can make it difficult to motivate yourself to truly put your all into academic work. When you don’t feel as though you can succeed, it is sometimes easier to not do your best work and fail than to really pour yourself into an assignment and still come up short.</p>
-			<p>These feelings are really hard to experience, but you are also not the first person to feel them or the only one experiencing them right now. In fact, many very successful academics have struggled with the exact same feelings. Remember that you <em>do</em> belong in college. You are intelligent, and your ideas are valuable. You can fail an exam, or a paper, or a class, and still go on to a successful career or even a PhD if that is what you feel driven to do.</p>
-			<p>Feeling like a good writer and a part of the academic community may be even more challenging if you hold one or more identities that have been historically excluded or marginalized in the academic sphere. For example, colleges and universities often reward those who are fluent in <xref ref="SAE"/>; this usually means students who are White, have grown up in the United States, and have college-educated parents. Students who belong to groups that are stereotyped as performing poorly in an academic setting may struggle with the very real impacts of <url href="https://www.apa.org/research/action/stereotype">stereotype threat</url>. Tokenization, or being called upon to represent your entire identity group in classroom settings can minimize the individuality and complexity of student identity (see <xref ref="intersectionality"/>). Still, feeling as though you can’t succeed or don’t belong is not an experience exclusive to any identity, and your struggles are valid regardless of who you are.</p> 
-			<p>
-                    <assemblage>
-                        <title>Student Perspectives: Intersectional Identities in the Classroom</title>
-                        <blockquote><p>As a black woman, I step into the classroom with both of those identities being one... People need to be aware of that at all times. Those are going to intersect constantly and don’t invalidate that… Like if I'm in a classroom that's like only white women, and I was last semester, like I felt like my black side was not being represented because I'm in a class with only white women, so I'm not able to express that part of myself.</p>
-                            <attribution>
-                                <line>Member of Black Student Union</line>
-                                <line>University of Puget Sound</line>
-                                <line>May 2019</line>
-                            </attribution>
-                        </blockquote>
-                    </assemblage>
-                </p>
-			<p>These challenges are complex, and unfortunately there’s no magic solution to gain self-confidence and feel as though you belong in the academic community. Still, this is an obstacle you can work through, and it can be a huge asset to be able to understand and communicate within multiple communities.</p>
-            <p>Many successful people, including UPS professors, once believed that they would not get through their undergrad education. Check out <url href="https://www.pugetsound.edu/student-life/cice/">CICE</url> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. Writing Advisors or Academic Consultants at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/">CWLT</url> can also help you get started and get organized.</p>
-			<p>
-                    <assemblage>
-                        <title>Student Perspectives: Writing as a Multilingual Student</title>
-                        <blockquote><p>Growing up, I struggled a lot with my writing because I was learning two languages at the same time. In middle school my reading ability was at an elementary school level and entering high school I was at a 7th grade reading level. Despite having the ability to write, speak, and think in two languages, I would try to spell English words in Spanish and I would confuse grammar rules in Spanish with English rules. Even though I was able to succeed in my advanced English classes in high school, I never felt comfortable or proud of what I had written, I hated every sentence I produced and every paragraph I organized. Through lots of soul searching, I realize that I just had a different way of writing, a style that usually wasn't taught or appreciated in academia, one that represents my lived experience and identity and I needed to embrace that. Writing isn't just about the letter grade you get in red ink but about the way it makes you feel, the way in which you can effectively communicate with others, and the way in which you can express your full self. 
-                        </p>
-                            <attribution>
-                                <line>Member of Latinx Unidos</line>
-                                <line>University of Puget Sound</line>
-                                <line>September 2019</line>
-                            </attribution>
-                        </blockquote>
-                    </assemblage>
-                </p>
-			<p>A few UPS professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
-			<sidebyside width="70%">
-				<video youtube="20hJdiQN51Q"/>
-			</sidebyside>
-		</paragraphs>
-	</subsection>
+        <title>Identifying as a Writer</title>
+        <p>Sometimes when you are struggling with academic work, you may have moments when you simply don’t feel up to the tasks ahead of you. You may feel as though you will never be a successful student or a good writer, and these feelings can make it difficult to motivate yourself to truly put your all into academic work. When you don’t feel as though you can succeed, it is sometimes easier to not do your best work and fail than to really pour yourself into an assignment and still come up short.</p>
+        <p>These feelings are really hard to experience, but you are also not the first person to feel them or the only one experiencing them right now. In fact, many very successful academics have struggled with the exact same feelings. Remember that you <em>do</em> belong in college. You are intelligent, and your ideas are valuable. You can fail an exam, or a paper, or a class, and still go on to a successful career or even a PhD if that is what you feel driven to do.</p>
+        <p>Feeling like a good writer and a part of the academic community may be even more challenging if you hold one or more identities that have been historically excluded or marginalized in the academic sphere. For example, colleges and universities often reward those who are fluent in <xref ref="SAE"/>; this usually means students who are White, have grown up in the United States, and have college-educated parents. Students who belong to groups that are stereotyped as performing poorly in an academic setting may struggle with the very real impacts of <url href="https://www.apa.org/research/action/stereotype">stereotype threat</url>. Tokenization, or being called upon to represent your entire identity group in classroom settings can minimize the individuality and complexity of student identity (see <xref ref="intersectionality"/>). Still, feeling as though you can’t succeed or don’t belong is not an experience exclusive to any identity, and your struggles are valid regardless of who you are.</p> 
+        <assemblage>
+            <title>Student Perspectives: Intersectional Identities in the Classroom</title>
+            <blockquote>
+                <p>As a black woman, I step into the classroom with both of those identities being one<ellipsis/> People need to be aware of that at all times. Those are going to intersect constantly and don’t invalidate that<ellipsis/> Like if I'm in a classroom that's like only white women, and I was last semester, like I felt like my black side was not being represented because I'm in a class with only white women, so I'm not able to express that part of myself.</p>
+                <attribution>
+                    <line>Member of Black Student Union</line>
+                    <line>University of Puget Sound</line>
+                    <line>May 2019</line>
+                </attribution>
+            </blockquote>
+        </assemblage>
+        <p>These challenges are complex, and unfortunately there’s no magic solution to gain self-confidence and feel as though you belong in the academic community. Still, this is an obstacle you can work through, and it can be a huge asset to be able to understand and communicate within multiple communities.</p>
+        <p>Many successful people, including UPS professors, once believed that they would not get through their undergrad education. Check out <url href="https://www.pugetsound.edu/student-life/cice/">CICE</url> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. Writing Advisors or Academic Consultants at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/">CWLT</url> can also help you get started and get organized.</p>
+        <assemblage>
+            <title>Student Perspectives: Writing as a Multilingual Student</title>
+            <blockquote>
+                <p>Growing up, I struggled a lot with my writing because I was learning two languages at the same time. In middle school my reading ability was at an elementary school level and entering high school I was at a 7th grade reading level. Despite having the ability to write, speak, and think in two languages, I would try to spell English words in Spanish and I would confuse grammar rules in Spanish with English rules. Even though I was able to succeed in my advanced English classes in high school, I never felt comfortable or proud of what I had written, I hated every sentence I produced and every paragraph I organized. Through lots of soul searching, I realize that I just had a different way of writing, a style that usually wasn't taught or appreciated in academia, one that represents my lived experience and identity and I needed to embrace that. Writing isn't just about the letter grade you get in red ink but about the way it makes you feel, the way in which you can effectively communicate with others, and the way in which you can express your full self.</p>
+                <attribution>
+                    <line>Member of Latinx Unidos</line>
+                    <line>University of Puget Sound</line>
+                    <line>September 2019</line>
+                </attribution>
+            </blockquote>
+        </assemblage>
+        <p>A few UPS professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
+        <sidebyside width="70%">
+            <video youtube="20hJdiQN51Q"/>
+        </sidebyside>
+    </subsection>
     </section>
 </chapter>

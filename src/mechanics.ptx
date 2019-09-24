@@ -1498,7 +1498,6 @@
 
                 <table xml:id="homophone-table">
                     <title>Common Homophones</title>
-                    <caption>Common homophones and example sentences</caption>
                     <tabular>
                         <col width="30%"/>
                         <col width="70%"/>
@@ -2294,7 +2293,7 @@
             <subsubsection xml:id="punctuation-capitalization-comma">
                 <title>Comma <dblbrackets>,</dblbrackets></title>
                 <list xml:id="list-five-comma-uses">
-                    <caption>The five main uses of a comma</caption>
+                    <title>The five main uses of a comma</title>
                     <introduction>
                         <p>There are five main ways to use a comma. You can use them:</p>
                     </introduction>

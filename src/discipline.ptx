@@ -534,7 +534,7 @@
 								<title>Conventions and Tips</title>
 								<ul>
 									<li><p>The IEEE standard is sometimes used for citations, but standards vary among professors and professional journals. </p></li>
-									<li><p>Professional papers in Computer Science are usually written in the document markup language <LaTeX/>. This makes formatting easier, especially when working with equations. The accompanying citation tool, BIBTeX, can reformat your citations to fit whatever standard is required. Plus, it looks super professional! To write in LaTex, you can download a program like TexShop or TexMaker, or you can use <url href="https://www.overleaf.com/">Overleaf</url>, a free, online <LaTex/> editor.</p></li>
+									<li><p>Professional papers in Computer Science are usually written in the document markup language <latex/>. This makes formatting easier, especially when working with equations. The accompanying citation tool, BIBTeX, can reformat your citations to fit whatever standard is required. Plus, it looks super professional! To write in LaTex, you can download a program like TexShop or TexMaker, or you can use <url href="https://www.overleaf.com/">Overleaf</url>, a free, online <LaTex/> editor.</p></li>
 									<li><p>Well-designed figures are an invaluable tool for communicating complex ideas clearly.</p></li>
 									<li><p>Avoid sweeping statements and broad criticisms of others’ work. Instead, focus on your specific scope and make statements you can fully back up. </p></li>
 									<li><p>The standard sections in CS papers are:

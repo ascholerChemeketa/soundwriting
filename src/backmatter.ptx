@@ -4,6 +4,6 @@
     <xi:include href="glossary.ptx"/>
     <xi:include href="resources.ptx"/>
     <colophon>
-        <p>This book was authored and produced with <url href="https://mathbook.pugetsound.edu"><pretext/></url>.</p>
+        <p>This book was authored and produced with <url href="https://pretextbook.org"><pretext/></url>.</p>
     </colophon>
 </backmatter>
