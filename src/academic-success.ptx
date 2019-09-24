@@ -406,31 +406,31 @@
     <subsection xml:id="time-management-good-time-management">
         <title>Good Time Management</title>
         <p>The root of time management is using time well, and using your time well requires understanding the time you have. Depending on how much you enjoy being organized already and how busy or unstructured your life is, you may already have a knack for figuring out what time of day you do your best work, when you have different amounts of free time, and a good sense of how long your work will take.</p> 
-        <p>Understanding procrastination helps us identify strategies we can use to avoid it. In particular, breaking down an intimidating project early<ndash/>on is an essential skill to have when approaching a daunting task. But how do you create good goals that will help you chip away at a big assignment? One way is to ensure that your goals are <alert>S</alert>pecific, <alert>M</alert>easurable, <alert>A</alert>ttainable, <alert>R</alert>elevant, and <alert>T</alert>ime<ndash/>bound, or <accro>SMART</accro> for short. So if writing a lab<ndash/>report is the intimidating project that you're procrastinating on, writing a goal like <q>write lab report</q> in your planner is not especially useful. It's not a sub<ndash/>goal, and it doesn't give you something specific to work on, so it's far more likely to trigger the <q>aaaaaaaahhh that's so much to do</q> reaction that's likely to lead to procrastination.</p>
+        <p>Understanding procrastination helps us identify strategies we can use to avoid it. In particular, breaking down an intimidating project early<ndash/>on is an essential skill to have when approaching a daunting task. But how do you create good goals that will help you chip away at a big assignment? One way is to ensure that your goals are <alert>S</alert>pecific, <alert>M</alert>easurable, <alert>A</alert>ttainable, <alert>R</alert>elevant, and <alert>T</alert>ime<ndash/>bound, or <acro>SMART</acro> for short. So if writing a lab<ndash/>report is the intimidating project that you're procrastinating on, writing a goal like <q>write lab report</q> in your planner is not especially useful. It's not a sub<ndash/>goal, and it doesn't give you something specific to work on, so it's far more likely to trigger the <q>aaaaaaaahhh that's so much to do</q> reaction that's likely to lead to procrastination.</p>
         <example>
-            <title>Get <accro>SMART</accro>: Lab Report</title>
+            <title>Get <acro>SMART</acro>: Lab Report</title>
             <p>
                 <dl>
                     <li><title>Original goal</title><q>Write lab report.</q></li>
-                    <li><title><accro>SMART</accro> goal</title><q>Write intro and methods sections before 9 pm on Wednesday.</q></li>
+                    <li><title><acro>SMART</acro> goal</title><q>Write intro and methods sections before 9 pm on Wednesday.</q></li>
                 </dl>
             </p>
         </example>
         <example>
-            <title>Get <accro>SMART</accro>: Spanish Test</title>
+            <title>Get <acro>SMART</acro>: Spanish Test</title>
             <p>
                 <dl>
                     <li><title>Original goal:</title><q>Study for Spanish test</q></li>
-                    <li><title><accro>SMART</accro> goal:</title><q>Memorize 30 new Spanish vocab words for 1 hour on Tuesday after seminar.</q></li>
+                    <li><title><acro>SMART</acro> goal:</title><q>Memorize 30 new Spanish vocab words for 1 hour on Tuesday after seminar.</q></li>
                 </dl>
             </p>
         </example>
         <example>
-            <title>Get <accro>SMART</accro>: Essay</title>
+            <title>Get <acro>SMART</acro>: Essay</title>
             <p>
                 <dl>
                     <li><title>Original goal:</title><q>Stop procrastinating and write that essay</q></li>
-                    <li><title><accro>SMART</accro> goal:</title><q>Leave phone at home, go to the library Monday morning for 3 hours, and write an outline and a list of evidence I'm going to use for my <accro>SOAN</accro> paper. I get <em>two</em> 5<ndash/>minute breaks.</q></li>
+                    <li><title><acro>SMART</acro> goal:</title><q>Leave phone at home, go to the library Monday morning for 3 hours, and write an outline and a list of evidence I'm going to use for my <acro>SOAN</acro> paper. I get <em>two</em> 5<ndash/>minute breaks.</q></li>
                 </dl>
             </p>
         </example>
@@ -693,7 +693,7 @@
                 </li>
                 <li>
                     <p><em>Keep track of <em>miscellaneous activities</em> you've participated in.</em></p>
-                    <p>Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in <accro>ASUPS</accro> club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p>
+                    <p>Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in <acro>ASUPS</acro> club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p>
                 </li>
             </ul>
             <conclusion>
