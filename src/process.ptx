@@ -224,7 +224,9 @@
         <title>Writing</title>
         <subsection xml:id="process-introductions">
             <title>Writing Introductions</title>
-            <p>Writing an introduction is widely considered one of the most challenging steps in writing a paper. The challenge of writing a great introduction is real, but armed with a good understanding of introductions, a useful metaphor, and some concrete guidelines, the task of hooking your reader, laying out your argument, and asserting your thesis is one you can overcome.  In this section, you’ll learn <em>why</em> you need an introduction, <em>what</em> goes in an introduction, and <em>how</em> to construct an effective introduction (and yes, we got lost in the meta trying to write <em>this</em> introduction!).</p>
+            <introduction>
+                <p>Writing an introduction is widely considered one of the most challenging steps in writing a paper. The challenge of writing a great introduction is real, but armed with a good understanding of introductions, a useful metaphor, and some concrete guidelines, the task of hooking your reader, laying out your argument, and asserting your thesis is one you can overcome.  In this section, you’ll learn <em>why</em> you need an introduction, <em>what</em> goes in an introduction, and <em>how</em> to construct an effective introduction (and yes, we got lost in the meta trying to write <em>this</em> introduction!).</p>
+            </introduction>
             <subsubsection xml:id="introductions-role">
                 <title>Role of the Introduction</title>
                 <paragraphs xml:id="par-intros-road-map">
