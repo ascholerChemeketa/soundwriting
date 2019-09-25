@@ -459,133 +459,133 @@
         </paragraphs>
     </section>
     <section xml:id="writing-for-computer-science">
-			<title>Writing for Computer Science</title>
-            <introduction>
-			    <p>While it may seem like Computer Science (<init>CS</init>) has very little to do with writing, strong written communication skills will help you succeed and stand out in this field. Writing code is a fundamental skill in <init>CS</init>, and while it’s different than any other form of writing it still requires organization and clarity. Other writing in <init>CS</init> includes commenting code to give it longevity and utility to other coders, and academic papers to share your work with other computer scientists. Read this section to learn some strategies for effective writing in computer science classes! Writing for <init>CS</init> classes generally takes two forms: Code and code comments, and formal academic papers. Because these two genres are so different, this chapter is split into a section for each. Other writing takes the form of less formal responses and short assignments. These will vary considerably and your professor’s instructions will provide the best guidelines.</p>
-            </introduction>
-			<subsection xml:id="subsection-code">
-				<title>Writing Code and Code Comments</title>
-								<paragraphs>
+        <title>Writing for Computer Science</title>
+        <introduction>
+            <p>While it may seem like Computer Science (<init>CS</init>) has very little to do with writing, strong written communication skills will help you succeed and stand out in this field. Writing code is a fundamental skill in <init>CS</init>, and while it’s different than any other form of writing it still requires organization and clarity. Other writing in <init>CS</init> includes commenting code to give it longevity and utility to other coders, and academic papers to share your work with other computer scientists. Read this section to learn some strategies for effective writing in computer science classes! Writing for <init>CS</init> classes generally takes two forms: Code and code comments, and formal academic papers. Because these two genres are so different, this chapter is split into a section for each. Other writing takes the form of less formal responses and short assignments. These will vary considerably and your professor’s instructions will provide the best guidelines.</p>
+        </introduction>
+        <subsection xml:id="subsection-code">
+            <title>Writing Code and Code Comments</title>
+            <paragraphs>
+                <title>Purpose</title>
+                <p>Coding is the meat of computer science, and comments are critical for communicating what your code does to other users. Though comments are usually short and don’t always contain full sentences, they never-the-less require clear communication of the most important ideas. Comments generally fall into two categories: informal and formal. Informal comments are notes sprinkled throughout the code that annotate the algorithm to make it clearer for anyone who needs to work with it (including your future self!). Because computer code can be incredibly tedious to understand, and because two people will write different algorithms to accomplish the same goal, the purpose of these comments is to make your code more human-readable and to communicate the main ideas and steps in your code, as you would if outlining an essay. Informal comments do not need to follow an official style guide. In fact, they don’t even have to be complete sentences, but they should be clear and easy to understand. Formal comments (such as Javadoc comments in the Java language) explain the functionality and any inputs (parameters) and outputs (returns) of your methods, fields, and classes. They must follow a specific format so that they can be used to generate a webpage outlining the functionality of the code and giving instructions to use it. To write formal comments, carefully follow your professor’s directions and/or provided style guides. Good comments, both informal and formal, should not state obvious parts of your code, such as that you are using a loop; they should convey what the code does, but not unnecessary details about how it does it.</p>
+                </paragraphs>
+                <paragraphs>
+                    <title>Valued Characteristics</title>
+                    <p><q><em>All of the writing I give to my students is an attempt to have them practice the skills they will be doing when they are professionals.</em></q></p>
+                    <p>Concise and precise writing are vital for good comments. The comment should include everything someone might need to use the code successfully, but nothing they can tell just from looking at it. One comment for every 4<ndash/>5 lines of code is generally a good amount, but it can vary depending on the complexity of your work. Comments should tell the user <em>what</em> the code does, but not all of the details of <em>how</em> it does it.</p>
+                    <p>When writing code, efficiency is also highly valued. This doesn’t mean that the shortest code is best, but code that makes the computer do less work, use less space, and run faster (e.g., has smaller <term>time complexity</term> and <term>space complexity</term>) is valued professionally, where the efficiency of your code can cost or save money and impact customer satisfaction. As you code, think about ways to eliminate redundant code and use less computer memory. In the earlier days of computing, when memory was expensive, writing compact code was an important skill. However, in modern times the professional value of human readable and intuitive code is much higher.</p>
+                </paragraphs>
+                <paragraphs>
+                    <title>Conventions and Tips</title>
+                    <ul>
+                        <li><p>Exact formatting, down to use of punctuation and white space, is critical in formal commenting and coding because a computer needs to be able to generate a documentation website from what you write.<em> Read and use style guides to make sure your comments are properly formatted!</em></p></li>
+                        <li><p>The number of informal comments you should have throughout your code varies with the complexity of the code you are annotating and the language you are writing in. When writing in Java, a higher-level (more human-readable) language, you can expect to comment on average every 4<ndash/>5 lines. However, when writing assembly code, which is much lower-level (and consequently difficult to read), it is standard to comment every line of code.</p></li>
+                        <li><p>Many <init>CS</init> classes involve pair or group programming. When working with others, be sure to set yourself up to share the work equally. Choose a workspace where everyone is involved and pass the computer back and forth between logical units. Be self aware about the amount and ways you contribute, and give your partner space to contribute. Be open-minded and curious about what your partner has to add to the project.</p></li>
+                        <li><p>Write your comments as you write your code, even if you need to go back and alter them later, rather than hurriedly adding them right before turning in your assignment. As you write longer and more complicated code and work as part of a team of programmers, it will be increasingly difficult to remember what your idea was when writing old code, and your colleagues will need to stay updated on your code as you write it because their code may depend on your implementation.</p></li>
+                    </ul>
+                </paragraphs>
+                <note>
+                    <title>Coding and academic honesty</title>
+                    Code is a form of writing, and, even when programming a simple task, one person’s code differs from another’s in the same way essays differ. While tons of code is available online (such as on Stack Overflow) and sharing code is useful in more advanced projects, copying someone’s code without crediting them <em>is plagiarism</em> (see <xref ref="plagiarism"/>). If you are unsure about whether you can use code you found online or elsewhere, always ask your professor.
+                </note>
+                <paragraphs>
+                    <title>Additional Resources</title>
+                    <p>Google style guides provide detailed instructions for coding in different languages. These exist for coding languages including <url href="https://google.github.io/styleguide/javaguide.html">Java</url>, <url href="https://google.github.io/styleguide/cppguide.html">C++</url>, <url href="http://google.github.io/styleguide/objcguide.html">C</url>, and <url href="http://google.github.io/styleguide/">more</url>.</p>
+                </paragraphs>
+            </subsection>
+            <subsection xml:id="subsection-academic-papers">
+                <title>Writing Academic Papers</title>
+                    <p>Academic conference papers present your work to the academic community, and are formally written in active voice and generally about 8 pages in length. They are divided into sections like methods and introduction. They are centered around a project that you or your team performed, and clearly communicate what you did and what you found to the larger community of scientists. A paper should place your work in context and explain what it contributes or why it is valuable.</p>
+                            <paragraphs>
                                 <title>Purpose</title>
-								<p>Coding is the meat of computer science, and comments are critical for communicating what your code does to other users. Though comments are usually short and don’t always contain full sentences, they never-the-less require clear communication of the most important ideas. Comments generally fall into two categories: informal and formal. Informal comments are notes sprinkled throughout the code that annotate the algorithm to make it clearer for anyone who needs to work with it (including your future self!). Because computer code can be incredibly tedious to understand, and because two people will write different algorithms to accomplish the same goal, the purpose of these comments is to make your code more human-readable and to communicate the main ideas and steps in your code, as you would if outlining an essay. Informal comments do not need to follow an official style guide. In fact, they don’t even have to be complete sentences, but they should be clear and easy to understand. Formal comments (such as Javadoc comments in the Java language) explain the functionality and any inputs (parameters) and outputs (returns) of your methods, fields, and classes. They must follow a specific format so that they can be used to generate a webpage outlining the functionality of the code and giving instructions to use it. To write formal comments, carefully follow your professor’s directions and/or provided style guides. Good comments, both informal and formal, should not state obvious parts of your code, such as that you are using a loop; they should convey what the code does, but not unnecessary details about how it does it.</p>
-                     </paragraphs>
-                     <paragraphs>
-								<title>Valued Characteristics</title>
-								<p><q><em>All of the writing I give to my students is an attempt to have them practice the skills they will be doing when they are professionals.</em></q></p>
-								<p>Concise and precise writing are vital for good comments. The comment should include everything someone might need to use the code successfully, but nothing they can tell just from looking at it. One comment for every 4<ndash/>5 lines of code is generally a good amount, but it can vary depending on the complexity of your work. Comments should tell the user <em>what</em> the code does, but not all of the details of <em>how</em> it does it.</p>
-								<p>When writing code, efficiency is also highly valued. This doesn’t mean that the shortest code is best, but code that makes the computer do less work, use less space, and run faster (e.g., has smaller <term>time complexity</term> and <term>space complexity</term>) is valued professionally, where the efficiency of your code can cost or save money and impact customer satisfaction. As you code, think about ways to eliminate redundant code and use less computer memory. In the earlier days of computing, when memory was expensive, writing compact code was an important skill. However, in modern times the professional value of human readable and intuitive code is much higher.</p>
-							</paragraphs>
-							<paragraphs>
-							<title>Conventions and Tips</title>
-						    <ul>
-								<li><p>Exact formatting, down to use of punctuation and white space, is critical in formal commenting and coding because a computer needs to be able to generate a documentation website from what you write.<em> Read and use style guides to make sure your comments are properly formatted!</em></p></li>
-								<li><p>The number of informal comments you should have throughout your code varies with the complexity of the code you are annotating and the language you are writing in. When writing in Java, a higher-level (more human-readable) language, you can expect to comment on average every 4<ndash/>5 lines. However, when writing assembly code, which is much lower-level (and consequently difficult to read), it is standard to comment every line of code.</p></li>
-								<li><p>Many <init>CS</init> classes involve pair or group programming. When working with others, be sure to set yourself up to share the work equally. Choose a workspace where everyone is involved and pass the computer back and forth between logical units. Be self aware about the amount and ways you contribute, and give your partner space to contribute. Be open-minded and curious about what your partner has to add to the project.</p></li>
-								<li><p>Write your comments as you write your code, even if you need to go back and alter them later, rather than hurriedly adding them right before turning in your assignment. As you write longer and more complicated code and work as part of a team of programmers, it will be increasingly difficult to remember what your idea was when writing old code, and your colleagues will need to stay updated on your code as you write it because their code may depend on your implementation.</p></li>
-							</ul>
-							<p><note>
-								<title>Coding and academic honesty</title>
-								Code is a form of writing, and, even when programming a simple task, one person’s code differs from another’s in the same way essays differ. While tons of code is available online (such as on Stack Overflow) and sharing code is useful in more advanced projects, copying someone’s code without crediting them <em>is plagiarism</em> (see <xref ref="plagiarism"/>). If you are unsure about whether you can use code you found online or elsewhere, always ask your professor.
-							</note></p>
+                                <p>The purpose of <init>CS</init> papers, like in other sciences, is to contribute to academic knowledge in the field and share your work. The audience is other computer scientists, though not necessarily in your specific subsection of the field. A paper shares new ideas or contributions, so that others can learn from them and potentially build on your work. While student papers may or may not actually be presented at a conference, they are practice for this type of academic work and should be written with the same goals in mind.</p>
                             </paragraphs>
                             <paragraphs>
-								<title>Additional Resources</title>
-								<p>Google style guides provide detailed instructions for coding in different languages. These exist for coding languages including <url href="https://google.github.io/styleguide/javaguide.html">Java</url>, <url href="https://google.github.io/styleguide/cppguide.html">C++</url>, <url href="http://google.github.io/styleguide/objcguide.html">C</url>, and <url href="http://google.github.io/styleguide/">more</url>.</p>
-                            </paragraphs>
-			</subsection>
-			<subsection xml:id="subsection-academic-papers">
-				<title>Writing Academic Papers</title>
-					<p>Academic conference papers present your work to the academic community, and are formally written in active voice and generally about 8 pages in length. They are divided into sections like methods and introduction. They are centered around a project that you or your team performed, and clearly communicate what you did and what you found to the larger community of scientists. A paper should place your work in context and explain what it contributes or why it is valuable.</p>
-							<paragraphs>
-								<title>Purpose</title>
-								<p>The purpose of <init>CS</init> papers, like in other sciences, is to contribute to academic knowledge in the field and share your work. The audience is other computer scientists, though not necessarily in your specific subsection of the field. A paper shares new ideas or contributions, so that others can learn from them and potentially build on your work. While student papers may or may not actually be presented at a conference, they are practice for this type of academic work and should be written with the same goals in mind.</p>
-							</paragraphs>
-							<paragraphs>
-								<title>Valued Characteristics</title>
-								<p><q><em>If you're on the monkey bars, you have to have one hand here and then you reach out and grab here and then you let that go and you reach out and grab here. At no point do you let go with both hands. In the same way you are carrying your reader from one sentence to the next to the next and you can't let them go.</em></q></p>
+                                <title>Valued Characteristics</title>
+                                <p><q><em>If you're on the monkey bars, you have to have one hand here and then you reach out and grab here and then you let that go and you reach out and grab here. At no point do you let go with both hands. In the same way you are carrying your reader from one sentence to the next to the next and you can't let them go.</em></q></p>
                                 <p>In academic papers, computer scientists must be able to convey complex ideas with enough detail and clarity that their colleagues can understand them. Therefore, it’s vital for the writer be able to break down complicated ideas into precise, logical steps. This is sometimes referred to as <term>algorithmic thinking</term>. For example, think about the level of clarity that would be required to teach a child to perform a task like tying their shoes... over the phone. Your writing should walk the reader through every step, never making logical jumps that might leave them behind. It should start at the beginning and introduce all the important terms and notation before you use them.</p>
-								<p>Concise writing is also valued in <init>CS</init>. While you should include anything the reader will need to understand, avoid unnecessarily fancy words or sentence structures. The ideas are complex and difficult to understand, but your writing should not be. <q>Untwist</q> your sentences, clearly linking nouns and verbs and avoiding dangling phrases. Likewise, precision in language (see <xref ref="style-writing-clearly"/>) is very important. Avoid vague phrases or sweeping claims. Instead, use language that conveys your ideas as exactly as possible without going beyond the scope of your work. The main challenge is including all the necessary information, but nothing extra.</p>
-							</paragraphs>
-							<paragraphs>
-								<title>Evidence</title>
-								<p>In <init>CS</init> papers, evidence takes the form of data sets or models from your own work, as well as previous related information or conclusions from other peer-reviewed academic papers. This often includes equations or tables mixed with text. Be sure to meticulously interpret these data for your reader, as they are often confusing. When using evidence from others, also be sure to explain how it relates to your topic and to cite it properly. For your data to be meaningful, think about how you can use experiments to measure and convey the success of your project. This gives your work meaning and context for a larger audience.</p>
-							</paragraphs>
-							<paragraphs>
-								<title>Conventions and Tips</title>
-								<ul>
-									<li><p>The IEEE standard is sometimes used for citations, but standards vary among professors and professional journals. </p></li>
-									<li><p>Professional papers in Computer Science are usually written in the document markup language <latex/>. This makes formatting easier, especially when working with equations. The accompanying citation tool, BIBTeX, can reformat your citations to fit whatever standard is required. Plus, it looks super professional! To write in LaTex, you can download a program like TexShop or TexMaker, or you can use <url href="https://www.overleaf.com/">Overleaf</url>, a free, online <LaTex/> editor.</p></li>
-									<li><p>Well-designed figures are an invaluable tool for communicating complex ideas clearly.</p></li>
-									<li><p>Avoid sweeping statements and broad criticisms of others’ work. Instead, focus on your specific scope and make statements you can fully back up. </p></li>
-									<li><p>The standard sections in CS papers are:
-										<ul>
-											<li>Intro/motivation</li>
-											<li>Background and problem statement</li>
-											<li>Approach or algorithm (methods)</li>
-											<li>Experimental evaluation</li>
-											<li>Discussion of results</li>
-											<li>Related work</li>
-											<li>Conclusion and future work</li>
-										</ul>
-									</p></li>
-								</ul>
-							</paragraphs>
-							<paragraphs>
-								<title>Additional Resources</title>
-								<p><url href="https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf"><pubtitle>The Science of Scientific Writing</pubtitle></url> by Drs. George Gopen and Judith Swan includes excellent advice on how to convey complex ideas clearly. <pubtitle>BUGS in Writing: A Guide to Debugging Your Prose</pubtitle> by Lyn Dupre is a useful book about writing for people who work with computers.</p>
+                                <p>Concise writing is also valued in <init>CS</init>. While you should include anything the reader will need to understand, avoid unnecessarily fancy words or sentence structures. The ideas are complex and difficult to understand, but your writing should not be. <q>Untwist</q> your sentences, clearly linking nouns and verbs and avoiding dangling phrases. Likewise, precision in language (see <xref ref="style-writing-clearly"/>) is very important. Avoid vague phrases or sweeping claims. Instead, use language that conveys your ideas as exactly as possible without going beyond the scope of your work. The main challenge is including all the necessary information, but nothing extra.</p>
+                            </paragraphs>
+                            <paragraphs>
+                                <title>Evidence</title>
+                                <p>In <init>CS</init> papers, evidence takes the form of data sets or models from your own work, as well as previous related information or conclusions from other peer-reviewed academic papers. This often includes equations or tables mixed with text. Be sure to meticulously interpret these data for your reader, as they are often confusing. When using evidence from others, also be sure to explain how it relates to your topic and to cite it properly. For your data to be meaningful, think about how you can use experiments to measure and convey the success of your project. This gives your work meaning and context for a larger audience.</p>
+                            </paragraphs>
+                            <paragraphs>
+                                <title>Conventions and Tips</title>
+                                <ul>
+                                    <li><p>The IEEE standard is sometimes used for citations, but standards vary among professors and professional journals. </p></li>
+                                    <li><p>Professional papers in Computer Science are usually written in the document markup language <latex/>. This makes formatting easier, especially when working with equations. The accompanying citation tool, BIBTeX, can reformat your citations to fit whatever standard is required. Plus, it looks super professional! To write in LaTex, you can download a program like TexShop or TexMaker, or you can use <url href="https://www.overleaf.com/">Overleaf</url>, a free, online <LaTex/> editor.</p></li>
+                                    <li><p>Well-designed figures are an invaluable tool for communicating complex ideas clearly.</p></li>
+                                    <li><p>Avoid sweeping statements and broad criticisms of others’ work. Instead, focus on your specific scope and make statements you can fully back up. </p></li>
+                                    <li><p>The standard sections in CS papers are:
+                                        <ul>
+                                            <li>Intro/motivation</li>
+                                            <li>Background and problem statement</li>
+                                            <li>Approach or algorithm (methods)</li>
+                                            <li>Experimental evaluation</li>
+                                            <li>Discussion of results</li>
+                                            <li>Related work</li>
+                                            <li>Conclusion and future work</li>
+                                        </ul>
+                                    </p></li>
+                                </ul>
+                            </paragraphs>
+                            <paragraphs>
+                                <title>Additional Resources</title>
+                                <p><url href="https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf"><pubtitle>The Science of Scientific Writing</pubtitle></url> by Drs. George Gopen and Judith Swan includes excellent advice on how to convey complex ideas clearly. <pubtitle>BUGS in Writing: A Guide to Debugging Your Prose</pubtitle> by Lyn Dupre is a useful book about writing for people who work with computers.</p>
                             </paragraphs>
         </subsection>
     </section>
     <section xml:id="writing-for-mathematics">
-		<title>Writing for Mathematics</title>
-		<p>Contrary to the popular belief that mathematics and writing are opposites, strong writing skills will make you a better mathematician. Writing for mathematics is all about communicating complex ideas with precision and concision. Initially new genres like proofs may be intimidating, but practice, your professors, and this section can help you learn the craft of writing in the field of Mathematics. 
-			</p>
-		<note>
-			<title>Writing for Statistics</title>
-			<p>The genres of writing in statistics differ from those mentioned here, particularly because statistics is often used in the context of another field, like psychology or biology. While similar characteristics are valued, refer to the specific field for style guidelines.</p>
-		</note>
-		<paragraphs>
-			<title>Genres</title>
-			<p><q><em>You shouldn’t be afraid to do proofs.</em></q></p>
-			<p>The fundamental genre of writing in mathematics is the proof. In a proof, a mathematician walks through the logical steps from a known statement to prove another statement. Proofs should be devoid of complexity beyond the logical steps required to prove the statement. They range in length from just a few lines to several pages or longer, depending on the complexity of the problem.</p>
-			<p>The other genre more common in upper division mathematics classes is a paper using mathematics to solve real-world problems. This genre involves more expository writing, as the problem must be used to write a mathematical model, and then the results of the model must be contextualized with respect to the original problem. They are generally 5<ndash/>7 pages in length, including graphics. </p>
-		</paragraphs>
-		<paragraphs>
-			<title>Purpose</title>
-				<p>The purpose of writing in mathematics is to work through difficult ideas and communicate them clearly. Writing helps develop and deepen thinking. Proofs are applications of complex concepts and methods learned in class; in order to write them successfully, you have to explore and understand those ideas, a process that facilitates learning.</p>
-				<p>In the professional mathematical world, a proof is also something more, a way of demonstrating (proving!) previously unknown knowledge to the academic community. While student proofs are not usually new discoveries, they require the student to practice the same kinds of thinking and logical moves required for more advanced academic work. </p>
-		</paragraphs>
-		<paragraphs>
-			<title>Valued Characteristics</title>
-			<p><q><em>Erdős (a famous mathematician) said that God has a book with all the proofs in it… and when you wrote a nice proof he would say, ‘oh, that’s from the book.’</em></q></p>
-			<p>Precision and concision are the most highly valued characteristics in mathematical writing. Precision means that the piece of writing is logically correct. You cannot write a good proof without correct logic. Concision means that the ideas are communicated efficiently, without anything unnecessary included. For example, if you’re using a theorem from the book, cite it instead of writing the entire thing out again. Avoid unnecessary explanations like “now I will show that X is 3…” instead, simply show it. Concision also means knowing your audience and not including details they would already know. For most proofs, the expected audience is another student doing reasonably well in your class, who wouldn’t need to see every basic algebraic step you took. If, for example, you already covered solving systems of equations in class, there’s no need to list every step you used to solve a system. You can simply tell the reader what technique you used and what the results were. Concision, along with mathematical elegance, also means using big theorems that move the proof along in fewer steps. A good proof does its work as efficiently as possible, without descending into detailed computations where they aren’t needed. </p>
-			<p>To write concisely, also keep in mind that a proof is the logic itself, not the story of how you worked it out. X did not become three when you figured it out; it always was three, and you simply discovered that fact. In the process of writing a proof, you will likely struggle down many dead ends, but the final project should only include the most efficient logical steps. </p>
-		</paragraphs>
-		<paragraphs>
-			<title>Evidence</title>
-			<p>Pre-existing theorems and definitions are important starting evidence, which are generally cited from the textbook. Mathematical equations, incorporated into the text in complete sentences, also provide evidence. In more applied projects, working out specific cases or examples of a theorem can also provide important explanation. Longer projects might also cite mathematical literature, usually books and occasionally journal articles. </p>
-		</paragraphs>
-		<paragraphs>
-			<title>Conventions and Tips</title>
-			<ul>
-				<li><p>A proof is a piece of writing in paragraph form. This means that even when mathematical equations are used, they go within complete sentences with proper punctuation.</p></li>
-				<li><p>When possible, don’t start sentences with numbers or symbols.</p></li>
-				<li><p>Proofs are written in the present tense using the first person plural (<q>we</q>). Write as though you are walking through the logical steps with the reader.</p></li>
-				<li><p>Choose notation carefully and define variables, parameters, and constants clearly when they are introduced. </p></li>
-				<li><p>While expressions are used in text, don’t use shorthand like replacing the words “less than” with the <q>&lt;</q> symbol.</p></li>
-				<li><p>Be thoughtful when inserting graphics: use consistent designs that convey contents clearly, and be sure to reference them in the text.</p></li>
-				<li><p>Mathematical writing is generally done in <LaTeX/>, a document markup language. This makes proper formatting of equations in text much more elegant.</p></li>
-				<li><p>Most professors return incomplete or incorrect proofs for revisions. This is an important part of the learning process; be comfortable with working through revisions several times. </p></li>
-				<li><p>When writing about equations or formulas, remember that they exist and are not evolving or springing into being. Refer to them as factual entities that simply <em>are</em>. </p></li>
-				<li><p>Writing in mathematics classes is generally done individually, while professionals may work solo, in pairs or small groups, and infrequently in large groups </p></li>
-				<li><p>Many students find starting proofs challenging but, as with any piece of writing, it’s important to just start and not worry too much about being right immediately. Try strategies recommended by your professors, like starting with definitions of important terms or working backwards. </p></li>
-			</ul>
-		</paragraphs>
-		<paragraphs>
-			<title>Additional Resources</title>
-				<p> A <url href="https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf">very useful guide</url> to proof writing is available from Dr. John Lee at the University of Washington. Your professor may also have written something along these lines.</p>
-				<p><url href="http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf"><pubtitle>Mathematical Writing</pubtitle></url> by Donald Knuth, Tracy Larrabee, and Paul Roberts is a somewhat more in-depth booklet on writing in the discipline (based on a course taught at Stanford), available free online.</p>
-				<p><pubtitle>A Primer of Mathematical Writing</pubtitle> by Stephen Krantz is a great book for students interested in diving deeper into the topic.</p>
-		</paragraphs>
-	</section>
+        <title>Writing for Mathematics</title>
+        <p>Contrary to the popular belief that mathematics and writing are opposites, strong writing skills will make you a better mathematician. Writing for mathematics is all about communicating complex ideas with precision and concision. Initially new genres like proofs may be intimidating, but practice, your professors, and this section can help you learn the craft of writing in the field of Mathematics. 
+            </p>
+        <note>
+            <title>Writing for Statistics</title>
+            <p>The genres of writing in statistics differ from those mentioned here, particularly because statistics is often used in the context of another field, like psychology or biology. While similar characteristics are valued, refer to the specific field for style guidelines.</p>
+        </note>
+        <paragraphs>
+            <title>Genres</title>
+            <p><q><em>You shouldn’t be afraid to do proofs.</em></q></p>
+            <p>The fundamental genre of writing in mathematics is the proof. In a proof, a mathematician walks through the logical steps from a known statement to prove another statement. Proofs should be devoid of complexity beyond the logical steps required to prove the statement. They range in length from just a few lines to several pages or longer, depending on the complexity of the problem.</p>
+            <p>The other genre more common in upper division mathematics classes is a paper using mathematics to solve real-world problems. This genre involves more expository writing, as the problem must be used to write a mathematical model, and then the results of the model must be contextualized with respect to the original problem. They are generally 5<ndash/>7 pages in length, including graphics. </p>
+        </paragraphs>
+        <paragraphs>
+            <title>Purpose</title>
+                <p>The purpose of writing in mathematics is to work through difficult ideas and communicate them clearly. Writing helps develop and deepen thinking. Proofs are applications of complex concepts and methods learned in class; in order to write them successfully, you have to explore and understand those ideas, a process that facilitates learning.</p>
+                <p>In the professional mathematical world, a proof is also something more, a way of demonstrating (proving!) previously unknown knowledge to the academic community. While student proofs are not usually new discoveries, they require the student to practice the same kinds of thinking and logical moves required for more advanced academic work. </p>
+        </paragraphs>
+        <paragraphs>
+            <title>Valued Characteristics</title>
+            <p><q><em>Erdős (a famous mathematician) said that God has a book with all the proofs in it… and when you wrote a nice proof he would say, ‘oh, that’s from the book.’</em></q></p>
+            <p>Precision and concision are the most highly valued characteristics in mathematical writing. Precision means that the piece of writing is logically correct. You cannot write a good proof without correct logic. Concision means that the ideas are communicated efficiently, without anything unnecessary included. For example, if you’re using a theorem from the book, cite it instead of writing the entire thing out again. Avoid unnecessary explanations like “now I will show that X is 3…” instead, simply show it. Concision also means knowing your audience and not including details they would already know. For most proofs, the expected audience is another student doing reasonably well in your class, who wouldn’t need to see every basic algebraic step you took. If, for example, you already covered solving systems of equations in class, there’s no need to list every step you used to solve a system. You can simply tell the reader what technique you used and what the results were. Concision, along with mathematical elegance, also means using big theorems that move the proof along in fewer steps. A good proof does its work as efficiently as possible, without descending into detailed computations where they aren’t needed. </p>
+            <p>To write concisely, also keep in mind that a proof is the logic itself, not the story of how you worked it out. X did not become three when you figured it out; it always was three, and you simply discovered that fact. In the process of writing a proof, you will likely struggle down many dead ends, but the final project should only include the most efficient logical steps. </p>
+        </paragraphs>
+        <paragraphs>
+            <title>Evidence</title>
+            <p>Pre-existing theorems and definitions are important starting evidence, which are generally cited from the textbook. Mathematical equations, incorporated into the text in complete sentences, also provide evidence. In more applied projects, working out specific cases or examples of a theorem can also provide important explanation. Longer projects might also cite mathematical literature, usually books and occasionally journal articles. </p>
+        </paragraphs>
+        <paragraphs>
+            <title>Conventions and Tips</title>
+            <ul>
+                <li><p>A proof is a piece of writing in paragraph form. This means that even when mathematical equations are used, they go within complete sentences with proper punctuation.</p></li>
+                <li><p>When possible, don’t start sentences with numbers or symbols.</p></li>
+                <li><p>Proofs are written in the present tense using the first person plural (<q>we</q>). Write as though you are walking through the logical steps with the reader.</p></li>
+                <li><p>Choose notation carefully and define variables, parameters, and constants clearly when they are introduced. </p></li>
+                <li><p>While expressions are used in text, don’t use shorthand like replacing the words “less than” with the <q>&lt;</q> symbol.</p></li>
+                <li><p>Be thoughtful when inserting graphics: use consistent designs that convey contents clearly, and be sure to reference them in the text.</p></li>
+                <li><p>Mathematical writing is generally done in <LaTeX/>, a document markup language. This makes proper formatting of equations in text much more elegant.</p></li>
+                <li><p>Most professors return incomplete or incorrect proofs for revisions. This is an important part of the learning process; be comfortable with working through revisions several times. </p></li>
+                <li><p>When writing about equations or formulas, remember that they exist and are not evolving or springing into being. Refer to them as factual entities that simply <em>are</em>. </p></li>
+                <li><p>Writing in mathematics classes is generally done individually, while professionals may work solo, in pairs or small groups, and infrequently in large groups </p></li>
+                <li><p>Many students find starting proofs challenging but, as with any piece of writing, it’s important to just start and not worry too much about being right immediately. Try strategies recommended by your professors, like starting with definitions of important terms or working backwards. </p></li>
+            </ul>
+        </paragraphs>
+        <paragraphs>
+            <title>Additional Resources</title>
+                <p> A <url href="https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf">very useful guide</url> to proof writing is available from Dr. John Lee at the University of Washington. Your professor may also have written something along these lines.</p>
+                <p><url href="http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf"><pubtitle>Mathematical Writing</pubtitle></url> by Donald Knuth, Tracy Larrabee, and Paul Roberts is a somewhat more in-depth booklet on writing in the discipline (based on a course taught at Stanford), available free online.</p>
+                <p><pubtitle>A Primer of Mathematical Writing</pubtitle> by Stephen Krantz is a great book for students interested in diving deeper into the topic.</p>
+        </paragraphs>
+    </section>
 </chapter>
