@@ -32,11 +32,9 @@
                 </ul>
             </p>
             <p>Now there's a magical day at the beginning of the semester called <q>syllabus day</q> where everyone goes to class and just does nothing! How amazing!</p>
-            <p>
-                <assemblage>
-                    <p>Just kidding! The truth is, of course, that syllabus day is important. Professors reserve an entire day of class to go over the syllabus because they <em>expect</em> students to know their policies and assignment due dates.</p>
-                </assemblage>
-            </p>
+            <assemblage>
+                <p>Just kidding! The truth is, of course, that syllabus day is important. Professors reserve an entire day of class to go over the syllabus because they <em>expect</em> students to know their policies and assignment due dates.</p>
+            </assemblage>
         </paragraphs>
     </subsection>
     <subsection xml:id="making-requests">
@@ -574,47 +572,43 @@
                 </li>
             </ol>
         </list>
-        <p>
-            <assemblage>
-                <title>On<ndash/>Campus Places to Study</title>
-                <p>
-                    <ul>
-                        <li><p>Diversions/Oppenheimer</p></li>
-                        <li><p>Empty classrooms/resource rooms in Thompson</p></li>
-                        <li>
-                            <p>The library
-                                <ul>
-                                    <li>Rooms in the basement</li>
-                                    <li>Second floor</li>
-                                    <li>Big tables by the front doors</li>
-                                    <li>The fourth<ndash/>floor couches</li>
-                                </ul>
-                            </p>
-                        </li>
-                        <li><p>Nooks in Wyatt</p></li>
-                        <li><p>Outside (if it's sunny)</p></li>
-                        <li><p>Upstairs in the <acro>SUB</acro></p></li>
-                        <li><p>The rotunda (if it's open)</p></li>
-                        <li><p>Lounges in your residence hall</p></li>
-                        <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
-                    </ul>
-                </p>
-            </assemblage>
-        </p>
-        <p>
-            <assemblage>
-                <title>Off<ndash/>Campus Places to Study</title>
-                <p>
-                    <ul>
-                        <li><p>Metronome</p></li>
-                        <li><p>Bluebeard Coffee Roasters</p></li>
-                        <li><p>Owen Beach at Point Defiance</p></li>
-                        <li><p>Anthem Coffee &amp; Tea</p></li>
-                        <li><p>Blackbear</p></li>
-                    </ul>
-                </p>
-            </assemblage>
-        </p>
+        <assemblage>
+            <title>On<ndash/>Campus Places to Study</title>
+            <p>
+                <ul>
+                    <li><p>Diversions/Oppenheimer</p></li>
+                    <li><p>Empty classrooms/resource rooms in Thompson</p></li>
+                    <li>
+                        <p>The library
+                            <ul>
+                                <li>Rooms in the basement</li>
+                                <li>Second floor</li>
+                                <li>Big tables by the front doors</li>
+                                <li>The fourth<ndash/>floor couches</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li><p>Nooks in Wyatt</p></li>
+                    <li><p>Outside (if it's sunny)</p></li>
+                    <li><p>Upstairs in the <acro>SUB</acro></p></li>
+                    <li><p>The rotunda (if it's open)</p></li>
+                    <li><p>Lounges in your residence hall</p></li>
+                    <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
+                </ul>
+            </p>
+        </assemblage>
+        <assemblage>
+            <title>Off<ndash/>Campus Places to Study</title>
+            <p>
+                <ul>
+                    <li><p>Metronome</p></li>
+                    <li><p>Bluebeard Coffee Roasters</p></li>
+                    <li><p>Owen Beach at Point Defiance</p></li>
+                    <li><p>Anthem Coffee &amp; Tea</p></li>
+                    <li><p>Blackbear</p></li>
+                </ul>
+            </p>
+        </assemblage>
     </subsection>
     <subsection xml:id="getting-organized-staying-organized">
         <title>Keeping your School Life Organized</title>
