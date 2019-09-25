@@ -10,7 +10,7 @@
             <p>When writing citations, the most basic question you need to ask yourself is, <q>What information would someone need to find this source on their own?</q> Although nowadays you'd likely use your phone to take a picture of a product you want to be able to find again (your favorite brand of bread, for example), citations require a little more effort. The basic principle, however, is the same. When taking a picture to remember something, you make sure that you have the name and any other identifying information that will help you find it again. Similarly, when writing a citation, you want to make sure you include the basic identifying features of a source, namely the author, title, date, and publisher.</p>
             <p>Citations serve many purposes. Beyond allowing others to <em>find</em> the sources you use, citations also give your audience clues about the type of information you've used, where that information came from, and how reliable the information is within a particular context, all without having to go find the source directly. There are two main categories of each citation style: in<ndash/>text citations and full citations. In<ndash/>text citations provide a reader with immediate information about the source from which a piece of information came. Full citations provide a reader with more complete information about the source.</p>
         </introduction>
-        <subsubsection>
+        <subsection>
             <title>Background</title>
             <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: <init>MLA</init> (Modern Language Association), <init>CMS</init> (Chicago Manual of Style), and <init>APA</init> (American Psychological Association).</p>
             <p>In general, here are some differences between the styles:</p>
@@ -62,8 +62,8 @@
                     </row>
                 </tabular>
             </sidebyside>
-        </subsubsection>
-        <subsubsection>
+        </subsection>
+        <subsection>
             <title>Basic Components</title>
             <p>No matter the style, the basic components you need for each type of source remain relatively constant. Here are the components for a few types of frequently used sources:</p>
             <sidebyside>
@@ -214,8 +214,8 @@
             <insight>
                 <p>Having trouble finding the right information in a source? Things like publishing location can sometimes be tricky to pinpoint. If you've looked all over the copyright page, title page, binding, and cover, just go to Google and search the publisher's name. You'll likely find the publisher's address, which should tell you what city the company is located in. Another trick is to look the book up on <url href="https://www.amazon.com/">Amazon<fn><c>amazon.com</c></fn></url><mdash/>sometimes they'll have the right information in the <q>Product Details</q> section.</p>
             </insight>
-        </subsubsection>
-        <subsubsection>
+        </subsection>
+        <subsection>
             <title>In<ndash/>Text Citations</title>
             <p>For citation styles that include citations in parenthesis in the body of your paper (also known as parenthetic citations), it's crucial that the in<ndash />text citation (the part in your paper that's in parenthesis) corresponds exactly with the full reference at the end of the paper in the Works Cited or References section. But parenthetic citations are also designed to offer information with minimal disruption to the reader's engagement with the text; if some of the citation information is in the sentence itself, then there's no need to repeat the information in the parenthesis.</p>
             <list>
@@ -262,7 +262,7 @@
                     </li>
                 </ol>
             </list>
-        </subsubsection>
+        </subsection>
     </section>
     <section xml:id="plagiarism">
         <title>Avoiding Plagiarism</title>
