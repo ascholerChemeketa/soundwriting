@@ -486,7 +486,7 @@
                 </paragraphs>
                 <note>
                     <title>Coding and academic honesty</title>
-                    Code is a form of writing, and, even when programming a simple task, one person’s code differs from another’s in the same way essays differ. While tons of code is available online (such as on Stack Overflow) and sharing code is useful in more advanced projects, copying someone’s code without crediting them <em>is plagiarism</em> (see <xref ref="plagiarism"/>). If you are unsure about whether you can use code you found online or elsewhere, always ask your professor.
+                    <p>Code is a form of writing, and, even when programming a simple task, one person’s code differs from another’s in the same way essays differ. While tons of code is available online (such as on Stack Overflow) and sharing code is useful in more advanced projects, copying someone’s code without crediting them <em>is plagiarism</em> (see <xref ref="plagiarism"/>). If you are unsure about whether you can use code you found online or elsewhere, always ask your professor.</p>
                 </note>
                 <paragraphs>
                     <title>Additional Resources</title>
