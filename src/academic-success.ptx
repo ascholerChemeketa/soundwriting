@@ -405,8 +405,14 @@
             <title>Get <acro>SMART</acro>: Lab Report</title>
             <p>
                 <dl>
-                    <li><title>Original goal</title><q>Write lab report.</q></li>
-                    <li><title><acro>SMART</acro> goal</title><q>Write intro and methods sections before 9 pm on Wednesday.</q></li>
+                    <li>
+                        <title>Original goal</title>
+                        <p><q>Write lab report.</q></p>
+                    </li>
+                    <li>
+                        <title><acro>SMART</acro> goal</title>
+                        <p><q>Write intro and methods sections before 9 pm on Wednesday.</q></p>
+                    </li>
                 </dl>
             </p>
         </example>
@@ -414,8 +420,14 @@
             <title>Get <acro>SMART</acro>: Spanish Test</title>
             <p>
                 <dl>
-                    <li><title>Original goal:</title><q>Study for Spanish test</q></li>
-                    <li><title><acro>SMART</acro> goal:</title><q>Memorize 30 new Spanish vocab words for 1 hour on Tuesday after seminar.</q></li>
+                    <li>
+                        <title>Original goal:</title>
+                        <p><q>Study for Spanish test</q></p>
+                    </li>
+                    <li>
+                        <title><acro>SMART</acro> goal:</title>
+                        <p><q>Memorize 30 new Spanish vocab words for 1 hour on Tuesday after seminar.</q></p>
+                    </li>
                 </dl>
             </p>
         </example>
@@ -423,8 +435,14 @@
             <title>Get <acro>SMART</acro>: Essay</title>
             <p>
                 <dl>
-                    <li><title>Original goal:</title><q>Stop procrastinating and write that essay</q></li>
-                    <li><title><acro>SMART</acro> goal:</title><q>Leave phone at home, go to the library Monday morning for 3 hours, and write an outline and a list of evidence I'm going to use for my <acro>SOAN</acro> paper. I get <em>two</em> 5<ndash/>minute breaks.</q></li>
+                    <li>
+                        <title>Original goal:</title>
+                        <p><q>Stop procrastinating and write that essay</q></p>
+                    </li>
+                    <li>
+                        <title><acro>SMART</acro> goal:</title>
+                        <p><q>Leave phone at home, go to the library Monday morning for 3 hours, and write an outline and a list of evidence I'm going to use for my <acro>SOAN</acro> paper. I get <em>two</em> 5<ndash/>minute breaks.</q></p>
+                    </li>
                 </dl>
             </p>
         </example>
