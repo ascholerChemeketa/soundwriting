@@ -100,6 +100,7 @@ function schema-validate {
         -e ': error: element "i" not allowed anywhere;'\
         -e ': error: element "un" not allowed anywhere;'\
         -e ': error: element "highlight" not allowed anywhere;'\
+        -e ': error: found attribute "link", but no attributes allowed here'\
         -e ': error: attribute "indent" not allowed here;'\
     > ${SCRATCH}/errors.txt
     echo
