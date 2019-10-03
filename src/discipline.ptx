@@ -32,7 +32,7 @@
         <paragraphs>
             <title>Conventions and Tips</title>
             <p><q><em>It’s not about political correctness or censorship. It’s care. Historically situated care. It’s not that you didn’t use the politically correct thing, it’s that you didn’t use the contextually careful thing, the ethically careful thing. The only way to write ethically is to practice.</em></q></p>
-            <ul>
+            <p><ul>
                 <li><p>Language is important. Be very specific about the language you use throughout your writing; here are a couple of specific guidelines:
                     <ul>
                         <li><p>Capitalize <q>African American Studies,</q> and it's singular not plural.</p></li>
@@ -43,7 +43,7 @@
                 <li><p>Define your terms! You can't assume that everybody knows what you mean. Also sometimes there are many words for the same definition. You need to explain that when you say <q>Black,</q> you mean this vs. when you say <q>African American</q> you mean that.</p></li>
                 <li><p>Don't rely on jargon! Your writing should be a way you can express what you're learning in class to the public. Jargon can get in the way.</p></li>
                 <li><p>Come to class and do the reading so that you're prepared to write respectfully.</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs>
             <title>Additional Resources</title>
@@ -77,7 +77,7 @@
         </paragraphs>
         <paragraphs xml:id="writing-art-tips">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li>
                     <p>Be selective. When you are writing a visual analysis, keep in mind that you will not be able to describe every detail of the work, so you will need to select the most dominant features that convey the meaning of the work. In organizing a visual analysis, always provide a brief description of the work as a whole before examining specific details of it more fully.</p>
                 </li>
@@ -87,7 +87,7 @@
                 <li>
                     <p>Use Chicago Style to format your <xref ref="citations" text="title">references</xref> in Art History papers.</p>
                 </li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-art-additional-resources">
             <title>Additional Resources</title>
@@ -123,10 +123,10 @@
         </paragraphs>
         <paragraphs xml:id="writing-biology-conventions">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>Don't write your paper in the order it's presented to you in the template. It's easier to reverse<ndash/>engineer your paper by starting with figures, tables, and the methods and results sections, and then working your way through the discussion, finishing with your title and introduction. This approach will allow you to focus the information that you include in your introduction so that it is relevant to the rest of the experiment rather than wasting time writing about things that aren't relevant.</p></li>
                 <li><p>Rely on the formatting given to you by your professors. Specifically ask your professor about whether they prefer active or passive voice<mdash/>this issue is still up for debate in science writing, and different professors (and different branches of the field) have different policies.</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-biology-additional-resources">
             <title>Additional Resources</title>
@@ -161,11 +161,11 @@
         </paragraphs>
          <paragraphs xml:id="writing-business-tips">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>Proofread your paper for spelling and grammar. While grammar may seem less important to some writers, imagine that you are a business executive sending an email to your staff. If the email you send has spelling errors in the first sentence you could lose credibility and professionalism in the eyes of your readers.</p></li>
                 <li><p>You can use subheadings to organize your papers. While subheadings are discouraged in some disciplines, feel free to use them for business papers to add extra clarity and formality.</p></li>
                 <li><p>Don't use clichés, contractions, or passive clauses. And while personal pronouns are okay, don't start a sentence with <q>I think.</q> While these rules may seem overly fastidious, it's important to follow them so that your writing is both professional and reflective of your own distinctive voice. Using clichés is counterproductive to both of these values because they aren't your own words and they are not particularly professional. Further, starting a sentence with <q>I think</q> can sound demure rather than convincing. And finally, using passive clauses rather than active ones can sometimes emphasize the responsibility or actions of the subject of a sentence. Write actively to ensure that your prose is fluid and compelling.</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-business-additional-resources">
             <title>Additional Resources</title>
@@ -200,7 +200,7 @@
         </paragraphs>
          <paragraphs xml:id="writing-chemistry-tips">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>Don't write from beginning to end. Many students think they should write a report in the order that it appears, but this is often an inefficient way to write a research paper<mdash/>the abstract comes immediately after the title, but it should normally be written last, because it is easier to summarize the research after you've written the entire report and have thus refined your understanding of the research. Although there is no one<ndash/>size<ndash/>fits<ndash/>all approach, here is an order that is usually effective: Organize your thoughts and your data, write the Experimental Section, prepare the important illustrations (<ie/>, Tables, Figures, and Schemes), write the Results section (using the illustrations as a guide), draft an outline of the Discussion section, write the Introduction, complete the Discussion Section, write the Conclusions, add References, write the Title and Abstract.</p></li>
                 <li><p>Start early and get help if needed. Usually professors won't have time to go over your whole draft, so make sure you go into office hours or send an email with a few specific questions for them to answer.</p></li>
                 <li><p>Know your audience. You are writing for other chemists with a similar level of knowledge to your own but who are not familiar with the exact experiments you performed. You don't have to go into gory detail about procedures that any chemist should know<mdash/>it is even OK to use a little jargon if it is part of the chemist's lexicon. For example, <q>the reaction was heated at reflux for 2 hours</q> is perfectly clear to any chemist who has taken organic chemistry.</p></li>
@@ -212,7 +212,7 @@
                 <li><p>Always put a zero in front of a decimal value, otherwise a decimal can be mistaken for a period.</p></li>
                 <li><p>Use the correct <xref ref="citations" text="title">citation</xref> style.</p></li>
                 <li><p>Write in pen in your lab notebook. You'll find out why, if you spill something!</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-chemistry-additional-resources">
             <title>Additional Resources</title>
@@ -250,7 +250,7 @@
         </paragraphs>
          <paragraphs xml:id="writing-english-tips">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>When you get an essay back, carefully consider the comments your professor has made. Professors put a lot of time and thought into writing them. These comments are a great way not only to improve your writing but also serve as the beginning of a conversation you can have with your professor during office hours.</p></li>
                 <li><p>Although English writing has a reputation for being florid and ornate, as in every other discipline, good writing is clear writing. Don't use as many adverbs as possible or sacrifice clarity and coherence for an elevated register.</p></li>
                 <li><p>Make sure you're telling your reader exactly what you want them to think. Don't make your reader intuit your argument.</p></li>
@@ -260,7 +260,7 @@
                 <li><p>You can use the first person, but use it carefully. Use <em>I</em> when you need to acknowledge that your view diverges from others' views or when you need to be clear about some aspect of your methods which you personally did (<em>One</em> did not review a year's worth of newspapers; <em>I</em> did).</p></li>
                 <li><p>Don't hide behind an <em>I</em> to say that it's just little old me who thinks something, but that it's probably not right; however, some hedging is good! You don't have to <q>prove</q> something beyond a shadow of a doubt; you can be circumspect and use words like <q>suggests</q> or <q>indicates</q> to acknowledge where the evidence isn't strong enough to make a bolder claim.</p></li>
                 <li><p>Introduce the authors of your secondary sources in text. This helps establish context and shows that you are entering into a conversation with other scholars.</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-english-additional-resources">
             <title>Additional Resources</title>
@@ -296,7 +296,7 @@
         </paragraphs>
         <paragraphs xml:id="writing-history-tips">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>It is fundamental to historical writing that you put your sources in context. Without this contextualization, your analysis may be anachronistic.</p></li>
                 <li><p>Secondary sources aren't proof. Don't use theories as facts, instead use them to frame your argument rather than <q>prove</q> it.</p></li>
                 <li><p>Because you want to appeal to non expert readers, avoid jargon. If you absolutely need technical terminology, then be sure to define your terms.</p></li>
@@ -305,7 +305,7 @@
                 <li><p>When writing historically, chronological order should be your default way to organize, however, don't be limited by chronology if your paper would be clearer organized another way (<eg/>, thematically, by historical figures or groups).</p></li>
                 <li><p>Write in the past tense!</p></li>
                 <li><p><xref ref="citations" text="title">Citations</xref> are important. Use the Chicago style in general.</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-history-additional-resources">
             <title>Additional Resources</title>
@@ -342,12 +342,12 @@
         </paragraphs>
         <paragraphs xml:id="writing-music-hist-tips">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>Describing music involves using a series of agreed<ndash/>upon metaphors (e.g. a wet sound v. a dry sound). While such terminology can be daunting, it can be very helpful when writing about sound.</p></li>
                 <li><p>With the above tip in mind, there is sometimes a misconception that when you are writing about music it has to be really jargon<ndash/>laden and technical. If you are uncomfortable with writing about music, it is always better to say what you have to say clearly rather than throwing words out like a cloud of squid ink.</p></li>
                 <li><p>Because music takes place in time, there is a tendency to work your way through a piece that you are writing about from beginning to end. Part of mastery is not being stuck doing this kind of <q>inchworm</q> writing. If you notice yourself using <q>and then</q> a lot, think about whether you could organize your thoughts in a more persuasive way.</p></li>
                 <li><p>Make sure to refer specifically to the measure in a score or the timing in a recording when describing a musical piece.</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-music-hist-additional-resources">
             <title>Additional Resources</title>
@@ -385,10 +385,10 @@
         </paragraphs>
         <paragraphs xml:id="writing-psychology-tips">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>Psychology writing operates on the sometimes subtle differentiation between broad generalizations and possible explanations. For this reason, writing in psychology relies on the <q>tentative tone.</q> Don't say <q>love is dangerous,</q> instead say <q>love can be dangerous</q> and add supporting evidence, allowing room for other conclusions.</p></li>
                 <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. <xref ref="citations" text="title">Cite</xref> them, but don't introduce them formally.</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-psychology-additional-resources">
             <title>Additional Resources</title>
@@ -423,7 +423,7 @@
         </paragraphs>
         <paragraphs xml:id="par-ipe-writing-conventions">
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li>
                     <p>Use the Chicago citation style unless otherwise directed by your professor. If in doubt, ask what they prefer.</p>
                 </li>
@@ -451,7 +451,7 @@
                 <li>
                     <p><init>IPE</init> papers can be very long, and the secret to not getting paralyzed by their length is to break your work into chunks. Start early and set small deadlines for yourself. You should not write these papers in one sitting; rather, your professors expect you to build your paper and argument over time.</p>
                 </li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs xml:id="par-ipe-writing-resources">
             <title>Additional Resources</title>
@@ -477,12 +477,12 @@
                 </paragraphs>
                 <paragraphs>
                     <title>Conventions and Tips</title>
-                    <ul>
+                    <p><ul>
                         <li><p>Exact formatting, down to use of punctuation and white space, is critical in formal commenting and coding because a computer needs to be able to generate a documentation website from what you write.<em> Read and use style guides to make sure your comments are properly formatted!</em></p></li>
                         <li><p>The number of informal comments you should have throughout your code varies with the complexity of the code you are annotating and the language you are writing in. When writing in Java, a higher-level (more human-readable) language, you can expect to comment on average every 4<ndash/>5 lines. However, when writing assembly code, which is much lower-level (and consequently difficult to read), it is standard to comment every line of code.</p></li>
                         <li><p>Many <init>CS</init> classes involve pair or group programming. When working with others, be sure to set yourself up to share the work equally. Choose a workspace where everyone is involved and pass the computer back and forth between logical units. Be self aware about the amount and ways you contribute, and give your partner space to contribute. Be open-minded and curious about what your partner has to add to the project.</p></li>
                         <li><p>Write your comments as you write your code, even if you need to go back and alter them later, rather than hurriedly adding them right before turning in your assignment. As you write longer and more complicated code and work as part of a team of programmers, it will be increasingly difficult to remember what your idea was when writing old code, and your colleagues will need to stay updated on your code as you write it because their code may depend on your implementation.</p></li>
-                    </ul>
+                    </ul></p>
                 </paragraphs>
                 <note>
                     <title>Coding and academic honesty</title>
@@ -512,7 +512,7 @@
                             </paragraphs>
                             <paragraphs>
                                 <title>Conventions and Tips</title>
-                                <ul>
+                                <p><ul>
                                     <li><p>The IEEE standard is sometimes used for citations, but standards vary among professors and professional journals. </p></li>
                                     <li><p>Professional papers in Computer Science are usually written in the document markup language <latex/>. This makes formatting easier, especially when working with equations. The accompanying citation tool, BIBTeX, can reformat your citations to fit whatever standard is required. Plus, it looks super professional! To write in LaTex, you can download a program like TexShop or TexMaker, or you can use <url href="https://www.overleaf.com/">Overleaf</url>, a free, online <LaTex/> editor.</p></li>
                                     <li><p>Well-designed figures are an invaluable tool for communicating complex ideas clearly.</p></li>
@@ -528,7 +528,7 @@
                                             <li>Conclusion and future work</li>
                                         </ul>
                                     </p></li>
-                                </ul>
+                                </ul></p>
                             </paragraphs>
                             <paragraphs>
                                 <title>Additional Resources</title>
@@ -567,7 +567,7 @@
         </paragraphs>
         <paragraphs>
             <title>Conventions and Tips</title>
-            <ul>
+            <p><ul>
                 <li><p>A proof is a piece of writing in paragraph form. This means that even when mathematical equations are used, they go within complete sentences with proper punctuation.</p></li>
                 <li><p>When possible, don’t start sentences with numbers or symbols.</p></li>
                 <li><p>Proofs are written in the present tense using the first person plural (<q>we</q>). Write as though you are walking through the logical steps with the reader.</p></li>
@@ -579,7 +579,7 @@
                 <li><p>When writing about equations or formulas, remember that they exist and are not evolving or springing into being. Refer to them as factual entities that simply <em>are</em>. </p></li>
                 <li><p>Writing in mathematics classes is generally done individually, while professionals may work solo, in pairs or small groups, and infrequently in large groups </p></li>
                 <li><p>Many students find starting proofs challenging but, as with any piece of writing, it’s important to just start and not worry too much about being right immediately. Try strategies recommended by your professors, like starting with definitions of important terms or working backwards. </p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
         <paragraphs>
             <title>Additional Resources</title>

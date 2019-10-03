@@ -1392,7 +1392,7 @@
             </note>
             <example xml:id="example-mechanics-lab-reports">
                 <title>Passive Voice for Lab Reports</title>
-                    <dl>
+                    <p><dl>
                         <li>
                             <title>Active</title>
                             <p><q>We summarized the melting and boiling points of the four compounds in Figure 1.</q></p>
@@ -1401,8 +1401,6 @@
                             <title>Passive</title>
                             <p><q>The melting and boiling points of the four compounds are summarized in Figure 1.</q></p>
                         </li>
-                    </dl>
-                    <dl>
                         <li>
                             <title>Active</title>
                             <p><q>We rinsed the solid with ethanol (10.0 mL, 1M) and dried it with vacuum filtration.</q></p>
@@ -1411,7 +1409,7 @@
                             <title>Passive</title>
                             <p><q>The solid was rinsed with ethanol (10.0 mL, 1M) and dried with vacuum filtration.</q></p>
                         </li>
-                    </dl>
+                    </dl></p>
                 <p>Note that constructions like <q>were rinsed</q> and <q>are summarized</q> are very useful in this kind of writing. Also, the verb often appears towards the end of the sentence, after the object it is acting upon. Following these patterns can help you get comfortable with passive voice. Reading scientific literature and becoming familiar with the tone is also a great way to improve your scientific writing. </p>
             </example>
         </subsection>

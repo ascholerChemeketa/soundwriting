@@ -190,14 +190,14 @@
             <title> Your Professor's Perspective</title>
             <p>Finally, think about where your professor is coming from and what they might need to think about as they are considering whether they are willing to write you a letter and what they can say about you based on their personal interactions with you:</p>
 
-            <ul>
+            <p><ul>
                 <li><p>Do I know my student well enough to write about them in detail? What can I say with honesty and integrity about this student?</p></li>
                 <li><p>What qualities did I see my student exhibit? Was I impressed with these qualities?</p></li>
                 <li><p>What do I know about the program that my student is applying for, and what qualities are the evaluators looking for in an applicant?</p></li>
                 <li><p>What does my student want the application evaluators to know about them?</p></li>
                 <li><p>Who will read my letter?</p></li>
                 <li><p>How am I going to keep track of all of the letters that I agreed to write for various students?</p></li>
-            </ul>
+            </ul></p>
         </paragraphs>
 
         <p>Professors often write letters of recommendation to their peers and colleagues at other institutions. Their reputations are at stake when they recommend their students for other opportunities, so they take the integrity of the process seriously. This perspective should not make you panic, but it should encourage you to put yourself in your professor’s shoes and think about the things they have to consider when writing a letter of recommendation.</p>
@@ -288,7 +288,7 @@
             </sidebyside>
             <paragraphs xml:id="productive-procrastination">
                 <title>Productive Procrastination Practices</title>
-                    <ul>
+                    <p><ul>
                         <li><p>Work on <xref ref="citations"/></p></li>
                         <li><p>Take the <init>CWLT</init>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
                         <li><p>Type up your notes/evidence</p></li>
@@ -302,7 +302,7 @@
                         <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
                         <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>
                         <li><p>Make a writing appointment at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url>!</p></li>
-                    </ul>
+                    </ul></p>
             </paragraphs>
     </subsection>
     <subsection xml:id="time-management-procrast-vs-selfcare">
