@@ -244,48 +244,42 @@
                     <p>
                         It's important to begin your introduction with a nice, firm handshake with the audience, which often comes in the form of establishing common ground. Your common ground should do two things: 1) introduce your topic, and 2) establish yourself as an authority on the topic at hand. Common ground is usually established in the form of a factual, uncontroversial statement that is likely familiar to your audience and which may comfortably orient them to your topic. It may also introduce the works, authors, and sources you will be using by drawing an observational similarity between them. When establishing common ground, steer clear of these <xref ref="list-process-openings-to-avoid"/> and opt for something like these <xref ref="list-process-effective-openings"/> instead. You can also read more about <xref ref="example-process-revising-opening"/>.
                     </p>
-                    <p>
-                        <example>
-                            <title>Establishing Common Ground</title>
-                            <p>
-                                 <ul>
-                                    <li><p><q>Many people believe this [common ground].</q></p></li>
-                                    <li><p><q>Both this source and this source examine this critical issue or use this popular trope [common ground].</q></p></li>
-                                </ul>
-                            </p>
-                        </example>
-                    </p>
+                    <example>
+                        <title>Establishing Common Ground</title>
+                        <p>
+                             <ul>
+                                <li><p><q>Many people believe this [common ground].</q></p></li>
+                                <li><p><q>Both this source and this source examine this critical issue or use this popular trope [common ground].</q></p></li>
+                            </ul>
+                        </p>
+                    </example>
                 </paragraphs>
                 <paragraphs xml:id="par-intros-posing-problem">
                     <title>Statement of the Problem</title>
                     <p>
                         Once you have established common ground, you are now free to interrupt or destabilize this common ground with your main question or problem. This question or problem should arise from a common trend or pattern you uncover within the research; perhaps something you observe in the research does not adhere to common thought, has not been framed in a certain way, or has not been studied at all. Therefore, the question or problem you pose should occur within the context of a broader scholarly conversation. You can pose your problem by drawing a distinction between the audience's expectation and reality, pointing to startling similarities or differences between your sources, or complicating the common ground statement with a more nuanced or holistic perspective of the issue. To highlight this problem, you can use words and phrases like <q>however,</q> <q>although,</q> <q>while,</q> or <q>in actuality.</q>
                     </p>
-                    <p>
-                        <example>
-                            <title>Posing the Problem</title>
-                            <p>
-                                <ul>
-                                    <li><p><q>Many people believe this [common ground], however they may not have thought of it like this [problem].</q></p></li>
-                                    <li><p><q>While both of these sources examine this [common ground], one actually does this while the other does not [problem].</q></p></li>
-                                </ul>
-                            </p>
-                        </example>
-                    </p>
+                    <example>
+                        <title>Posing the Problem</title>
+                        <p>
+                            <ul>
+                                <li><p><q>Many people believe this [common ground], however they may not have thought of it like this [problem].</q></p></li>
+                                <li><p><q>While both of these sources examine this [common ground], one actually does this while the other does not [problem].</q></p></li>
+                            </ul>
+                        </p>
+                    </example>
                     <p>
                         Stating the problem should do two things: 1) acknowledge the reader's incomplete knowledge of the topic, and 2) illuminate to the audience that there is a tangible consequence to their ignorance. By associating a consequence with the stated problem, you will encourage the reader to keep reading your paper in an attempt to rectify their ignorance and avoid any consequent costs. Another way to articulate consequence is to pose to the audience the potential benefits to be gained by resolving the problem and improving their understanding of the topic.
                     </p>
-                    <p>
-                        <example>
-                            <title>Establishing Consequence</title>
-                            <p>
-                                <ul>
-                                    <li><p><q>Recently, however, studies have begun to show this new thing [incomplete knowledge]. Without furthering our understanding of this thing, we may fail to perceive its true implications [consequence/cost].</q></p></li>
-                                    <li><p><q>Many of these sources examine this issue in the same way [incomplete knowledge]. However, if we look at it in this new way, we may be able to achieve a deeper, more nuanced perspective on the issue [consequence/benefit].</q></p></li>
-                                </ul>
-                            </p>
-                        </example>
-                    </p>
+                    <example>
+                        <title>Establishing Consequence</title>
+                        <p>
+                            <ul>
+                                <li><p><q>Recently, however, studies have begun to show this new thing [incomplete knowledge]. Without furthering our understanding of this thing, we may fail to perceive its true implications [consequence/cost].</q></p></li>
+                                <li><p><q>Many of these sources examine this issue in the same way [incomplete knowledge]. However, if we look at it in this new way, we may be able to achieve a deeper, more nuanced perspective on the issue [consequence/benefit].</q></p></li>
+                            </ul>
+                        </p>
+                    </example>
                 </paragraphs>
                 <paragraphs xml:id="par-intros-response-problem">
                     <title>Response to the Problem (Thesis)</title>

@@ -415,7 +415,7 @@
             <subsubsection xml:id="subordination-coordination">
                 <title>Subordination and Coordination</title>
                 <p>Because each <xref ref="definition-clause"/> in a <xref ref="definition-compound-sentence"/> is independent, neither one is obviously foregrounded in relation to the other (as in a <xref ref="definition-complex-sentence"/>). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the <xref ref="definition-conjunction-coordinating"/>), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
-                <p>As its name implies, a <xref ref="definition-dependent-clause"/> must always be subordinated to the <xref ref="definition-independent-clause"/>independent clause in a <xref ref="definition-complex-sentence"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
+                <p>As its name implies, a <xref ref="definition-dependent-clause"/> must always be subordinated to the <xref ref="definition-independent-clause"/> independent clause in a <xref ref="definition-complex-sentence"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
                 <note xml:id="note-mechanics-compound-sentences">
                     <!-- <title></title> -->
                     <p> A <xref ref="definition-compound-sentence"/> can easily be transformed into a <xref ref="definition-complex-sentence"/>. For instance, the example <q>I miss my high school friends, but I'm excited to make new friends.</q> could be reconstructed to read <q>Although I miss my high school friends, I'm excited to make new friends.</q> Consider what meaning you want to convey in your sentence and construct them accordingly.</p>
@@ -520,39 +520,36 @@
                     <p><q>I would like <un s="1">to</un> <em>clearly and concisely</em> <un s="1">write</un> sentences with infinitives.</q></p>
                 </blockquote>
                 <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
-                <p>
-                    <example>
-                        <title>Unclear Split Infinitive: Puget Sound Outdoors</title>
-                        <p>
-                            <dl>
-                                <li>
-                                    <title>Clear</title>
-                                    <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
-                                </li>
-                                <li>
-                                    <title>Confusing</title>
-                                    <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
-                                </li>
-                            </dl>
-                        </p>
-                    </example>
-
-                    <example>
-                        <title>Unclear Split Infinitive: LogJam</title>
-                        <p>
-                            <dl>
-                                <li>
-                                    <title>Clear</title>
-                                    <p><q>LogJam! is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
-                                </li>
-                                <li>
-                                    <title>Confusing</title>
-                                    <p><q>LogJam! is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
-                                </li>
-                            </dl>
-                        </p>
-                    </example>
-                </p>
+                <example>
+                    <title>Unclear Split Infinitive: Puget Sound Outdoors</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>Clear</title>
+                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example>
+                <example>
+                    <title>Unclear Split Infinitive: LogJam</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>Clear</title>
+                                <p><q>LogJam! is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>LogJam! is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example>
             </subsubsection>
         </subsection>
     </section>
@@ -1142,7 +1139,7 @@
                 <title>Verbosity</title>
                 <p>When you have what you believe to be a brilliant idea and a strong argument, it is sometimes tempting to try to sound impressive by using a lot of words. More is better, right? Not necessarily! If more words and specialized vocabulary will make your meaning more clear to a specific audience, then it's worth it to use longer, more complex wording. But if complicated language makes the sentence (and your point) more confusing, it's better to state your ideas simply.</p>
                 <p>Here are some long<ndash/>winded ways to say relatively simple things:</p>
-                <sbsgroup margins="10%" widths="40% 40%">
+                <sbsgroup margins="7.5%" widths="40% 40%">
                     <sidebyside>
                         <p><em>What you (an intellectual) said</em></p>
                         <p><em>What you meant</em></p>
@@ -1279,7 +1276,7 @@
                     </li>
                     <li>
                         <title>important or significant</title>
-                            <p>rather than using these words, clarify <em>why</em>something is important by picking a verb or adjective that is more specific: <q>This passage is significant <ellipsis/></q> could become <q>The tone of this passage demonstrates <ellipsis/></q></p>
+                            <p>rather than using these words, clarify <em>why</em> something is important by picking a verb or adjective that is more specific: <q>This passage is significant <ellipsis/></q> could become <q>The tone of this passage demonstrates <ellipsis/></q></p>
                     </li>
                     <li>
                         <title>a lot</title>

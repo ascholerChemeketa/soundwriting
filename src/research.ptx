@@ -139,29 +139,27 @@
             </ol>
         </list>
         <assemblage>
-            <p>
-                <list xml:id="FeedbackSources">
-                    <title>Sources of Feedback</title>
-                    <dl>
-                        <li>
-                            <title>Peers</title>
-                            <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
-                        </li>
-                        <li>
-                            <title>Writing Advisors</title>
-                            <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
-                        </li>
-                        <li>
-                            <title>Librarians</title>
-                            <p>will help you explore potential resources for tackling your research question and also will give you honest advice about the feasibility of your focus and project.</p>
-                        </li>
-                        <li>
-                            <title>Professors</title>
-                            <p>are subject experts and are excellent resources for helping you identify where your question fits in the ongoing scholarly conversation.</p>
-                        </li>
-                    </dl>
-                </list>
-            </p>
+            <list xml:id="FeedbackSources">
+                <title>Sources of Feedback</title>
+                <dl>
+                    <li>
+                        <title>Peers</title>
+                        <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
+                    </li>
+                    <li>
+                        <title>Writing Advisors</title>
+                        <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
+                    </li>
+                    <li>
+                        <title>Librarians</title>
+                        <p>will help you explore potential resources for tackling your research question and also will give you honest advice about the feasibility of your focus and project.</p>
+                    </li>
+                    <li>
+                        <title>Professors</title>
+                        <p>are subject experts and are excellent resources for helping you identify where your question fits in the ongoing scholarly conversation.</p>
+                    </li>
+                </dl>
+            </list>
         </assemblage>
     </section>
     <section xml:id="research-tips-tricks">
