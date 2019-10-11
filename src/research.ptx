@@ -6,9 +6,9 @@
         <p>The word <q>research</q> can seem daunting, but doing independent research can be some of the most exciting work you'll do in college.</p>
         <p><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins Library</url> provides access to rich collections, engaging learning environments, innovative instruction, and high<ndash/>quality service in support of the university's mission of teaching, learning, civic engagement, and diversity. We encourage you to familiarize yourself early on with the scope of materials and the types of services available to you in an academic library, as they may differ markedly from those available in most school and public libraries. Collins Library works in close partnership with the faculty and other campus departments to support your development as a scholar.</p>
         <p>Knowing that Collins Library is there to help you is the first step, but you'll also need to get going on your own. Here are some guidelines that will help you not only do research successfully but enjoy doing it.</p>
-        <assemblage>
+        <insight>
             <p>The first thing to know is that Collins Memorial Library is a university library and is probably a bit different than other libraries you've encountered in the past. This is because it's designed for people like yourself who are doing research, more than for people who are looking for a book to read or a movie to watch at home (though Collins Library has those things, too!).</p>
-        </assemblage>
+        </insight>
 
         <list xml:id="list-research-strategies-undertaking">
             <title>Strategies for Undertaking Research:</title>
@@ -101,18 +101,16 @@
     <section xml:id="define-and-refine-research-question">
         <title>Research Questions</title>
         <p>Once you've identified and explored your research topic, you'll need to work on refining your research question. A strong research question will allow you to delve into a genuine problem or question to which an answer is not obvious. In other words, you want a question that is debatable and arguable. In creating your own argument to answer the research question, you will use evidence from your research to acknowledge and refute any counter-evidence that you encounter.</p>
-        <assemblage>
+        <list>
             <title>Characteristics of Strong Research Questions</title>
-            <p>
-                <ul>
-                    <li><p>typically ask <q>why?</q> or <q>how?</q> questions</p></li>
-                    <li><p>have a clear focus</p></li>
-                    <li><p>are feasible to answer with the resources and time available to you</p></li>
-                    <li><p>are calibrated in scope to the required length of the writing assignment</p></li>
-                    <li><p>are of interest or significance to others</p></li>
-                </ul>
-            </p>
-        </assemblage>
+            <ul>
+                <li><p>typically ask <q>why?</q> or <q>how?</q> questions</p></li>
+                <li><p>have a clear focus</p></li>
+                <li><p>are feasible to answer with the resources and time available to you</p></li>
+                <li><p>are calibrated in scope to the required length of the writing assignment</p></li>
+                <li><p>are of interest or significance to others</p></li>
+            </ul>
+        </list>
         <list>
             <title>Strategies for Finding a Research Question</title>
             <ol>
@@ -138,29 +136,27 @@
                 </li>
             </ol>
         </list>
-        <assemblage>
-            <list xml:id="FeedbackSources">
-                <title>Sources of Feedback</title>
-                <dl>
-                    <li>
-                        <title>Peers</title>
-                        <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
-                    </li>
-                    <li>
-                        <title>Writing Advisors</title>
-                        <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
-                    </li>
-                    <li>
-                        <title>Librarians</title>
-                        <p>will help you explore potential resources for tackling your research question and also will give you honest advice about the feasibility of your focus and project.</p>
-                    </li>
-                    <li>
-                        <title>Professors</title>
-                        <p>are subject experts and are excellent resources for helping you identify where your question fits in the ongoing scholarly conversation.</p>
-                    </li>
-                </dl>
-            </list>
-        </assemblage>
+        <list xml:id="FeedbackSources">
+            <title>Sources of Feedback</title>
+            <dl>
+                <li>
+                    <title>Peers</title>
+                    <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
+                </li>
+                <li>
+                    <title>Writing Advisors</title>
+                    <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
+                </li>
+                <li>
+                    <title>Librarians</title>
+                    <p>will help you explore potential resources for tackling your research question and also will give you honest advice about the feasibility of your focus and project.</p>
+                </li>
+                <li>
+                    <title>Professors</title>
+                    <p>are subject experts and are excellent resources for helping you identify where your question fits in the ongoing scholarly conversation.</p>
+                </li>
+            </dl>
+        </list>
     </section>
     <section xml:id="research-tips-tricks">
         <title>Research Tips and Strategies</title>

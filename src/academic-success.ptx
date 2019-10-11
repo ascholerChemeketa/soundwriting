@@ -588,7 +588,7 @@
                 </li>
             </ol>
         </list>
-        <assemblage>
+        <insight>
             <title>On<ndash/>Campus Places to Study</title>
             <p>
                 <ul>
@@ -612,8 +612,8 @@
                     <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
                 </ul>
             </p>
-        </assemblage>
-        <assemblage>
+        </insight>
+        <insight>
             <title>Off<ndash/>Campus Places to Study</title>
             <p>
                 <ul>
@@ -624,7 +624,7 @@
                     <li><p>Blackbear</p></li>
                 </ul>
             </p>
-        </assemblage>
+        </insight>
     </subsection>
     <subsection xml:id="getting-organized-staying-organized">
         <title>Keeping your School Life Organized</title>

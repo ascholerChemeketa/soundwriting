@@ -182,19 +182,17 @@
             <introduction>
                 <p>
                     While outlining might take up precious writing time in your schedule, the payoff is worth it! By clearly organizing your ideas in a way that makes sense to you, you give yourself a guide to follow while you're writing. The act of making an outline also requires you to write down all of your brilliant ideas so that, by the time you start writing, you don't forget what you've come up with. Use what you've developed during your brainstorming and planning sessions to create a more cohesive, organized, and complete outline that contains the major parts of your argument: your introduction, thesis, supporting claims, evidence, and conclusion. Remember that while ordering your claims you should try to think of your essay as a progression rather than a series of points; each claim should both respond to and build off of the previous one. Just as with brainstorming, your outline can be in any form that works best with the structure of the assignment and the way you want to think about your paper. While you're creating your outline, ask yourself these types of questions:</p>
-                    <assemblage>
+                    <list>
                         <title>Helpful Questions for Outlining</title>
-                            <p>
-                                <ul>
-                                    <li><p>Do each of my claims follow a purposeful pattern or sequence?</p></li>
-                                    <li><p>Is this pattern chronological? Logic<ndash/>based? In order of importance? Compare<ndash/>contrast?</p></li>
-                                    <li><p>Am I giving my audience everything they need to fully understand my argument?</p></li>
-                                    <li><p>Does the order of my claims merely list points or does it culminate toward a larger argument?</p></li>
-                                    <li><p>Does my argument naturally follow from the claims I presented, in the order I presented them?</p></li>
-                                    <li><p>Does the order of my claims roughly follow the arrangement of my thesis?</p></li>
-                                </ul>
-                            </p>
-                    </assemblage>
+                        <ul>
+                            <li><p>Do each of my claims follow a purposeful pattern or sequence?</p></li>
+                            <li><p>Is this pattern chronological? Logic<ndash/>based? In order of importance? Compare<ndash/>contrast?</p></li>
+                            <li><p>Am I giving my audience everything they need to fully understand my argument?</p></li>
+                            <li><p>Does the order of my claims merely list points or does it culminate toward a larger argument?</p></li>
+                            <li><p>Does my argument naturally follow from the claims I presented, in the order I presented them?</p></li>
+                            <li><p>Does the order of my claims roughly follow the arrangement of my thesis?</p></li>
+                        </ul>
+                </list>
                 <p>Read on to learn about a few (but not all!) outline formats you can try.</p>
             </introduction>
             <subsubsection xml:id="outlining-classic">
@@ -581,20 +579,26 @@
                 <!-- <title>First, after you do your initial research, WRITE!</title> -->
                 <p>Don't let the guise of <q>needing to do more research</q> let you procrastinate on writing for too long. Because time, accessibility, and resources limit the type and amount of research you can do, you will never have enough research (but that's okay!). You should start writing when you feel like you have a solid understanding of necessary background information and a good outline of your argument. (Of course, you can always write before this point in the process, too.) Even if what you're writing is incoherent and doesn't end up in the final draft, the process of getting your thoughts onto paper will help you sort out your ideas.</p>
             </paragraphs>
-            <assemblage>
+            <list>
                 <title>Hitting the Books Again</title>
+                <introduction>
                     <p>
                         You need to do more research when you<ellipsis/>
-                        <ul>
-                            <li><p>want to say something but don't have the evidence to back it up.</p></li>
-                            <li><p>look through your evidence and realize that some (or all) of the sources no longer pertain to your topic or argument.</p></li>
-                            <li><p>have an <q>ah<ndash/>ha!</q> moment that leads you to change direction such that your sources are no longer relevant.</p></li>
-                            <li><p>have nothing else to say and realize that you need to expand your research question and argument.</p></li>
-                            <li><p>are repeatedly citing the same source (unless that source is what your paper is about!).</p></li>
-                        </ul>
+                    </p>
+                </introduction>
+                <ul>
+                    <li><p>want to say something but don't have the evidence to back it up.</p></li>
+                    <li><p>look through your evidence and realize that some (or all) of the sources no longer pertain to your topic or argument.</p></li>
+                    <li><p>have an <q>ah<ndash/>ha!</q> moment that leads you to change direction such that your sources are no longer relevant.</p></li>
+                    <li><p>have nothing else to say and realize that you need to expand your research question and argument.</p></li>
+                    <li><p>are repeatedly citing the same source (unless that source is what your paper is about!).</p></li>
+                </ul>
+                <conclusion>
+                    <p>
                         Don't make a claim without the evidence to back it up! If you're feeling stuck but don't think you need to do more research, check out <xref ref="what-to-do-when-you-get-stuck"/>.
                     </p>
-            </assemblage>
+                </conclusion>
+            </list>
             <!-- <paragraphs>
                 <title>Review</title>
                 <p><xref ref="what-to-do-when-you-get-stuck" text="title"/> If you're stuck and not sure whether or not it's because you need to do more research.</p>
