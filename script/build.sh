@@ -67,6 +67,17 @@ function setup_pdf {
     cd ${SCRATCH}/pdf # Change directory to pdf scratch directory
 }
 
+function setup_print {
+    echo
+    echo "BUILD: Building Print Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    install -d ${SCRATCH}/print # Create the print scratch directory
+    rm -rf ${SCRATCH}/print/*.aux ${SCRATCH}/print/*.log ${SCRATCH}/print/*.tex ${SCRATCH}/print/*.toc # Clear the print scratch directory
+    install -d ${SCRATCH}/print/images # Create print images directory
+    cp -a ${IMAGES}/* ${SCRATCH}/print/images # Fill print images directory
+    cd ${SCRATCH}/print # Change directory to print scratch directory
+}
+
 # Validation using RELAX-NG
 # Colors, 3 other elements, and one attribute,
 # are all non-standard extensions
@@ -153,7 +164,7 @@ function build_print {
 }
 
 function view_print {
-    ${PDFVIEWER} ${SCRATCH}/SoundWriting-print.pdf
+    ${PDFVIEWER} ${SCRATCH}/SoundWriting-print.pdf &
 }
 
 # Check to make sure we have a username
@@ -186,7 +197,7 @@ case "$1" in
     build_html
     setup_pdf
     build_pdf
-    setup_pdf
+    setup_print
     build_print
     ;;
     "youtube")
@@ -209,7 +220,7 @@ case "$1" in
     ;;
     "print")
     setup
-    setup_pdf
+    setup_print
     build_print
     ;;
     "viewprint")
