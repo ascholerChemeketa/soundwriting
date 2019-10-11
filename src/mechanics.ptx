@@ -48,23 +48,12 @@
                         </li>
                         <li xml:id="definition-conjunction">
                             <title>conjunction</title>
-                            <p>connects phrases and clauses
-                                <dl>
-                                    <li xml:id="definition-conjunction-coordinating">
-                                        <title>coordinating conjunction</title>
-                                        <p>coordinates two ideas that are emphasized equally in the sentence</p>
-                                        <p>Examples: <xref ref="definition-FANBOYS"/></p>
-                                    </li>
-                                    <li xml:id="definition-conjunction-subordinate">
-                                        <title>subordinating conjunction</title>
-                                        <p>subordinates one idea or clause to another idea or clause</p>
-                                        <p>Examples: after, although, because, since, than, whether, while</p>
-                                    </li>
-                                </dl>
-                                <insight>
-                                    <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
-                                </insight>
-                            </p>
+                            <p>connects phrases and clauses</p>
+                            <p>A <term>coordinating conjunction</term> coordinates two ideas that are emphasized equally in the sentence.</p>
+                            <p>Examples: <xref ref="definition-FANBOYS"/></p>
+                            <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
+                            <p>A <term>subordinating conjunction</term> subordinates one idea or clause to another idea or clause.</p>
+                            <p>Examples: after, although, because, since, than, whether, while</p>
                         </li>
                         <li xml:id="definition-interjection">
                             <title>interjection</title>
@@ -116,7 +105,7 @@
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-subordinate"> -->
                     <!-- <title>Subordinate/Dependent</title> -->
-                <p>The primary feature of a <term>dependent clause<idx>dependent clause</idx></term> is that it cannot stand alone because it does not form a complete thought. A <xref ref="definition-dependent-clause"/> (also called a <term>dependent clause<idx>dependent clause</idx></term>) is dependent on an <xref ref="definition-independent-clause"/> to make sense. Subordinate clauses begin with a <xref ref="definition-conjunction-subordinate"/>.</p>
+                <p>The primary feature of a <term>dependent clause<idx>dependent clause</idx></term> is that it cannot stand alone because it does not form a complete thought. A <xref ref="definition-dependent-clause"/> (also called a <term>dependent clause<idx>dependent clause</idx></term>) is dependent on an <xref ref="definition-independent-clause"/> to make sense. Subordinate clauses begin with a subordinating <xref ref="definition-conjunction"/>.</p>
                 <!-- </paragraphs> -->
                 <example>
                     <title>Subordinate/Dependent Clause: Raining Outside</title>
@@ -198,7 +187,7 @@
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-adverb"> -->
                     <!-- <title>Adverb Clauses</title> -->
-                    <p>An <term>adverb clause<idx>adverb clause</idx></term> acts as an <xref ref="definition-adverb"/> to modify the <xref ref="definition-verb"/> in a sentence. Adverb clauses begin with a <xref ref="definition-conjunction-subordinate"/> (although, because, after, until, <etc/>).</p>
+                    <p>An <term>adverb clause<idx>adverb clause</idx></term> acts as an <xref ref="definition-adverb"/> to modify the <xref ref="definition-verb"/> in a sentence. Adverb clauses begin with a subordinating <xref ref="definition-conjunction"/> (although, because, after, until, <etc/>).</p>
                 
                     <!-- <p>
                         <ul>
@@ -343,7 +332,7 @@
                         </li>
                         <li xml:id="definition-compound-sentence">
                             <title>compound sentence</title>
-                            <p>at least two <xref ref="definition-independent-clause">independent clauses</xref> connected via a <xref ref="definition-conjunction-coordinating"/></p>
+                            <p>at least two <xref ref="definition-independent-clause">independent clauses</xref> connected via a coordinating <xref ref="definition-conjunction"/></p>
                             <p><q>I miss my high school friends, but I'm excited to make new friends.</q></p>
                             <p><q>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</q></p>
                             <p><q>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</q></p>
@@ -414,7 +403,7 @@
             </subsubsection>
             <subsubsection xml:id="subordination-coordination">
                 <title>Subordination and Coordination</title>
-                <p>Because each <xref ref="definition-clause"/> in a <xref ref="definition-compound-sentence"/> is independent, neither one is obviously foregrounded in relation to the other (as in a <xref ref="definition-complex-sentence"/>). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the <xref ref="definition-conjunction-coordinating"/>), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
+                <p>Because each <xref ref="definition-clause"/> in a <xref ref="definition-compound-sentence"/> is independent, neither one is obviously foregrounded in relation to the other (as in a <xref ref="definition-complex-sentence"/>). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the coordinating <xref ref="definition-conjunction"/>), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
                 <p>As its name implies, a <xref ref="definition-dependent-clause"/> must always be subordinated to the <xref ref="definition-independent-clause"/> independent clause in a <xref ref="definition-complex-sentence"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
                 <note xml:id="note-mechanics-compound-sentences">
                     <!-- <title></title> -->
@@ -2790,7 +2779,7 @@
                             <p>articles (a, an, the)</p>
                         </li>
                         <li>
-                            <p><xref ref="definition-conjunction-coordinating">coordinating conjunctions</xref></p>
+                            <p>coordinating <xref ref="definition-conjunction">conjunctions</xref></p>
                         </li>
                     </ul>
                 </p>

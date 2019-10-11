@@ -275,7 +275,7 @@
             </li>
             <li xml:id="definition-FANBOYS">
                 <title><acro>FANBOYS</acro></title>
-                <p>an acronym that helps you remember the seven <xref ref="definition-conjunction-coordinating">coordinating conjunctions</xref>, <alert>F</alert>or, <alert>A</alert>nd, <alert>N</alert>or, <alert>B</alert>ut, <alert>O</alert>r, <alert>Y</alert>et, and <alert>S</alert>o</p>
+                <p>an acronym that helps you remember the seven coordinating <xref ref="definition-conjunction">conjunctions</xref>, <alert>F</alert>or, <alert>A</alert>nd, <alert>N</alert>or, <alert>B</alert>ut, <alert>O</alert>r, <alert>Y</alert>et, and <alert>S</alert>o</p>
             </li>
         </dl>
     </list>
