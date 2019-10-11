@@ -2,7 +2,8 @@
 
 <!-- For University of Puget Sound, Writer's Handbook      -->
 <!-- 2016/07/29  R. Beezer, rough underline styles         -->
-<!-- 2018/08/12  R. Beezer, removed ellipsis with spacing   -->
+<!-- 2018/08/12  R. Beezer, removed ellipsis with spacing  -->
+<!-- 2019/10/10  R. Beezer, ellipsis with spacing is back  -->
 
 <!DOCTYPE xsl:stylesheet [
     <!ENTITY % entities SYSTEM "../xsl/entities.ent">
@@ -50,6 +51,12 @@
     <xsl:text>\normalem&#xa;</xsl:text>
     <xsl:text>\raggedbottom&#xa;</xsl:text>
 </xsl:param>
+
+<!-- Ellipsis -->
+<!-- Julie C likes periods with spaces -->
+<xsl:template name="ellipsis-character">
+    <xsl:text>.~.~.</xsl:text>
+</xsl:template>
 
 <!-- General commands from the "ulem" package -->
 <!-- Make semantic versions if made official  -->

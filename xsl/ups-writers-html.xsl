@@ -3,6 +3,7 @@
 <!-- For University of Puget Sound, Writer's Handbook      -->
 <!-- 2016/07/29  R. Beezer, rough underline styles         -->
 <!-- 2018/08/12  R. Beezer, removed ellipsis with spacing  -->
+<!-- 2019/10/10  R. Beezer, ellipsis with spacing is back  -->
 
 <!-- Identify as a stylesheet -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
@@ -47,6 +48,12 @@
             <xsl:with-param name="b-original" select="$b-original" />
         </xsl:apply-templates>
     </xsl:element>
+</xsl:template>
+
+<!-- Ellipsis -->
+<!-- Julie C likes periods with spaces -->
+<xsl:template name="ellipsis-character">
+    <xsl:text>.&#xa0;.&#xa0;.</xsl:text>
 </xsl:template>
 
 <xsl:template match="un[@s='1']">
