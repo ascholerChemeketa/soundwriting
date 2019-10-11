@@ -2372,10 +2372,11 @@
                 </note>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-dash">
-                <title>Dash <dblbrackets><ndash/></dblbrackets> and <dblbrackets><mdash/></dblbrackets></title>
-                <p>Dashes<mdash/>and there are two types<mdash/>are used to hyphenate, to indicate ranges, or to set apart important or noteworthy things in a sentence.</p>
-                <p>The <em>en dash</em> (also known as a hyphen). This dash is the dash that appears when you hit the dash key once. You can use it to hyphenate words (like in<ndash/>depth) or to show a range (1894<ndash/>1904 or numbers 1<ndash/>5).</p>
-                <p>The <em>em dash</em> (also known as a dash). Make an em dash by hitting the dash key twice<mdash/>like this! These longer dashes are what you use to set things apart<mdash/>you can use them with fragments or complete sentences. Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.</p>
+                <title>Hyphens and Dashes <dblbrackets>-</dblbrackets>, <dblbrackets><ndash/></dblbrackets>, and <dblbrackets><mdash/></dblbrackets></title>
+                <p>A <term>hyphen<idx>hyphen</idx></term> is used within a word, such as <q>non-aligned</q>, or used when a word is split across two lines (<q>hyphenation</q>).  It is a key on your keyboard.  It is not a minus sign, but is frequently used as one.</p>
+                <p>An <term>en dash<idx>en dash</idx></term> is wider, traditionally the width of an uppercase <sq>N</sq> (thus the name).  It is used for ranges, such as <q>Sound Writing is copyright 2017<ndash/>2019.</q></p>
+                <p>An <term>em dash<idx>em dash</idx></term> is wider still, twice the width of an en dash, and traditionally the width of an uppercase <sq>M</sq> (thus the name).  These longer dashes are what you use to set things apart<mdash/>you can use them with fragments or complete sentences.  Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.  Many word-processors will create an em dash if you type two consecutive hyphens.</p>
+                <p>None of these punctuation marks have spaces before or after them.</p>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-parentheses">
                 <title>Parentheses <dblbrackets>(these)</dblbrackets></title>
