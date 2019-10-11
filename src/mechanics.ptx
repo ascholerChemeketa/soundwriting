@@ -343,11 +343,7 @@
                             <p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p>
                             <p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p>
                             <p><q>I need to drink coffee when I'm tired.</q></p>
-                            <p>
-                                <note>
-                                    <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
-                                </note>
-                            </p>
+                            <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
                         </li>
                         <li xml:id="definition-compound-complex-sentence">
                             <title>compound<ndash/>complex sentence</title>
@@ -2848,11 +2844,7 @@
                             <li><p>Lay → laying = <q>You have been laying things all over the house!</q></p></li>
                         </ul>
                     </p>
-                    <p>
-                        <insight>
-                            <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to.</p>
-                        </insight>
-                    </p>
+                    <p>If you don't want to memorize all of these differences, just bookmark this writing handbook and refer back to it whenever you need to.</p>
                 </li>
                 <li>
                     <p>Drink/drank/drunk<ul>
@@ -2864,62 +2856,38 @@
                 <li>
                     <p>Who vs. Whom</p>
                     <p>This distinction is rapidly falling out of use, but a tip about how to remember the different usages might come in handy.</p>
-                    <p>If you would say <q>him,</q> <q>her,</q> or <q>them,</q> then you should use whom. If you would say <q>he,</q> <q>she,</q> or <q>they,</q> then use who.</p>
-                    <p>
-                        <example>
-                            <title>Who vs. Whom</title>
-                            <p>
-                                <ul>
-                                    <li><p><q>I am speaking to her.</q> → <q>To whom am I speaking?</q></p></li>
-                                    <li><p><q>She called.</q> → <q>Who called?</q></p></li>
-                                    <li><p><q>I envy him.</q> → <q>He's the person whom I envy.</q></p></li>
-                                </ul>
-                            </p>
-                        </example>
+                    <p>If you would say <q>him,</q> <q>her,</q> or <q>them,</q> then you should use whom. If you would say <q>he,</q> <q>she,</q> or <q>they,</q> then use who.  For example,
+                    <ul>
+                        <li><p><q>I am speaking to her.</q> → <q>To whom am I speaking?</q></p></li>
+                        <li><p><q>She called.</q> → <q>Who called?</q></p></li>
+                        <li><p><q>I envy him.</q> → <q>He's the person whom I envy.</q></p></li>
+                    </ul>
                     </p>
                 </li>
                 <li>
                     <p>Fewer vs. Less</p>
-                    <p>This one is simple! If you can count it, use <q>fewer.</q> If you can't count it, use <q>less.</q></p>
-                    <p>
-                        <example>
-                            <title>Fewer vs. Less</title>
-                            <p>
-                                <ul>
-                                    <li><p><q>I want fewer homework assignments.</q></p></li>
-                                    <li><p><q>I want less homework.</q></p></li>
-                                    <li><p><q>I want fewer cartons of milk.</q></p></li>
-                                    <li><p><q>I want less milk.</q></p></li>
-                                </ul>
-                            </p>
-                        </example>
+                    <p>This one is simple! If you can count it, use <q>fewer.</q> If you can't count it, use <q>less.</q>  For example,
+                    <ul>
+                        <li><p><q>I want fewer homework assignments.</q></p></li>
+                        <li><p><q>I want less homework.</q></p></li>
+                        <li><p><q>I want fewer cartons of milk.</q></p></li>
+                        <li><p><q>I want less milk.</q></p></li>
+                    </ul>
                     </p>
                 </li>
                 <li>
                     <p>Who's vs. Whose</p>
-                    <p>Possessives in English are the worst! <q>Who's</q> seems like it would denote possession because it has an apostrophe, which is how we usually indicate that someone has something (with the exception of possessive pronouns like hers, his, theirs, and yours, of course<ellipsis/>). But, unfortunately, <q>who's</q> is a contraction of <q>who is</q> or <q>who has</q> and it has nothing to do with possession.</p>
-                    <p>
-                        <example>
-                            <title>Who's Who?</title>
-                            <p>
-                                <ul>
-                                    <li><p><q>Who's that over there?</q> → <q>Who is that over there?</q></p></li>
-                                    <li><p><q>She's the one who's been helping me.</q> → <q>She is the one who has been helping me.</q></p></li>
-                                </ul>
-                            </p>
-                        </example>
+                    <p>Possessives in English are the worst! <q>Who's</q> seems like it would denote possession because it has an apostrophe, which is how we usually indicate that someone has something (with the exception of possessive pronouns like hers, his, theirs, and yours, of course<ellipsis/>). But, unfortunately, <q>who's</q> is a contraction of <q>who is</q> or <q>who has</q> and it has nothing to do with possession.  For example,
+                    <ul>
+                        <li><p><q>Who's that over there?</q> → <q>Who is that over there?</q></p></li>
+                        <li><p><q>She's the one who's been helping me.</q> → <q>She is the one who has been helping me.</q></p></li>
+                    </ul>
                     </p>
-                    <p><q>Whose,</q> on the other hand, indicates that someone, <q>who,</q> possesses something. If you're a fan of early 2000s American comedy, you might use <em>Whose Line is it Anyway?</em> as a mnemonic device.</p>
-                    <p>
-                        <example>
-                            <title>Whose Mnemonic Device?</title>
-                            <p>
-                                <ul>
-                                    <li><p><q>Whose baby is that?</q> → <q>To whom does that baby belong?</q></p></li>
-                                    <li><p><q>My friend, whose bike was stolen, decided to buy a U<ndash/>lock.</q> → <q>My friend, who possessed a bike that was stolen, decided to buy a U<ndash/>lock.</q></p></li>
-                                </ul>
-                            </p>
-                        </example>
+                    <p><q>Whose,</q> on the other hand, indicates that someone, <q>who,</q> possesses something. If you're a fan of early 2000s American comedy, you might use <em>Whose Line is it Anyway?</em> as a mnemonic device.  For example,
+                    <ul>
+                        <li><p><q>Whose baby is that?</q> → <q>To whom does that baby belong?</q></p></li>
+                        <li><p><q>My friend, whose bike was stolen, decided to buy a U<ndash/>lock.</q> → <q>My friend, who possessed a bike that was stolen, decided to buy a U<ndash/>lock.</q></p></li>
+                    </ul>
                     </p>
                 </li>
                 <li>
