@@ -2499,42 +2499,36 @@
                     <ul>
                         <li>
                             <p><em>Quoted fragments should not be capitalized.</em></p>
-                            <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.</p>
-                            <p>
-                                <example>
-                                    <title>Not Capitalizing Sentence Fragments</title>
-                                    <p>Although Jordan knew the due date for the lab report was impending, they remarked that they felt a <q>sudden spasm of panic</q> when they realized the report was due tomorrow.</p>
-                                    <p>Anxious about their upcoming organic chemistry exam, the student noted that their appointment with the chemistry subject tutor made them feel <q>calm and collected.</q></p>
-                                </example>
-                            </p>
+                            <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.  See <xref ref="example-mechanics-uncapitalized-fragments"/>.</p>
                         </li>
                         <li>
                             <p><em>Incorporate quoted fragments into the syntax of your sentence.</em></p>
-                            <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.</p>
-                            <p>
-                                <example>
-                                    <title>Incorporating Quotes into Syntax of Sentence</title>
-                                    <p>After their meeting with Rachael Shelden, assistant director of the <init>CWLT</init>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
-                                </example>
-                            </p>
+                            <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.  See <xref ref="example-mechanics-quotes-sentences"/>.</p>
                         </li>
                         <li>
                             <p><em>Use block quotes for large quoted sections.</em></p>
                             <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
-                            <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.</p>
-                            <p>
-                                <example>
-                                    <title>Using Block Quotes for Large Excerpts</title>
-                                    <p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
-                                    <blockquote>
-                                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
-                                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
-                                    </blockquote>
-                                </example>
-                            </p>
+                            <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.  See <xref ref="example-mechanics-block-quotes"/>.</p>
                         </li>
                     </ul>
                 </list>
+                <example xml:id="example-mechanics-uncapitalized-fragments">
+                    <title>Not Capitalizing Sentence Fragments</title>
+                    <p>Although Jordan knew the due date for the lab report was impending, they remarked that they felt a <q>sudden spasm of panic</q> when they realized the report was due tomorrow.</p>
+                    <p>Anxious about their upcoming organic chemistry exam, the student noted that their appointment with the chemistry subject tutor made them feel <q>calm and collected.</q></p>
+                </example>
+                <example xml:id="example-mechanics-quotes-sentences">
+                    <title>Incorporating Quotes into Syntax of Sentence</title>
+                    <p>After their meeting with Rachael Shelden, assistant director of the <init>CWLT</init>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
+                </example>
+                <example xml:id="example-mechanics-block-quotes">
+                    <title>Using Block Quotes for Large Excerpts</title>
+                    <p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
+                    <blockquote>
+                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
+                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
+                    </blockquote>
+                </example>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-apostrophes">
                 <title>Apostrophes</title>
