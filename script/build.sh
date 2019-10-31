@@ -47,6 +47,7 @@ function setup {
     cp ${SWXSL}/ups-writers-common.xsl  ${MBUSER}/ups-writers-common.xsl
     cp ${SWXSL}/ups-writers-html.xsl    ${MBUSER}/ups-writers-html.xsl
     cp ${SWXSL}/ups-writers-latex.xsl   ${MBUSER}/ups-writers-latex.xsl
+    cp ${SWXSL}/ups-writers-latex-styled.xsl   ${MBUSER}/ups-writers-latex-styled.xsl
 }
 
 function build_you_tube_thumbnail {
@@ -167,6 +168,18 @@ function view_print {
     ${PDFVIEWER} ${SCRATCH}/SoundWriting-print.pdf &
 }
 
+# Subroutine to build the electronic PDF version, styled in color
+function build_pdf_styled {
+    xsltproc --xinclude --stringparam latex.sides one -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
+    xelatex SoundWriting.tex
+    xelatex SoundWriting.tex
+    mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic-styled.pdf
+}
+
+function view_pdf_styled {
+    ${PDFVIEWER} ${SCRATCH}/SoundWriting-electronic-styled.pdf &
+}
+
 # Check to make sure we have a username
 function website_valid {
     # test for zero string as account name and exit with message
@@ -218,6 +231,14 @@ case "$1" in
     "viewpdf")
     view_pdf
     ;;
+    "pdfstyled")
+    setup
+    setup_pdf
+    build_pdf_styled
+    ;;
+    "viewpdfstyled")
+    view_pdf_styled
+    ;;
     "print")
     setup
     setup_print
@@ -241,6 +262,6 @@ case "$1" in
     website
     ;;
     *)
-    echo "Supply an option: all|html|viewhtml|pdf|viewpdf|print|viewprint|validate|viewerrors|website <username>"
+    echo "Supply an option: all|html|viewhtml|pdf|viewpdf|print|viewprint|pdfstyled|viewpdfstyled|validate|viewerrors|website <username>"
     ;;
 esac
