@@ -4,14 +4,10 @@
         <author>
             <personname>Cody Chun</personname>
             <department>English, Class of 2017</department>
-            <!-- <institution>University of Puget Sound</institution> -->
-            <!-- <email></email> -->
         </author>
         <author>
             <personname>Kieran O'Neil</personname>
             <department>Biology, Class of 2016</department>
-            <!-- <institution>University of Puget Sound</institution> -->
-            <!-- <email></email> -->
         </author>
         <author>
             <personname>Kylie Young</personname>
@@ -19,40 +15,28 @@
                 <line>Science, Technology, &amp; Society and</line>
                 <line>Sociology &amp; Anthropology, Class of 2017</line>
             </department>
-            <!-- <institution>University of Puget Sound</institution> -->
-            <!-- <email></email> -->
         </author>
         <author>
             <personname>Julie Nelson Christoph</personname>
             <department>Professor, English</department>
-            <!-- <institution>University of Puget Sound</institution> -->
-            <!-- <email></email> -->
         </author>
         <credit>
             <title>Contributors</title>
             <author>
                 <personname>Isabelle Anderson</personname>
                 <department>Chemistry and English, Class of 2018</department>
-                <!-- <institution>University of Puget Sound</institution> -->
-                <!-- <email></email> -->
             </author>
              <author>
                 <personname>Jordan Fonseca</personname>
                 <department>Physics and Mathematics, Class of 2018</department>
-                <!-- <institution>University of Puget Sound</institution> -->
-                <!-- <email></email> -->
             </author>
              <author>
                 <personname>Sarah Walling-Bell</personname>
                 <department>Computer Science, Class of 2020</department>
-                <!-- <institution>University of Puget Sound</institution> -->
-                <!-- <email></email> -->
             </author>
             <author>
                 <personname>Bethany Llewellyn</personname>
                 <department>Biology and Environmental Policy and Decision Making, Class of 2021</department>
-                <!-- <institution>University of Puget Sound</institution> -->
-                <!-- <email></email> -->
             </author>
         </credit>
         <credit>
@@ -60,20 +44,18 @@
             <author>
                 <personname>Jahrme Risner</personname>
                 <department>Mathematics and Computer Science, Class of 2018</department>
-                <!-- <institution>University of Puget Sound</institution> -->
-                <!-- <email></email> -->
             </author>
             <author>
                 <personname>Cara Farnell</personname>
                 <department>Program Manager, Center for Writing, Learning, and Teaching</department>
-                <!-- <institution>University of Puget Sound</institution> -->
-                <!-- <email></email> -->
             </author>
             <author>
                 <personname>Jordan Fonseca</personname>
                 <department>Physics and Mathematics, Class of 2018</department>
-                <!-- <institution>University of Puget Sound</institution> -->
-                <!-- <email></email> -->
+            </author>
+            <author>
+                <personname>Robert A. Beezer</personname>
+                <department>Professor, Mathematics and Computer Science</department>
             </author>
         </credit>
         <date><today/></date>
