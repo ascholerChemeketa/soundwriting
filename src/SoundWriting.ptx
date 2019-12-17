@@ -5,7 +5,6 @@
 
     <book xml:id="SoundWriting">
         <title>Sound Writing</title>
-        <subtitle>University of Puget Sound</subtitle>
 
         <!-- Frontmatter -->
         <xi:include href="frontmatter.ptx"/>
