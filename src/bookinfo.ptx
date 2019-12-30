@@ -3,5 +3,8 @@
     <brandlogo url="https://soundwriting.pugetsound.edu" source="images/logo.svg"/>
     <cross-references text="title"/>
     <initialism>SW</initialism>
+    <!-- Three REMARK-LIKE re-purposed, these may need internationalization -->
     <rename element="insight">Tip</rename>
+    <rename element="convention">Helpful Questions</rename>
+    <rename element="observation">Student Perspective</rename>
 </docinfo>
