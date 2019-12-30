@@ -81,8 +81,8 @@
             <sidebyside width="50%">
             <image source="images/WWA-Intersectionality"/>
             </sidebyside>
-            <assemblage>
-                <title>Student Perspectives: More than a Single Identity</title>
+            <observation>
+                <title>More than a Single Identity</title>
                 <blockquote>
                     <p>When we step into a place we are not just Black; we are Black males, we are Black women, we are people who are part of the <init>LGBTQ</init> community, we are more than just one single identity. These identities do conflict and they do affect us, sometimes equally and sometimes one more than the other. I’ve been in a situation where I knew for a fact that it was my gender that got me into the problem, but because I was Black, it was worse.</p>
                     <attribution>
@@ -91,10 +91,10 @@
                         <line>May 2019</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p><q>Intersectionality</q> is a relatively new word to describe a very old concept. The term was coined in 1989 by Black feminist lawyer Kimberlé Crenshaw to describe how the discrimination faced by Black women is simultaneously based on race and gender. In a seminar at the 2001 World Conference Against Racism, Crenshaw used the metaphor of a traffic intersection to describe how women of color must simultaneously navigate multiple forms of oppression saying <q>intersectionality is what occurs when a woman from a minority group <ellipsis /> tries to navigate the main crossing in the city.<ellipsis /> The main highway is Racism Road. One cross street can be Colonialism, [the other] Patriarchy Street.</q> Rather than navigate each road in isolation of the others, the woman of color must navigate them all at the same time, their interaction making her task that much more complex. Accordingly, because everyone has intersectional identities oppressive systems are not navigated separately but rather concurrently. Thus, when intersectionality is overlaid with power imbalances, those with multiple marginalized identities<mdash />such as being Black and female in the U.S., or disabled, Queer and poor<mdash />experience oppression and discrimination against several aspects of their identity.</p>
-            <assemblage>
-                <title>Student Perspectives: Intersections within an Identity</title>
+            <observation>
+                <title>Intersections within an Identity</title>
                 <blockquote>
                     <p>Latino is not one identity. Someone who identifies as Afro<ndash/>Latino is probably going to have a very different experience than someone with lighter skin and hair. It’s important to acknowledge that not only do we have different national identities, but there are also other differences within those places. </p>
                     <attribution>
@@ -103,9 +103,9 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
-            <assemblage>
-                <title>Student Perspectives: Identity and the Cultural Context</title>
+            </observation>
+            <observation>
+                <title>Identity and the Cultural Context</title>
                 <blockquote><p>Gendered expectations in different cultures are just different. So what we in American view as masculine expectations are very much not masculine expectations in a large variety of Asian cultures<ellipsis />When you're going to do research about, like, the intersections of gender in Asia you really need to think about why is it that we gender Asia a certain way, why is it that like when we think about Asian American men we think that they're really like feminine, really castrated, really nerdy, non<ndash/>social, those kind of things. But then on the other hand, Pacific Islander men, and just Brown men in general, get hypersexualized; [it’s sometimes assumed that] the darker your skin is the more sexual you are, and then the lighter your skin is the more virginal and pure you are.</p>
                     <attribution>
                         <line>Member of the Asian and Pacific Islander Collective</line>
@@ -113,7 +113,7 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>While the term intersectionality was initially coined to describe the struggles of Black women in the feminist movement, it can be used even more broadly to understand how systems of oppression are interconnected, and how individuals and groups face discrimination based on multiple identities. As you write, consider the ways that intersectionality applies to your topic. For example, if you are writing about salaries in the United States, explore how they intersect with gender (<eg /> men make more money than women, gender non<ndash/>conforming, and trans people), race (<eg /> white women make more money than women of color), and ability (people with mental and physical illnesses have a harder time acquiring and keeping jobs than their able<ndash />bodied counterparts). At the same time, be careful about highlighting an aspect of someone’s identity if it may not actually be relevant (see the guideline in <xref ref="writewithequity" /> which contains other important notes about people<ndash />first language and writing with specificity). As you write, we encourage you to use the following subsections in conjunction with one another.</p>
         </subsection>
         <subsection xml:id="gender-inclusivity">
@@ -174,8 +174,8 @@
             <title>Language Toward Neurological and Physical Inclusivity</title>
             <p>What is considered an illness or disability has changed throughout history and also varies between cultural contexts. Disability has also been stigmatized and wielded as a form of social control; a member of the University of Puget Sound National Alliance on Mental Illness (NAMI) gave the examples of both <em>drapetomania</em>, an illness that white psychologists hypothesized as the cause for Black slaves to want to run away from enslavement in the 19th century, and hysteria, which was used as a form of social control for women. Today, both of these illnesses are considered pseudoscience and understood to be part of a long history of scientific racism, and sexism respectively.</p>
             <p>Despite the progress that has been made, disabilities and illnesses continue to be stigmatized, and the way we write about them has the power to break down or perpetuate stereotypes that directly affect the lives of people with these conditions. Additionally, many terms carry <xref ref="par-write-respect-historical-baggage"/> that we, as writers, aren’t always aware of; for instance, while in the early twentieth century people classified as <q>idiots</q> were subject to forced sterilization, we now use the word casually. By learning the history behind the words we use and choosing to write respectfully about people with mental and physical disabilities we help create a culture that rejects ableism.</p>
-            <assemblage>
-                <title>Student Perspectives: Cultural Context of Mental Health and Illness</title>
+            <observation>
+                <title>Cultural Context of Mental Health and Illness</title>
                 <blockquote><p>This is why I'm always saying research those cultural contexts, you know, because <em>with mental illness and mental health, the way in which we talk about it is all a form of social control.</em></p>
                     <attribution>
                         <line>Member of <init>NAMI</init></line>
@@ -183,11 +183,11 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>Mental health and mental illness are frequently mistaken as synonyms; however, mental health refers to a person’s mental well<ndash />being<mdash />including their emotions, thoughts, feelings, and the ability to overcome challenging situations<mdash />while mental illnesses are disorders affecting the way one thinks, feels, behaves, or interacts with the world. Just as it is possible to have poor physical health (<eg /> a broken arm) without having a physical illness, so too do many people experience poor mental health without having a mental illness. People may fall anywhere on the mental health and mental illness spectrums: for example, someone with a chronic mental illness such as OCD may have good mental health. Sometimes mental health concerns that go untreated can develop into mental illnesses, such as anxiety or depression. Additionally, where each of us falls on the health and illness spectrums is always changing, and we will all experience poor health at some point in our life.</p> 
             <p>In fact, one way of thinking about disability is that any time we spend able<ndash />bodied is really time spent <q>temporarily able<ndash />bodied</q> since we will all experience disability in our lifetimes. Despite the widespread incidence of disability, disabilities are stigmatized in many cultures, and people with disabilities are discriminated against in both overt ways (such as the eugenics movement) and covert ways (such as buildings that lack wheelchair access and/or Braille translations). A member of the University of Puget Sound NAMI club described how mental illnesses are also sometimes regarded as less legitimate than physical illnesses because they are less visible, giving the example that people are more likely to consider it a sign of weakness to take medication for a mental illness than for a physical illness; just as you would not tell someone with diabetes that they should learn to stop depending on their insulin medication, so, too, would you not consider that someone with a mental illness should eventually grow out of taking their medication.</p>
-            <assemblage>
-                <title>Student Perspectives: Intersections of Mental Illness and Health</title>
+            <observation>
+                <title>Intersections of Mental Illness and Health</title>
                 <blockquote><p>Constantly considering the ways in which mental health and mental illness intersect with a lot of other identities is really important. They don’t exist in isolation from other people's identities, They really intersect with your sexual orientation, your gender identity, your race, your socioeconomic background<ellipsis />you can't really write about mental health and mental illness in isolation of all of those factors that are brought into it.</p>
                     <attribution>
                         <line>Member of <init>NAMI</init></line>
@@ -195,7 +195,7 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>As you write about mental and physical illnesses, be conscious of how they intersect with other aspects of identity. For example, as a member of the University of Puget Sound NAMI club points out, a woman with a mental illness is more likely to be written about as weak and emotional, while men with mental illness tend to be portrayed as violent and angry. These depictions perpetuate false stereotypes of both mental illness and gender. Additionally, the way physical and mental illnesses are conceptualized, diagnosed, and treated varies between different cultures, and factors such as immigration, racial discrimination, and expensive healthcare and medication make access to treatment inaccessible for many people. When writing about illnesses, health, and disability, avoid making broad generalizations, since people’s bodily experiences are dependent on a plethora of other aspects of their identities. Additionally, because of this diversity, the experience of a mental illness for one person is often not the same as for another, and a treatment that works for one person will not necessarily work for another. For more on the importance of writing with specificity, see <xref ref="intersectionality"/> on intersectionality.</p>
             <p>While it is impossible to foresee and prevent every knowledge gap, using people<ndash/>first language can be a way to combat ableism by acknowledging the common humanity of all individuals rather than referring to certain individuals only by their disability or handicap. To learn more about whether to use people<ndash/>first language, review <xref ref="writewithequity"/>. The use of ableist words and phrases remains common in both written and spoken communication. Check out the example below for a list of words to avoid as well as words that you can choose to use instead to write and think more equitably. Please consider these terms as an introduction to an ongoing conversation rather than a comprehensive guide, and continue to foster your awareness by continuing to learn and ask questions!</p>
             <example xml:id="ableist-phrases">
@@ -254,8 +254,8 @@
         <subsection xml:id="inclusivity-racial">
             <title>Language Toward Racial and Ethnic Inclusivity</title>
             <p>Writing about race and ethnicity is complex because both are linked to past and present histories of horrific oppression and intergroup conflict with correspondingly deep individual and group trauma. Both ethnicity and race can make people targets of stereotyping, prejudice, and violence, and at the same time provide a sense of belonging or pride for people. Like most other identities, the categories of race and ethnicity have differed between places and across time. For example, in the United States, court cases such as <pubtitle>Dow v. United States (1915)</pubtitle><mdash/>which determined that Syrian people were not <q>white</q><mdash/>have been part of sculpting the racial categories we are familiar with today. Racial and ethnic categories continue to drastically impact all of our lives, and so, while complicated, it is important to be aware of the histories behind the words we use and the ways we write about race and ethnicity in order to not perpetuate racist ideologies. See <xref ref="list-racial-inclusivity-terms"/> for relevant definitions as you read this section.</p>
-            <assemblage>
-                <title>Student Perspectives: Decolonizing our Language</title>
+            <observation>
+                <title>Decolonizing our Language</title>
                 <blockquote>
                     <p>Using the term <q>slaves</q> is using terminology that's very dehumanizing. In my papers and within my language I do my best to say <q>enslaved peoples</q> or <q>the transatlantic enslavement trade.</q> It's not that these people were slaves, they were enslaved. Recognizing this history in our writing is one way we can decolonize our language.</p>
                     <attribution>
@@ -264,11 +264,11 @@
                         <line>May 2019</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>Racial prejudice and racism, though related, are distinctly different. Racial prejudice is discrimination against someone because of their race. Racism is a sociocultural phenomenon that takes into account histories of racial inequality and describes a system that benefits people in a dominant racial group (whether or not they want to benefit) through the oppression of other racial groups. Because racism is a result of dependent on past and present systemic racial inequality, <q>reverse racism</q> does not exist. For example, in the United States there has never been a set of laws and political and economic institutions that enforce the dominance of people of color over White people as there have been in support of White supremacy. Therefore, while a person of color may hold racial prejudice towards a White person, there is no structural support for their prejudice that enables them to exert <q>reverse racism.</q></p>
             <p>Racism has manifested in many different ways. Some forms are overt, such as <q>Whites Only</q> signs during the Jim Crow era; other racist histories are embedded in language in less obvious ways. For example, the term <q>Caucasian</q> as a synonym for White has its origins in pseudo–scientific theories about the racial divisions. Although white<ndash/>skinned people might feel uncomfortable with a racial descriptor such as White, using that term is one way to use equivalent terms; there is ethnocentric bias in assuming whiteness as a standard and using terms like Black, Asian, and Latino to designate people as different from that standard. Racism can also appear under the guise of being approving. For example, calling women of color <q>exotic</q> is both dehumanizing and othering, which has been used to justify acts of sexual violence against women of color in the U.S. (among other places).</p>
-            <assemblage>
-                <title>Student Perspectives: Orientalism in Language</title>
+            <observation>
+                <title>Orientalism in Language</title>
                 <blockquote><p><q>Oriental</q> is a word that people shouldn't use, unless they are directly quoting from somebody else that is using it in scholarly writing and is pointing out how that is an outdated, problematic term, but otherwise if they are making their own opinion, they should not write <q>this oriental</q> or <q>the orient.</q></p>
                     <attribution>
                         <line>Member of the Asian and Pacific Islander Collective</line>
@@ -276,10 +276,10 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>It is helpful to be aware of conventions within particular disciplines. Remember that these conventions may reflect racism that exists in the academy, and that scholars within and across different academic disciplines may not agree on definitions and conventions related to race and ethnicity. When in doubt, do some research and do not be afraid to engage in conversations about appropriate usage. When referring to a particular person or group, use the term that they prefer (though when directly asking people, be mindful of the burden you may be placing on them to educate you). You may not get unanimous feedback on what the best terminology is; lots of terminology is in flux, and what is respectful or correct is contested. For example, there remains no consensus about the proper capitalization of <q>Black,</q> especially in relation to <q>White.</q> Additionally, the distinction between <q>Native American</q> and <q>American Indian</q> is also contested. You can ask your professors for their preferences and, as always, research the implications of each usage; it is always best to be intentional and open<ndash/>minded.</p>
-            <assemblage>
-                <title>Student Perspectives: Writing with Specificity</title>
+            <observation>
+                <title>Writing with Specificity</title>
                 <blockquote><p>People really need to be more specific about what they're talking about when they use the words <q>Asian</q> and <q>Pacific Islander.</q> If people are doing research that deals with empirical data and they use the word <q>Asian</q> when they're searching, that data's largely going to include Chinese, Japanese and maybe Korean Americans. And even within that there are problems with how we classify who is Chinese, [which can include Mandarin, Mainland, and Cantonese people] here's just a lot of complexity in writing about our community that can't really be distilled down into the labels.</p>
                     <attribution>
                         <line>Member of the Asian and Pacific Islander Collective</line>
@@ -287,7 +287,7 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>Racism is embedded in histories of the academy. Our understanding of many fields of knowledge is limited by the perspectives of the people who were publishing in those fields. It is only recently that the academy has begun to be shaped by the voices of people who look like our world more broadly. Even as you read published, peer<ndash/>reviewed, scholarly sources, read with a critical eye, considering how the author's identity and experiences might shape the lens they use to look at the world. Understanding what perspective the author may have been coming from can give you a lot of context about why they have the ideas they do, which methodologies they use, and how they define their terms. Additionally, it gives you an opportunity to think about what voices you are bringing into your paper: Are you representing a diversity of perspectives? Are you including the voices of people from the communities about which you’re writing?</p>
             <list xml:id="list-racial-inclusivity-guidelines">
                 <title>Strategies for Writing with Racial and Ethnic Inclusivity in Mind</title>
@@ -318,8 +318,8 @@
                     </li>
                 </ul>
             </list>
-            <assemblage>
-                <title>Student Perspectives: Respecting People's Chosen Terms</title>
+            <observation>
+                <title>Respecting People's Chosen Terms</title>
                 <blockquote><p>If you’re writing about a specific person or group of people, <em>try to figure out what they call themselves.</em> While some people identify as Latino, others identify as Afro<ndash/>Latino, Latinx, Chicano, Hispanic, Guatemalan, Mexican, Mexican American<ellipsis/>the list goes on. Additionally, many indigenous people of South America do not identify with the term Latino even though from a U.S. lens we may consider them so.</p>
                     <attribution>
                         <line>Member of Latinx Unidos</line>
@@ -327,7 +327,7 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <list xml:id="list-racial-inclusivity-terms">
                 <title>Terms</title>
                 <dl>
@@ -449,8 +449,8 @@
             <title>Language Toward Religious Inclusivity</title>
             <p>The majority of people in the world identify with a religion, and most religions spans huge swaths of the globe and encompass very diverse groups of people. Additionally, religions are often interpreted and practiced very differently depending on the cultural context, and people may identify with a religion religiously, culturally and/or ethnically. All of these factors make it complicated to write about religion inclusively and without over-generalization.</p>
             <p>Despite this complexity, it is important to take the time to learn about the nuances of religion in order to avoid perpetuating stereotypes and spreading misinformation that contributes to religious discrimination or persecution. Both religious discrimination (the treatment of a person or group differently because of their religion) and religious persecution (the systematic mistreatment or discrimination of an individual or group because of their religion) have long and persisting histories. From the forced conversion of Native Americans to Christianity by European Americans in the late 19th century, to the murder of millions of Jewish people during the Holocaust, to modern U.S. immigration policies that disproportionately affect Muslim people, the histories of systematic religious oppression are extensive. More subtle forms of discrimination are also ongoing: at the University of Puget Sound not only has anti<ndash/>Semitic graffiti been found on campus as recently as Spring of 2018, but members of the University of Puget Sound Jewish Student Union described in an interview how campus members continue to make assumptions about them, such as that they eat kosher, speak Hebrew, attend a synagogue, or are good with money, because of their Jewish identity. As writers and people, we all have a sphere of influence in which we can bring awareness about the complexity of religious identity in order to foster a culture of religious Inclusivity. Writing about a religion without being informed about it can unknowingly fuel religious discrimination. Therefore, although complex, it's is vital to take the steps to learn about the nuances of religion before writing about it.</p>
-            <assemblage>
-                <title>Student Perspectives: Anti<ndash/>Semitism Beyond the Holocaust</title>
+            <observation>
+                <title>Anti<ndash/>Semitism Beyond the Holocaust</title>
                 <blockquote>
                     <p>It's important if people are going to be writing about anti<ndash />Semitism that they don't refer to the Holocaust as the only example, or place it in a historical vacuum and say that it doesn't exist anymore. Generalizing and historicizing anti<ndash />Semitism is another form of anti<ndash />Semitism that erases anti<ndash />Semitic acts happening in the world right now.</p>
                     <attribution>
@@ -459,9 +459,9 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
-            <assemblage>
-                <title>Student Perspectives: Broad Generalizations in Writing</title>
+            </observation>
+            <observation>
+                <title>Broad Generalizations in Writing</title>
                 <blockquote>
                     <p>Liberal writing on Islam tends to sometimes follow an imperial line such as <q>Muslim women need saving</q> or just employs a kind of rhetoric that justifies, in the end, imperial behavior and thinking. This is an example of the overt generalizations that people make. Again, bear in mind that you're talking about a billion people, that’s an eighth of the globe. Like if you had eight people in a room one is Muslim. I don't think any of the people at <init>UPS</init> really conceptualize what that means, if they've ever even met a Muslim person.</p>
                     <attribution>
@@ -470,10 +470,10 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>A common misconception about religious communities is that there is a single experience shared by everyone in the community, and that there is agreement about how the religion should be practiced or interpreted. In reality, there is a lot of disagreement within most faith communities about religious beliefs, practices, interpretations, and even about who belongs to the community. For example, as a member of the University of Puget Sound Jewish Student Union emphasizes, there is not a united stance on Israel that is shared by all Jewish people. Individuals within a religious community have experiences, beliefs, and practices as diverse as the individuals themselves. Individuals' and groups' religious practices are informed by their cultural context as well as their other identities (for more on how identities interact see <xref ref="intersectionality"/>). For instance,  as a member of the University of Puget Sound Muslim Student Union points out, a Sunni Muslim, upper<ndash/>middle class, merchant family from Damascus, Syria will likely have very different perspectives and practices than a Muslim farmer from Sinai, Egypt,despite their shared Muslim identity. For this reason, it is important not to oversimplify the experiences, beliefs and practices of individuals and religious communities. When writing about a religion, take care to be precise about what specific sects you are referencing, and don’t generalize one group or individual’s experience as representative of others just because they fall under the same umbrella religious term.</p>
-            <assemblage>
-                <title>Student Perspectives: Nuanced Identities and Specificity</title>
+            <observation>
+                <title>Nuanced Identities and Specificity</title>
                 <blockquote>
                     <p>Christianity is certainly a dominant identity, but that doesn't mean that it should be written about as though it is an inherently oppressive identity. Christianity has often been used oppressively  by various regimes including the U.S., but what tends to be ignored is that Christianity has also been used to work against oppression. Many of the social organizations and activist movements we know and love today began within Christianity, for example the environmentalist movement, the labor movement, and the civil rights movement of the 1950's and 60's began in churches. Writing about Christianity as if it was just one oppressive, dominant entity erases a lot of history and complexity. At its core, Christianity is just another human identity and should therefore be written about with nuance.</p>
                     <attribution>
@@ -482,10 +482,10 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>Another intricacy about religious identity is that people don’t always identify with a religion religiously; they may also identify with it culturally and/or ethnically. For example, someone who is raised Catholic but identifies as atheist may identify as culturally Catholic. While they may not share the same religious beliefs and practices as the Catholic community they were raised in, their worldview was nevertheless shaped by growing up in a Catholic community. For instance, their familiarity with the practice of celebrating Christmas and Easter and participating in Catholic practices such as Confirmation and Lent gives them a different cultural context than would growing up, for example, in a Hindu community.</p>
-            <assemblage>
-                <title>Student Perspectives: Cultural, Ethnic, and Religious Identity</title>
+            <observation>
+                <title>Cultural, Ethnic, and Religious Identity</title>
                 <blockquote>
                     <p>With Judaism, you may identify with the religious aspect or the cultural aspect or more of your ethnicity, so in that sense it's intersectional but also you can be Jewish and part of the LGBTQ community or you can be Jewish and a person of color<ellipsis />[And] within Judaism there's so many different styles and approaches depending on the various different Jewish communities throughout the world. So it's important to recognize that it's hard to be universally representative of Judaism, per se.</p>
                     <attribution>
@@ -494,10 +494,10 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>Each of our fundamental worldviews are as intricate as the various identities, experiences, relationships, and cultural contexts that shape them. Because of this, making comparisons between a worldview you hold and that of a religion you are learning about, although comfortable, may be wildly misleading. A member of the University of Puget Sound Muslim Student Union gives the example of equating Sunnis and Shiites with Catholics and Protestants, the Mosque with the Church, and Muslim forms of prayer with Christian forms. In these cases, although someone who is religiously or culturally Christian may think it is helpful to compare what they are learning about Islam to what they know about Christianity, such associations impose a Christian worldview onto Islam, prohibiting the Christian from accurately understanding these aspects of Islam. Making false equivalencies frequently leads people to make inaccurate interpretations and assumptions about religions. In order to avoid making false equivalencies, be wary of making direct comparisons between your religious perspective and that of one you are less familiar with, and be aware that your worldview may inhibit you from interpreting a religious text, practice, or belief in the same way someone with a different worldview would. Also, when learning about a religion, read sources that are written by people who identify with that religion, rather than texts exclusively by people interpreting it through different religious perspectives.</p>
-            <assemblage>
-                <title>Student Perspectives: Identity and Authorship of Sources</title>
+            <observation>
+                <title>Identity and Authorship of Sources</title>
                 <blockquote>
                     <p>If [students] are reading about Islam, [they should be reading the work of] Muslim scholars. <ellipsis />people always want to go to a Western, quote unquote objective source, or somebody that's white or that's an atheist or an ex<ndash/>Muslim, without realizing the power dynamics of why somebody who's ex<ndash/>Muslim would be published [over] somebody who's Muslim.<ellipsis />  Recognize that you have to actively seek sources other than what's presented to you.</p>
                     <attribution>
@@ -506,7 +506,7 @@
                         <line>May 2018</line>
                     </attribution>
                 </blockquote>
-            </assemblage>
+            </observation>
             <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book!  Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/religion/">Religious Studies</url> would be a good way to continue learning, as would getting involved in programs and clubs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
         </subsection> 
     </section>
