@@ -360,6 +360,7 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
     </section>
     <section xml:id="adobe-acrobat-reader">
         <title>Adobe Acrobat Reader</title>
+        <!-- RAB, 2019-12-30: this should be a two-deep list with titled items? -->
         <paragraphs>
             <title>Step 1: Download Adobe Acrobat Reader</title>
             <p>Adobe Reader is the most common free <init>PDF</init><ndash/>viewing software used for the reading, searching, printing, and notating of <init>PDF</init> files. Adobe is great because it allows you to easily interact with your sources, offering a variety of annotation capabilities; in this way, it's also more cost<ndash/>efficient and environmentally friendly than printing out all 120 pages of that reading assignment because you can highlight and annotate most <init>PDF</init> types (although keep in mind your professor may like you to have a hard copy for class, anyways). To download Adobe Acrobat Reader DC, visit <url href="https://get.adobe.com/reader/">get.adobe.com/reader</url>.</p>
@@ -401,13 +402,13 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
                     <sidebyside width="100%">
                         <image source="images/tech-84"/>
                     </sidebyside>
-                    <note>
-                        <!-- <title>Note</title> -->
-                        <p>While this highlighting technique works for most <init>PDF</init> files, some files that have been photocopied don't have the right line<ndash/>spacing to accommodate the highlighter function. However, Adobe is smart; in these cases, an option to highlight manually using a box<ndash/>select tool should be available.</p>
-                    </note>
                 </li>
             </dl></p>
         </paragraphs>
+        <note>
+            <title>Highlighting</title>
+            <p>While this highlighting technique works for most <init>PDF</init> files, some files that have been photocopied don't have the right line<ndash/>spacing to accommodate the highlighter function. However, Adobe is smart; in these cases, an option to highlight manually using a box<ndash/>select tool should be available.</p>
+        </note>
         <paragraphs>
             <title>Unlocking More Annotation Tools</title>
             <p>To unlock a host of other annotation functions, select the <q>Tools</q> tab at the top left of the screen; a screen of icons will appear. Select the <q>Comment</q> option at the top left of the screen.</p>
