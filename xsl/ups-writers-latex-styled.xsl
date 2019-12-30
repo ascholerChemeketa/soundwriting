@@ -59,13 +59,14 @@
 <!-- ################# -->
 
 <!-- Default LaTeX style, but with a (sans serif) font defined above -->
+<!-- All division headings are in maroon color, defined above        -->
 
 <xsl:template name="titlesec-chapter-style">
     <xsl:text>\titleformat{\chapter}[display]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\huge\bfseries}{\divisionnameptx\space\thechapter}{20pt}{\Huge#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionheadingfont\huge\bfseries\color{maroon}}{\divisionnameptx\space\thechapter}{20pt}{\Huge#1}&#xa;</xsl:text>
     <xsl:text>[{\Large\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\chapter,numberless}[display]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\huge\bfseries}{}{0pt}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionheadingfont\huge\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
     <xsl:text>[{\Large\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titlespacing*{\chapter}{0pt}{50pt}{40pt}&#xa;</xsl:text>
 </xsl:template>
@@ -80,10 +81,10 @@
 
 <xsl:template name="titlesec-section-style">
     <xsl:text>\titleformat{\section}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\Large\bfseries\hrulefill\\}{\divisionnameptx\space\thesection}{1ex}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionheadingfont\Large\bfseries\color{maroon}\hrulefill\\}{\divisionnameptx\space\thesection}{1ex}{#1}&#xa;</xsl:text>
     <xsl:text>[{\rule[0.8\baselineskip]{\textwidth}{0.5pt}}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\section,numberless}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\Large\bfseries}{}{0pt}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionheadingfont\Large\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
     <xsl:text>[{\large\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}&#xa;</xsl:text>
 </xsl:template>
@@ -94,10 +95,10 @@
 <!--   * 90% width rule below, flush left         -->
 <xsl:template name="titlesec-subsection-style">
     <xsl:text>\titleformat{\subsection}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\large\bfseries}{\thesubsection}{1ex}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionheadingfont\large\bfseries\color{maroon}}{\thesubsection}{1ex}{#1}&#xa;</xsl:text>
     <xsl:text>[{\rule[0.8\baselineskip]{0.9\textwidth}{0.5pt}}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\subsection,numberless}[block]&#xa;</xsl:text>
-    <xsl:text>{\normalfont\large\bfseries}{}{0pt}{#1}&#xa;</xsl:text>
+    <xsl:text>{\normalfont\large\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
     <xsl:text>[{\normalsize\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}&#xa;</xsl:text>
 </xsl:template>
@@ -107,10 +108,10 @@
 
  <xsl:template name="titlesec-subsubsection-style">
     <xsl:text>\titleformat{\subsubsection}[hang]&#xa;</xsl:text>
-    <xsl:text>{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{#1}&#xa;</xsl:text>
+    <xsl:text>{\normalfont\normalsize\bfseries\color{maroon}}{\thesubsubsection}{1em}{#1}&#xa;</xsl:text>
     <xsl:text>[{\small\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\subsubsection,numberless}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\normalsize\bfseries}{}{0pt}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionheadingfont\normalsize\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
     <xsl:text>[{\normalsize\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}&#xa;</xsl:text>
 </xsl:template>
