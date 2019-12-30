@@ -122,8 +122,8 @@
             <subsubsection xml:id="planning-mind-map">
                 <title>Mind Map</title>
                 <p>Mind maps can help you organize your ideas further by identifying different parts of your argument and drawing connections between them. Start with your main idea or topic in the center of the page. Then write down subheadings for everything you think is important for understanding your argument around this main idea. Then write down the pieces of evidence or the reasons you believe your argument beneath each of these subheadings. Finally, use arrows, pictures, or words to draw connections between the main idea, subheadings, and pieces of evidence. For a more visual approach, draw heavier lines or multiple arrows between the relationships that are the strongest so you can identify where your argument is the most convincing.</p>
-                <assemblage>
-                    <title>Helpful Questions for Making a Mind Map</title>
+                <convention>
+                    <title>Making a Mind Map</title>
                     <p>
                         <ul>
                             <li>
@@ -149,7 +149,7 @@
                             </li>
                         </ul>
                     </p>
-                </assemblage>
+                </convention>
                 <sidebyside width="50%">
                     <image source="images/WP-Mindmap"/>
                 </sidebyside>
@@ -182,17 +182,17 @@
             <introduction>
                 <p>
                     While outlining might take up precious writing time in your schedule, the payoff is worth it! By clearly organizing your ideas in a way that makes sense to you, you give yourself a guide to follow while you're writing. The act of making an outline also requires you to write down all of your brilliant ideas so that, by the time you start writing, you don't forget what you've come up with. Use what you've developed during your brainstorming and planning sessions to create a more cohesive, organized, and complete outline that contains the major parts of your argument: your introduction, thesis, supporting claims, evidence, and conclusion. Remember that while ordering your claims you should try to think of your essay as a progression rather than a series of points; each claim should both respond to and build off of the previous one. Just as with brainstorming, your outline can be in any form that works best with the structure of the assignment and the way you want to think about your paper. While you're creating your outline, ask yourself these types of questions:</p>
-                    <list>
-                        <title>Helpful Questions for Outlining</title>
-                        <ul>
+                    <convention>
+                        <title>Outlining</title>
+                        <p><ul>
                             <li><p>Do each of my claims follow a purposeful pattern or sequence?</p></li>
                             <li><p>Is this pattern chronological? Logic<ndash/>based? In order of importance? Compare<ndash/>contrast?</p></li>
                             <li><p>Am I giving my audience everything they need to fully understand my argument?</p></li>
                             <li><p>Does the order of my claims merely list points or does it culminate toward a larger argument?</p></li>
                             <li><p>Does my argument naturally follow from the claims I presented, in the order I presented them?</p></li>
                             <li><p>Does the order of my claims roughly follow the arrangement of my thesis?</p></li>
-                        </ul>
-                </list>
+                        </ul></p>
+                    </convention>
                 <p>Read on to learn about a few (but not all!) outline formats you can try.</p>
             </introduction>
             <subsubsection xml:id="outlining-classic">
@@ -513,8 +513,8 @@
                 <paragraphs xml:id="par-conclusions-greater-implications">
                     <title>Greater Implications</title>
                     <p>Strong conclusions don't merely restate your thesis statement but also offer some sense of the greater implications or applications of your argument. For instance, you could examine an influence your topic had on another issue, identify its historical significance, or pose practical applications or potential resolutions to your stated problem or question. The conclusion gives you space to briefly explore your topic beyond the prompt or scope of the paper, so use it! Be creative! Make a statement! When considering the greater implications of your argument, it may be helpful to ask yourself the following questions:</p>
-                    <assemblage>
-                        <title>Helpful Questions for Understanding Implications</title>
+                    <convention>
+                        <title>Understanding Implications</title>
                         <p>
                             <ul>
                                 <li><p>So what? Why is my argument significant or important? Why did I write about it in the first place?</p></li>
@@ -525,7 +525,7 @@
                                 <li><p>What will be my paper's legacy? How do I want it to be used by future scholars writing about my same topic?</p></li>
                             </ul>
                         </p>
-                    </assemblage>
+                    </convention>
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="conclustion-strategy">
@@ -748,8 +748,8 @@
          </introduction>
         <subsection xml:id="what-to-do-when-you-get-stuck">
             <title>Identifying Obstacles</title>
-            <assemblage>
-                <title>Helpful Questions for Identifying Obstacles</title>
+            <convention>
+                <title>Identifying Obstacles</title>
                 <p>
                     <ul>
                         <li>
@@ -774,7 +774,7 @@
                         </li>
                     </ul>
                 </p>
-            </assemblage>
+            </convention>
         </subsection>
         <subsection xml:id="overcoming-managing-anxiety">
             <title>Managing Anxiety</title>

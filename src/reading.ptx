@@ -166,8 +166,8 @@
                     </li>
                 </dl>
             </list>
-            <assemblage>
-                <title>Helpful Questions for Evaluating Sources</title>
+            <convention>
+                <title>Evaluating Sources</title>
                 <p>
                     <ul>
                         <li><p>Do the author's connections between their claims and their evidence make sense?</p></li>
@@ -176,7 +176,7 @@
                         <li><p>Are there any points I can argue against? Or any points that support another argument I want to make? In what ways can this source be useful to me?</p></li>
                     </ul>
                 </p>
-            </assemblage>
+            </convention>
             <paragraphs>
                 <title>Close Reading</title>
                 <p>Close reading most frequently occurs in literary studies, but you can also use close reading skills for other disciplines, such as history or sociology. Like reading critically and actively, reading closely enables you to engage with the text on a much deeper level than if you simply skimmed or scanned it. Using the critical and active reading skills you've developed, you now need to add in an additional component: close analysis. You perform a close analysis of a formal text in the same way you would agonize over the meaning of the word <q>okay</q> in a text message from your new romantic interest. In both cases, <q>close analysis</q> means that you are reading a relatively small portion of text in extreme detail. Perhaps the most important thing to remember about close readings is that you are not only trying to describe the text. While describing the text may be an important part of your analysis, you need to do just that<mdash/>analyze! Your analysis extends beyond the literal meaning of the words on the page to the underlying meaning the writer is conveying.</p>
@@ -184,8 +184,8 @@
                     <image source="images/HR-NewRomanticInterest"/>
                 </sidebyside>
                 <p>The text that you have read closely is your evidence. To convince your audience of your argument, you must take careful and detailed notes (<ie/>, doing careful and detailed active reading). By including all of the necessary analysis and textual examples, you can tell your reader exactly how you've interpreted a passage.</p>
-                <assemblage>
-                    <title>Helpful Questions for Reading Closely</title>
+                <convention>
+                    <title>Reading Closely</title>
                     <p>
                         <ul>
                             <li>
@@ -217,7 +217,7 @@
                             </li>
                         </ul>
                     </p>
-                </assemblage>
+                </convention>
             </paragraphs>
         </subsection>
         <subsection xml:id="reading-types-science">

@@ -84,8 +84,8 @@
         <sidebyside width="50%">
             <image source="images/whoami.png"/>
         </sidebyside>
-        <assemblage>
-            <title>Helpful Questions for Writing Personal Statements</title>
+        <convention>
+            <title>Writing Personal Statements</title>
             <p>
                 <ul>
                     <li>When do I feel the most fulfilled or happiest?</li>
@@ -97,7 +97,7 @@
                     <li>How will these values and interests allow me to contribute to my chosen field of study? What contributions do I plan on making?</li>
                 </ul>
             </p>
-        </assemblage>
+        </convention>
         <list xml:id="list-genres-writing-tips">
             <title>Strategies for Writing Personal Statements</title>
             <ul>

@@ -19,8 +19,8 @@
         <title>Writing with Respect</title>
         <p>Writing with respect is a crucial component of writing with awareness. By demonstrating to your readers that you strive to be aware and respectful of their various identities and experiences, you make your writing more inclusive and inviting<mdash/>and make it more likely that your audience will engage with your ideas.</p>
         <p>To write respectfully about other people, it is helpful to be aware of our own identities and positionalities. We are all informed by our experiences, and it is not always easy to recognize how our cultural lenses affects our world<ndash/>views. We are all, to some degree, ethnocentric; we know our own culture (and gender, ability, race, sexuality, class, religion, <etc/>) best, and we cannot help but view and evaluate other cultures through our own experiences; we may even implicitly consider our own identity to be superior to that of others, and it may take explicit attention to remember that there are other equally valid lifestyles and experiences. In order to write with awareness, then, we should avoid writing ethnocentrically.</p>
-        <assemblage>
-            <title>Helpful Questions for Writing Respectfully</title>
+        <convention>
+            <title>Writing Respectfully</title>
             <p>
                 <ul>
                     <li>Am I making broad generalizations, or do I write with complexity and nuance about people who are different than me? Am I considering other perspectives respectfully rather than in a patronizing or paternalistic way?</li>
@@ -31,7 +31,7 @@
                     <li>Am I aware of my own cultural biases and mindful about how they might affect my scholarship and language choices?</li>
                 </ul>
             </p>
-        </assemblage>
+        </convention>
         <paragraphs xml:id="par-write-respect-historical-baggage">
             <title>Historical Baggage</title>
             <p>Words carry baggage made up of the social structures, hierarchies, and power dynamics that they are associated with. These social contexts have long<ndash/>lasting legacies and so even though a social structure may no longer exist, the words associated with it carry forth the historical memory of that structure and their use can reinforce or assert it. For example, the use of the n<ndash/>word by White people hearkens back to a time in America when White people enslaved, tortured, raped, and murdered Black people in a systematically supported way. Some Black people today have reclaimed the n<ndash/>word, and many other marginalized groups have reclaimed other slurs used against them. In these cases, the use of a slur by a member of the group targeted by the slur can be empowering because it is a symbol for surviving an oppressive, violent system and serves as a source or empowerment for continuing to fight oppressors and oppressive systems. On the other hand, its use by a White person is unacceptable because it is a reenactment of those oppressive power systems, which have a legacy that continues to impact people’s lived experiences in the United States.</p>
@@ -521,8 +521,8 @@
             <p>If we support linguistic diversity, we accept that language is not static, that we will encounter words and expressions that come from a variety of disciplines and cultural communities. Merriam Webster defines <url href="https://www.merriam-webster.com/dictionary/language">language</url> as the methods of combining words as understood by a community. By contrast, a <url href="https://www.merriam-webster.com/dictionary/dialect">dialect</url> is defined as a regional variety of a language. While scholars acknowledge distinctions between a language and dialect, the line between the two is not always clear or without problems. One flippant way of explaining the difference between a dialect and a language is that <q>a language is a dialect with an army and a navy</q>; in his essay <url href="https://www.theatlantic.com/international/archive/2016/01/difference-between-language-dialect/424704/"><articletitle>What's a Language, Anyway?</articletitle></url> linguist John McWhorter elaborates, arguing that there is no objective difference between a language and dialect, that the realities of speech are more complicated than these definitions allow.</p>
             <p>We can better understand the status of <init>SAE</init> and the role of linguistic diversity in advancing equity and inclusion by considering the history of African American English (<init>AAE</init>), a variety of English spoken by some African Americans. <init>AAE</init> has been researched and written about extensively, more than other varieties of English, and two respected scholars of <init>AAE</init> are John Rickford of Stanford University and Geneva Smitherman of Michigan State University. Like most spoken languages, <init>AAE</init> is rule<ndash/>governed and systematic, although the system is too complicated and vast to summarize here. Today, <init>AAE</init> is accepted as a variety of English, but it was rejected as a language in the past and it has been and continues to be maligned using racist ideas about black speech and intelligence. Two highly politicized cases about the use of <init>AAE</init> in public schools are <url href="https://law.justia.com/cases/federal/district-courts/FSupp/473/1371/2148458/"><pubtitle>Martin Luther King Jr. Elementary School Children v. Ann Arbor School District Board</pubtitle></url> from 1979 and <url href="https://www.nytimes.com/1996/12/21/us/black-english-plan-baffles-some-students-in-oakland.html"><em>Oakland Unified School District's 1996 resolution</em></url> to use <init>AAE</init>. In both cases, the use of <init>AAE</init> by educators as a way to affirm the validity of <init>AAE</init> and to help students learn <init>SAE</init> was considered controversial. It is helpful to know this history when considering <init>AAE</init> in academic contexts.</p>
             <p>In addition to <init>SAE</init>, other rule<ndash/>governed varieties of American English include Chicano English (also called Mexican American English), Cajun English, Hawaiian Pidgin (also called Hawaiian Pidgin English and Hawaiian Creole English), and Southern White American English. These varieties of English not only have some different vocabulary than <init>SAE</init> but also<mdash/>and more importantly<mdash/>have some different grammatical rules than <init>SAE</init>. American Sign Language (<init>ASL</init>), too, has a different grammatical structure than written <init>SAE</init>.</p>
-            <assemblage>
-                <title>Helpful Questions for Embracing Linguistic Diversity</title>
+            <convention>
+                <title>Embracing Linguistic Diversity</title>
                 <p>
                     <ul>
                         <li>Do I assume the English that I speak and write is the only way to communicate ideas?</li>
@@ -533,7 +533,7 @@
                         <li>What are writing conventions specific to my academic discipline?</li>
                     </ul>
                 </p>
-            </assemblage>
+            </convention>
             <p>Because the rules regarding language construction and use are complex, this section is intended as a general guideline for how to approach linguistic diversity. If you want in<ndash/>depth information on sociolinguistics, or what constitutes a vernacular, dialect, or language, here is a short list of recommended reading about linguistic diversity:
                 <ul>
                     <li>McWhorter, John. (2016, January 19). <articletitle>What’s a Language, Anyway?</articletitle> <pubtitle>The Atlantic.</pubtitle> Retrieved from <url href="https://www.theatlantic.com/international/archive/2016/01/difference-between-language-dialect/424704/"></url></li>
