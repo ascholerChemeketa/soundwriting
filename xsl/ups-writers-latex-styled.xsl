@@ -150,49 +150,49 @@
 <!-- Styling Blocks -->
 <!-- ############## -->
 
-<!-- Blue title -->
-<xsl:template match="convention" mode="tcb-style">
-    <xsl:text>colbacktitle=blue, coltitle=black, colframe=blue, colback=white, sharp corners=northwest</xsl:text>
-</xsl:template>
-
-<!-- Blue title, light blue body -->
-<xsl:template match="list" mode="tcb-style">
-    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=blue!40!white, colframe=blue!80!black, colback=blue!10!white, coltitle=black</xsl:text>
-</xsl:template>
-
-<!-- Red title -->
-<xsl:template match="remark" mode="tcb-style">
-    <xsl:text>colbacktitle=red, colframe=red, coltitle=black, colback=white</xsl:text>
-</xsl:template>
-
-<!-- Red title, light red background -->
-<xsl:template match="warning" mode="tcb-style">
-    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=red!80!black, colframe=red!80!black, colback=red!10!white, coltitle=black</xsl:text>
-</xsl:template>
-
-<!-- Green title -->
-<xsl:template match="observation" mode="tcb-style">
-    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=green!80!black, colframe=green!80!black,fonttitle=\normalfont\bfseries, colback=white, sharp corners=west</xsl:text>
-</xsl:template>
-
-<!-- Green title, light green body -->
-<xsl:template match="note" mode="tcb-style">
-    <xsl:text> fonttitle=\normalfont\bfseries, colbacktitle=green!80!black, colframe=green!80!black, colback=green!10!white, coltitle=black</xsl:text>
-</xsl:template>
-
-<!-- Yellow title, light yellow body -->
-<xsl:template match="insight" mode="tcb-style">
-    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=yellow, colframe=yellow, colback=yellow!10!white, coltitle=black</xsl:text>
-</xsl:template>
-
-<!-- Brown title, light brown body -->
-<xsl:template match="assemblage" mode="tcb-style">
-    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=brown, colframe=brown, colback=brown!10!white, coltitle=black</xsl:text>
-</xsl:template>
-
-<!-- Brown title -->
+<!-- 2019-12-30: "example": 107 -->
+<!-- Julie Christoph, 2019-12-30, muted5, UPS 7542 -->
 <xsl:template match="example" mode="tcb-style">
-    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=brown, colframe=brown, colback=white, coltitle=black</xsl:text>
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=muted5, colframe=maroon, colback=muted5, coltitle=black, titlerule=-0.3pt,</xsl:text>
+</xsl:template>
+
+<!-- 2019-12-30: "list": 88 -->
+<!-- Julie Christoph, 2019-12-30, neutral1 UPS 7534 -->
+<xsl:template match="list" mode="tcb-style">
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=neutral1, colframe=maroon, colback=neutral1, coltitle=black, titlerule=-0.3pt,</xsl:text>
+</xsl:template>
+
+<!-- 2019-12-16: "note": 35 -->
+<!-- Julie Christoph, 2019-12-30, muted4, UPS 5635 -->
+<xsl:template match="note" mode="tcb-style">
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=muted4, colframe=maroon, colback=muted4, coltitle=black, titlerule=-0.3pt,</xsl:text>
+</xsl:template>
+
+<!-- 2019-12-30: "insight": 20 -->
+<!-- Renamed as a "Tip"        -->
+<!-- Julie Christoph, 2019-12-30, muted2, UPS 616 -->
+<xsl:template match="insight" mode="tcb-style">
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=muted2, colframe=maroon, colback=muted2, coltitle=black, titlerule=-0.3pt,</xsl:text>
+</xsl:template>
+
+<!-- 2019-12-30: "observation": 16     -->
+<!-- Renamed as a "Student Perspective" -->
+<!-- Julie Christoph, 2019-12-30, muted3, UPS 5483 -->
+<xsl:template match="observation" mode="tcb-style">
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=bright6, colframe=maroon, colback=bright6, coltitle=black, titlerule=-0.3pt,</xsl:text>
+</xsl:template>
+
+<!-- 2019-12-30: "convention": 10     -->
+<!-- Renamed as a "Helpful Questions" -->
+<!-- Julie Christoph, 2019-12-30, muted3, UPS 452 -->
+<xsl:template match="convention" mode="tcb-style">
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=muted3, colframe=maroon, colback=muted3, coltitle=black, titlerule=-0.3pt,</xsl:text>
+</xsl:template>
+
+<!-- 2019-12-16: "warning": 6 -->
+<!-- Julie Christoph, 2019-12-30, bright, UPS 390 -->
+<xsl:template match="warning" mode="tcb-style">
+    <xsl:text>fonttitle=\normalfont\bfseries, colbacktitle=bright4, colframe=maroon, colback=bright4, coltitle=black, titlerule=-0.3pt,</xsl:text>
 </xsl:template>
 
 </xsl:stylesheet>
