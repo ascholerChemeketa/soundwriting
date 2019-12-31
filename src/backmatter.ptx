@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This file is part of the book                                      -->
+<!--                                                                    -->
+<!--                 Sound Writing                                      -->
+<!--                                                                    -->
+<!-- Copyright (C) 2017-2019 by                                         -->
+<!-- Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph      -->
+<!--                                                                    -->
+<!-- Creative Commons Attribution-ShareAlike 4.0 International License  -->
+<!--                                                                    -->
+<!-- Source:  https://github.com/UPS-CWLT/soundwriting                  -->
+<!--                                                                    -->
 <backmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="backmatter">
     <title>Back Matter</title>
     <xi:include href="glossary.ptx"/>

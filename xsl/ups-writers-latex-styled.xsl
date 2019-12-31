@@ -1,4 +1,15 @@
 <?xml version='1.0'?> <!-- As XML file -->
+<!-- This file is part of the book                                      -->
+<!--                                                                    -->
+<!--                 Sound Writing                                      -->
+<!--                                                                    -->
+<!-- Copyright (C) 2017-2019 by                                         -->
+<!-- Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph      -->
+<!--                                                                    -->
+<!-- Creative Commons Attribution-ShareAlike 4.0 International License  -->
+<!--                                                                    -->
+<!-- Source:  https://github.com/UPS-CWLT/soundwriting                  -->
+<!--                                                                    -->
 
 <!-- For University of Puget Sound, Writer's Handbook      -->
 <!-- 2019-10-30  R. Beezer, preliminary styling setup      -->

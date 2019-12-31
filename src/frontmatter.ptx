@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This file is part of the book                                      -->
+<!--                                                                    -->
+<!--                 Sound Writing                                      -->
+<!--                                                                    -->
+<!-- Copyright (C) 2017-2019 by                                         -->
+<!-- Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph      -->
+<!--                                                                    -->
+<!-- Creative Commons Attribution-ShareAlike 4.0 International License  -->
+<!--                                                                    -->
+<!-- Source:  https://github.com/UPS-CWLT/soundwriting                  -->
+<!--                                                                    -->
 <frontmatter xml:id="frontmatter">
     <titlepage>
         <author>
@@ -64,8 +75,9 @@
         <edition>Preliminary Edition</edition>
         <copyright>
             <year>2017<ndash/>2019</year>
-            <holder>University of Puget Sound</holder>
-            <minilicense>All Rights Reserved</minilicense>
+            <holder>Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph</holder>
+            <minilicense>CC-BY-SA</minilicense>
+            <shortlicense>Creative Commons Attribution-ShareAlike 4.0 International License</shortlicense>
         </copyright>
     </colophon>
     <acknowledgement>
