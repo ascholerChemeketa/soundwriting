@@ -30,7 +30,7 @@
     <!-- <xsl:text>\usepackage[default,regular,black]{sourceserifpro}&#xa;</xsl:text> -->
     <xsl:text>\setmainfont{texgyreschola-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/, ItalicFont=texgyreschola-italic.otf,BoldFont=texgyreschola-bold.otf,BoldItalicFont=texgyreschola-bolditalic.otf]&#xa;</xsl:text>
     <xsl:text>\newfontfamily{\divisionheadingfont}{texgyreheros-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/,ItalicFont=texgyreheros-italic.otf,BoldFont=texgyreheros-bold.otf,BoldItalicFont=texgyreheros-bolditalic.otf]&#xa;</xsl:text>
-    <xsl:text>\newfontfamily{\pageheadingfont}{texgyrepagella-regular.otf}[Numbers=OldStyle,Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/,ItalicFont=texgyrepagella-italic.otf,BoldFont=texgyrepagella-bold.otf,BoldItalicFont=texgyrepagella-bolditalic.otf]&#xa;</xsl:text>
+    <xsl:text>\newfontfamily{\pagefont}{texgyrepagella-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/,ItalicFont=texgyrepagella-italic.otf,BoldFont=texgyrepagella-bold.otf,BoldItalicFont=texgyrepagella-bolditalic.otf]&#xa;</xsl:text>
 </xsl:param>
 
 <!-- #######-->
@@ -122,7 +122,7 @@
 
 <!-- Every page is "odd" in electronic version   -->
 <!-- so no optional arguments for "even" pages   -->
-<!-- Chapter (number)   (title)    (page-number) -->
+<!-- Section (number)   (title)    (page-number) -->
 <!-- NB: The "plain" style is used for the first -->
 <!-- page of chapters, etc, so needs to have the -->
 <!-- number styled the same.                     -->
@@ -134,17 +134,24 @@
 <!-- we internationalize) are used in the        -->
 <!-- right places                                -->
 
-<xsl:template match="book" mode="titleps-headings">
-    <xsl:text>[\pageheadingfont\small]{&#xa;</xsl:text>
-    <xsl:text>\sethead{\ifthechapter{\chaptertitlename\space\thechapter}{}}{\chaptertitle}{\thepage}&#xa;</xsl:text>
-    <xsl:text>}&#xa;</xsl:text>
+<xsl:template match="book" mode="titleps-style">
+    <xsl:text>%% Page style configuration for Sound Writing&#xa;</xsl:text>
+    <xsl:text>%% Assumes one-sided printing&#xa;</xsl:text>
+    <xsl:text>%%&#xa;</xsl:text>
+    <xsl:text>%% Plain pages should have the same font for page numbers&#xa;</xsl:text>
+    <xsl:text>\renewpagestyle{plain}{%&#xa;</xsl:text>
+    <xsl:text>\setfoot{}{\pagefont\thepage}{}%&#xa;</xsl:text>
+    <xsl:text>}%&#xa;</xsl:text>
+    <xsl:text>\renewpagestyle{headings}{%&#xa;</xsl:text>
+    <xsl:text>\pagefont\headrule%&#xa;</xsl:text>
+    <xsl:text>\sethead%&#xa;</xsl:text>
+    <xsl:text>{\ifthesection{\pagefont\thesection}{\ifthechapter{\pagefont\thechapter}{}}}%&#xa;</xsl:text>
+    <xsl:text>{{\pagefont\space\ifthesection{\sectiontitle}{\chaptertitle}\space}}%&#xa;</xsl:text>
+    <xsl:text>{\pagefont\thepage}%&#xa;</xsl:text>
+    <xsl:text>}%&#xa;</xsl:text>
+    <xsl:text>\pagestyle{headings}&#xa;</xsl:text>
 </xsl:template>
 
-<xsl:template match="book" mode="titleps-plain">
-    <xsl:text>[\pageheadingfont\small]{&#xa;</xsl:text>
-    <xsl:text>\setfoot{}{\thepage}{}&#xa;</xsl:text>
-    <xsl:text>}&#xa;</xsl:text>
-</xsl:template>
 
 <!-- ############## -->
 <!-- Styling Blocks -->
