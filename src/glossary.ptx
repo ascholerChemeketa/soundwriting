@@ -251,15 +251,15 @@
             </li>
             <li xml:id="definition-present-participle">
                 <title>present participle</title>
-                <p>a verb ending in <q><ndash/>ing</q> that acts as an <xref ref="definition-adjective"/></p>
+                <p>a verb ending in <q>-ing</q> that acts as an <xref ref="definition-adjective"/></p>
             </li>
             <li xml:id="definition-past-participle">
                 <title>past participle</title>
-                <p>a verb ending in <q><ndash/>ed</q> (or an irregular form) that acts as an <xref ref="definition-adjective"/></p>
+                <p>a verb ending in <q>-ed</q> (or an irregular form) that acts as an <xref ref="definition-adjective"/></p>
             </li>
             <li xml:id="definition-gerund">
                 <title>gerund</title>
-                <p>a verb ending in <q><ndash/>ing</q> that acts as a <xref ref="definition-noun"/></p>
+                <p>a verb ending in <q>-ing</q> that acts as a <xref ref="definition-noun"/></p>
             </li>
             <li xml:id="definition-infinitives">
                 <title>infinitive</title>
@@ -296,7 +296,7 @@
             </li>
             <li>
                 <title>quote sandwich</title>
-                <p>a three<ndash/>part organizational template for incorporating evidence into a paper that consists of introducing context of evidence in argument (upper bun), quoting and citing evidence (filling), and analyzing evidence (lower bun).</p>
+                <p>a three-part organizational template for incorporating evidence into a paper that consists of introducing context of evidence in argument (upper bun), quoting and citing evidence (filling), and analyzing evidence (lower bun).</p>
             </li>
             <li>
                 <title>classic outline</title>
@@ -304,7 +304,7 @@
             </li>
             <li>
                 <title>bubble map</title>
-                <p>an outline technique that is less<ndash/>structured than the classic outline and allow you to nonlinearly connect your claims.</p>
+                <p>an outline technique that is less-structured than the classic outline and allow you to nonlinearly connect your claims.</p>
             </li>
             <li>
                 <title>flowchart</title>
