@@ -104,23 +104,23 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
             <p>Let's face it: footnotes can be a pain. Luckily, your word processor has some handy tricks for making adding footnotes relatively pain free!</p>
             <p>Let's say you have a couple paragraphs with some source evidence you'd like to cite using footnotes.</p>
             <sidebyside width="100%">
-                <image source="images/tech-39"/>
+                <image source="images/tech-39.png"/>
             </sidebyside>
             <p>To add a footnote, simply place your cursor at the end of the sentence containing that piece of evidence (AFTER THE PERIOD), open the <q>References</q> tab, and select <q>Insert Footnote.</q></p>
             <sidebyside width="100%">
-                <image source="images/tech-40"/>
+                <image source="images/tech-40.png"/>
             </sidebyside>
             <p>A small superscript number will appear after the period corresponding with the footnote sequence. At the same time, a line will appear at the bottom of the page with a small number beneath it corresponding to that footnote. You can then write the footnote citation according to the appearance order of the citation (for more on how to write footnotes, see <xref ref="citations"/>).</p>
             <sidebyside width="100%">
-                <image source="images/tech-41"/>
+                <image source="images/tech-41.png"/>
             </sidebyside>
             <p>Every time you add a new piece of evidence, you can add subsequent footnotes by using the <q>Insert Footnote</q> function and the citations will stack sequentially at the footer of the page. However, keep in mind that if you delete the superscript number in the text, you will also delete its corresponding footnote and change the numbering sequence of subsequent footnotes (but this is also nice because it keeps track of the order for you).</p>
             <sbsgroup>
                 <sidebyside width="100%">
-                    <image source="images/tech-42"/>
+                    <image source="images/tech-42.png"/>
                 </sidebyside>
                 <sidebyside width="100%">
-                    <image source="images/tech-43"/>
+                    <image source="images/tech-43.png"/>
                 </sidebyside>
             </sbsgroup>
             <p>Easy-peasy!</p>
