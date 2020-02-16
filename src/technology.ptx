@@ -170,9 +170,6 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
                 <sidebyside width="100%">
                     <image source="images/tech-21"/>
                 </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/tech-22"/>
-                </sidebyside>
             </sbsgroup>
             <p>If you are being reviewed, you can accept or reject tracked changes by placing your cursor over a particular change and clicking <q>Accept Change</q> or <q>Reject Change,</q> which will replace the original work with the edit or ignore the change altogether, respectively.</p>
             <sbsgroup>
