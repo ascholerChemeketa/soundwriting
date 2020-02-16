@@ -130,24 +130,21 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
             <p>Whether you are writing using <init>APA</init>, Chicago, or <init>MLA</init> citation style, you will most likely be required to include a reference list, bibliography, or works cited (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations"/> and <xref ref="zotero"/> for some very helpful tricks), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
             <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create a reference list, bibliography, or works cited page using hanging indents, begin with centering a References (or Bibliography or Works Cited, depending on what citation style you're using) title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced in <init>APA</init> and <init>MLA</init> and single-spaced with a blank line after each entry in Chicago).</p>
             <sidebyside width="100%">
-                <image source="images/tech-72"/>
+                <image source="images/tech-72.png"/>
             </sidebyside>
             <p>Next, place your cursor at the very beginning of the second line of your citation, right-click, and select the <q>Paragraph</q> option.</p>
             <sidebyside width="100%">
-                <image source="images/tech-73"/>
+                <image source="images/tech-73.png"/>
             </sidebyside>
             <p>In the <q>Indentations</q> category, change the <q>Special:</q> option to <q>Hanging.</q> When you do this, the <q>By:</q> should automatically change to 0.5" (and if it doesn't, increase it to 0.5"). Click <q>OK</q><nbsp/><ellipsis/></p>
             <sidebyside width="100%">
-                <image source="images/tech-74"/>
+                <image source="images/tech-74.png"/>
             </sidebyside>
             <p><ellipsis/><nbsp/>and your source magically scoots over half an inch, creating a hanging indent!!</p>
             <sidebyside width="100%">
-                <image source="images/tech-75"/>
+                <image source="images/tech-75.png"/>
             </sidebyside>
             <p>But what's really nice about this feature is that you only need to set a hanging indent for the first citation; all subsequent citations will automatically indent over to mirror the hanging indent of Source A.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-76"/>
-            </sidebyside>
             <p>LIFE=CHANGED.</p>
         </subsection>
         <subsection>
