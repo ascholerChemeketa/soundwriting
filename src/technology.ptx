@@ -250,18 +250,11 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
             </paragraphs>
             <paragraphs>
                 <title>Replacing</title>
-                <p>If you'd like to replace a word or phrase with another word or phrase, highlight the desired text you'd like to change, open the <q>Home</q> tab, and find the <q>Replace</q> option to the far left beneath <q>Find.</q></p>
-                <sidebyside width="100%">
-                    <image source="images/tech-48"/>
-                </sidebyside>
-                <p>When you select <q>Replace,</q> a dialogue box will appear with the original text and give you the option to write in what you would like to replace it with. You may then hit <q>Replace</q> if you'd like to replace that one instance, <q>Replace All</q> if you'd like to replace all instances in your document, or <q>Find Next</q> to go through all instances until you find the one you want to replace.</p>
+                <p>If you'd like to replace a word or phrase with another word or phrase, highlight the desired text you'd like to change, open the <q>Home</q> tab, and find the <q>Replace</q> option to the far left beneath <q>Find.</q> When you select <q>Replace,</q> a dialogue box will appear with the original text and give you the option to write in what you would like to replace it with. You may then hit <q>Replace</q> if you'd like to replace that one instance, <q>Replace All</q> if you'd like to replace all instances in your document, or <q>Find Next</q> to go through all instances until you find the one you want to replace.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-49"/>
                 </sidebyside>
                 <p>Here we replaced all <q>IMPORTANT WORD</q>s with <q>CRITICAL WORD</q>s, but keep in mind that it's often better to use a mix of important AND critical words to enhance your vocab diversity. If you use the same important word in every single sentence, your paper will get really repetitive really quickly.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-50"/>
-                </sidebyside>
             </paragraphs>
         </subsection>
     </section>
