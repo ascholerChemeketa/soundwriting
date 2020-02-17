@@ -204,17 +204,11 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
                     <image source="images/tech-34"/>
                 </sidebyside>
                 <p>Next, keeping your cursor on the header you just created, uncheck the <q>Different First Page</q> box in the <q>Design</q> tab. This will allow you to delete the term <q>Running head:</q> on subsequent pages.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-35"/>
-                </sidebyside>
                 <p>When you have written subsequent pages, the running header will automatically be added to the top of each page. However, you no longer want the term <q>Running head:</q> to preface each subsequent header. To delete this from the following pages, place your cursor on the page 2 header, re-check the <q>Different First Page</q> box in the <q>Design</q> tab, and delete the <q>Running head:</q> from the header on page 2.</p>
                 <sidebyside width="100%">
                     <image source="images/tech-36"/>
                 </sidebyside>
                 <p>This will allow you to keep the <q>Running head:</q> title on the cover page, but will delete it from subsequent pages.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-37"/>
-                </sidebyside>
             </paragraphs>
             <paragraphs>
                 <title>Chicago</title>
