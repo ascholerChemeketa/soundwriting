@@ -20,6 +20,9 @@
         <!-- right now a no-op to replace "default" style -->
         <!-- Also, we do have a UPS color option          -->
         <css style="foo" colors="maroon_grey"/>
+        <!-- Google search, via masthead textbox is switched on    -->
+        <!-- and associated with a Google account via CX number    -->
+        <search google-cx="006554281949096578650:uk_1tz_o6ey"/>
     </html>
 
 </publication>
