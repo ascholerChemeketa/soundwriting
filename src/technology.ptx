@@ -366,15 +366,12 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
             <p>When you find a source you want, download it and save it to your research folder or desktop.</p>
             <sbsgroup>
                 <sidebyside width="100%">
-                    <image source="images/tech-80"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/tech-81"/>
+                    <image source="images/tech-80.png"/>
                 </sidebyside>
             </sbsgroup>
             <p>If you have installed Adobe Acrobat Reader, your document should be automatically saved as an Adobe Acrobat <init>PDF</init> file. After it's saved, you can then open it, and it should open with Adobe Acrobat.</p>
             <sidebyside width="100%">
-                <image source="images/tech-82"/>
+                <image source="images/tech-82.png"/>
             </sidebyside>
             <p>Yay! Now you can begin exploring all of the annotation capabilities Adobe has to offer.</p>
         </paragraphs>
@@ -385,14 +382,17 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
                     <title>Commenting</title>
                     <p>You can easily comment on certain parts of the source document by selecting the small speech bubble icon on the right side of the toolbar and clicking on the part you want to comment on. A small window text box will appear wherein you may leave notes/questions to yourself about the text, observations about how to use a certain piece of information, or reminders to do more research elsewhere. You can also engage in a dialogue with yourself (or others if you are collaboratively examining a source) by replying to these comments later on.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-83"/>
+                        <image source="images/tech-83.png"/>
+                    </sidebyside>
+                    <sidebyside width="100%">
+                        <image source="images/tech-83_2.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Highlighting</title>
                     <p>You can also easily highlight sections of the text using the highlighter function, making it easier for you to go back later and identify significant pieces of information. To do this, click on the highlighter icon on the far right of the toolbar (next to the comment icon) and select the section of the text you'd like to highlight (but try not to over-highlight!). See <xref ref="note-taking-strategies"/> for tips on how to annotate effectively).</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-84"/>
+                        <image source="images/tech-84.png"/>
                     </sidebyside>
                 </li>
             </dl></p>
@@ -405,60 +405,60 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
             <title>Unlocking More Annotation Tools</title>
             <p>To unlock a host of other annotation functions, select the <q>Tools</q> tab at the top left of the screen; a screen of icons will appear. Select the <q>Comment</q> option at the top left of the screen.</p>
             <sidebyside width="100%">
-                <image source="images/tech-85"/>
+                <image source="images/tech-85.png"/>
             </sidebyside>
             <p>The source document will reappear with a new toolbar below the original. Here you'll notice the commenting and highlighting icons along with a slew of other editing features.</p>
             <sidebyside width="100%">
-                <image source="images/tech-86"/>
+                <image source="images/tech-86.png"/>
             </sidebyside>
             <p>These features include the following:<dl>
                 <li>
                     <title>Underlining</title>
                     <p>To underline a section of text, select the third icon from the left (<q>T</q> with a line underneath) and highlight the section of text you want underlined. A green line will appear beneath the section of text.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-86"/>
+                        <image source="images/tech-86_2.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Strike-Through</title>
                     <p>If you'd like to strike-through a section of text (particularly useful if you're editing one of your own pieces or if you want to identify a part of the source document with which you do not agree), select the icon fourth from the left (<q>T</q> with a strike-through) and highlight the desired section of text. A red line will strike through this section of text.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-87"/>
+                        <image source="images/tech-87.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Replacing Text</title>
                     <p>If you'd like to replace text (not so useful for annotating published source documents, but especially useful if you're editing yours or another's paper), select the fifth icon from the left (<q>T</q> with a strike-through and a speech bubble) and highlight the section of desired text. A blue line will strike through this section of the original text and a window text box will appear allowing you to write the text you want to replace it with.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-88"/>
+                        <image source="images/tech-88.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Inserting Text</title>
                     <p>If you'd like to insert text (again, more useful for documents you are actively editing than source documents you are annotating), select the sixth icon from the left (<q>T</q> with a subscript carrot) and place your cursor in the place in the text where you'd like to insert new text. A small blue box with a carrot will appear in the text, while a window text box will allow you to write the text you'd like to insert.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-89"/>
+                        <image source="images/tech-89.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Adding Text Directly</title>
                     <p>If you'd like to add text directly onto the document (useful if you want to more easily view your comments), select the seventh icon from the left (plain <q>T</q>) and highlight the area you'd like the text to go. Begin writing and your comment will appear directly onto the document.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-90"/>
+                        <image source="images/tech-90.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Adding a Text Box</title>
                     <p>Another way to add text directly onto a source document is to create a text box. To do this, select the eighth icon from the left (<q>T</q> within a box) and create the text box where you want it on the document. A red text box will appear in which you can write your comment.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-91"/>
+                        <image source="images/tech-91.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Drawing Free-form</title>
                     <p>You can also draw free-form on the document to emphasize certain sections or (if you're good at drawing using a mouse or touchpad, which I am not) even draw pictures or write comments to annotate the document. To do this, select the ninth icon from the left (pen) and begin to write/draw in red pen anywhere on the document.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-92"/>
+                        <image source="images/tech-92.png"/>
                     </sidebyside>
                     <p>(Like I said, I'm not that artistically savvy.)</p>
                 </li>
@@ -466,7 +466,7 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
                     <title>Erasing</title>
                     <p>If you'd like to erase something you've drawn, you can also do this by selecting the tenth icon from the left (eraser) and moving it over your drawing to erase it.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-93"/>
+                        <image source="images/tech-93.png"/>
                     </sidebyside>
                 </li>
                 <li>
@@ -474,15 +474,18 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
                     <p>If you're more artistically/visually inclined, you can also add pre-formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop-down menu to select which shape you'd like to draw.</p>
                     <sbsgroup>
                         <sidebyside width="100%">
-                            <image source="images/tech-94"/>
+                            <image source="images/tech-94.png"/>
                         </sidebyside>
                         <sidebyside width="100%">
-                            <image source="images/tech-95"/>
+                            <image source="images/tech-95.png"/>
                         </sidebyside>
                     </sbsgroup>
                     <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line-thickness icons at the far right of the toolbar.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-96"/>
+                        <image source="images/tech-96.png"/>
+                    </sidebyside>
+                    <sidebyside width="100%">
+                        <image source="images/tech-96_2.png"/>
                     </sidebyside>
                     <p>Go wild! (But not too wild.)</p>
                 </li>
@@ -490,24 +493,27 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
                     <title>Keeping Track of Your Comments</title>
                     <p>Adobe is also really great because it keeps track of each of your comments as you add them and provides a running list of them along the right side of the screen. If you want to jump to a certain comment, simply click on the desired comment in the list and the document will take you to that comment. You can also arrange these comments by page, author, date, type, checkmark status, and color or filter them by reviewer, type, status, and color.</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-97"/>
+                        <image source="images/tech-97.png"/>
                     </sidebyside>
                 </li>
                 <li>
                     <title>Changing the Page Viewer</title>
                     <p>There are also useful page-viewing capabilities to the left side of the screen under the <q>Page Thumbnails,</q> <q>Bookmarks,</q> and <q>Attachments</q> icons. <q>Page Thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-98"/>
+                        <image source="images/tech-98.png"/>
                     </sidebyside>
                     <p>Or you can switch to <q>Bookmarks</q> to view an outline of the source document and click to go to a certain section:</p>
                     <sidebyside width="100%">
-                        <image source="images/tech-99"/>
+                        <image source="images/tech-99.png"/>
                     </sidebyside>
                     <p>If there are attachments that were included in the source document, selecting the <q>Attachments</q> option will allow you to view them.</p>
                 </li>
                 <li>
                     <title>Searching the Document Source</title>
                     <p>Finally, you can search for key words and phrases in the document by selecting the <q>Find text</q> icon (magnifying glass) in the upper left of the original toolbar. A window will appear in which you can type in the word or phrase you'd like to find; selecting <q>previous</q> or <q>next</q> will bring you to each instance in the document where that term was used.</p>
+                    <sidebyside width="100%">
+                        <image source="images/tech-100.png"/>
+                    </sidebyside>
                 </li>
             </dl></p>
         </paragraphs>
