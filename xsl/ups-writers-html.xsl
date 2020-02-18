@@ -27,9 +27,8 @@
 
 <xsl:output method="html" />
 
-<!-- maroon_grey color scheme is UPS colors     -->
-<!-- NB: switch will change at some point later -->
-<xsl:param name="debug.colors" select="'maroon_grey'"/>
+<!-- If hosted at AIM, we can switch to setting style in publisher file -->
+<xsl:param name="html.css.extra" select="'style_soundwriting.css'"/>
 
 <xsl:param name="html.knowl.example" select="'yes'"/>
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- This file is part of the book                                      -->
+<!--                                                                    -->
+<!--                 Sound Writing                                      -->
+<!--                                                                    -->
+<!-- Copyright (C) 2017-2019 by                                         -->
+<!-- Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph      -->
+<!--                                                                    -->
+<!-- Creative Commons Attribution-ShareAlike 4.0 International License  -->
+<!--                                                                    -->
+<!-- Source:  https://github.com/UPS-CWLT/soundwriting                  -->
+<!--                                                                    -->
+
+<publication>
+
+    <!-- HTML-Specific Options -->
+    <html>
+        <!-- Eventually custom CSS (from Oscar Levin)     -->
+        <!-- right now a no-op to replace "default" style -->
+        <!-- Also, we do have a UPS color option          -->
+        <css style="foo" colors="maroon_grey"/>
+    </html>
+
+</publication>
