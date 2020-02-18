@@ -20,6 +20,7 @@ declare MBUSER=${MBX}/user
 declare MBXSCRIPT=${MBX}/script/mbx
 declare SOURCE=${SRC}/src
 declare IMAGES=${SRC}/images
+declare CSS=${SRC}/css
 declare ASSETS=${SRC}/assets
 
 # convenience for rsync command, hopefully not OS dependent
@@ -41,7 +42,7 @@ function setup {
 
     # Always place/update `ups-writers` in "user" XSL directory
     echo
-    echo "BUILD: Update Custom XML :BUILD"
+    echo "BUILD: Update Custom XSL :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${MBUSER}
     cp ${SWXSL}/ups-writers-common.xsl  ${MBUSER}/ups-writers-common.xsl
@@ -133,11 +134,12 @@ function build_html {
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
     cd ${SCRATCH}/html
-    rm *.html
+    rm *.html *.css
     rm -rf knowl/* images/*
     cp -a ${IMAGES}/*.svg ./images/
     cp -a ${IMAGES}/*.png ./images/
-    xsltproc --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
+    cp ${CSS}/style_soundwriting.css .
+    xsltproc --stringparam publisher publication.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
 }
 
 function view_html {
