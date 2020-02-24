@@ -273,7 +273,7 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
         </note>
         <paragraphs>
             <title>Step 1: Download Zotero</title>
-            <p>You can download it as an extension on Firefox, or you can download a standalone version. The Firefox extension is nice because it's easily accessible in your browser, but the standalone version can be used with browsers other than Firefox, such as Chrome and Safari. We've also heard that the standalone version is good to have in case your browser crashes. In any case, download Zotero and create a free account. You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url>.</p>
+            <p>You can download Zotero for Windows, Mac, or Linux and then choose a plugin for your prefered browser. Zotero will also integrate with Microsoft Word and Google Docs. Then create a free account. You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url>.</p>
         </paragraphs>
         <paragraphs>
             <title>Step 2: Do some research!</title>
@@ -281,74 +281,56 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
         </paragraphs>
         <paragraphs>
             <title>Step 3: Tell Zotero which sources you want it to save</title>
-            <p>This step looks slightly different depending on whether you're using the Firefox plug-in or the standalone version.</p>
-            <p>For the Firefox version:</p>
+            <p>This will look a little different depending on what browser you're using; here's an example:</p>
             <sidebyside width="100%">
-                <image source="images/C-ZoteroZ"/>
+                <image source="images/Zotero_01_edited.png"/>
             </sidebyside>
-            <note>
-                <p>You can also skip this step if you don't want to open the Zotero plug-in. The program will still save articles with the next two steps, even if you can't see your library.</p>
-            </note>
+            <p>The sources will then appear in your Zotero library! You can put them in folders to stay organized.</p>
             <sidebyside width="100%">
-                <image source="images/C-ZoteroPaper"/>
+                <image source="images/Zotero_02_edited.png"/>
             </sidebyside>
-            <p>If you're looking at a different kind of source, such as an online book or a newspaper article, the icon will look different but will do the same thing.</p>
+            </paragraphs>
+            <paragraphs>
+            <title>Step 4: Cite some sources</title>
+            <p>Go into your word processor of choice and start writing! You should notice a new tab along the top ribbon titled <quote>Zotero</quote>. When it comes time to cite your source, click on the <quote>Zotero</quote> tab and select <q>Add/Edit Citation</q>.</p>
             <sidebyside width="100%">
-                <image source="images/C-ZoteroFirefox"/>
+                <image source="images/Zotero_03_edited.png"/>
             </sidebyside>
-            <p>For the standalone version:</p>
-            <p>Download the <init>PDF</init> and<nbsp/><ellipsis/></p>
+            <p>You'll have to select what style of citation you want:</p>
+            <sidebyside width="100%">
+                <image source="images/Zotero_04_unedited.png"/>
+            </sidebyside>
+            <p>And then search for the source you want to cite!</p>
             <sbsgroup>
-                <sidebyside width="100%">
-                    <image source="images/C-zoterofile"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroSmiley"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroMetadata"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroDidNotWork"/>
-                </sidebyside>
-            </sbsgroup>
-            <p>If Zotero can't find the right information, then you have a couple of options:</p>
-            <sidebyside width="50%">
-                <image source="images/C-ZoteroOptions"/>
+            <sidebyside width="100%">
+                <image source="images/Zotero_05_unedited.png"/>
             </sidebyside>
-            <p>We found another version of the article and gave it another shot.</p>
-            <sbsgroup>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroRepeatProcess"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/C-ZoteroItWorked"/>
-                </sidebyside>
+            <sidebyside width="100%">
+                <image source="images/Zotero_06_unedited.png"/>
+            </sidebyside>
+            <sidebyside width="100%">
+                <image source="images/Zotero_07_unedited.png"/>
+            </sidebyside>
             </sbsgroup>
-        </paragraphs>
-        <paragraphs>
-            <title>Step 4: Make your bibliography</title>
+            <p>There it is! A citation!</p>
+            <sidebyside width="100%">
+                <image source="images/Zotero_09_unedited.png"/>
+            </sidebyside>
+            <p>You can keep writing and citing as you go.</p>
+            </paragraphs>
+            <paragraphs>
+            <title>Step 5: Make your bibliography</title>
             <p>Once you have all necessary sources saved in Zotero, you can ask it (nicely) to make your bibliography. Get ready to be amazed.</p>
-            <p>First, open the collection that you want to get sources from. You can highlight the sources you want citations for, or you can choose the whole collection. You can also use the Firefox plug-in or the standalone version. Either way, you'll follow these steps.</p>
-            <sbsgroup>
-                <sidebyside width="80%">
-                    <image source="images/C-CreateBib"/>
-                </sidebyside>
-                <!-- <sidebyside width="100%"> -->
-                    <!-- <image source="images/C-ZoteroChooseBib"/> -->
-                <!-- </sidebyside> -->
-                <sidebyside width="80%">
-                    <image source="images/C-PasteBib"/>
-                </sidebyside>
-                <sidebyside width="80%">
-                    <image source="images/C-ZoteroWow"/>
-                </sidebyside>
-                <sidebyside width="80%">
-                    <image source="images/C-DoNotSkip"/>
-                </sidebyside>
-            </sbsgroup>
-            <p>Zotero isn't just about citations, either! You can use it as a <q>knowledge-management tool</q> to manage all of that knowledge you're collecting.</p>
-        </paragraphs>
+            <p>In your document, go back to that <q>Zotero</q> tab and click <q>Add/Edit Bibliography</q>. This will generate a bibliography in your chosen style with all the sources you've sighted in your paper.</p>
+            <sidebyside width="100%">
+                <image source="images/Zotero_10_edited.png"/>
+            </sidebyside>
+            <p>And there it is, just like that!</p>
+            <sidebyside width="100%">
+                <image source="images/Zotero_11_unedited.png"/>
+            </sidebyside>
+            <p>Magic! Still, Zotero can get things wrong, so always check over the bibliography. If anything is missing you can edit the metadata stored in Zotero.</p>
+    </paragraphs>
     </section>
     <section xml:id="adobe-acrobat-reader">
         <title>Adobe Acrobat Reader</title>
