@@ -314,9 +314,12 @@ Center for Writing, Learning, and Teaching (<init>CWLT</init>)</url> for some he
             </sbsgroup>
             <p>There it is! A citation!</p>
             <sidebyside width="100%">
-                <image source="images/Zotero_09_unedited.png"/>
+                <image source="images/Zotero_08_unedited.png"/>
             </sidebyside>
             <p>You can keep writing and citing as you go.</p>
+            <sidebyside width="100%">
+                <image source="images/Zotero_09_unedited.png"/>
+            </sidebyside>
             </paragraphs>
             <paragraphs>
             <title>Step 5: Make your bibliography</title>
