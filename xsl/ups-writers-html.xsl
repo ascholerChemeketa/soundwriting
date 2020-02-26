@@ -27,9 +27,6 @@
 
 <xsl:output method="html" />
 
-<!-- If hosted at AIM, we can switch to setting style in publisher file -->
-<xsl:param name="html.css.extra" select="'style_soundwriting.css'"/>
-
 <xsl:param name="html.knowl.example" select="'yes'"/>
 
 <xsl:param name="chunk.level" select="'3'" />

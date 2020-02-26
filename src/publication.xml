@@ -16,10 +16,9 @@
 
     <!-- HTML-Specific Options -->
     <html>
-        <!-- Eventually custom CSS (from Oscar Levin)     -->
-        <!-- right now a no-op to replace "default" style -->
-        <!-- Also, we do have a UPS color option          -->
-        <css style="foo" colors="maroon_grey"/>
+        <!-- Custom CSS (developed by Oscar Levin, David Farmer)   -->
+        <!-- Also, a UPS color option (David Farmer)               -->
+        <css style="soundwriting" colors="maroon_grey"/>
         <!-- Google search, via masthead textbox is switched on    -->
         <!-- and associated with a Google account via CX number    -->
         <search google-cx="006554281949096578650:uk_1tz_o6ey"/>
