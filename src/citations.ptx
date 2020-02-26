@@ -163,7 +163,7 @@
                         <p>
                             Knowing the publisher location is<nbsp/><ellipsis/>
                             <ul>
-                                <li>a way to indicate which printing of a source you have, since versions sometimes vary by location.</li>
+                                <li>a way to indicate which printing of a source you have, since versions sometimes vary by location. Due to the prevalence of online sources today, it is no longer required in MLA or APA.</li>
                             </ul>
                         </p>
                     </li>
@@ -314,8 +314,8 @@
             </introduction>
             <subsubsection xml:id="book-on-author-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p indent="hanging"><red>McCarthy, C.</red> <lightgreen>(2006).</lightgreen> <lightblue><pubtitle>The road.</pubtitle></lightblue> <maroon>New York:</maroon> <lightpurple>Alfred A. Knopf.</lightpurple></p>
+                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work. </pubtitle></lightblue><lightpurple>Publisher.</lightpurple></p>
+                <p indent="hanging"><red>McCarthy, C.</red> <lightgreen>(2006).</lightgreen> <lightblue><pubtitle>The road. </pubtitle></lightblue><lightpurple>Alfred A. Knopf.</lightpurple></p>
                 <p>In-text: (McCarthy, 2006)</p>
             </subsubsection>
             <subsubsection xml:id="book-on-author-chicago">
@@ -336,20 +336,21 @@
                 <p><lightpurple>***For university presses, abbreviate University Press with UP.</lightpurple></p>
                 <p indent="hanging"><red>McCarthy, Cormac.</red> <lightblue><pubtitle>The Road.</pubtitle></lightblue> <maroon>New York,</maroon> <lightpurple>Alfred A. Knopf,</lightpurple> <lightgreen>2006.</lightgreen></p>
                 <p>In-text: (McCarthy 5)</p>
-            </subsubsection>
+        </subsubsection>
         </subsection>
         <subsection xml:id="book-with-multiple-authors">
             <title>Citing a Book With Multiple Authors</title>
-            <introduction>
                 <sidebyside width="50%">
                     <image source="images/Citations-BookMultipleAuthors"/>
                 </sidebyside>
-            </introduction>
             <subsubsection xml:id="book-multiple-authors-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author 1 Last Name, Initials, &amp; Author 2 Last Name, First initial.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p indent="hanging"><red>Bowler, P. J., &amp; Morus, I. R.</red> <lightgreen>(2005).</lightgreen> <lightblue>Making modern science: A historical survey.</lightblue> <maroon>Chicago:</maroon> <lightpurple>University of Chicago Press.</lightpurple></p>
+                <p>Two authors</p>
+                <p indent="hanging"><red>Author 1 Last Name, Initials, &amp; Author 2 Last Name, First initial.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <lightpurple>Publisher.</lightpurple></p>
+                <p indent="hanging"><red>Bowler, P. J., &amp; Morus, I. R.</red> <lightgreen>(2005).</lightgreen> <lightblue><pubtitle>Making modern science: A historical survey.</pubtitle></lightblue> <lightpurple>University of Chicago Press.</lightpurple></p>
                 <p>In-text: (Bowler &amp; Morus, 2005)</p>
+                <p>Three or more authors:</p>
+                <p>In-text: (Bowler et al., 2005)</p>
             </subsubsection>
             <subsubsection xml:id="book-multiple-authors-chicago">
                 <title>Chicago</title>
@@ -387,8 +388,8 @@
             </introduction>
             <subsubsection xml:id="other-edition-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work</pubtitle></lightblue> <lightpink>(edition number ed.).</lightpink> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p indent="hanging"><red>Tannsjo, T.</red> <lightgreen>(2008).</lightgreen> <lightblue><pubtitle>Understanding ethics: An introduction to moral theory</pubtitle></lightblue> <lightpink>(2nd ed.).</lightpink> <maroon>Edinburgh:</maroon> <lightpurple>University of Edinburgh Press.</lightpurple></p>
+                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work</pubtitle></lightblue> <lightpink>(edition number ed.).</lightpink> <lightpurple>Publisher.</lightpurple></p>
+                <p indent="hanging"><red>Tannsjo, T.</red> <lightgreen>(2008).</lightgreen> <lightblue><pubtitle>Understanding ethics: An introduction to moral theory</pubtitle></lightblue> <lightpink>(2nd ed.).</lightpink> <lightpurple>University of Edinburgh Press.</lightpurple></p>
                 <p>In-text: (Tannsjo, 2008)</p>
             </subsubsection>
             <subsubsection xml:id="other-edition-chicago">
@@ -419,8 +420,8 @@
             </introduction>
             <subsubsection xml:id="chapter-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author Last Name, Initials</red>. (<lightgreen>Year of publication</lightgreen>). <lightblue>Title of chapter</lightblue>. In Editors' first Initials Last Names (Eds.), <pink><pubtitle>Title of anthology</pubtitle></pink> (pp. <blue>Page range</blue>). <maroon>City of publication, State</maroon>: <lightpurple>Publisher</lightpurple>.</p>
-                <p indent="hanging"><red>Christoph, J. N.</red> (<lightgreen>2014</lightgreen>). <lightblue>Sponsoring education for all: Revisiting the sacred/secular divide in twenty-first-century Zanzibar.</lightblue> In J. Duffy, J. N. Christoph, E. Goldblatt, N. Graff, R. Nowacek, &amp; B. Trabold (Eds.), <pink><pubtitle>Literacy, economy, and power: Writing and research after</pubtitle> Literacy in American Lives</pink> (pp. <blue>79<ndash/>96</blue>). <maroon>Carbondale, IL:</maroon> <lightpurple>Southern Illinois University Press.</lightpurple></p>
+                <p indent="hanging"><red>Author Last Name, Initials</red>. (<lightgreen>Year of publication</lightgreen>). <lightblue>Title of chapter</lightblue>. In Editors' first Initials Last Names (Eds.), <pink><pubtitle>Title of anthology</pubtitle></pink> (pp. <blue>Page range</blue>). <lightpurple>Publisher</lightpurple>.</p>
+                <p indent="hanging"><red>Christoph, J. N.</red> (<lightgreen>2014</lightgreen>). <lightblue>Sponsoring education for all: Revisiting the sacred/secular divide in twenty-first-century Zanzibar.</lightblue> In J. Duffy, J. N. Christoph, E. Goldblatt, N. Graff, R. Nowacek, &amp; B. Trabold (Eds.), <pink><pubtitle>Literacy, economy, and power: Writing and research after</pubtitle> Literacy in American Lives</pink> (pp. <blue>79<ndash/>96</blue>).<lightpurple> Southern Illinois University Press.</lightpurple></p>
                 <p>In-text: (Christoph, 2014)</p>
             </subsubsection>
             <subsubsection xml:id="chapter-chicago">
@@ -509,7 +510,7 @@
             <subsubsection xml:id="online-journal-apa">
                 <title>APA</title>
                 <p>Note: APA does not require that you include database information in citations because databases change over time. If you are using an article from a database that you need to cite using APA, here’s what to do:</p>
-                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Date of publication).</lightgreen> <lightblue>Title of article.</lightblue> <pink><pubtitle>Periodical Title,</pubtitle></pink> <darkred><pubtitle>Volume,</pubtitle> no. issue,</darkred> <blue>Page range.</blue> <orange>Retrieved from doi</orange> OR <orange>URL</orange> <lightpurple>(accessed access date)</lightpurple></p>
+                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Date of publication).</lightgreen> <lightblue>Title of article.</lightblue> <pink><pubtitle>Periodical Title,</pubtitle></pink> <darkred><pubtitle>Volume,</pubtitle> no. issue,</darkred> <blue>Page range.</blue> <orange>doi</orange> OR <orange>URL</orange> <lightpurple>(accessed access date)</lightpurple></p>
                 <p indent="hanging"><red>Mann, S. A.</red> <lightgreen>(2016).</lightgreen> <lightblue>Pioneers of U.S. ecofeminism and environmental justice.</lightblue> <pink><pubtitle>Feminist Formations,</pubtitle></pink> <darkred>23,1,</darkred> <blue>198<ndash/>228.</blue> <orange>doi 1353/ff.2011.0028</orange></p>
                 <p>In-text: (Mann 2011, p. 10)</p>
             </subsubsection>
@@ -535,7 +536,20 @@
             </introduction>
             <subsubsection xml:id="website-apa">
                 <title>APA</title>
-                <p>APA does not provide a formal citation for citing websites.</p>
+                <paragraphs>
+                    <title>Website with Human Author</title>
+                    <p></p>
+                    <p indent="hanging"><red>Author last name, first and middle initials. </red> <navy>(Year, month date)</navy><darkgreen><pubtitle>Title of page or section</pubtitle></darkgreen>. <grey>Source or overall website</grey>. <orange>URL</orange></p>
+                    <p indent="hanging"><red>Martin, Mark.</red><navy>(n.d.). </navy><darkgreen><pubtitle>Martin's Microbial Menagerie</pubtitle></darkgreen>.<gray>University of Puget Sound</gray>. <url href="http://webspace.pugetsound.edu/facultypages/momartin/index.htm"/></p>
+                    <p>In-text: (Martin)</p>
+                </paragraphs>
+                <paragraphs>
+                    <title>Website with Organization Author</title>
+                    <p></p>
+                    <p indent="hanging"><red>Organization. </red><navy>(Year, month date). </navy><darkgreen><pubtitle>Title of page or section. </pubtitle></darkgreen> <grey>Source or overall website (only if different from organization). </grey><orange>URL</orange>.</p>
+                    <p indent="hanging"><red>University of Puget Sound. </red><navy>(2018, July 3). </navy><darkgreen><pubtitle>About Puget Sound</pubtitle></darkgreen>. <orange><url href="https://www.pugetsound.edu/about/"/></orange></p>
+                    <p>In text: (University of Puget Sound, 2018)</p>
+                </paragraphs>
             </subsubsection>
             <subsubsection xml:id="website-chicago">
                 <title>Chicago</title>
@@ -576,8 +590,8 @@
             </introduction>
             <subsubsection xml:id="work-website-apa">
                <title>APA</title>
-                <p indent="hanging"><red>Author last name, initials.</red> <lightblue>Title of Work.</lightblue> <lightgreen>(Publication Year, Month Day).</lightgreen> <darkgreen><pubtitle>Title of Website.</pubtitle></darkgreen> Retrieved from <orange>url.</orange></p>
-                <p indent="hanging"><red>Ausubel, R.</red> <lightblue>Poppyseed.</lightblue> <lightgreen>(2013, May 11).</lightgreen> <darkgreen><pubtitle>Salon.</pubtitle></darkgreen> Retrieved from <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/" link="no"/>.</orange></p>
+                <p indent="hanging"><red>Author last name, initials.</red> <lightblue>Title of Work.</lightblue> <lightgreen>(Publication Year, Month Day).</lightgreen> <darkgreen><pubtitle>Title of Website.</pubtitle></darkgreen> <orange>URL.</orange></p>
+                <p indent="hanging"><red>Ausubel, R.</red> <lightblue>Poppyseed.</lightblue> <lightgreen>(2013, May 11).</lightgreen> <darkgreen><pubtitle>Salon.</pubtitle></darkgreen> <orange><url href="http://www.salon.com/2013/05/11/fiction_poppyseed_by_ramona_ausubel/" link="no" /></orange></p>
                 <p>In-text: (Ausubel, 2013)</p>
             </subsubsection>
             <subsubsection xml:id="work-website-chicago">
@@ -607,8 +621,8 @@
             </introduction>
             <subsubsection xml:id="online-newspaper-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Publication year, month day).</lightgreen> <lightblue>Title of article.</lightblue> <lightpurple><pubtitle>Name of Newspaper.</pubtitle></lightpurple> Retrieved from <orange>http://www.newspaper-website.com.</orange></p>
-                <p indent="hanging"><red>Wells, P.</red> <lightgreen>(2016, July 26).</lightgreen> <lightblue>Pasquale Jones brings a little novelty to Little Italy.</lightblue> <lightpurple><pubtitle>The New York Times.</pubtitle></lightpurple> Retrieved from <orange> <url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining" link="no"/>.</orange></p>
+                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Publication year, month day).</lightgreen> <lightblue>Title of article.</lightblue> <lightpurple><pubtitle>Name of Newspaper.</pubtitle></lightpurple> <orange>http://www.newspaper-website.com.</orange></p>
+                <p indent="hanging"><red>Wells, P.</red> <lightgreen>(2016, July 26).</lightgreen> <lightblue>Pasquale Jones brings a little novelty to Little Italy.</lightblue> <lightpurple><pubtitle>The New York Times.</pubtitle></lightpurple> <orange> <url href="http://www.nytimes.com/2016/07/27/dining/pasquale-jones-review-little-italy.html?ref=dining" link="no"/> </orange></p>
                 <p>In-text: (Wells, 2016)</p>
             </subsubsection>
             <subsubsection xml:id="online-newspaper-chicago">
@@ -637,8 +651,8 @@
             </introduction>
             <subsubsection xml:id="encycolopedia-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author 1 Last Name, Initials., &amp; Author 2 Last Name, Initials.</red> <lightgreen>(Publication year).</lightgreen> <lightblue>Title of entry.</lightblue> <green>In Editor Initials Editor Last Name (Ed.), <pubtitle>Encyclopedia Name.</pubtitle></green> (Vol. <darkred>volume number,</darkred> <blue>page range).</blue> <maroon>City of Publication:</maroon> <lightpurple>Publisher.</lightpurple></p>
-                <p indent="hanging"><red>Hashimoto, Y., &amp; Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein-coupled receptor.</lightblue> <green>In L.R. Squire (Ed.), <pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <darkred>(Vol. 2, </darkred> <blue> pp. 1655<ndash/>1659).</blue> <maroon>Berlin:</maroon> <lightpurple>Springer.</lightpurple></p>
+                <p indent="hanging"><red>Author 1 Last Name, Initials., &amp; Author 2 Last Name, Initials.</red> <lightgreen>(Publication year).</lightgreen> <lightblue>Title of entry.</lightblue> <green>In Editor Initials Editor Last Name (Ed.), <pubtitle>Encyclopedia Name.</pubtitle></green> (Vol. <darkred>volume number,</darkred> <blue>(page range).</blue> <lightpurple>Publisher.</lightpurple></p>
+                <p indent="hanging"><red>Hashimoto, Y., &amp; Haga, T.</red> <lightgreen>(2009).</lightgreen> <lightblue>G protein-coupled receptor.</lightblue> <green>In L.R. Squire (Ed.), <pubtitle>Encyclopedia of Neuroscience.</pubtitle></green> <darkred>(Vol. 2, </darkred> <blue> pp. 1655<ndash/>1659).</blue> <lightpurple>Springer.</lightpurple></p>
                 <p>In-text: (Hashimoto &amp; Haga, 2009)</p>
             </subsubsection>
             <subsubsection xml:id="encycolopedia-chicago">
@@ -830,8 +844,8 @@
             </introduction>
             <subsubsection xml:id="gov-doc-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Organization or Author Last Name, Initials.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue><pubtitle>Title of document.</pubtitle></lightblue> Retrieved from <darkgreen>website name:</darkgreen> <orange><url href="http://www.website-url.com"/>.</orange></p>
-                <p indent="hanging"><red>Environmental Protection Agency.</red> <lightgreen>(2014).</lightgreen> <lightblue><pubtitle>Climate change indicators in the United States.</pubtitle></lightblue> Retrieved from <darkgreen>Environmental Protection Agency website:</darkgreen> <orange>https://www3.epa.gov/climatechange/science/indicators/download.html.</orange></p>
+                <p indent="hanging"><red>Organization or Author Last Name, Initials.</red> <lightgreen>(Year of publication).</lightgreen> <lightblue><pubtitle>Title of document.</pubtitle></lightblue> Retrieved from <darkgreen>website name:</darkgreen> <orange><url href="http://www.website-url.com" link="no"/>.</orange></p>
+                <p indent="hanging"><red>Environmental Protection Agency.</red> <lightgreen>(2014).</lightgreen> <lightblue><pubtitle>Climate change indicators in the United States.</pubtitle></lightblue> Retrieved from <darkgreen>Environmental Protection Agency website:</darkgreen> <orange><url href="https://www3.epa.gov/climatechange/science/indicators/download.html" link="no"/></orange></p>
             </subsubsection>
             <subsubsection xml:id="gov-doc-chicago">
                 <title>Chicago</title>
@@ -859,8 +873,8 @@
             </introduction>
             <subsubsection xml:id="graphic-novel-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author 1 Last Name, Initials, &amp; Author 2 Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <maroon>City, State/Country:</maroon> <purple>Publisher.</purple></p>
-                <p indent="hanging"><red>Moore, A., &amp; Gibbons, D.,</red> <lightgreen>(1986).</lightgreen> <lightblue><pubtitle>Watchmen, No. 1.</pubtitle></lightblue> <maroon>New York, NY:</maroon> <purple>DC Comics.</purple></p>
+                <p indent="hanging"><red>Author 1 Last Name, Initials, &amp; Author 2 Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work.</pubtitle></lightblue> <purple>Publisher.</purple></p>
+                <p indent="hanging"><red>Moore, A., &amp; Gibbons, D.,</red> <lightgreen>(1986).</lightgreen> <lightblue><pubtitle>Watchmen, No. 1.</pubtitle></lightblue> <purple>DC Comics.</purple></p>
                 <p>In-text: (Moore &amp; Gibbons, 1986, p. 1)</p>
             </subsubsection>
             <subsubsection xml:id="graphic-novel-chicago">
@@ -891,8 +905,8 @@
             </introduction>
             <subsubsection xml:id="translation-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author Last Name, Initials.</red> (<lightgreen>Date</lightgreen>). <lightblue><pubtitle>Title of work.</pubtitle></lightblue> (Translator Initials Last Name, Trans.). <maroon>City of publication:</maroon> <purple>Publisher.</purple> (Original work published <lightgreen>Year of original work publication</lightgreen>).</p>
-                <p indent="hanging"><red>Shikibu, M.</red> (<lightgreen>2001</lightgreen>). <lightblue><pubtitle>The tale of Genji.</pubtitle></lightblue> (R. Tyler, Trans.). <maroon>New York, NY:</maroon> <purple>Penguin Books.</purple> (Original work published <lightgreen>circa 1021</lightgreen>).</p>
+                <p indent="hanging"><red>Author Last Name, Initials.</red> (<lightgreen>Date</lightgreen>). <lightblue><pubtitle>Title of work.</pubtitle></lightblue> (Translator Initials Last Name, Trans.). <purple>Publisher.</purple> (Original work published <lightgreen>Year of original work publication</lightgreen>).</p>
+                <p indent="hanging"><red>Shikibu, M.</red> (<lightgreen>2001</lightgreen>). <lightblue><pubtitle>The tale of Genji.</pubtitle></lightblue> (R. Tyler, Trans.). <purple>Penguin Books.</purple> (Original work published <lightgreen>circa 1021</lightgreen>).</p>
                 <p>In-text: (Shikibu, 2001)</p>
             </subsubsection>
             <subsubsection xml:id="translation-chicago">
