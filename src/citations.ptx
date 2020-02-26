@@ -314,8 +314,8 @@
             </introduction>
             <subsubsection xml:id="book-on-author-apa">
                 <title>APA</title>
-                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year).</lightgreen> <lightblue><pubtitle>Title of work. </pubtitle></lightblue><lightpurple>Publisher.</lightpurple></p>
-                <p indent="hanging"><red>McCarthy, C.</red> <lightgreen>(2006).</lightgreen> <lightblue><pubtitle>The road. </pubtitle></lightblue><lightpurple>Alfred A. Knopf.</lightpurple></p>
+                <p indent="hanging"><red>Author Last Name, Initials.</red> <lightgreen>(Year).</lightgreen><lightblue><pubtitle>Title of work. </pubtitle></lightblue><lightpurple> Publisher.</lightpurple></p>
+                <p indent="hanging"><red>McCarthy, C.</red> <lightgreen>(2006).</lightgreen> <lightblue><pubtitle>The road.</pubtitle></lightblue><lightpurple> Alfred A. Knopf.</lightpurple></p>
                 <p>In-text: (McCarthy, 2006)</p>
             </subsubsection>
             <subsubsection xml:id="book-on-author-chicago">
@@ -340,9 +340,11 @@
         </subsection>
         <subsection xml:id="book-with-multiple-authors">
             <title>Citing a Book With Multiple Authors</title>
+                <introduction>
                 <sidebyside width="50%">
                     <image source="images/Citations-BookMultipleAuthors"/>
                 </sidebyside>
+                </introduction>
             <subsubsection xml:id="book-multiple-authors-apa">
                 <title>APA</title>
                 <p>Two authors</p>
@@ -539,15 +541,15 @@
                 <paragraphs>
                     <title>Website with Human Author</title>
                     <p></p>
-                    <p indent="hanging"><red>Author last name, first and middle initials. </red> <navy>(Year, month date)</navy><darkgreen><pubtitle>Title of page or section</pubtitle></darkgreen>. <grey>Source or overall website</grey>. <orange>URL</orange></p>
-                    <p indent="hanging"><red>Martin, Mark.</red><navy>(n.d.). </navy><darkgreen><pubtitle>Martin's Microbial Menagerie</pubtitle></darkgreen>.<gray>University of Puget Sound</gray>. <url href="http://webspace.pugetsound.edu/facultypages/momartin/index.htm"/></p>
+                    <p indent="hanging"><red>Author last name, first and middle initials. </red> <navy>(Year, month date).</navy><darkgreen><pubtitle> Title of page or section</pubtitle></darkgreen>. <gray>Source or overall website</gray>. <orange>URL</orange></p>
+                    <p indent="hanging"><red>Martin, Mark.</red><navy> (n.d.).</navy><darkgreen><pubtitle> Martin's Microbial Menagerie</pubtitle></darkgreen>.<gray> University of Puget Sound</gray>. <url href="http://webspace.pugetsound.edu/facultypages/momartin/index.htm"/></p>
                     <p>In-text: (Martin)</p>
                 </paragraphs>
                 <paragraphs>
                     <title>Website with Organization Author</title>
                     <p></p>
-                    <p indent="hanging"><red>Organization. </red><navy>(Year, month date). </navy><darkgreen><pubtitle>Title of page or section. </pubtitle></darkgreen> <grey>Source or overall website (only if different from organization). </grey><orange>URL</orange>.</p>
-                    <p indent="hanging"><red>University of Puget Sound. </red><navy>(2018, July 3). </navy><darkgreen><pubtitle>About Puget Sound</pubtitle></darkgreen>. <orange><url href="https://www.pugetsound.edu/about/"/></orange></p>
+                    <p indent="hanging"><red>Organization.</red><navy> (Year, month date).</navy><darkgreen><pubtitle> Title of page or section. </pubtitle></darkgreen> <grey>Source or overall website (only if different from organization).</grey><orange> URL</orange>.</p>
+                    <p indent="hanging"><red>University of Puget Sound. </red><navy> (2018, July 3).</navy><darkgreen><pubtitle> About Puget Sound</pubtitle></darkgreen>. <orange><url href="https://www.pugetsound.edu/about/"/></orange></p>
                     <p>In text: (University of Puget Sound, 2018)</p>
                 </paragraphs>
             </subsubsection>
