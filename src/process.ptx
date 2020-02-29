@@ -409,44 +409,42 @@
             <paragraphs xml:id="par-process-signposts">
                 <title>The Signposts</title>
                 <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
-                <sidebyside width="50%">
-                    <image source="images/WP-TransitionSignpost"/>
+                <image source="images/WP-TransitionSignpost" width="50%"/>
+                <sidebyside>
+                    <tabular>
+                        <col width="30%"/>
+                        <col width="70%"/>
+                        <row bottom="major">
+                            <cell><p>WHEN/HOW TO USE IT</p></cell>
+                            <cell><p>TRANSITIONAL EXPRESSION</p></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell><p>To add to a previous idea or to introduce a new idea</p></cell>
+                            <cell><p>In addition, additionally, furthermore, similarly, along the same lines, in the same way, comparatively, along with, as previously mentioned, also, likewise, moreover</p></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell><p>To elaborate</p></cell>
+                            <cell><p>For example, for instance, specifically, in particular, to elucidate/elaborate</p></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell><p>To contradict a previous idea/show discrepancy</p></cell>
+                            <cell><p>However, even though, although, while, even with, in spite of, despite, in contrast, on the other hand, but, contradictorily, nevertheless, nonetheless, meanwhile</p></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell><p>To show cause and effect</p></cell>
+                            <cell><p>Therefore, thus, hence, correspondingly, consequently, accordingly, in light of, because, it follows that, for this reason</p></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell><p>To conclude a thought</p></cell>
+                            <cell><p>All in all, overall, to conclude, in conclusion</p></cell>
+                        </row>
+                        <row>
+                            <cell><p>To show sequence</p></cell>
+                            <cell><p>First, before, in order to, initially, originally, to begin, precedingly, next, then, during, currently, concurrently, at the same time, simultaneously, meanwhile, after, finally</p></cell>
+                        </row>
+                    </tabular>
                 </sidebyside>
             </paragraphs>
-            <sidebyside>
-                <tabular>
-                    <col width="30%"/>
-                    <col width="70%"/>
-                    <row bottom="major">
-                        <cell><p>WHEN/HOW TO USE IT</p></cell>
-                        <cell><p>TRANSITIONAL EXPRESSION</p></cell>
-                    </row>
-                    <row bottom="minor">
-                        <cell><p>To add to a previous idea or to introduce a new idea</p></cell>
-                        <cell><p>In addition, additionally, furthermore, similarly, along the same lines, in the same way, comparatively, along with, as previously mentioned, also, likewise, moreover</p></cell>
-                    </row>
-                    <row bottom="minor">
-                        <cell><p>To elaborate</p></cell>
-                        <cell><p>For example, for instance, specifically, in particular, to elucidate/elaborate</p></cell>
-                    </row>
-                    <row bottom="minor">
-                        <cell><p>To contradict a previous idea/show discrepancy</p></cell>
-                        <cell><p>However, even though, although, while, even with, in spite of, despite, in contrast, on the other hand, but, contradictorily, nevertheless, nonetheless, meanwhile</p></cell>
-                    </row>
-                    <row bottom="minor">
-                        <cell><p>To show cause and effect</p></cell>
-                        <cell><p>Therefore, thus, hence, correspondingly, consequently, accordingly, in light of, because, it follows that, for this reason</p></cell>
-                    </row>
-                    <row bottom="minor">
-                        <cell><p>To conclude a thought</p></cell>
-                        <cell><p>All in all, overall, to conclude, in conclusion</p></cell>
-                    </row>
-                    <row>
-                        <cell><p>To show sequence</p></cell>
-                        <cell><p>First, before, in order to, initially, originally, to begin, precedingly, next, then, during, currently, concurrently, at the same time, simultaneously, meanwhile, after, finally</p></cell>
-                    </row>
-                </tabular>
-            </sidebyside>
         </subsection>
         <subsection xml:id="topic-sentences-body">
             <title>Writing Body Paragraphs</title>
