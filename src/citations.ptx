@@ -235,39 +235,31 @@
                     <p>The citations in this list are <init>MLA</init> format, but the general principles apply in parenthetic formats such as <init>APA</init> and Chicago Author Date format (the Chicago formatting style that doesn’t use footnotes).</p>
                 </introduction>
                 <ol>
-                    <li>
-                        <p><em>If you're quoting an author and don't reference the author in your sentence, include both pieces of information in your in-text citation.</em></p>
+                    <li><title>If you're quoting an author and don't reference the author in your sentence, include both pieces of information in your in-text citation</title>
                         <blockquote><p>The narrator describes how <q><ellipsis />the great city of Yershalayim had vanished as though it had never been</q> (Bulgakov 312).</p></blockquote>
                     </li>
-                    <li>
-                        <p><em>If there are multiple references to the same source and it is clear from the context what the source is, omit the author’s name after the first parenthetical reference.</em></p>
+                    <li><title>If there are multiple references to the same source and it is clear from the context what the source is, omit the author’s name after the first parenthetical reference</title>
                         <blockquote><p>The narrator describes how <q><ellipsis />the great city of Yershalayim had vanished as though it had never been</q> (Bulgakov 312) and, likewise, how <q>the city itself [Moscow] had long ago disappeared,</q> metaphorically connecting the two cities (382).</p></blockquote>
                     </li>
-                    <li>
-                        <p><em>If there are two authors, include both of their names in the citation.</em></p>
+                    <li><title>If there are two authors, include both of their names in the citation</title>
                         <blockquote><p>Realism began as a style of writing that allowed an emerging middle class to identify the events of their daily lives with those that they read about (Knight and Woodman 1).</p></blockquote>
                     </li>
-                    <li>
-                        <p><em>If you reference the author in your sentence, don't repeat the author's name in your citation.</em></p>
+                    <li><title>If you reference the author in your sentence, don't repeat the author's name in your citation</title>
                         <blockquote><p>In <pubtitle>Anna Karenina</pubtitle>, Tolstoy empathizes so consummately with all his characters (even the non-human ones) that large sections of part 6, chapter 9 are told from the perspective of Levin's dog, Laska (1266).</p></blockquote>
                     </li>
-                    <li>
-                        <p><em>Spell and capitalize the author's name as they prefer.</em></p>
+                    <li><title>Spell and capitalize the author's name as they prefer</title>
                         <p>With last names that include prefixes, do a Google search if you're not sure what part of the author's name is their last name. Some authors choose not to capitalize their names, and it's important to respect that choice.</p>
                         <blockquote><p>Foreshadowing death, <pubtitle>Blood Wedding</pubtitle>'s Beggarwoman in states, <q>They’ll not leave here. The sound of the river / will drown in the sound of the trees / the broken flight of their cries. / It must be here, and soon. I am weary</q> (García Lorca 3.1.92<ndash/>95).</p></blockquote>
                         <blockquote><p>In <pubtitle>Black Looks: Race and Representation</pubtitle>, bell hooks advocates for a form of epistemological agency<mdash />what she terms an <q>oppositional gaze</q><mdash />that can <q>look back</q> at the gaze of traditional power (131).</p></blockquote>
                     </li>
-                    <li>
-                        <p><em>Sometimes you may not know the author’s name, and in that case, make sure first word in the citation is the first word that appears in the Works Cited entry.</em></p>
+                    <li><title>Sometimes you may not know the author’s name, and in that case, make sure first word in the citation is the first word that appears in the Works Cited entry</title>
                         <blockquote><p>Reviews of her work typically praise her flair for language but hint at controversy about her message, as in this review in the Santa Cruz paper of her novel: <q>It is a remarkable production, containing much that is commendable and more that is objectionable, in sentiment and aim</q> (<q>Ideal</q>).</p></blockquote>
                     </li>
-                    <li>
-                        <p><em>If you cite multiple works written by the same author, include in your citation the title (or just the first word or two of the title if it's a long title) of the work you're citing.</em></p>
+                    <li><title>If you cite multiple works written by the same author, include in your citation the title (or just the first word or two of the title if it's a long title) of the work you're citing</title>
                         <p>Sometimes you may be citing multiple works by the same author, so it's not enough to mention just the author's name in the citation, leaving your readers to wonder which entry by that author is the one you're referencing.</p>
                         <blockquote><p>As scholar Margaret Thickstun succinctly puts it, Paradise Lost <q>is about the education of its main characters and at the same time dedicated to the education of its reader</q> (Moral Education 1).</p></blockquote>
                     </li>
-                    <li>
-                        <p><em>If you cannot locate an original version of a text that you cite, credit the original author, but cite the secondary source where you found the text.</em></p>
+                    <li><title>If you cannot locate an original version of a text that you cite, credit the original author, but cite the secondary source where you found the text</title>
                         <p>Usually it's best when quoting to go to the original source, but sometimes that's not possible (perhaps the original quote is very old or is only available in an archive). In those cases, you should mention the original source author in your sentence, but then give the source where you read the quote in your actual citation, with the indication <q>qtd. in</q> so that your readers know you aren't quoting the source from the original. Sometimes there are errors in quotes that you find this way. It may be useful in those cases to indicate that you are quoting exactly what your source wrote, by inserting after the word that looks incorrect [sic] (which comes from the Latin phrase sic erat scriptum, or <q>thus was it written</q>).</p>
                         <blockquote><p>The discourse was sometimes ridiculously disconnected from the practical difficulties presented by western geography and resources, as in the following statement by Congressman Joshua Pilcher in 1831: <q><sq>[one] must know little of the American people, who supposes that they can be stopped by any thing[sic]in the shape of mountains, deserts, seas, or rivers</sq></q> (qtd. in Emmons 6).</p></blockquote>
                     </li>
@@ -284,20 +276,16 @@
         <list xml:id="list-citations-avoiding-plagiarism">
             <title>Strategies for Avoiding Plagiarism</title>
             <ul>
-                <li>
-                    <p><em>Write down everything.</em></p>
+                <li><title>Write down everything</title>
                     <p>When you're doing research, keep track of all of your sources, especially sources from which you quote or paraphrase. If you're drafting and don't want to break your focus, leave a comment to remind yourself to cite the source later. (A knowledge-management tool such as <xref ref="zotero"/> can help you to keep track of your sources.)</p>
                 </li>
-                <li>
-                    <p><em>Attribute everything.</em></p>
+                <li><title>Attribute everything</title>
                     <p>The most important thing to include when attributing authorship is the author's name. This can be done in text, in parentheses, or in a note. If the source does not name an author, provide the title of the source. It is also useful to provide page or line numbers whenever possible. It is safest and often most effective rhetorically to credit the author or source as near to the attributed material as possible; attribution should occur within the same sentence as the attributed material. (For information about the conventions of attribution, both textual and parenthetical, see <xref ref="the-basics"/>.)</p>
                 </li>
-                <li>
-                    <p><em>When in doubt, quote.</em></p>
+                <li><title>When in doubt, quote</title>
                     <p>Paraphrasing presents problems for students, primarily because the line between acceptable paraphrase and plagiarism is somewhat arbitrary. Of course, this shouldn't be a problem if you attribute the paraphrased information to its original author(s). Though disciplines and styles have different preferences, the transparency of quoting makes it a safe way to present information that isn't your own. Quoting, however, should never take the place of attributing authorship.</p>
                 </li>
-                <li>
-                    <p><em>Not everything needs a citation.</em></p>
+                <li><title>Not everything needs a citation</title>
                     <p>Any knowledge that both you and your readers share need not be cited. For instance, it is probably safe to assume that your readers will know that plagiarism is unethical. You could make such a statement without feeling the need to attribute it. However, it would be necessary to attribute authorship to a statement suggesting that plagiarism is ethical<mdash/>for such an idea is not likely to be shared by your readers. That said, when in doubt, attribute. There's little, if anything, wrong with attributing too much, while attributing too little can be disastrous. It is in your best interest to cite.</p>
                 </li>
             </ul>

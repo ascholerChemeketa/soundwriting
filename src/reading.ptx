@@ -35,42 +35,27 @@
             <list xml:id="list-reading-strategies-secondary">
                 <title>Strategies for Finding Secondary Sources</title>
                 <ul>
-                    <li>
-                        <p>
-                            <em>Figure out what you're looking for.</em>
-                        </p>
+                    <li><title>Figure out what you're looking for</title>
                         <p>
                             Because secondary sources are supplementary, it shouldn't be too difficult to identify what information you need. Writing a paper on the presidency of Barack Obama and need a source that describes the international response to his election? Refresh yourself on these <xref ref="list-research-finding-sources"/>, and dive in! Some useful search terms might include: Obama, election, international, response.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Read the introduction and the conclusion.</em>
-                        </p>
+                    <li><title>Read the introduction and the conclusion</title>
                         <p>
                             This should give you a good idea of the starting point and end point of the source's argument and its major points. Assess the usefulness of the source based on these sections. If the source doesn't look like it will be of great use to you, put it to the side. For instance, if you found a source called <pubtitle>The Military Legacy of the Obama Administration</pubtitle>, you might browse through it for a hidden nugget of information, but chances are the source may not be the most helpful to you.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Identify relevant passages</em>
-                        </p>
+                    <li><title>Identify relevant passages</title>
                         <p>
                             Browse headings and subheadings, or chapters, if your source is a book. Skim any relevant sections for key words (see <xref ref="skimming"/>). Find a heading that reads <q>European Reactions to the Election of Barack Obama</q>? Mark it!
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Search for key words.</em>
-                        </p>
+                    <li><title>Search for key words</title>
                         <p>
                             It's possible to do this manually (picture the word in your head and let your eyes roam the page), but it's far easier to do electronically. If your source is electronic, find the search function on your computer and type in key words: Obama, election, international, response.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>If your source has an index, browse it for key words.</em>
-                        </p>
+                    <li><title>If your source has an index, browse it for key words</title>
                         <p>
                             The index is at the back of the book, and it should refer you to specific pages on which the concept is discussed. The index is also a good way to look for relevant words that you may not have thought of.
                         </p>
@@ -85,34 +70,22 @@
             <list xml:id="list-reading-strategies-skimming">
                 <title>Strategies for Skimming</title>
                 <ul>
-                    <li>
-                        <p>
-                            <em>Read the introduction and the conclusion.</em>
-                        </p>
+                    <li><title>Read the introduction and the conclusion</title>
                         <p>
                             Doing this will give you a sense of the general trajectory of the argument.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Read the first sentence of every paragraph.</em>
-                        </p>
+                    <li><title>Read the first sentence of every paragraph</title>
                         <p>
                             This sentence is usually sufficient to tell you what the main point of the paragraph is and whether you should spend time reading it.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Read both horizontally and vertically.</em>
-                        </p>
+                    <li><title>Read both horizontally and vertically</title>
                         <p>
                             Let your eyes roam. Look for keywords and bolded or italicized items.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Read for points and not for analysis.</em>
-                        </p>
+                    <li><title>Read for points and not for analysis</title>
                         <p>
                             Though it's always good to understand how the author arrived at a claim, it is more productive in a pinch to skip the analyses and return to them later.
                         </p>
@@ -237,42 +210,27 @@
             <list xml:id="list-reading-strategies-sciences">
                 <title>Strategies for Reading in the Sciences</title>
                 <ol>
-                    <li>
-                        <p>
-                            <em>Start by reading the title and abstract a few times.</em>
-                        </p>
+                    <li><title>Start by reading the title and abstract a few times</title>
                         <p>
                             While you may not absorb it all on a first or even a second reading, the title and abstract of a scientific article offer a snapshot of the whole article. Use the title and abstract as a mental guide to lead you through the text.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Next, skim the introduction to get the context of the project</em>
-                        </p>
+                    <li><title>Next, skim the introduction to get the context of the project</title>
                         <p>
                             Make sure to read the last paragraph of the introduction because the research question of the paper will usually be there. Then, skim the discussion/conclusion to determine if or how the goals projected in the introduction were accomplished.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Look at the figures.</em>
-                        </p>
+                    <li><title>Look at the figures</title>
                         <p>
                             While the authors of the paper are motivated to tell a compelling story about their data, it's harder to manipulate a figure. Spend some time reading the figure captions and understanding how the data matches up with what the authors are saying in the text.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>If you want to get a still deeper understanding of the paper, read the methodology section.</em>
-                        </p>
+                    <li><title>If you want to get a still deeper understanding of the paper, read the methodology section</title>
                         <p>
                             If you read this section carefully and actively, it will allow you to suss out whether the paper stands up to scientific rigor.
                         </p>
                     </li>
-                    <li>
-                        <p>
-                            <em>Know that you will need to look terminology up along the way.</em>
-                        </p>
+                    <li><title>Know that you will need to look terminology up along the way</title>
                         <p>
                             Even professors need to do this when they read articles in an unfamiliar research area.
                         </p>
@@ -288,20 +246,16 @@
         <list xml:id="list-reading-note-taking-strategies">
             <title>Strategies for Taking Notes while Reading</title>
             <ul>
-                <li>
-                    <p><em>Identify the main argument of the paper or chapter.</em></p>
+                <li><title>Identify the main argument of the paper or chapter</title>
                     <p> The main argument of a paper or chapter is also called a <term>thesis<idx>thesis</idx></term> (see <xref ref="main-claim" text="title"/>). The thesis will help guide your reading and note-taking by telling you what about the argument is important and what you need to pay attention to. You can usually find a thesis in the abstract and near the end of the introduction. If you're having trouble locating the thesis, you might also read the conclusion (don't worry about spoilers<mdash/>usually academic writing is up front about the conclusions of an investigation).</p>
                 </li>
-                <li>
-                    <p><em>Identify the main point of each paragraph.</em></p>
+                <li><title>Identify the main point of each paragraph</title>
                     <p> As you'll see in <xref ref="argumentation-as-process" text="title"/>, clear paragraphs begin with topic sentences. The purpose of a topic sentence is to tell the reader what the paragraph will be about. Use this to your advantage! Like a mini-thesis for each paragraph, topic sentences will guide your reading by telling you what information is worthy to note.</p>
                 </li>
-                <li>
-                    <p><em>Keep the discipline and class in mind.</em></p>
+                <li><title>Keep the discipline and class in mind</title>
                     <p> You can't remember everything from every reading, so be strategic about what you pay attention to. Does your discipline focus on data? Dates? Or should you pay more attention to the syntax and voice of the reading? Knowing what you're looking for helps you take better and more useful notes.</p>
                 </li>
-                <li>
-                    <p><em>Keep yourself and your personal preferences in mind.</em></p>
+                <li><title>Keep yourself and your personal preferences in mind</title>
                     <p> If you hate outlining because you don't get it, then play around with note-taking strategies until you find what makes the most sense to you, whatever the discipline. If you can't memorize information in your notes and need to use flashcards, then do that. As long as you're recording all of the information that you need to successfully recall information and understand concepts, don't worry about what you're <q>supposed</q> to be doing.</p>
                 </li>
             </ul>
