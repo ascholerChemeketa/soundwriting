@@ -568,17 +568,13 @@
                         <p>Here are a few rules to help guide you through tricky sentences.</p>
                     </introduction>
                     <ul>
-                        <li>
-                            <p><em>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>and,</q> use a plural verb.</em></p>
+                        <li><title>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>and,</q> use a plural verb.</title>
                         </li>
-                        <li>
-                            <p><em>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> make the verb correspond with the noun or pronoun closest to it</em></p>
+                        <li><title>When the subject of a sentence is composed of two or more nouns/pronouns connected by <q>or</q> or <q>nor,</q> make the verb correspond with the noun or pronoun closest to it</title>
                         </li>
-                        <li>
-                            <p><em>When the subject of a sentence is a collective noun (group, jury, band, <etc/>) or a title (of a book, play, country, <etc/>), always make the verb singular.</em></p>
+                        <li><title>When the subject of a sentence is a collective noun (group, jury, band, <etc/>) or a title (of a book, play, country, <etc/>), always make the verb singular.</title>
                         </li>
-                        <li>
-                            <p><em>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</em></p>
+                        <li><title>When a phrase sits in between the subject and the verb, be sure that your verb agrees with your subject, not with the phrase.</title>
                         </li>
                     </ul>
                 </list>
@@ -927,9 +923,9 @@
             <list xml:id="list-mechanics-avoiding-fragments">
                 <title>Strategies for Avoiding Sentence Fragments</title>
                 <ul>
-                    <li><p><em>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</em></p></li>
-                    <li><p><em>Use word processing programs to identify fragments<mdash/>but don't depend on them!</em></p></li>
-                    <li><p><em>Mentally take your sentence out of context, then ask yourself, <q>Does this sentence alone make sense?</q></em></p></li>
+                    <li><title>Ensure that your sentence has a subject and a verb and that it expresses a complete thought.</title></li>
+                    <li><title>Use word processing programs to identify fragments<mdash/>but don't depend on them!</title></li>
+                    <li><title>Mentally take your sentence out of context, then ask yourself, <q>Does this sentence alone make sense?</q></title></li>
                 </ul>
             </list>
             <insight>
@@ -1205,20 +1201,16 @@
             <list xml:id="list-effective-words-misusing">
                 <title>Strategies for Using the Right Words</title>
                 <ul>
-                    <li>
-                        <p><em>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up!</em></p>
+                    <li><title>If there's a word that comes to mind when you're writing and you're not completely sure of its meaning, err on the side of caution and look it up!</title>
                         <p>We, for example,  just looked up <q>err</q> to make sure that was the right word to use.</p>
                     </li>
-                    <li>
-                        <p><em>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course).</em></p> 
+                    <li><title>If you select a word from a thesaurus, make sure to also look the word up in a dictionary (online, of course).</title> 
                         <p>The dictionary definition and example sentences will help you catch any connotations or standard uses of the word that you might not otherwise be familiar with.</p>
                     </li>
-                    <li>
-                        <p><em>Do your course readings to learn which words have specific (different) meaning in particular disciplines.</em></p>
+                    <li><title>Do your course readings to learn which words have specific (different) meaning in particular disciplines.</title>
                         <p>When writing in a specific discipline, it can be difficult to know what words are specific to that discipline and how they are used differently in academic writing than they are in standard, every day conversation. In statistics, for example, <em><q>significant</q></em> has a very specific meaning (<ie/>, having statistical importance), and any other uses of the word are incorrect and generally avoided. Similarly, <em><q>conjugation</q></em> has a very different meaning in biology than it does in Spanish. You can't avoid every mistake, but professors can help guide you. Reading scholarly work in a discipline you're studying is also an invaluable tool for learning that discipline's jargon and linguistic preferences.</p>
                     </li>
-                    <li>
-                        <p><em>Read <xref ref="considering-homophones"/> to avoid misusing words that sound alike.</em></p>
+                    <li><title>Read <xref ref="considering-homophones"/> to avoid misusing words that sound alike.</title>
                     </li>
                 </ul>
             </list>
@@ -1351,16 +1343,13 @@
                 <p>Below are some ways you can identify the passive voice. Please note that these tips are general guidelines, not concrete characteristics of every instance of passive voice.</p>
                 </introduction>
                 <ul>
-                    <li>
-                        <p><em>Look for <q>to be</q> verbs.</em></p>
+                    <li><title>Look for <q>to be</q> verbs.</title>
                         <p>The passive voice is often constructed in this format: <em><q>to be</q> + past participle.</em> Notice that the previous sentence is passive. It has <q>is</q> as the form of <q>to be</q> and <q>constructed</q> as the past participle.</p>
                     </li>
-                    <li>
-                        <p><em>Look for <q>by</q> + a noun/pronoun/proper noun.</em></p>
+                    <li><title>Look for <q>by</q> + a noun/pronoun/proper noun.</title>
                         <p>As with the example <q>Barbara was hugged by Sally,</q> passive sentences often use the word <q>by</q> to show that someone or something carried out the action. Barbara wasn't <em>just</em> hugged, she was hugged <em>by Sally.</em></p>
                     </li>
-                    <li>
-                        <p><em>Check out an example: <xref ref="example-mechanics-juxtaposing-ap"/></em></p>
+                    <li><title>Check out an example: <xref ref="example-mechanics-juxtaposing-ap"/></title>
                     </li>
                 </ul>
             </list>
@@ -2325,24 +2314,19 @@
                     <list xml:id="list-mechanics-resoloving-splices">
                         <title>Strategies for Resolving Comma Splices</title>
                         <ul>
-                            <li>
-                                <p><em>Keep the sentences as they are and replace the comma with a semicolon.</em></p>
+                            <li><title>Keep the sentences as they are and replace the comma with a semicolon.</title>
                                 <p>This option works for sentences that are too closely related for a period but for which a coordinating conjunction would be inappropriate. (For example, <q>I like cats; they are cute.</q>)</p>
                             </li>
-                            <li>
-                                <p><em>Split the clauses into two sentences.</em></p>
+                            <li><title>Split the clauses into two sentences.</title>
                                 <p>For example, <q>Comma splices make sentences less precise. Can you see how the absence of a comma splice improves my sentence(s)?</q></p>
                             </li>
-                            <li>
-                                <p><em>Put a coordinating conjunction (see <xref ref="parts-of-speech"/>) after the comma and before the second clause.</em></p>
+                            <li><title>Put a coordinating conjunction (see <xref ref="parts-of-speech"/>) after the comma and before the second clause.</title>
                                 <p>For example, <q>I love using commas, <em>but</em> I know that they don't belong between two independent clauses without a conjunction.</q></p>
                             </li>
-                            <li>
-                                <p><em>Alter the clauses so that one is no longer an independent clause.</em></p>
+                            <li><title>Alter the clauses so that one is no longer an independent clause.</title>
                                 <p>For example, <q>Comma splices aren't great, which is why I don't use them.</q></p>
                             </li>
-                            <li>
-                                <p><em>Combine the idea into one sentence/independent clause.</em></p>
+                            <li><title>Combine the idea into one sentence/independent clause.</title>
                                 <p>For example, <q>I don't use comma splices.</q></p>
                             </li>
                         </ul>
@@ -2434,37 +2418,29 @@
                 <list xml:id="list-mechanics-quoting-sentences-strategies">
                     <title>Strategies for Quoting Complete Sentences</title>
                     <ul>
-                        <li>
-                            <p><em>Enclose the quote within two sets of quotation marks.</em></p>
+                        <li><title>Enclose the quote within two sets of quotation marks.</title>
                             <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote. See <xref ref="example-punctuation-using-quotations"/> for an example.</p>
                         </li>
-                        <li>
-                            <p><em>Preface the quote with a comma after the preceding word.</em></p>
+                        <li><title>Preface the quote with a comma after the preceding word.</title>
                             <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote. See <xref ref="example-punctuation-prefacing-quotations"/> for an example.</p>
                         </li>
-                        <li>
-                            <p><em>Capitalize the quoted sentence.</em></p>
+                        <li><title>Capitalize the quoted sentence.</title>
                             <p>If you are quoting a complete sentence, capitalize the first letter of the quoted sentence. See <xref ref="example-punctuation-capitalizing-quoted"/> for an example.</p>
                         </li>
-                        <li>
-                            <p><em>End each quoted sentence within the quotation marks.</em></p>
+                        <li><title>End each quoted sentence within the quotation marks.</title>
                             <p>If you are ending your sentence with a quoted sentence, end the quote with a period, exclamation point, or ellipsis before the final set of quotation marks. See <xref ref="example-punctuation-integrating-quotes"/> for an example.</p>
                         </li>
-                        <li>
-                            <p><em>Integrate your quotes into the grammar of your sentence.</em></p>
+                        <li><title>Integrate your quotes into the grammar of your sentence.</title>
                             <p>If you are breaking your quoted sentence into two parts, end the first part with a comma and do not capitalize the second part. See <xref ref="example-punctuation-ellipses-replacing"/> for an example.</p>
                         </li>
-                        <li>
-                            <p><em>Use an ellipsis to replace omitted source material.</em></p>
+                        <li><title>Use an ellipsis to replace omitted source material.</title>
                             <p>Sometimes the information you want to quote will be near the beginning or end of a long sentence or passage, but the material in between may not be applicable or useful to you. If this is the case, you can use an ellipsis (<ellipsis/>) to replace the material you are omitting. However, it's important that the material you are replacing does not change the meaning or intent of the source material.</p>
                             <p>Because any quote comes from a larger context, an ellipsis is only needed at the beginning or end of a quote if it would appear otherwise that the entire sentence was quoted. See <xref ref="example-punctuation-ellipses-honestly"/> for an example.</p>
                         </li>
-                        <li>
-                            <p><em>Use brackets to indicate non-standard elements or changes.</em></p>
+                        <li><title>Use brackets to indicate non-standard elements or changes.</title>
                             <p>Sometimes direct quotes have spelling or grammatical deviations from <xref ref="SAE" text="title"><init>SAE</init></xref>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence. See <xref ref="example-punctuation-brackets-changes"/> for an example.</p>
                         </li>
-                        <li>
-                            <p><em>Use brackets to enclose important nouns missing in quote.</em></p>
+                        <li><title>Use brackets to enclose important nouns missing in quote.</title>
                             <p>Sometimes sentences omit a previously referred-to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun. See <xref ref="example-punctuation-brackets-insertion"/> for an example.</p>
                         </li>
                     </ul>
@@ -2509,16 +2485,13 @@
                 <list xml:id="list-mechanics-quoting-fragments-strategies">
                     <title>Strategies for Quoting Sentence Fragments</title>
                     <ul>
-                        <li>
-                            <p><em>Quoted fragments should not be capitalized.</em></p>
+                        <li><title>Quoted fragments should not be capitalized.</title>
                             <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.  See <xref ref="example-mechanics-uncapitalized-fragments"/>.</p>
                         </li>
-                        <li>
-                            <p><em>Incorporate quoted fragments into the syntax of your sentence.</em></p>
+                        <li><title>Incorporate quoted fragments into the syntax of your sentence.</title>
                             <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.  See <xref ref="example-mechanics-quotes-sentences"/>.</p>
                         </li>
-                        <li>
-                            <p><em>Use block quotes for large quoted sections.</em></p>
+                        <li><title>Use block quotes for large quoted sections.</title>
                             <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
                             <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.  See <xref ref="example-mechanics-block-quotes"/>.</p>
                         </li>
