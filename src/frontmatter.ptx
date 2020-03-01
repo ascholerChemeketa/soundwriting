@@ -69,12 +69,11 @@
                 <department>Professor, Mathematics and Computer Science</department>
             </author>
         </credit>
-        <date><today/></date>
     </titlepage>
     <colophon>
-        <edition>Preliminary Edition</edition>
+        <edition>Annual Edition 2020</edition>
         <copyright>
-            <year>2017<ndash/>2019</year>
+            <year>2019</year>
             <holder>Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph</holder>
             <minilicense>CC-BY-SA</minilicense>
             <shortlicense>Creative Commons Attribution-ShareAlike 4.0 International License</shortlicense>
