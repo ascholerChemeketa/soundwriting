@@ -40,7 +40,13 @@
 <!-- text width as of 2018-11-30, so we fix that here for      -->
 <!-- page-fitting exercise.  Yielding approximately 287 pages. -->
 <!-- Julie Christoph email 2018-11-28                          -->
-<xsl:param name="latex.geometry" select="'total={340pt,9.0in}'"/>
+<!-- Update (2020-02-27):  341 pages, at 0.14mm per 170        -->
+<!-- sheets, gives 23.8mm binding, and suggestion is up to     -->
+<!-- half that for binding offset, hence 12mm (~0.47in).       -->
+<!-- geometry package divides inner/outer margins in 2:3       -->
+<!-- ratio.  Ignoring binding, this gives 1.75in inner,        -->
+<!-- 2.0in outer (roughly).                                    -->
+<xsl:param name="latex.geometry" select="'total={340pt,9.0in}, bindingoffset=12mm'"/>
 
 
 <!-- Make marked <p>s hanging indented for citiation chapter. -->

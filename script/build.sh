@@ -172,7 +172,7 @@ function view_print {
 
 # Subroutine to build the electronic PDF version, styled in color
 function build_pdf_styled {
-    xsltproc --xinclude --stringparam latex.sides one -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam latex.print yes -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
     mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic-styled.pdf
