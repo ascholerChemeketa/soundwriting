@@ -38,7 +38,6 @@
 <!-- The oldstyle numbers will be used in page         -->
 <!-- headers and footers                               -->
 <xsl:param name="latex.preamble.late">
-    <!-- <xsl:text>\usepackage[default,regular,black]{sourceserifpro}&#xa;</xsl:text> -->
     <xsl:text>\setmainfont{texgyreschola-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/, ItalicFont=texgyreschola-italic.otf,BoldFont=texgyreschola-bold.otf,BoldItalicFont=texgyreschola-bolditalic.otf]&#xa;</xsl:text>
     <xsl:text>\newfontfamily{\divisionheadingfont}{texgyreheros-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/,ItalicFont=texgyreheros-italic.otf,BoldFont=texgyreheros-bold.otf,BoldItalicFont=texgyreheros-bolditalic.otf]&#xa;</xsl:text>
     <xsl:text>\newfontfamily{\pagefont}{texgyrepagella-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/,ItalicFont=texgyrepagella-italic.otf,BoldFont=texgyrepagella-bold.otf,BoldItalicFont=texgyrepagella-bolditalic.otf]&#xa;</xsl:text>
@@ -147,19 +146,24 @@
 
 <xsl:template match="book" mode="titleps-style">
     <xsl:text>%% Page style configuration for Sound Writing&#xa;</xsl:text>
-    <xsl:text>%% Assumes one-sided printing&#xa;</xsl:text>
+    <xsl:text>%% Supports one-sided and two-sided printing&#xa;</xsl:text>
     <xsl:text>%%&#xa;</xsl:text>
-    <xsl:text>%% Plain pages should have the same font for page numbers&#xa;</xsl:text>
+    <xsl:text>%% Ensure plain pages have the same font for page numbers&#xa;</xsl:text>
     <xsl:text>\renewpagestyle{plain}{%&#xa;</xsl:text>
     <xsl:text>\setfoot{}{\pagefont\thepage}{}%&#xa;</xsl:text>
     <xsl:text>}%&#xa;</xsl:text>
+    <xsl:text>%% Page heading, generally&#xa;</xsl:text>
     <xsl:text>\renewpagestyle{headings}{%&#xa;</xsl:text>
     <xsl:text>\pagefont\headrule%&#xa;</xsl:text>
     <xsl:text>\sethead%&#xa;</xsl:text>
-    <xsl:text>{\ifthesection{\pagefont\thesection}{\ifthechapter{\pagefont\thechapter}{}}}%&#xa;</xsl:text>
-    <xsl:text>{{\pagefont\space\ifthesection{\sectiontitle}{\chaptertitle}\space}}%&#xa;</xsl:text>
+    <xsl:text>[\pagefont\thepage]%&#xa;</xsl:text>
+    <xsl:text>[{\pagefont\space\chaptertitle\space}]%&#xa;</xsl:text>
+    <xsl:text>[\ifthechapter{\pagefont Chapter \thechapter}{}]%&#xa;</xsl:text>
+    <xsl:text>{\ifthesection{\pagefont\thesection}{}}%&#xa;</xsl:text>
+    <xsl:text>{{\pagefont\space\ifthesection{\sectiontitle}{}\space}}%&#xa;</xsl:text>
     <xsl:text>{\pagefont\thepage}%&#xa;</xsl:text>
     <xsl:text>}%&#xa;</xsl:text>
+    <xsl:text>%% Set default document headings&#xa;</xsl:text>
     <xsl:text>\pagestyle{headings}&#xa;</xsl:text>
 </xsl:template>
 
