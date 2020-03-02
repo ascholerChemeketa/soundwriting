@@ -138,7 +138,6 @@ function build_html {
     rm -rf knowl/* images/*
     cp -a ${IMAGES}/*.svg ./images/
     cp -a ${IMAGES}/*.png ./images/
-    cp ${CSS}/style_soundwriting.css .
     xsltproc --stringparam publisher publication.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
 }
 
