@@ -109,7 +109,7 @@
     </subsection>
     <subsection xml:id="send-or-not-send">
         <title>To Send or not to Send</title>
-        <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is useful as a skill in itself and is transferable to talking with professors in-person. This section addresses emailing <em>professors</em>, but you can learn more about email etiquette in general by reading <xref ref="email-etiquette" text="title"/>.</p>
+        <p>A large portion of the communication that you have with professors will be over email, which means that knowing how to write emails to professors is useful as a skill in itself and is transferable to talking with professors in-person. This section addresses emailing <em>professors</em>, but you can learn more about email etiquette in general by reading <xref ref="email-etiquette"/>.</p>
     <list xml:id="list-talking-sending-emails">
         <title>Strategies for Sending Professors Effective Emails</title>
         <ul>
@@ -212,7 +212,7 @@
                     <p>Visiting a professor's office hours is a great way to get more out of your education, and it is also a great way to build a relationship with a professor, especially if you haven’t worked closely with a professor in any other context yet. Remember that you can read more about <xref ref="talking-to-profs" text="title"/>, and you can check out [this video] to learn what office hours are and how to use them.</p>
                 </li>
                 <li><title><em>When you start thinking about applications,</em> identify which professor(s) you'd most like to write you a letter</title>
-                    <p>Consider the three perspectives described in <xref ref="three-perspectives" text="title"/>, and make sure you can answer the questions in <xref ref="your-perspective" text="title"/>.</p>
+                    <p>Consider the three perspectives described in <xref ref="three-perspectives"/>, and make sure you can answer the questions in <xref ref="your-perspective" text="title"/>.</p>
                 </li>
                 <li>
                     <p><em><em>When there are at least three weeks left before the application due date,</em> 
@@ -229,13 +229,13 @@
                                 <p>All of the application materials <em>you</em> need to submit for your application (e.g. a personal statement, cover letter, or application essay), so that the professor knows how their contribution to your application fits in with the rest of the application materials</p>
                             </li>
                             <li>
-                                <p>An updated resume or curriculum vitae (<init>CV</init>). See <xref ref="section-resume"  text="title"/> for advice about making a resume or CV.</p>
+                                <p>An updated resume or curriculum vitae (<init>CV</init>). See <xref ref="section-resume"/> for advice about making a resume or CV.</p>
                             </li>
                             <li>
                                 <p>A transcript</p>
                             </li>
                         </ul>
-                        If you're asking one person for letters for a variety of different programs, make sure to consider the <xref ref="insight-academic-success-multiple-letters"/>.
+                        If you're asking one person for letters for a variety of different programs, make sure to consider the <xref ref="insight-academic-success-multiple-letters" "text=title"/>.
                     </p>
                     <p>Do not add a professor’s name to online forms or send them letter-writing material until they say that they are willing to write you a letter. Being <q>invitold</q> to write a letter is no fun for them!</p>
                 </li>
@@ -281,7 +281,7 @@
             <paragraphs xml:id="productive-procrastination">
                 <title>Productive Procrastination Practices</title>
                     <p><ul>
-                        <li><p>Work on <xref ref="citations"/></p></li>
+                        <li><p>Work on <xref ref="citations" text="title"/></p></li>
                         <li><p>Take the <init>CWLT</init>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
                         <li><p>Type up your notes/evidence</p></li>
                         <li><p>Make to-do lists</p></li>
@@ -447,8 +447,8 @@
                             <li><title>Be realistic about how long each task is going to take</title>
                                 <p>This will be easiest if you've briefly looked over assignments ahead of time to triage your workload. How long are each of those readings? How many problems are in the problem-set?</p>
                             </li>
-                            <li><title>Remember those <xref ref="time-management-good-time-management" text="title">sub-goals</xref></title>
-                                <p>Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper.</p>
+                            <li><title>Remember those sub-goals</title>
+                                <p>Better to give yourself 2 hours to write an outline for a paper than to give yourself 8 hours to write a paper (see <xref ref="time-management-good-time-management"/>)</p>
                             </li>
                             <li><title>Recognize that some time is <q>higher quality</q> than other time, and use it to do your highest-priority tasks</title>
                                 <p>Four hours of work during the time of day when you're most focused is probably a much better time to work on a challenging problem set than during a one hour break between difficult classes when you're also hungry.</p>

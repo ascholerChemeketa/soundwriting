@@ -37,7 +37,7 @@
                 <ul>
                     <li><title>Figure out what you're looking for</title>
                         <p>
-                            Because secondary sources are supplementary, it shouldn't be too difficult to identify what information you need. Writing a paper on the presidency of Barack Obama and need a source that describes the international response to his election? Refresh yourself on these <xref ref="list-research-finding-sources"/>, and dive in! Some useful search terms might include: Obama, election, international, response.
+                            Because secondary sources are supplementary, it shouldn't be too difficult to identify what information you need. Writing a paper on the presidency of Barack Obama and need a source that describes the international response to his election? Refresh yourself on these <xref ref="list-research-finding-sources" text="title"/>, and dive in! Some useful search terms might include: Obama, election, international, response.
                         </p>
                     </li>
                     <li><title>Read the introduction and the conclusion</title>
@@ -247,7 +247,7 @@
             <title>Strategies for Taking Notes while Reading</title>
             <ul>
                 <li><title>Identify the main argument of the paper or chapter</title>
-                    <p> The main argument of a paper or chapter is also called a <term>thesis<idx>thesis</idx></term> (see <xref ref="main-claim" text="title"/>). The thesis will help guide your reading and note-taking by telling you what about the argument is important and what you need to pay attention to. You can usually find a thesis in the abstract and near the end of the introduction. If you're having trouble locating the thesis, you might also read the conclusion (don't worry about spoilers<mdash/>usually academic writing is up front about the conclusions of an investigation).</p>
+                    <p> The main argument of a paper or chapter is also called a <term>thesis<idx>thesis</idx></term> (see <xref ref="main-claim"/>). The thesis will help guide your reading and note-taking by telling you what about the argument is important and what you need to pay attention to. You can usually find a thesis in the abstract and near the end of the introduction. If you're having trouble locating the thesis, you might also read the conclusion (don't worry about spoilers<mdash/>usually academic writing is up front about the conclusions of an investigation).</p>
                 </li>
                 <li><title>Identify the main point of each paragraph</title>
                     <p> As you'll see in <xref ref="argumentation-as-process" text="title"/>, clear paragraphs begin with topic sentences. The purpose of a topic sentence is to tell the reader what the paragraph will be about. Use this to your advantage! Like a mini-thesis for each paragraph, topic sentences will guide your reading by telling you what information is worthy to note.</p>
