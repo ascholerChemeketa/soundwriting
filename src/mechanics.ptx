@@ -61,7 +61,7 @@
                             <title>conjunction</title>
                             <p>connects phrases and clauses</p>
                             <p>A <term>coordinating conjunction</term> coordinates two ideas that are emphasized equally in the sentence.</p>
-                            <p>Examples: <xref ref="definition-FANBOYS"/></p>
+                            <p>Examples: <xref ref="definition-FANBOYS" text="title"/></p>
                             <p>If you want to remember all the coordinating conjunctions, you just need to remember the acronym <acro>FANBOYS</acro> (Get it? <un s="1">F</un>or, <un s="1">A</un>nd, <un s="1">N</un>or, <un s="1">B</un>ut, <un s="1">O</un>r, <un s="1">Y</un>et, <un s="1">S</un>o).</p>
                             <p>A <term>subordinating conjunction</term> subordinates one idea or clause to another idea or clause.</p>
                             <p>Examples: after, although, because, since, than, whether, while</p>
@@ -81,7 +81,7 @@
             <title>Basic Sentence Structure</title>
             <subsubsection xml:id="subject-predicate">
                 <title>Subject-Predicate</title>
-                <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), a basic sentence is composed of two parts: the subject and the predicate. The <term>subject<idx>subject</idx></term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a <xref ref="definition-noun"/>, proper noun, personal <xref ref="definition-pronoun"/>, <xref ref="definition-noun-phrases"/>, or different nouns linked by a <xref ref="definition-conjunction"/>. The <term>predicate<idx>predicate</idx></term> is the action or description of the subject. The predicate may be a <xref ref="definition-verb"/>, a verb accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first-year student waited in line for the Farm-to-Table special,</q> the noun phrase <q>the first-year student</q> would be the subject and <q>waited in line for the Farm-to-Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject).</p>
+                <p>In <xref ref="SAE" text="title"/> (<init>SAE</init>), a basic sentence is composed of two parts: the subject and the predicate. The <term>subject<idx>subject</idx></term> of a sentence is the person or entity that does an action or is the main focus of the sentence. The subject may be a <xref ref="definition-noun" text="title"/>, proper noun, personal <xref ref="definition-pronoun" text="title"/>, <xref ref="definition-noun-phrases" text="title"/>, or different nouns linked by a <xref ref="definition-conjunction" text="title"/>. The <term>predicate<idx>predicate</idx></term> is the action or description of the subject. The predicate may be a <xref ref="definition-verb" text="title"/>, a verb accompanied by helping verbs, or an entire verb phrase. For instance, in the sentence <q>The first-year student waited in line for the Farm-to-Table special,</q> the noun phrase <q>the first-year student</q> would be the subject and <q>waited in line for the Farm-to-Table special</q> would be the predicate. An easy way to distinguish the subject and predicate of a sentence is to 1) ask yourself what is <q>being done</q> (predicate), and then 2) ask yourself <q>what</q> is doing that action (subject).</p>
                 <example>
                     <title>Subject-Predicate: Sample Sentences</title>
                     <p>
@@ -96,7 +96,7 @@
             </subsubsection>
             <subsubsection xml:id="direct-indirect-objects">
                 <title>Direct and Indirect Objects</title>
-                <p>A complete sentence always has a <xref ref="definition-subject"/> and a <xref ref="definition-predicate"/>. A predicate can include both direct and indirect objects.</p>
+                <p>A complete sentence always has a <xref ref="definition-subject" text="title"/> and a <xref ref="definition-predicate" text="title"/>. A predicate can include both direct and indirect objects.</p>
                 <p>A <term>direct object<idx>direct object</idx></term> is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs.</p>
                 <p>An <term>indirect object<idx>indirect object</idx></term> is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
                 <sidebyside width="50%">
@@ -105,18 +105,18 @@
             </subsubsection>
             <subsubsection xml:id="clauses">
                 <title>Clauses</title>
-                <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <xref ref="definition-subject"/> and a <xref ref="definition-predicate"/>, <em>which also means that every clause has a <xref ref="definition-noun"/> and a <xref ref="definition-verb"/>.</em> Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
+                <p>What do clauses and amino acids have in common? They're both essential building blocks! Just as amino acids make life possible, clauses make sentences possible. As you read in the previous section, every clause is composed of a <xref ref="definition-subject" text="title"/> and a <xref ref="definition-predicate" text="title"/>, <em>which also means that every clause has a <xref ref="definition-noun" text="title"/> and a <xref ref="definition-verb" text="title"/>.</em> Unfortunately, like many things in English, there are far too many terms that make it difficult to keep the concepts straight.</p>
                 <!-- <note xml:id="note-clauses-recall"> -->
                     <!-- <title>Recall</title> -->
                     <!-- <p>The subject is the thing or person a sentence is about. The predicate is the part of a sentence that modifies (<ie/>, tells you what's going on with) the subject. The predicate also contains a verb and sometimes a direct or an indirect object or different kinds of phrases.</p> -->
                 <!-- </note> -->
                 <!-- <paragraphs xml:id="par-clauses-independent"> -->
                     <!-- <title>Independent/Main</title> -->
-                <p>An <term>independent clause<idx>independent clause</idx></term>, also called a <term>main clause<idx>main clause</idx></term>, has a <xref ref="definition-subject"/> and a <xref ref="definition-verb"/> and conveys a complete thought.</p>
+                <p>An <term>independent clause<idx>independent clause</idx></term>, also called a <term>main clause<idx>main clause</idx></term>, has a <xref ref="definition-subject" text="title"/> and a <xref ref="definition-verb" text="title"/> and conveys a complete thought.</p>
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-subordinate"> -->
                     <!-- <title>Subordinate/Dependent</title> -->
-                <p>The primary feature of a <term>dependent clause<idx>dependent clause</idx></term> is that it cannot stand alone because it does not form a complete thought. A <xref ref="definition-dependent-clause"/> (also called a <term>dependent clause<idx>dependent clause</idx></term>) is dependent on an <xref ref="definition-independent-clause"/> to make sense. Subordinate clauses begin with a subordinating <xref ref="definition-conjunction"/>.</p>
+                <p>The primary feature of a <term>dependent clause<idx>dependent clause</idx></term> is that it cannot stand alone because it does not form a complete thought. A <xref ref="definition-dependent-clause" text="title"/> (also called a <term>dependent clause<idx>dependent clause</idx></term>) is dependent on an <xref ref="definition-independent-clause" text="title"/> to make sense. Subordinate clauses begin with a subordinating <xref ref="definition-conjunction" text="title"/>.</p>
                 <!-- </paragraphs> -->
                 <example>
                     <title>Subordinate/Dependent Clause: Raining Outside</title>
@@ -156,7 +156,7 @@
                             <!-- <ul> -->
                                 <!-- <li>Begin with subordinating conjunctions.</li> -->
                                 <!-- <li> -->
-                <p>There are three types of dependent clauses: <xref ref="definition-adjective"/>, <xref ref="definition-adverb"/>, and <xref ref="definition-noun"/> clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</p>
+                <p>There are three types of dependent clauses: <xref ref="definition-adjective" text="title"/>, <xref ref="definition-adverb" text="title"/>, and <xref ref="definition-noun" text="title"/> clauses. Each of these types of clauses is named after a part of speech because, when used in dependent-clause form, these groups of words act as a single part of speech<mdash/>that's why they're called dependent.</p>
                                 <!-- </li> -->
                             <!-- </ul> -->
                         <!-- </p> -->
@@ -166,7 +166,7 @@
                     <!-- <title>Adjective/Relative Clauses</title> -->
                     <!-- <p> -->
                         <!-- <ul> -->
-                <p>An <term>adjective/relative clause<idx>adjective/relative clause</idx></term> acts as an adjective to modify a <xref ref="definition-noun"/> (the <xref ref="definition-subject"/>). Adjective clauses begin with a relative <xref ref="definition-pronoun"/> or a relative <xref ref="definition-adverb"/> (that, who, which, whose, whom, when, why, where). Adjective clauses answer questions like <q>Which one?</q> <q>How many?</q> and <q>What kind?</q></p>
+                <p>An <term>adjective/relative clause<idx>adjective/relative clause</idx></term> acts as an adjective to modify a <xref ref="definition-noun" text="title"/> (the <xref ref="definition-subject" text="title"/>). Adjective clauses begin with a relative <xref ref="definition-pronoun" text="title"/> or a relative <xref ref="definition-adverb" text="title"/> (that, who, which, whose, whom, when, why, where). Adjective clauses answer questions like <q>Which one?</q> <q>How many?</q> and <q>What kind?</q></p>
                             <!-- <li>Act as adjectives to modify a noun (the subject)</li>
                             <li>Begin with a relative pronoun or a relative adverb (that, who, which, whose, whom, when, why, where)</li>
                             <li>Answer the question(s): Which one? How many? What kind?</li>
@@ -198,7 +198,7 @@
                 <!-- </paragraphs> -->
                 <!-- <paragraphs xml:id="par-clauses-adverb"> -->
                     <!-- <title>Adverb Clauses</title> -->
-                    <p>An <term>adverb clause<idx>adverb clause</idx></term> acts as an <xref ref="definition-adverb"/> to modify the <xref ref="definition-verb"/> in a sentence. Adverb clauses begin with a subordinating <xref ref="definition-conjunction"/> (although, because, after, until, <etc/>).</p>
+                    <p>An <term>adverb clause<idx>adverb clause</idx></term> acts as an <xref ref="definition-adverb" text="title"/> to modify the <xref ref="definition-verb" text="title"/> in a sentence. Adverb clauses begin with a subordinating <xref ref="definition-conjunction" text="title"/> (although, because, after, until, <etc/>).</p>
                 
                     <!-- <p>
                         <ul>
@@ -269,7 +269,7 @@
                 <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscaping makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar related, though, there are far too many phrases with overly confusing names. To remember and understand each type of phrase, it might be helpful for you to review <xref ref="eight-parts-of-speech"/>. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
                 <note>
                     <title>Distinguishing a Phrase from a Clause</title>
-                    <p>Whereas a clause has both a <xref ref="definition-noun"/> <em>and</em> a <xref ref="definition-verb"/>, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an <xref ref="definition-adjective"/>).</p>
+                    <p>Whereas a clause has both a <xref ref="definition-noun" text="title"/> <em>and</em> a <xref ref="definition-verb" text="title"/>, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an <xref ref="definition-adjective" text="title"/>).</p>
                 </note>
                 <list xml:id="common-types-of-phrases">
                     <title>Common Types of Phrases</title>
@@ -277,21 +277,21 @@
                         <p>Here are some of the types of phrases you'll see most often:</p>
                     </introduction>
                     <dl>
-                        <li xml:id="definition-infinitive-phrases">
+                        <li xml:id="definition-infinitive-phrases" text="title">
                             <title>infinitive phrase</title>
                             <p>Infinitive phrases feature our good friend, the infinitive verb.</p>
                             <p><q><em>To include</em> all types of phrases in this list would be too boring.</q></p>
                             <p><q><em>To pull</em> an all-nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso.</q></p>
                         </li>
-                        <li xml:id="definition-prepositional-phrases">
+                        <li xml:id="definition-prepositional-phrases" text="title">
                             <title>prepositional phrase</title>
-                            <p>Remember that a <xref ref="definition-preposition"/> tells you the timing or placement of a noun. A <term>prepositional phrase<idx>prepositional phrase</idx></term>, then, is a phrase that tells you about the timing or placement of another part of the sentence. Prepositional phrases function as either adjectives (to modify a noun, as in <q>The cat on the bed</q>) or as adverbs (to modify a verb as in <q>The cat jumped off the bed</q>).</p>
+                            <p>Remember that a <xref ref="definition-preposition" text="title"/> tells you the timing or placement of a noun. A <term>prepositional phrase<idx>prepositional phrase</idx></term>, then, is a phrase that tells you about the timing or placement of another part of the sentence. Prepositional phrases function as either adjectives (to modify a noun, as in <q>The cat on the bed</q>) or as adverbs (to modify a verb as in <q>The cat jumped off the bed</q>).</p>
                             <p><q>That cat is <em>under the table</em>.</q></p>
                             <p><q>As I walked <em>along dark campus pathways</em>, I was glad that I had called a security escort.</q></p>
                         </li>
                         <li xml:id="definition-noun-phrases">
                             <title>noun phrase</title>
-                            <p>A <xref ref="definition-noun"/> phrase acts as (gasp) a noun! Noun phrases include nouns and <xref ref="definition-modifier">modifiers</xref> (<eg/>, <xref ref="definition-adjective">adjectives</xref>).</p>
+                            <p>A <xref ref="definition-noun" text="title"/> phrase acts as (gasp) a noun! Noun phrases include nouns and <xref ref="definition-modifier">modifiers</xref> (<eg/>, <xref ref="definition-adjective" text="title">adjectives</xref>).</p>
                             <p><q>My <em>spunky roommate</em> listens to the best music.</q></p>
                             <p><q>I'm always brought so much joy when I see <em>that perfect, beautiful, wonderful little puppy dog</em> prancing around campus.</q></p>
                         </li>
@@ -308,18 +308,18 @@
                             <p><q>Although it may seem like a good idea, <em>having pizza from The Cellar for every meal</em> probably isn't the way to go.</q></p>
                         </li>
                     </dl>
-                </list>
+               </list>
             </subsubsection>
             <subsubsection xml:id="modifiers">
                 <title>Modifiers</title>
                 <p>A <term>modifier<idx>modifier</idx></term> is a word, phrase, or clause that characterizes a noun and is typically used to add description or specificity to a sentence. You can identify the modifier in a sentence by asking yourself which or what kind of noun the sentence is highlighting. For example, in the sentence <q>The students gazed in awe at the towering sequoia tree,</q> the word <q>towering</q> is being used to modify or describe the sequoia tree. Therefore, to identify the modifier, you can ask yourself <q>Which sequoia tree?</q> and answer <q>The towering one.</q></p>
                 <paragraphs>
                     <title>Participial Phrase as Modifier</title>
-                    <p>A <xref ref="definition-participial-phrases"/> can also act as a <xref ref="definition-modifier"/>. For instance, in the sentence <q>Gazing at the towering sequoia tree, the students were in awe,</q> the phrase <q>gazing at the towering sequoia tree</q> is the modifier describing the students. You can play the same game as before: <q>Which students were in awe?</q> <q>The ones gazing at the towering sequoia tree.</q></p>
+                    <p>A <xref ref="definition-participial-phrases" text="title"/> can also act as a <xref ref="definition-modifier" text="title"/>. For instance, in the sentence <q>Gazing at the towering sequoia tree, the students were in awe,</q> the phrase <q>gazing at the towering sequoia tree</q> is the modifier describing the students. You can play the same game as before: <q>Which students were in awe?</q> <q>The ones gazing at the towering sequoia tree.</q></p>
                 </paragraphs>
                 <paragraphs>
                     <title>Adjective Clause as Modifier</title>
-                    <p>An <xref ref="definition-adjective-clause"/> can act as another type of <xref ref="definition-modifier"/>. In the sentence <q>The sequoia tree, which was towering over the students, inspired widespread awe,</q> the clause <q>which was towering over the students</q> is the modifier describing the sequoia tree. Again: <q>What kind of sequoia tree?</q> <q>The one towering over the students.</q></p>
+                    <p>An <xref ref="definition-adjective-clause" text="title"/> can act as another type of <xref ref="definition-modifier" text="title"/>. In the sentence <q>The sequoia tree, which was towering over the students, inspired widespread awe,</q> the clause <q>which was towering over the students</q> is the modifier describing the sequoia tree. Again: <q>What kind of sequoia tree?</q> <q>The one towering over the students.</q></p>
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="types-of-sentences">
@@ -336,21 +336,21 @@
                     <dl>
                         <li xml:id="definition-simple-sentence">
                             <title>simple sentence</title>
-                            <p>one <xref ref="definition-independent-clause"/></p>
+                            <p>one <xref ref="definition-independent-clause" text="title"/></p>
                             <p><q>I love Puget Sound.</q></p>
                             <p><q>My RCC is so cool.</q></p>
                             <p><q>Puget Sound is in Washington.</q></p>
                         </li>
                         <li xml:id="definition-compound-sentence">
                             <title>compound sentence</title>
-                            <p>at least two <xref ref="definition-independent-clause">independent clauses</xref> connected via a coordinating <xref ref="definition-conjunction"/></p>
+                            <p>at least two <xref ref="definition-independent-clause" text="custom">independent clauses</xref> connected via a coordinating <xref ref="definition-conjunction" text="title"/></p>
                             <p><q>I miss my high school friends, but I'm excited to make new friends.</q></p>
                             <p><q>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</q></p>
                             <p><q>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</q></p>
                         </li>
                         <li xml:id="definition-complex-sentence">
                             <title>complex sentence</title>
-                            <p><xref ref="definition-independent-clause"/> and one or more <xref ref="definition-dependent-clause"> dependent/subordinate clauses</xref></p>
+                            <p><xref ref="definition-independent-clause" text="title"/> and one or more <xref ref="definition-dependent-clause" text="custom"> dependent/subordinate clauses</xref></p>
                             <p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p>
                             <p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p>
                             <p><q>I need to drink coffee when I'm tired.</q></p>
@@ -358,7 +358,7 @@
                         </li>
                         <li xml:id="definition-compound-complex-sentence">
                             <title>compound-complex sentence</title>
-                            <p>two or more <xref ref="definition-independent-clause">independent clauses</xref> and at least one <xref ref="definition-dependent-clause"/></p>
+                            <p>two or more <xref ref="definition-independent-clause" text="custom">independent clauses</xref> and at least one <xref ref="definition-dependent-clause" text="title"/></p>
                             <p><q>Independent clauses are really cool, but sometimes they get too long when you add too much information.</q></p>
                         </li>
                     </dl>
@@ -410,11 +410,11 @@
             </subsubsection>
             <subsubsection xml:id="subordination-coordination">
                 <title>Subordination and Coordination</title>
-                <p>Because each <xref ref="definition-clause"/> in a <xref ref="definition-compound-sentence"/> is independent, neither one is obviously foregrounded in relation to the other (as in a <xref ref="definition-complex-sentence"/>). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the coordinating <xref ref="definition-conjunction"/>), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
-                <p>As its name implies, a <xref ref="definition-dependent-clause"/> must always be subordinated to the <xref ref="definition-independent-clause"/> independent clause in a <xref ref="definition-complex-sentence"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
+                <p>Because each <xref ref="definition-clause" text="title"/> in a <xref ref="definition-compound-sentence" text="title"/> is independent, neither one is obviously foregrounded in relation to the other (as in a <xref ref="definition-complex-sentence" text="title"/>). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the coordinating <xref ref="definition-conjunction" text="title"/>), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
+                <p>As its name implies, a <xref ref="definition-dependent-clause" text="title"/> must always be subordinated to the <xref ref="definition-independent-clause" text="title"/> independent clause in a <xref ref="definition-complex-sentence" text="title"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
                 <note xml:id="note-mechanics-compound-sentences">
                     <!-- <title></title> -->
-                    <p> A <xref ref="definition-compound-sentence"/> can easily be transformed into a <xref ref="definition-complex-sentence"/>. For instance, the example <q>I miss my high school friends, but I'm excited to make new friends.</q> could be reconstructed to read <q>Although I miss my high school friends, I'm excited to make new friends.</q> Consider what meaning you want to convey in your sentence and construct them accordingly.</p>
+                    <p> A <xref ref="definition-compound-sentence" text="title"/> can easily be transformed into a <xref ref="definition-complex-sentence" text="title"/>. For instance, the example <q>I miss my high school friends, but I'm excited to make new friends.</q> could be reconstructed to read <q>Although I miss my high school friends, I'm excited to make new friends.</q> Consider what meaning you want to convey in your sentence and construct them accordingly.</p>
                 </note>
             </subsubsection>
         </subsection>
@@ -422,7 +422,7 @@
             <title>Grammar of Infinitives</title>
             <introduction>
                 <p><term>Infinitives<idx>infinitives</idx></term> are verb forms composed of two words, such as <q>to write</q> or <q>to understand.</q> For instance, <q>I like to write sentences using infinitives</q> and <q>To understand infinitives, one should learn when to use them,</q> are examples of the infinitive verb form.</p>
-                <p>But say you wanted to make these sentences a bit more descriptive. You can do this by adding an <xref ref="definition-adverb"/> or adverbial phrase to the verb forms, such as <q>clearly write</q> or <q>fully understand.</q> This may result in <q>splitting the infinitive,</q> where adverbs or adverbial phrases are inserted between the <q>to</q> and the root verb that follows, as in <q>to clearly write</q> or <q>to fully understand.</q> Split infinitives are hotly contested in the grammar world. Some grammarians argue we should always avoid splitting our infinitives while others assert splitting the infinitive isn't a hard rule and can be done if it preserves thought and sentence fluency. Therefore, it's hard to know when to avoid splitting an infinitive and when it's all right to leave it as is. Below are a few guidelines to help you decide whether or not to split your infinitives (infinitive verb forms are <un s="1">underlined</un>, adverbs are <em>italicized</em>).</p>
+                <p>But say you wanted to make these sentences a bit more descriptive. You can do this by adding an <xref ref="definition-adverb" text="title"/> or adverbial phrase to the verb forms, such as <q>clearly write</q> or <q>fully understand.</q> This may result in <q>splitting the infinitive,</q> where adverbs or adverbial phrases are inserted between the <q>to</q> and the root verb that follows, as in <q>to clearly write</q> or <q>to fully understand.</q> Split infinitives are hotly contested in the grammar world. Some grammarians argue we should always avoid splitting our infinitives while others assert splitting the infinitive isn't a hard rule and can be done if it preserves thought and sentence fluency. Therefore, it's hard to know when to avoid splitting an infinitive and when it's all right to leave it as is. Below are a few guidelines to help you decide whether or not to split your infinitives (infinitive verb forms are <un s="1">underlined</un>, adverbs are <em>italicized</em>).</p>
             </introduction>
             <subsubsection xml:id="when-to-split-infinitives">
                 <title>When to Split Infinitives</title>
@@ -557,11 +557,11 @@
         <subsection xml:id="subject-verb-agreement">
             <title>Problems with Subject-Verb Agreement</title>
             <introduction>
-                <p>As we have seen, <xref ref="definition-subject">subjects</xref> and <xref ref="definition-verb">verbs</xref> (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <xref ref="SAE" text="title"><init>SAE</init></xref>, you wouldn't say <q>Amanda <em>jog</em> to the field house,</q> but rather <q>Amanda <em>jogs</em> to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
+                <p>As we have seen, <xref ref="definition-subject" text="custom">subjects</xref> and <xref ref="definition-verb" text="custom">verbs</xref> (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <xref ref="SAE" text="title"/>, you wouldn't say <q>Amanda <em>jog</em> to the field house,</q> but rather <q>Amanda <em>jogs</em> to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
             </introduction>
             <subsubsection xml:id="agreement-problems">
                 <title>Subject-Verb Agreement Rules</title>
-                <p>Any student of a foreign language knows that consistent <xref ref="definition-subject"/> and <xref ref="definition-verb"/> agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular), or<mdash/>in the middle of complicated sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
+                <p>Any student of a foreign language knows that consistent <xref ref="definition-subject" text="title"/> and <xref ref="definition-verb" text="title"/> agreement can be a pain. Even in a first language, writers and speakers alike can confuse whether a word is singular or plural (a group?<mdash/>hint: it's singular), or<mdash/>in the middle of complicated sentences<mdash/>forget whether the subject of their sentence was singular or plural. Thankfully, we have the opportunity to revise when we write!</p>
                 <list>
                     <title>Strategies for Maintaining Subject-Verb Agreement</title>
                     <introduction>
@@ -609,7 +609,7 @@
             </subsubsection>
             <subsubsection xml:id="pronoun-antecedent-not-agreeing">
                 <title>Pronoun-Antecedent Agreement</title>
-                <p>Problems with agreement occur most commonly when a writer mentions a <xref ref="definition-subject"/>, a movie director, for example, and then uses a <xref ref="definition-pronoun"/> to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender-neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure" text="title"/>)</p>
+                <p>Problems with agreement occur most commonly when a writer mentions a <xref ref="definition-subject" text="title"/>, a movie director, for example, and then uses a <xref ref="definition-pronoun" text="title"/> to refer back to that subject. When the subject's gender is unspecified, it is unclear whether the subject (in this case, the director) should be referred to as <q>he</q> or <q>she.</q> Because the plural pronoun <q>they</q> is gender-neutral, many writers, consciously or not, opt to use <q>they</q> instead of <q>he,</q> <q>she,</q> or the more cumbersome phrase <q>he or she.</q> (see <xref ref="basic-sentence-structure"/>)</p>
                 <p>A sentence using <q>they</q> but referring to a singular pronoun looks like this:</p>
                 <blockquote>
                     <p><q>I liked what the director of the movie did. They did a good job.</q></p>
@@ -626,7 +626,7 @@
             </subsubsection>
             <subsubsection xml:id="indefinite-pronouns-agreement">
             <title>Indefinite Pronouns</title>
-                <p>Indefinite <xref ref="definition-pronoun">pronouns</xref> do not refer to any particular person or thing, and it is not always obvious whether they are singular or plural, which can make subject-verb agreement a bit tricky.Many indefinite pronouns (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular <xref ref="definition-verb"/> (-s ending or <q>is</q>/<q>has</q>).</p>
+                <p>Indefinite <xref ref="definition-pronoun" text="custom">pronouns</xref> do not refer to any particular person or thing, and it is not always obvious whether they are singular or plural, which can make subject-verb agreement a bit tricky.Many indefinite pronouns (<eg/>, anyone, everyone, everybody, someone, no one, nobody) are singular and should be accompanied by a singular <xref ref="definition-verb" text="title"/> (-s ending or <q>is</q>/<q>has</q>).</p>
                 <example>
                     <title>Anyone and Everyone as Pronouns: Luau</title>
                     <p><q>Is anyone going to Luau this year? I've heard everyone always has a great time.</q></p>
@@ -639,7 +639,7 @@
                     <title>Nobody as a Pronoun: Math Question</title>
                     <p><q>Nobody knows the answer to the math question.</q></p>
                 </example>
-                <p><q>Each</q> is a singular <xref ref="definition-pronoun"/> and requires a singular <xref ref="definition-verb"/>. Therefore, even if the subject of the sentence is plural, <q>each</q> refers to every single member of that group and should be treated as a singular pronoun.</p>
+                <p><q>Each</q> is a singular <xref ref="definition-pronoun" text="title"/> and requires a singular <xref ref="definition-verb" text="title"/>. Therefore, even if the subject of the sentence is plural, <q>each</q> refers to every single member of that group and should be treated as a singular pronoun.</p>
                 <example>
                     <title>Each as a Pronoun: Research Students</title>
                     <p><q>Each of the research students has access to the lab.</q></p>
@@ -677,7 +677,7 @@
 </subsubsection>
             <subsubsection xml:id="agreement-s-endings">
                 <title>-S Endings</title>
-                <p>In <xref ref="SAE" text="title"><init>SAE</init></xref>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
+                <p>In <xref ref="SAE" text="title"/>, third-person singular subjects (<eg/>, she, he, it, proper pronoun) require an <q>s</q> at the end of their accompanying present-tense verb. Plural subjects (<eg/>, they, people), however, do not require an <q>s.</q> Even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="custom">They as a Singular Pronoun</xref>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they sit</q> rather than <q>they sits</q>).</p>
 
                 <example>
                     <title>Agreement with <q>-S</q> Endings</title>
@@ -696,7 +696,7 @@
                 <title>Is/Are</title>
                 <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                 <p>
-                    As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).
+                    As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they">They as a Singular Pronoun</xref>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).
                 </p>
 
                 <example>
@@ -796,7 +796,7 @@
             <subsubsection xml:id="agreement-confusing-modifiers">
                 <title>Confusing Modifiers</title>
                 <p>
-                    Sometimes the <xref ref="definition-subject"/> and <xref ref="definition-verb"/> are separated by modifying phrases and <xref ref="definition-adjective">adjectives</xref> that describe the subject. While <xref ref="definition-modifier">modifiers</xref> are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicized.
+                    Sometimes the <xref ref="definition-subject" text="title"/> and <xref ref="definition-verb" text="title"/> are separated by modifying phrases and <xref ref="definition-adjective" text="custom">adjectives</xref> that describe the subject. While <xref ref="definition-modifier" text="custom">modifiers</xref> are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicized.
                     <ul>
                         <li><p><q><un s="1">President Crawford</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
                         <li><p><q>The <un s="1">first-year resident</un>, who was feeling <acro>FOMO</acro> and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
@@ -815,8 +815,8 @@
             </subsubsection>
             <subsubsection xml:id="agreement-collective-nouns">
                 <title>Collective Nouns</title>
-                <p>There are some <xref ref="definition-subject">subjects</xref> that may be singular or plural depending on how you use them.</p>
-                <p>In order to determine whether to use a singular or a plural <xref ref="definition-verb"/>, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
+                <p>There are some <xref ref="definition-subject" text="custom">subjects</xref> that may be singular or plural depending on how you use them.</p>
+                <p>In order to determine whether to use a singular or a plural <xref ref="definition-verb" text="title"/>, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
                 <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room is silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at Diversions.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
                 <p>A list of some collective nouns and example uses may be found below.</p>
                 <example>
@@ -874,8 +874,8 @@
             </subsubsection>
             <subsubsection xml:id="agreement-fractional-expressions">
                 <title>Fractional Expressions</title>
-                <p>A <term>fractional expression<idx>fractional expression</idx></term> begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun"/>.</p>
-                <p>Generally, fractional expressions can agree with either plural or singular <xref ref="definition-verb">verbs</xref>. Pick the type of verb based on the meaning and context of the fractional expression.</p>
+                <p>A <term>fractional expression<idx>fractional expression</idx></term> begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun" text="title"/>.</p>
+                <p>Generally, fractional expressions can agree with either plural or singular <xref ref="definition-verb" text="custom">verbs</xref>. Pick the type of verb based on the meaning and context of the fractional expression.</p>
                 <example>
                     <title>Fractional Expressions with Plural Agreement</title>
                     <p>
@@ -1292,7 +1292,7 @@
         </subsection>
         <subsection xml:id="style-using-passive-cautiously">
             <title>Using Passive Constructions Cautiously</title>
-            <p>The <term>passive voice<idx>passive voice</idx></term> is <em>passive</em> because sentences in this structure de-emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs<idx>transitive verbs</idx></term>, which take <xref ref="definition-direct-object">direct objects</xref>.</p>
+            <p>The <term>passive voice<idx>passive voice</idx></term> is <em>passive</em> because sentences in this structure de-emphasize the role of the actor in a sentence. An active sentence puts the actor front and center (<q>Sally hugged Barbara</q>) whereas a passive sentence holds the actor less prominently and places the action/object acted upon front and center (<q>Barbara was hugged by Sally</q>). The active sentence emphasizes Sally as the actor, whereas the passive sentence emphasizes that Barbara received a hug. Note that passive constructions can only occur in sentences with <term>transitive verbs<idx>transitive verbs</idx></term>, which take <xref ref="definition-direct-object" text="custom">direct objects</xref>.</p>
             <example>
                 <title>Active Versus Passive Voice</title>
                 <p>
@@ -1349,7 +1349,7 @@
                     <li><title>Look for <q>by</q> + a noun/pronoun/proper noun</title>
                         <p>As with the example <q>Barbara was hugged by Sally,</q> passive sentences often use the word <q>by</q> to show that someone or something carried out the action. Barbara wasn't <em>just</em> hugged, she was hugged <em>by Sally.</em></p>
                     </li>
-                    <li><title>Check out an example: <xref ref="example-mechanics-juxtaposing-ap"/></title>
+                    <li><title>Check out an example: <xref ref="example-mechanics-juxtaposing-ap" text="title"/></title>
                     </li>
                 </ul>
             </list>
@@ -1399,7 +1399,7 @@
         <subsection xml:id="style-using-strong-verbs">
             <title>Using Strong Verbs</title>
             <p>While we use <q>to be</q> frequently in our every day speech, the verb is often too weak as the main verb in formal writing. Uses of <q>to be</q> include: <em>to be, being, am, is, are, was, and were.</em></p>
-            <p>Writers prefer not to overuse <q>to be</q> because English contains plenty of stronger (<ie/>, more active, informative, and interesting) verbs. <q>To be</q> also frequently indicates that you are using <xref ref="style-using-passive-cautiously">passive voice</xref>. Using <q>to be</q> too much thus makes your writing boring or too passive. Which passage below do you prefer?</p>
+            <p>Writers prefer not to overuse <q>to be</q> because English contains plenty of stronger (<ie/>, more active, informative, and interesting) verbs. <q>To be</q> also frequently indicates that you are using <xref ref="style-using-passive-cautiously" text="custom">passive voice</xref>. Using <q>to be</q> too much thus makes your writing boring or too passive. Which passage below do you prefer?</p>
             <blockquote>
                 <p><q>I was going to Diversions when I saw something that was interesting. It was my friend, Sally. Sally was outside and was sleeping on her chemistry textbook.</q></p>
                 <p><q>On my way to Diversions, I happened upon an interesting (and funny) sight: my friend, Sally, had fallen asleep outside, using her chemistry textbook as a pillow!</q></p>
@@ -1408,7 +1408,7 @@
                 <title>Thesaurus Use</title>
                 <p>Try using a thesaurus to find alternative words, <alert>but use caution!</alert> Sometimes thesauruses mislead writers when the writer doesn't fully understand the connotation or typical uses of a synonym.</p>
             </warning>
-            <p>Here's a list of <xref ref="example-strong-verbs"/> to consider using. There are short definitions to give you an idea of what the word means, but be sure to look up any words you use to make sure that the contexts in which you're using them align with their meaning. There may also be alternative meanings that aren't listed here, so the dictionary and thesaurus will still be your friends.</p>
+            <p>Here's a list of <xref ref="example-strong-verbs" text="title"/> to consider using. There are short definitions to give you an idea of what the word means, but be sure to look up any words you use to make sure that the contexts in which you're using them align with their meaning. There may also be alternative meanings that aren't listed here, so the dictionary and thesaurus will still be your friends.</p>
             <sidebyside width="50%">
                 <image source="images/LM-HerbTheStrongVerb"/>
             </sidebyside>
@@ -2310,7 +2310,7 @@
                 </note>
                 <paragraphs xml:id="par-comma-splices">
                     <title>Comma Splices</title>
-                    <p>These occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure" text="title"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q></em> Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused? What can you do instead? You have several options!</p>
+                    <p>These occur when a writer joins two independent clauses with a comma (see <xref ref="basic-sentence-structure"/>). Recall that an independent clause is a sentence with a subject, verb, and complete idea. <em><q>Comma splices are weird, they look like this.</q></em> Comma splices make sentences less precise, can you see how this comma splice makes my sentence quite confused? What can you do instead? You have several options!</p>
                     <list xml:id="list-mechanics-resoloving-splices">
                         <title>Strategies for Resolving Comma Splices</title>
                         <ul>
@@ -2419,29 +2419,29 @@
                     <title>Strategies for Quoting Complete Sentences</title>
                     <ul>
                         <li><title>Enclose the quote within two sets of quotation marks</title>
-                            <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote. See <xref ref="example-punctuation-using-quotations"/> for an example.</p>
+                            <p>All quotes require two sets of quotation marks, one set signifying the beginning of the quote and the other signifying the end. Therefore, whenever you use one set of quotations, be sure you follow them up with a second set at the end of the quote. See <xref ref="example-punctuation-using-quotations" text="title"/> for an example.</p>
                         </li>
                         <li><title>Preface the quote with a comma after the preceding word</title>
-                            <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote. See <xref ref="example-punctuation-prefacing-quotations"/> for an example.</p>
+                            <p>In order to introduce your quote to the reader, place a comma after the dialogue tag or introductory phrase that comes before your quote. See <xref ref="example-punctuation-prefacing-quotations" text="title"/> for an example.</p>
                         </li>
                         <li><title>Capitalize the quoted sentence</title>
-                            <p>If you are quoting a complete sentence, capitalize the first letter of the quoted sentence. See <xref ref="example-punctuation-capitalizing-quoted"/> for an example.</p>
+                            <p>If you are quoting a complete sentence, capitalize the first letter of the quoted sentence. See <xref ref="example-punctuation-capitalizing-quoted" text="title"/> for an example.</p>
                         </li>
                         <li><title>End each quoted sentence within the quotation marks</title>
-                            <p>If you are ending your sentence with a quoted sentence, end the quote with a period, exclamation point, or ellipsis before the final set of quotation marks. See <xref ref="example-punctuation-integrating-quotes"/> for an example.</p>
+                            <p>If you are ending your sentence with a quoted sentence, end the quote with a period, exclamation point, or ellipsis before the final set of quotation marks. See <xref ref="example-punctuation-integrating-quotes" text="title"/> for an example.</p>
                         </li>
                         <li><title>Integrate your quotes into the grammar of your sentence</title>
-                            <p>If you are breaking your quoted sentence into two parts, end the first part with a comma and do not capitalize the second part. See <xref ref="example-punctuation-ellipses-replacing"/> for an example.</p>
+                            <p>If you are breaking your quoted sentence into two parts, end the first part with a comma and do not capitalize the second part. See <xref ref="example-punctuation-ellipses-replacing" text="title"/> for an example.</p>
                         </li>
                         <li><title>Use an ellipsis to replace omitted source material</title>
                             <p>Sometimes the information you want to quote will be near the beginning or end of a long sentence or passage, but the material in between may not be applicable or useful to you. If this is the case, you can use an ellipsis (<ellipsis/>) to replace the material you are omitting. However, it's important that the material you are replacing does not change the meaning or intent of the source material.</p>
-                            <p>Because any quote comes from a larger context, an ellipsis is only needed at the beginning or end of a quote if it would appear otherwise that the entire sentence was quoted. See <xref ref="example-punctuation-ellipses-honestly"/> for an example.</p>
+                            <p>Because any quote comes from a larger context, an ellipsis is only needed at the beginning or end of a quote if it would appear otherwise that the entire sentence was quoted. See <xref ref="example-punctuation-ellipses-honestly" text="title"/> for an example.</p>
                         </li>
                         <li><title>Use brackets to indicate non-standard elements or changes</title>
-                            <p>Sometimes direct quotes have spelling or grammatical deviations from <xref ref="SAE" text="title"><init>SAE</init></xref>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence. See <xref ref="example-punctuation-brackets-changes"/> for an example.</p>
+                            <p>Sometimes direct quotes have spelling or grammatical deviations from <xref ref="SAE" text="title"/>. In order to preserve the original voice, it's important to include these deviations when possible and acknowledge them with an indicator ([sic], Latin for <q>thus</q>) after the perceived deviation. Similarly, if a part of your source material is underlined or italicized or in some other way emphasized, you should generally include this in your quotation. Emphases are indicated differently based on the citation style you are using (see <xref ref="citations"/>), but a basic guideline is to indicate emphases with <q>[emphasis in original]</q> at the end of or immediately following the quoted sentence. See <xref ref="example-punctuation-brackets-changes" text="title"/> for an example.</p>
                         </li>
                         <li><title>Use brackets to enclose important nouns missing in quote</title>
-                            <p>Sometimes sentences omit a previously referred-to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun. See <xref ref="example-punctuation-brackets-insertion"/> for an example.</p>
+                            <p>Sometimes sentences omit a previously referred-to noun, person, or object to avoid unnecessary repetition, instead replacing the item with <q>it</q> or <q>they.</q> In order to specify the identity of the item, you can use brackets to identify it in place of or immediately after the pronoun. See <xref ref="example-punctuation-brackets-insertion" text="title"/> for an example.</p>
                         </li>
                     </ul>
                 </list>
@@ -2486,14 +2486,14 @@
                     <title>Strategies for Quoting Sentence Fragments</title>
                     <ul>
                         <li><title>Quoted fragments should not be capitalized</title>
-                            <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.  See <xref ref="example-mechanics-uncapitalized-fragments"/>.</p>
+                            <p>If you are quoting only a piece or fragment of the source material, the fragment does not need to be capitalized.  See <xref ref="example-mechanics-uncapitalized-fragments" text="title"/>.</p>
                         </li>
                         <li><title>Incorporate quoted fragments into the syntax of your sentence</title>
-                            <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.  See <xref ref="example-mechanics-quotes-sentences"/>.</p>
+                            <p>For instance, if you are listing quoted words or phrases, be sure they adhere to parallel sentence structure (see <xref ref="problems-with-parallelism"/>) and separate them with commas inside of the quotation marks. Finally, make sure the resulting sentence is grammatically correct and complete.  See <xref ref="example-mechanics-quotes-sentences" text="title"/>.</p>
                         </li>
                         <li><title>Use block quotes for large quoted sections</title>
                             <p>If you are quoting long sections of a text, introduce the passage with a colon or comma, indent the passage, and omit quotation marks.</p>
-                            <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.  See <xref ref="example-mechanics-block-quotes"/>.</p>
+                            <p>When quoting more than four lines of prose or more than three lines of poetry, introduce the quote with an introductory sentence ending with a comma or colon. Begin the quotation on a new line and indent the entire passage one inch from the left margin. Try to keep spacing and line breaks as close to the original formatting as possible.  See <xref ref="example-mechanics-block-quotes" text="title"/>.</p>
                         </li>
                     </ul>
                 </list>
@@ -2746,7 +2746,7 @@
                             <p>the title's first word</p>
                         </li>
                         <li>
-                            <p><xref ref="definition-adjective">adjectives</xref>, <xref ref="definition-adverb">adverbs</xref>, <xref ref="definition-pronoun">pronouns</xref>, <xref ref="definition-noun">nouns</xref>, proper nouns, and <xref ref="definition-verb">verbs</xref> (except the <q>to</q> in infinitives).</p>
+                            <p><xref ref="definition-adjective" text="custom">adjectives</xref>, <xref ref="definition-adverb" text="custom">adverbs</xref>, <xref ref="definition-pronoun" text="custom">pronouns</xref>, <xref ref="definition-noun" text="custom">nouns</xref>, proper nouns, and <xref ref="definition-verb" text="custom">verbs</xref> (except the <q>to</q> in infinitives).</p>
                         </li>
                     </ul>
                     It is usually safe not to capitalize:
@@ -2755,7 +2755,7 @@
                             <p>articles (a, an, the)</p>
                         </li>
                         <li>
-                            <p>coordinating <xref ref="definition-conjunction">conjunctions</xref></p>
+                            <p>coordinating <xref ref="definition-conjunction" text="custom">conjunctions</xref></p>
                         </li>
                     </ul>
                 </p>
@@ -2876,7 +2876,7 @@
                 </li>
                 <li>
                     <p>Where do commas and periods go when you're using quotation marks?</p>
-                    <p>In <xref ref="SAE" text="title"/>, commas and periods go inside <q>quotation marks.</q> The exception to this guideline is for some citation styles, like MLA, which <q>look like this</q> (page number).</p>
+                    <p>In <xref ref="SAE"/>, commas and periods go inside <q>quotation marks.</q> The exception to this guideline is for some citation styles, like MLA, which <q>look like this</q> (page number).</p>
                 </li>
             </ol>
         </p>
