@@ -50,7 +50,7 @@
                         <li><p>Use current, appropriate language in your writing. Language used in the past to identify people of color is usually not appropriate in the current context unless you are citing a quote. (see <xref ref="writing-with-awareness"/> for more help on this, and if you’re still not sure, ask your professor).</p></li>
                     </ul></p></li>
                 <li><p>Understand and convey the situatedness of whatever you write about. For instance, if you're writing about DuBois, you've got to explain why DuBois was arguing the way he was (in opposition to Booker T. Washington).</p></li>
-                <li><p>Integrating language and quotes from Non-<init>SAE</init> speakers is encouraged. Use your writing as a space to include different voices. For instance, in an upper level <init>AFAM</init> class you might write a scientific counseling article about drug addiction but you could have direct excerpts about people's experiences with drug addiction as African Americans related to whatever section you’re talking about because that adds to it (see <xref ref="SAE" text="title">Standard American English</xref>).</p></li>
+                <li><p>Integrating language and quotes from Non-<init>SAE</init> speakers is encouraged. Use your writing as a space to include different voices. For instance, in an upper level <init>AFAM</init> class you might write a scientific counseling article about drug addiction but you could have direct excerpts about people's experiences with drug addiction as African Americans related to whatever section you’re talking about because that adds to it (see <xref ref="SAE"/>).</p></li>
                 <li><p>Define your terms! You can't assume that everybody knows what you mean. Also sometimes there are many words for the same definition. You need to explain that when you say <q>Black,</q> you mean this vs. when you say <q>African American</q> you mean that.</p></li>
                 <li><p>Don't rely on jargon! Your writing should be a way you can express what you're learning in class to the public. Jargon can get in the way.</p></li>
                 <li><p>Come to class and do the reading so that you're prepared to write respectfully.</p></li>
@@ -96,13 +96,13 @@
                     <p>Be descriptive and analytical. When you describe visual features of an artwork in your visual analysis, explain why those aspects of the work contribute to the overall meaning conveyed by the work. Describing a visual feature of an artwork is similar to using quotes in other disciplines, such as History or English.  Just as you do not throw a quote from a primary or secondary source into your text without explaining its importance, do not let the visual evidence speak for itself, since a different viewer might draw different conclusions than what you are getting at.</p>
                 </li>
                 <li>
-                    <p>Use Chicago Style to format your <xref ref="citations" text="title">references</xref> in Art History papers.</p>
+                    <p>Use Chicago Style to format your citations in Art History papers (see <xref ref="citations"/>).</p>
                 </li>
             </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-art-additional-resources">
             <title>Additional Resources</title>
-            <p>Read the sections on <xref ref="writing-for-history" text="title"/> and <xref ref="writing-for-english" text="title"/> of this handbook to gain more understanding about close reading and analysis of primary and secondary sources.</p>
+            <p>Read <xref ref="writing-for-history"/> and <xref ref="writing-for-english"/> to gain more understanding about close reading and analysis of primary and secondary sources.</p>
             <p>Consult Sylvan Barnet's <pubtitle>A Short Guide to Writing About Art</pubtitle>, Pearson, 2014 for more detail about writing about art (including medium specific questions one may ask when analyzing a work), for tips and examples of effective visual analyses, and for advice on completing research papers.</p>
         </paragraphs>
     </section>
@@ -221,7 +221,7 @@
                 <li><p>Use the proper number of significant figures when reporting data.</p></li>
                 <li><p>Always put a space between a number and its units.</p></li>
                 <li><p>Always put a zero in front of a decimal value, otherwise a decimal can be mistaken for a period.</p></li>
-                <li><p>Use the correct <xref ref="citations" text="title">citation</xref> style.</p></li>
+                <li><p>Use the correct citation style (see <xref ref="citations"/>).</p></li>
                 <li><p>Write in pen in your lab notebook. You'll find out why, if you spill something!</p></li>
             </ul></p>
         </paragraphs>
@@ -315,7 +315,7 @@
                 <li><p>Don't make broad claims or generalizations about human nature. Instead work to preserve the particularity of the past.</p></li>
                 <li><p>When writing historically, chronological order should be your default way to organize, however, don't be limited by chronology if your paper would be clearer organized another way (<eg/>, thematically, by historical figures or groups).</p></li>
                 <li><p>Write in the past tense!</p></li>
-                <li><p><xref ref="citations" text="title">Citations</xref> are important. Use the Chicago style in general.</p></li>
+                <li><p>Citations are important. Use the Chicago style in general (see <xref ref="citations"/>).</p></li>
             </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-history-additional-resources">
@@ -398,7 +398,7 @@
             <title>Conventions and Tips</title>
             <p><ul>
                 <li><p>Psychology writing operates on the sometimes subtle differentiation between broad generalizations and possible explanations. For this reason, writing in psychology relies on the <q>tentative tone.</q> Don't say <q>love is dangerous,</q> instead say <q>love can be dangerous</q> and add supporting evidence, allowing room for other conclusions.</p></li>
-                <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. <xref ref="citations" text="title">Cite</xref> them, but don't introduce them formally.</p></li>
+                <li><p>Writing in psychology seeks to de-emphasize the <q>who</q> and instead focus on the <q>what.</q> For this reason don't <q>call on experts</q> or name-drop the authors of your secondary sources in text as you would in other disciplines. Cite them, but don't introduce them formally (see <xref ref="citations"/>).</p></li>
             </ul></p>
         </paragraphs>
         <paragraphs xml:id="writing-psychology-additional-resources">
@@ -430,7 +430,7 @@
         <paragraphs xml:id="par-ipe-writing-evidence">
             <title>Evidence</title>
             <p><em><q>Research, research, research, and cite everything!</q></em></p>
-            <p>The vast majority of evidence used in <init>IPE</init> papers should be peer-reviewed scholarly sources or <term>gray literature<idx>gray literature</idx></term>. Gray literature is research from outside of academia, including government documents and reports from organizations such as the World Bank or the <init>UN</init>. There are some exceptions depending on the assignment, however, and you should pay attention to the specific audience for which you are being asked to write. For example, if you are asked to write a letter to the editor, the peer-reviewed aspect of sources isn’t as important. Make sure to always cite your sources, including the data that you collect, and use Chicago <xref ref="citations"/> style unless otherwise directed by your professor. </p>
+            <p>The vast majority of evidence used in <init>IPE</init> papers should be peer-reviewed scholarly sources or <term>gray literature<idx>gray literature</idx></term>. Gray literature is research from outside of academia, including government documents and reports from organizations such as the World Bank or the <init>UN</init>. There are some exceptions depending on the assignment, however, and you should pay attention to the specific audience for which you are being asked to write. For example, if you are asked to write a letter to the editor, the peer-reviewed aspect of sources isn’t as important. Make sure to always cite your sources, including the data that you collect, and use Chicago style unless otherwise directed by your professor (see <xref ref="citations"/>). </p>
         </paragraphs>
         <paragraphs xml:id="par-ipe-writing-conventions">
             <title>Conventions and Tips</title>
@@ -445,7 +445,7 @@
                     <p>Learning the difference between an opinion and an argument is key for writing a strong <init>IPE</init> paper. An opinion is based on values or beliefs and doesn’t necessarily have to be supported with evidence. You can disregard all of the evidence to the contrary and still hold onto your opinion. An argument must be something about which other reasonable parties could disagree and it must be supportable with evidence. When writing an <init>IPE</init> paper, don’t take off running with your first opinion and try to find sources to support it. Instead, take the time to read sources and build an argument before writing.</p>
                 </li>
                 <li>
-                    <p>You should not start your paper with broad generalizations such as <q>since the dawn of time<nbsp/><ellipsis/></q> (see <xref ref="list-process-openings-to-avoid"/>). While your paper should be accessible to any college educated reader, it’s important to begin with the topic your paper is actually about.</p>
+                    <p>You should not start your paper with broad generalizations such as <q>since the dawn of time<ellipsis/></q> (see <xref ref="list-process-openings-to-avoid"/>). While your paper should be accessible to any college educated reader, it’s important to begin with the topic your paper is actually about.</p>
                 </li>
                 <li>
                     <p>There are few <init>IPE</init> specific writing conventions because <init>IPE</init> is not a distinct discipline per se, but social science writing conventions should be followed. Active and passive voices are both generally okay (though see <xref ref="style-using-passive-cautiously"/>), and sometimes first person is allowed as well. Different professors will have different preferences, so check in with them about the writing style they prefer.</p>
