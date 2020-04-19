@@ -94,11 +94,11 @@
                                 Before you begin writing, it's helpful to think about the tone of your essay<mdash/>the language you're going to use, how objective or subjective you will be, from which point of view you will write. For instance, you probably wouldn't write a chemistry lab report using the same language that you would use to write a personal narrative (see <xref ref="discipline-specific-writing"/>). Deciding on a voice early on can help you figure out what kind of language to use while you are planning, outlining, and drafting your paper.
                             </p>
                         </li>
-                        <li><title>Create a <xref ref="planning-mind-map"/></title>
+                        <li><title>Create a <xref ref="planning-mind-map" text="title"/></title>
                         </li>
-                        <li><title>Try <xref ref="planning-freewrite"/></title>
+                        <li><title>Try <xref ref="planning-freewrite" text="title"/></title>
                         </li>
-                        <li><title>Try <xref ref="planning-draw"/></title>
+                        <li><title>Try <xref ref="planning-draw" text="title"/></title>
                         </li>
                     </ul>
                 </list>
@@ -227,7 +227,7 @@
                 <paragraphs xml:id="par-intros-common-ground">
                     <title>Common Ground</title>
                     <p>
-                        It's important to begin your introduction with a nice, firm handshake with the audience, which often comes in the form of establishing common ground. Your common ground should do two things: 1) introduce your topic, and 2) establish yourself as an authority on the topic at hand. Common ground is usually established in the form of a factual, uncontroversial statement that is likely familiar to your audience and which may comfortably orient them to your topic. It may also introduce the works, authors, and sources you will be using by drawing an observational similarity between them. When establishing common ground, steer clear of these <xref ref="list-process-openings-to-avoid"/> and opt for something like these <xref ref="list-process-effective-openings"/> instead. You can also read more about <xref ref="example-process-revising-opening"/>.
+                        It's important to begin your introduction with a nice, firm handshake with the audience, which often comes in the form of establishing common ground. Your common ground should do two things: 1) introduce your topic, and 2) establish yourself as an authority on the topic at hand. Common ground is usually established in the form of a factual, uncontroversial statement that is likely familiar to your audience and which may comfortably orient them to your topic. It may also introduce the works, authors, and sources you will be using by drawing an observational similarity between them. When establishing common ground, steer clear of these <xref ref="list-process-openings-to-avoid" text="title"/> and opt for something like these <xref ref="list-process-effective-openings" text="title"/> instead. You can also read more about <xref ref="example-process-revising-opening" text="title"/>.
                     </p>
                     <example>
                         <title>Establishing Common Ground</title>
@@ -364,7 +364,7 @@
             </p>
             <example>
                 <title>Topic Sentences: Women in the <pubtitle>Odyssey</pubtitle></title>
-                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-women-odyssey"/>.
+                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-women-odyssey" text="title"/>.
                     <ul>
                         <li>Scholars often hold up Athena and Penelope as portraits of independent and powerful women who were able to triumph over many men.</li>
                         <li>Athena, too, is an example of sexism throughout the <pubtitle>Odyssey</pubtitle>.</li>
@@ -374,7 +374,7 @@
             </example>
             <example>
                 <title>Topic Sentences: Male Suffrage</title>
-                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-male-suffrage"/>.
+                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-male-suffrage" text="title"/>.
                     <ul>
                         <li>As a result of the increasing majoritarian agitation within American politics, many states began to re-examine their constitutions in order to better incorporate the desires of the common majority. One issue addressed within this field of political reform was the concept of universal male suffrage.</li>
                         <li>On the other side of the debate were men who wished to preserve property qualifications for voters.</li>
@@ -384,7 +384,7 @@
             </example>
             <example>
                 <title>Topic Sentences: Immigration Act</title>
-                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-immigration-act"/>.
+                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-immigration-act" text="title"/>.
                     <ul>
                         <li>The Immigration Act placed a cap on the number of immigrants entering the United States from the Eastern or Western hemispheres, and further divided that cap by placing a limit of 20,000 immigrants per annum from any country.</li>
                         <li>The Immigration Act, and thus modern immigration regulations, allows for several classifications of immigrant.</li>
@@ -394,7 +394,7 @@
             </example>
             <example>
                 <title>Topic Sentences: Belief without Evidence</title>
-                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-belief-evidence"/>.
+                <p>These topic sentences support the thesis statement from <xref ref="ex-argument-belief-evidence" text="title"/>.
                     <ul>
                         <li>Clifford is confident in his conviction that believing anything without proper evidence is immoral.</li>
                         <li>Yet James has more than one convincing counterargument to Clifford's claim.</li>
@@ -591,7 +591,7 @@
             </note>
             <paragraphs>
                 <title>Bringing Order to the Chaos</title>
-                <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (Remember you can use a knowledge management tool like <xref ref="zotero"/> to keep track of sources or a <init>PDF</init> reader like <xref ref="adobe-acrobat-reader"/> to mark up your digital copies of texts).</p>
+                <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (Remember you can use a knowledge management tool like Zotero (see <xref ref="zotero"/>) to keep track of sources or a <init>PDF</init> reader like Adobe Acrobat Reader (see <xref ref="adobe-acrobat-reader"/>) to mark up your digital copies of texts).</p>
             </paragraphs>
             <sidebyside width="50%">
                 <image source="images/WP-CutePenguin"/>
@@ -693,7 +693,7 @@
                         <p>Even though you should be friendly, you aren't doing your peer any favors when you notice something but don't point it out. Contrary to common belief, it is possible to be both friendly and critical.</p>
                     </li>
                     <li><title>Be efficient</title>
-                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to home in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the University of Puget Sound Alumni Fund.</p>
+                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the University of Puget Sound Alumni Fund.</p>
                     </li>
                     <li><title>Be open</title>
                         <p>Having your writing read<mdash/>whether by a peer, or a professor, or an employer<mdash/>will always entail some degree of vulnerability. Trust that your reviewer is not out to hurt you or your feelings. Remind yourself that the best revision comes about as a result of communication between parties mutually interested and invested in the success of the paper. Friends often find things that we cannot, especially those issues we have learned to overlook after reading our paper over and over again.</p>
@@ -738,7 +738,7 @@
                         </li>
                         <li>
                             <p>Am I anxious or frustrated?</p>
-                            <p>Keep reading to learn more about <xref ref="overcoming-managing-anxiety"/>.</p>
+                            <p>Keep reading to learn more about managing anxiety.</p>
                         </li>
                     </ul>
                 </p>
@@ -795,8 +795,8 @@
         </sidebyside>
         <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). If you often find yourself writing papers at the last minute, read this section or try making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">appointment</url> with an academic consultant at the CWLT to practice scheduling and time management. Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
         <p>However, you may find yourself reading this section after it is too late for a well-developed plan or academic consulting appointment. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
-        <p>Also, especially if you’re running late due to illness or other circumstances out of your control, remember that you can always (politely!) <xref ref="asking-for-extension" text="title">ask for an extension </xref>. Still, you should never expect an extension and even if you sent that email you should start writing as soon as possible! </p>
-        <list xml:id="list-process-managing-time-strategies">
+        <p>Also, especially if you’re running late due to illness or other circumstances out of your control, remember that you can always (politely!) <xref ref="asking-for-extension" text="custom">ask for an extension </xref>. Still, you should never expect an extension and even if you sent that email you should start writing as soon as possible! </p>
+        <list xml:id="list-process-managing-time-strategies" text="title">
             <title>Strategies for Meeting Deadlines</title>
             <ul>
                 <li><title>Create a schedule</title>
@@ -838,7 +838,7 @@
         <title>Identifying as a Writer</title>
         <p>Sometimes when you are struggling with academic work, you may have moments when you simply don’t feel up to the tasks ahead of you. You may feel as though you will never be a successful student or a good writer, and these feelings can make it difficult to motivate yourself to truly put your all into academic work. When you don’t feel as though you can succeed, it is sometimes easier to not do your best work and fail than to really pour yourself into an assignment and still come up short.</p>
         <p>These feelings are really hard to experience, but you are also not the first person to feel them or the only one experiencing them right now. In fact, many very successful academics have struggled with the exact same feelings. Remember that you <em>do</em> belong in college. You are intelligent, and your ideas are valuable. You can fail an exam, or a paper, or a class, and still go on to a successful career or even a PhD if that is what you feel driven to do.</p>
-        <p>Feeling like a good writer and a part of the academic community may be even more challenging if you hold one or more identities that have been historically excluded or marginalized in the academic sphere. For example, colleges and universities often reward those who are fluent in <xref ref="SAE"/>; this usually means students who are White, have grown up in the United States, and have college-educated parents. Students who belong to groups that are stereotyped as performing poorly in an academic setting may struggle with the very real impacts of <url href="https://www.apa.org/research/action/stereotype">stereotype threat</url>. Tokenization, or being called upon to represent your entire identity group in classroom settings can minimize the individuality and complexity of student identity (see <xref ref="intersectionality"/>). Still, feeling as though you can’t succeed or don’t belong is not an experience exclusive to any identity, and your struggles are valid regardless of who you are.</p> 
+        <p>Feeling like a good writer and a part of the academic community may be even more challenging if you hold one or more identities that have been historically excluded or marginalized in the academic sphere. For example, colleges and universities often reward those who are fluent in <xref ref="SAE" text="title"/>; this usually means students who are White, have grown up in the United States, and have college-educated parents. Students who belong to groups that are stereotyped as performing poorly in an academic setting may struggle with the very real impacts of <url href="https://www.apa.org/research/action/stereotype">stereotype threat</url>. Tokenization, or being called upon to represent your entire identity group in classroom settings can minimize the individuality and complexity of student identity (see <xref ref="intersectionality"/>). Still, feeling as though you can’t succeed or don’t belong is not an experience exclusive to any identity, and your struggles are valid regardless of who you are.</p> 
         <observation>
             <title>Intersectional Identities in the Classroom</title>
             <blockquote>
