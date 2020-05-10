@@ -34,14 +34,30 @@
 
 <!-- xelatex as engine, presumes \usepackage{fontspec} -->
 <!-- which *is* part of the xelatex-specific part      -->
-<!-- Path option value is (Ubuntu) Linux specific      -->
-<!-- The oldstyle numbers will be used in page         -->
-<!-- headers and footers                               -->
-<xsl:param name="latex.preamble.late">
-    <xsl:text>\setmainfont{texgyreschola-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/, ItalicFont=texgyreschola-italic.otf,BoldFont=texgyreschola-bold.otf,BoldItalicFont=texgyreschola-bolditalic.otf]&#xa;</xsl:text>
-    <xsl:text>\newfontfamily{\divisionheadingfont}{texgyreheros-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/,ItalicFont=texgyreheros-italic.otf,BoldFont=texgyreheros-bold.otf,BoldItalicFont=texgyreheros-bolditalic.otf]&#xa;</xsl:text>
-    <xsl:text>\newfontfamily{\pagefont}{texgyrepagella-regular.otf}[Path=/usr/share/texmf/fonts/opentype/public/tex-gyre/,ItalicFont=texgyrepagella-italic.otf,BoldFont=texgyrepagella-bold.otf,BoldItalicFont=texgyrepagella-bolditalic.otf]&#xa;</xsl:text>
-</xsl:param>
+<!-- Assumes fonts are installed and available by name -->
+<xsl:template name="font-xelatex-main">
+    <xsl:text>%% An enhanced version of URW Schoolbook L&#xa;</xsl:text>
+    <xsl:call-template name="xelatex-font-check">
+        <xsl:with-param name="font-name" select="'TeX Gyre Schola'"/>
+    </xsl:call-template>
+    <xsl:text>\setmainfont{TeX Gyre Schola}&#xa;</xsl:text>
+</xsl:template>
+
+<xsl:template name="font-xelatex-style">
+    <xsl:text>%% An enhanced version of URW Nimbus Sans&#xa;</xsl:text>
+    <xsl:call-template name="xelatex-font-check">
+        <xsl:with-param name="font-name" select="'TeX Gyre Heros'"/>
+    </xsl:call-template>
+    <xsl:text>\newfontfamily{\herosfont}{TeX Gyre Heros}&#xa;</xsl:text>
+    <xsl:text>\renewcommand{\divisionfont}{\herosfont}&#xa;</xsl:text>
+    <!--  -->
+    <xsl:text>%% An enhanced version of URW Palladio&#xa;</xsl:text>
+    <xsl:call-template name="xelatex-font-check">
+        <xsl:with-param name="font-name" select="'TeX Gyre Pagella'"/>
+    </xsl:call-template>
+    <xsl:text>\newfontfamily{\pagellafont}{TeX Gyre Pagella}&#xa;</xsl:text>
+    <xsl:text>\renewcommand{\pagefont}{\pagellafont}&#xa;</xsl:text>
+</xsl:template>
 
 <!-- #######-->
 <!-- Colors -->
@@ -68,15 +84,15 @@
 <!-- Division Headings -->
 <!-- ################# -->
 
-<!-- Default LaTeX style, but with a (sans serif) font defined above -->
-<!-- All division headings are in maroon color, defined above        -->
+<!-- Default LaTeX style, retaining \divisionfont defined above   -->
+<!-- But all division headings are in maroon color, defined above -->
 
 <xsl:template name="titlesec-chapter-style">
     <xsl:text>\titleformat{\chapter}[display]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\huge\bfseries\color{maroon}}{\divisionnameptx\space\thechapter}{20pt}{\Huge#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionfont\huge\bfseries\color{maroon}}{\divisionnameptx\space\thechapter}{20pt}{\Huge#1}&#xa;</xsl:text>
     <xsl:text>[{\Large\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\chapter,numberless}[display]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\huge\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionfont\huge\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
     <xsl:text>[{\Large\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titlespacing*{\chapter}{0pt}{50pt}{40pt}&#xa;</xsl:text>
 </xsl:template>
@@ -91,10 +107,10 @@
 
 <xsl:template name="titlesec-section-style">
     <xsl:text>\titleformat{\section}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\Large\bfseries\color{maroon}\hrulefill\\}{\divisionnameptx\space\thesection}{1ex}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionfont\Large\bfseries\color{maroon}\hrulefill\\}{\divisionnameptx\space\thesection}{1ex}{#1}&#xa;</xsl:text>
     <xsl:text>[{\rule[0.8\baselineskip]{\textwidth}{0.5pt}}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\section,numberless}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\Large\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionfont\Large\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
     <xsl:text>[{\large\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}&#xa;</xsl:text>
 </xsl:template>
@@ -105,7 +121,7 @@
 <!--   * 90% width rule below, flush left         -->
 <xsl:template name="titlesec-subsection-style">
     <xsl:text>\titleformat{\subsection}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\large\bfseries\color{maroon}}{\thesubsection}{1ex}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionfont\large\bfseries\color{maroon}}{\thesubsection}{1ex}{#1}&#xa;</xsl:text>
     <xsl:text>[{\rule[0.8\baselineskip]{0.9\textwidth}{0.5pt}}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\subsection,numberless}[block]&#xa;</xsl:text>
     <xsl:text>{\normalfont\large\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
@@ -121,7 +137,7 @@
     <xsl:text>{\normalfont\normalsize\bfseries\color{maroon}}{\thesubsubsection}{1em}{#1}&#xa;</xsl:text>
     <xsl:text>[{\small\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titleformat{name=\subsubsection,numberless}[block]&#xa;</xsl:text>
-    <xsl:text>{\divisionheadingfont\normalsize\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
+    <xsl:text>{\divisionfont\normalsize\bfseries\color{maroon}}{}{0pt}{#1}&#xa;</xsl:text>
     <xsl:text>[{\normalsize\authorsptx}]&#xa;</xsl:text>
     <xsl:text>\titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}&#xa;</xsl:text>
 </xsl:template>
@@ -143,6 +159,7 @@
 <!-- \chaptername and \appendixname (which       -->
 <!-- we internationalize) are used in the        -->
 <!-- right places                                -->
+<!-- N.B. Does this match the default now w/ \pagefont? -->
 
 <xsl:template match="book" mode="titleps-style">
     <xsl:text>%% Page style configuration for Sound Writing&#xa;</xsl:text>
