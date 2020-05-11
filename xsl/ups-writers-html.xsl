@@ -31,11 +31,6 @@
 
 <xsl:param name="chunk.level" select="'3'" />
 
-<!-- Kill permalinks that are in the way of CSS for the headings. -->
-<!-- This parameter may change (deprecation message issued?)      -->
-<!-- and/or permalinks will be handled with some other mechanism. -->
-<xsl:param name="html.permalink" select="'none'" />
-
 <!-- Make marked <p>s hanging indented for citiation chapter. -->
 <xsl:template match="p[@indent='hanging']" mode="body">
     <xsl:param name="block-type" />
