@@ -19,7 +19,7 @@ declare SWXSL=${SRC}/xsl
 declare MBUSER=${MBX}/user
 declare MBXSCRIPT=${MBX}/script/mbx
 declare SOURCE=${SRC}/src
-declare IMAGES=${SRC}/images
+declare IMAGES=${SOURCE}/images
 declare CSS=${SRC}/css
 declare ASSETS=${SRC}/assets
 
