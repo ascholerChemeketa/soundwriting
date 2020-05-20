@@ -494,7 +494,7 @@
             <title>Citing a Journal Article from an Online Database</title>
             <introduction>
                 <sidebyside width="50%">
-                    <image source="images/Citations-PrintArticleOnlineDB"/>
+                    <image source="images/Citations-PrintArticleOnlineDB.png"/>
                 </sidebyside>
             </introduction>
             <subsubsection xml:id="online-journal-apa">
@@ -606,7 +606,7 @@
             <title>Citing a Online Newspaper</title>
             <introduction>
                 <sidebyside width="50%">
-                    <image source="images/Citations-OnlineNewspaper"/>
+                    <image source="images/Citations-OnlineNewspaper.png"/>
                 </sidebyside>
             </introduction>
             <subsubsection xml:id="online-newspaper-apa">
