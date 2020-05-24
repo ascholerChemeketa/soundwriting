@@ -135,7 +135,7 @@
         </statement>
         <solution>
             <sidebyside>
-                <image source="images/AS-sampleEditedEmail"/>
+                <image source="images/AS-sampleEditedEmail.png"/>
             </sidebyside>
         </solution>
     </problem>
@@ -610,7 +610,7 @@
                 <li><title>Put your semester into deep storage</title>
                     <p>At the end of each semester, make a new folder and place all the classes from the past semester there, so you can access them again if you need to but so that they don't clutter up your day-to-day life. Label this folder something obvious, like Spring 2018 Courses, or <init>UPS</init> Semester 1. Here's an example:</p>
                     <sidebyside>
-                        <image source="images/AS-deepstorageicloudscreenshot"><description>iCloud drive Deep Storage</description></image>
+                        <image source="images/AS-deepstorageicloudscreenshot.png"><description>iCloud drive Deep Storage</description></image>
                     </sidebyside>
                 </li>
             </ul>
