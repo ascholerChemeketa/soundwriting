@@ -476,6 +476,9 @@
         </introduction>
         <subsection xml:id="subsection-code">
             <title>Writing Code and Code Comments</title>
+            <note>
+            <p>Unless otherwise stated, all italicized quotes throughout this section are excerpted from the interview with Computer Science faculty members that informed this section.</p>
+        </note>
             <paragraphs>
                 <title>Purpose</title>
                 <p>Coding is the meat of computer science, and comments are critical for communicating what your code does to other users. Though comments are usually short and don’t always contain full sentences, they never-the-less require clear communication of the most important ideas. Comments generally fall into two categories: informal and formal. Informal comments are notes sprinkled throughout the code that annotate the algorithm to make it clearer for anyone who needs to work with it (including your future self!). Because computer code can be incredibly tedious to understand, and because two people will write different algorithms to accomplish the same goal, the purpose of these comments is to make your code more human-readable and to communicate the main ideas and steps in your code, as you would if outlining an essay. Informal comments do not need to follow an official style guide. In fact, they don’t even have to be complete sentences, but they should be clear and easy to understand. Formal comments (such as Javadoc comments in the Java language) explain the functionality and any inputs (parameters) and outputs (returns) of your methods, fields, and classes. They must follow a specific format so that they can be used to generate a webpage outlining the functionality of the code and giving instructions to use it. To write formal comments, carefully follow your professor’s directions and/or provided style guides. Good comments, both informal and formal, should not state obvious parts of your code, such as that you are using a loop; they should convey what the code does, but not unnecessary details about how it does it.</p>
@@ -507,6 +510,9 @@
             <subsection xml:id="subsection-academic-papers">
                 <title>Writing Academic Papers</title>
                     <p>Academic conference papers present your work to the academic community, and are formally written in active voice and generally about 8 pages in length. They are divided into sections like methods and introduction. They are centered around a project that you or your team performed, and clearly communicate what you did and what you found to the larger community of scientists. A paper should place your work in context and explain what it contributes or why it is valuable.</p>
+                    <note>
+            <p>Unless otherwise stated, all italicized quotes throughout this section are excerpted from the interview with Computer Science faculty members that informed this section.</p>
+        </note>
                             <paragraphs>
                                 <title>Purpose</title>
                                 <p>The purpose of <init>CS</init> papers, like in other sciences, is to contribute to academic knowledge in the field and share your work. The audience is other computer scientists, though not necessarily in your specific subsection of the field. A paper shares new ideas or contributions, so that others can learn from them and potentially build on your work. While student papers may or may not actually be presented at a conference, they are practice for this type of academic work and should be written with the same goals in mind.</p>
@@ -554,6 +560,9 @@
         <note>
             <title>Writing for Statistics</title>
             <p>The genres of writing in statistics differ from those mentioned here, particularly because statistics is often used in the context of another field, like psychology or biology. While similar characteristics are valued, refer to the specific field for style guidelines.</p>
+        </note>
+        <note>
+            <p>Unless otherwise stated, all italicized quotes throughout this section are excerpted from the interview with Mathematics faculty members that informed this section.</p>
         </note>
         <paragraphs>
             <title>Genres</title>
@@ -604,6 +613,9 @@
 				<introduction>
 					<p>Writing for philosophy is all about arguments.  Philosophy essays create a conversation between the arguments of others and the author's own arguments, for the purpose of answering a philosophical question. While somewhat similar in structure to papers in other disciplines, philosophy papers follow unique conventions. Read this section to learn how to write a top-notch paper for your philosophy class!</p>
 				</introduction>
+                <note>
+            <p>Unless otherwise stated, all italicized quotes throughout this section are excerpted from the interview with Philosophy faculty members that informed this section.</p>
+        </note>
 				<paragraphs>
 					<title>Genres</title>
 					<p><q><em>Have a question that you’re answering, look at a couple of different answers to that question, then explain what your answer is and why you’re not answering the question in other ways.</em></q></p>
@@ -649,4 +661,43 @@
 					<p>Check out this <url href="http://www.jimpryor.net/teaching/guidelines/writing.html">very useful guide</url> from Dr. Jim Pryor at <init>NYU</init> for a more in<dash/>depth resource on writing philosophy papers. The guidelines provided by your professor in the prompt or other class materials are also a vital source of information.</p>
 				</paragraphs>
 		</section>
+        <section xml:id="Writing for Spanish">
+	<title>Writing for Spanish</title>
+		<p>Writing in Spanish (or any foreign language) is difficult because you are expected to think critically about the subject of the paper while also mastering grammatical concepts and developing fluency. Though daunting, critical thinking about a variety of different topics actually helps writers master grammar (tenses, moods) and sentence construction and learn new vocabulary, meeting two objectives with one task! Read this guide to learn more about the skills you will need to write well in Spanish.</p>
+		<note>
+            <p>Unless otherwise stated, all italicized quotes throughout this section are excerpted from the interview with Spanish faculty members that informed this section.</p>
+        </note>
+        <paragraphs xml:id="writing-spanish-genres">
+        	<title>Genres</title>
+        	<p>The type of writing Spanish students are asked to do varies by level<mdash/>100<ndash/> and 200<ndash/>level students typically write letters, summaries, and interpersonal communications, while upper-level students most often write literary and film analysis papers within Latin American and Spanish cultural contexts.</p>
+        </paragraphs>
+        <paragraphs xml:id="writing-spanish-purpose">
+        	<title>Purpose</title>
+        	<p><q><em>We write in Spanish to practice the expression of ideas that leads to fluency.</em></q></p>
+        	<p>Though the ultimate goal of writing in Spanish is to achieve fluency, it cannot be achieved without both the mastery of grammatical concepts and critical, original thinking about relevant topics. In other words, grammatical correctness and original expression are equally important. By encouraging writers to think about different topics and ideas that arise through reading literature in Spanish and watching films, writing assignments in Spanish help students become <q>speakers of Spanish<mdash/>who are prepared to speak their minds in any situation<mdash/>rather than linguists.</q></p>
+        </paragraphs>
+        <paragraphs xml:id="writing-spanish-valued-characteristics">
+        	<title>Valued Characteristics</title>
+        	<p><q><em>Persuasion is not synonymous with categorical assertiveness. Spanish writers demonstrate more politeness and openness to perspectives than English writers.</em></q></p>
+        	<p>Writers in Spanish are expected to dedicate an equal amount of time and space to a variety of viewpoints throughout a paper. In English, it is often accepted to have one paragraph or even one sentence that discusses and refutes opposing viewpoints, but this is not sufficient in Spanish. Nuance and close reading are key to achieving the kind of paper that devotes equal attention to a variety of viewpoints, but it is important to remember that everything must still relate back to the thesis. If an alternative viewpoint contradicts the thesis, the writer must also refute that viewpoint such that faithfulness to the thesis is maintained. </p>
+        	<p>Don’t summarize. While a paper must demonstrate that a writer has closely read a text, writers must also offer insight beyond summarization of the plot. Like all academic writing, literary and film analysis papers in Spanish must add to an ongoing conversation about the text and themes– a summary offers nothing to add.</p>
+        </paragraphs>
+        <paragraphs xml:id="writing-spanish-evidence">
+        	<title>Evidence</title>
+        	<p><q><em>Writing in Spanish should be grounded in a close reading of the text [or film]. It should not use the text as a pre-text to talk about other things or what is happening in the world but should use the text as an object of analysis.</em></q></p>
+        	<p>Evidence should be exclusively textual. While it may be tempting to use the text as a springboard to talk about the sociopolitical context of the time the text was written or about something that’s happening in the “real world”<mdash/>and while this is not only acceptable but highly valued in other disciplines<mdash/>papers in Spanish must remain grounded in the text. The text provides clues about themes that the author is thinking about, and the writer’s goal is to uncover these themes and defend them using those very clues from the text.</p>
+        </paragraphs>
+        <paragraphs xml:id="writing-spanish-tips">
+        	<title>Conventions and Tips</title>
+        	<p><ul>
+        		<li><p>Take cues from the conventions of the English department. Because English department papers usually also involve literary and film analysis, the expectations are often quite similar!</p></li>
+        		<li><p>Accept a lack of sophistication while you approach fluency. Writing in a foreign language is difficult, so it’s ok to start simple! Papers can be written in short, simple sentences which can later be edited and combined to add nuance. Sentences in formal academic Spanish writing tend to be long with several subordinate clauses, but writers can always combine several short sentences to achieve this.</p></li>
+        		<li><p>Translation is not the answer! Though online translation software is becoming more and more sophisticated, it cannot provide the kind of nuance that is required of Spanish writers and will prevent learning in the long run!</p></li>
+        		<li><p>Write as if the reader has not read the text. While it is important to avoid summarizing, the more detail about the text you include, the better.</p></li>
+        		<li><p>Don’t feel tied to the chronological order established by the text. Organize points thematically rather than chronologically if it makes more sense.</p></li>
+        		<li><p>Maintain continuity of tense. Make sure all of the verbs in the paper are conjugated in the same tense. When discussing actions that happen in the plot of the text, the convention is to use the present tense.</p></li>
+        		<li><p>For grammar concerns, identify patterns of consistent errors, and focus on correcting those. You might not catch every error you make, but by focusing on errors you make frequently, you’ll learn to avoid them over time.</p></li>
+        	</ul></p>
+        </paragraphs>
+    </section>
 </chapter>
