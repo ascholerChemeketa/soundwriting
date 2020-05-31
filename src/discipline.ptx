@@ -228,7 +228,7 @@
         <paragraphs xml:id="writing-chemistry-additional-resources">
             <title>Additional Resources</title>
             <p><i>Journal of the American Chemical Society</i>.</p>
-            <p>Collins Memorial Library online <q>Chemistry: Subject Guide</q> at <url href="http://research.pugetsound.edu/chem"/><mdash/>there's even a tab on <q>Writing and Citing</q>!</p>
+            <p><local item="library"/> online <q>Chemistry: Subject Guide</q> at <url href="http://research.pugetsound.edu/chem"/><mdash/>there's even a tab on <q>Writing and Citing</q>!</p>
         </paragraphs>
     </section>
     <section xml:id="writing-for-english">
