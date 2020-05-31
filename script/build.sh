@@ -138,7 +138,7 @@ function build_html {
     rm -rf knowl/* images/*
     cp -a ${IMAGES}/*.svg ./images/
     cp -a ${IMAGES}/*.png ./images/
-    xsltproc --stringparam publisher publication.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --stringparam school ${SCHOOL} --stringparam publisher publication.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
 }
 
 function view_html {
@@ -147,7 +147,7 @@ function view_html {
 
 # Subroutine to build the electronic PDF version
 function build_pdf {
-    xsltproc --xinclude --stringparam latex.sides one -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam school ${SCHOOL} --stringparam latex.sides one -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
     mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic.pdf
@@ -159,7 +159,7 @@ function view_pdf {
 
 # Subroutine to build the print PDF version
 function build_print {
-    xsltproc --xinclude --stringparam latex.print yes --stringparam latex.sides two -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam school ${SCHOOL} --stringparam latex.print yes --stringparam latex.sides two -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
     mv SoundWriting.pdf ${SCRATCH}/SoundWriting-print.pdf
@@ -171,7 +171,7 @@ function view_print {
 
 # Subroutine to build the electronic PDF version, styled in color
 function build_pdf_styled {
-    xsltproc --xinclude --stringparam latex.print yes -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam school ${SCHOOL} --stringparam latex.print yes -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
     mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic-styled.pdf
