@@ -291,7 +291,7 @@
                         </li>
                         <li xml:id="definition-noun-phrases">
                             <title>noun phrase</title>
-                            <p>A <xref ref="definition-noun" text="title"/> phrase acts as (gasp) a noun! Noun phrases include nouns and <xref ref="definition-modifier">modifiers</xref> (<eg/>, <xref ref="definition-adjective" text="title">adjectives</xref>).</p>
+                            <p>A <xref ref="definition-noun" text="title"/> phrase acts as (gasp) a noun! Noun phrases include nouns and <xref ref="definition-modifier">modifiers</xref> (<eg/>, <xref ref="definition-adjective" text="custom">adjectives</xref>).</p>
                             <p><q>My <em>spunky roommate</em> listens to the best music.</q></p>
                             <p><q>I'm always brought so much joy when I see <em>that perfect, beautiful, wonderful little puppy dog</em> prancing around campus.</q></p>
                         </li>
@@ -696,7 +696,7 @@
                 <title>Is/Are</title>
                 <p>Third-person singular subjects require the present-tense verb <q>is,</q> while plural subjects require the present-tense verb <q>are.</q></p>
                 <p>
-                    As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they">They as a Singular Pronoun</xref>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).
+                    As above, even though <q>they</q> may refer to a single individual (see <xref ref="singular-they" text="title"/>), it still technically adheres to the rules of plurality. Therefore, even when describing a single person, you would pluralize the accompanying verb (<q>they are</q> rather than <q>they is</q>).
                 </p>
 
                 <example>
