@@ -26,7 +26,7 @@
 
 <!-- Import the usual LaTeX conversion templates          -->
 <!-- Place ups-writers-latex.xsl file into  mathbook/user -->
-<xsl:import href="../xsl/mathbook-latex.xsl" />
+<xsl:import href="../xsl/pretext-latex.xsl" />
 <!-- Assumes next file can be found in mathbook/user, so it must be copied there -->
 <xsl:import href="ups-writers-common.xsl" />
 
