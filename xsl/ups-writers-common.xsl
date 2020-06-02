@@ -47,7 +47,7 @@
 
 <!-- custom and custom/@item are the source nodes that guide the customization -->
 <!-- The value of @item will be the search term within $school-customizations  -->
-<xsl:template match="custom">
+<xsl:template match="custom" mode="assembly">
     <!-- We need the @item attribute due to a context shift  -->
     <!-- later, but we can also error-check it this way      -->
     <xsl:variable name="the-item">
@@ -69,7 +69,7 @@
             <xsl:apply-templates select="$the-custom" mode="location-report"/>
         </xsl:if>
         <!-- <xsl:text>{\LARGE\color{red}</xsl:text> -->
-        <xsl:apply-templates select="$the-lookup"/>
+        <xsl:copy-of select="$the-lookup"/>
         <!-- <xsl:text>}</xsl:text> -->
     </xsl:for-each>
 </xsl:template>
