@@ -1091,11 +1091,11 @@
                 <title>Dangling Modifiers</title>
                 <p>In addition to misplaced modifiers, a <term>dangling modifier<idx>dangling modifier</idx></term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
                 <blockquote>
-                    <p><q>After writing for hours in Collins Library, the paper was finally finished.</q></p>
+                    <p><q>After writing for hours in <custom item="library"/>, the paper was finally finished.</q></p>
                 </blockquote>
                 <p>In this sentence, <q>after writing for hours</q> is a participle phrase modifying <q>the paper.</q> But a paper can't write itself! Instead, the participle phrase should modify the subject doing the action (in this case, the student writing the paper):</p>
                 <blockquote>
-                    <p><q>After writing for hours in Collins Library, the exhausted student finally finished their paper.</q></p>
+                    <p><q>After writing for hours in <custom item="library"/>, the exhausted student finally finished their paper.</q></p>
                 </blockquote>
                 <p>Here are a few more examples of dangling modifiers and their possible revisions:</p>
                 <example>
