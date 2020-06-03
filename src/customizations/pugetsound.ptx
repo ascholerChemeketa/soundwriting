@@ -25,11 +25,11 @@ href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-l
 Library website</url></school-custom>
     <!-- University library website, with name and url link -->
     <school-custom type="university-name-full">University of Puget Sound</school-custom>
-    <!-- Full formal university name -->
-    <school-custom type="university-name-acronym"><init>UPS</init></school-custom>
+    <!-- Full formal university name. Often used with "the" in front. -->
+    <school-custom type="university-name-acro"><init>UPS</init></school-custom>
     <!-- University name acronym -->
     <school-custom type="university-name-short">Puget Sound</school-custom>
-    <!-- Shorter version of university name, if desired; often used as an adjective ie. Puget Sound education, Puget Sound community -->
+    <!-- Shorter version of university name, if desired; often used as an adjective ie. Puget Sound education, Puget Sound community. Often used without "the" in front. -->
     <school-custom type="intro-writing"><init>SSI</init></school-custom>
     <!-- Name of first-year writing curriculum, used as a noun -->
     <school-custom type="intro-writing-student">first-year seminar student</school-custom>

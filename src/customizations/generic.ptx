@@ -18,8 +18,8 @@
     <school-custom type="student-government">student government</school-custom>
     <school-custom type="library-url">library website</school-custom>
     <school-custom type="university-name-full">university</school-custom>
-    <school-custom type="university-name-acronym">university</school-custom>
-    <school-custom type="university-name-short">Puget Sound</school-custom>
+    <school-custom type="university-name-acro">university</school-custom>
+    <school-custom type="university-name-short">the university</school-custom>
     <school-custom type="intro-writing">first-year writing course</school-custom>
     <school-custom type="intro-writing-student">first-year writing student</school-custom>
     <school-custom type="writing-tutor">writing tutor</school-custom>
@@ -28,5 +28,5 @@
     <school-custom type="city">the city</school-custom>
     <school-custom type="state">the state</school-custom>
     <school-custom type="university-newspaper">the university paper</school-custom>
-    <school-custom type="mascot">
+    <school-custom type="mascot">the mascot</school-custom>
 </school-customizations>

@@ -693,7 +693,7 @@
                         <p>Even though you should be friendly, you aren't doing your peer any favors when you notice something but don't point it out. Contrary to common belief, it is possible to be both friendly and critical.</p>
                     </li>
                     <li><title>Be efficient</title>
-                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the University of Puget Sound Alumni Fund.</p>
+                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the <custom item="university-name-full"/> Alumni Fund.</p>
                     </li>
                     <li><title>Be open</title>
                         <p>Having your writing read<mdash/>whether by a peer, or a professor, or an employer<mdash/>will always entail some degree of vulnerability. Trust that your reviewer is not out to hurt you or your feelings. Remind yourself that the best revision comes about as a result of communication between parties mutually interested and invested in the success of the paper. Friends often find things that we cannot, especially those issues we have learned to overlook after reading our paper over and over again.</p>
@@ -862,7 +862,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>Many successful people, including UPS professors, once believed that they would not get through their undergrad education. Check out <url href="https://www.pugetsound.edu/student-life/cice/">CICE</url> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. Writing Advisors or Academic Consultants at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/">CWLT</url> can also help you get started and get organized.</p>
+        <p>Many successful people, including <custom item="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out <url href="https://www.pugetsound.edu/student-life/cice/">CICE</url> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. Writing Advisors or Academic Consultants at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/">CWLT</url> can also help you get started and get organized.</p>
         <observation>
             <title>Writing as a Multilingual Student</title>
             <blockquote>
@@ -874,7 +874,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>A few UPS professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
+        <p>A few <init>UPS</init> professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
         <sidebyside width="70%">
             <video youtube="20hJdiQN51Q" xml:id="video-faculty-american-academic-writing"/>
         </sidebyside>

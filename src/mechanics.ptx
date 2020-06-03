@@ -30,7 +30,7 @@
                         <li xml:id="definition-noun">
                             <title>noun</title>
                             <p>person, place, or thing</p>
-                            <p>Examples: book, cat, dog, I, me, Puget Sound</p>
+                            <p>Examples: book, cat, dog, I, me, <custom item="university-name-short"/></p>
                         </li>
                         <li xml:id="definition-verb">
                             <title>verb</title>
@@ -266,7 +266,7 @@
             </subsubsection>
             <subsubsection xml:id="phrases">
                 <title>Phrases</title>
-                <p>Phrases are to sentences what landscaping is to Puget Sound. Just as Puget Sound's landscaping makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar related, though, there are far too many phrases with overly confusing names. To remember and understand each type of phrase, it might be helpful for you to review <xref ref="eight-parts-of-speech"/>. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
+                <p>Phrases are to sentences what landscaping is to <custom item="university-name-short"/>. Just as <custom item="university-name-short"/>'s landscaping makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar related, though, there are far too many phrases with overly confusing names. To remember and understand each type of phrase, it might be helpful for you to review <xref ref="eight-parts-of-speech"/>. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
                 <note>
                     <title>Distinguishing a Phrase from a Clause</title>
                     <p>Whereas a clause has both a <xref ref="definition-noun" text="title"/> <em>and</em> a <xref ref="definition-verb" text="title"/>, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an <xref ref="definition-adjective" text="title"/>).</p>
@@ -337,9 +337,9 @@
                         <li xml:id="definition-simple-sentence">
                             <title>simple sentence</title>
                             <p>one <xref ref="definition-independent-clause" text="title"/></p>
-                            <p><q>I love Puget Sound.</q></p>
+                            <p><q>I love <custom item="university-name-short"/>.</q></p>
                             <p><q>My RCC is so cool.</q></p>
-                            <p><q>Puget Sound is in Washington.</q></p>
+                            <p><q><custom item="university-name-short"/> is in Washington.</q></p>
                         </li>
                         <li xml:id="definition-compound-sentence">
                             <title>compound sentence</title>
@@ -404,7 +404,7 @@
                 </example>
                 <example>
                     <title>Exclamatory Sentences</title>
-                    <p>I love Puget Sound!</p>
+                    <p>I love <custom item="university-name-short"/>!</p>
                     <p>I love writing!</p>
                 </example>
             </subsubsection>
@@ -645,8 +645,8 @@
                     <p><q>Each of the research students has access to the lab.</q></p>
                 </example>
                 <example>
-                    <title>Each as a Pronoun: Experience Puget Sound</title>
-                    <p><q>Each and every one of you is in for a new experience here at Puget Sound.</q></p>
+                    <title>Each as a Pronoun: Experience <custom item="university-name-short"/></title>
+                    <p><q>Each and every one of you is in for a new experience here at <custom item="university-name-short"/>.</q></p>
                 </example>
                 <example>
                     <title>Each as a Pronoun: Opp Coffee</title>
@@ -786,7 +786,7 @@
                     <title>Agreement with <q>And/Or</q></title>
                     <p>
                         <ul>
-                            <li><p><q>Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</q></p></li>
+                            <li><p><q>Education, occupational therapy, and physical therapy are the three graduate degrees offered at <custom item="university-name-short"/>.</q></p></li>
                             <li><p><q>My sister or my brothers are coming to visit me on campus.</q></p></li>
                             <li><p><q>My brothers or my sister is coming to visit me on campus.</q></p></li>
                         </ul>
@@ -830,7 +830,7 @@
                             </li>
                             <li>
                                 <title>team</title>
-                                <p><q>The Puget Sound women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
+                                <p><q>The <custom item="university-name-short"/> women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
                                 <p><q>This year, the women's soccer <un s="1">team</un> <em>are</em> going home to visit their families after their NCAA win.</q></p>
                             </li>
                             <li>
@@ -884,7 +884,7 @@
                                 <p><q>Some of us are ready to eat.</q></p>
                             </li>
                             <li>
-                                <p><q>The majority of Puget Sound baseball fans buy logger hats at the bookstore.</q></p>
+                                <p><q>The majority of <custom item="university-name-short"/> baseball fans buy logger hats at the bookstore.</q></p>
                             </li>
                             <li>
                                 <p><q>All students on campus are really cool.</q></p>
@@ -1076,7 +1076,7 @@
                     </blockquote>
                 </example>
                 <example>
-                    <title>Misplaced Modifier: Dogs of Puget Sound</title>
+                    <title>Misplaced Modifier: Dogs of <custom item="university-name-short"/></title>
                     <blockquote>
                         <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into Jones Fountain.</q></p>
                     </blockquote>
@@ -1677,7 +1677,7 @@
                                 <p>conscious</p>
                             </cell>
                             <cell>
-                                <p>We are very environmentally <em>conscious</em> at Puget Sound.</p>
+                                <p>We are very environmentally <em>conscious</em> at <custom item="university-name-short"/>.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1749,7 +1749,7 @@
                                 <p>here</p>
                             </cell>
                             <cell>
-                                <p>I’ve really made a home for myself <em>here</em> at Puget Sound.</p>
+                                <p>I’ve really made a home for myself <em>here</em> at <custom item="university-name-short"/>.</p>
                             </cell>
                         </row>
                         <row>
@@ -1773,7 +1773,7 @@
                                 <p>hole</p>
                             </cell>
                             <cell>
-                                <p>The Puget Sound Golf Team won the tournament by making a <em>hole</em> in one.</p>
+                                <p>The <custom item="university-name-full"/> Golf Team won the tournament by making a <em>hole</em> in one.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1797,7 +1797,7 @@
                                 <p>its</p>
                             </cell>
                             <cell>
-                                <p>The University of Puget Sound is known for <em>its</em> beautiful landscaping.</p>
+                                <p>The <custom item="university-name-full"/> is known for <em>its</em> beautiful landscaping.</p>
                             </cell>
                         </row>
                         <row>
@@ -1917,7 +1917,7 @@
                                 <p>past</p>
                             </cell>
                             <cell>
-                                <p>The <em>past</em> few years at Puget Sound have been some of the best years of my life.</p>
+                                <p>The <em>past</em> few years at <custom item="university-name-short"/> have been some of the best years of my life.</p>
                             </cell>
                         </row>
                         <row>
@@ -2181,7 +2181,7 @@
                                 <p>yore</p>
                             </cell>
                             <cell>
-                                <p>In the days of <em>yore</em>, Puget Sound tuition was only $20!</p>
+                                <p>In the days of <em>yore</em>, <custom item="university-name-short"/> tuition was only $20!</p>
                             </cell>
                         </row>
                     </tabular>
@@ -2249,7 +2249,7 @@
                 <p>Use an ellipsis to show that you have omitted part of a quotation.</p>
                 <example>
                     <title>Ellipsis: Ubiquitous They</title>
-                    <p><em>The Trail</em> reporter wrote, <q>The skit, which was held in the Rendezvous Room, showcased <ellipsis/> the many skills of Puget Sound's improv group, Ubiquitous They.</q></p>
+                    <p><em>The Trail</em> reporter wrote, <q>The skit, which was held in the Rendezvous Room, showcased <ellipsis/> the many skills of <custom item="university-name-short"/>'s improv group, Ubiquitous They.</q></p>
                 </example>
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
                 <example>
@@ -2456,7 +2456,7 @@
                 </example>
                 <example xml:id="example-punctuation-capitalizing-quoted">
                     <title>Capitalizing a Quoted Sentence</title>
-                    <p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all Puget Sound students to achieve their academic goals.</q></p>
+                    <p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all <custom item="university-name-short"/> students to achieve their academic goals.</q></p>
                     <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
                 </example>
                 <example xml:id="example-punctuation-integrating-quotes">
@@ -2629,9 +2629,9 @@
                             Proper nouns should be capitalized.
                             <ul>
                                 <li><p>Proper nouns are basically names, though they aren't limited to humans.</p></li>
-                                <li><p>Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Cafe) to anthropomorphized bears (Grizz).</p></li>
+                                <li><p>Proper nouns name things ranging from schools (<custom item="university-name-full"/>) to coffee shops (Diversions Cafe) to anthropomorphized bears (Grizz).</p></li>
                                 <li>
-                                    <p>Chances are, if it specifies a particular thing as opposed to that thing in general (University of Puget Sound vs. college), capitalize it!</p>
+                                    <p>Chances are, if it specifies a particular thing as opposed to that thing in general (<custom item="university-name-full"/> vs. college), capitalize it!</p>
                                     <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness"/> where we discuss this issue further.)</p>
                                 </li>
                             </ul>
@@ -2642,7 +2642,7 @@
                             Professional titles should be capitalized only when they precede the title-holder's name.
                             <ul>
                                 <li><p>Capitalize <q>president</q> in the sentence <q>President Isiaah Crawford joined the university in 2016.</q></p></li>
-                                <li><p>Do not capitalize <q>president</q> in the sentence <q>The 14th president of the University of Puget Sound is Isiaah Crawford.</q></p></li>
+                                <li><p>Do not capitalize <q>president</q> in the sentence <q>The 14th president of the <custom item="university-name-full"/> is Isiaah Crawford.</q></p></li>
                             </ul>
                         </p>
                     </li>
@@ -2712,7 +2712,7 @@
                         <p>
                             Do not capitalize the word <q>the</q> before proper nouns unless the word <q>the</q> is itself a part of the proper noun.
                             <ul>
-                                <li><p><q>I attend the University of Puget Sound.</q></p></li>
+                                <li><p><q>I attend the <custom item="university-name-full"/>.</q></p></li>
                                 <li><p><q>In class, we read <pubtitle>The Great Gatsby</pubtitle>.</q></p></li>
                             </ul>
                         </p>
