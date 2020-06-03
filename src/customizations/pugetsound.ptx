@@ -18,4 +18,7 @@
     <!-- No spaces, since they can migrate all the way to output        -->
     <school-custom type="library-as-url"><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins Memorial Library</url><fn><c>www.pugetsound.edu/academics/academic-resources/collins-memorial-library/</c></fn></school-custom>
     <school-custom type="student-government"><init>ASUPS</init></school-custom>
+    <school-custom type="library-url"><url
+href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins
+Library website</url></school-custom>
 </school-customizations>

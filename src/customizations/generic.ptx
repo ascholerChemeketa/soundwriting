@@ -16,4 +16,5 @@
     <!-- No URL available in generic case, so just text again -->
     <school-custom type="library-as-url">the library</school-custom>
     <school-custom type="student-government">student government</school-custom>
+    <school-custom type="library-url">library website</school-custom>
 </school-customizations>
