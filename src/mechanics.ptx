@@ -830,7 +830,7 @@
                             </li>
                             <li>
                                 <title>team</title>
-                                <p><q>The <custom item="university-name-short"/> women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
+                                <p><q>The <custom item="university-name-full"/> women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
                                 <p><q>This year, the women's soccer <un s="1">team</un> <em>are</em> going home to visit their families after their NCAA win.</q></p>
                             </li>
                             <li>
@@ -2377,7 +2377,7 @@
             <subsubsection xml:id="punctuation-capitalization-parentheses">
                 <title>Parentheses <dblbrackets>(these)</dblbrackets></title>
                 <p>Aside from citations (see <xref ref="citations"/>), parentheses are used in writing to separate words, phrases, or sentences from the main text. When you want to add additional information that doesn't fit well within the main part of a sentence, you can use parentheses to inform your reader while simultaneously keeping your sentence flowing (like this). (Or you can just use parentheses on their own to indicate that something is an aside or afterthought.) For more details on how to use other types of punctuation with parentheses (<eg/>, where does the period go?!), see <xref ref="period-inside-or-outside"/>!</p>
-                <p>You can also use parentheses in area codes, like (253) 879-3404 (which is, coincidentally, the phone number to the Center for Writing, Learning, and Teaching [<init>CWLT</init>]).</p>
+                <p>You can also use parentheses in area codes, like (253) 879-3404 (which is, coincidentally, the phone number to the <custom item="tutoring-center"/>).</p>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-brackets">
                 <title>Brackets <dblbrackets>[these]</dblbrackets></title>
@@ -2447,26 +2447,26 @@
                 </list>
                 <example xml:id="example-punctuation-using-quotations">
                     <title>Using Quotation Marks</title>
-                    <p>According to the first-year seminar student, <q>The <init>CWLT</init> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
-                    <p>In the first-year seminar student's reaction to going to the <init>CWLT</init>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
+                    <p>According to the first-year seminar student, <q>The <custom item="tutoring-center-acronym"/> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
+                    <p>In the first-year seminar student's reaction to going to the <custom item="tutoring-center-acronym"/>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
                 </example>
                 <example xml:id="example-punctuation-prefacing-quotations">
                     <title>Prefacing Quotes with a Comma</title>
-                    <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <init>CWLT</init>, then!</q></p>
+                    <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <custom item="tutoring-center-acronym"/>, then!</q></p>
                 </example>
                 <example xml:id="example-punctuation-capitalizing-quoted">
                     <title>Capitalizing a Quoted Sentence</title>
-                    <p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all <custom item="university-name-short"/> students to achieve their academic goals.</q></p>
+                    <p>The <custom item="tutoring-center-acronym"/> states on its webpage, <q>The mission of the <custom item="tutoring-center"/> is to provide opportunities for all <custom item="university-name-full"/> students to achieve their academic goals.</q></p>
                     <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
                 </example>
                 <example xml:id="example-punctuation-integrating-quotes">
                     <title>Integrating Quotes</title>
                     <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
-                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <init>CWLT</init> are very nice and accommodating.</q></p>
+                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <custom item="tutoring-center-acronym"/> are very nice and accommodating.</q></p>
                 </example>
                 <example xml:id="example-punctuation-ellipses-replacing">
                     <title>Using an Ellipses to Replace Source Material</title>
-                    <p>According to the director of the <init>CWLT</init>, Professor Julie Nelson Christoph, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
+                    <p>According to the director of the <custom item="tutoring-center-acronym"/>, Professor Julie Nelson Christoph, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
                 </example>
                 <example xml:id="example-punctuation-ellipses-honestly">
                     <title>Using Ellipses to Quote Honestly</title>
@@ -2474,13 +2474,13 @@
                 </example>
                 <example xml:id="example-punctuation-brackets-changes">
                     <title>Using Brackets to Indicate Changes</title>
-                        <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
+                        <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <custom item="tutoring-center-acronym"/>?</q></p>
                         <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p>
                 </example>
                 <example xml:id="example-punctuation-brackets-insertion">
                     <title>Using Brackets to Insert Nouns</title>
-                    <p>The writing advisor emphasized, <q>[The <init>CWLT</init>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
-                    <p><q>Additionally, if you need a coffee or tea break, it [the <init>CWLT</init>] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
+                    <p>The writing advisor emphasized, <q>[The <custom item="tutoring-center-acronym"/>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
+                    <p><q>Additionally, if you need a coffee or tea break, it [the <custom item="tutoring-center-acronym"/>] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
                 </example>
                 <list xml:id="list-mechanics-quoting-fragments-strategies">
                     <title>Strategies for Quoting Sentence Fragments</title>
@@ -2504,13 +2504,13 @@
                 </example>
                 <example xml:id="example-mechanics-quotes-sentences">
                     <title>Incorporating Quotes into Syntax of Sentence</title>
-                    <p>After their meeting with Rachael Shelden, assistant director of the <init>CWLT</init>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
+                    <p>After their meeting with Rachael Shelden, assistant director of the <custom item="tutoring-center-acronym"/>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
                 </example>
                 <example xml:id="example-mechanics-block-quotes">
                     <title>Using Block Quotes for Large Excerpts</title>
-                    <p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
+                    <p>According to its website, the <custom item="tutoring-center-acronym"/> emphasizes how easy it is to make an appointment:</p>
                     <blockquote>
-                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the Center for Writing, Learning, and Teaching (Howarth 109) or to call 253.879.3404</p>
+                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the <custom item="tutoring-center"/> (Howarth 109) or to call 253.879.3404</p>
                         <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
                     </blockquote>
                 </example>

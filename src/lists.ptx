@@ -32,7 +32,7 @@
             <li><p>Upstairs in the <acro>SUB</acro></p></li>
             <li><p>The rotunda (if it's open)</p></li>
             <li><p>Lounges in your residence hall</p></li>
-            <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
+            <li><p><custom item="tutoring-center"/> (<custom item="tutoring-center-acronym/>")!</p></li>
         </ul>
     </list>
     <list xml:id="good-to-know-off-campus-study">
@@ -50,7 +50,7 @@
         <caption>Productive Procrastination</caption>
         <ul>
             <li><p>Work on citations</p></li>
-            <li><p>Take the <init>CWLT</init>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
+            <li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
             <li><p>Type up your notes/evidence</p></li>
             <li><p>Make to-do lists</p></li>
             <li><p>Make an assignment timeline</p></li>
@@ -61,7 +61,7 @@
             <li><p>There's a huge <q>study</q> genre on YouTube. Go watch a couple videos to get inspired!</p></li>
             <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
             <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>
-            <li><p>Make a writing appointment at the <init>CWLT</init>!</p></li>
+            <li><p>Make a writing appointment at the <custom item="tutoring-center-acronym"/>!</p></li>
         </ul>
     </list>
    </chapter>

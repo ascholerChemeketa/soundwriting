@@ -25,6 +25,8 @@
     <school-custom type="writing-tutor">writing tutor</school-custom>
     <school-custom type="tutoring-center">tutoring center</school-custom>
     <school-custom type="tutoring-center-acronym">tutoring center</school-custom>
+    <!-- No URL for generic so just text again -->
+    <school-custom type="tutoring-center-url">tutoring center</school-custom>
     <school-custom type="city">the city</school-custom>
     <school-custom type="state">the state</school-custom>
     <school-custom type="university-newspaper">the university paper</school-custom>

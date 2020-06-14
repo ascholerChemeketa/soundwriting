@@ -198,7 +198,7 @@
             <sidebyside width="50%">
                 <image source="images/AD-IsItReadyYet"/>
             </sidebyside>
-            <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p>
+            <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the <custom item="tutoring-center"/> (<custom item="tutoring-center-acronym"/>)!</p>
             <p>Consider the following example theses from Puget Sound student papers. In what ways do they or do they not do <xref ref="list-argument-MORE" text="title"/>?</p>
             <example xml:id="ex-argument-women-odyssey">
                 <title>Thesis: Women in the <pubtitle>Odyssey</pubtitle></title>
@@ -241,7 +241,7 @@
                 </li>
                 <li><title>Map out your ideas by drawing connections between your claim, supporting claims, and evidence</title>
                 </li>
-                <li><title>Talk through your argument with someone, perhaps a <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/writing-advisor-schedule">writing advisor at the Center for Writing, Learning, and Teaching</url>!</title>
+                <li><title>Talk through your argument with someone, perhaps a writing advisor at the <custom item="tutoring-center-url"/>!</title>
                     <p>It might also be helpful to take notes during/record the conversation so you have content from the conversation to use as you return to writing and organizing.</p>
                 </li>
                 <li><title>Ask yourself, <q>Which one seems the most logical?</q></title>

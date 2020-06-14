@@ -38,6 +38,8 @@ Library website</url></school-custom>
     <!-- Name of writing tutors offered through the university -->
     <school-custom type="tutoring-center">Center for Writing, Learning, and Teaching</school-custom>
     <!-- Name of tutoring center, full -->
+    <school-custom type="tutoring-center-url"><url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url></school-custom>
+    <!-- Tutoring center name as active link, can use full name or acronym -->
     <school-custom type="tutoring-center-acronym"><init>CWLT</init></school-custom>
     <!-- Name of tutoring center, short -->
     <school-custom type="city">Tacoma</school-custom>
