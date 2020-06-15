@@ -87,8 +87,8 @@
                     <p>
                         Below you can find a few example sentences showing the subject (<em>italicized</em>) and predicate (regular typeface):
                         <ul>
-                            <li><p><em>Ollie</em> studied in Diversions.</p></li>
-                            <li><p><em>The IPE professor</em> told the class to turn the assignment in on Moodle.</p></li>
+                            <li><p><em>Ollie</em> studied in <custom item="coffee-shop"/>.</p></li>
+                            <li><p><em>The IPE professor</em> told the class to turn the assignment in on Canvas.</p></li>
                             <li><p><em>The a capella group <q>What She Said</q></em> will perform at the spring concert.</p></li>
                         </ul>
                     </p>
@@ -281,7 +281,7 @@
                             <title>infinitive phrase</title>
                             <p>Infinitive phrases feature our good friend, the infinitive verb.</p>
                             <p><q><em>To include</em> all types of phrases in this list would be too boring.</q></p>
-                            <p><q><em>To pull</em> an all-nighter, I need to stop by Diversions <em>to get</em> my usual: a nitro cold brew with a shot of espresso.</q></p>
+                            <p><q><em>To pull</em> an all-nighter, I need to stop by <custom item="coffee-shop"/> <em>to get</em> my usual: a nitro cold brew with a shot of espresso.</q></p>
                         </li>
                         <li xml:id="definition-prepositional-phrases" text="title">
                             <title>prepositional phrase</title>
@@ -298,7 +298,7 @@
                         <li xml:id="definition-participial-phrases">
                             <title>participial phrase</title>
                             <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in -ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in -ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
-                            <p><q>I like my eggs from the <acro>SUB</acro> <em>covered in ketchup</em>.</q></p>
+                            <p><q>I like my eggs from the <custom item="dining-hall"/> <em>covered in ketchup</em>.</q></p>
                             <p><q>The student ran to catch up with her friends, <em>slipping in the puddles</em> along Commencement Walk.</q></p>
                         </li>
                         <li xml:id="definition-gerund-phrases">
@@ -339,7 +339,7 @@
                             <p>one <xref ref="definition-independent-clause" text="title"/></p>
                             <p><q>I love <custom item="university-name-short"/>.</q></p>
                             <p><q>My RCC is so cool.</q></p>
-                            <p><q><custom item="university-name-short"/> is in Washington.</q></p>
+                            <p><q><custom item="university-name-short"/> is in <custom item="state"/>.</q></p>
                         </li>
                         <li xml:id="definition-compound-sentence">
                             <title>compound sentence</title>
@@ -351,7 +351,7 @@
                         <li xml:id="definition-complex-sentence">
                             <title>complex sentence</title>
                             <p><xref ref="definition-independent-clause" text="title"/> and one or more <xref ref="definition-dependent-clause" text="custom"> dependent/subordinate clauses</xref></p>
-                            <p><q>When the <acro>SUB</acro> runs out of hummus, I want to cry.</q></p>
+                            <p><q>When the <custom item="dining-hall"/> runs out of hummus, I want to cry.</q></p>
                             <p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p>
                             <p><q>I need to drink coffee when I'm tired.</q></p>
                             <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
@@ -400,7 +400,7 @@
                 <example>
                     <title>Imperative Sentences</title>
                     <p><q>Go tell him that it's imperative that he knows what an imperative sentence is.</q></p>
-                    <p><q>Grab me a Greek yogurt from the <acro>SUB</acro>, please.</q></p>
+                    <p><q>Grab me a Greek yogurt from the <custom item="dining-hall"/>, please.</q></p>
                 </example>
                 <example>
                     <title>Exclamatory Sentences</title>
@@ -411,7 +411,7 @@
             <subsubsection xml:id="subordination-coordination">
                 <title>Subordination and Coordination</title>
                 <p>Because each <xref ref="definition-clause" text="title"/> in a <xref ref="definition-compound-sentence" text="title"/> is independent, neither one is obviously foregrounded in relation to the other (as in a <xref ref="definition-complex-sentence" text="title"/>). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the coordinating <xref ref="definition-conjunction" text="title"/>), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
-                <p>As its name implies, a <xref ref="definition-dependent-clause" text="title"/> must always be subordinated to the <xref ref="definition-independent-clause" text="title"/> independent clause in a <xref ref="definition-complex-sentence" text="title"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <acro>SUB</acro> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <acro>SUB</acro> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
+                <p>As its name implies, a <xref ref="definition-dependent-clause" text="title"/> must always be subordinated to the <xref ref="definition-independent-clause" text="title"/> independent clause in a <xref ref="definition-complex-sentence" text="title"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <custom item="dining-hall"/> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <custom item="dining-hall"/> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <custom item="dining-hall"/> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
                 <note xml:id="note-mechanics-compound-sentences">
                     <!-- <title></title> -->
                     <p> A <xref ref="definition-compound-sentence" text="title"/> can easily be transformed into a <xref ref="definition-complex-sentence" text="title"/>. For instance, the example <q>I miss my high school friends, but I'm excited to make new friends.</q> could be reconstructed to read <q>Although I miss my high school friends, I'm excited to make new friends.</q> Consider what meaning you want to convey in your sentence and construct them accordingly.</p>
@@ -722,7 +722,7 @@
                     <p>
                         <ul>
                             <li><p><q>Would you prefer a drip coffee or caffeinated tea?</q> <q>Either is fine with me.</q></p></li>
-                            <li><p><q>Neither of the two coffee machines in Diversions is working.</q></p></li>
+                            <li><p><q>Neither of the two coffee machines in <custom item="coffee-shop"/> is working.</q></p></li>
                         </ul>
                     </p>
                 </example>
@@ -758,7 +758,7 @@
                     <p>
                         <ul>
                             <li><p><q>Either the geology team or the physics team is going to win the science basketball tournament in the Thompson courtyard.</q></p></li>
-                            <li><p><q>Neither the tables nor the couches in Diversions are open.</q></p></li>
+                            <li><p><q>Neither the tables nor the couches in <custom item="coffee-shop"/> are open.</q></p></li>
                         </ul>
                     </p>
                 </example>
@@ -800,7 +800,7 @@
                     <ul>
                         <li><p><q><un s="1">President Crawford</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
                         <li><p><q>The <un s="1">first-year resident</un>, who was feeling <acro>FOMO</acro> and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
-                        <li><p><q><un s="1">Diversions Cafe</un> (and its baristas) <em>provides</em> a great space to study and socialize.</q></p></li>
+                        <li><p><q><un s="1"><custom item="coffee-shop"/></un> (and its baristas) <em>provides</em> a great space to study and socialize.</q></p></li>
                     </ul>
                 </p>
                 <warning>
@@ -817,7 +817,7 @@
                 <title>Collective Nouns</title>
                 <p>There are some <xref ref="definition-subject" text="custom">subjects</xref> that may be singular or plural depending on how you use them.</p>
                 <p>In order to determine whether to use a singular or a plural <xref ref="definition-verb" text="title"/>, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
-                <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room is silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at Diversions.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
+                <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room is silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at <custom item="coffee-shop"/>.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
                 <p>A list of some collective nouns and example uses may be found below.</p>
                 <example>
                     <title>Sample Sentences with Collective Nouns</title>
@@ -884,7 +884,7 @@
                                 <p><q>Some of us are ready to eat.</q></p>
                             </li>
                             <li>
-                                <p><q>The majority of <custom item="university-name-short"/> baseball fans buy logger hats at the bookstore.</q></p>
+                                <p><q>The majority of <custom item="university-name-short"/> baseball fans buy <custom item="identity"/> hats at the bookstore.</q></p>
                             </li>
                             <li>
                                 <p><q>All students on campus are really cool.</q></p>
@@ -937,11 +937,11 @@
                     <dl>
                         <li>
                             <title>fragment</title>
-                            <p><q>To the <acro>SUB</acro>.</q></p>
+                            <p><q>To the <custom item="dining-hall"/>.</q></p>
                         </li>
                         <li>
                             <title>revision</title>
-                            <p><q>You should take your <acro>SUB</acro> dishes back to the <acro>SUB</acro>.</q></p>
+                            <p><q>You should take your <custom item="dining-hall"/> dishes back to the <custom item="dining-hall"/>.</q></p>
                         </li>
                     </dl>
                     By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.
@@ -989,11 +989,11 @@
                 <title>Mixing Clause Forms</title>
                 <p>The same rule may be applied to a series of complex clauses. If you have a verb that applies to two or more clauses in the series, it must apply equally to all clauses in order to maintain parallel structure. Take the following example of mixing clause forms:</p>
                 <blockquote>
-                    <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, more <q>for-here</q> options, and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+                    <p><q>This year, <custom item="coffee-shop"/> has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, more <q>for-here</q> options, and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
                 </blockquote>
-                <p>In this sentence, Diversions has cut a lot of waste by doing two things: 1) offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and 2) encouraging people to recycle. While the first three clauses in the series (discounts, drinks, and options) all share the verb <q>offering</q> equally, the fourth clause (recycling lids and sleeves) only uses the verb <q>encouraging.</q> To correct this sentence to preserve parallel structure, you have to insert the conjunction <q>and</q> between the second and third clauses to distinguish what Diversions is <q>offering</q> from what it is <q>encouraging.</q> Take the corrected revision:</p>
+                <p>In this sentence, <custom item="coffee-shop"/> has cut a lot of waste by doing two things: 1) offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and 2) encouraging people to recycle. While the first three clauses in the series (discounts, drinks, and options) all share the verb <q>offering</q> equally, the fourth clause (recycling lids and sleeves) only uses the verb <q>encouraging.</q> To correct this sentence to preserve parallel structure, you have to insert the conjunction <q>and</q> between the second and third clauses to distinguish what <custom item="coffee-shop"/> is <q>offering</q> from what it is <q>encouraging.</q> Take the corrected revision:</p>
                 <blockquote>
-                    <p><q>Diversions has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+                    <p><q>This year, <custom item="coffee-shop"/> has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
                 </blockquote>
             </subsubsection>
             <subsubsection xml:id="parallelism-two-nouns">
@@ -1025,11 +1025,11 @@
                 <title>Lists After a Colon</title>
                 <p>When you have a list after a colon, the parallel structure rule should be equally applied to all items in that list. Take this example of a list that does not follow parallel structure:</p>
                 <blockquote>
-                    <p><q>The sandwich station at the <acro>SUB</acro> has the following spread options: hummus, pesto, mayo, mustard, and it also has relish.</q></p>
+                    <p><q>The sandwich station at the <custom item="dining-hall"/> has the following spread options: hummus, pesto, mayo, mustard, and it also has relish.</q></p>
                 </blockquote>
                 <p>This list breaks parallel structure with the last item, <q>it also has relish,</q> which adds both a subject (<q>it</q>) and verb (<q>has</q>) to the list item (<q>relish</q>). To make this sentence adhere to parallel structure, the list item must be in the same form as the other items in the list:</p>
                 <blockquote>
-                    <p><q>The sandwich station at the <acro>SUB</acro> has the following spread options: hummus, pesto, mayo, mustard, and relish.</q></p>
+                    <p><q>The sandwich station at the <custom item="dining-hall"/> has the following spread options: hummus, pesto, mayo, mustard, and relish.</q></p>
                 </blockquote>
                 <p>To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:</p>
                 <list>
@@ -1401,8 +1401,8 @@
             <p>While we use <q>to be</q> frequently in our every day speech, the verb is often too weak as the main verb in formal writing. Uses of <q>to be</q> include: <em>to be, being, am, is, are, was, and were.</em></p>
             <p>Writers prefer not to overuse <q>to be</q> because English contains plenty of stronger (<ie/>, more active, informative, and interesting) verbs. <q>To be</q> also frequently indicates that you are using <xref ref="style-using-passive-cautiously" text="custom">passive voice</xref>. Using <q>to be</q> too much thus makes your writing boring or too passive. Which passage below do you prefer?</p>
             <blockquote>
-                <p><q>I was going to Diversions when I saw something that was interesting. It was my friend, Sally. Sally was outside and was sleeping on her chemistry textbook.</q></p>
-                <p><q>On my way to Diversions, I happened upon an interesting (and funny) sight: my friend, Sally, had fallen asleep outside, using her chemistry textbook as a pillow!</q></p>
+                <p><q>I was going to <custom item="coffee-shop"/> when I saw something that was interesting. It was my friend, Sally. Sally was outside and was sleeping on her chemistry textbook.</q></p>
+                <p><q>On my way to <custom item="coffee-shop"/>, I happened upon an interesting (and funny) sight: my friend, Sally, had fallen asleep outside, using her chemistry textbook as a pillow!</q></p>
             </blockquote>
             <warning xml:id="warning-mechanics-using-thesauruses">
                 <title>Thesaurus Use</title>
@@ -1468,7 +1468,7 @@
                             <p>I will <em>allot</em> three hours to doing homework today.</p>
                         </sidebyside>
                         <sidebyside>
-                            <p>I <em>accept</em> your apology for cutting me in line at Diversions.</p>
+                            <p>I <em>accept</em> your apology for cutting me in line at <custom item="coffee-shop"/>.</p>
                             <p>I’ve tried every coffee flavoring, <em>except</em> lavender.</p>
                         </sidebyside>
                     </sbsgroup>
@@ -1509,7 +1509,7 @@
                                 <p>accept</p>
                             </cell>
                             <cell>
-                                <p>I <em>accept</em> your apology for cutting me in line at Diversions.</p>
+                                <p>I <em>accept</em> your apology for cutting me in line at <custom item="coffee-shop"/>.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1573,7 +1573,7 @@
                                 <p>are</p>
                             </cell>
                             <cell>
-                                <p>We <em>are</em> Loggers!</p>
+                                <p>We <em>are</em> <custom item="identity"/>s!</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1693,7 +1693,7 @@
                                 <p>discreet</p>
                             </cell>
                             <cell>
-                                <p>I <em>discreetly</em> slipped a letter to a friend in the Campus Cursive box in Diversions.</p>
+                                <p>I <em>discreetly</em> slipped a letter to a friend in the Campus Cursive box in <custom item="coffee-shop"/>.</p>
                             </cell>
                         </row>
                         <row bottom = "medium">
@@ -1725,7 +1725,7 @@
                                 <p>grate</p>
                             </cell>
                             <cell>
-                                <p>The first-year student accidentally dropped their key-card into the rainwater <em>grate</em> by the <init>SUB</init>.</p>
+                                <p>The first-year student accidentally dropped their key-card into the rainwater <em>grate</em> by the <custom item="dining-hall"/>.</p>
                             </cell>
                         </row>
                         <row bottom = "medium">
@@ -1893,7 +1893,7 @@
                                 <p>palate</p>
                             </cell>
                             <cell>
-                                <p>After finishing a scrumptious garden tortellini dinner in the <init>SUB</init>, I cleaned my <em>palate</em> with a mango smoothie from the Cellar.</p>
+                                <p>After finishing a scrumptious garden tortellini dinner in the <custom item="dining-hall"/>, I cleaned my <em>palate</em> with a mango smoothie from the Cellar.</p>
                             </cell>
                         </row>
                         <row bottom = "medium">
@@ -1941,7 +1941,7 @@
                                 <p>perspective</p>
                             </cell>
                             <cell>
-                                <p><pubtitle>Perspectives</pubtitle> is a great way to introduce yourself to new <em>perspectives</em> in the Tacoma community.</p>
+                                <p><pubtitle>Perspectives</pubtitle> is a great way to introduce yourself to new <em>perspectives</em> in the <custom item="city"/> community.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1973,7 +1973,7 @@
                                 <p>rain</p>
                             </cell>
                             <cell>
-                                <p>It <em>rains</em> on occasion in Tacoma.</p>
+                                <p>It <em>rains</em> on occasion in <custom item="city"/>.</p>
                             </cell>
                         </row>
                         <row>
@@ -1997,7 +1997,7 @@
                                 <p>since</p>
                             </cell>
                             <cell>
-                                <p><em>Since</em> it rains a lot in Tacoma, continuing students recommend that new students bring good raincoats when they move in.</p>
+                                <p><em>Since</em> it rains a lot in <custom item="city"/>, continuing students recommend that new students bring good raincoats when they move in.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2037,7 +2037,7 @@
                                 <p>than</p>
                             </cell>
                             <cell>
-                                <p>Is Oppenheimer better <em>than</em> Diversions?</p>
+                                <p>Is Oppenheimer better <em>than</em> <custom item="coffee-shop"/>?</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2101,7 +2101,7 @@
                                 <p>weather</p>
                             </cell>
                             <cell>
-                                <p>The <em>weather</em> in Tacoma can be fickle; I’ve seen rain, hail, sunshine, snow, and clouds in one day.</p>
+                                <p>The <em>weather</em> in <custom item="city"/> can be fickle; I’ve seen rain, hail, sunshine, snow, and clouds in one day.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2254,8 +2254,8 @@
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
                 <example>
                     <title>Ellipsis: Sunbutter</title>
-                    <p>Original quote<mdash/><q>I love that the <acro>SUB</acro> has sunbutter and bananas. It's great because I'm allergic to peanuts.</q></p>
-                    <p>Quoted portion<mdash/><q>I love that the <acro>SUB</acro> has sunbutter <ellipsis/> . It's great because I'm allergic to peanuts.</q></p>
+                    <p>Original quote<mdash/><q>I love that the <custom item="dining-hall"/> has sunbutter and bananas. It's great because I'm allergic to peanuts.</q></p>
+                    <p>Quoted portion<mdash/><q>I love that the <custom item="dining-hall"/> has sunbutter <ellipsis/> . It's great because I'm allergic to peanuts.</q></p>
                 </example>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-exclamation">
@@ -2297,7 +2297,7 @@
                         </li>
                         <li>
                             <p>to separate items in a list or series.</p>
-                            <p><q>My favorite foods from the <acro>SUB</acro> include hummus, Greek yogurt, and apples.</q></p>
+                            <p><q>My favorite foods from the <custom item="dining-hall"/> include hummus, Greek yogurt, and apples.</q></p>
                         </li>
                         <li>
                             <p>with coordinate adjectives (<ie/>, adjectives that you could combine with <q>and</q>).</p>
@@ -2480,7 +2480,7 @@
                 <example xml:id="example-punctuation-brackets-insertion">
                     <title>Using Brackets to Insert Nouns</title>
                     <p>The writing advisor emphasized, <q>[The <custom item="tutoring-center-acronym"/>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
-                    <p><q>Additionally, if you need a coffee or tea break, it [the <custom item="tutoring-center-acronym"/>] is located conveniently close to Diversions,</q> continued the writing advisor.</p>
+                    <p><q>Additionally, if you need a coffee or tea break, it [the <custom item="tutoring-center-acronym"/>] is located conveniently close to <custom item="coffee-shop"/>,</q> continued the writing advisor.</p>
                 </example>
                 <list xml:id="list-mechanics-quoting-fragments-strategies">
                     <title>Strategies for Quoting Sentence Fragments</title>
@@ -2629,7 +2629,7 @@
                             Proper nouns should be capitalized.
                             <ul>
                                 <li><p>Proper nouns are basically names, though they aren't limited to humans.</p></li>
-                                <li><p>Proper nouns name things ranging from schools (<custom item="university-name-full"/>) to coffee shops (Diversions Cafe) to anthropomorphized bears (Grizz).</p></li>
+                                <li><p>Proper nouns name things ranging from schools (<custom item="university-name-full"/>) to coffee shops (<custom item="coffee-shop"/>) to cities (<custom item="city"/>).</p></li>
                                 <li>
                                     <p>Chances are, if it specifies a particular thing as opposed to that thing in general (<custom item="university-name-full"/> vs. college), capitalize it!</p>
                                     <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness"/> where we discuss this issue further.)</p>
@@ -2778,17 +2778,17 @@
                         <ul>
                             <li>
                                 <p>If it's part of a sentence, put the period outside the parentheses:</p>
-                                <p><q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies).</q></p>
+                                <p><q>I like to go to the <custom item="dining-hall"/> for sandwiches (and cookies).</q></p>
                             </li>
                             <li>
                                 <p>If it stands alone, put the period inside the parentheses:</p>
-                                <p><q>I like to go to the <acro>SUB</acro>. (There are really good cookies there.)</q></p>
+                                <p><q>I like to go to the <custom item="dining-hall"/>. (There are really good cookies there.)</q></p>
                             </li>
                         </ul>
                     </p>
                     <p>
                         <note>
-                            <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <acro>SUB</acro> for sandwiches (and cookies!).</q></p>
+                            <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <custom item="dining-hall"/> for sandwiches (and cookies!).</q></p>
                         </note>
                     </p>
                 </li>

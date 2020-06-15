@@ -214,7 +214,7 @@
         <dl>
             <li xml:id="definition-proper-noun">
                 <title>proper noun</title>
-                <p>a specific <xref ref="definition-noun"/>, like a name, though not limited to human names. Proper nouns name things ranging from schools (<custom item="university-name-full"/>) to coffee shops (Diversions Cafe)</p>
+                <p>a specific <xref ref="definition-noun"/>, like a name, though not limited to human names. Proper nouns name things ranging from schools (<custom item="university-name-full"/>) to cities (<custom item="city"/>)</p>
             </li>
             <li xml:id="definition-subject">
                 <title>subject</title>

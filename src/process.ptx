@@ -661,9 +661,9 @@
                     <p>Does it encapsulate the argument of the paper in a new way? Is there a sense of broader significance or application?</p>
                     <p>For instance, the conclusion</p>
                     <blockquote>
-                        <p><q>Recorded student reactions to eating broccoli indicate that broccoli is an unpopular food choice among college students. These findings suggest that broccoli should be excised from the <acro>SUB</acro> menu.</q></p>
+                        <p><q>Recorded student reactions to eating broccoli indicate that broccoli is an unpopular food choice among college students. These findings suggest that broccoli should be excised from the <custom item="dining-hall"/> menu.</q></p>
                     </blockquote>
-                    <p>suggests the practical removal of broccoli from the <acro>SUB</acro> menu.</p>
+                    <p>suggests the practical removal of broccoli from the <custom item="dining-hall"/> menu.</p>
             </paragraphs>
             <figure xml:id="revision-checklist">
                 <title>Revision Checklist</title>

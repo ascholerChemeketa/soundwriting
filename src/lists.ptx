@@ -29,7 +29,7 @@
             </li>
             <li><p>Nooks in Wyatt</p></li>
             <li><p>Outside (if it's sunny)</p></li>
-            <li><p>Upstairs in the <acro>SUB</acro></p></li>
+            <li><p>Upstairs in the <custom item="dining-hall"/></p></li>
             <li><p>The rotunda (if it's open)</p></li>
             <li><p>Lounges in your residence hall</p></li>
             <li><p><custom item="tutoring-center"/> (<custom item="tutoring-center-acronym/>")!</p></li>
@@ -57,7 +57,7 @@
             <li><p>Organize your documents/make a folder for your research</p></li>
             <li><p>Look at classes for next semester</p></li>
             <li><p>Make a good essay-writing playlist on Spotify</p></li>
-            <li><p>Go to the <acro>SUB</acro> or The Cellar, and get something healthy but good to snack on</p></li>
+            <li><p>Go to the <custom item="dining-hall"/> or The Cellar, and get something healthy but good to snack on</p></li>
             <li><p>There's a huge <q>study</q> genre on YouTube. Go watch a couple videos to get inspired!</p></li>
             <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
             <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>

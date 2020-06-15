@@ -31,4 +31,7 @@
     <school-custom type="state">the state</school-custom>
     <school-custom type="university-newspaper">the university paper</school-custom>
     <school-custom type="mascot">the mascot</school-custom>
+    <school-custom type="identity">student</school-custom>
+    <school-custom type="dining-hall">SUB</school-custom>
+    <school-custom type="coffee-shop">the coffee shop</school-custom>
 </school-customizations>

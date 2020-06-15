@@ -18,7 +18,7 @@
     <section xml:id="argument-elements">
         <title>Elements of an Argument</title>
         <introduction>
-            <p>After hours of poring over books and sifting through documents in <custom item="library"/> (and many cups of coffee from Diversions cafe), you finally hit upon an idea. The evidence corroborates it, and the logic is sound; your ideas align to form a stance that is at once distinctive and supportable.</p>
+            <p>After hours of poring over books and sifting through documents in <custom item="library"/> (and many cups of coffee from <custom item="coffee-shop"/>), you finally hit upon an idea. The evidence corroborates it, and the logic is sound; your ideas align to form a stance that is at once distinctive and supportable.</p>
             <sidebyside width="50%">
                 <image source="images/AD-Coffee"/>
             </sidebyside>
@@ -91,7 +91,7 @@
             <title>Argument Checklist</title>
             <ul>
                 <li><title>Is it too broad or too specific?</title>
-                    <p>Arguments often start out broad in scope and then narrow as more and more evidence is collected. The trick is making sure an argument doesn't stay too broad or become so narrow that it no longer becomes arguable. For instance, the argument <q>Rain influences people's behavior</q> would be daunting to research and argue because people likely respond to rain in a number of different ways. On the other hand, the argument <q>Rain influences the walking rates of Puget Sound students in Tacoma, Washington, differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</p>
+                    <p>Arguments often start out broad in scope and then narrow as more and more evidence is collected. The trick is making sure an argument doesn't stay too broad or become so narrow that it no longer becomes arguable. For instance, the argument <q>Rain influences people's behavior</q> would be daunting to research and argue because people likely respond to rain in a number of different ways. On the other hand, the argument <q>Rain influences the walking rates of <custom item="university-name-short"/> students in <custom item="city"/>, <custom item="state"/>, differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</p>
                 </li>
                 <li><title>Is it arguable based on the available evidence?</title>
                     <p>In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to <custom item="library"/>, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <em>The Trail</em> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the <custom item="library"/> search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</p>
@@ -312,7 +312,7 @@
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
             <insight>
                 <title>On the Subject of Sandwiches</title>
-                    <p> Here are three great sandwiches you can build at the SUB:
+                    <p> Here are three great sandwiches you can build at the <custom item="dining-hall"/>:
                         <dl>
                             <li>
                                 <title>Sandwich A</title>

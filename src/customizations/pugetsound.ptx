@@ -50,4 +50,10 @@ Library website</url></school-custom>
     <!-- Name of University newspaper, put in pubtitle tag -->
     <school-custom type="mascot">Grizz</school-custom>
     <!-- Name of University mascot -->
+    <school-custom type="identity">Logger</school-custom>
+    <!-- Name of student body identifier (tied to mascot) like "Loggers" or "Beavers" -->
+    <school-custom type="dining-hall"><acro>SUB</acro></school-custom>
+    <!-- Name of the dining hall or a popular one -->
+    <school-custom type="coffee-shop">Diversions</school-custom>
+    <!-- A popular student coffee shop on or near campus -->
 </school-customizations>
