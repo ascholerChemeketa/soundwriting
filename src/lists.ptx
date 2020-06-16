@@ -12,6 +12,7 @@
 <!--                                                                    -->
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
+    <!-- GENERIC the two study lists should be removed -->
     <list xml:id="good-too-know-campus-study">
         <caption>On-Campus Places to Study</caption>
         <ul>

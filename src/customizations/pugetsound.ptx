@@ -69,4 +69,16 @@ Library website</url></school-custom>
     <school-custom type="ultimate-team">The Postmen</school-custom>
     <!-- A university a capella group -->
     <school-custom type="a-capella"><q>What She Said</q></school-custom>
+    <!-- Name of University career services office -->
+    <school-custom type="career-office">Career and Employment Serices</school-custom>
+    <!-- Short name or acronym for career services office. OK if it's the same if no acronym -->
+    <school-custom type="career-office-short"><acro>CES</acro></school-custom>
+    <!-- Website of career office as active URL -->
+    <school-custom type="career-office-url"><url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url></school-custom>
+    <!-- Phone number of career office -->
+    <school-custom type="career-office-phone">253.879.3161</school-custom>
+    <!-- Room number or location of career office -->
+    <school-custom type="career-office-rm">Howarth 101</school-custom>
+    <!-- Career office email -->
+    <school-custom type="career-office-email"><email>ces@pugetsound.edu</email></school-custom>
 </school-customizations>

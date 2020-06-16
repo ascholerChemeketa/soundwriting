@@ -44,4 +44,12 @@
     <school-custom type="ultimate-team">the ultimate frisbee team</school-custom>
     <!-- The way this is used generic won't make sense -->
     <school-custom type="a-capella">a capella group</school-custom>
+    <school-custom type="career-office">career services office</school-custom>
+    <school-custom type="career-office-short">career services office</school-custom>
+    <school-custom type="career-office-url">career services website</school-custom>
+    <!-- This won't work generic -->
+    <school-custom type="career-office-phone">career services phone number</school-custom>
+    <!-- This won't work generic -->
+    <school-custom type="career-office-rm">the career services office location</school-custom>
+    <school-custom type="career-office-email">the career services email</school-custom>
 </school-customizations>

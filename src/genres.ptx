@@ -202,6 +202,7 @@
                 </li>
             </ul>
         </list>
+        <!-- GENERIC should read <p>For more tips and tricks on how to write a great cover letter and resume, visit <custom item="career-office"/> or <custom item="career-office-url"/> --> 
         <p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="http://www.pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf">CES Cover Letters and Thank You Notes Guide</url></q> from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p>
     </section>
     <section xml:id="section-resume">
@@ -289,7 +290,8 @@
                 </li>
             </ul>
         </list>
-        <p>For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-resume-guide.pdf">Resume Packet</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage. Remember that you can always bring your resume drafts to the Career and Employment Services office (Howarth 101) for editing and revising ideas!</p>
+        <!-- GENERIC consider removing the tips and tricks page -->
+        <p>For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-resume-guide.pdf">Resume Packet</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage. Remember that you can always bring your resume drafts to <custom item="career-office"/> (<custom item="career-office-rm"/>) for editing and revising ideas!</p>
     </section>
     <section xml:id="genres-addition-cv">
         <title>Writing Curriculum Vitae</title>
@@ -353,7 +355,8 @@
         <title>Writing Thank-You Notes</title>
         <paragraphs xml:id="par-genres-why-thank-you">
             <title>Why a Thank-You Note?</title>
-            <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at Career and Employment Services by visiting the <init>CES</init> office in Howarth 101, calling 253.879.3161, emailing <url href="mailto:ces@pugetsound.edu"><email>ces@pugetsound.edu</email></url>, or visiting <url href="https://www.pugetsound.edu/about/offices-services/ces/">the <init>CES</init> website</url><fn><c>pugetsound.edu/ces</c></fn>). However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
+            <!-- GENERIC for a truly generic version or to avoid putting in custom items this intro paragraph could be removed/rewritten -->
+            <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at <custom item="career-office"/> by visiting the office in <custom item="career-office-rm"/>, calling <custom item="career-office-phone"/>, emailing <custom item="career-office-email"/>, or visiting <custom item="career-office-url"/>). However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
             <sidebyside width="50%">
                 <image source="images/thankyou.png"/>
             </sidebyside>
@@ -374,6 +377,7 @@
             <title>Timing and Medium</title>
             <p>Hopefully, you will have obtained a business card or email addresses from your interviewer(s) during the interview. If you haven't, try to find their contact information on the company's website or directory. Try to get your thank-you note to your interviewers as quickly as possible (within 24 hours) after your interview. This way, they will likely still remember you and you can refresh yourself in their memory by referring back to the interview. Writing a thank-you note shortly after your interview will also allow you to recall specific details about the experience that you wouldn't be able to remember weeks or even a few days afterwards.</p>
             <p>You have a few different formatting options when it comes to writing your thank-you note. You can 1) hand-write it, 2) type it up and print it out, or 3) email it to your interviewers. There are benefits and drawbacks to each format, and you should choose the one that makes the most sense given convenience and the type of company to which you are applying. For instance, handwritten notes are more personalized and can demonstrate your passion for the position. However, for a very time-sensitive situation, an immediate and polite email might be most appropriate (for more on email etiquette, see <xref ref="email-etiquette"/>). For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="pugetsound.edu/files/resources/coverletterthankyounotes-2014.pdf">Cover Letters and Thank-You Notes</url></q> guide on the Job Search Resources page.</p>
+            <!-- GENERIC remove this last sentence -->
         </paragraphs>
     </section>
 </chapter>
