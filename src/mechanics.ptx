@@ -174,11 +174,11 @@
                     </p>
                 </paragraphs> -->
                     <example>
-                        <title>Adjective/Relative Clause: Grizz</title>
+                        <title>Adjective/Relative Clause: <custom item="mascot"/></title>
                         <p>
-                            <q>The Grizz costume, <em>which belongs to the school</em>, is to be used only at official school events.</q>
+                            <q>The <custom item="mascot"/> costume, <em>which belongs to the school</em>, is to be used only at official school events.</q>
                             <ul>
-                                <li>Subject: the Grizz costume</li>
+                                <li>Subject: the <custom item="mascot"/> costume</li>
                                 <li>Question: which one?</li>
                                 <li>Answer: the one that belongs to the school</li>
                             </ul>
@@ -580,12 +580,12 @@
                 </list>
                 <example>
                     <title>Agreement with Multiple Subjects</title>
-                    <p><q>President Crawford <em>and</em> professors <alert>meet</alert> with students frequently.</q></p>
+                    <p><q>Professors <em>and</em> <custom item="university-president"/> <alert>meet</alert> with students frequently.</q></p>
                 </example>
                 <example>
                     <title>Agreement with Multiple Possible Subjects</title>
-                    <p><q><em>Either</em> President Crawford <em>or</em> professors <alert>meet</alert> with students frequently.</q></p>
-                    <p><q><em>Either</em> professors <em>or</em> President Crawford <alert>meets</alert> with students frequently.</q></p>
+                    <p><q><em>Either</em> <custom item="university-president"/> <em>or</em> professors <alert>meet</alert> with students frequently.</q></p>
+                    <p><q><em>Either</em> professors <em>or</em> <custom item="university-president"/> <alert>meets</alert> with students frequently.</q></p>
                 </example>
                 <example>
                     <title>Agreement with a Collective Noun</title>
@@ -684,13 +684,12 @@
                     <p>
                         <ul>
                             <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
-                            <li><p><q>The first-year seminar student studies in the library.</q></p></li>
+                            <li><p><q>The <custom item="intro-writing-student"/> studies in the library.</q></p></li>
                             <li><p><q>The RDG members dance across the stage.</q></p></li>
                             <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
                         </ul>
                     </p>
                 </example>
-
             </subsubsection>
             <subsubsection xml:id="agreement-is-are">
                 <title>Is/Are</title>
@@ -798,7 +797,7 @@
                 <p>
                     Sometimes the <xref ref="definition-subject" text="title"/> and <xref ref="definition-verb" text="title"/> are separated by modifying phrases and <xref ref="definition-adjective" text="custom">adjectives</xref> that describe the subject. While <xref ref="definition-modifier" text="custom">modifiers</xref> are useful for adding specificity to sentences, they can be confusing when you are trying to make your subject and verb agree. If you spot a modifier, skip over it and make your verb singular or plural based on the subject. In the following examples, subjects are underlined and verbs are italicized.
                     <ul>
-                        <li><p><q><un s="1">President Crawford</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
+                        <li><p><q><un s="1">The student body president</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
                         <li><p><q>The <un s="1">first-year resident</un>, who was feeling <acro>FOMO</acro> and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
                         <li><p><q><un s="1"><custom item="coffee-shop"/></un> (and its baristas) <em>provides</em> a great space to study and socialize.</q></p></li>
                     </ul>
@@ -2249,7 +2248,7 @@
                 <p>Use an ellipsis to show that you have omitted part of a quotation.</p>
                 <example>
                     <title>Ellipsis: Ubiquitous They</title>
-                    <p><em>The Trail</em> reporter wrote, <q>The skit, which was held in the Rendezvous Room, showcased <ellipsis/> the many skills of <custom item="university-name-short"/>'s improv group, Ubiquitous They.</q></p>
+                    <p><custom item="university-newspaper"/> reporter wrote, <q>The skit, which was held in the Rendezvous Room, showcased <ellipsis/> the many skills of <custom item="university-name-short"/>'s improv group, Ubiquitous They.</q></p>
                 </example>
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
                 <example>
@@ -2377,7 +2376,7 @@
             <subsubsection xml:id="punctuation-capitalization-parentheses">
                 <title>Parentheses <dblbrackets>(these)</dblbrackets></title>
                 <p>Aside from citations (see <xref ref="citations"/>), parentheses are used in writing to separate words, phrases, or sentences from the main text. When you want to add additional information that doesn't fit well within the main part of a sentence, you can use parentheses to inform your reader while simultaneously keeping your sentence flowing (like this). (Or you can just use parentheses on their own to indicate that something is an aside or afterthought.) For more details on how to use other types of punctuation with parentheses (<eg/>, where does the period go?!), see <xref ref="period-inside-or-outside"/>!</p>
-                <p>You can also use parentheses in area codes, like (253) 879-3404 (which is, coincidentally, the phone number to the <custom item="tutoring-center"/>).</p>
+                <p>You can also use parentheses in area codes, like <custom item="tutoring-center-phone"/> (which is, coincidentally, the phone number to the <custom item="tutoring-center"/>).</p>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-brackets">
                 <title>Brackets <dblbrackets>[these]</dblbrackets></title>
@@ -2447,8 +2446,8 @@
                 </list>
                 <example xml:id="example-punctuation-using-quotations">
                     <title>Using Quotation Marks</title>
-                    <p>According to the first-year seminar student, <q>The <custom item="tutoring-center-acronym"/> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
-                    <p>In the first-year seminar student's reaction to going to the <custom item="tutoring-center-acronym"/>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
+                    <p>According to the <custom item="intro-writing-student"/>, <q>The <custom item="tutoring-center-acronym"/> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
+                    <p>In the <custom item="intro-writing-student"/>'s reaction to going to the <custom item="tutoring-center-acronym"/>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
                 </example>
                 <example xml:id="example-punctuation-prefacing-quotations">
                     <title>Prefacing Quotes with a Comma</title>
@@ -2462,7 +2461,7 @@
                 <example xml:id="example-punctuation-integrating-quotes">
                     <title>Integrating Quotes</title>
                     <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
-                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the writing advisors at the <custom item="tutoring-center-acronym"/> are very nice and accommodating.</q></p>
+                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the <custom item="writing-tutor"/>s at the <custom item="tutoring-center-acronym"/> are very nice and accommodating.</q></p>
                 </example>
                 <example xml:id="example-punctuation-ellipses-replacing">
                     <title>Using an Ellipses to Replace Source Material</title>
@@ -2470,17 +2469,17 @@
                 </example>
                 <example xml:id="example-punctuation-ellipses-honestly">
                     <title>Using Ellipses to Quote Honestly</title>
-                    <p>If the original sentence were, <q>I have never seen The Postmen play a game, but I really enjoy watching ultimate games because the players have so many cool Frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
+                    <p>If the original sentence were, <q>I have never seen <custom item="ultimate-team"/> play a game, but I really enjoy watching ultimate games because the players have so many cool Frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
                 </example>
                 <example xml:id="example-punctuation-brackets-changes">
                     <title>Using Brackets to Indicate Changes</title>
-                        <p>The subject tutor asked the seminar class, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <custom item="tutoring-center-acronym"/>?</q></p>
+                        <p>The subject tutor asked the <custom item="intro-writing"/>, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <custom item="tutoring-center-acronym"/>?</q></p>
                         <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p>
                 </example>
                 <example xml:id="example-punctuation-brackets-insertion">
                     <title>Using Brackets to Insert Nouns</title>
-                    <p>The writing advisor emphasized, <q>[The <custom item="tutoring-center-acronym"/>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
-                    <p><q>Additionally, if you need a coffee or tea break, it [the <custom item="tutoring-center-acronym"/>] is located conveniently close to <custom item="coffee-shop"/>,</q> continued the writing advisor.</p>
+                    <p>The <custom item="writing-tutor"/> emphasized, <q>[The <custom item="tutoring-center-acronym"/>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
+                    <p><q>Additionally, if you need a coffee or tea break, it [the <custom item="tutoring-center-acronym"/>] is located conveniently close to <custom item="coffee-shop"/>,</q> continued the <custom item="writing-tutor"/>.</p>
                 </example>
                 <list xml:id="list-mechanics-quoting-fragments-strategies">
                     <title>Strategies for Quoting Sentence Fragments</title>
@@ -2510,8 +2509,8 @@
                     <title>Using Block Quotes for Large Excerpts</title>
                     <p>According to its website, the <custom item="tutoring-center-acronym"/> emphasizes how easy it is to make an appointment:</p>
                     <blockquote>
-                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the <custom item="tutoring-center"/> (Howarth 109) or to call 253.879.3404</p>
-                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
+                        <p>There are several ways for students to make an appointment to meet with a <custom item="writing-tutor"/> or subject tutor. The fastest ways are to stop by the <custom item="tutoring-center"/> (<custom item="tutoring-center-rm"/>) or to call <custom item="tutoring-center-phone"/></p>
+                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for <custom item="writing-tutor"/> and subject tutor hours.</p>
                     </blockquote>
                 </example>
             </subsubsection>
@@ -2650,7 +2649,7 @@
                         <p>
                             But don't capitalize occupational designators!
                             <ul>
-                                <li><p>The university's mascot Grizz</p></li>
+                                <li><p>The university's mascot <custom item="mascot"/></p></li>
                                 <li><p>The movie's director Christopher Nolan</p></li>
                             </ul>
                         </p>

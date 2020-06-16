@@ -12,48 +12,61 @@
 <!--                                                                    -->
 
 <school-customizations>
+    <!-- I intend to put this list in alpha order but it hasn't happened yet -->
+    <!-- Full name of University library -->
     <school-custom type="library">Collins Memorial Library</school-custom>
     <!-- Name of the library, as an active hyperlink                    -->
     <!-- Abbreviated version as footnote for visual use (e.g. hardcopy) -->
     <!-- No spaces, since they can migrate all the way to output        -->
     <school-custom type="library-as-url"><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins Memorial Library</url><fn><c>www.pugetsound.edu/academics/academic-resources/collins-memorial-library/</c></fn></school-custom>
-    <!-- Full name of University library -->
-    <school-custom type="student-government"><init>ASUPS</init></school-custom>
     <!-- Name of student body or student government organization, can be acronym -->
+    <school-custom type="student-government"><init>ASUPS</init></school-custom>
+    <!-- University library website, with name and url link -->
     <school-custom type="library-url"><url
 href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins
 Library website</url></school-custom>
-    <!-- University library website, with name and url link -->
-    <school-custom type="university-name-full">University of Puget Sound</school-custom>
     <!-- Full formal university name. Often used with "the" in front. -->
-    <school-custom type="university-name-acro"><init>UPS</init></school-custom>
+    <school-custom type="university-name-full">University of Puget Sound</school-custom>
     <!-- University name acronym -->
-    <school-custom type="university-name-short">Puget Sound</school-custom>
+    <school-custom type="university-name-acro"><init>UPS</init></school-custom>
     <!-- Shorter version of university name, if desired; often used as an adjective ie. Puget Sound education, Puget Sound community. Often used without "the" in front. -->
-    <school-custom type="intro-writing"><init>SSI</init></school-custom>
+    <school-custom type="university-name-short">Puget Sound</school-custom>
     <!-- Name of first-year writing curriculum, used as a noun -->
-    <school-custom type="intro-writing-student">first-year seminar student</school-custom>
+    <school-custom type="intro-writing"><init>SSI</init></school-custom>
     <!-- Student in first-year writing class -->
+    <school-custom type="intro-writing-student">first-year seminar student</school-custom>
+    <!-- Name of writing tutors offered through the university. Capitalized. -->
     <school-custom type="writing-tutor">Writing Advisor</school-custom>
-    <!-- Name of writing tutors offered through the university -->
-    <school-custom type="tutoring-center">Center for Writing, Learning, and Teaching</school-custom>
     <!-- Name of tutoring center, full -->
-    <school-custom type="tutoring-center-url"><url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url></school-custom>
+    <school-custom type="tutoring-center">Center for Writing, Learning, and Teaching</school-custom>
     <!-- Tutoring center name as active link, can use full name or acronym -->
-    <school-custom type="tutoring-center-acronym"><init>CWLT</init></school-custom>
+    <school-custom type="tutoring-center-url"><url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url></school-custom>
     <!-- Name of tutoring center, short -->
-    <school-custom type="city">Tacoma</school-custom>
+    <school-custom type="tutoring-center-acronym"><init>CWLT</init></school-custom>
     <!-- Name of city where college is located -->
-    <school-custom type="state">Washington</school-custom>
+    <school-custom type="city">Tacoma</school-custom>
     <!-- Name of state where college is located -->
-    <school-custom type="university-newspaper"><pubtitle>The Trail</pubtitle></school-custom>
+    <school-custom type="state">Washington</school-custom>
     <!-- Name of University newspaper, put in pubtitle tag -->
-    <school-custom type="mascot">Grizz</school-custom>
+    <school-custom type="university-newspaper"><pubtitle>The Trail</pubtitle></school-custom>
     <!-- Name of University mascot -->
-    <school-custom type="identity">Logger</school-custom>
+    <school-custom type="mascot">Grizz</school-custom>
     <!-- Name of student body identifier (tied to mascot) like "Loggers" or "Beavers" -->
-    <school-custom type="dining-hall"><acro>SUB</acro></school-custom>
+    <school-custom type="identity">Logger</school-custom>
     <!-- Name of the dining hall or a popular one -->
-    <school-custom type="coffee-shop">Diversions</school-custom>
+    <school-custom type="dining-hall"><acro>SUB</acro></school-custom>
     <!-- A popular student coffee shop on or near campus -->
+    <school-custom type="coffee-shop">Diversions</school-custom>
+    <!-- Current president of the university -->
+    <school-custom type="university-president">President Crawford</school-custom>
+    <!-- Phone number for the tutoring center -->
+    <school-custom type="tutoring-center-phone">(253)879-3404</school-custom>
+    <!-- The science building or one of the science buildings on campus -->
+    <school-custom type="science-hall">Thompson</school-custom>
+    <!-- Room number or location of tutoring center -->
+    <school-custom type="tutoring-center-rm">Howarth 109</school-custom>
+    <!-- One of the school's Ultimate Frisbee teams -->
+    <school-custom type="ultimate-team">The Postmen</school-custom>
+    <!-- A university a capella group -->
+    <school-custom type="a-capella"><q>What She Said</q></school-custom>
 </school-customizations>

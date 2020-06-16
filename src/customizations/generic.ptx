@@ -24,6 +24,7 @@
     <school-custom type="intro-writing-student">first-year writing student</school-custom>
     <school-custom type="writing-tutor">writing tutor</school-custom>
     <school-custom type="tutoring-center">tutoring center</school-custom>
+    <!-- The way this is right now we often have tutoring center (tutoring center) where the acronym would appear -->
     <school-custom type="tutoring-center-acronym">tutoring center</school-custom>
     <!-- No URL for generic so just text again -->
     <school-custom type="tutoring-center-url">tutoring center</school-custom>
@@ -32,6 +33,15 @@
     <school-custom type="university-newspaper">the university paper</school-custom>
     <school-custom type="mascot">the mascot</school-custom>
     <school-custom type="identity">student</school-custom>
-    <school-custom type="dining-hall">SUB</school-custom>
+    <school-custom type="dining-hall">dining hall</school-custom>
     <school-custom type="coffee-shop">the coffee shop</school-custom>
+    <school-custom type="university-president">the university present</school-custom>
+    <!-- This one doesn't really work generic -->
+    <school-custom type="tutoring-center-phone">tutoring center phone number</school-custom>
+    <school-custom type="science-hall">the science building</school-custom>
+    <!-- This won't make sense generic -->
+    <school-custom type="tutoring-center-rm">tutoring center location</school-custom>
+    <school-custom type="ultimate-team">the ultimate frisbee team</school-custom>
+    <!-- The way this is used generic won't make sense -->
+    <school-custom type="a-capella">a capella group</school-custom>
 </school-customizations>
