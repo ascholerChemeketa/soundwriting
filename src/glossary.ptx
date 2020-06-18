@@ -214,7 +214,7 @@
         <dl>
             <li xml:id="definition-proper-noun">
                 <title>proper noun</title>
-                <p>a specific <xref ref="definition-noun"/>, like a name, though not limited to human names. Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Cafe)</p>
+                <p>a specific <xref ref="definition-noun" text="title"/>, like a name, though not limited to human names. Proper nouns name things ranging from schools (University of Puget Sound) to coffee shops (Diversions Cafe)</p>
             </li>
             <li xml:id="definition-subject">
                 <title>subject</title>
@@ -234,7 +234,7 @@
             </li>
             <li xml:id="definition-clause">
                 <title>clause</title>
-                <p>composed of a <xref ref="definition-subject"/> and a <xref ref="definition-predicate"/>, which also means that every clause has a noun and a verb. </p>
+                <p>composed of a <xref ref="definition-subject" text="title"/> and a <xref ref="definition-predicate" text="title"/>, which also means that every clause has a noun and a verb. </p>
             </li>
             <li xml:id="definition-independent-clause">
                 <title>independent/main clause</title>
@@ -242,19 +242,19 @@
             </li>
             <li xml:id="definition-dependent-clause">
                 <title>dependent/subordinate clause</title>
-                <p>a sentence element that adds information but that does not form a complete thought. Subordinate/dependent clauses are dependent on an <xref ref="definition-independent-clause"/> to make sense.</p>
+                <p>a sentence element that adds information but that does not form a complete thought. Subordinate/dependent clauses are dependent on an <xref ref="definition-independent-clause" text="title"/> to make sense.</p>
             </li>
             <li xml:id="definition-adjective-clause">
                 <title>adjective/relative clause</title>
-                <p>a <xref ref="definition-dependent-clause"/> that acts as an adjective to modify a noun.</p>
+                <p>a <xref ref="definition-dependent-clause" text="title"/> that acts as an adjective to modify a noun.</p>
             </li>
             <li xml:id="definition-adverb-clause">
                 <title>adverb clause</title>
-                <p>a <xref ref="definition-dependent-clause"/> that acts as an adverb to modify the verb in a sentence.</p>
+                <p>a <xref ref="definition-dependent-clause" text="title"/> that acts as an adverb to modify the verb in a sentence.</p>
             </li>
             <li xml:id="definition-noun-clause">
                 <title>noun clause</title>
-                <p>a <xref ref="definition-dependent-clause"/> that acts as a noun</p>
+                <p>a <xref ref="definition-dependent-clause" text="title"/> that acts as a noun</p>
             </li>
             <li xml:id="definition-modifier">
                 <title>modifier</title>
@@ -262,15 +262,15 @@
             </li>
             <li xml:id="definition-present-participle">
                 <title>present participle</title>
-                <p>a verb ending in <q>-ing</q> that acts as an <xref ref="definition-adjective"/></p>
+                <p>a verb ending in <q>-ing</q> that acts as an <xref ref="definition-adjective" text="title"/></p>
             </li>
             <li xml:id="definition-past-participle">
                 <title>past participle</title>
-                <p>a verb ending in <q>-ed</q> (or an irregular form) that acts as an <xref ref="definition-adjective"/></p>
+                <p>a verb ending in <q>-ed</q> (or an irregular form) that acts as an <xref ref="definition-adjective" text="title"/></p>
             </li>
             <li xml:id="definition-gerund">
                 <title>gerund</title>
-                <p>a verb ending in <q>-ing</q> that acts as a <xref ref="definition-noun"/></p>
+                <p>a verb ending in <q>-ing</q> that acts as a <xref ref="definition-noun" text="title"/></p>
             </li>
             <li xml:id="definition-infinitives">
                 <title>infinitive</title>
@@ -278,15 +278,15 @@
             </li>
             <li xml:id="definition-fractional-expression">
                 <title>fractional expression</title>
-                <p>an expression that begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun"/></p>
+                <p>an expression that begins with a word like <q>half,</q> <q>part,</q> <q>some,</q> <q>a majority,</q> <q>all,</q> <q>any,</q> <q>more,</q> or <q>most,</q> followed by <q>of</q> and then a <xref ref="definition-noun" text="title"/>.</p>
             </li>
             <li xml:id="definition-collective-noun">
                 <title>collective noun</title>
-                <p>a <xref ref="definition-noun"/> that refers to a group, like <q>family.</q></p>
+                <p>a <xref ref="definition-noun" text="title"/> that refers to a group, like <q>family.</q></p>
             </li>
             <li xml:id="definition-FANBOYS">
                 <title><acro>FANBOYS</acro></title>
-                <p>an acronym that helps you remember the seven coordinating <xref ref="definition-conjunction">conjunctions</xref>, <alert>F</alert>or, <alert>A</alert>nd, <alert>N</alert>or, <alert>B</alert>ut, <alert>O</alert>r, <alert>Y</alert>et, and <alert>S</alert>o</p>
+                <p>an acronym that helps you remember the seven coordinating <xref ref="definition-conjunction" text="title"/>, <alert>F</alert>or, <alert>A</alert>nd, <alert>N</alert>or, <alert>B</alert>ut, <alert>O</alert>r, <alert>Y</alert>et, and <alert>S</alert>o</p>
             </li>
         </dl>
     </list>
@@ -323,11 +323,11 @@
             </li>
             <li>
                 <title>working thesis</title>
-                <p>a <xref ref="definition-thesis"/> that guides your argument but that is still evolving as you write your paper.</p>
+                <p>a <xref ref="definition-thesis" text="title"/> that guides your argument but that is still evolving as you write your paper.</p>
             </li>
             <li>
                 <title>transitive verb</title>
-                <p>a <xref ref="definition-verb"/> that accepts a <xref ref="definition-direct-object"/> and possibly also an <xref ref="definition-indirect-object"/>.</p>
+                <p>a <xref ref="definition-verb" text="title"/> that accepts a <xref ref="definition-direct-object" text="title"/> and possibly also an <xref ref="definition-indirect-object" text="title"/>.</p>
             </li>
             <li>
                 <title>pragmatics</title>
