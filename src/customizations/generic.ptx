@@ -41,7 +41,7 @@
     <school-custom type="science-hall">the science building</school-custom>
     <!-- This won't make sense generic -->
     <school-custom type="tutoring-center-rm">tutoring center location</school-custom>
-    <school-custom type="ultimate-team">the ultimate frisbee team</school-custom>
+    <school-custom type="ultimate-team">our ultimate frisbee team</school-custom>
     <!-- The way this is used generic won't make sense -->
     <school-custom type="a-capella">a capella group</school-custom>
     <school-custom type="career-office">career services office</school-custom>
@@ -52,4 +52,12 @@
     <!-- This won't work generic -->
     <school-custom type="career-office-rm">the career services office location</school-custom>
     <school-custom type="career-office-email">the career services email</school-custom>
+    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see this <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">Resume Guide</url></q> and this <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url></q>designed for college students. When in doubt, visit your career services office!</p></school-custom>
+    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url>.</school-custom>
+    <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see this handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide for college students.</school-custom>
+    <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here, although your career services office should be able to help with that.</school-custom>
+    <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
+    <school-custom type="on-campus-study-list"></school-custom>
+    <school-custom item="off-campus-study-list"></school-custom>
+    <school-custom item="CWLT-time-chart"></school-custom>
 </school-customizations>

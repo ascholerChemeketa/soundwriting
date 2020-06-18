@@ -81,4 +81,50 @@ Library website</url></school-custom>
     <school-custom type="career-office-rm">Howarth 101</school-custom>
     <!-- Career office email -->
     <school-custom type="career-office-email"><email>ces@pugetsound.edu</email></school-custom>
+    <!-- Sentence modification for generic to cite CES resources properly. Schools could also customize to insert internal resources. Goes in genres chapter -->
+    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">CES Resume Guide</url></q> and the <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">CES Cover Letter Guide</url></q>from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p></school-custom>
+    <!-- Similar sentence modification to previous, also in genres chapter -->
+    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage.</school-custom>
+    <!-- Similar modification in genres chapter, this one on thank-you notes -->
+    <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide on the Job Search Resources page.</school-custom>
+    <!-- More info about using CES in genres chapter -->
+    <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at <init>CES</init> by visiting the office in Howarth 101, calling 253.879.3161, emailing ces@pugetsound.edu, or visiting <url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url>).</school-custom>
+    <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
+    <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
+    <!-- In pugetsound version this list is formatted as an as an unorded list without a title -->
+    <school-custom type="on-campus-study-list">
+                <ul>
+                    <li><p>Diversions/Oppenheimer</p></li>
+                    <li><p>Empty classrooms/resource rooms in Thompson</p></li>
+                    <li>
+                        <p>The library
+                            <ul>
+                                <li>Rooms in the basement</li>
+                                <li>Second floor</li>
+                                <li>Big tables by the front doors</li>
+                                <li>The fourth-floor couches</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li><p>Nooks in Wyatt</p></li>
+                    <li><p>Outside (if it's sunny)</p></li>
+                    <li><p>Upstairs in the <init>SUB</init></p></li>
+                    <li><p>The rotunda (if it's open)</p></li>
+                    <li><p>Lounges in your residence hall</p></li>
+                    <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
+                </ul>
+            </school-custom>
+    <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
+    <!-- In pugetsound version this list is formatted as an unorded list without a title -->
+    <school-custom item="off-campus-study-list">
+                <ul>
+                    <li><p>Metronome</p></li>
+                    <li><p>Bluebeard Coffee Roasters</p></li>
+                    <li><p>Owen Beach at Point Defiance</p></li>
+                    <li><p>Anthem Coffee &amp; Tea</p></li>
+                    <li><p>Blackbear</p></li>
+                </ul>
+            </school-custom>
+    <!-- This sentence adds a reference to this specific time chart found in the tutoring center. It goes in the section on time charts -->
+    <school-custom item="CWLT-time-chart">If you like what you see here, you can pick up a time charts like this one at the <init>CWLT</init>.</school-custom>
 </school-customizations>

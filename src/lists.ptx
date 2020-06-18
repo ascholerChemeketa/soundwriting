@@ -12,41 +12,9 @@
 <!--                                                                    -->
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
-    <!-- GENERIC the two study lists should be removed -->
-    <list xml:id="good-too-know-campus-study">
-        <caption>On-Campus Places to Study</caption>
-        <ul>
-            <li><p>Diversions/Oppenheimer</p></li>
-            <li><p>Empty classrooms/resource rooms in Thompson</p></li>
-            <li>
-                <p>The library
-                    <ul>
-                        <li>Rooms in the basement</li>
-                        <li>Second floor</li>
-                        <li>Big tables by the front doors</li>
-                        <li>The fourth-floor couches</li>
-                    </ul>
-                </p>
-            </li>
-            <li><p>Nooks in Wyatt</p></li>
-            <li><p>Outside (if it's sunny)</p></li>
-            <li><p>Upstairs in the <custom item="dining-hall"/></p></li>
-            <li><p>The rotunda (if it's open)</p></li>
-            <li><p>Lounges in your residence hall</p></li>
-            <li><p><custom item="tutoring-center"/> (<custom item="tutoring-center-acronym/>")!</p></li>
-        </ul>
-    </list>
-    <list xml:id="good-to-know-off-campus-study">
-        <caption>Off-Campus Places to Study</caption>
-        <ul>
-            <li><p>Metronome</p></li>
-            <li><p>Bluebeard Coffee Roasters</p></li>
-            <li><p>Owen Beach at Point Defiance</p></li>
-            <li><p>Anthem Coffee &amp; Tea</p></li>
-            <!-- Closed <li><p>B#</p></li> -->
-            <li><p>Blackbear</p></li>
-        </ul>
-    </list>
+    <!-- GENERIC these lists probably lack titles, clean that up -->
+    <custom item="on-campus-study-list"/>
+    <custom item="off-campus-study-list"/>
     <list xml:id="productive-procrastination">
         <caption>Productive Procrastination</caption>
         <ul>
