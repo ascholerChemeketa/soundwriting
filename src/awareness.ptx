@@ -13,17 +13,11 @@
 <chapter xml:id="writing-with-awareness">
     <title>Writing with Awareness</title>
     <introduction>
-        <blockquote>
-            <p>We at Puget Sound intentionally conceptualize and view diversity as a matter of equity and inclusion. In doing so, we aim to understand and actively respond to the ways organizational aspects of our society and of our own university often work against those principles, excluding some groups and individuals from our community while including others. The work of diversity, accordingly, seeks to account for and redress deeply embedded historical practices and legacies, forms of cultural and social representation, and institutional policies and processes that can systematically exclude groups or individuals from full participation in higher education and the considerable benefits it offers.</p>
-            <attribution>
-                <line>Puget Sound's Threshold 2020</line>
-                <line>Diversity Strategic Plan</line>
-            </attribution>
-        </blockquote>
+        <custom item="diversity-plan"/>
         <p>Language use is part of this work of diversity; as writers, we are also part of that work. While the impacts of language on individual feelings and circumstances may, on the surface, seem insignificant (<q>sticks and stones,</q> as the adage goes), language can embody prejudice, discrimination, and status hierarchies. Words, like people and societies, have histories. Some words, such as racial slurs, are overtly bigoted, while others more subtly express longstanding stereotypes or attitudes about particular groups of people. For instance, patronizing and parochial treatment of specific languages or linguistic types derives from discrimination and intolerance of groups who speak those languages.</p>
         <p>By acknowledging the role language plays in reinforcing inequalities, we recognize the privileges and disadvantages of different groups of people. Additionally, using words rooted in hate and oppression perpetuates hate and oppression and denies groups of people opportunities to reclaim their individual and collective agency. However, if we are unfamiliar with such histories, it can sometimes be difficult to identify terminologies of oppression.</p>
         <p>This chapter aims to offer different ways for us, as scholars and citizens of the world, to be intentional about and ethical in the language we use. We have attempted to clarify terms and provide more inclusive, equality-based alternatives, and we hope that these will help us all as writers to be aware of and attentive to the diversity of experiences that our audiences will have.</p>
-        <p>Because terms and preferences vary and change, we have compiled only general guidelines, and our suggestions should be considered in the contexts of their usages. Please also note that each section deals with a complex subject, and there are excellent resources here on campus for learning more. We make suggestions in each section below about departments and programs that offer relevant courses, but our suggestions are not comprehensive. Looking for courses that fulfill the <url href="https://www.pugetsound.edu/academics/curriculum-courses/knowledge-identity-and-power">Knowledge, Identity, and Power</url> (<acro>KNOW</acro>) graduation requirement is another good way to find relevant courses. Get involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs offered through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
+        <p>Because terms and preferences vary and change, we have compiled only general guidelines, and our suggestions should be considered in the contexts of their usages. Please also note that each section deals with a complex subject, and there are excellent resources here on campus for learning more. We make suggestions in each section below about departments and programs that offer relevant courses, but our suggestions are not comprehensive. <custom item="waw-resources"/></p>
         <p>We've tried to be as nuanced as possible in a short space, but, there are surely things we have missed and things we still need to learn. However, just as language can change, so, too, can this handbook. If you would like to suggest any improvements to the guidelines that follow, please email us at <url href="mailto:soundwriting@pugetsound.edu"><c>soundwriting@pugetsound.edu</c></url>.</p>
     </introduction>
     <section xml:id="writewithequity">
@@ -169,7 +163,7 @@
 
                 </dl>
             </list>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="gender-resources"/></p>
         </subsection>
         <subsection xml:id="inclusivity-neurophysical">
             <title>Language Toward Neurological and Physical Inclusivity</title>

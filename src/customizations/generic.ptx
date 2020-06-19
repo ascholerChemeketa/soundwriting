@@ -52,12 +52,19 @@
     <!-- This won't work generic -->
     <school-custom type="career-office-rm">the career services office location</school-custom>
     <school-custom type="career-office-email">the career services email</school-custom>
-    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see this <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">Resume Guide</url></q> and this <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url></q>designed for college students. When in doubt, visit your career services office!</p></school-custom>
-    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url>.</school-custom>
+    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see this <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">Resume Guide</url></q> and this <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url></q> designed for college students. When in doubt, visit your career services office!</p></school-custom>
+    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url>. Remember that you can always bring your resume to your career services office for more editing ideas!</school-custom>
     <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see this handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide for college students.</school-custom>
     <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here, although your career services office should be able to help with that.</school-custom>
+    <school-custom type="personal-statement-resources">For more tips and tricks on how to write a personal statement, see this <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page. Remember that you can bring in your personal statement drafts to your university fellowship office and tutoring center, likely even after you graduate.</school-custom>
+    <school-custom type="counseling-resources">If you're really feeling overwhelmed, schedule a counseling appointment at your university health center.</school-custom>
+    <school-custom type="waw-resources">Look for courses that address identity, power, and education, as well as programs offered through your campus diversity center.</school-custom>
+    <school-custom type="gender-resources">Taking courses in Gender Studies, Queer Studies, or Womens Studies or looking into programs offered by your university's diversity center are great places to start.</school-custom>
+    <school-custom type="buzzfeed-quiz"><li><p>Take the this <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
     <school-custom type="on-campus-study-list"></school-custom>
-    <school-custom item="off-campus-study-list"></school-custom>
-    <school-custom item="CWLT-time-chart"></school-custom>
+    <school-custom type="off-campus-study-list"></school-custom>
+    <school-custom type="CWLT-time-chart"></school-custom>
+    <school-custom type="microsoft-word"></school-custom>
+    <school-custom type="diversity-plan"></school-custom>
 </school-customizations>

@@ -84,11 +84,17 @@ Library website</url></school-custom>
     <!-- Sentence modification for generic to cite CES resources properly. Schools could also customize to insert internal resources. Goes in genres chapter -->
     <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">CES Resume Guide</url></q> and the <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">CES Cover Letter Guide</url></q>from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p></school-custom>
     <!-- Similar sentence modification to previous, also in genres chapter -->
-    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage.</school-custom>
+    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage. Remember that you can always bring your resume drafts to CES (Howarth 101) for editing and revising ideas!</school-custom>
     <!-- Similar modification in genres chapter, this one on thank-you notes -->
     <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide on the Job Search Resources page.</school-custom>
     <!-- More info about using CES in genres chapter -->
     <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at <init>CES</init> by visiting the office in Howarth 101, calling 253.879.3161, emailing ces@pugetsound.edu, or visiting <url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url>).</school-custom>
+    <school-custom type="personal-statement-resources">For more tips and tricks on how to write a personal statement, see the <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page on the Puget Sound website. Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth 114) and the Center for Writing, Learning, and Teaching (<init>CWLT</init>) (Howarth 109) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</school-custom>
+    <!-- This sentence in the overcoming obstacles section reminds students about counseling services -->
+    <school-custom type="counseling-resources">If you're really feeling overwhelmed, remember that <url href="https://www.pugetsound.edu/student-life/counseling-health-and-wellness/policies-procedures/appointments">Counseling, Health, and Wellness Services</url> (<acro>CHWS</acro>) offers free counseling appointments.</school-custom>
+    <school-custom type="waw-resources">Looking for courses that fulfill the <url href="https://www.pugetsound.edu/academics/curriculum-courses/knowledge-identity-and-power">Knowledge, Identity, and Power</url> (<acro>KNOW</acro>) graduation requirement is another good way to find relevant courses. Get involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs offered through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <school-custom type="gender-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <school-custom type="buzzfeed-quiz"><li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
     <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
     <!-- In pugetsound version this list is formatted as an as an unorded list without a title -->
@@ -116,7 +122,7 @@ Library website</url></school-custom>
             </school-custom>
     <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
     <!-- In pugetsound version this list is formatted as an unorded list without a title -->
-    <school-custom item="off-campus-study-list">
+    <school-custom type="off-campus-study-list">
                 <ul>
                     <li><p>Metronome</p></li>
                     <li><p>Bluebeard Coffee Roasters</p></li>
@@ -126,5 +132,15 @@ Library website</url></school-custom>
                 </ul>
             </school-custom>
     <!-- This sentence adds a reference to this specific time chart found in the tutoring center. It goes in the section on time charts -->
-    <school-custom item="CWLT-time-chart">If you like what you see here, you can pick up a time charts like this one at the <init>CWLT</init>.</school-custom>
+    <school-custom type="CWLT-time-chart">If you like what you see here, you can pick up a time charts like this one at the <init>CWLT</init>.</school-custom>
+    <!-- This sentence, in the technology section, specifies that microsoft word is available to UPS students -->
+    <school-custom type="microsoft-word">As Microsoft Office is available to all Puget Sound students on the university's virtual desktop (<url href="https://vdesk.pugetsound.edu">vDesk</url>), it is the word processor we will be exploring here.</school-custom>
+    <!-- Puget Sound diversity plan, cited at the beginning of writing with awareness chapter. Formatted in a block quote. -->
+    <school-custom type="diversity-plan"><blockquote>
+            <p>We at Puget Sound intentionally conceptualize and view diversity as a matter of equity and inclusion. In doing so, we aim to understand and actively respond to the ways organizational aspects of our society and of our own university often work against those principles, excluding some groups and individuals from our community while including others. The work of diversity, accordingly, seeks to account for and redress deeply embedded historical practices and legacies, forms of cultural and social representation, and institutional policies and processes that can systematically exclude groups or individuals from full participation in higher education and the considerable benefits it offers.</p>
+            <attribution>
+                <line>Puget Sound's Threshold 2020</line>
+                <line>Diversity Strategic Plan</line>
+            </attribution>
+        </blockquote></school-custom>
 </school-customizations>

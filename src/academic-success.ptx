@@ -282,7 +282,7 @@
                 <title>Productive Procrastination Practices</title>
                     <p><ul>
                         <li><p>Work on <xref ref="citations" text="title"/></p></li>
-                        <li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
+                        <custom item="buzzfeed-quiz"/>
                         <li><p>Type up your notes/evidence</p></li>
                         <li><p>Make to-do lists</p></li>
                         <li><p>Make an assignment timeline</p></li>
