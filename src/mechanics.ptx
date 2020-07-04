@@ -88,7 +88,7 @@
                         Below you can find a few example sentences showing the subject (<em>italicized</em>) and predicate (regular typeface):
                         <ul>
                             <li><p><em>Ollie</em> studied in <custom item="coffee-shop"/>.</p></li>
-                            <li><p><em>The IPE professor</em> told the class to turn the assignment in on Canvas.</p></li>
+                            <li><p><em>The Economics professor</em> told the class to turn the assignment in by the end of the day.</p></li>
                             <li><p><em>The a capella group <q>What She Said</q></em> will perform at the spring concert.</p></li>
                         </ul>
                     </p>
@@ -299,13 +299,13 @@
                             <title>participial phrase</title>
                             <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in -ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in -ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
                             <p><q>I like my eggs from the <custom item="dining-hall"/> <em>covered in ketchup</em>.</q></p>
-                            <p><q>The student ran to catch up with her friends, <em>slipping in the puddles</em> along Commencement Walk.</q></p>
+                            <p><q>The student ran to catch up with her friends, <em>slipping in the puddles</em> along the sidewalk.</q></p>
                         </li>
                         <li xml:id="definition-gerund-phrases">
                             <title>gerund phrase</title>
                             <p>A gerund is a verb that ends in <q>-ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, -ing) to a sentence.</p>
                             <p><q><em>Crying while studying</em> is not recommended.</q></p>
-                            <p><q>Although it may seem like a good idea, <em>having pizza from The Cellar for every meal</em> probably isn't the way to go.</q></p>
+                            <p><q>Although it may seem like a good idea, <em>having pizza from <custom item="pizza-place"/> for every meal</em> probably isn't the way to go.</q></p>
                         </li>
                     </dl>
                </list>
@@ -338,15 +338,15 @@
                             <title>simple sentence</title>
                             <p>one <xref ref="definition-independent-clause" text="title"/></p>
                             <p><q>I love <custom item="university-name-short"/>.</q></p>
-                            <p><q>My RCC is so cool.</q></p>
-                            <p><q><custom item="university-name-short"/> is in <custom item="state"/>.</q></p>
+                            <p><q>My RA is so cool.</q></p>
+                            <p><q>The Grand Canyon is in Arizona.</q></p>
                         </li>
                         <li xml:id="definition-compound-sentence">
                             <title>compound sentence</title>
                             <p>at least two <xref ref="definition-independent-clause" text="custom">independent clauses</xref> connected via a coordinating <xref ref="definition-conjunction" text="title"/></p>
                             <p><q>I miss my high school friends, but I'm excited to make new friends.</q></p>
-                            <p><q>Ubiquitous They is so funny, and I really like watching them perform every Friday night.</q></p>
-                            <p><q>I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</q></p>
+                            <p><q><custom item="compound-sentence-1"/></q></p>
+                            <p><q><custom item="compound-sentence-2"/></q></p>
                         </li>
                         <li xml:id="definition-complex-sentence">
                             <title>complex sentence</title>
@@ -480,17 +480,17 @@
                     </p>
                 </example>
                 <example>
-                    <title>Clear Split Infinitive: The <init>CICE</init></title>
+                    <title>Clear Split Infinitive: Social Justice on Campus</title>
                     <p>
                         <dl>
                             <li>
                             <title>Clear</title>
-                            <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive <q>to involve</q> is split]</p>
+                            <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the <custom item="diversity-center"/></q> [infinitive <q>to involve</q> is split]</p>
                             </li>
                             <li>
                                 <title>Confusing</title>
-                                <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but sentence is awkward]</p>
-                                <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the Center for Intercultural and Civic Engagement.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
+                                <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the <custom item="diversity-center"/>.</q> [infinitive intact, but sentence is awkward]</p>
+                                <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the <custom item="diversity-center"/>.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
                             </li>
                         </dl>
                     </p>
@@ -516,7 +516,7 @@
                     <p><q>I would like <un s="1">to</un> <em>clearly and concisely</em> <un s="1">write</un> sentences with infinitives.</q></p>
                 </blockquote>
                 <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
-                <example>
+                <custom item="unclear-split-infinitive"/><example>
                     <title>Unclear Split Infinitive: Puget Sound Outdoors</title>
                     <p>
                         <dl>
@@ -532,16 +532,16 @@
                     </p>
                 </example>
                 <example>
-                    <title>Unclear Split Infinitive: LogJam</title>
+                    <title>Unclear Split Infinitive: Club Fair</title>
                     <p>
                         <dl>
                             <li>
                                 <title>Clear</title>
-                                <p><q>LogJam! is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
+                                <p><q>The club fair is a great place <un s="1">to look</un> for clubs and activities <em>at your own pace</em>.</q> [infinitive intact]</p>
                             </li>
                             <li>
                                 <title>Confusing</title>
-                                <p><q>LogJam! is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
+                                <p><q>The club fair is a great place <un s="1">to</un> <em>at your own pace</em> <un s="1">look</un> for clubs and activities.</q> [infinitive <q>to look</q> split by the modifier <q>at your own pace,</q> which makes the sentence awkward and unreadable]</p>
                             </li>
                         </dl>
                     </p>
@@ -557,7 +557,7 @@
         <subsection xml:id="subject-verb-agreement">
             <title>Problems with Subject-Verb Agreement</title>
             <introduction>
-                <p>As we have seen, <xref ref="definition-subject" text="custom">subjects</xref> and <xref ref="definition-verb" text="custom">verbs</xref> (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <xref ref="SAE" text="title"/>, you wouldn't say <q>Amanda <em>jog</em> to the field house,</q> but rather <q>Amanda <em>jogs</em> to the field house.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
+                <p>As we have seen, <xref ref="definition-subject" text="custom">subjects</xref> and <xref ref="definition-verb" text="custom">verbs</xref> (predicates) are the primary components of any sentence. Therefore, it is important that they <q>agree,</q> or match each other in terms of plurality. In other words, single subjects require singular verbs, and plural subjects require plural verbs. For instance, in <xref ref="SAE" text="title"/>, you wouldn't say <q>Amanda <em>jog</em> to the gym,</q> but rather <q>Amanda <em>jogs</em> to the gym.</q> Similarly, if the subject is plural, you would change the verb accordingly: <q>The soccer players <em>is</em> tired</q> would become <q>The soccer players <em>are</em> tired.</q> Use the following guidelines to help you figure out if the subject and verb of your sentence <q>agree.</q></p>
             </introduction>
             <subsubsection xml:id="agreement-problems">
                 <title>Subject-Verb Agreement Rules</title>
@@ -589,13 +589,13 @@
                 </example>
                 <example>
                     <title>Agreement with a Collective Noun</title>
-                    <p><q>I hope that <em>band</em> <alert>plays</alert> at LogJam! again.</q></p>
-                    <p><q>The newest <em>edition</em> of <pubtitle>Crosscurrents</pubtitle> <alert>is</alert> great.</q></p>
+                    <p><q>I hope that <em>band</em> <alert>plays</alert> at the club fair again.</q></p>
+                    <p><q>The newest <em>edition</em> of <pubtitle>Ebony Magazine</pubtitle> <alert>is</alert> great.</q></p>
                 </example>
                 <example>
                     <title>Agreement Across a Phrase</title>
                     <p><q>The <em>number</em> of on-campus trees <alert>grows</alert> each year.</q></p>
-                    <p><q>The <em>Passages leader</em>, alongside all of their passagees, <alert>was</alert> excited to reach the end of the trail.</q></p>
+                    <p><q>The <em>orientation leader</em>, alongside all of their orientees, <alert>was</alert> excited to reach the end of the trail.</q></p>
                 </example>
                 <sidebyside width="50%">
                     <image source="images/LM-SubjectVerbAgreement.png"/>
@@ -649,8 +649,8 @@
                     <p><q>Each and every one of you is in for a new experience here at <custom item="university-name-short"/>.</q></p>
                 </example>
                 <example>
-                    <title>Each as a Pronoun: Opp Coffee</title>
-                    <p><q>Each of the coffee flavors at the Opp sounds enticing.</q></p>
+                    <title>Each as a Pronoun: Coffee Flavors</title>
+                    <p><q>Each of the coffee flavors at <custom item="coffee-shop"/> sounds enticing.</q></p>
                 </example>
                 <p><q>All,</q> <q>some,</q> and <q>none</q> can be either singular or plural depending on the subject. <q>All</q> and <q>some</q> are singular or plural depending on the plurality of the subject and therefore require an accompanying verb.</p>
                 <example>
@@ -685,8 +685,8 @@
                         <ul>
                             <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
                             <li><p><q>The <custom item="intro-writing-student"/> studies in the library.</q></p></li>
-                            <li><p><q>The RDG members dance across the stage.</q></p></li>
-                            <li><p><q>I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</q></p></li>
+                            <li><p><q><custom item="s-ending-1"/></q></p></li>
+                            <li><p><q><custom item="s-ending-2"/></q></p></li>
                         </ul>
                     </p>
                 </example>
@@ -703,7 +703,7 @@
                     <p>
                         <ul>
                             <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
-                            <li><p><q>6th Avenue is a cool place to explore.</q></p></li>
+                            <li><p><q><custom item="is-agreement"/></q></p></li>
                             <li><p><q>The students are going to the open-mic night in the piano lounge.</q></p></li>
                             <li><p><q>The resident is running for Residence Hall Association president of their hall; they are a strong candidate for the position.</q></p></li>
                         </ul>
@@ -733,7 +733,7 @@
                     <p>
                         <ul>
                             <li><p><q>Are either of you going to the women's lacrosse game?</q></p></li>
-                            <li><p><q>Have neither of my books arrived from ILLiad, yet?</q></p></li>
+                            <li><p><q>Have neither of my books arrived from the interlibrary loan, yet?</q></p></li>
                         </ul>
                     </p>
                 </example>
@@ -756,7 +756,7 @@
                     <title>More Agreement with <q>Either/Or</q> and <q>Neither/Nor</q></title>
                     <p>
                         <ul>
-                            <li><p><q>Either the geology team or the physics team is going to win the science basketball tournament in the Thompson courtyard.</q></p></li>
+                            <li><p><q><custom item="either-or-agreement"/></q></p></li>
                             <li><p><q>Neither the tables nor the couches in <custom item="coffee-shop"/> are open.</q></p></li>
                         </ul>
                     </p>
@@ -785,7 +785,7 @@
                     <title>Agreement with <q>And/Or</q></title>
                     <p>
                         <ul>
-                            <li><p><q>Education, occupational therapy, and physical therapy are the three graduate degrees offered at <custom item="university-name-short"/>.</q></p></li>
+                            <li><p><q><custom item="and-agreement"/></q></p></li>
                             <li><p><q>My sister or my brothers are coming to visit me on campus.</q></p></li>
                             <li><p><q>My brothers or my sister is coming to visit me on campus.</q></p></li>
                         </ul>
@@ -910,7 +910,7 @@
 
                 <note>
                     <p>
-                        The exception to this flexibility is that the fractional expression <q>more than one</q> is always singular, so you would say, <q>More than one Met cookie <alert>is</alert> what I need right now,</q> not <q>More than one Met cookie <em>are</em> what I need right now.</q>
+                        The exception to this flexibility is that the fractional expression <q>more than one</q> is always singular, so you would say, <q>More than one cookie <alert>is</alert> what I need right now,</q> not <q>More than one cookie <em>are</em> what I need right now.</q>
                     </p>
                 </note>
 
@@ -969,19 +969,9 @@
             <subsubsection xml:id="parallelism-mixing-word-forms">
                 <title>Mixing Word Forms</title>
                 <p>The above sentence is an example of mixing word forms (to read, to drink, and petting). If you have a verb that applies to two or more of the items in the series, it must apply to all items equally in order to preserve correct parallel structure. Take the following example of mixing word forms:</p>
-                <blockquote>
-                    <p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and has lots of windows.</q></p>
-                </blockquote>
-                <p>In this sentence, the attributes <q>calm</q> and <q>quiet</q> equally share the verb <q>is</q>: Oppenheimer <q>is calm</q> and <q>is quiet.</q> However, the last attribute in the series (<q>has lots of windows</q>), departs from this structure by introducing another verb, <q>has,</q> to characterize the attribute <q>lots of windows,</q> throwing the series out of balance. If <q>is</q> is applied equally to each attribute, Oppenheimer <q>is calm,</q> <q>is quiet,</q> and <q>is has lots of windows.</q> To fix this mixed word form, you must do one of two things: 1) either break up the attributes into two different items using the conjunction <q>and</q> or 2) arrange the attributes so they share a single verb and adhere to the parallel structure.</p>
-                <p>
-                    Examples of these fixes are shown below:
-                    <ul>
-                        <li><p><q>Oppenheimer is a relaxing place to study; it is calm and quiet and has lots of windows.</q></p></li>
-                        <li><p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
-                    </ul>
-                </p>
+                <custom item="parallelism-example"/>
                 <sidebyside width="50%">
-                    <image source="images/LM-Oppenheimer"/>
+                    <custom item="oppenheimer-image"/>
                 </sidebyside>
             </subsubsection>
             <subsubsection xml:id="parallelism-mixing-clause-forms">
@@ -1066,23 +1056,23 @@
                 <example>
                     <title>Misplaced Modifier: Tired Liam</title>
                     <blockquote>
-                        <p><q>Liam sprinted up the staircase to his class on the top floor of McIntyre, which was steep and exhausting.</q></p>
+                        <p><q>Liam sprinted up the staircase to his class on the top floor of <custom item="academic-building"/>, which was steep and exhausting.</q></p>
                     </blockquote>
-                    <p>The placement of this modifier makes it seem like the top floor of McIntyre is <q>steep and exhausting.</q></p>
+                    <p>The placement of this modifier makes it seem like the top floor of <custom item="academic-building"/> is <q>steep and exhausting.</q></p>
                     <p>Revision:</p>
                     <blockquote>
-                        <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of McIntyre.</q></p>
+                        <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of <custom item="academic-building"/>.</q></p>
                     </blockquote>
                 </example>
                 <example>
                     <title>Misplaced Modifier: Dogs of <custom item="university-name-short"/></title>
                     <blockquote>
-                        <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into Jones Fountain.</q></p>
+                        <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into <custom item="fountain"/>.</q></p>
                     </blockquote>
                     <p>This sentence makes it seem like the owner was the one <q>whining pleadingly,</q> not the dog!</p>
                     <p>Revision:</p>
                     <blockquote>
-                        <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into Jones Fountain.</q></p>
+                        <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into <custom item="fountain"/>.</q></p>
                     </blockquote>
                 </example>
             </subsubsection>
@@ -1100,12 +1090,12 @@
                 <example>
                     <title>Dangling Modifier: Lost in Wyatt</title>
                     <blockquote>
-                        <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in Wyatt.</q></p>
+                        <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in <custom item="academic-building"/>.</q></p>
                     </blockquote>
                     <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
                     <p>Revision:</p>
                     <blockquote>
-                        <p><q>Unfamiliar with the campus layout, the first-year student found it difficult to find their classroom in Wyatt.</q></p>
+                        <p><q>Unfamiliar with the campus layout, the first-year student found it difficult to find their classroom in <custom item="academic-building"/>.</q></p>
                     </blockquote>
                 </example>
                 <example>
@@ -1123,7 +1113,7 @@
         </subsection>
     </section>
     <section xml:id="style-and-word-choice">
-        <title> and Word Choice</title>
+        <title>Style and Word Choice</title>
         <subsection xml:id="style-writing-clearly">
             <title>Writing Clearly and Precisely</title>
             <p>Having noticed that a great number of professors wax loquacious when giving lectures, you may be perplexed to learn that academics actually value brevity in academic writing. Professors face some of the same challenges that you probably face in college: they have a lot of reading to do, what they’re reading is specific and hard to understand, and they have to write about it themselves. From this predicament emerges the importance of writing precisely and clearly, choosing words carefully, being wary of passive voice, and packing meaning into a sentence by using colorful, strong verbs. In this section, you will learn to make intentional decisions about your writing style and word choice to enrich your essays.</p>

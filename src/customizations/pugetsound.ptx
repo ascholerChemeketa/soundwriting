@@ -57,6 +57,12 @@ Library website</url></school-custom>
     <school-custom type="dining-hall"><acro>SUB</acro></school-custom>
     <!-- A popular student coffee shop on or near campus -->
     <school-custom type="coffee-shop">Diversions</school-custom>
+    <!-- Name of a pizza place on or near campus -->
+    <school-custom type="pizza-place">The Cellar</school-custom>
+    <!-- Name of an academic building with classrooms and multiple floors -->
+    <school-custom type="academic-building">McIntyre</school-custom>
+    <!-- A fountain on or near campus -->
+    <school-custom type="fountain">Jones Fountain</school-custom>
     <!-- Current president of the university -->
     <school-custom type="university-president">President Crawford</school-custom>
     <!-- Phone number for the tutoring center -->
@@ -81,6 +87,10 @@ Library website</url></school-custom>
     <school-custom type="career-office-rm">Howarth 101</school-custom>
     <!-- Career office email -->
     <school-custom type="career-office-email"><email>ces@pugetsound.edu</email></school-custom>
+    <!-- Liaison librarian, linked -->
+    <school-custom type="librarian"><url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. <custom item="counseling-resources"/></school-custom>
+    <!-- Name of the student diversity or engagement center -->
+    <school-custom type="diversity-center"> Center for Intercultural and Civic Engagement.</school-custom>
     <!-- Sentence modification for generic to cite CES resources properly. Schools could also customize to insert internal resources. Goes in genres chapter -->
     <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">CES Resume Guide</url></q> and the <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">CES Cover Letter Guide</url></q>from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p></school-custom>
     <!-- Similar sentence modification to previous, also in genres chapter -->
@@ -122,6 +132,67 @@ Library website</url></school-custom>
     <school-custom type="rain-productivity">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to Collins Memorial Library, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <pubtitle>The Trail</pubtitle> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the Collins search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
     <!-- This cites a buzzfeed quiz designed by CWLT tutors. Generic version doesn't mention CWLT -->
     <school-custom type="buzzfeed-quiz"><li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
+    <!-- The following items are examples from the Writing at the Sentence Level chapter that are very school-specific. Generic examples will be provided or a school can write their own. -->
+    <!-- An example compound sentence -->
+    <school-custom type="compound-sentence-1">Ubiquitous They is so funny, and I really like watching them perform every Friday night.</school-custom>
+    <!-- A second example compound sentence -->
+    <school-custom type="compound-sentence-2">I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</school-custom>
+    <!-- An example illustrating clear and unclear split infinitives. Has some formatting, other schools should use generic unless pretext-savvy. -->
+    <school-custom type="split-infinitive"> <example>
+                    <title>Clear Split Infinitive: Puget Sound Outdoors</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>Clear</title>
+                                <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
+                                <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at The Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example></school-custom>
+    <!-- An example of an unclear split infinitive. Has some formatting, other schools should use generic unless pretext-savvy.-->
+    <school-custom type="unclear-split-infinitive"><example>
+                    <title>Unclear Split Infinitive: Puget Sound Outdoors</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>Clear</title>
+                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example></school-custom>
+    <!-- An example of agreement with -S endings -->
+    <school-custom type="s-ending-1">The RDG members dance across the stage.</school-custom>
+    <!-- A second example of agreement with -S endings -->
+    <school-custom type="s-ending-2">I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</school-custom>
+    <!-- An example of agreement with "is" -->
+    <school-custom type="is-agreement">6th Avenue is a cool place to explore.</school-custom>
+    <!-- An example of agreement with either and or -->
+    <school-custom type="either-or-agreement">Either the geology team or the physics team is going to win the science basketball tournament in the Thompson courtyard.</school-custom>
+    <!-- An example of agreement with "and" -->
+    <school-custom type="and-agreement">Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</school-custom>
+    <!-- An example of parallelism problems. Has some tricky formatting, other schools should use generic unless pretext-savvy -->
+    <school-custom type="parallelism-example">
+                <blockquote>
+        <p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and has lots of windows.</q></p>
+                </blockquote>
+                <p>In this sentence, the attributes <q>calm</q> and <q>quiet</q> equally share the verb <q>is</q>: Oppenheimer <q>is calm</q> and <q>is quiet.</q> However, the last attribute in the series (<q>has lots of windows</q>), departs from this structure by introducing another verb, <q>has,</q> to characterize the attribute <q>lots of windows,</q> throwing the series out of balance. If <q>is</q> is applied equally to each attribute, Oppenheimer <q>is calm,</q> <q>is quiet,</q> and <q>is has lots of windows.</q> To fix this mixed word form, you must do one of two things: 1) either break up the attributes into two different items using the conjunction <q>and</q> or 2) arrange the attributes so they share a single verb and adhere to the parallel structure.</p>
+                <p>
+                    Examples of these fixes are shown below:
+                    <ul>
+                        <li><p><q>Oppenheimer is a relaxing place to study; it is calm and quiet and has lots of windows.</q></p></li>
+                        <li><p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
+                    </ul>
+                </p></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
     <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
     <!-- In pugetsound version this list is formatted as an as an unorded list without a title -->
@@ -170,4 +241,13 @@ Library website</url></school-custom>
                 <line>Diversity Strategic Plan</line>
             </attribution>
         </blockquote></school-custom>
+    <!-- This image references UPS study spots and should be removed from generic version -->
+    <school-custom type="wp-chalkboard-image"><image source="images/WP-ChalkboardTip"/></school-custom>
+    <!-- This addresses technology services available at UPS -->
+    <school-custom type="printing"><url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url></school-custom>
+    <!-- loggers live green image, remove for generic -->
+    <school-custom type="green-image"><image source="images/WP-LoggersLiveGreen"/></school-custom>
+    <!-- oppenheimer image, remove for generic -->
+    <school-custom type="oppenheimer-image"><image source="images/LM-Oppenheimer"/></school-custom>
 </school-customizations>
+    

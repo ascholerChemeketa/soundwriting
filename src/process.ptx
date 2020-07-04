@@ -14,7 +14,7 @@
     <title>The Writing Process</title>
     <introduction>
         <p>While writing can be a difficult process, it often feels more daunting before you start than when you are actually doing it. If you are intimidated by the thought of writing (as many are), you may find reassurance in this nugget of wisdom: <em>The writing process is not just about writing!</em> In actuality, the writing process starts long before you write anything on the page and continues long after you've written your first draft. Just as developing your argument is a process, so too is translating that argument into written form. A significant portion of the writing process is composed of research, argument development, brainstorming, planning, and outlining, all of which take place before you begin composing content. And even after you've finished a draft, you may spend just as much or more time revising, editing, and changing your paper as you spent writing it. The writing process is messy, uncertain, and chock-full of switchbacks, revisions, and gaps in the road, but it can also be empowering, rewarding, and manageable if you take it one step at a time.</p>
-        <p>Watch this video for several UPS faculty perspectives on the writing process!</p>
+        <p>Watch this video for several University of Puget Sound faculty perspectives on the writing process!</p>
         <sidebyside width="70%">
             <video youtube="XIdPNHHCee8" xml:id="video-faculty-perspectives"/>
         </sidebyside>
@@ -160,7 +160,7 @@
                 <title>Drawing</title>
                 <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
                 <sidebyside width="50%">
-                    <image source="images/WP-ChalkboardTip"/>
+                    <custom item="wp-chalkboard-image"/>
                 </sidebyside>
             </subsubsection>
         </subsection>
@@ -327,7 +327,7 @@
                         <li><p>Offer a provocative statement of the problem.</p></li>
                     </ul>
                 </list>
-                <p>For more ideas on how to begin, organize, and end introductions, take a look at the following examples by Puget Sound students. What do you see as the strengths and weaknesses of these examples? Make sure to note the thesis statements (<un s="1">underlined</un>) and opening statements:</p>
+                <p>For more ideas on how to begin, organize, and end introductions, take a look at the following student examples. What do you see as the strengths and weaknesses of these examples? Make sure to note the thesis statements (<un s="1">underlined</un>) and opening statements:</p>
                 <example>
                     <title>Introduction: Women in the <pubtitle>Odyssey</pubtitle></title>
                     <p>Discourse has profound effects on how we view reality, particularly in regard to gender roles. Due to our society's political correctness, much of the sexism that pervades modern thought is implicit; commentators make thinly veiled metaphors instead of declarations. This implicit bias is nothing new, as it dates back to ancient times. Many literary critics have embraced Homer's <pubtitle>Odyssey</pubtitle> as a departure from the explicit sexism of pre-Judea Greece, claiming that the centrality of female characters to the epic poem is a formal challenge to the ivory-laden walls of male domination. <un s="1">While women do have a substantial presence in the <pubtitle>Odyssey</pubtitle>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <pubtitle>Odyssey</pubtitle> primarily reinforces the chauvinist framework through which we view the world.</un></p>
@@ -360,7 +360,7 @@
             </sidebyside>
             </paragraphs>
             <p>
-                Here are some example topic sentences from Puget Sound student papers:
+                Here are some example topic sentences from student papers:
             </p>
             <example>
                 <title>Topic Sentences: Women in the <pubtitle>Odyssey</pubtitle></title>
@@ -530,7 +530,7 @@
                 <sidebyside width="50%">
                     <image source="images/WP-ButWhy"/>
                 </sidebyside>
-                <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from Puget Sound student papers:</p>
+                <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from student papers:</p>
                 <example>
                     <title>Conclusion: Women in the <pubtitle>Odyssey</pubtitle></title>
                     <p>Athena's relationships with Odysseus and Telemachus are clear examples of the strengthening of the gender divide, as it is these two men who win the day and the heart of Penelope. Athena stands out as the only venerable woman in the <pubtitle>Odyssey</pubtitle>, yet it is this very contrast that reminds us of the alleged lower standing of women.</p>
@@ -612,12 +612,12 @@
                         <p>If you like to color-code, you might try using different-colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: <alert>never</alert> write in books from <custom item="library"/>! Save your sticky notes for those.)</p>
                     </li>
                     <li><title>Use technology</title>
-                        <p>Since most articles are quite long and you probably won't use every page from every article, save your <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
+                        <p>Since most articles are quite long and you probably won't use every page from every article, save your <custom item="printing"/> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
                     </li>
                 </ul>
             </list>
             <sidebyside width="50%">
-                <image source="images/WP-LoggersLiveGreen"/>
+                <custom item="green-image"/>
             </sidebyside>
         </subsection>
     </section>
@@ -709,7 +709,7 @@
         <title>Overcoming Obstacles</title>
         <introduction>
             <p>Over the course of your writing process, you will inevitably run into roadblocks, get stuck, or have moments of panic. <em>These obstacles and feelings are completely normal.</em> Even the most accomplished professional and academic writers experience writer's block, anxiety, and frustration. The key to overcoming these paralyzing feelings is to develop strategies to use when they arise. As you practice these strategies, you will become better at knowing which strategy to use in order to overcome an obstacle most pleasantly and efficiently.</p>
-            <p>Sometimes the hardest obstacle to overcome is just getting started. If that's where your stuck, you aren't alone! Watch this video to hear UPS faculty talk about why getting started is so hard for them.</p>
+            <p>Sometimes the hardest obstacle to overcome is just getting started. If that's where your stuck, you aren't alone! Watch this video to hear University of Puget Sound faculty talk about why getting started is so hard for them.</p>
             <sidebyside width="70%">
                 <video youtube="-rHx-sUV5Vw" xml:id="video-faculty-getting-started"/>
             </sidebyside>
@@ -753,7 +753,7 @@
                         <p>You will survive writing this paper. Although grades, improvement, and learning are important, your worth as a human being and as a student does not revolve around one college assignment.</p>
                     </li>
                     <li><title>Use your resources</title>
-                        <p>You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the <custom item="tutoring-center-url"/>, or visiting a <url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. <custom item="counseling-resources"/></p>
+                        <p>You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the <custom item="tutoring-center-url"/>, or visiting a <custom item="librarian"/></p>
                     </li>
                     <li><title>Remember what interests you about your topic</title>
                         <p>Whether your paper is due for your favorite or least favorite class, you can always find a way to invest yourself in your topic. Focusing on the interesting parts of the topic itself may help you focus less on the stress of writing a paper and more on the intellectual conversation in which you, a scholar in training, are participating.</p>
@@ -763,7 +763,7 @@
                     </li>
                 </ul>
             </list>
-            <p>Using your resources is important, and your professors really do want to talk to you! Watch this video for UPS professor perspectives on asking for help.</p>
+            <p>Using your resources is important, and your professors really do want to talk to you! Watch this video for University of Puget Sound professor perspectives on asking for help.</p>
         <sidebyside width="70%">
             <video youtube="V8wXl9f8MKc" xml:id="video-faculty-on-help"/>
         </sidebyside>
@@ -874,7 +874,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>A few <init>UPS</init> professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
+        <p>A few University of Puget Sound professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
         <sidebyside width="70%">
             <video youtube="20hJdiQN51Q" xml:id="video-faculty-american-academic-writing"/>
         </sidebyside>
