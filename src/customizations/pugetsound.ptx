@@ -63,6 +63,14 @@ Library website</url></school-custom>
     <school-custom type="academic-building">McIntyre</school-custom>
     <!-- A fountain on or near campus -->
     <school-custom type="fountain">Jones Fountain</school-custom>
+    <!-- An art building on near campus -->
+    <school-custom type="art-building">Kittredge</school-custom>
+    <!-- A park often visited by students -->
+    <school-custom type="park">Point Defiance</school-custom>
+    <!-- A dorm that is considered nice -->
+    <school-custom type="nice-dorm">Thomas Hall</school-custom>
+    <!-- The name of a campus quad with a large grassy area -->
+    <school-custom type="quad">Todd Field</school-custom>
     <!-- Current president of the university -->
     <school-custom type="university-president">President Crawford</school-custom>
     <!-- Phone number for the tutoring center -->
@@ -132,6 +140,8 @@ Library website</url></school-custom>
     <school-custom type="rain-productivity">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to Collins Memorial Library, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <pubtitle>The Trail</pubtitle> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the Collins search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
     <!-- This cites a buzzfeed quiz designed by CWLT tutors. Generic version doesn't mention CWLT -->
     <school-custom type="buzzfeed-quiz"><li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
+    <!-- Short paragraph citing university plagiarism policy -->
+    <school-custom type="plagiarism-policy">For more information on University of Puget Sound policies on plagiarism and academic integrity, please see the <url href="https://www.pugetsound.edu/student-life/personal-safety/student-handbook/academic-handbook/">Puget Sound Academic Handbook</url>.</school-custom>
     <!-- The following items are examples from the Writing at the Sentence Level chapter that are very school-specific. Generic examples will be provided or a school can write their own. -->
     <!-- An example compound sentence -->
     <school-custom type="compound-sentence-1">Ubiquitous They is so funny, and I really like watching them perform every Friday night.</school-custom>
@@ -193,6 +203,20 @@ Library website</url></school-custom>
                         <li><p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
                     </ul>
                 </p></school-custom>
+    <!-- An example of capitalization in a quoted sentence -->
+    <school-custom type="capitalized-quote-example"><p>The <custom item="tutoring-center-acronym"/> states on its webpage, <q>The mission of the <custom item="tutoring-center"/> is to provide opportunities for all <custom item="university-name-full"/> students to achieve their academic goals.</q></p>
+        <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></school-custom>
+    <!-- An example of using brackets to indicate change -->
+    <school-custom type="bracket-example"><p>The subject tutor asked the SSI, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
+                        <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p></school-custom>
+    <!-- An example of incorporating quotes into sentence syntax -->
+    <school-custom type="quote-example"><p>After their meeting with Rachael Shelden, assistant director of the <custom item="tutoring-center-acronym"/>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></school-custom>
+    <!-- An example of incorporating a block quote -->
+    <school-custom type="block-quote-example"><p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
+                    <blockquote>
+                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the <init>CWLT</init> (Howarth 109) or to call (253)879-3404.</p>
+                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
+                    </blockquote></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
     <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
     <!-- In pugetsound version this list is formatted as an as an unorded list without a title -->

@@ -1530,7 +1530,7 @@
                                 <p>aesthetic</p>
                             </cell>
                             <cell>
-                                <p>The Chihuly glass exhibit adds an ethereal feel to the <em>aesthetic</em> of Wyatt.</p>
+                                <p>Drinking a green smoothie out of a mason jar with a metal straw really adds to your sustainable <em>aesthetic</em>.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1570,7 +1570,7 @@
                                 <p>our</p>
                             </cell>
                             <cell>
-                                <p><ellipsis/>but <em>our</em> mascot is the grizzly bear<ellipsis/>.</p>
+                                <p><ellipsis/>but <em>our</em> favorite thing is chocolate<ellipsis/>.</p>
                             </cell>
                         </row>
                         <row>
@@ -1578,7 +1578,7 @@
                                 <p>board</p>
                             </cell>
                             <cell>
-                                <p>I enjoy long<em>boarding</em> down Commencement Walk on sunny days.</p>
+                                <p>I enjoy long<em>boarding</em> down the bike path on sunny days.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1594,7 +1594,7 @@
                                 <p>born</p>
                             </cell>
                             <cell>
-                                <p>President Crawford was <em>born</em> in St. Louis, MO.</p>
+                                <p>President Obama was <em>born</em> in Honolulu, HI.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1682,7 +1682,7 @@
                                 <p>discreet</p>
                             </cell>
                             <cell>
-                                <p>I <em>discreetly</em> slipped a letter to a friend in the Campus Cursive box in <custom item="coffee-shop"/>.</p>
+                                <p>I <em>discreetly</em> slipped an admiring letter under my crush's door.</p>
                             </cell>
                         </row>
                         <row bottom = "medium">
@@ -1690,7 +1690,7 @@
                                 <p>discrete</p>
                             </cell>
                             <cell>
-                                <p>The Politics and Government department has four <em>discrete</em> areas of concentration: U.S. Politics, Comparative Politics, International Relations, and Political Theory.</p>
+                                <p>There are three <em>discrete</em> types of sport fencing: foil, epee, and sabre.</p>
                             </cell>
                         </row>
                         <row>
@@ -1722,7 +1722,7 @@
                                 <p>great</p>
                             </cell>
                             <cell>
-                                <p>Weyerhaeuser Hall has some <em>great</em> study spaces.</p>
+                                <p>I've heard <custom item="library"/> has some <em>great</em> study spaces.</p>
                             </cell>
                         </row>
                         <row>
@@ -1730,7 +1730,7 @@
                                 <p>hear</p>
                             </cell>
                             <cell>
-                                <p>I <em>hear</em> that the view from the astronomy tower in Thompson is a sight to behold.</p>
+                                <p>I <em>hear</em> that the view from the astronomy tower is a sight to behold.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1754,7 +1754,7 @@
                                 <p>horde</p>
                             </cell>
                             <cell>
-                                <p>The <em>horde</em> of prospective students, parents, and family members glanced around excitedly as they followed the campus visit guide down Commencement Walk.</p>
+                                <p>The <em>horde</em> of prospective students, parents, and family members glanced around excitedly as they followed the campus visit guide through campus.</p>
                             </cell>
                         </row>
                         <row>
@@ -1770,7 +1770,7 @@
                                 <p>whole</p>
                             </cell>
                             <cell>
-                                <p>I was so hungry, I ate the <em>whole</em> Cellar pizza by myself.</p>
+                                <p>I was so hungry, I ate the <em>whole</em> <custom item="pizza-place"/> pizza by myself.</p>
                             </cell>
                         </row>
                         <row>
@@ -1802,7 +1802,7 @@
                                 <p>aisle</p>
                             </cell>
                             <cell>
-                                <p>I perused the candy <em>aisle</em> in the Cellar in search of a late night snack.</p>
+                                <p>I perused the candy <em>aisle</em> in search of a late night snack.</p>
                             </cell>
                         </row>
                         <row>
@@ -1882,7 +1882,7 @@
                                 <p>palate</p>
                             </cell>
                             <cell>
-                                <p>After finishing a scrumptious garden tortellini dinner in the <custom item="dining-hall"/>, I cleaned my <em>palate</em> with a mango smoothie from the Cellar.</p>
+                                <p>After finishing a scrumptious garden tortellini dinner in the <custom item="dining-hall"/>, I cleaned my <em>palate</em> with a mango smoothie.</p>
                             </cell>
                         </row>
                         <row bottom = "medium">
@@ -1890,7 +1890,7 @@
                                 <p>palette</p>
                             </cell>
                             <cell>
-                                <p>The art major carefully arranged their color <em>palette</em> before beginning a new project in Kittridge.</p>
+                                <p>The art major carefully arranged their color <em>palette</em> before beginning a new project in <custom item="art-building"/>.</p>
                             </cell>
                         </row>
                         <row>
@@ -1922,7 +1922,7 @@
                                 <p>piece</p>
                             </cell>
                             <cell>
-                                <p>I got the last <em>piece</em> of pizza at the Cellar!</p>
+                                <p>I got the last <em>piece</em> of pizza at <custom item="pizza-place"/>!</p>
                             </cell>
                         </row>
                         <row>
@@ -1930,7 +1930,7 @@
                                 <p>perspective</p>
                             </cell>
                             <cell>
-                                <p><pubtitle>Perspectives</pubtitle> is a great way to introduce yourself to new <em>perspectives</em> in the <custom item="city"/> community.</p>
+                                <p>Volunteering is a great way to introduce yourself to new <em>perspectives</em> in the <custom item="city"/> community.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -1970,7 +1970,7 @@
                                 <p>reign</p>
                             </cell>
                             <cell>
-                                <p>President Thomas was our <em>reigning</em> president between 2003-2016.</p>
+                                <p>President Obama was our <em>reigning</em> president between 2009-2017.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2002,7 +2002,7 @@
                                 <p>sight</p>
                             </cell>
                             <cell>
-                                <p>In the sunshine after a long rainfall, the Gordon Alcorn Arboretum is a dazzling <em>sight</em>.</p>
+                                <p>In the sunshine after a long rainfall, campus is a dazzling <em>sight</em>.</p>
                             </cell>
                         </row>
                         <row>
@@ -2026,7 +2026,7 @@
                                 <p>than</p>
                             </cell>
                             <cell>
-                                <p>Is Oppenheimer better <em>than</em> <custom item="coffee-shop"/>?</p>
+                                <p>Is <custom item="coffee-shop"/> better than Starbucks?</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2066,7 +2066,7 @@
                                 <p>to</p>
                             </cell>
                             <cell>
-                                <p>I like <em>to</em> go <em>to</em> Point Defiance.</p>
+                                <p>I like <em>to</em> go <em>to</em> <custom item="park"/>.</p>
                             </cell>
                         </row>
                         <row>
@@ -2162,7 +2162,7 @@
                                 <p>you're</p>
                             </cell>
                             <cell>
-                                <p><em>You’re</em> lucky to live in Thomas Hall.</p>
+                                <p><em>You’re</em> lucky to live in <custom item="nice-dorm"/>.</p>
                             </cell>
                         </row>
                         <row bottom="medium">
@@ -2180,7 +2180,7 @@
                 <sidebyside width="50%">
                     <image source="images/LM-ItAndRain"/>
                 </sidebyside>
-                <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on Todd Field.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on Todd Field,</q> does not make very much sense, so this may be an indication that the correct form to use is <q>its.</q></p>
+                <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on <custom item="quad"/>.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on <custom item="quad"/>,</q> does not make very much sense, so this may be an indication that the correct form to use is <q>its.</q></p>
                 <p>Below are some sentence examples of <q>its</q> and <q>it's</q> to help you distinguish which form to use.</p>
                 <example>
                     <title>Appropriate Usage of <q>Its</q></title>
@@ -2238,7 +2238,7 @@
                 <p>Use an ellipsis to show that you have omitted part of a quotation.</p>
                 <example>
                     <title>Ellipsis: Ubiquitous They</title>
-                    <p><custom item="university-newspaper"/> reporter wrote, <q>The skit, which was held in the Rendezvous Room, showcased <ellipsis/> the many skills of <custom item="university-name-short"/>'s improv group, Ubiquitous They.</q></p>
+                    <p>The <pubtitle>New York Times</pubtitle> reporter wrote, <q>The restaurant, while it appeared to be a tiny hole-in-the-wall, showcased <ellipsis/> an impressive range of traditional Peruvian cuisine.</q></p>
                 </example>
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
                 <example>
@@ -2277,7 +2277,7 @@
                         </li>
                         <li>
                             <p>to separate an <em>introductory</em> or <em>explanatory</em> phrase from the rest of the sentence.</p>
-                            <p><q>Having finished her last final, Shelly skipped with joy down Commencement Walk.</q></p>
+                            <p><q>Having finished her last final, Shelly skipped with joy across <custom item="quad"/>.</q></p>
                             <p><q>The dog, who had gotten in the habit of walking every day at 3 p.m., grabbed his leash and ran to his owner.</q></p>
                         </li>
                         <li>
@@ -2346,7 +2346,7 @@
                 <p>Only use a colon after a complete sentence. Colons tell a reader that what follows is directly related to the sentence that preceded the colon. The following information could be a list of items or another clause.</p>
                 <example>
                     <title>Colon: Weird Snack</title>
-                    <p><q>Please grab me a couple of things from The Cellar: a container of ice cream, a carton of eggs, and some guacamole.</q></p>
+                    <p><q>Please grab me a couple of things from the store: a container of ice cream, a carton of eggs, and some guacamole.</q></p>
                 </example>
                 <example>
                     <title>Colon: Tiny Pants</title>
@@ -2445,8 +2445,7 @@
                 </example>
                 <example xml:id="example-punctuation-capitalizing-quoted">
                     <title>Capitalizing a Quoted Sentence</title>
-                    <p>The <custom item="tutoring-center-acronym"/> states on its webpage, <q>The mission of the <custom item="tutoring-center"/> is to provide opportunities for all <custom item="university-name-full"/> students to achieve their academic goals.</q></p>
-                    <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p>
+                    <custom item="capitalized-quote-example"/>
                 </example>
                 <example xml:id="example-punctuation-integrating-quotes">
                     <title>Integrating Quotes</title>
@@ -2455,7 +2454,7 @@
                 </example>
                 <example xml:id="example-punctuation-ellipses-replacing">
                     <title>Using an Ellipses to Replace Source Material</title>
-                    <p>According to the director of the <custom item="tutoring-center-acronym"/>, Professor Julie Nelson Christoph, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
+                    <p>According to the director of the <custom item="tutoring-center-acronym"/>, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
                 </example>
                 <example xml:id="example-punctuation-ellipses-honestly">
                     <title>Using Ellipses to Quote Honestly</title>
@@ -2463,8 +2462,7 @@
                 </example>
                 <example xml:id="example-punctuation-brackets-changes">
                     <title>Using Brackets to Indicate Changes</title>
-                        <p>The subject tutor asked the <custom item="intro-writing"/>, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <custom item="tutoring-center-acronym"/>?</q></p>
-                        <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p>
+                <custom item="bracket-example"/>
                 </example>
                 <example xml:id="example-punctuation-brackets-insertion">
                     <title>Using Brackets to Insert Nouns</title>
@@ -2493,15 +2491,11 @@
                 </example>
                 <example xml:id="example-mechanics-quotes-sentences">
                     <title>Incorporating Quotes into Syntax of Sentence</title>
-                    <p>After their meeting with Rachael Shelden, assistant director of the <custom item="tutoring-center-acronym"/>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p>
+                    <custom item="quote-example"/>
                 </example>
                 <example xml:id="example-mechanics-block-quotes">
                     <title>Using Block Quotes for Large Excerpts</title>
-                    <p>According to its website, the <custom item="tutoring-center-acronym"/> emphasizes how easy it is to make an appointment:</p>
-                    <blockquote>
-                        <p>There are several ways for students to make an appointment to meet with a <custom item="writing-tutor"/> or subject tutor. The fastest ways are to stop by the <custom item="tutoring-center"/> (<custom item="tutoring-center-rm"/>) or to call <custom item="tutoring-center-phone"/></p>
-                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for <custom item="writing-tutor"/> and subject tutor hours.</p>
-                    </blockquote>
+                    <custom item="block-quote-example"/>
                 </example>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-apostrophes">
@@ -2618,9 +2612,9 @@
                             Proper nouns should be capitalized.
                             <ul>
                                 <li><p>Proper nouns are basically names, though they aren't limited to humans.</p></li>
-                                <li><p>Proper nouns name things ranging from schools (<custom item="university-name-full"/>) to coffee shops (<custom item="coffee-shop"/>) to cities (<custom item="city"/>).</p></li>
+                                <li><p>Proper nouns name things ranging from people (Susan, Penelope) to coffee shops (Bluebeard Coffee) to cities (Tacoma).</p></li>
                                 <li>
-                                    <p>Chances are, if it specifies a particular thing as opposed to that thing in general (<custom item="university-name-full"/> vs. college), capitalize it!</p>
+                                    <p>Chances are, if it specifies a particular thing as opposed to that thing in general (Bluebeard Coffee vs. the coffeeshop), capitalize it!</p>
                                     <p>That said, there are many variables to consider and many exceptions. If you're unsure about whether or not to capitalize races like <q>black</q> and <q>white,</q> on which there is no consensus, ask. (Also, see <xref ref="writing-with-awareness"/> where we discuss this issue further.)</p>
                                 </li>
                             </ul>
@@ -2630,8 +2624,8 @@
                         <p>
                             Professional titles should be capitalized only when they precede the title-holder's name.
                             <ul>
-                                <li><p>Capitalize <q>president</q> in the sentence <q>President Isiaah Crawford joined the university in 2016.</q></p></li>
-                                <li><p>Do not capitalize <q>president</q> in the sentence <q>The 14th president of the <custom item="university-name-full"/> is Isiaah Crawford.</q></p></li>
+                                <li><p>Capitalize <q>president</q> in the sentence <q>President Barack Obama was elected in 2008.</q></p></li>
+                                <li><p>Do not capitalize <q>president</q> in the sentence <q>The 44th president of the United States was Barack Obama.</q></p></li>
                             </ul>
                         </p>
                     </li>
@@ -2639,7 +2633,7 @@
                         <p>
                             But don't capitalize occupational designators!
                             <ul>
-                                <li><p>The university's mascot <custom item="mascot"/></p></li>
+                                <li><p>The city's mayor Victoria Woodards</p></li>
                                 <li><p>The movie's director Christopher Nolan</p></li>
                             </ul>
                         </p>

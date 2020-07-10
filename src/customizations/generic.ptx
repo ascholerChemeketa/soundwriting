@@ -38,6 +38,10 @@
     <school-custom type="pizza-place">Dominos</school-custom>
     <school-custom type="academic-building">the lecture hall</school-custom>
     <school-custom type="fountain">the fountain</school-custom>
+    <school-custom type="art-building">the art studio</school-custom>
+    <school-custom type="park">the park</school-custom>
+    <school-custom type="nice-dorm">the nice dorm</school-custom>
+    <school-custom type="quad">the quad</school-custom>
     <school-custom type="university-president">the university president</school-custom>
     <!-- This one doesn't really work generic -->
     <school-custom type="tutoring-center-phone">tutoring center phone number</school-custom>
@@ -78,6 +82,7 @@
     <school-custom type="learning-management">At your university library you can likely access learning management tools like RefWorks and Zotero, and any librarian would be more than happy to help you get started.</school-custom>
     <school-custom type="rain-productivity">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of students at your university. You go to the library, talk to a librarian, look through the shelves, skim around the website, and even peek into the archives, but the only thing you can find is a couple of articles published in school newspaper in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the library search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
     <school-custom type="buzzfeed-quiz"><li><p>Take the this <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
+    <school-custom type="plagiarism-policy">For more information on your university's plagiarism policy, check out your student academic handbook.</school-custom>
     <school-custom type="compound-sentence-1">I have always loved <pubtitle>Harry Potter</pubtitle>, and I'm so excited to go to the movie marathon next month!</school-custom>
     <school-custom type="compound-sentence-2">I always need coffee when I study early in the morning, so I'm grateful that the coffee shop opens at 6am.</school-custom>
     <school-custom type="split-infinitive">
@@ -125,6 +130,19 @@
                         <li><p><q>My favorite coffeeshop is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
                     </ul>
                 </p></school-custom>
+    <school-custom type="capitalized-quote-example"><p>The tutor said, <q>At the tutoring center we want to provide opportunities for all students to acheive their academic goals.</q></p>
+        <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></school-custom>
+    <school-custom type="bracket-example"><p>The subject tutor asked the class, <q>Y'all [sic] going to the review session tonight in the library?</q></p>
+                        <p>The class responded, <q><em>Of course</em> we're going to the review session [emphasis in original].</q></p></school-custom>
+    <school-custom type="quote-example"><p>After their meeting with the assistant director of the tutoring center, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></school-custom>
+    <school-custom type="block-quote-example"><p>According to its website, the Washington Trails Association believes that:</p>
+                    <blockquote>
+                        <p><ul>
+                            <li><p>That exploring nature is good for people’s hearts, minds and bodies, and that hiking is a powerful way for everyone to connect with Washington’s natural wonders.</p></li>
+                            <li><p>That people will protect the places they love to hike, from local parks to remote wilderness.</p></li>
+                            <li><p>It is vitally important for everyone to have the opportunity to access the outdoors, and we are committed to reducing barriers to hiking trails and lands.</p></li>
+                            </ul></p>
+                    </blockquote></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
     <school-custom type="on-campus-study-list"></school-custom>
     <school-custom type="off-campus-study-list"></school-custom>
