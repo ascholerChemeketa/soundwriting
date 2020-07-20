@@ -83,6 +83,8 @@ Library website</url></school-custom>
     <school-custom type="ultimate-team">The Postmen</school-custom>
     <!-- A university a capella group -->
     <school-custom type="a-capella"><q>What She Said</q></school-custom>
+    <!-- The online learning management tool used by the University -->
+    <school-custom type="learning-management">Canvas</school-custom>
     <!-- Name of University career services office -->
     <school-custom type="career-office">Career and Employment Serices</school-custom>
     <!-- Short name or acronym for career services office. OK if it's the same if no acronym -->
@@ -217,10 +219,19 @@ Library website</url></school-custom>
                         <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the <init>CWLT</init> (Howarth 109) or to call (253)879-3404.</p>
                         <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
                     </blockquote></school-custom>
+    <!-- A list of ideas on finding your ideal study spot from the Overcoming Procrastination section -->
+    <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the rotunda, upstairs in the <init>SUB</init>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the <init>CWLT</init>, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!).</school-custom>
+    <!-- Any special term for disease passed around on campus, generic version will do if this doesn't exist -->
+    <school-custom type="illness">the Puget Plague</school-custom>
+    <!-- This references the university virtual desktop system, could be left out or replaced -->
+    <school-custom type="vdesk"><mdash/>as well as your own personal Puget Sound account at <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/student-technology-resources/network-storage/">vDesk</url></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
     <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
     <!-- In pugetsound version this list is formatted as an as an unorded list without a title -->
     <school-custom type="on-campus-study-list">
+        <insight>
+        <title>On-Campus Places to Study</title>
+            <p>
                 <ul>
                     <li><p>Diversions/Oppenheimer</p></li>
                     <li><p>Empty classrooms/resource rooms in Thompson</p></li>
@@ -241,10 +252,15 @@ Library website</url></school-custom>
                     <li><p>Lounges in your residence hall</p></li>
                     <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
                 </ul>
+            </p>
+        </insight>
             </school-custom>
-    <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
+    <!-- list of good places to study off campus. Doesn't have to be replaced in other editions but can be. -->
     <!-- In pugetsound version this list is formatted as an unorded list without a title -->
     <school-custom type="off-campus-study-list">
+        <insight>
+            <title>Off-Campus Places to Study</title>
+            <p>
                 <ul>
                     <li><p>Metronome</p></li>
                     <li><p>Bluebeard Coffee Roasters</p></li>
@@ -252,6 +268,8 @@ Library website</url></school-custom>
                     <li><p>Anthem Coffee &amp; Tea</p></li>
                     <li><p>Blackbear</p></li>
                 </ul>
+        </p>
+        </insight>
             </school-custom>
     <!-- This sentence adds a reference to this specific time chart found in the tutoring center. It goes in the section on time charts -->
     <school-custom type="CWLT-time-chart">If you like what you see here, you can pick up a time charts like this one at the <init>CWLT</init>.</school-custom>
@@ -273,5 +291,15 @@ Library website</url></school-custom>
     <school-custom type="green-image"><image source="images/WP-LoggersLiveGreen"/></school-custom>
     <!-- oppenheimer image, remove for generic -->
     <school-custom type="oppenheimer-image"><image source="images/LM-Oppenheimer"/></school-custom>
+    <school-custom type="AC-resources-time-management">
+    <!-- This additional resources paragraph from the managing time section addresses Academic Consulting and can be removed at universities that don't offer this service -->
+        <paragraphs>
+            <title>Additional Resources</title>
+            <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (<init>AC</init>) at the <init>CWLT</init>. Peer <init>AC</init>s are Puget Sound students who've been tutoring in the <init>CWLT</init> for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
+        </paragraphs></school-custom>
+    <!-- This note on academic consulting is from the remote learning section -->
+    <school-custom type="online-success-AC">If you want some advice from someone else who is dealing with this right now, consider making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/">appointment</url> with an Academic Consultant at the <init>CWLT</init>.</school-custom>
+    <!-- This links to resources during the COVID-19 pandemic, can be replaced or left generic/unlinked -->
+    <school-custom type="covid-resources"><url href="https://www.pugetsound.edu/emergency/coronavirus-2020/student-faculty-staff-resources/student-resources/">resources</url></school-custom>
 </school-customizations>
     

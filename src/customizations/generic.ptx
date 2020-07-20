@@ -51,6 +51,7 @@
     <school-custom type="ultimate-team">our ultimate frisbee team</school-custom>
     <!-- The way this is used generic won't make sense -->
     <school-custom type="a-capella">a capella group</school-custom>
+    <school-custom type="learning-management">your professor's online learning management system</school-custom>
     <school-custom type="career-office">career services office</school-custom>
     <school-custom type="career-office-short">career services office</school-custom>
     <school-custom type="career-office-url">career services website</school-custom>
@@ -143,6 +144,9 @@
                             <li><p>It is vitally important for everyone to have the opportunity to access the outdoors, and we are committed to reducing barriers to hiking trails and lands.</p></li>
                             </ul></p>
                     </blockquote></school-custom>
+    <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try a coffee shop, a study room in the library, the tutoring center, an empty classroom, study spaces in academic buildings, common spaces in your residence hall, or (if the weather is nice) even somewhere outside.</school-custom>
+    <school-custom type="sickness">illness</school-custom>
+    <school-custom type="vdesk"></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
     <school-custom type="on-campus-study-list"></school-custom>
     <school-custom type="off-campus-study-list"></school-custom>
@@ -153,4 +157,7 @@
     <school-custom type="printing">printer money</school-custom>
     <school-custom type="green-image"></school-custom>
     <school-custom type="oppenheimer-image"></school-custom>
+    <school-custom type="AC-resources-time-management"></school-custom>
+    <school-custom type="online-success-AC">
+    <school-custom type="covid-resources">resources</school-custom>
 </school-customizations>
