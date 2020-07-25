@@ -2695,7 +2695,7 @@
                         <p>
                             Do not capitalize the word <q>the</q> before proper nouns unless the word <q>the</q> is itself a part of the proper noun.
                             <ul>
-                                <li><p><q>I attend the <custom item="university-name-full"/>.</q></p></li>
+                                <li><p><q>I attend the University of Puget Sound.</q></p></li>
                                 <li><p><q>In class, we read <pubtitle>The Great Gatsby</pubtitle>.</q></p></li>
                             </ul>
                         </p>

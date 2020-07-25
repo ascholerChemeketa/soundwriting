@@ -151,13 +151,21 @@
     <school-custom type="on-campus-study-list"></school-custom>
     <school-custom type="off-campus-study-list"></school-custom>
     <school-custom type="CWLT-time-chart"></school-custom>
-    <school-custom type="microsoft-word"></school-custom>
+    <school-custom type="microsoft-word">Microsoft Word is the word processor we'll be exploring here.</school-custom>
     <school-custom type="diversity-plan"></school-custom>
     <school-custom type="wp-chalkboard-image"></school-custom>
     <school-custom type="printing">printer money</school-custom>
     <school-custom type="green-image"></school-custom>
     <school-custom type="oppenheimer-image"></school-custom>
     <school-custom type="AC-resources-time-management"></school-custom>
-    <school-custom type="online-success-AC">
+    <school-custom type="online-success-AC"></school-custom>
     <school-custom type="covid-resources">resources</school-custom>
+    <school-custom type="biology-resources"></school-custom>
+    <school-custom type="generic-disciplines-note">While disciplinary expectations are similar between institutions, this chapter was developed specifically through close partnership with departments at the University of Puget Sound. While it is a useful reference point at any university, the names and specifics of departments may differ. When in doubt, always ask your professor and defer to their expectations.</school-custom>
+   <school-custom type="chemistry-professor">one chemistry professor</school-custom>
+   <school-custom type="chemistry-resources"></school-custom>
+   <school-custom type="english-resources">Ask a librarian if you have access to the OED through your library!</school-custom>
+   <school-custom type="IPE-resources"></school-custom>
+   <school-custom type="philosophy-resources"></school-custom>
+   <school-custom type="zotero-resources"></school-custom>
 </school-customizations>

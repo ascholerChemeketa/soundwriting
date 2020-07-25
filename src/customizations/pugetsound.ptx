@@ -222,7 +222,7 @@ Library website</url></school-custom>
     <!-- A list of ideas on finding your ideal study spot from the Overcoming Procrastination section -->
     <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the rotunda, upstairs in the <init>SUB</init>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the <init>CWLT</init>, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!).</school-custom>
     <!-- Any special term for disease passed around on campus, generic version will do if this doesn't exist -->
-    <school-custom type="illness">the Puget Plague</school-custom>
+    <school-custom type="sickness">the Puget Plague</school-custom>
     <!-- This references the university virtual desktop system, could be left out or replaced -->
     <school-custom type="vdesk"><mdash/>as well as your own personal Puget Sound account at <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/student-technology-resources/network-storage/">vDesk</url></school-custom>
     <!-- Most items after this are things that many schools may not want to replace but we want to keep for the pugetsound edition -->
@@ -301,5 +301,20 @@ Library website</url></school-custom>
     <school-custom type="online-success-AC">If you want some advice from someone else who is dealing with this right now, consider making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/">appointment</url> with an Academic Consultant at the <init>CWLT</init>.</school-custom>
     <!-- This links to resources during the COVID-19 pandemic, can be replaced or left generic/unlinked -->
     <school-custom type="covid-resources"><url href="https://www.pugetsound.edu/emergency/coronavirus-2020/student-faculty-staff-resources/student-resources/">resources</url></school-custom>
+    <!-- This paragraph from the end of the Writing in Biology section addresses internal resources specific to the UPS biology department -->
+    <school-custom type="biology-resources"><p>Student resources from the department, including the ecology stats guide (which has great advice for both doing statistics and writing about statistics) and a sample lab report that is annotated by faculty, are available on the <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/biology/for-current-students">biology department webpage</url>.</p></school-custom>
+    <!-- This short paragraph in the introduction to Writing in the Disciplines prefaces the potential differences in departments at other universities and isn't needed in the UPS version -->
+    <school-custom type="generic-disciplines-note"></school-custom>
+    <!-- This attributes a quote to a specific UPS professor; generic version should just mention a chemistry professor -->
+    <school-custom type="chemistry-professor">Professor Steven Neshyba</school-custom>
+    <!-- This references internal Puget Sound resources for chemistry -->
+    <school-custom type="chemistry-resources"><p>Collins Memorial Library provides a very helpful online <q>Chemistry: Subject Guide</q> at <url href="http://research.pugetsound.edu/chem"/><mdash/>there's even a tab on <q>Writing and Citing</q>!</p></school-custom>
+    <!-- This references OED access specific to Puget Sound students -->
+    <school-custom type="english-resources">Puget Sound students have access to the <url href="https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?context=L&amp;docid=CP71109195270001451&amp;lang=en_US&amp;search_scope=everything&amp;tab=default_tab&amp;vid=UPUGS"><init>OED</init> through Primo</url> at Collins Memorial Library.</school-custom>
+    <!-- This references the availability of "They Say/I Say" in the CWLT -->
+    <school-custom type="IPE-resources">There is a copy in the <init>CWLT</init>!</school-custom>
+    <!-- From the philosophy section, this also refers to "They Say/I Say" in the CWLT -->
+    <school-custom type="philosophy-resources"> There are several copies available in the <init>CWLT</init>!</school-custom>
+    <school-custom type="zotero-resources">You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url></school-custom>
 </school-customizations>
     
