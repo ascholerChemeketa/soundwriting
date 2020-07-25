@@ -12,7 +12,53 @@
 <!--                                                                    -->
 
 <school-customizations>
-    <!-- I intend to put this list in alpha order but it hasn't happened yet -->
+    <!-- A university a capella group -->
+    <school-custom type="a-capella"><q>What She Said</q></school-custom>
+    <!-- Name of an academic building with classrooms and multiple floors -->
+    <school-custom type="academic-building">McIntyre</school-custom>
+    <school-custom type="AC-resources-time-management">
+        <paragraphs>
+            <title>Additional Resources</title>
+            <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (<init>AC</init>) at the <init>CWLT</init>. Peer <init>AC</init>s are Puget Sound students who've been tutoring in the <init>CWLT</init> for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
+        </paragraphs></school-custom>
+     <!-- An example of agreement with "and" -->
+    <school-custom type="and-agreement">Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</school-custom>
+    <!-- An art building on near campus -->
+    <school-custom type="art-building">Kittredge</school-custom>
+    <!-- This paragraph from the end of the Writing in Biology section addresses internal resources specific to the UPS biology department -->
+    <school-custom type="biology-resources"><p>Student resources from the department, including the ecology stats guide (which has great advice for both doing statistics and writing about statistics) and a sample lab report that is annotated by faculty, are available on the <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/biology/for-current-students">biology department webpage</url>.</p></school-custom>
+    <!-- Name of University career services office -->
+    <school-custom type="career-office">Career and Employment Serices</school-custom>
+    <!-- Short name or acronym for career services office. OK if it's the same if no acronym -->
+    <school-custom type="career-office-short"><acro>CES</acro></school-custom>
+    <!-- Website of career office as active URL -->
+    <school-custom type="career-office-url"><url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url></school-custom>
+    <!-- Phone number of career office -->
+    <school-custom type="career-office-phone">253.879.3161</school-custom>
+    <!-- Room number or location of career office -->
+    <school-custom type="career-office-rm">Howarth 101</school-custom>
+    <!-- Career office email -->
+    <school-custom type="career-office-email"><email>ces@pugetsound.edu</email></school-custom>
+    <!-- Sentence modification for generic to cite CES resources properly. Schools could also customize to insert internal resources. Goes in genres chapter -->
+    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">CES Resume Guide</url></q> and the <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">CES Cover Letter Guide</url></q>from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p></school-custom>
+    <!-- Similar sentence modification to previous, also in genres chapter -->
+    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage. Remember that you can always bring your resume drafts to CES (Howarth 101) for editing and revising ideas!</school-custom>
+    <!-- Similar modification in genres chapter, this one on thank-you notes -->
+    <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide on the Job Search Resources page.</school-custom>
+    <!-- More info about using CES in genres chapter -->
+    <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at <init>CES</init> by visiting the office in Howarth 101, calling 253.879.3161, emailing ces@pugetsound.edu, or visiting <url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url>).</school-custom>
+    <!-- Name of city where college is located -->
+    <school-custom type="city">Tacoma</school-custom>
+    <!-- A popular student coffee shop on or near campus -->
+    <school-custom type="coffee-shop">Diversions</school-custom>
+    <!-- This sentence in the overcoming obstacles section reminds students about counseling services -->
+    <school-custom type="counseling-resources">If you're really feeling overwhelmed, remember that <url href="https://www.pugetsound.edu/student-life/counseling-health-and-wellness/policies-procedures/appointments">Counseling, Health, and Wellness Services</url> (<acro>CHWS</acro>) offers free counseling appointments.</school-custom>
+    <!-- This list item provides info on course guides and research guides -->
+    <school-custom type="course-guides">The <url href="https://research.pugetsound.edu/?b=s">research and subject guides</url><fn><c>research.pugetsound.edu</c></fn> are created by the research librarians for you to use. They have a lot of great information that can be very helpful for you in your research process. For instance, they can help you figure out whether your source is scholarly or popular, and whether it's primary, secondary, or tertiary. They also can point you to which databases you should be using and give you tips on how to use them. If you get stuck in your process, the course guides also have the contact information of the liaison librarian working with your class, as well as that of the <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url>.</school-custom>
+     <!-- This list item provides info on general search databases and more specific ones -->
+    <school-custom type="database-info">Primo<mdash/>the search engine that shows up first when you click on the <custom item="library-url"/><mdash/>may seem like it has every source you could possibly need. While Primo can be very helpful, there are more than 200 other databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would in Primo. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases. To figure out which database you need, try checking out <url href="https://research.pugetsound.edu/?b=t">research and course guides</url><fn><c>research.pugetsound.edu</c></fn>.</school-custom>
+    <!-- Name of the student diversity or engagement center -->
+    <school-custom type="diversity-center"> Center for Intercultural and Civic Engagement.</school-custom>
     <!-- Full name of University library -->
     <school-custom type="library">Collins Memorial Library</school-custom>
     <!-- Name of the library, as an active hyperlink                    -->
@@ -43,8 +89,6 @@ Library website</url></school-custom>
     <school-custom type="tutoring-center-url"><url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url></school-custom>
     <!-- Name of tutoring center, short -->
     <school-custom type="tutoring-center-acronym"><init>CWLT</init></school-custom>
-    <!-- Name of city where college is located -->
-    <school-custom type="city">Tacoma</school-custom>
     <!-- Name of state where college is located -->
     <school-custom type="state">Washington</school-custom>
     <!-- Name of University newspaper, put in pubtitle tag -->
@@ -55,16 +99,10 @@ Library website</url></school-custom>
     <school-custom type="identity">Logger</school-custom>
     <!-- Name of the dining hall or a popular one -->
     <school-custom type="dining-hall"><acro>SUB</acro></school-custom>
-    <!-- A popular student coffee shop on or near campus -->
-    <school-custom type="coffee-shop">Diversions</school-custom>
     <!-- Name of a pizza place on or near campus -->
     <school-custom type="pizza-place">The Cellar</school-custom>
-    <!-- Name of an academic building with classrooms and multiple floors -->
-    <school-custom type="academic-building">McIntyre</school-custom>
     <!-- A fountain on or near campus -->
     <school-custom type="fountain">Jones Fountain</school-custom>
-    <!-- An art building on near campus -->
-    <school-custom type="art-building">Kittredge</school-custom>
     <!-- A park often visited by students -->
     <school-custom type="park">Point Defiance</school-custom>
     <!-- A dorm that is considered nice -->
@@ -81,37 +119,11 @@ Library website</url></school-custom>
     <school-custom type="tutoring-center-rm">Howarth 109</school-custom>
     <!-- One of the school's Ultimate Frisbee teams -->
     <school-custom type="ultimate-team">The Postmen</school-custom>
-    <!-- A university a capella group -->
-    <school-custom type="a-capella"><q>What She Said</q></school-custom>
     <!-- The online learning management tool used by the University -->
     <school-custom type="learning-management">Canvas</school-custom>
-    <!-- Name of University career services office -->
-    <school-custom type="career-office">Career and Employment Serices</school-custom>
-    <!-- Short name or acronym for career services office. OK if it's the same if no acronym -->
-    <school-custom type="career-office-short"><acro>CES</acro></school-custom>
-    <!-- Website of career office as active URL -->
-    <school-custom type="career-office-url"><url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url></school-custom>
-    <!-- Phone number of career office -->
-    <school-custom type="career-office-phone">253.879.3161</school-custom>
-    <!-- Room number or location of career office -->
-    <school-custom type="career-office-rm">Howarth 101</school-custom>
-    <!-- Career office email -->
-    <school-custom type="career-office-email"><email>ces@pugetsound.edu</email></school-custom>
     <!-- Liaison librarian, linked -->
     <school-custom type="librarian"><url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. <custom item="counseling-resources"/></school-custom>
-    <!-- Name of the student diversity or engagement center -->
-    <school-custom type="diversity-center"> Center for Intercultural and Civic Engagement.</school-custom>
-    <!-- Sentence modification for generic to cite CES resources properly. Schools could also customize to insert internal resources. Goes in genres chapter -->
-    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">CES Resume Guide</url></q> and the <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">CES Cover Letter Guide</url></q>from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p></school-custom>
-    <!-- Similar sentence modification to previous, also in genres chapter -->
-    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage. Remember that you can always bring your resume drafts to CES (Howarth 101) for editing and revising ideas!</school-custom>
-    <!-- Similar modification in genres chapter, this one on thank-you notes -->
-    <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide on the Job Search Resources page.</school-custom>
-    <!-- More info about using CES in genres chapter -->
-    <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at <init>CES</init> by visiting the office in Howarth 101, calling 253.879.3161, emailing ces@pugetsound.edu, or visiting <url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url>).</school-custom>
     <school-custom type="personal-statement-resources">For more tips and tricks on how to write a personal statement, see the <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page on the Puget Sound website. Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth 114) and the Center for Writing, Learning, and Teaching (<init>CWLT</init>) (Howarth 109) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</school-custom>
-    <!-- This sentence in the overcoming obstacles section reminds students about counseling services -->
-    <school-custom type="counseling-resources">If you're really feeling overwhelmed, remember that <url href="https://www.pugetsound.edu/student-life/counseling-health-and-wellness/policies-procedures/appointments">Counseling, Health, and Wellness Services</url> (<acro>CHWS</acro>) offers free counseling appointments.</school-custom>
     <!-- This section of a paragraph suggests resources for students looking to learn more about issues related to writing with awareness. -->
     <school-custom type="waw-resources">Looking for courses that fulfill the <url href="https://www.pugetsound.edu/academics/curriculum-courses/knowledge-identity-and-power">Knowledge, Identity, and Power</url> (<acro>KNOW</acro>) graduation requirement is another good way to find relevant courses. Get involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs offered through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
     <!-- This section of a paragraph provides resources for students interested in learning more about gender diversity and inclusion -->
@@ -130,10 +142,6 @@ Library website</url></school-custom>
     <school-custom type="SAE-resources">Taking an English course on the history of English, or courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/african-american-studies/">African American Studies</url> (<init>AFAM</init>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/asian-studies/">Asian Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/hispanic-studies/">Hispanic Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latin-american-studies/">Latin American Studies </url> (<init>LAS</init>), and <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latino-studies/"> Latino/a Studies</url> would be a good way to continue learning, as would getting involved in the Race and Pedagogy Institute (<init>RPI</init>) or in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
     <!-- This provides resources for students interested in learning more about pronouns and correctness -->
     <school-custom type="pronoun-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
-    <!-- This list item provides info on general search databases and more specific ones -->
-    <school-custom type="database-info">Primo<mdash/>the search engine that shows up first when you click on the <custom item="library-url"/><mdash/>may seem like it has every source you could possibly need. While Primo can be very helpful, there are more than 200 other databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would in Primo. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases. To figure out which database you need, try checking out <url href="https://research.pugetsound.edu/?b=t">research and course guides</url><fn><c>research.pugetsound.edu</c></fn>.</school-custom>
-    <!-- This list item provides info on course guides and research guides -->
-    <school-custom type="course-guides">The <url href="https://research.pugetsound.edu/?b=s">research and subject guides</url><fn><c>research.pugetsound.edu</c></fn> are created by the research librarians for you to use. They have a lot of great information that can be very helpful for you in your research process. For instance, they can help you figure out whether your source is scholarly or popular, and whether it's primary, secondary, or tertiary. They also can point you to which databases you should be using and give you tips on how to use them. If you get stuck in your process, the course guides also have the contact information of the liaison librarian working with your class, as well as that of the <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url>.</school-custom>
     <!-- This list item provides info on getting help with research -->
     <school-custom type="research-help">There are people whose job it is to help you make the best out of your research paper<mdash/>use them! The <url href="http://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/services/borrowing/student-manual/learningcommons">liaison librarians</url> and <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> love when students ask them for help. All of their contact information is available on the <url href="http://library.pugetsound.edu">library website</url>, so you can call or email them to make an appointment or ask a question. The <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> also has drop-in hours in the library after normal business hours, so you can still get help later in the evening. In addition, Collins Memorial Library participates in a <url href="http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&amp;page=frame&amp;institution=13202&amp;type=2&amp;language=1">24/7 chat service</url> that is staffed by librarians around the world. Whether you're just starting to think of a topic or nearing the end of your process, the librarians and peer research advisor can get you the help you need.</school-custom>
     <!-- This references specific learning management tools available at UPS -->
@@ -190,8 +198,7 @@ Library website</url></school-custom>
     <school-custom type="is-agreement">6th Avenue is a cool place to explore.</school-custom>
     <!-- An example of agreement with either and or -->
     <school-custom type="either-or-agreement">Either the geology team or the physics team is going to win the science basketball tournament in the Thompson courtyard.</school-custom>
-    <!-- An example of agreement with "and" -->
-    <school-custom type="and-agreement">Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</school-custom>
+   
     <!-- An example of parallelism problems. Has some tricky formatting, other schools should use generic unless pretext-savvy -->
     <school-custom type="parallelism-example">
                 <blockquote>
@@ -291,18 +298,13 @@ Library website</url></school-custom>
     <school-custom type="green-image"><image source="images/WP-LoggersLiveGreen"/></school-custom>
     <!-- oppenheimer image, remove for generic -->
     <school-custom type="oppenheimer-image"><image source="images/LM-Oppenheimer"/></school-custom>
-    <school-custom type="AC-resources-time-management">
     <!-- This additional resources paragraph from the managing time section addresses Academic Consulting and can be removed at universities that don't offer this service -->
-        <paragraphs>
-            <title>Additional Resources</title>
-            <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (<init>AC</init>) at the <init>CWLT</init>. Peer <init>AC</init>s are Puget Sound students who've been tutoring in the <init>CWLT</init> for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
-        </paragraphs></school-custom>
+    
     <!-- This note on academic consulting is from the remote learning section -->
     <school-custom type="online-success-AC">If you want some advice from someone else who is dealing with this right now, consider making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/">appointment</url> with an Academic Consultant at the <init>CWLT</init>.</school-custom>
     <!-- This links to resources during the COVID-19 pandemic, can be replaced or left generic/unlinked -->
     <school-custom type="covid-resources"><url href="https://www.pugetsound.edu/emergency/coronavirus-2020/student-faculty-staff-resources/student-resources/">resources</url></school-custom>
-    <!-- This paragraph from the end of the Writing in Biology section addresses internal resources specific to the UPS biology department -->
-    <school-custom type="biology-resources"><p>Student resources from the department, including the ecology stats guide (which has great advice for both doing statistics and writing about statistics) and a sample lab report that is annotated by faculty, are available on the <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/biology/for-current-students">biology department webpage</url>.</p></school-custom>
+    
     <!-- This short paragraph in the introduction to Writing in the Disciplines prefaces the potential differences in departments at other universities and isn't needed in the UPS version -->
     <school-custom type="generic-disciplines-note"></school-custom>
     <!-- This attributes a quote to a specific UPS professor; generic version should just mention a chemistry professor -->
