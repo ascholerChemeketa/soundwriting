@@ -793,8 +793,8 @@
         <sidebyside width="50%">
             <image source="images/clock"/>
         </sidebyside>
-        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). If you often find yourself writing papers at the last minute, read this section or try making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">appointment</url> with an academic consultant at the <custom item="tutoring-center-acronym"/> to practice scheduling and time management. Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
-        <p>However, you may find yourself reading this section after it is too late for a well-developed plan or academic consulting appointment. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
+        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). <custom item="AC-resources-deadlines"/> Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
+        <p>However, you may find yourself reading this section after it is too late for a well-developed plan or <custom item="AC-appointment"/>. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
         <p>Also, especially if you’re running late due to illness or other circumstances out of your control, remember that you can always (politely!) <xref ref="asking-for-extension" text="custom">ask for an extension </xref>. Still, you should never expect an extension and even if you sent that email you should start writing as soon as possible! </p>
         <list xml:id="list-process-managing-time-strategies" text="title">
             <title>Strategies for Meeting Deadlines</title>
@@ -805,9 +805,7 @@
                 <li><title>Start early</title>
                     <p>If planning a timeline is too structured for your personal writing process, you should at least plan to start early!</p>
                 </li>
-                <li><title>Make an academic consulting appointment</title>
-                    <p>Make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">appointment</url> with an academic consultant at the <custom item="tutoring-center-acronym"/> to practice scheduling and time management.</p>
-                </li>
+                <li><custom item="AC-deadlines-2"/></li>
             </ul>
         </list>
         <list xml:id="list-process-strategies-too-late">
@@ -862,7 +860,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>Many successful people, including <custom item="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out <url href="https://www.pugetsound.edu/student-life/cice/">CICE</url> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. <custom item="writing-tutor"/>s or Academic Consultants at the <custom item="tutoring-center-url"/> can also help you get started and get organized.</p>
+        <p>Many successful people, including <custom item="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out <url href="https://www.pugetsound.edu/student-life/cice/">CICE</url> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. At the <custom item="tutoring-center-url"/>, <custom item="writing-tutor"/>s <custom item="AC-identity"/>can also help you get started and get organized.</p>
         <observation>
             <title>Writing as a Multilingual Student</title>
             <blockquote>

@@ -30,7 +30,7 @@
                         <li xml:id="definition-noun">
                             <title>noun</title>
                             <p>person, place, or thing</p>
-                            <p>Examples: book, cat, dog, I, me, <custom item="university-name-short"/></p>
+                            <p>Examples: book, cat, dog, I, me, <custom item="university-name-full"/></p>
                         </li>
                         <li xml:id="definition-verb">
                             <title>verb</title>
@@ -446,22 +446,7 @@
                 <p>
                     Below are some more examples of infinitives that are probably okay to leave split:
                 </p>
-                <example>
-                    <title>Clear Split Infinitive: Puget Sound Outdoors</title>
-                    <p>
-                        <dl>
-                            <li>
-                                <title>Clear</title>
-                                <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
-                            </li>
-                            <li>
-                                <title>Confusing</title>
-                                <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
-                                <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at The Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
-                            </li>
-                        </dl>
-                    </p>
-                </example>
+                <custom item="clear-split-infinitive"/>
                 <example>
                     <title>Clear Split Infinitive: Tea</title>
                     <p>
@@ -516,21 +501,7 @@
                     <p><q>I would like <un s="1">to</un> <em>clearly and concisely</em> <un s="1">write</un> sentences with infinitives.</q></p>
                 </blockquote>
                 <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
-                <custom item="unclear-split-infinitive"/><example>
-                    <title>Unclear Split Infinitive: Puget Sound Outdoors</title>
-                    <p>
-                        <dl>
-                            <li>
-                                <title>Clear</title>
-                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
-                            </li>
-                            <li>
-                                <title>Confusing</title>
-                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
-                            </li>
-                        </dl>
-                    </p>
-                </example>
+                <custom item="unclear-split-infinitive"/>
                 <example>
                     <title>Unclear Split Infinitive: Club Fair</title>
                     <p>

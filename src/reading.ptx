@@ -260,9 +260,7 @@
                 </li>
             </ul>
         </list>
-        <insight>
-            <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <custom item="tutoring-center-url"/>!</p>
-        </insight>
+        <custom item="AC-notes-insight"/>
         <sidebyside width="50%">
             <image source="images/HR-Highlighter"/>
         </sidebyside>

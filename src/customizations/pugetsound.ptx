@@ -21,6 +21,22 @@
             <title>Additional Resources</title>
             <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (<init>AC</init>) at the <init>CWLT</init>. Peer <init>AC</init>s are Puget Sound students who've been tutoring in the <init>CWLT</init> for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
         </paragraphs></school-custom>
+    <!-- A sentence about Academic Consulting as a resource for meeting deadlines -->
+    <school-custom type="AC-resources-deadlines">If you often find yourself writing papers at the last minute, read this section or try making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</school-custom>
+    <!-- academic consulting appointment, to be replaced with just tutoring appointment in the generic -->
+    <school-custom type="AC-appointment">academic consulting appointment</school-custom>
+    <!-- List item from meeting deadlines list suggesting academic consulting, replace with general tutoring advice for generic -->
+    <school-custom type="AC-deadlines-2"><title>Make an academic consulting appointment</title>
+                    <p>Make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</p>
+                </school-custom>
+    <!-- This insight about taking notes references academic consulting and should be left blank in generic -->
+    <school-custom type="AC-notes-insight"><insight>
+            <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <custom item="tutoring-center-url"/>!</p>
+        </insight></school-custom>
+    <!-- This academic consulting reference from overcoming procrastination should be removed in the generic -->
+    <school-custom type="AC-overcoming-procrastination">For more ideas, you can always make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">academic consulting appointment</url> at the <init>CWLT</init>!</school-custom>
+    <!-- This addition in the identifying as a writer section suggests academic consulting resources -->
+    <school-custom type="AC-identity">or Academic Consultants</school-custom>
      <!-- An example of agreement with "and" -->
     <school-custom type="and-agreement">Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</school-custom>
     <!-- An art building on near campus -->
@@ -145,9 +161,11 @@ Library website</url></school-custom>
     <!-- This list item provides info on getting help with research -->
     <school-custom type="research-help">There are people whose job it is to help you make the best out of your research paper<mdash/>use them! The <url href="http://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/services/borrowing/student-manual/learningcommons">liaison librarians</url> and <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> love when students ask them for help. All of their contact information is available on the <url href="http://library.pugetsound.edu">library website</url>, so you can call or email them to make an appointment or ask a question. The <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> also has drop-in hours in the library after normal business hours, so you can still get help later in the evening. In addition, Collins Memorial Library participates in a <url href="http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&amp;page=frame&amp;institution=13202&amp;type=2&amp;language=1">24/7 chat service</url> that is staffed by librarians around the world. Whether you're just starting to think of a topic or nearing the end of your process, the librarians and peer research advisor can get you the help you need.</school-custom>
     <!-- This references specific learning management tools available at UPS -->
-    <school-custom type="learning-management">At Collins Memorial Library you can access RefWorks and <xref ref="zotero" text="title"/>, and any librarian would be more than happy to help you get started.</school-custom>
+    <school-custom type="learning-management-lib">At Collins Memorial Library you can access RefWorks and <xref ref="zotero" text="title"/>, and any librarian would be more than happy to help you get started.</school-custom>
     <!-- This is part of the example argument about rain with lots of UPS details -->
-    <school-custom type="rain-productivity">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to Collins Memorial Library, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <pubtitle>The Trail</pubtitle> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the Collins search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
+    <school-custom type="rain-productivity-1">On the other hand, the argument <q>Rain influences the walking rates of Puget Sound students in Tacoma, WA, differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</school-custom>
+    <!-- This is another part of the example argument about rain with lots of UPS details -->
+    <school-custom type="rain-productivity-2">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to Collins Memorial Library, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <pubtitle>The Trail</pubtitle> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the Collins search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
     <!-- This cites a buzzfeed quiz designed by CWLT tutors. Generic version doesn't mention CWLT -->
     <school-custom type="buzzfeed-quiz"><li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
     <!-- Short paragraph citing university plagiarism policy -->
@@ -157,8 +175,8 @@ Library website</url></school-custom>
     <school-custom type="compound-sentence-1">Ubiquitous They is so funny, and I really like watching them perform every Friday night.</school-custom>
     <!-- A second example compound sentence -->
     <school-custom type="compound-sentence-2">I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</school-custom>
-    <!-- An example illustrating clear and unclear split infinitives. Has some formatting, other schools should use generic unless pretext-savvy. -->
-    <school-custom type="split-infinitive"> <example>
+    <!-- An example illustrating clear split infinitives. Has some formatting, other schools should use generic unless pretext-savvy. -->
+    <school-custom type="clear-split-infinitive"> <example>
                     <title>Clear Split Infinitive: Puget Sound Outdoors</title>
                     <p>
                         <dl>
@@ -301,7 +319,7 @@ Library website</url></school-custom>
     <!-- This additional resources paragraph from the managing time section addresses Academic Consulting and can be removed at universities that don't offer this service -->
     
     <!-- This note on academic consulting is from the remote learning section -->
-    <school-custom type="online-success-AC">If you want some advice from someone else who is dealing with this right now, consider making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/">appointment</url> with an Academic Consultant at the <init>CWLT</init>.</school-custom>
+    <school-custom type="AC-online-success">If you want some advice from someone else who is dealing with this right now, consider making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/">appointment</url> with an Academic Consultant at the <init>CWLT</init>.</school-custom>
     <!-- This links to resources during the COVID-19 pandemic, can be replaced or left generic/unlinked -->
     <school-custom type="covid-resources"><url href="https://www.pugetsound.edu/emergency/coronavirus-2020/student-faculty-staff-resources/student-resources/">resources</url></school-custom>
     
