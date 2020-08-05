@@ -12,7 +12,35 @@
 <!--                                                                    -->
 
 <school-customizations>
+     <!-- The way this is used generic won't make sense -->
+    <school-custom type="a-capella">a capella group</school-custom>
+        <school-custom type="academic-building">the lecture hall</school-custom>
+        <school-custom type="AC-appointment">tutoring appointment</school-custom>
+        <school-custom type="AC-deadlines-2">
+        <title>Make a tutoring appointment</title>
+                    <p>Making an appointment at your tutoring center can give you an intermediate deadline to work towards and is a great way to practice scheduling and time management.</p>
+                </school-custom>
+        <school-custom type="AC-identity"></school-custom>
+        <school-custom type="AC-notes-insight"></school-custom>
+    <school-custom type="AC-online-success"></school-custom>
+    <school-custom type="AC-overcoming-procrastination"></school-custom>
+        <school-custom type="AC-resources-deadlines">If you often find yourself writing papers at the last minute, read this section or try making an appointment at your tutoring center to practice scheduling and time management.</school-custom>
+        <school-custom type="AC-resources-time-management"></school-custom>
+        <school-custom type="and-agreement">Mango, pineapple, and strawberry are the best flavors of smoothie.</school-custom>
+        <school-custom type="art-building">the art studio</school-custom>
+        <school-custom type="biology-resources"></school-custom>
+     <school-custom type="block-quote-example"><p>According to its website, the Washington Trails Association believes that:</p>
+                    <blockquote>
+                        <p><ul>
+                            <li><p>That exploring nature is good for people’s hearts, minds and bodies, and that hiking is a powerful way for everyone to connect with Washington’s natural wonders.</p></li>
+                            <li><p>That people will protect the places they love to hike, from local parks to remote wilderness.</p></li>
+                            <li><p>It is vitally important for everyone to have the opportunity to access the outdoors, and we are committed to reducing barriers to hiking trails and lands.</p></li>
+                            </ul></p>
+                    </blockquote></school-custom>
+     <school-custom type="bracket-example"><p>The subject tutor asked the class, <q>Y'all [sic] going to the review session tonight in the library?</q></p>
+                        <p>The class responded, <q><em>Of course</em> we're going to the review session [emphasis in original].</q></p></school-custom>
     <school-custom type="library">the library</school-custom>
+    <school-custom type="buzzfeed-quiz"><li><p>Take the this <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
     <!-- No URL available in generic case, so just text again -->
     <school-custom type="library-as-url">the library</school-custom>
     <school-custom type="student-government">student government</school-custom>
@@ -36,9 +64,9 @@
     <school-custom type="dining-hall">dining hall</school-custom>
     <school-custom type="coffee-shop">the coffee shop</school-custom>
     <school-custom type="pizza-place">Dominos</school-custom>
-    <school-custom type="academic-building">the lecture hall</school-custom>
+
     <school-custom type="fountain">the fountain</school-custom>
-    <school-custom type="art-building">the art studio</school-custom>
+
     <school-custom type="park">the park</school-custom>
     <school-custom type="nice-dorm">the nice dorm</school-custom>
     <school-custom type="quad">the quad</school-custom>
@@ -49,8 +77,6 @@
     <!-- This won't make sense generic -->
     <school-custom type="tutoring-center-rm">tutoring center location</school-custom>
     <school-custom type="ultimate-team">our ultimate frisbee team</school-custom>
-    <!-- The way this is used generic won't make sense -->
-    <school-custom type="a-capella">a capella group</school-custom>
     <school-custom type="learning-management">your professor's online learning management system</school-custom>
     <school-custom type="career-office">career services office</school-custom>
     <school-custom type="career-office-short">career services office</school-custom>
@@ -83,7 +109,7 @@
     <school-custom type="learning-management-lib">At your university library you can likely access learning management tools like RefWorks and Zotero, and any librarian would be more than happy to help you get started.</school-custom>
     <school-custom type="rain-productivity-1">On the other hand, the argument <q>Rain influences the walking rates of students at my univeristy differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</school-custom>
     <school-custom type="rain-productivity-2">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of students at your university. You go to the library, talk to a librarian, look through the shelves, skim around the website, and even peek into the archives, but the only thing you can find is a couple of articles published in school newspaper in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the library search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
-    <school-custom type="buzzfeed-quiz"><li><p>Take the this <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
+    
     <school-custom type="plagiarism-policy">For more information on your university's plagiarism policy, check out your student academic handbook.</school-custom>
     <school-custom type="compound-sentence-1">I have always loved <pubtitle>Harry Potter</pubtitle>, and I'm so excited to go to the movie marathon next month!</school-custom>
     <school-custom type="compound-sentence-2">I always need coffee when I study early in the morning, so I'm grateful that the coffee shop opens at 6am.</school-custom>
@@ -119,7 +145,7 @@
     <school-custom type="s-ending-2">I'm going to the bakery with my friend, Keegan. They promise to split a cookie with me.</school-custom>
     <school-custom type="is-agreement">The old part of town is a cool place to explore.</school-custom>
     <school-custom type="either-or-agreement">Either the home team or their rival is going to win the Ultimate frisbee championship this year.</school-custom>
-    <school-custom type="and-agreement">Mango, pineapple, and strawberry are the best flavors of smoothie.</school-custom>
+
     <school-custom type="parallelism-example">
                 <blockquote>
         <p><q>My favorite coffeeshop is a relaxing place to study; it is calm, quiet, and has lots of windows.</q></p>
@@ -134,17 +160,8 @@
                 </p></school-custom>
     <school-custom type="capitalized-quote-example"><p>The tutor said, <q>At the tutoring center we want to provide opportunities for all students to acheive their academic goals.</q></p>
         <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></school-custom>
-    <school-custom type="bracket-example"><p>The subject tutor asked the class, <q>Y'all [sic] going to the review session tonight in the library?</q></p>
-                        <p>The class responded, <q><em>Of course</em> we're going to the review session [emphasis in original].</q></p></school-custom>
+   
     <school-custom type="quote-example"><p>After their meeting with the assistant director of the tutoring center, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></school-custom>
-    <school-custom type="block-quote-example"><p>According to its website, the Washington Trails Association believes that:</p>
-                    <blockquote>
-                        <p><ul>
-                            <li><p>That exploring nature is good for people’s hearts, minds and bodies, and that hiking is a powerful way for everyone to connect with Washington’s natural wonders.</p></li>
-                            <li><p>That people will protect the places they love to hike, from local parks to remote wilderness.</p></li>
-                            <li><p>It is vitally important for everyone to have the opportunity to access the outdoors, and we are committed to reducing barriers to hiking trails and lands.</p></li>
-                            </ul></p>
-                    </blockquote></school-custom>
     <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try a coffee shop, a study room in the library, the tutoring center, an empty classroom, study spaces in academic buildings, common spaces in your residence hall, or (if the weather is nice) even somewhere outside.</school-custom>
     <school-custom type="sickness">illness</school-custom>
     <school-custom type="vdesk"></school-custom>
@@ -158,19 +175,9 @@
     <school-custom type="printing">printer money</school-custom>
     <school-custom type="green-image"></school-custom>
     <school-custom type="oppenheimer-image"></school-custom>
-    <school-custom type="AC-resources-time-management"></school-custom>
-    <school-custom type="AC-resources-deadlines">If you often find yourself writing papers at the last minute, read this section or try making an appointment at your tutoring center to practice scheduling and time management.</school-custom>
-    <school-custom type="AC-appointment">tutoring appointment</school-custom>
-    <school-custom type="AC-online-success"></school-custom>
-    <school-custom type="AC-deadlines-2">
-        <title>Make a tutoring appointment</title>
-                    <p>Making an appointment at your tutoring center can give you an intermediate deadline to work towards and is a great way to practice scheduling and time management.</p>
-                </school-custom>
-    <school-custom type="AC-notes-insight"></school-custom>
-    <school-custom type="AC-overcoming-procrastination"></school-custom>
-    <school-custom type="AC-identity"></school-custom>
+
     <school-custom type="covid-resources">resources</school-custom>
-    <school-custom type="biology-resources"></school-custom>
+
     <school-custom type="generic-disciplines-note"> While disciplinary expectations are similar between institutions, this chapter was developed specifically through close partnership with departments at the University of Puget Sound. While it is a useful reference point at any university, the names and specifics of departments may differ. When in doubt, always ask your professor and defer to their expectations.</school-custom>
    <school-custom type="chemistry-professor">one chemistry professor</school-custom>
    <school-custom type="chemistry-resources"></school-custom>
