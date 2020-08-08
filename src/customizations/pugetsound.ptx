@@ -158,14 +158,14 @@
     <school-custom type="learning-management">Canvas</school-custom>
     <!-- This references specific learning management tools available at UPS -->
     <school-custom type="learning-management-lib">At Collins Memorial Library you can access RefWorks and <xref ref="zotero" text="title"/>, and any librarian would be more than happy to help you get started.</school-custom>
+    <!-- Liaison librarian, linked -->
+    <school-custom type="librarian"><url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. <custom item="counseling-resources"/></school-custom>
     <!-- Full name of University library -->
     <school-custom type="library">Collins Memorial Library</school-custom>
     <!-- Name of the library, as an active hyperlink                    -->
     <!-- Abbreviated version as footnote for visual use (e.g. hardcopy) -->
     <school-custom type="library-as-url"><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins Memorial Library</url><fn><c>www.pugetsound.edu/academics/academic-resources/collins-memorial-library/</c></fn></school-custom>
-    <!-- Liaison librarian, linked -->
-    <school-custom type="librarian"><url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. <custom item="counseling-resources"/></school-custom>
-    <!-- University library website, with name and url link -->
+     <!-- University library website, with name and url link -->
     <school-custom type="library-url"><url
 href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins
 Library website</url></school-custom>
@@ -285,10 +285,10 @@ Library website</url></school-custom>
     <school-custom type="subtle-antisemitism">More subtle forms of discrimination are also ongoing: at the University of Puget Sound not only has anti-Semitic graffiti been found on campus as recently as Spring of 2018, but members of the University of Puget Sound Jewish Student Union described in an interview how campus members continue to make assumptions about them, such as that they eat kosher, speak Hebrew, attend a synagogue, or are good with money, because of their Jewish identity.</school-custom>
     <!-- Name of tutoring center, full -->
     <school-custom type="tutoring-center">Center for Writing, Learning, and Teaching</school-custom>
-    <!-- Tutoring center name as active link, can use full name or acronym -->
-    <school-custom type="tutoring-center-url"><url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url></school-custom>
     <!-- Name of tutoring center, short -->
     <school-custom type="tutoring-center-acronym"><init>CWLT</init></school-custom>
+    <!-- Tutoring center name as active link, can use full name or acronym -->
+    <school-custom type="tutoring-center-url"><url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url></school-custom>
      <!-- Phone number for the tutoring center -->
     <school-custom type="tutoring-center-phone">(253)879-3404</school-custom>
     <!-- Room number or location of tutoring center -->
@@ -311,10 +311,10 @@ Library website</url></school-custom>
                         </dl>
                     </p>
                 </example></school-custom>
-    <!-- Full formal university name. Often used with "the" in front. -->
-    <school-custom type="university-name-full">University of Puget Sound</school-custom>
     <!-- University name acronym -->
     <school-custom type="university-name-acro"><init>UPS</init></school-custom>
+    <!-- Full formal university name. Often used with "the" in front. -->
+    <school-custom type="university-name-full">University of Puget Sound</school-custom>
     <!-- Shorter version of university name, if desired; often used as an adjective ie. Puget Sound education, Puget Sound community. Often used without "the" in front. -->
     <school-custom type="university-name-short">Puget Sound</school-custom>
     <!-- Name of University newspaper, put in pubtitle tag -->
