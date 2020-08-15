@@ -79,6 +79,8 @@
     <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">CES Resume Guide</url></q> and the <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">CES Cover Letter Guide</url></q>from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p></school-custom>
     <!-- Similar modification in genres chapter, this one on thank-you notes -->
     <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide on the Job Search Resources page.</school-custom>
+    <!-- Overview of chapter five to be modified for generic -->
+    <school-custom type="chapter-five">we compile guidelines from faculty members across campus to help you navigate within and between the different disciplines you will encounter over the course of your Puget Sound education, as you fulfill your core requirements and generally become a more well-rounded, inquisitive, boundary-crossing liberal arts version of yourself.</school-custom>
     <!-- This attributes a quote to a specific UPS professor; generic version should just mention a chemistry professor -->
     <school-custom type="chemistry-professor">Professor Steven Neshyba</school-custom>
     <!-- This references internal Puget Sound resources for chemistry -->
@@ -102,6 +104,8 @@
                 </example></school-custom>
     <!-- Name of city where college is located -->
     <school-custom type="city">Tacoma</school-custom>
+    <!-- This phrase mentions availability of the Craft of Research online, should be removed in generic -->
+    <school-custom type="craft-of-research">, available as an ebook in Primo to members of the Puget Sound community</school-custom>
     <!-- A popular student coffee shop on or near campus -->
     <school-custom type="coffee-shop">Diversions</school-custom>
      <!-- An example compound sentence -->
@@ -140,6 +144,8 @@
     <school-custom type="generic-disciplines-note"></school-custom>
     <!-- This section of a paragraph provides resources for students interested in learning more about gender diversity and inclusion -->
     <school-custom type="gender-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <!-- Sentence from acknoledgements revised for generic edition -->
+    <school-custom type="goals">Our goal is to promote the socially conscious and <q>sound writing</q> that is at the heart of a Puget Sound education. As writing advisors at the Center for Writing, Learning, and Teaching and as students who have faced challenges similar to those that you will face, we have tailored this book to the needs of Puget Sound students.</school-custom>
      <!-- loggers live green image, remove for generic -->
     <school-custom type="green-image"><image source="images/WP-LoggersLiveGreen"/></school-custom>
      <!-- A list of ideas on finding your ideal study spot from the Overcoming Procrastination section -->
@@ -169,6 +175,8 @@
     <school-custom type="library-url"><url
 href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins
 Library website</url></school-custom>
+    <!-- This sentence from the front matter addresses the possibility of adapting the handbook and is revised in generic edition -->
+    <school-custom type="local-needs">Though our text grows out of the particular local needs of students and faculty members at the University of Puget Sound, it is our hope that audiences beyond our campus will find the writing advice in this text to be useful and will adapt the text to their own local needs.</school-custom>
      <!-- Name of University mascot -->
     <school-custom type="mascot">Grizz</school-custom>
     <!-- This sentence, in the technology section, specifies that microsoft word is available to UPS students -->
@@ -276,7 +284,7 @@ Library website</url></school-custom>
      <!-- Any special term for disease passed around on campus, generic version will do if this doesn't exist -->
     <school-custom type="sickness">the Puget Plague</school-custom>
     <!-- This section provides resources for students interested in learning more about socioeconomic inclusivity -->
-    <school-custom type="socioeconomic-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/soan/">Sociology and Anthropology</url> (<acro>SOAN</acro>) or social <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/psychology/">psychology</url> would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>)</school-custom>
+    <school-custom type="socioeconomic-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/soan/">Sociology and Anthropology</url> (<acro>SOAN</acro>) or Social <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/psychology/">Psychology</url> would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>)</school-custom>
     <!-- Name of state where college is located -->
     <school-custom type="state">Washington</school-custom>
     <!-- Name of student body or student government organization, can be acronym -->
@@ -329,6 +337,8 @@ Library website</url></school-custom>
     <school-custom type="wp-chalkboard-image"><image source="images/WP-ChalkboardTip"/></school-custom>
      <!-- Name of writing tutors offered through the university. Capitalized. -->
     <school-custom type="writing-tutor">Writing Advisor</school-custom>
+    <!-- This sentence from chapter two mentions UPS professors specifically -->
+    <school-custom type="yay-professors">Professors, especially those at Puget Sound, sincerely want you to succeed.</school-custom>
     <!-- This references Zotero availability and info specific to UPS -->
     <school-custom type="zotero-resources">You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url></school-custom>
 </school-customizations>

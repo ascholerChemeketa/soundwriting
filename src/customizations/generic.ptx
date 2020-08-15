@@ -55,6 +55,7 @@
     <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url>. Remember that you can always bring your resume to your career services office for more editing ideas!</school-custom>
     <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see this <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">Resume Guide</url></q> and this <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url></q> designed for college students. When in doubt, visit your career services office!</p></school-custom>
     <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see this handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide for college students.</school-custom>
+    <school-custom type="chapter-five">we compile guidelines from faculty members to help you navigate within and between the different disciplines you will encounter over the course of your education, as you fulfill your graduation requirements and generally become a more well-rounded, inquisitive, boundary-crossing liberal arts version of yourself.</school-custom>
      <school-custom type="chemistry-professor">one chemistry professor</school-custom>
    <school-custom type="chemistry-resources"></school-custom>
      <school-custom type="clear-split-infinitive">
@@ -71,6 +72,7 @@
                             </li>
                         </dl></p></school-custom>
     <school-custom type="city">the city</school-custom>
+    <school-custom type="craft-of-research"></school-custom>
     <school-custom type="coffee-shop">the coffee shop</school-custom>
     <school-custom type="compound-sentence-1">I have always loved <pubtitle>Harry Potter</pubtitle>, and I'm so excited to go to the movie marathon next month!</school-custom>
     <school-custom type="compound-sentence-2">I always need coffee when I study early in the morning, so I'm grateful that the coffee shop opens at 6am.</school-custom>
@@ -85,8 +87,9 @@
     <school-custom type="either-or-agreement">Either the home team or their rival is going to win the Ultimate frisbee championship this year.</school-custom>
      <school-custom type="english-resources">Ask a librarian if you have access to the OED through your library!</school-custom>
     <school-custom type="fountain">the fountain</school-custom>
-    <school-custom type="generic-disciplines-note"> While disciplinary expectations are similar between institutions, this chapter was developed specifically through close partnership with departments at the University of Puget Sound. While it is a useful reference point at any university, the names and specifics of departments may differ. When in doubt, always ask your professor and defer to their expectations.</school-custom>
-    <school-custom type="gender-resources">Taking courses in Gender Studies, Queer Studies, or Womens Studies or looking into programs offered by your university's diversity center are great places to start.</school-custom>
+    <school-custom type="generic-disciplines-note">Because disciplinary expectations are similar between institutions, this chapter is a useful reference point at any university; however, it was developed specifically through close partnership with departments at the University of Puget Sound and the names and specifics of departments may differ somewhat at your university.</school-custom>
+    <school-custom type="gender-resources">Taking courses in Gender Studies, Queer Studies, or Women's Studies or looking into programs offered by your university's diversity center are great places to start.</school-custom>
+    <school-custom type="goals">Our goal is to promote socially conscious and “sound writing." As writing advisors and as students who have faced challenges similar to those that you will face, we have tailored this book to the needs of students.</school-custom>
     <school-custom type="green-image"></school-custom>
     <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try a coffee shop, a study room in the library, the tutoring center, an empty classroom, study spaces in academic buildings, common spaces in your residence hall, or (if the weather is nice) even somewhere outside.</school-custom>
     <school-custom type="identity">student</school-custom>
@@ -99,8 +102,9 @@
     <!-- No URL available in generic case, so just text again -->
     <school-custom type="librarian">librarian</school-custom>
     <school-custom type="library">your university library</school-custom>
-    <school-custom type="library-as-url">the library</school-custom>
+    <school-custom type="library-as-url">your university library</school-custom>
     <school-custom type="library-url">library website</school-custom>
+    <school-custom type="local-needs">Though our text grows out of the particular local needs of students and faculty members at the University of Puget Sound, it is our hope that audiences beyond our campus will find the writing advice in this text to be useful. This edition has been revised to facilitate wider use by audiences outside of the University of Puget Sound. We also encourage other campuses to contact us about developing their own custom editions with their own local references.</school-custom>
     <school-custom type="mascot"> mascot</school-custom>
     <school-custom type="microsoft-word">Microsoft Word is the word processor we'll be exploring here.</school-custom>
    <school-custom type="neuro-phys-diversity-resources">Look for courses in Disability Studies and educational resources offered by your school's office of accessibility and accommodation</school-custom>
@@ -136,10 +140,10 @@
     <school-custom type="research-help">There are people whose job it is to help you make the best out of your research paper<mdash/>use them! Librarians and student library employees love when students ask them for help. All of their contact information is available on the library website, so you can call or email them to make an appointment or ask a question. Whether you're just starting to think of a topic or nearing the end of your process, the librarians can get you the help you need.</school-custom>
     <school-custom type="s-ending-1">The ballet students dance across the stage.</school-custom>
     <school-custom type="s-ending-2">I'm going to the bakery with my friend, Keegan. They promise to split a cookie with me.</school-custom>
-    <school-custom type="SAE-resources">Taking an English course on the history of English, or courses in African American Studies, Asian Studies, Hispanic Studies, Latin American Studies, and Latino/a Studies would be a good way to continue learning, as would getting involved in programs through the Center for Intercultural and Civic Engagement.</school-custom>
+    <school-custom type="SAE-resources">Taking an English course on the history of English, or courses in African American Studies, Asian Studies, Hispanic Studies, Latin American Studies, and Latino/a Studies would be a good way to continue learning, as would getting involved in programs through your university's diversity center.</school-custom>
     <school-custom type="science-hall">the science building</school-custom>
     <school-custom type="sickness">illness</school-custom>
-    <school-custom type="socioeconomic-resources">Taking courses in Sociology, Anthropology, or social psychology would be a good way to continue learning, as would getting involved in programs through your school's student diversity center.</school-custom>
+    <school-custom type="socioeconomic-resources">Taking courses in Sociology, Anthropology, or Social Psychology would be a good way to continue learning, as would getting involved in programs through your school's student diversity center.</school-custom>
     <school-custom type="state">the state</school-custom>
     <school-custom type="student-government">student government</school-custom>
     <school-custom type="subtle-antisemitism">More subtle forms of discrimination are also ongoing: Jewish Student Union members described in an interview how campus members continue to make assumptions about them, such as that they eat kosher, speak Hebrew, attend a synagogue, or are good with money, because of their Jewish identity.</school-custom>
@@ -176,6 +180,7 @@
     <school-custom type="vdesk"></school-custom>
     <school-custom type="waw-resources">Look for courses that address identity, power, and education, as well as programs offered through your campus diversity center.</school-custom>
     <school-custom type="wp-chalkboard-image"></school-custom>
-    <school-custom type="writing-tutor">writing tutor</school-custom>
+    <school-custom type="writing-tutor">Writing Tutor</school-custom>
+    <school-custom type="yay-professors">Professors sincerely want you to succeed.</school-custom>
     <school-custom type="zotero-resources"></school-custom>
 </school-customizations>

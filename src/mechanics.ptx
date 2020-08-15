@@ -1051,7 +1051,7 @@
                 <title>Dangling Modifiers</title>
                 <p>In addition to misplaced modifiers, a <term>dangling modifier<idx>dangling modifier</idx></term> describes a noun that is either unclear or absent from the sentence altogether. In these cases, the modifier ends up modifying something else in the sentence that should not be modified. For instance, take the following sentence:</p>
                 <blockquote>
-                    <p><q>After writing for hours in <custom item="library"/>, the paper was finally finished.</q></p>
+                    <p><q>After writing for hours in the library, the paper was finally finished.</q></p>
                 </blockquote>
                 <p>In this sentence, <q>after writing for hours</q> is a participle phrase modifying <q>the paper.</q> But a paper can't write itself! Instead, the participle phrase should modify the subject doing the action (in this case, the student writing the paper):</p>
                 <blockquote>
@@ -2208,7 +2208,7 @@
                 <title>Ellipsis <dblbrackets><ellipsis/></dblbrackets> (AKA: <q>dot dot dot</q>)</title>
                 <p>Use an ellipsis to show that you have omitted part of a quotation.</p>
                 <example>
-                    <title>Ellipsis: Ubiquitous They</title>
+                    <title>Ellipsis: Restaurant Review</title>
                     <p>The <pubtitle>New York Times</pubtitle> reporter wrote, <q>The restaurant, while it appeared to be a tiny hole-in-the-wall, showcased <ellipsis/> an impressive range of traditional Peruvian cuisine.</q></p>
                 </example>
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
@@ -2330,8 +2330,8 @@
             <subsubsection xml:id="punctuation-capitalization-dash">
                 <title>Hyphens and Dashes <dblbrackets>-</dblbrackets>, <dblbrackets><ndash/></dblbrackets>, and <dblbrackets><mdash/></dblbrackets></title>
                 <p>A <term>hyphen<idx>hyphen</idx></term> is used within a word, such as <q>non-aligned</q>, or used when a word is split across two lines (<q>hyphenation</q>).  It is a key on your keyboard.  It is not a minus sign, but is frequently used as one.</p>
-                <p>An <term>en dash<idx>en dash</idx></term> is wider, traditionally the width of an uppercase <sq>N</sq> (thus the name).  It is used for ranges, such as <q>Sound Writing is copyright 2017<ndash/>2019.</q></p>
-                <p>An <term>em dash<idx>em dash</idx></term> is wider still, twice the width of an en dash, and traditionally the width of an uppercase <sq>M</sq> (thus the name).  These longer dashes are what you use to set things apart<mdash/>you can use them with fragments or complete sentences.  Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.  Many word-processors will create an em dash if you type two consecutive hyphens.</p>
+                <p>An <term>en dash<idx>en dash</idx></term> is wider, traditionally the width of an uppercase <italics>N</italics> (thus the name).  It is used for ranges, such as <q><italics>Sound Writing</italics> is copyright 2017<ndash/>2019.</q></p>
+                <p>An <term>em dash<idx>em dash</idx></term> is wider still, twice the width of an en dash, and traditionally the width of an uppercase <italics>M</italics> (thus the name).  These longer dashes are what you use to set things apart<mdash/>you can use them with fragments or complete sentences.  Like the earlier example<mdash/>the one up above<mdash/>you can use two em dashes to set something apart, or you can use one em dash like the previous two sentences.  Many word-processors will create an em dash if you type two consecutive hyphens.</p>
                 <p>None of these punctuation marks have spaces before or after them.</p>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-parentheses">
