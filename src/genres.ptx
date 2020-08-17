@@ -122,7 +122,7 @@
                 </li>
             </ul>
         </list>
-        <p><custom item="personal-statement-resources"/>For more tips and tricks on how to write a personal statement, see the <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page on the Puget Sound website. Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth 114) and the <custom item="tutoring-center"/> (<custom item="tutoring-center-acronym"/>) (<custom item="tutoring-center-rm"/>) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</p>
+        <p><custom item="personal-statement-resources"/></p>
     </section>
     <section xml:id="cover-letters">
         <title>Writing Cover Letters</title>
@@ -320,7 +320,7 @@
                                 <li>Descriptions of what you specifically did, much as you would list for a resume</li>
                                 <li>List of all of your scholarly publications.</li>
                                 <li>List of any non-peer-reviewed writing you did. If you can link to a place where someone reading your <init>CV</init> could find something you wrote, you should include it!</li>
-                                <li>List of any presentations you’ve given (even to your home department here at Puget Sound).</li>
+                                <li>List of any presentations you’ve given (even to your home department in college).</li>
                                 <li>List of any conferences you’ve attended (along with the conference date and location!), especially if you presented work at these conferences.</li>
                             </ul>
                         </p>

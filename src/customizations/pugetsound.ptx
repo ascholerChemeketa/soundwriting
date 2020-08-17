@@ -54,8 +54,6 @@
     <!-- An example of using brackets to indicate change -->
     <school-custom type="bracket-example"><p>The subject tutor asked the SSI, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
                         <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p></school-custom>
-    <!-- This cites a buzzfeed quiz designed by CWLT tutors. Generic version doesn't mention CWLT -->
-    <school-custom type="buzzfeed-quiz"><li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li></school-custom>
     <!-- An example of capitalization in a quoted sentence -->
     <school-custom type="capitalized-quote-example"><p>The <custom item="tutoring-center-acronym"/> states on its webpage, <q>The mission of the <custom item="tutoring-center"/> is to provide opportunities for all <custom item="university-name-full"/> students to achieve their academic goals.</q></p>
         <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></school-custom>

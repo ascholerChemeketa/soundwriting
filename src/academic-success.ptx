@@ -59,7 +59,7 @@
             </blockquote>
             <p>Try saying:</p>
             <blockquote>
-                <p>Hi professor, I met up with Shannon and got their notes from yesterday since I stayed home sick and missed class. They told me you announced our next paper and put the prompt on Moodle, but after looking over the prompt, I realized I'm not sure what it means to <q>reconstruct the author's argument <em>without</em> summarizing.</q> This seems like a really subtle distinction to me; do you mean I should use the same evidence as the author to make the same claim? How is it possible to reconstruct an argument without just saying what the article says? I know you don't have office hours tomorrow, but I'd like to get started as soon as possible since, as you know, I'll be away for soccer this weekend. I was hoping I could come by your office for 15 minutes tomorrow to get a clearer picture of what you're looking for. I'm free before 11 am and from 2<ndash/>3:30 pm.</p>
+                <p>Hi professor, I met up with Shannon and got their notes from yesterday since I stayed home sick and missed class. They told me you announced our next paper and put the prompt on Canvas, but after looking over the prompt, I realized I'm not sure what it means to <q>reconstruct the author's argument <em>without</em> summarizing.</q> This seems like a really subtle distinction to me; do you mean I should use the same evidence as the author to make the same claim? How is it possible to reconstruct an argument without just saying what the article says? I know you don't have office hours tomorrow, but I'd like to get started as soon as possible since, as you know, I'll be away for soccer this weekend. I was hoping I could come by your office for 15 minutes tomorrow to get a clearer picture of what you're looking for. I'm free before 11 am and from 2<ndash/>3:30 pm.</p>
             </blockquote>
         </example>
            <warning>
@@ -209,7 +209,7 @@
             <title>When and How to Ask for a Letter of Recommendation</title>
             <ol>
                 <li><title><em>When you arrive at college,</em> build relationships with faculty</title>
-                    <p>Visiting a professor's office hours is a great way to get more out of your education, and it is also a great way to build a relationship with a professor, especially if you haven’t worked closely with a professor in any other context yet. Remember that you can read more about <xref ref="talking-to-profs" text="title"/>, and you can check out [this video] to learn what office hours are and how to use them.</p>
+                    <p>Visiting a professor's office hours is a great way to get more out of your education, and it is also a great way to build a relationship with a professor, especially if you haven’t worked closely with a professor in any other context yet. Remember that you can read more about <xref ref="talking-to-profs" text="title"/> and that office hours exist for this purpose.</p>
                 </li>
                 <li><title><em>When you start thinking about applications,</em> identify which professor(s) you'd most like to write you a letter</title>
                     <p>Consider the three perspectives described in <xref ref="three-perspectives"/>, and make sure you can answer the questions in <xref ref="your-perspective" text="title"/>.</p>
@@ -282,7 +282,7 @@
                 <title>Productive Procrastination Practices</title>
                     <p><ul>
                         <li><p>Work on <xref ref="citations" text="title"/></p></li>
-                        <custom item="buzzfeed-quiz"/>
+                        <li><p>Take the this <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
                         <li><p>Type up your notes/evidence</p></li>
                         <li><p>Make to-do lists</p></li>
                         <li><p>Make an assignment timeline</p></li>
@@ -357,7 +357,7 @@
                     </p>
                 </li>
                 <li><title>If you need to, try treating yourself like a small child</title>
-                    <p>You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to The Cellar for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch the new <em>Game of Thrones</em> episode.</q></p>
+                    <p>You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to <custom item="dining-hall"/> for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch that <em>Game of Thrones</em> episode.</q></p>
                 </li>
                 <li><title>Remind yourself of what you're excited about</title>
                     <p>Sometimes we get so caught up in the tediousness of the work we have to do that we forget why we're here. Even if you're procrastinating on work for a class you don't enjoy, try to think about the bigger picture<mdash/>completing your assignment means that you're one step closer to fulfilling a requirement and moving on to classes you're more interested in. But hey, the assignment might also surprise you, and you might end up learning something that you find fascinating. You never know!</p>
@@ -429,7 +429,7 @@
     <subsection xml:id="time-chart">
         <title>Making and Using a Time Chart</title>
         <p>All right. Approach big problems with small goals. Great. But how do you then follow through on those smaller goals? As you start breaking down your bigger projects, you'll find the strategies that work well for you, and tweaking the strategies that we recommend here to be most effective for you is important! That being said, one of the most tried-and-true approaches to managing daily work is the <term>time chart<idx>time chart</idx></term>. The point of a time chart is to give you an action plan for each day. It accounts for where you have to be when, but it also includes what work you're going to do when. A time chart isn't a planner or a calendar, but making a good time chart requires that you have a good sense of both what you need to do on a given day and what your time commitments are on a given day, which planners and calendars, respectively, help you keep track of. Finally, time charts are useful because they force you to assign priority to the tasks you want to accomplish.</p>
-        <p>So how should you use a time chart? As is the case with everything we've discussed in the academic success section, everyone develops slight variations on the underlying strategies for staying organized and managing time, but the steps we lay out here are a great way to start if you've never made a time chart before. Many people like to use a paper planner, which is what we present first, but there are great digital options for making a time chart as well, such as Google Calendar. First, take a look at the <custom item="tutoring-center-acronym"/> time chart below. <custom item="CWLT-time-chart"/>. </p>
+        <p>So how should you use a time chart? As is the case with everything we've discussed in the academic success section, everyone develops slight variations on the underlying strategies for staying organized and managing time, but the steps we lay out here are a great way to start if you've never made a time chart before. Many people like to use a paper planner, which is what we present first, but there are great digital options for making a time chart as well, such as Google Calendar. First, take a look at the time chart below. <custom item="CWLT-time-chart"/>. </p>
         <sidebyside width="50%">
                 <image source="images/AS-timechart_sample.png"/>
         </sidebyside>
@@ -503,7 +503,7 @@
                     <li><title>Determine which resources you need for each class and buy/rent/download them</title>
                         <p>
                             <ol>
-                                <li><title>Even before the semester starts, use the textbook page on the Bookstore website to figure out what you need for the semester</title>
+                                <li><title>Even before the semester starts, use the textbook page on the bookstore website to figure out what you need for the semester</title>
                                     <p>This is something to look into right away, because in many classes you need to be reading from the textbook before each class. In other classes that require you to read a variety of smaller texts, you generally don't need them all at once. So check your syllabus and prioritize the ones you will be using in the first few weeks of classes, and make a list on your planner for the books you still need to get.</p>
                                 </li>
                                 <li><title>On the first day of class when you get the syllabus, see if you need any special computer applications for the class and download them early</title>
