@@ -14,7 +14,7 @@
     <title>The Writing Process</title>
     <introduction>
         <p>While writing can be a difficult process, it often feels more daunting before you start than when you are actually doing it. If you are intimidated by the thought of writing (as many are), you may find reassurance in this nugget of wisdom: <em>The writing process is not just about writing!</em> In actuality, the writing process starts long before you write anything on the page and continues long after you've written your first draft. Just as developing your argument is a process, so too is translating that argument into written form. A significant portion of the writing process is composed of research, argument development, brainstorming, planning, and outlining, all of which take place before you begin composing content. And even after you've finished a draft, you may spend just as much or more time revising, editing, and changing your paper as you spent writing it. The writing process is messy, uncertain, and chock-full of switchbacks, revisions, and gaps in the road, but it can also be empowering, rewarding, and manageable if you take it one step at a time.</p>
-        <p>Watch this video for several UPS faculty perspectives on the writing process!</p>
+        <p>Watch this video for several University of Puget Sound faculty perspectives on the writing process!</p>
         <sidebyside width="70%">
             <video youtube="XIdPNHHCee8" xml:id="video-faculty-perspectives"/>
         </sidebyside>
@@ -160,7 +160,7 @@
                 <title>Drawing</title>
                 <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
                 <sidebyside width="50%">
-                    <image source="images/WP-ChalkboardTip"/>
+                    <custom item="wp-chalkboard-image"/>
                 </sidebyside>
             </subsubsection>
         </subsection>
@@ -327,7 +327,7 @@
                         <li><p>Offer a provocative statement of the problem.</p></li>
                     </ul>
                 </list>
-                <p>For more ideas on how to begin, organize, and end introductions, take a look at the following examples by Puget Sound students. What do you see as the strengths and weaknesses of these examples? Make sure to note the thesis statements (<un s="1">underlined</un>) and opening statements:</p>
+                <p>For more ideas on how to begin, organize, and end introductions, take a look at the following student examples. What do you see as the strengths and weaknesses of these examples? Make sure to note the thesis statements (<un s="1">underlined</un>) and opening statements:</p>
                 <example>
                     <title>Introduction: Women in the <pubtitle>Odyssey</pubtitle></title>
                     <p>Discourse has profound effects on how we view reality, particularly in regard to gender roles. Due to our society's political correctness, much of the sexism that pervades modern thought is implicit; commentators make thinly veiled metaphors instead of declarations. This implicit bias is nothing new, as it dates back to ancient times. Many literary critics have embraced Homer's <pubtitle>Odyssey</pubtitle> as a departure from the explicit sexism of pre-Judea Greece, claiming that the centrality of female characters to the epic poem is a formal challenge to the ivory-laden walls of male domination. <un s="1">While women do have a substantial presence in the <pubtitle>Odyssey</pubtitle>, the characters of Helen, Penelope, and Athena reify patriarchal norms regarding the role of the feminine in society by positing themselves below the authority and sovereignty of male characters. Coupled with the epic's clear celebration of warfare, the <pubtitle>Odyssey</pubtitle> primarily reinforces the chauvinist framework through which we view the world.</un></p>
@@ -338,7 +338,7 @@
                 </example>
                 <example>
                     <title>Introduction: Immigration Act</title>
-                    <p>Immigration has been synonymous with the United States of America since the days of the founding fathers. In the ten years following 1980, 668,866 European immigrants moved away from their homes, their families, and their jobs to craft new lives in the United States. During the presidency of Lyndon B. Johnson, the Immigration Act of 1965 removed the discriminatory quota system from United States immigration laws. The quota system was undesirable for a variety of reasons. One key cause at the core of the quest to change this system was that it allowed only a specific proportion of immigrants into the country. This proportion was representative not of the populous of the country in 1965, but of what America had looked like after the census of 1920. To put this into perspective, the number of immigrants allowed into the country from Western Europe was vastly greater than the number of immigrants allowed into the country from Asia and Eastern Europe, leading some to believe that racial stereotyping played some part in immigration.</p>
+                    <p>Immigration has been synonymous with the United States of America since the days of the founding fathers. In the ten years following 1980, 668,866 European immigrants moved away from their homes, their families, and their jobs to craft new lives in the United States. During the presidency of Lyndon B. Johnson, the Immigration Act of 1965 removed the discriminatory quota system from United States immigration laws. The quota system was undesirable for a variety of reasons. One key cause at the core of the quest to change this system was that it allowed only a specific proportion of immigrants into the country. This proportion was representative not of the populace of the country in 1965, but of what America had looked like after the census of 1920. To put this into perspective, the number of immigrants allowed into the country from Western Europe was vastly greater than the number of immigrants allowed into the country from Asia and Eastern Europe, leading some to believe that racial stereotyping played some part in immigration.</p>
                     <p>The Immigration Act placed a cap on the number of immigrants entering the United States from the Eastern or Western Hemispheres, and further divided that cap by placing a limit of 20,000 immigrants per annum from any country. The majority of people immigrating to America from Europe at this time were members of the working class. Among them was my dad. The Immigration Act was designed to make the process of immigration to the United States more fair and less biased toward people of European descent, who seemed <q>less foreign.</q> <un s="1">The Immigration Act of 1965 effectively restructured the United States' immigration policies in such a way that no group, minority or majority, was singled out by being discriminated against or given preferential treatment in terms of their ability to immigrate to America.</un></p>
                 </example>
                 <example>
@@ -360,7 +360,7 @@
             </sidebyside>
             </paragraphs>
             <p>
-                Here are some example topic sentences from Puget Sound student papers:
+                Here are some example topic sentences from student papers:
             </p>
             <example>
                 <title>Topic Sentences: Women in the <pubtitle>Odyssey</pubtitle></title>
@@ -479,7 +479,7 @@
                 <title>Role of the Conclusion</title>
                 <paragraphs xml:id="par-process-album">
                     <title>The Photo Album</title>
-                    <p>When it's 1:59 a.m. in Collins Library and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
+                    <p>When it's 1:59 a.m. in <custom item="library"/> and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
                     <sidebyside width="50%">
                         <image source="images/WP-ConclusionCamera"/>
                     </sidebyside>
@@ -523,14 +523,14 @@
                             <p>Don't just copy and paste your thesis from the introduction, hoping that your audience won't notice. They will notice, because the introduction and conclusion fulfill very different functions, and you introduction should emphasize different parts of your argument than your conclusion does. Your argument likely will have evolved or grown somewhat over the course of writing your paper; while you may have to revise your thesis to reflect this, the way you present your argument in your conclusion will likely be slightly different from how you wrote it in the introduction. To avoid simply restating your thesis using the same language, try writing your conclusion without looking at your thesis at all. As you should now be intimately acquainted with your topic (having just written several pages on it), doing so will likely enable you to restate your thesis to reflect a more evolved and sophisticated understanding of your argument.</p>
                         </li>
                         <li><title>Play the <q>But, why?</q> game with a friend</title>
-                            <p>If you've ever spent time around young children, you are likely familiar with the <q>But, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer, <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say, <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a writing advisor read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
+                            <p>If you've ever spent time around young children, you are likely familiar with the <q>But, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer, <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say, <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a <custom item="writing-tutor"/> read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
                         </li>
                     </ul>
                 </list>
                 <sidebyside width="50%">
                     <image source="images/WP-ButWhy"/>
                 </sidebyside>
-                <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from Puget Sound student papers:</p>
+                <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from student papers:</p>
                 <example>
                     <title>Conclusion: Women in the <pubtitle>Odyssey</pubtitle></title>
                     <p>Athena's relationships with Odysseus and Telemachus are clear examples of the strengthening of the gender divide, as it is these two men who win the day and the heart of Penelope. Athena stands out as the only venerable woman in the <pubtitle>Odyssey</pubtitle>, yet it is this very contrast that reminds us of the alleged lower standing of women.</p>
@@ -609,22 +609,22 @@
                         <p>So you have done some research, started figuring out your ideas, and finally gotten into a groove when, all of a sudden, you stumble across something that you need to research more. But the thing is, you don't want to stop writing because you might lose your groove! What do you do? Fear not! You can always leave a note to yourself (like this! <q>Research more about penguins.</q> You might even <highlight>highlight</highlight> the note OR PUT IT IN ALL CAPS to remind yourself to go back and address it!), and continue your sentence as if you've already done the research. Especially since you can always go back and revise your sentence based on the new evidence you find, if you're mid thought and don't want to interrupt yourself, then don't!</p>
                     </li>
                     <li><title>Color-code</title>
-                        <p>If you like to color-code, you might try using different-colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: <alert>never</alert> write in books from Collins Library! Save your sticky notes for those.)</p>
+                        <p>If you like to color-code, you might try using different-colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: <alert>never</alert> write in books from <custom item="library"/>! Save your sticky notes for those.)</p>
                     </li>
                     <li><title>Use technology</title>
-                        <p>Since most articles are quite long and you probably won't use every page from every article, save your <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
+                        <p>Since most articles are quite long and you probably won't use every page from every article, save your <custom item="printing"/> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
                     </li>
                 </ul>
             </list>
             <sidebyside width="50%">
-                <image source="images/WP-LoggersLiveGreen"/>
+                <custom item="green-image"/>
             </sidebyside>
         </subsection>
     </section>
     <section xml:id="process-revising">
         <title>Revising</title>
         <introduction>
-            <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the Center for Writing, Learning, and Teaching (<init>CWLT</init>), we focus largely on <acro>HOC</acro>s. After addressing the <acro>HOC</acro>s covered in this chapter, see <xref ref="writing-sentence-level"/> for a more in-depth overview of <acro>LOC</acro>s.</p>
+            <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the <custom item="tutoring-center"/> (<custom item="tutoring-center-acronym"/>), we focus largely on <acro>HOC</acro>s. After addressing the <acro>HOC</acro>s covered in this chapter, see <xref ref="writing-sentence-level"/> for a more in-depth overview of <acro>LOC</acro>s.</p>
             <sidebyside width="50%">
                 <image source="images/WP-GoodThings"/>
             </sidebyside>
@@ -661,9 +661,9 @@
                     <p>Does it encapsulate the argument of the paper in a new way? Is there a sense of broader significance or application?</p>
                     <p>For instance, the conclusion</p>
                     <blockquote>
-                        <p><q>Recorded student reactions to eating broccoli indicate that broccoli is an unpopular food choice among college students. These findings suggest that broccoli should be excised from the <acro>SUB</acro> menu.</q></p>
+                        <p><q>Recorded student reactions to eating broccoli indicate that broccoli is an unpopular food choice among college students. These findings suggest that broccoli should be excised from the <custom item="dining-hall"/> menu.</q></p>
                     </blockquote>
-                    <p>suggests the practical removal of broccoli from the <acro>SUB</acro> menu.</p>
+                    <p>suggests the practical removal of broccoli from the <custom item="dining-hall"/> menu.</p>
             </paragraphs>
             <figure xml:id="revision-checklist">
                 <title>Revision Checklist</title>
@@ -678,7 +678,7 @@
         </subsection>
         <subsection xml:id="peer-review">
             <title>Peer Review</title>
-            <p>Few are more familiar with peer review than writing advisors. It's a lot of what we do! And it's likely that in some of your classes, your professor will also hold a peer review session at some point. That said, there are some keys to mastering the art of peer review.</p>
+            <p>Few are more familiar with peer review than <custom item="writing-tutor"/>s. It's a lot of what we do! And it's likely that in some of your classes, your professor will also hold a peer review session at some point. That said, there are some keys to mastering the art of peer review.</p>
 
             <list xml:id="list-peer-review-principles">
                 <title>Strategies for Engaging in Peer Review</title>
@@ -693,7 +693,7 @@
                         <p>Even though you should be friendly, you aren't doing your peer any favors when you notice something but don't point it out. Contrary to common belief, it is possible to be both friendly and critical.</p>
                     </li>
                     <li><title>Be efficient</title>
-                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the University of Puget Sound Alumni Fund.</p>
+                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the <custom item="university-name-full"/> alumni fund.</p>
                     </li>
                     <li><title>Be open</title>
                         <p>Having your writing read<mdash/>whether by a peer, or a professor, or an employer<mdash/>will always entail some degree of vulnerability. Trust that your reviewer is not out to hurt you or your feelings. Remind yourself that the best revision comes about as a result of communication between parties mutually interested and invested in the success of the paper. Friends often find things that we cannot, especially those issues we have learned to overlook after reading our paper over and over again.</p>
@@ -709,7 +709,7 @@
         <title>Overcoming Obstacles</title>
         <introduction>
             <p>Over the course of your writing process, you will inevitably run into roadblocks, get stuck, or have moments of panic. <em>These obstacles and feelings are completely normal.</em> Even the most accomplished professional and academic writers experience writer's block, anxiety, and frustration. The key to overcoming these paralyzing feelings is to develop strategies to use when they arise. As you practice these strategies, you will become better at knowing which strategy to use in order to overcome an obstacle most pleasantly and efficiently.</p>
-            <p>Sometimes the hardest obstacle to overcome is just getting started. If that's where your stuck, you aren't alone! Watch this video to hear UPS faculty talk about why getting started is so hard for them.</p>
+            <p>Sometimes the hardest obstacle to overcome is just getting started. If that's where your stuck, you aren't alone! Watch this video to hear University of Puget Sound faculty talk about why getting started is so hard for them.</p>
             <sidebyside width="70%">
                 <video youtube="-rHx-sUV5Vw" xml:id="video-faculty-getting-started"/>
             </sidebyside>
@@ -753,7 +753,7 @@
                         <p>You will survive writing this paper. Although grades, improvement, and learning are important, your worth as a human being and as a student does not revolve around one college assignment.</p>
                     </li>
                     <li><title>Use your resources</title>
-                        <p>You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/"><init>CWLT</init></url>, or visiting a <url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. If you're really feeling overwhelmed, remember that <url href="https://www.pugetsound.edu/student-life/counseling-health-and-wellness/policies-procedures/appointments">Counseling, Health, and Wellness Services</url> (<acro>CHWS</acro>) offers free counseling appointments.</p>
+                        <p>You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the <custom item="tutoring-center-url"/>, or visiting a <custom item="librarian"/></p>
                     </li>
                     <li><title>Remember what interests you about your topic</title>
                         <p>Whether your paper is due for your favorite or least favorite class, you can always find a way to invest yourself in your topic. Focusing on the interesting parts of the topic itself may help you focus less on the stress of writing a paper and more on the intellectual conversation in which you, a scholar in training, are participating.</p>
@@ -763,7 +763,7 @@
                     </li>
                 </ul>
             </list>
-            <p>Using your resources is important, and your professors really do want to talk to you! Watch this video for UPS professor perspectives on asking for help.</p>
+            <p>Using your resources is important, and your professors really do want to talk to you! Watch this video for University of Puget Sound professor perspectives on asking for help.</p>
         <sidebyside width="70%">
             <video youtube="V8wXl9f8MKc" xml:id="video-faculty-on-help"/>
         </sidebyside>
@@ -793,21 +793,19 @@
         <sidebyside width="50%">
             <image source="images/clock"/>
         </sidebyside>
-        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). If you often find yourself writing papers at the last minute, read this section or try making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">appointment</url> with an academic consultant at the CWLT to practice scheduling and time management. Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
-        <p>However, you may find yourself reading this section after it is too late for a well-developed plan or academic consulting appointment. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
+        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). <custom item="AC-resources-deadlines"/> Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
+        <p>However, you may find yourself reading this section after it is too late for a well-developed plan or <custom item="AC-appointment"/>. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
         <p>Also, especially if you’re running late due to illness or other circumstances out of your control, remember that you can always (politely!) <xref ref="asking-for-extension" text="custom">ask for an extension </xref>. Still, you should never expect an extension and even if you sent that email you should start writing as soon as possible! </p>
         <list xml:id="list-process-managing-time-strategies" text="title">
             <title>Strategies for Meeting Deadlines</title>
             <ul>
                 <li><title>Create a schedule</title>
-                    <p>Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the <init>CWLT</init> or Collins Library early enough to get an appointment time that works best for you.</p>
+                    <p>Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the <custom item="tutoring-center-acronym"/> or <custom item="library"/> early enough to get an appointment time that works best for you.</p>
                 </li>
                 <li><title>Start early</title>
                     <p>If planning a timeline is too structured for your personal writing process, you should at least plan to start early!</p>
                 </li>
-                <li><title>Make an academic consulting appointment</title>
-                    <p>Make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</p>
-                </li>
+                <li><custom item="AC-deadlines-2"/></li>
             </ul>
         </list>
         <list xml:id="list-process-strategies-too-late">
@@ -862,7 +860,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>Many successful people, including UPS professors, once believed that they would not get through their undergrad education. Check out <url href="https://www.pugetsound.edu/student-life/cice/">CICE</url> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. Writing Advisors or Academic Consultants at the <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/">CWLT</url> can also help you get started and get organized.</p>
+        <p>Many successful people, including <custom item="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out the <custom item="diversity-center"/> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. At the <custom item="tutoring-center-url"/>, <custom item="writing-tutor"/>s <custom item="AC-identity"/>can also help you get started and get organized.</p>
         <observation>
             <title>Writing as a Multilingual Student</title>
             <blockquote>
@@ -874,7 +872,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>A few UPS professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
+        <p>A few University of Puget Sound professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
         <sidebyside width="70%">
             <video youtube="20hJdiQN51Q" xml:id="video-faculty-american-academic-writing"/>
         </sidebyside>

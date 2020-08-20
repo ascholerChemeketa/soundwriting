@@ -15,10 +15,10 @@
     <section xml:id="research-research-methods">
         <title>Research Essentials</title>
         <p>The word <q>research</q> can seem daunting, but doing independent research can be some of the most exciting work you'll do in college.</p>
-        <p><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins Library</url> provides access to rich collections, engaging learning environments, innovative instruction, and high-quality service in support of the university's mission of teaching, learning, civic engagement, and diversity. We encourage you to familiarize yourself early on with the scope of materials and the types of services available to you in an academic library, as they may differ markedly from those available in most school and public libraries. Collins Library works in close partnership with the faculty and other campus departments to support your development as a scholar.</p>
-        <p>Knowing that Collins Library is there to help you is the first step, but you'll also need to get going on your own. Here are some guidelines that will help you not only do research successfully but enjoy doing it.</p>
+        <p>At <custom item="library"/> you have access to rich collections, engaging learning environments, innovative instruction, and high-quality service in support of teaching, learning, civic engagement, and diversity. We encourage you to familiarize yourself early on with the scope of materials and the types of services available to you in an academic library, as they may differ markedly from those available in most school and public libraries. In close partnership with the faculty and other campus departments, <custom item="library"/> is always working to support your development as a scholar.</p>
+        <p>Knowing that <custom item="library"/> is there to help you is the first step, but you'll also need to get going on your own. Here are some guidelines that will help you not only do research successfully but enjoy doing it.</p>
         <insight>
-            <p>The first thing to know is that Collins Memorial Library is a university library and is probably a bit different than other libraries you've encountered in the past. This is because it's designed for people like yourself who are doing research, more than for people who are looking for a book to read or a movie to watch at home (though Collins Library has those things, too!).</p>
+            <p>The first thing to know is that a university library is probably a bit different than other libraries you've encountered in the past. This is because it's designed for people like yourself who are doing research, more than for people who are looking for a book to read or a movie to watch at home (though <custom item="library"/> has those things, too!).</p>
         </insight>
 
         <list xml:id="list-research-strategies-undertaking">
@@ -31,17 +31,17 @@
                 </li>
                 <li><title>Find the right search tools</title>
                     <p>
-                        Primo<mdash/>the search engine that shows up first when you click on the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins Library website</url><mdash/>may seem like it has every source you could possibly need. While Primo can be very helpful, there are more than 200 other databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would in Primo. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases. To figure out which database you need, try checking out <url href="https://research.pugetsound.edu/?b=t">research and course guides</url><fn><c>research.pugetsound.edu</c></fn>. If you're undertaking interdisciplinary research, you'll likely want to search more than one database.
+                        <custom item="database-info"/>
                     </p>
                 </li>
                 <li><title>Use your library course or subject guide</title>
                     <p>
-                        The <url href="https://research.pugetsound.edu/?b=s">research and subject guides</url><fn><c>research.pugetsound.edu</c></fn> are created by the research librarians for you to use. They have a lot of great information that can be very helpful for you in your research process. For instance, they can help you figure out whether your source is scholarly or popular, and whether it's primary, secondary, or tertiary. They also can point you to which databases you should be using and give you tips on how to use them. If you get stuck in your process, the course guides also have the contact information of the liaison librarian working with your class, as well as that of the <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url>.
+                        <custom item="course-guides"/>
                     </p>
                 </li>
                 <li><title>Get help</title>
                     <p>
-                        There are people whose job it is to help you make the best out of your research paper<mdash/>use them! The <url href="http://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/services/borrowing/student-manual/learningcommons">liaison librarians</url> and <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> love when students ask them for help. All of their contact information is available on the <url href="http://library.pugetsound.edu">library website</url>, so you can call or email them to make an appointment or ask a question. The <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> also has drop-in hours in the library after normal business hours, so you can still get help later in the evening. In addition, Collins Library participates in a <url href="http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&amp;page=frame&amp;institution=13202&amp;type=2&amp;language=1">24/7 chat service</url> that is staffed by librarians around the world. Whether you're just starting to think of a topic or nearing the end of your process, the librarians and peer research advisor can get you the help you need.
+                        <custom item="research-help"/>
                     </p>
                 </li>
                 <li><title>Start early</title>
@@ -58,12 +58,12 @@
         </list>
         <warning xml:id="warning-research-fulfillment-time">
             <title>Order Fulfillment Time</title>
-            <p>If you find a really great book through <acro>SUMMIT</acro> or ILLiad, remember that it can take up to ten business days to get to you, so it's important to account for that in your timeline.</p>
+            <p>If you find a really great book through interlibrary loan, remember that it can take up to ten business days to get to you, so it's important to account for that in your timeline.</p>
         </warning>
         <paragraphs>
             <title>Organizing and Analyzing Sources</title>
             <p>Research is a creative, recursive process, and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
-            <p>Consider learning how to use a knowledge-management tool. Collins Library supports RefWorks and <xref ref="zotero" text="title"/>, and any librarian would be more than happy to help you get started. These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p>
+            <p>Consider learning how to use a knowledge-management tool. <custom item="learning-management-lib"/> These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p>
             <p>Your research assignment prompt likely will indicate what kinds of (and often how many) sources you should aim for. But a source is not a source is not a source! <em>How</em> are you using sources? Take things one step further by analyzing precisely how you will use each source when building your argument so that you're able to use your sources in the most appropriate way. One helpful framework is <url href="http://www.tandfonline.com/doi/pdf/10.1080/07350190701738858">Joseph Bizup's <acro>BEAM</acro> model</url>. <acro>BEAM</acro> is an acronym intended to help us think about the various ways we <em>use</em> sources when writing a researched argument. Understanding how you're using a source is essential to using it correctly and effectively.</p>
         </paragraphs>
         <list xml:id="BEAM">
@@ -108,7 +108,7 @@
             <title>Strategies for Finding a Research Question</title>
             <ol>
                 <li><title>Begin by asking as many open-ended <q>why?</q> or <q>how?</q> questions as you can think of</title>
-                    <p>Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Chapter 3 of <pubtitle>The Craft of Research</pubtitle>, available as an ebook in Primo to members of the University of Puget Sound community.</p>
+                    <p>Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Chapter 3 of <pubtitle>The Craft of Research</pubtitle><custom item="craft-of-research"/>.</p>
                 </li>
                 <li><title>Begin to evaluate your research questions</title>
                     <p>Which question interests you the most? Why?</p>
@@ -132,7 +132,7 @@
                     <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
                 </li>
                 <li>
-                    <title>Writing Advisors</title>
+                    <title><custom item="writing-tutor"/>s</title>
                     <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
                 </li>
                 <li>
@@ -151,7 +151,7 @@
         <list xml:id="list-research-finding-sources">
             <title>Strategies for Finding Sources</title>
             <ul>
-                <li><title><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/services/ask-a-librarian/library-liaison-program/">Meet with a liaison librarian</url></title>
+                <li><title><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/services/ask-a-librarian/library-liaison-program/">Meet with a librarian</url></title>
                     <p>
                         They will show you how to navigate databases, find hard-to-find sources, and save you a <em>lot</em> of time.
                     </p>

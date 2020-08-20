@@ -12,10 +12,331 @@
 <!--                                                                    -->
 
 <school-customizations>
+    <!-- A university a capella group -->
+    <school-custom type="a-capella"><q>What She Said</q></school-custom>
+    <!-- Name of an academic building with classrooms and multiple floors -->
+    <school-custom type="academic-building">McIntyre</school-custom>
+    <school-custom type="AC-resources-time-management">
+        <paragraphs>
+            <title>Additional Resources</title>
+            <p>The strategies for time management we've talked about here are a great way to start, but honing a strategy or set of strategies that work well for you is a skill that can take years! If you still have questions after reading this section or would like to discuss a more personalized approach to time management, try scheduling an appointment with a trained Peer Academic Consultant (<init>AC</init>) at the <init>CWLT</init>. Peer <init>AC</init>s are Puget Sound students who've been tutoring in the <init>CWLT</init> for at least a year and have received additional training to work with you to develop effective time management, organization, and reading strategies.</p>
+        </paragraphs></school-custom>
+    <!-- A sentence about Academic Consulting as a resource for meeting deadlines -->
+    <school-custom type="AC-resources-deadlines">If you often find yourself writing papers at the last minute, read this section or try making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</school-custom>
+    <!-- academic consulting appointment, to be replaced with just tutoring appointment in the generic -->
+    <school-custom type="AC-appointment">academic consulting appointment</school-custom>
+    <!-- List item from meeting deadlines list suggesting academic consulting, replace with general tutoring advice for generic -->
+    <school-custom type="AC-deadlines-2"><title>Make an academic consulting appointment</title>
+                    <p>Make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/academic-counseling">appointment</url> with an academic consultant at the <init>CWLT</init> to practice scheduling and time management.</p>
+                </school-custom>
+    <!-- This addition in the identifying as a writer section suggests academic consulting resources -->
+    <school-custom type="AC-identity">or Academic Consultants</school-custom>
+    <!-- This insight about taking notes references academic consulting and should be left blank in generic -->
+    <school-custom type="AC-notes-insight"><insight>
+            <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <custom item="tutoring-center-url"/>!</p>
+        </insight></school-custom>
+    <!-- This note on academic consulting is from the remote learning section -->
+    <school-custom type="AC-online-success">If you want some advice from someone else who is dealing with this right now, consider making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/">appointment</url> with an Academic Consultant at the <init>CWLT</init>.</school-custom>
+    <!-- This academic consulting reference from overcoming procrastination should be removed in the generic -->
+    <school-custom type="AC-overcoming-procrastination">For more ideas, you can always make an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/schedules/academic-consulting">academic consulting appointment</url> at the <init>CWLT</init>!</school-custom>
+     <!-- An example of agreement with "and" -->
+    <school-custom type="and-agreement">Education, occupational therapy, and physical therapy are the three graduate degrees offered at Puget Sound.</school-custom>
+    <!-- An art building on near campus -->
+    <school-custom type="art-building">Kittredge</school-custom>
+    <!-- This paragraph from the end of the Writing in Biology section addresses internal resources specific to the UPS biology department -->
+    <school-custom type="biology-resources"><p>Student resources from the department, including the ecology stats guide (which has great advice for both doing statistics and writing about statistics) and a sample lab report that is annotated by faculty, are available on the <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/biology/for-current-students">biology department webpage</url>.</p></school-custom>
+    <!-- An example of incorporating a block quote -->
+    <school-custom type="block-quote-example"><p>According to its website, the <init>CWLT</init> emphasizes how easy it is to make an appointment:</p>
+                    <blockquote>
+                        <p>There are several ways for students to make an appointment to meet with a writing advisor or subject tutor. The fastest ways are to stop by the <init>CWLT</init> (Howarth 109) or to call (253)879-3404.</p>
+                        <p>Students can also request appointments by using <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment">the forms</url> for a writing appointment or for a subject tutoring appointment. Before requesting an appointment, it is helpful to consult the schedules for writing advisor and subject tutor hours.</p>
+                    </blockquote></school-custom>
+    <!-- An example of using brackets to indicate change -->
+    <school-custom type="bracket-example"><p>The subject tutor asked the SSI, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
+                        <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p></school-custom>
+    <!-- An example of capitalization in a quoted sentence -->
+    <school-custom type="capitalized-quote-example"><p>The <custom item="tutoring-center-acronym"/> states on its webpage, <q>The mission of the <custom item="tutoring-center"/> is to provide opportunities for all <custom item="university-name-full"/> students to achieve their academic goals.</q></p>
+        <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></school-custom>
+    <!-- Name of University career services office -->
+    <school-custom type="career-office">Career and Employment Serices</school-custom>
+    <!-- Career office email -->
+    <school-custom type="career-office-email"><email>ces@pugetsound.edu</email></school-custom>
+    <!-- Phone number of career office -->
+    <school-custom type="career-office-phone">253.879.3161</school-custom>
+    <!-- Room number or location of career office -->
+    <school-custom type="career-office-rm">Howarth 101</school-custom>
+    <!-- Short name or acronym for career services office. OK if it's the same if no acronym -->
+    <school-custom type="career-office-short"><acro>CES</acro></school-custom>
+    <!-- Website of career office as active URL -->
+    <school-custom type="career-office-url"><url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url></school-custom>
+    <!-- More info about using CES in genres chapter -->
+    <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here (for that, you can make an appointment at <init>CES</init> by visiting the office in Howarth 101, calling 253.879.3161, emailing ces@pugetsound.edu, or visiting <url href="https://www.pugetsound.edu/about/offices-services/ces/">the <acro>CES</acro> website</url>).</school-custom>
+    <!-- Similar sentence modification to resume-resources, also in genres chapter -->
+    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url> from the Career and Employment Services <url href="https://www.pugetsound.edu/about/offices-services/ces/students/job-search-resources/">Job Search Resources</url> webpage. Remember that you can always bring your resume drafts to CES (Howarth 101) for editing and revising ideas!</school-custom>
+    <!-- Sentence modification for generic to cite CES resources properly. Schools could also customize to insert internal resources. Goes in genres chapter -->
+    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see the <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">CES Resume Guide</url></q> and the <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">CES Cover Letter Guide</url></q>from the Career and Employment Services webpage. When in doubt, visit Career and Employment Services!</p></school-custom>
+    <!-- Similar modification in genres chapter, this one on thank-you notes -->
+    <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see <init>CES</init>'s handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide on the Job Search Resources page.</school-custom>
+    <!-- Overview of chapter five to be modified for generic -->
+    <school-custom type="chapter-five">we compile guidelines from faculty members across campus to help you navigate within and between the different disciplines you will encounter over the course of your Puget Sound education, as you fulfill your core requirements and generally become a more well-rounded, inquisitive, boundary-crossing liberal arts version of yourself.</school-custom>
+    <!-- This attributes a quote to a specific UPS professor; generic version should just mention a chemistry professor -->
+    <school-custom type="chemistry-professor">Professor Steven Neshyba</school-custom>
+    <!-- This references internal Puget Sound resources for chemistry -->
+    <school-custom type="chemistry-resources"><p>Collins Memorial Library provides a very helpful online <q>Chemistry: Subject Guide</q> at <url href="http://research.pugetsound.edu/chem"/><mdash/>there's even a tab on <q>Writing and Citing</q>!</p></school-custom>
+    <!-- An example illustrating clear split infinitives. Has some formatting, other schools should use generic unless pretext-savvy. -->
+    <school-custom type="clear-split-infinitive"> <example>
+                    <title>Clear Split Infinitive: Puget Sound Outdoors</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>Clear</title>
+                                <p><q>In order <un s="1">to</un> <em>properly</em> <un s="1">plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive <q>to plan</q> is split]</p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>In order <em>properly</em> <un s="1">to plan</un> for a Puget Sound Outdoors trip, you must sign up at The Expeditionary.</q> [infinitive is intact, but sentence is just plain awkward]</p>
+                                <p><q>In order <un s="1">to plan</un> for a Puget Sound Outdoors trip <em>properly</em>, you must sign up at The Expeditionary.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example></school-custom>
+    <!-- Name of city where college is located -->
+    <school-custom type="city">Tacoma</school-custom>
+    <!-- This phrase mentions availability of the Craft of Research online, should be removed in generic -->
+    <school-custom type="craft-of-research">, available as an ebook in Primo to members of the Puget Sound community</school-custom>
+    <!-- A popular student coffee shop on or near campus -->
+    <school-custom type="coffee-shop">Diversions</school-custom>
+     <!-- An example compound sentence -->
+    <school-custom type="compound-sentence-1">Ubiquitous They is so funny, and I really like watching them perform every Friday night.</school-custom>
+    <!-- A second example compound sentence -->
+    <school-custom type="compound-sentence-2">I always need coffee when I study in Thompson, so I'm grateful that Oppenheimer Cafe is right there.</school-custom>
+    <!-- This links to resources during the COVID-19 pandemic, can be replaced or left generic/unlinked -->
+    <school-custom type="covid-resources"><url href="https://www.pugetsound.edu/emergency/coronavirus-2020/student-faculty-staff-resources/student-resources/">resources</url></school-custom>
+    <!-- This sentence in the overcoming obstacles section reminds students about counseling services -->
+    <school-custom type="counseling-resources">If you're really feeling overwhelmed, remember that <url href="https://www.pugetsound.edu/student-life/counseling-health-and-wellness/policies-procedures/appointments">Counseling, Health, and Wellness Services</url> (<acro>CHWS</acro>) offers free counseling appointments.</school-custom>
+    <!-- This list item provides info on course guides and research guides -->
+    <school-custom type="course-guides">The <url href="https://research.pugetsound.edu/?b=s">research and subject guides</url><fn><c>research.pugetsound.edu</c></fn> are created by the research librarians for you to use. They have a lot of great information that can be very helpful for you in your research process. For instance, they can help you figure out whether your source is scholarly or popular, and whether it's primary, secondary, or tertiary. They also can point you to which databases you should be using and give you tips on how to use them. If you get stuck in your process, the course guides also have the contact information of the liaison librarian working with your class, as well as that of the <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url>.</school-custom>
+     <!-- This sentence adds a reference to this specific time chart found in the tutoring center. It goes in the section on time charts -->
+    <school-custom type="CWLT-time-chart">If you like what you see here, you can pick up a time charts like this one at the <init>CWLT</init>.</school-custom>
+     <!-- This list item provides info on general search databases and more specific ones -->
+    <school-custom type="database-info">Primo<mdash/>the search engine that shows up first when you click on the <custom item="library-url"/><mdash/>may seem like it has every source you could possibly need. While Primo can be very helpful, there are more than 200 other databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would in Primo. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases. To figure out which database you need, try checking out <url href="https://research.pugetsound.edu/?b=t">research and course guides</url><fn><c>research.pugetsound.edu</c></fn>.</school-custom>
+    <!-- Name of the dining hall or a popular one -->
+    <school-custom type="dining-hall"><acro>SUB</acro></school-custom>
+    <!-- Name of the student diversity or engagement center -->
+    <school-custom type="diversity-center"> Center for Intercultural and Civic Engagement.</school-custom>
+     <!-- Puget Sound diversity plan, cited at the beginning of writing with awareness chapter. Formatted in a block quote. -->
+    <school-custom type="diversity-plan"><blockquote>
+            <p>We at Puget Sound intentionally conceptualize and view diversity as a matter of equity and inclusion. In doing so, we aim to understand and actively respond to the ways organizational aspects of our society and of our own university often work against those principles, excluding some groups and individuals from our community while including others. The work of diversity, accordingly, seeks to account for and redress deeply embedded historical practices and legacies, forms of cultural and social representation, and institutional policies and processes that can systematically exclude groups or individuals from full participation in higher education and the considerable benefits it offers.</p>
+            <attribution>
+                <line>Puget Sound's Threshold 2020</line>
+                <line>Diversity Strategic Plan</line>
+            </attribution>
+        </blockquote></school-custom>
+    <!-- An example of agreement with either and or -->
+    <school-custom type="either-or-agreement">Either the geology team or the physics team is going to win the science basketball tournament in the Thompson courtyard.</school-custom>
+    <!-- This references OED access specific to Puget Sound students -->
+    <school-custom type="english-resources">Puget Sound students have access to the <url href="https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?context=L&amp;docid=CP71109195270001451&amp;lang=en_US&amp;search_scope=everything&amp;tab=default_tab&amp;vid=UPUGS"><init>OED</init> through Primo</url> at Collins Memorial Library.</school-custom>
+    <!-- A fountain on or near campus -->
+    <school-custom type="fountain">Jones Fountain</school-custom>
+    <!-- This short paragraph in the introduction to Writing in the Disciplines prefaces the potential differences in departments at other universities and isn't needed in the UPS version -->
+    <school-custom type="generic-disciplines-note"></school-custom>
+    <!-- This section of a paragraph provides resources for students interested in learning more about gender diversity and inclusion -->
+    <school-custom type="gender-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <!-- Sentence from acknoledgements revised for generic edition -->
+    <school-custom type="goals">Our goal is to promote the socially conscious and <q>sound writing</q> that is at the heart of a Puget Sound education. As writing advisors at the Center for Writing, Learning, and Teaching and as students who have faced challenges similar to those that you will face, we have tailored this book to the needs of Puget Sound students.</school-custom>
+     <!-- loggers live green image, remove for generic -->
+    <school-custom type="green-image"><image source="images/WP-LoggersLiveGreen"/></school-custom>
+     <!-- A list of ideas on finding your ideal study spot from the Overcoming Procrastination section -->
+    <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the rotunda, upstairs in the <init>SUB</init>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the <init>CWLT</init>, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!).</school-custom>
+    <!-- Name of student body identifier (tied to mascot) like "Loggers" or "Beavers" -->
+    <school-custom type="identity">Logger</school-custom>
+    <!-- Name of first-year writing curriculum, used as a noun -->
+    <school-custom type="intro-writing"><init>SSI</init></school-custom>
+    <!-- Student in first-year writing class -->
+    <school-custom type="intro-writing-student">first-year seminar student</school-custom>
+    <!-- This references the availability of "They Say/I Say" in the CWLT -->
+    <school-custom type="IPE-resources">There is a copy in the <init>CWLT</init>!</school-custom>
+    <!-- An example of agreement with "is" -->
+    <school-custom type="is-agreement">6th Avenue is a cool place to explore.</school-custom>
+    <!-- The online learning management tool used by the University -->
+    <school-custom type="learning-management">Canvas</school-custom>
+    <!-- This references specific learning management tools available at UPS -->
+    <school-custom type="learning-management-lib">At Collins Memorial Library you can access RefWorks and <xref ref="zotero" text="title"/>, and any librarian would be more than happy to help you get started.</school-custom>
+    <!-- Liaison librarian, linked -->
+    <school-custom type="librarian"><url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. <custom item="counseling-resources"/></school-custom>
+    <!-- Full name of University library -->
     <school-custom type="library">Collins Memorial Library</school-custom>
     <!-- Name of the library, as an active hyperlink                    -->
     <!-- Abbreviated version as footnote for visual use (e.g. hardcopy) -->
-    <!-- No spaces, since they can migrate all the way to output        -->
     <school-custom type="library-as-url"><url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins Memorial Library</url><fn><c>www.pugetsound.edu/academics/academic-resources/collins-memorial-library/</c></fn></school-custom>
+     <!-- University library website, with name and url link -->
+    <school-custom type="library-url"><url
+href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/">Collins
+Library website</url></school-custom>
+    <!-- This sentence from the front matter addresses the possibility of adapting the handbook and is revised in generic edition -->
+    <school-custom type="local-needs">Though our text grows out of the particular local needs of students and faculty members at the University of Puget Sound, it is our hope that audiences beyond our campus will find the writing advice in this text to be useful and will adapt the text to their own local needs.</school-custom>
+     <!-- Name of University mascot -->
+    <school-custom type="mascot">Grizz</school-custom>
+    <!-- This sentence, in the technology section, specifies that microsoft word is available to UPS students -->
+    <school-custom type="microsoft-word">As Microsoft Office is available to all Puget Sound students on the university's virtual desktop (<url href="https://vdesk.pugetsound.edu">vDesk</url>), it is the word processor we will be exploring here.</school-custom>
+    <!-- This section provides resources for students interested in learning more about neurological and physical diversity -->
+    <school-custom type="neuro-phys-diversity-resources">Courses on Disability Studies are occasionally offered, and the webpage of the office of <url href="https://www.pugetsound.edu/academics/academic-resources/accessibility-accommodation">Student Accessibility and Accommodation</url> offers educational resources.</school-custom>
+    <!-- A dorm that is considered nice -->
+    <school-custom type="nice-dorm">Thomas Hall</school-custom>
+    <!-- list of good places to study off campus. Doesn't have to be replaced in other editions but can be. -->
+    <!-- In pugetsound version this list is formatted as an unorded list without a title -->
+    <school-custom type="off-campus-study-list">
+        <insight>
+            <title>Off-Campus Places to Study</title>
+            <p>
+                <ul>
+                    <li><p>Metronome</p></li>
+                    <li><p>Bluebeard Coffee Roasters</p></li>
+                    <li><p>Owen Beach at Point Defiance</p></li>
+                    <li><p>Anthem Coffee &amp; Tea</p></li>
+                    <li><p>Blackbear</p></li>
+                </ul>
+        </p>
+        </insight>
+            </school-custom>
+    <!-- list of good places to study on campus. Doesn't have to be replaced in other editions but can be. -->
+    <!-- In pugetsound version this list is formatted as an as an unorded list without a title -->
+    <school-custom type="on-campus-study-list">
+        <insight>
+        <title>On-Campus Places to Study</title>
+            <p>
+                <ul>
+                    <li><p>Diversions/Oppenheimer</p></li>
+                    <li><p>Empty classrooms/resource rooms in Thompson</p></li>
+                    <li>
+                        <p>The library
+                            <ul>
+                                <li>Rooms in the basement</li>
+                                <li>Second floor</li>
+                                <li>Big tables by the front doors</li>
+                                <li>The fourth-floor couches</li>
+                            </ul>
+                        </p>
+                    </li>
+                    <li><p>Nooks in Wyatt</p></li>
+                    <li><p>Outside (if it's sunny)</p></li>
+                    <li><p>Upstairs in the <init>SUB</init></p></li>
+                    <li><p>The rotunda (if it's open)</p></li>
+                    <li><p>Lounges in your residence hall</p></li>
+                    <li><p>The Center for Writing, Learning, and Teaching (<init>CWLT</init>)!</p></li>
+                </ul>
+            </p>
+        </insight>
+            </school-custom>
+     <!-- oppenheimer image, remove for generic -->
+    <school-custom type="oppenheimer-image"><image source="images/LM-Oppenheimer"/></school-custom>
+    <!-- An example of parallelism problems. Has some tricky formatting, other schools should use generic unless pretext-savvy -->
+    <school-custom type="parallelism-example">
+                <blockquote>
+        <p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and has lots of windows.</q></p>
+                </blockquote>
+                <p>In this sentence, the attributes <q>calm</q> and <q>quiet</q> equally share the verb <q>is</q>: Oppenheimer <q>is calm</q> and <q>is quiet.</q> However, the last attribute in the series (<q>has lots of windows</q>), departs from this structure by introducing another verb, <q>has,</q> to characterize the attribute <q>lots of windows,</q> throwing the series out of balance. If <q>is</q> is applied equally to each attribute, Oppenheimer <q>is calm,</q> <q>is quiet,</q> and <q>is has lots of windows.</q> To fix this mixed word form, you must do one of two things: 1) either break up the attributes into two different items using the conjunction <q>and</q> or 2) arrange the attributes so they share a single verb and adhere to the parallel structure.</p>
+                <p>
+                    Examples of these fixes are shown below:
+                    <ul>
+                        <li><p><q>Oppenheimer is a relaxing place to study; it is calm and quiet and has lots of windows.</q></p></li>
+                        <li><p><q>Oppenheimer is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
+                    </ul>
+                </p></school-custom>
+    <!-- A park often visited by students -->
+    <school-custom type="park">Point Defiance</school-custom>
+    <!-- These resources for personal statement writing are UPS specific -->
+    <school-custom type="personal-statement-resources">For more tips and tricks on how to write a personal statement, see the <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page on the Puget Sound website. Remember that you can bring in your personal statement drafts to the Office of Graduate and Undergraduate Fellowships (Howarth 114) and the Center for Writing, Learning, and Teaching (<init>CWLT</init>) (Howarth 109) for brainstorming and editing ideas<mdash/>even after you graduate from Puget Sound.</school-custom>
+     <!-- From the philosophy section, this also refers to "They Say/I Say" in the CWLT -->
+    <school-custom type="philosophy-resources"> There are several copies available in the <init>CWLT</init>!</school-custom>
+     <!-- Name of a pizza place on or near campus -->
+    <school-custom type="pizza-place">The Cellar</school-custom>
+    <!-- Short paragraph citing university plagiarism policy -->
+    <school-custom type="plagiarism-policy">For more information on University of Puget Sound policies on plagiarism and academic integrity, please see the <url href="https://www.pugetsound.edu/student-life/personal-safety/student-handbook/academic-handbook/">Puget Sound Academic Handbook</url>.</school-custom>
+     <!-- This addresses technology services available at UPS -->
+    <school-custom type="printing"><url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/printgreen/">PrintGreen</url></school-custom>
+    <!-- This provides resources for students interested in learning more about pronouns and correctness -->
+    <school-custom type="pronoun-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/gender-studies">Gender and Queer Studies</url> (<init>GQS</init>) would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <!-- The name of a campus quad with a large grassy area -->
+    <school-custom type="quad">Todd Field</school-custom>
+     <!-- An example of incorporating quotes into sentence syntax -->
+    <school-custom type="quote-example"><p>After their meeting with Rachael Shelden, assistant director of the <custom item="tutoring-center-acronym"/>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></school-custom>
+    <!-- This section provides resources for students interested in learning more about racial diversity and inclusion -->
+    <school-custom type="race-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/african-american-studies">African American Studies</url> (<acro>AFAM</acro>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/asian-studies">Asian Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/hispanic-studies">Hispanic Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latin-american-studies">Latin American Studies</url> (<acro>LAS</acro>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latino-studies">Latina/o Studies</url> and <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/french-studies/"> French and Francophone Studies</url> would be a good way to continue learning, as would getting involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>). The Office of Diversity and Inclusion also engages with these issues throughout our university.</school-custom>
+    <!-- This is part of the example argument about rain with lots of UPS details -->
+    <school-custom type="rain-productivity-1">On the other hand, the argument <q>Rain influences the walking rates of Puget Sound students in Tacoma, WA, differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</school-custom>
+    <!-- This is another part of the example argument about rain with lots of UPS details -->
+    <school-custom type="rain-productivity-2">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of Puget Sound students. You go to Collins Memorial Library, visit a liaison librarian, look through the shelves, skim around in Summit, and even peek into the <url href="https://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/">archives</url>, but the only thing you can find is a couple of articles published in <pubtitle>The Trail</pubtitle> in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the Collins search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
+    <!-- This provides resources for learning more about religious inclusivity -->
+    <school-custom type="religion-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/religion/">Religious Studies</url> would be a good way to continue learning, as would getting involved in programs and clubs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <!-- This list item provides info on getting help with research -->
+    <school-custom type="research-help">There are people whose job it is to help you make the best out of your research paper<mdash/>use them! The <url href="http://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/services/borrowing/student-manual/learningcommons">liaison librarians</url> and <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> love when students ask them for help. All of their contact information is available on the <url href="http://library.pugetsound.edu">library website</url>, so you can call or email them to make an appointment or ask a question. The <url href="http://research.pugetsound.edu/peerresearch">peer research advisor</url> also has drop-in hours in the library after normal business hours, so you can still get help later in the evening. In addition, Collins Memorial Library participates in a <url href="http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&amp;page=frame&amp;institution=13202&amp;type=2&amp;language=1">24/7 chat service</url> that is staffed by librarians around the world. Whether you're just starting to think of a topic or nearing the end of your process, the librarians and peer research advisor can get you the help you need.</school-custom>
+    <!-- An example of agreement with -S endings -->
+    <school-custom type="s-ending-1">The RDG members dance across the stage.</school-custom>
+    <!-- A second example of agreement with -S endings -->
+    <school-custom type="s-ending-2">I'm going to Metropolitan Market with my friend, Keegan. They promise to split a Cookie with me.</school-custom>
+    <!-- This provides resources for learning more about SAE and linguistic diversity -->
+    <school-custom type="SAE-resources">Taking an English course on the history of English, or courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/african-american-studies/">African American Studies</url> (<init>AFAM</init>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/asian-studies/">Asian Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/hispanic-studies/">Hispanic Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latin-american-studies/">Latin American Studies </url> (<init>LAS</init>), and <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latino-studies/"> Latino/a Studies</url> would be a good way to continue learning, as would getting involved in the Race and Pedagogy Institute (<init>RPI</init>) or in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <!-- The science building or one of the science buildings on campus -->
+    <school-custom type="science-hall">Thompson</school-custom>
+     <!-- Any special term for disease passed around on campus, generic version will do if this doesn't exist -->
+    <school-custom type="sickness">the Puget Plague</school-custom>
+    <!-- This section provides resources for students interested in learning more about socioeconomic inclusivity -->
+    <school-custom type="socioeconomic-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/soan/">Sociology and Anthropology</url> (<acro>SOAN</acro>) or Social <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/psychology/">Psychology</url> would be a good way to continue learning, as would getting involved in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>)</school-custom>
+    <!-- Name of state where college is located -->
+    <school-custom type="state">Washington</school-custom>
+    <!-- Name of student body or student government organization, can be acronym -->
     <school-custom type="student-government"><init>ASUPS</init></school-custom>
+    <!-- This mentions a specific incident of antisemitism at the University of Puget Sound. Generic version mentions less specific discrimination -->
+    <school-custom type="subtle-antisemitism">More subtle forms of discrimination are also ongoing: at the University of Puget Sound not only has anti-Semitic graffiti been found on campus as recently as Spring of 2018, but members of the University of Puget Sound Jewish Student Union described in an interview how campus members continue to make assumptions about them, such as that they eat kosher, speak Hebrew, attend a synagogue, or are good with money, because of their Jewish identity.</school-custom>
+    <!-- Name of tutoring center, full -->
+    <school-custom type="tutoring-center">Center for Writing, Learning, and Teaching</school-custom>
+    <!-- Name of tutoring center, short -->
+    <school-custom type="tutoring-center-acronym"><init>CWLT</init></school-custom>
+    <!-- Tutoring center name as active link, can use full name or acronym -->
+    <school-custom type="tutoring-center-url"><url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/"><init>CWLT</init></url></school-custom>
+     <!-- Phone number for the tutoring center -->
+    <school-custom type="tutoring-center-phone">(253)879-3404</school-custom>
+    <!-- Room number or location of tutoring center -->
+    <school-custom type="tutoring-center-rm">Howarth 109</school-custom>
+     <!-- One of the school's Ultimate Frisbee teams -->
+    <school-custom type="ultimate-team">The Postmen</school-custom>
+    <!-- An example of an unclear split infinitive. Has some formatting, other schools should use generic unless pretext-savvy.-->
+    <school-custom type="unclear-split-infinitive"><example>
+                    <title>Unclear Split Infinitive: Puget Sound Outdoors</title>
+                    <p>
+                        <dl>
+                            <li>
+                                <title>Clear</title>
+                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to check</un> their gear <em>carefully and thoroughly</em>.</q> [infinitive intact]</p>
+                            </li>
+                            <li>
+                                <title>Confusing</title>
+                                <p><q>Before the hiking trip, the <init>PSO</init> members had <un s="1">to</un> <em>carefully and thoroughly</em> <un s="1">check</un> their gear.</q> [infinitive <q>to check</q> is split by the modifier <q>carefully and thoroughly,</q> which makes the sentence awkward]</p>
+                            </li>
+                        </dl>
+                    </p>
+                </example></school-custom>
+    <!-- University name acronym -->
+    <school-custom type="university-name-acro"><init>UPS</init></school-custom>
+    <!-- Full formal university name. Often used with "the" in front. -->
+    <school-custom type="university-name-full">University of Puget Sound</school-custom>
+    <!-- Shorter version of university name, if desired; often used as an adjective ie. Puget Sound education, Puget Sound community. Often used without "the" in front. -->
+    <school-custom type="university-name-short">Puget Sound</school-custom>
+    <!-- Name of University newspaper, put in pubtitle tag -->
+    <school-custom type="university-newspaper"><pubtitle>The Trail</pubtitle></school-custom>
+    <!-- Current president of the university -->
+    <school-custom type="university-president">President Crawford</school-custom>
+    <!-- This references the university virtual desktop system, could be left out or replaced -->
+    <school-custom type="vdesk"><mdash/>as well as your own personal Puget Sound account at <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/student-technology-resources/network-storage/">vDesk</url></school-custom>
+    <!-- This section of a paragraph suggests resources for students looking to learn more about issues related to writing with awareness. -->
+    <school-custom type="waw-resources">Looking for courses that fulfill the <url href="https://www.pugetsound.edu/academics/curriculum-courses/knowledge-identity-and-power">Knowledge, Identity, and Power</url> (<acro>KNOW</acro>) graduation requirement is another good way to find relevant courses. Get involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs offered through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
+    <!-- This image references UPS study spots and should be removed from generic version -->
+    <school-custom type="wp-chalkboard-image"><image source="images/WP-ChalkboardTip"/></school-custom>
+     <!-- Name of writing tutors offered through the university. Capitalized. -->
+    <school-custom type="writing-tutor">Writing Advisor</school-custom>
+    <!-- This sentence from chapter two mentions UPS professors specifically -->
+    <school-custom type="yay-professors">Professors, especially those at Puget Sound, sincerely want you to succeed.</school-custom>
+    <!-- This references Zotero availability and info specific to UPS -->
+    <school-custom type="zotero-resources">You can find all of the necessary information on the <url href="http://research.pugetsound.edu/c.php?g=304401&amp;p=2032250">Collins Library website</url></school-custom>
 </school-customizations>
