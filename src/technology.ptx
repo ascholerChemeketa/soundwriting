@@ -128,19 +128,19 @@
             <title>Formatting Reference Lists, Bibliographies, and Works Cited</title>
             <p>Whether you are writing using <init>APA</init>, Chicago, or <init>MLA</init> citation style, you will most likely be required to include a reference list, bibliography, or works cited (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations"/> and <xref ref="zotero"/> for some very helpful tricks), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
             <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create a reference list, bibliography, or works cited page using hanging indents, begin with centering a References (or Bibliography or Works Cited, depending on what citation style you're using) title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced in <init>APA</init> and <init>MLA</init> and single-spaced with a blank line after each entry in Chicago).</p>
-            <sidebyside width="100%">
+            <sidebyside width="60%">
                 <image source="images/tech-72.png"/>
             </sidebyside>
             <p>Next, place your cursor at the very beginning of the second line of your citation, right-click, and select the <q>Paragraph</q> option.</p>
-            <sidebyside width="100%">
+            <sidebyside width="60%">
                 <image source="images/tech-73.png"/>
             </sidebyside>
             <p>In the <q>Indentations</q> category, change the <q>Special:</q> option to <q>Hanging.</q> When you do this, the <q>By:</q> should automatically change to 0.5" (and if it doesn't, increase it to 0.5"). Click <q>OK</q><nbsp/><ellipsis/></p>
-            <sidebyside width="100%">
+            <sidebyside width="60%">
                 <image source="images/tech-74.png"/>
             </sidebyside>
             <p><ellipsis/><nbsp/>and your source magically scoots over half an inch, creating a hanging indent!!</p>
-            <sidebyside width="100%">
+            <sidebyside width="60%">
                 <image source="images/tech-75.png"/>
             </sidebyside>
             <p>But what's really nice about this feature is that you only need to set a hanging indent for the first citation; all subsequent citations will automatically indent over to mirror the hanging indent of Source A.</p>
@@ -191,7 +191,7 @@
                 <title><init>APA</init></title>
                 <p><init>APA</init>-style cover pages require your title, name, university affiliation, an author note, a page number, and a header that runs along the top of every page of the document. Generally this running header provides a short synopsis of the topic of your paper (but does not exactly copy your title).</p>
                 <p>To begin, place your double-spaced title, name, and university affiliation about one-third of the way down the page. If an author's note is required, place this about two-thirds of the way down (and centered). An author's note includes the departmental and institutional information of the student, any grants or funding associated with the project, and contact information by which to contact them.</p>
-                <sidebyside width="100%">
+                <sidebyside width="60%">
                     <image source="images/tech-32.png"/>
                 </sidebyside>
                 <p>To add the page number and running header, select the <q>Insert</q> tab, click <q>Page Number,</q> <q>Top of Page,</q> and <q>Plain Number 3.</q></p>
@@ -199,7 +199,7 @@
                     <image source="images/tech-33.png"/>
                 </sidebyside>
                 <p>Next, you can add your running header in front of the page number by writing <q>Running head: TITLE.</q> To right-justify your running header, hit the <q>tab</q> key once. Keep in mind that your running header should not be more than 50 characters long.</p>
-                <sidebyside width="100%">
+                <sidebyside width="60%">
                     <image source="images/tech-34.png"/>
                 </sidebyside>
                 <p>Next, keeping your cursor on the header you just created, uncheck the <q>Different First Page</q> box in the <q>Design</q> tab. This will allow you to delete the term <q>Running head:</q> on subsequent pages.</p>
@@ -212,14 +212,14 @@
             <paragraphs>
                 <title>Chicago</title>
                 <p>For a Chicago-style cover page, your title, name, course name and number, and assignment due date are single-spaced. You do not need to add your professor's name (although doing so likely would not hurt). Your title is centered one-third of the way down the page; if it has a subtitle, separate it with a colon and place the subtitle on the next line. Your name, course name/number, and due date should all go about two-thirds of the way down and should be single-spaced.</p>
-                <sidebyside width="100%">
+                <sidebyside width="60%">
                     <image source="images/tech-38.png"/>
                 </sidebyside>
             </paragraphs>
             <paragraphs>
                 <title><init>MLA</init></title>
                 <p>To add an <init>MLA</init>-style cover page, simply shift down until your paper begins on the second page of the document (if you click <q>Different First Page</q> using the guidelines above for the <init>APA</init> cover page, a page number will not appear on this first page). Include your double-spaced title about one-third of the way down the page, followed by your name, course name and number, professor name, and due date about two-thirds of the way down (all double-spaced).</p>
-                <sidebyside width="100%">
+                <sidebyside width="60%">
                     <image source="images/tech-31.png"/>
                 </sidebyside>
             </paragraphs>
@@ -296,7 +296,7 @@
                 <image source="images/Zotero_03_edited.png"/>
             </sidebyside>
             <p>You'll have to select what style of citation you want:</p>
-            <sidebyside width="100%">
+            <sidebyside width="60%">
                 <image source="images/Zotero_04_unedited.png"/>
             </sidebyside>
             <p>And then search for the source you want to cite!</p>
