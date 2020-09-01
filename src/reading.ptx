@@ -102,9 +102,10 @@
         <subsection xml:id="reading-types-active">
             <title>Active Reading</title>
             <p><alert>All reading you do should be active reading!</alert> In order to read critically, you must read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <pubtitle>The Odyssey</pubtitle> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing marginal notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
-            <sidebyside width="50%">
-                <image source="images/HR-ActiveReading"/>
-            </sidebyside>
+            <!-- This image is missing, uncomment these lines after replaced -->
+            <!-- <sidebyside width="50%"> -->
+             <!--   <image source="images/HR-ActiveReading"/> -->
+            <!-- </sidebyside> -->
             <p>You might be muttering to yourself, <q>But reading is enough work!</q> But know that active reading helps you understand and remember what a text says the first time you read it, so you don't have to waste your time reading the same paragraph over and over again. Plus, having a pen in your hand as you read makes it easier for you to write funny comments in the margins as you get frustrated (we all do it). Just be careful not to fall asleep with your pen uncapped. <ellipsis/></p>
         </subsection>
         <subsection xml:id="reading-types-critical">

@@ -262,10 +262,11 @@
                 </ul>
             </p>
             <p>Remember to include only research that appropriately showcases your qualifications for the job to which you are applying. Like your past experiences section, keep the bullet-point descriptions of your research simple and to a minimum.</p>
-        <sidebyside width="50%">
-            <image source="images/independentresearch.png"/>
-        </sidebyside>
-        <paragraphs xml:id="par-genres-resume-relevant-skills">
+        <!-- This image is missing, can be put back in when replaced -->
+      <!-- <sidebyside width="50%"> -->
+      <!--     <image source="images/independentresearch.png"/> -->
+      <!-- </sidebyside> -->
+       <paragraphs xml:id="par-genres-resume-relevant-skills">
             <title>Relevant Skills</title>
             <p>Many resumes have a relevant skills section that allows potential employers (or a computerized application tracking system) to easily scan your abilities and qualifications. It offers a list of terms for skills that you have accumulated and gained proficiency in during your work/research experiences and that you will likely utilize in the position to which you are applying. It can include more umbrella terms like <q>public speaking</q> or <q>presentation experience</q> as well as more specific names for particular programs or techniques, such as <q>R- statistical programs</q> or <q>Microsoft Excel.</q> You can include as many skills as you like, but limit yourself to only those skills that are relevant to the specific job. Bold those skills that are more pertinent than others, and use two-column formatting to save space.</p>
             <sidebyside width="50%">
