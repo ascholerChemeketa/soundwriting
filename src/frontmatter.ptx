@@ -71,7 +71,8 @@
         </credit>
     </titlepage>
     <colophon>
-        <edition>Annual Edition 2020</edition>
+        <!-- the "today" element can be temporarily hard-coded as desired date -->
+        <edition>Annual Edition 2020, <custom item="version-name"/> Version (Printing: <today/>)</edition>
         <copyright>
             <year>2019</year>
             <holder>Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph</holder>

@@ -329,6 +329,8 @@ Library website</url></school-custom>
     <school-custom type="university-president">President Crawford</school-custom>
     <!-- This references the university virtual desktop system, could be left out or replaced -->
     <school-custom type="vdesk"><mdash/>as well as your own personal Puget Sound account at <url href="https://www.pugetsound.edu/about/offices-services/technology-services/help-support/student-technology-resources/network-storage/">vDesk</url></school-custom>
+    <!-- Used on "copyright" page to indicate version, likely university short name -->
+    <school-custom type="version-name">Puget Sound</school-custom>
     <!-- This section of a paragraph suggests resources for students looking to learn more about issues related to writing with awareness. -->
     <school-custom type="waw-resources">Looking for courses that fulfill the <url href="https://www.pugetsound.edu/academics/curriculum-courses/knowledge-identity-and-power">Knowledge, Identity, and Power</url> (<acro>KNOW</acro>) graduation requirement is another good way to find relevant courses. Get involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs offered through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
     <!-- This image references UPS study spots and should be removed from generic version -->
