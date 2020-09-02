@@ -22,6 +22,9 @@ declare SOURCE=${SRC}/src
 declare IMAGES=${SOURCE}/images
 declare CSS=${SRC}/css
 declare ASSETS=${SRC}/assets
+declare UPS=pugetsound
+declare UNIV=generic
+
 
 # convenience for rsync command, hopefully not OS dependent
 # INCLUDES  --delete  switch at end.
@@ -31,6 +34,11 @@ declare RSYNC="rsync --verbose  --progress --stats --compress --rsh=/usr/bin/ssh
 
 # website upload parameterized by username
 declare UNAME="$2"
+
+# useful date string
+# http://stackoverflow.com/questions/1401482
+declare DATE=`date +%Y-%m-%d`
+
 
 # Common setup
 function setup {
@@ -60,8 +68,8 @@ function build_you_tube_thumbnail {
 
 function setup_pdf {
     echo
-    echo "BUILD: Building PDF Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    echo "BUILD: Preparing for a PDF Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${SCRATCH}/pdf # Create the pdf scratch directory
     rm -rf ${SCRATCH}/pdf/*.aux ${SCRATCH}/pdf/*.log ${SCRATCH}/pdf/*.tex ${SCRATCH}/pdf/*.toc # Clear the pdf scratch directory
     install -d ${SCRATCH}/pdf/images # Create pdf images directory
@@ -127,58 +135,84 @@ function view_errors {
     Less ${SCRATCH}/errors.txt
 }
 
-# Subroutine to build the HTML version
-function build_html {
+# Subroutine to build the Puget Sound HTML version
+function build_htmlups {
     echo
-    echo "BUILD: Building HTML Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    echo "BUILD: Building Puget Sound HTML Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
     cd ${SCRATCH}/html
     rm *.html *.css
-    rm -rf knowl/* images/*
+    rm -rf knowl/* images/* ${SCRATCH}/htmlups
     cp -a ${IMAGES}/*.svg ./images/
     cp -a ${IMAGES}/*.png ./images/
-    xsltproc --stringparam school ${SCHOOL} --stringparam publisher publication.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --stringparam school ${UPS} --stringparam publisher publication-pugetsound.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
+    mv ../html/ ../htmlups
 }
 
-function view_html {
-    ${HTMLVIEWER} ${SCRATCH}/html/index.html
+function view_htmlups {
+    ${HTMLVIEWER} ${SCRATCH}/htmlups/index.html
+}
+
+# Subroutine to build the Universal HTML version
+function build_htmluniversal {
+    echo
+    echo "BUILD: Building Universal HTML Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
+    cd ${SCRATCH}/html
+    rm *.html *.css
+    rm -rf knowl/* images/* ${SCRATCH}/htmluniversal
+    cp -a ${IMAGES}/*.svg ./images/
+    cp -a ${IMAGES}/*.png ./images/
+    xsltproc --stringparam school ${UNIV} --stringparam publisher publication-universal.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
+    mv ../html/ ../htmluniversal
+}
+
+function view_htmluniversal {
+    ${HTMLVIEWER} ${SCRATCH}/htmluniversal/index.html
+}
+
+# Subroutine to build the electronic PDF version, styled in color
+function build_pdfups {
+    echo
+    echo "BUILD: Building UPS PDF Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    xsltproc --xinclude --stringparam school ${UPS} -o soundwriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
+    xelatex soundwriting.tex
+    xelatex soundwriting.tex
+    mv soundwriting.pdf ${SCRATCH}/soundwriting-${DATE}-pugetsound.pdf
+}
+
+function view_pdfups {
+    ${PDFVIEWER} ${SCRATCH}/soundwriting-${DATE}-pugetsound.pdf &
 }
 
 # Subroutine to build the electronic PDF version
-function build_pdf {
-    xsltproc --xinclude --stringparam school ${SCHOOL} --stringparam latex.sides one -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+function build_pdfuniversal {
+    echo
+    echo "BUILD: Building Universal PDF Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    xsltproc --xinclude --stringparam school ${UNIV} -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
-    mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic.pdf
+    mv SoundWriting.pdf ${SCRATCH}/soundwriting-${DATE}-universal.pdf
 }
 
-function view_pdf {
-    ${PDFVIEWER} ${SCRATCH}/SoundWriting-electronic.pdf &
+function view_pdfuniversal {
+    ${PDFVIEWER} ${SCRATCH}/soundwriting-${DATE}-universal.pdf &
 }
 
 # Subroutine to build the print PDF version
 function build_print {
-    xsltproc --xinclude --stringparam school ${SCHOOL} --stringparam latex.print yes --stringparam latex.sides two -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam school ${UPS} --stringparam latex.print yes -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
-    mv SoundWriting.pdf ${SCRATCH}/SoundWriting-print.pdf
+    mv SoundWriting.pdf ${SCRATCH}/soundwriting-print.pdf
 }
 
 function view_print {
-    ${PDFVIEWER} ${SCRATCH}/SoundWriting-print.pdf &
-}
-
-# Subroutine to build the electronic PDF version, styled in color
-function build_pdf_styled {
-    xsltproc --xinclude --stringparam school ${SCHOOL} --stringparam latex.print yes -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
-    xelatex SoundWriting.tex
-    xelatex SoundWriting.tex
-    mv SoundWriting.pdf ${SCRATCH}/SoundWriting-electronic-styled.pdf
-}
-
-function view_pdf_styled {
-    ${PDFVIEWER} ${SCRATCH}/SoundWriting-electronic-styled.pdf &
+    ${PDFVIEWER} ${SCRATCH}/soundwriting-print.pdf &
 }
 
 # Check to make sure we have a username
@@ -208,37 +242,46 @@ function website {
 case "$1" in
     "all")
     setup
-    build_html
+    build_htmlups
+    build_htmluniversal
     setup_pdf
-    build_pdf
+    build_pdfups
+    build_pdfuniversal
     setup_print
     build_print
     ;;
     "youtube")
     build_you_tube_thumbnail
     ;;
-    "html")
+    "htmlups")
     setup
-    build_html
+    build_htmlups
     ;;
-    "viewhtml")
-    view_html
+    "viewhtmlups")
+    view_htmlups
     ;;
-    "pdf")
+    "htmluniversal")
+    setup
+    build_htmluniversal
+    ;;
+    "viewhtmluniversal")
+    view_htmluniversal
+    ;;
+    "pdfuniversal")
     setup
     setup_pdf
-    build_pdf
+    build_pdfuniversal
     ;;
-    "viewpdf")
-    view_pdf
+    "viewpdfuniversal")
+    view_pdfuniversal
     ;;
-    "pdfstyled")
+    "pdfups")
     setup
     setup_pdf
-    build_pdf_styled
+    build_pdfups
     ;;
-    "viewpdfstyled")
-    view_pdf_styled
+    "viewpdfups")
+    view_pdfups
     ;;
     "print")
     setup
@@ -263,6 +306,6 @@ case "$1" in
     website
     ;;
     *)
-    echo "Supply an option: all|html|viewhtml|pdf|viewpdf|print|viewprint|pdfstyled|viewpdfstyled|validate|viewerrors|website <username>"
+    echo "Supply an option: all|htmlups|viewhtmlups|htmluniversal|viewhtmluniversal|pdfuniversal|viewpdfuniversal|pdfups|viewpdfups|print|viewprint|validate|viewerrors|website <username>"
     ;;
 esac

@@ -16,19 +16,15 @@
 #
 # 3. SCRATCH is a working directory where the output lands
 #
-# 4. SCHOOL determines localization, e.g "pugetsound"
-#    will lead to consulting localizations/pugetsound.ptx
+# 4. VIEWERs are executable programs to view indicated file type
 #
-# 5. VIEWERs are executable programs to view indicated file type
-#
-# 6. Remove "do not edit warning" and editing instructions,
+# 5. Remove "do not edit warning" and editing instructions,
 #    leaving first line of comments only
 
 
 declare MBX=/home/...../mathbook
 declare SRC=/home/...../soundwriting
 declare SCRATCH=/tmp/sw
-declare SCHOOL=generic
 declare PDFVIEWER=
 declare HTMLVIEWER=
 declare JINGTRANG=/home/...../jing-trang/build
