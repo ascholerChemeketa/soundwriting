@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- This file is part of the book                                      -->
+<!--                                                                    -->
+<!--                 Sound Writing                                      -->
+<!--                                                                    -->
+<!-- Copyright (C) 2017-2019 by                                         -->
+<!-- Cody Chun, Kieran O'Neil, Kylie Young, Julie Nelson Christoph      -->
+<!--                                                                    -->
+<!-- Creative Commons Attribution-ShareAlike 4.0 International License  -->
+<!--                                                                    -->
+<!-- Source:  https://github.com/UPS-CWLT/soundwriting                  -->
+<!--                                                                    -->
+
+<publication>
+
+    <!-- HTML-Specific Options -->
+    <html>
+        <!-- Custom CSS (developed by Oscar Levin, David Farmer)   -->
+        <!-- Also, a UPS color option (David Farmer)               -->
+        <css style="soundwriting" colors="blue_grey"/>
+        <!-- Google search, via masthead textbox is switched on    -->
+        <!-- and associated with a Google account via CX number    -->
+        <search google-cx="006554281949096578650:uk_1tz_o6ey"/>
+    </html>
+
+</publication>
