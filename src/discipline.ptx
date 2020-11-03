@@ -701,4 +701,47 @@
         	</ul></p>
         </paragraphs>
     </section>
+    <section xml:id="writing-for-geology">
+				<title>Writing for Geology</title>
+				<p>While you may imagine geologists as a bunch of dirty scientists looking at rocks through hand lenses, geology, like every science, is all about storytelling and communication. Learning to write well for your geology classes will help you succeed in the field and convey your understanding of complex concepts. Read this guide to learn the key aspects of writing in geology!</p>
+				<note>
+            	<p>Unless otherwise stated, all italicized quotes throughout this section are excerpted from the interview with <init>AFAM</init> faculty members at the University of Puget Sound that informed this section.</p>
+        		</note>
+        		<paragraphs>
+        			<title>Genres</title>
+        			<p>Almost all writing for geology is technical scientific writing, but the form varies in different classes and assignments. Writing in class may be single-authored or collaborative. Most geological researchers publish collaboratively these days, so take advantage of your opportunities to learn collaborative writing skills! The audience can also vary: some pieces of writing should be accessible to a broad audience, while others are written for other geologists specifically. If you aren’t sure, ask your professor. </p>
+        			<p>Many assignments will ask you to engage with primary literature. Literature review papers require you to survey relevant literature on a specific topic, summarize papers, and then <em>synthesize</em> how papers interact to draw conclusions about the field. Shorter article review assignments will also require synthesis and analysis, but of just one journal article. In upper-division classes you may also write National Science Foundation-style grant proposals, where you review literature in the field and then use it to propose a novel research project.</p>
+        			<p>Some writing assignments will also be sharing research that you did yourself. These could be as short as writing a results section based on a lab exercise or as long as a full journal-article-style piece about summer research. Along with grant proposals, articles disseminating new research are the most common form of writing for academic professionals in the field.</p>
+        		</paragraphs>
+        		<paragraphs>
+        			<title>Purpose</title>
+        			<p><q><em>Even hardcore geochemistry can be made accessible by establishing context... remember that you are telling a story about Earth's history.</em></q></p>
+        			<p>The purpose of most writing for your geology class is to convey your understanding of knowledge in the field and refine technical writing skills you’ll use as a geologist. For lab or research writing, you are also presenting new information in the context of existing literature. Using your writing to make connections with literature is critical. Professional academic geologists write to disseminate their research and put it in the context of larger inquiries in the field.</p>
+        		</paragraphs>
+        		<paragraphs>
+        			<title>Valued Characteristics</title>
+        			<p><q><em>Focus on clarity in your technical or scientific writing since often what you're trying to convey is potentially very complicated or confusing.</em></q></p>
+        			<p>Like all scientists, geologists value clarity and concision. Work to master the skill of distilling potentially confusing concepts into words that make sense to any reader! This won’t always be easy; be sure to have others read over your work. Use headings and sections to make longer papers more approachable to the reader.</p>
+        			<p>Using primary literature appropriately is very important (see next section). Make connections between the work you’re doing and the literature, or between different articles that you read. This synthesis is really important: how does literature in the field build or contradict? How have methods or core research topics changed over time? What conclusions about your topic does this lead to? Finally, remember that science is storytelling! Be sure to zoom out and connect your work to the big picture of our planet’s past and present.</p>
+        		</paragraphs>
+        		<paragraphs>
+        			<title>Evidence</title>
+        			<p><q><em>Find the original source, even if that means going back to 1927.</em></q></p>
+        			<p>Valid evidence for geology writing is usually peer-reviewed journal articles or data you collected in a lab or research project. When you cite data, it’s important that it was collected with up-to-date technology and methodology. Remember that any statement of fact you make needs to be cited! This gives credibility to your statements in addition to not being plagiarism.</p>
+        			<p>Looking through the literature thoroughly is key, especially for grant proposals or lit review assignments. Search for any important original landmark papers on the topic you’re researching, even if they’re old. Then, look over all articles from the last ten years or so and all the most frequently cited articles from the last twenty years. These exact date ranges may vary for different topics, but your professor will be able to tell if you actually reviewed the literature or picked the first studies you could find at random. Additionally, if you’re going to cite a piece of information, use reference sections to find where it originally came from. Don’t cite a 2004 study for a piece of data that has been recycled 5 times and actually comes from 1955! If a fact is presented in the introduction, it usually came from somewhere else (again, you can use the references to find it). </p>
+        		</paragraphs>
+        		<paragraphs>
+        			<title>Conventions and Tips</title>
+        			<p><ul>
+        				<li><p>Conventions about using active or passive voice and first or third person can vary depending on what you’re writing about; ask your professor if you don’t know!</p></li>
+        				<li><p>Journal articles and lab reports have the same standard sections as other sciences: intro, methods, results, discussion, and conclusions. However, not every assignment will ask you for all of these sections.</p></li>
+        				<li><p>Geology uses APA styling and citations (see <xref ref="citations"/>).</p></li>
+        			</ul>
+        		</p>
+        	</paragraphs>
+        	<paragraphs>
+        		<title>Additional Resources</title>
+        		<p>Books for writing in other sciences can be useful resources, like <pubtitle>A Student Handbook for Writing in Biology</pubtitle> by Karin Knisely and <pubtitle>A Scientist’s Guide to Writing</pubtitle> by Stephen B. Heard. For grant proposals, use the <url href="https://www.nsf.gov/pubs/1998/nsf9891/nsf9891.htm">National Science Foundation guide</url> and examples for ideas.</p>
+        	</paragraphs>
+        </section>
 </chapter>
