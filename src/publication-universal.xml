@@ -22,6 +22,9 @@
         <!-- Google search, via masthead textbox is switched on    -->
         <!-- and associated with a Google account via CX number    -->
         <search google-cx="492cf73dc05bad674"/>
+        <!-- ID numbers for analytics services            -->
+        <!-- Do not use these numbers for other projects! -->
+        <analytics statcounter-project="12421811" statcounter-security="aca7d284" google-gst="G-LRFLZFQHP3"/>
     </html>
 
 </publication>
