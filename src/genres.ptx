@@ -18,9 +18,7 @@
     <section xml:id="email-etiquette">
         <title>Writing Emails</title>
         <p>Emailing faculty, staff, and off-campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. But formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply (see <xref ref="talking-to-profs"/>). Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
-        <sidebyside width="50%">
-            <image source="images/genres-dear-professor"/>
-        </sidebyside>
+            <image source="images/genres-dear-professor" width="50%"/>
             <paragraphs xml:id="par-genres-email-greetings">
                 <title>Greetings</title>
                 <p>(from most formal to least)
@@ -60,9 +58,7 @@
                 </ul>
             </p>
         </paragraphs>
-        <sidebyside width="50%">
-            <image source="images/genres-greetings"/>
-        </sidebyside>
+            <image source="images/genres-greetings" width="50%"/>
             <list xml:id="list-genres-email-responses">
                 <title>Strategies for Responding to Emails</title>
                 <ul>
@@ -88,9 +84,7 @@
             <title>What is a Personal Statement?</title>
             <p>A personal statement is just that<mdash/>a statement about you! While that sounds simple, writing about yourself in a succinct, honest, humble, and articulate way can actually be some of the most difficult writing you will do. Personal statements are generally written for graduate or professional school applications and include a narrative-style account of your professional interests, intellectual strengths, and any other background information that highlights your ambitions and qualifications for that program. Personal statements will likely be read quickly by admissions committee members who are also reading a slew of other applications, so consider the statement as a personal story that highlights a few important and (ideally) distinctive aspects about yourself rather than a mere list of your academic merits and accomplishments. Nonetheless, remember that because your personal statement will likely respond to a question specific to that application, it's important to organize and articulate your statement accordingly.</p>
         </paragraphs>
-        <sidebyside width="50%">
-            <image source="images/whoami.png"/>
-        </sidebyside>
+            <image source="images/whoami.png" width="50%"/>
         <convention>
             <title>Writing Personal Statements</title>
             <p>
@@ -129,9 +123,7 @@
         <paragraphs xml:id="par-genres-cover-letter">
             <title>What is a Cover Letter?</title>
             <p>Chances are, if you are applying for a job or internship, you will be required to write a cover letter. Cover letters are short, one-page letters in which you introduce yourself, identify which position you are applying for, and explain why you are interested in and qualified for that position. Cover letters can be a crucial part of an application because in many cases it is the one place where you will be able to present yourself as a person rather than just a list of past experiences and jobs (as is the case with your resume). A cover letter will be among the first things a potential employer will read, so it's important to put some time and effort into the crafting of your cover letter.</p>
-            <sidebyside width="50%">
-                <image source="images/pleasehire.png"/>
-            </sidebyside>
+                <image source="images/pleasehire.png" width="50%"/>
         </paragraphs>
         <paragraphs xml:id="par-genres-address">
             <title>Address</title>
@@ -153,9 +145,7 @@
             </p>
         </paragraphs>
         <p>Here's an example of how all of the above fits together:</p>
-        <sidebyside width="50%">
-            <image source="images/coverletter.png"/>
-        </sidebyside>
+            <image source="images/coverletter.png" width="50%"/>
         <paragraphs xml:id="par-genres-body">
             <title>Body</title>
             <p>When writing the body of your cover letter, don't beat around the bush. Be clear, concise, and straightforward about why you're writing and how you meet their qualifications. The body of your cover letter should generally be about three to four (short) paragraphs long, so you don't have time to be flowery.</p>
@@ -175,9 +165,7 @@
         <paragraphs xml:id="par-genres-closing">
             <title>Closing</title>
             <p>Closings for cover letters should be formal. <q>Sincerely</q> and <q>Thank you</q> are good go-to closings. Below this, sign your full name in ink (if you can), with your name typed below the signature.</p>
-            <sidebyside width="50%">
-                <image source="images/sincerely.png"/>
-            </sidebyside>
+                <image source="images/sincerely.png" width="50%"/>
         </paragraphs>
         <list xml:id="list-genres-cover-letter-tips">
             <title>Strategies for Writing Cover Letters</title>
@@ -209,9 +197,7 @@
         <paragraphs xml:id="par-genres-resume">
             <title>What is a Resume?</title>
             <p>A resume is a list of your education history, past employment, professional skills/knowledge, and any other qualifications that are relevant to the job to which you are applying. Even if you are applying for many jobs within a similar field, you will likely need to revise your resume for every job application you submit (for instance, if you are applying for a computer tech position, you probably wouldn't include your cat-sitting experience). However, there are some basic things you need to include in every resume to make it as strong as possible.</p>
-            <sidebyside width="50%">
-                <image source="images/awesomeresume.png"/>
-            </sidebyside>
+                <image source="images/awesomeresume.png" width="50%"/>
         </paragraphs>
         <paragraphs xml:id="par-genres-resume-contact">
             <title>Contact</title>
@@ -226,15 +212,11 @@
                 </ul>
             </p>
         </paragraphs>
-        <sidebyside width="50%">
-            <image source="images/contactinfo.png"/>
-        </sidebyside>
+            <image source="images/contactinfo.png" width="50%"/>
         <paragraphs xml:id="par-genres-resume-education">
             <title>Education</title>
             <p>In the education section, include your degree, graduation month and year, where you went to college/university, your GPA, awards won (month and year), and relevant cocurricular activities (include date range, or month and year). Remember to list only those awards and activities that may be relevant to the job application.</p>
-            <sidebyside width="50%">
-                <image source="images/education.png"/>
-            </sidebyside>
+                <image source="images/education.png" width="50%"/>
         </paragraphs>
         <paragraphs xml:id="par-genres-resume-past-experience">
             <title>Past Relevant Experience</title>
@@ -249,9 +231,7 @@
             </p>
             <p>Keep in mind that these experiences do not necessarily need be paid employment, but should rather reflect your qualifications and accomplishments working in a relevant or related field. Use fragment bullet points to list the duties you performed in each position and try to be as specific as possible when describing these duties, limiting yourself to two to four bullet points per position. For instance, rather than <q>honed social skills</q> as a campus visit host, you could describe how you <q>greeted, engaged with, and answered questions for prospective students and their families during one-hour informational tours.</q> Try to highlight only the most important duties of a particular position and to avoid repeating similar tasks and skills; for instance, if you <q>conducted scheduling and administrative and office support</q> for multiple positions, you may want to include this only for the positions in which this was a critical part of the job. Remember that your resume should have an overarching focus but that different positions may emphasize different aspects of your qualifications.</p>
         </paragraphs>
-        <sidebyside width="50%">
-            <image source="images/relevantexperience.png"/>
-        </sidebyside>
+            <image source="images/relevantexperience.png" width="50%"/>
             <p>If you have independent research that you would like to showcase, for each research project, include the:
                 <ul>
                     <li>name of your project (bolded and in quotes)</li>
@@ -263,15 +243,11 @@
             </p>
             <p>Remember to include only research that appropriately showcases your qualifications for the job to which you are applying. Like your past experiences section, keep the bullet-point descriptions of your research simple and to a minimum.</p>
         <!-- This image is missing, can be put back in when replaced -->
-      <!-- <sidebyside width="50%"> -->
-      <!--     <image source="images/independentresearch.png"/> -->
-      <!-- </sidebyside> -->
+      <!--     <image source="images/independentresearch.png" width="50%"/> -->
        <paragraphs xml:id="par-genres-resume-relevant-skills">
             <title>Relevant Skills</title>
             <p>Many resumes have a relevant skills section that allows potential employers (or a computerized application tracking system) to easily scan your abilities and qualifications. It offers a list of terms for skills that you have accumulated and gained proficiency in during your work/research experiences and that you will likely utilize in the position to which you are applying. It can include more umbrella terms like <q>public speaking</q> or <q>presentation experience</q> as well as more specific names for particular programs or techniques, such as <q>R- statistical programs</q> or <q>Microsoft Excel.</q> You can include as many skills as you like, but limit yourself to only those skills that are relevant to the specific job. Bold those skills that are more pertinent than others, and use two-column formatting to save space.</p>
-            <sidebyside width="50%">
-                <image source="images/relevantskills.png"/>
-            </sidebyside>
+                <image source="images/relevantskills.png" width="50%"/>
         </paragraphs>
         <list xml:id="list-genres-resumes-tips">
             <title>Strategies for Writing Resumes</title>
@@ -355,9 +331,7 @@
         <paragraphs xml:id="par-genres-why-thank-you">
             <title>Why a Thank-You Note?</title>
             <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! <custom item="CES-interview"/>However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
-            <sidebyside width="50%">
-                <image source="images/thankyou.png"/>
-            </sidebyside>
+                <image source="images/thankyou.png" width="50%"/>
         </paragraphs>
         <paragraphs xml:id="par-genres-ty-include">
             <title>What to Include</title>

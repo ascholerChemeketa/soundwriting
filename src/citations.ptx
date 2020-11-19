@@ -25,7 +25,6 @@
             <title>Background</title>
             <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: <init>MLA</init> (Modern Language Association), <init>CMS</init> (Chicago Manual of Style), and <init>APA</init> (American Psychological Association).</p>
             <p>In general, here are some differences between the styles:</p>
-            <sidebyside>
                 <tabular valign="top">
                     <col halign="right"/><col/><col/><col/>
                     <row bottom="major">
@@ -72,7 +71,6 @@
                         </cell>
                     </row>
                 </tabular>
-            </sidebyside>
         </subsection>
         <subsection>
             <title>Basic Components</title>
@@ -296,9 +294,7 @@
         <subsection xml:id="book-one-author">
             <title>Citing a Book with One Author</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-BookOneAuthor"/>
-                </sidebyside>
+                    <image source="images/Citations-BookOneAuthor" width="50%"/>
             </introduction>
             <subsubsection xml:id="book-on-author-apa">
                 <title>APA</title>
@@ -329,9 +325,7 @@
         <subsection xml:id="book-with-multiple-authors">
             <title>Citing a Book With Multiple Authors</title>
                 <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-BookMultipleAuthors"/>
-                </sidebyside>
+                    <image source="images/Citations-BookMultipleAuthors" width="50%"/>
                 </introduction>
             <subsubsection xml:id="book-multiple-authors-apa">
                 <title>APA</title>
@@ -372,9 +366,7 @@
         <subsection xml:id="edition-other-than-first">
             <title>Citing an Edition Other Than the First</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-EditionOtherThanTheFirst"/>
-                </sidebyside>
+                    <image source="images/Citations-EditionOtherThanTheFirst" width="50%"/>
             </introduction>
             <subsubsection xml:id="other-edition-apa">
                 <title>APA</title>
@@ -404,9 +396,7 @@
         <subsection xml:id="chapter-edited-book">
             <title>Citing a Chapter in an Edited Book</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-ChapterInEdited"/>
-                </sidebyside>
+                    <image source="images/Citations-ChapterInEdited" width="50%"/>
             </introduction>
             <subsubsection xml:id="chapter-apa">
                 <title>APA</title>
@@ -431,9 +421,7 @@
         <subsection xml:id="book-review">
             <title>Citing a Book Review</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-BookReview"/>
-                </sidebyside>
+                    <image source="images/Citations-BookReview" width="50%"/>
             </introduction>
             <subsubsection xml:id="book-review-apa">
                 <title>APA</title>
@@ -462,9 +450,7 @@
         <subsection xml:id="print-article">
             <title>Citing a Print Journal Article</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-PrintArticle"/>
-                </sidebyside>
+                    <image source="images/Citations-PrintArticle" width="50%"/>
             </introduction>
             <subsubsection xml:id="print-journal-apa">
                 <title>APA</title>
@@ -493,9 +479,7 @@
         <subsection xml:id="print-article-online-database">
             <title>Citing a Journal Article from an Online Database</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-PrintArticleOnlineDB.png"/>
-                </sidebyside>
+                    <image source="images/Citations-PrintArticleOnlineDB.png" width="50%"/>
             </introduction>
             <subsubsection xml:id="online-journal-apa">
                 <title>APA</title>
@@ -520,9 +504,7 @@
         <subsection xml:id="website">
             <title>Citing a Website</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-Website"/>
-                </sidebyside>
+                    <image source="images/Citations-Website" width="50"/>
             </introduction>
             <subsubsection xml:id="website-apa">
                 <title>APA</title>
@@ -574,9 +556,7 @@
         <subsection xml:id="work-from-website">
             <title>Citing a Work From a Website</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-WorkFromAWebsite"/>
-                </sidebyside>
+                    <image source="images/Citations-WorkFromAWebsite" width="50%"/>
             </introduction>
             <subsubsection xml:id="work-website-apa">
                <title>APA</title>
@@ -605,9 +585,7 @@
         <subsection xml:id="online-newspaper">
             <title>Citing a Online Newspaper</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-OnlineNewspaper.png"/>
-                </sidebyside>
+                    <image source="images/Citations-OnlineNewspaper.png" width="50%"/>
             </introduction>
             <subsubsection xml:id="online-newspaper-apa">
                 <title>APA</title>
@@ -635,9 +613,7 @@
         <subsection xml:id="entry-in-encyclopedia">
             <title>Citing an Entry in an Encyclopedia</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-Encyclopedia"/>
-                </sidebyside>
+                    <image source="images/Citations-Encyclopedia" width="50%"/>
             </introduction>
             <subsubsection xml:id="encycolopedia-apa">
                 <title>APA</title>
@@ -665,9 +641,7 @@
         <subsection xml:id="lecture">
             <title>Citing a Lecture or Speech</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-Lecture"/>
-                </sidebyside>
+                    <image source="images/Citations-Lecture" width="50%"/>
             </introduction>
             <subsubsection xml:id="lecture-apa">
                 <title>APA</title>
@@ -696,9 +670,7 @@
         <subsection xml:id="film">
             <title>Citing a Film</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-Film"/>
-                </sidebyside>
+                    <image source="images/Citations-Film" width="50%"/>
             </introduction>
             <subsubsection xml:id="film-apa">
                 <title>APA</title>
@@ -726,9 +698,7 @@
         <subsection xml:id="music-performance">
             <title>Citing a Music Performance</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-MusicPerformance"/>
-                </sidebyside>
+                    <image source="images/Citations-MusicPerformance" width="50%"/>
             </introduction>
             <subsubsection xml:id="music-performance-apa">
                 <title>APA</title>
@@ -757,9 +727,7 @@
         <subsection xml:id="music-recording">
             <title>Citing a Music Recording</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-MusicRecording"/>
-                </sidebyside>
+                    <image source="images/Citations-MusicRecording" width="50%"/>
             </introduction>
             <subsubsection xml:id="music-recording-apa">
                 <title>APA</title>
@@ -787,9 +755,7 @@
         <subsection xml:id="artwork">
             <title>Citing an Artwork</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-Artwork"/>
-                </sidebyside>
+                    <image source="images/Citations-Artwork" width="50%"/>
             </introduction>
             <subsubsection xml:id="artwork-apa">
                 <title>APA</title>
@@ -828,9 +794,7 @@
         <subsection xml:id="government-document">
             <title>Citing a Government Document</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-GovernmentDoc"/>
-                </sidebyside>
+                    <image source="images/Citations-GovernmentDoc" width="50%"/>
             </introduction>
             <subsubsection xml:id="gov-doc-apa">
                 <title>APA</title>
@@ -857,9 +821,7 @@
         <subsection xml:id="graphic-novel">
             <title>Citing a Graphic Novel</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-GraphicNovel"/>
-                </sidebyside>
+                    <image source="images/Citations-GraphicNovel" width="50%"/>
             </introduction>
             <subsubsection xml:id="graphic-novel-apa">
                 <title>APA</title>
@@ -889,9 +851,7 @@
         <subsection xml:id="translation">
             <title>Citing a Translation</title>
             <introduction>
-                <sidebyside width="50%">
-                    <image source="images/Citations-Translation"/>
-                </sidebyside>
+                    <image source="images/Citations-Translation" width="50%"/>
             </introduction>
             <subsubsection xml:id="translation-apa">
                 <title>APA</title>

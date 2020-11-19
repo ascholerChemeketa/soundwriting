@@ -15,18 +15,14 @@
     <introduction>
         <p>While writing can be a difficult process, it often feels more daunting before you start than when you are actually doing it. If you are intimidated by the thought of writing (as many are), you may find reassurance in this nugget of wisdom: <em>The writing process is not just about writing!</em> In actuality, the writing process starts long before you write anything on the page and continues long after you've written your first draft. Just as developing your argument is a process, so too is translating that argument into written form. A significant portion of the writing process is composed of research, argument development, brainstorming, planning, and outlining, all of which take place before you begin composing content. And even after you've finished a draft, you may spend just as much or more time revising, editing, and changing your paper as you spent writing it. The writing process is messy, uncertain, and chock-full of switchbacks, revisions, and gaps in the road, but it can also be empowering, rewarding, and manageable if you take it one step at a time.</p>
         <p>Watch this video for several University of Puget Sound faculty perspectives on the writing process!</p>
-        <sidebyside width="70%">
-            <video youtube="XIdPNHHCee8" xml:id="video-faculty-perspectives"/>
-        </sidebyside>
+            <video youtube="XIdPNHHCee8" xml:id="video-faculty-perspectives" width="70"/>
     </introduction>
     <section xml:id="process-prewriting">
         <title>Prewriting</title>
         <subsection xml:id="brainstorming">
             <title>Brainstorming</title>
             <p>Before you begin to write, first think about how you like to think. Do you prefer talking through your ideas? Writing down everything that's going through your mind? Drawing? Mapping? There is no right or wrong way to brainstorm. Figure out what works best for you, and then use that knowledge to develop brainstorming skills that are specific to <em>you</em>.</p>
-            <sidebyside width="50%">
-                <image source="images/WP-Brain"/>
-            </sidebyside>
+                <image source="images/WP-Brain" width="50%"/>
             <list>
                 <title>Strategies for Brainstorming:</title>
                 <ul>
@@ -41,17 +37,13 @@
                     <li>Think about your topic while you are doing something else, like yoga, cooking, or reading a book for pleasure.</li>
                 </ul>
             </list>
-            <sidebyside width="50%">
-                <image source="images/WP-Yoga"/>
-            </sidebyside>
+                <image source="images/WP-Yoga" width="50%"/>
         </subsection>
         <subsection xml:id="planning">
             <title>Planning</title>
             <introduction>
                 <p>So now that you have a ton of ideas all jockeying for attention in your brain, it's time to sit down, consolidate those thoughts, and plan out what you are going to write. But before you can begin, there are a few things you'll need to address that will help make the planning process go as smoothly and productively as possible.</p>
-                <sidebyside width="50%">
-                    <image source="images/WP-Question"/>
-                </sidebyside>
+                    <image source="images/WP-Question" width="50%"/>
             </introduction>
             <subsubsection xml:id="planning-pre-planning">
                 <title>Some Planning Strategies</title>
@@ -102,9 +94,7 @@
                         </li>
                     </ul>
                 </list>
-                <sidebyside width="50%">
-                    <image source="images/WP-PlanningHead"/>
-                </sidebyside>
+                    <image source="images/WP-PlanningHead" width="50%"/>
             </subsubsection>
             <subsubsection xml:id="planning-mind-map">
                 <title>Mind Map</title>
@@ -137,9 +127,7 @@
                         </ul>
                     </p>
                 </convention>
-                <sidebyside width="50%">
-                    <image source="images/WP-Mindmap"/>
-                </sidebyside>
+                    <image source="images/WP-Mindmap" width="50%"/>
             </subsubsection>
             <subsubsection xml:id="planning-freewrite">
                 <title>Freewriting</title>
@@ -159,9 +147,7 @@
             <subsubsection xml:id="planning-draw">
                 <title>Drawing</title>
                 <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
-                <sidebyside width="50%">
-                    <custom item="wp-chalkboard-image"/>
-                </sidebyside>
+                    <custom item="wp-chalkboard-image" width="50%"/>
             </subsubsection>
         </subsection>
         <subsection xml:id="outlining">
@@ -185,23 +171,17 @@
             <subsubsection xml:id="outlining-classic">
                 <title>The Classic Outline</title>
                     <p>The <term>classic outline<idx>classic outline</idx></term> is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
-                    <sidebyside width="50%">
-                        <image source="images/WP-ClassicOutline"/>
-                    </sidebyside>
+                        <image source="images/WP-ClassicOutline" width="50%"/>
             </subsubsection>
             <subsubsection xml:id="the-bubble-map">
                 <title>The Bubble Map</title>
                 <p>The <term>bubble map<idx>bubble map</idx></term> is a great option for writers who prefer a less-structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
-                <sidebyside width="50%">
-                    <image source="images/WP-BubbleMap"/>
-                </sidebyside>
+                    <image source="images/WP-BubbleMap" width="50%"/>
             </subsubsection>
             <subsubsection xml:id="outlining-flowchart">
                 <title>The Flowchart</title>
                 <p><term>Flowcharts<idx>flowcharts</idx></term> work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
-                <sidebyside width="50%">
-                    <image source="images/WP-Flowchart"/>
-                </sidebyside>
+                    <image source="images/WP-Flowchart" width="50%"/>
             </subsubsection>
         </subsection>
     </section>
@@ -217,9 +197,7 @@
                 <paragraphs xml:id="par-intros-road-map">
                     <title>The Road Map</title>
                     <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not your audience will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience members why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
-                    <sidebyside width="50%">
-                        <image source="images/WP-RoadMap"/>
-                    </sidebyside>
+                        <image source="images/WP-RoadMap" width="50%"/>
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="introuductions-anatomy">
@@ -293,9 +271,7 @@
                         </li>
                     </ul>
                 </list>
-                <sidebyside width="50%">
-                    <image source="images/WP-AccentTree"/>
-                </sidebyside>
+                    <image source="images/WP-AccentTree" width="50%"/>
                 <example xml:id="example-process-revising-opening">
                     <title>Revising an Opening Statement</title>
                     <p>For example, you probably shouldn't start a research paper about the destruction of the Sundarbans mangrove forest with the opening statements, <q>Forests are inherently valuable to mankind</q> or <q>Mankind is destroying the Earth's natural resources.</q> Both of these statements are too broad to generate much interest and don't really indicate what the paper will be about. Consider instead the opening statement:</p>
@@ -355,9 +331,7 @@
                 <title>The Compass</title>
                 <p>If introductions are the road maps to your argument, topic sentences are the compass coordinates you are using to keep your argument on track with your thesis. For this reason, topic sentences are among the most important components of your paper. Not only do they link each paragraph to your thesis, but they keep your audience (and you) oriented to your argument. Topic sentences should typically be stated at the beginning of each new paragraph and should do two things: 1) introduce the main idea of that paragraph and 2) transition from the previous one. They don't usually include specific details or pieces of evidence (that's what the rest of the paragraph is for), but rather preface the claims you will be making. A helpful way to think about topic sentences is if you were to highlight your thesis, topic sentences, and conclusion, you would have a pretty solid outline of your argument (for more on reverse outlining, see <xref ref="reverse-outlining"/>).</p>
                 <p>There are a few different strategies for writing topic sentences. One way might be to include tentative topic sentences in your outline and start with those as you write the corresponding body paragraphs. Another strategy may be to write the body paragraph first, read it over to determine the main idea, and then write the corresponding topic sentence at the top.</p>
-            <sidebyside width="50%">
-                <image source="images/WP-ThesisCompass"/>
-            </sidebyside>
+                <image source="images/WP-ThesisCompass" width="50%"/>
             </paragraphs>
             <p>
                 Here are some example topic sentences from student papers:
@@ -410,7 +384,6 @@
                 <title>The Signposts</title>
                 <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
                 <image source="images/WP-TransitionSignpost.png" width="50%"/>
-                <sidebyside>
                     <tabular>
                         <col width="30%"/>
                         <col width="70%"/>
@@ -443,7 +416,6 @@
                             <cell><p>First, before, in order to, initially, originally, to begin, precedingly, next, then, during, currently, concurrently, at the same time, simultaneously, meanwhile, after, finally</p></cell>
                         </row>
                     </tabular>
-                </sidebyside>
             </paragraphs>
         </subsection>
         <subsection xml:id="topic-sentences-body">
@@ -480,9 +452,7 @@
                 <paragraphs xml:id="par-process-album">
                     <title>The Photo Album</title>
                     <p>When it's 1:59 a.m. in <custom item="library"/> and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
-                    <sidebyside width="50%">
-                        <image source="images/WP-ConclusionCamera"/>
-                    </sidebyside>
+                        <image source="images/WP-ConclusionCamera" width="50%"/>
                     <p>Just as the introduction is the first thing your audience will read, the conclusion will be the last thing they remember before they put your paper down. In this way, the conclusion can be conceptualized as the photo scrapbook or Facebook album containing all the images from the reader's journey, with a few new trip ideas or future destinations thrown in. For this reason, the conclusion can be a great opportunity for you to reach beyond the scope of the prompt and make connections to greater issues or concepts that were not discussed in your paper.</p>
                 </paragraphs>
             </subsubsection>
@@ -528,7 +498,7 @@
                     </ul>
                 </list>
                 <sidebyside width="50%">
-                    <image source="images/WP-ButWhy"/>
+                    <image source="images/WP-ButWhy" width="50%"/>
                 </sidebyside>
                 <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from student papers:</p>
                 <example>
@@ -548,9 +518,7 @@
         </subsection>
         <subsection xml:id="research-process-while-writing">
             <title>Researching while Writing</title>
-            <sidebyside width="50%">
-                <image source="images/research-process-not-linear"/>
-            </sidebyside>
+                <image source="images/research-process-not-linear" width="50%"/>
             <p>The process of researching, writing, and revising is not linear. You don't stop researching when you start writing, and you don't stop researching or writing when you begin revising. As was mentioned in <xref ref="forming-your-argument"/>, it is best to think of your initial thesis as a <term>working thesis<idx>working thesis</idx></term>. During your research, writing, and revising process, your argument will (and should) change based on what you read and write. You may end up writing a completely different paper than you had originally envisioned, or your final thesis may simply be a revised and refined version of your working thesis. Regardless, as you write your first draft, it is important that you don't stop doing research. How, then, does your research process evolve with your writing?</p>
             <p>Research is initially very broad. You're trying to figure out what scholarship on your topic exists and where you might contribute to the scholarly conversation regarding that topic. As you work toward a thesis, that research will become increasingly specific because you have a better idea of what kind of sources and evidence you need and what kind of background your reader will need to make sense of your argument. Figuring out when to write, when to research, and when to revise can be difficult, so below are some tips and tricks to help you determine what to do and when to do it.</p>
             <paragraphs>
@@ -593,9 +561,7 @@
                 <title>Bringing Order to the Chaos</title>
                 <p>Research can yield a lot of information (and books and browser tabs and open <init>PDF</init>s) in a short amount of time. Drowning in sources while mid draft can become stressful, so try focusing on one section of your paper, research, or argument development. You might also try finding an alternative way to save sources so you're not bombarded with articles every time you open your computer (Remember you can use a knowledge management tool like Zotero (see <xref ref="zotero"/>) to keep track of sources or a <init>PDF</init> reader like Adobe Acrobat Reader (see <xref ref="adobe-acrobat-reader"/>) to mark up your digital copies of texts).</p>
             </paragraphs>
-            <sidebyside width="50%">
-                <image source="images/WP-CutePenguin"/>
-            </sidebyside>
+                <image source="images/WP-CutePenguin" width="50%"/>
             <list>
                 <title>Strategies for Researching while Writing</title>
                 <ul>
@@ -616,18 +582,14 @@
                     </li>
                 </ul>
             </list>
-            <sidebyside width="50%">
-                <custom item="green-image"/>
-            </sidebyside>
+                <custom item="green-image" width="50%"/>
         </subsection>
     </section>
     <section xml:id="process-revising">
         <title>Revising</title>
         <introduction>
             <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the <custom item="tutoring-center"/> (<custom item="tutoring-center-acronym"/>), we focus largely on <acro>HOC</acro>s. After addressing the <acro>HOC</acro>s covered in this chapter, see <xref ref="writing-sentence-level"/> for a more in-depth overview of <acro>LOC</acro>s.</p>
-            <sidebyside width="50%">
-                <image source="images/WP-GoodThings"/>
-            </sidebyside>
+                <image source="images/WP-GoodThings" width="50%"/>
             <p>As you're revising, pay attention to these <acro>HOC</acro>s:</p>
             <paragraphs xml:id="par-revising-thesis">
                 <title>Thesis</title>
@@ -710,9 +672,7 @@
         <introduction>
             <p>Over the course of your writing process, you will inevitably run into roadblocks, get stuck, or have moments of panic. <em>These obstacles and feelings are completely normal.</em> Even the most accomplished professional and academic writers experience writer's block, anxiety, and frustration. The key to overcoming these paralyzing feelings is to develop strategies to use when they arise. As you practice these strategies, you will become better at knowing which strategy to use in order to overcome an obstacle most pleasantly and efficiently.</p>
             <p>Sometimes the hardest obstacle to overcome is just getting started. If that's where your stuck, you aren't alone! Watch this video to hear University of Puget Sound faculty talk about why getting started is so hard for them.</p>
-            <sidebyside width="70%">
-                <video youtube="-rHx-sUV5Vw" xml:id="video-faculty-getting-started"/>
-            </sidebyside>
+                <video youtube="-rHx-sUV5Vw" xml:id="video-faculty-getting-started" width="70%"/>
          </introduction>
         <subsection xml:id="what-to-do-when-you-get-stuck">
             <title>Identifying Obstacles</title>
@@ -764,9 +724,7 @@
                 </ul>
             </list>
             <p>Using your resources is important, and your professors really do want to talk to you! Watch this video for University of Puget Sound professor perspectives on asking for help.</p>
-        <sidebyside width="70%">
-            <video youtube="V8wXl9f8MKc" xml:id="video-faculty-on-help"/>
-        </sidebyside>
+            <video youtube="V8wXl9f8MKc" xml:id="video-faculty-on-help" width="70%"/>
         </subsection>
         <subsection xml:id="overcoming-managing-frustration">
             <title>Managing Frustration</title>
@@ -790,9 +748,7 @@
         </subsection>
         <subsection xml:id="overcoming-managing-time">
             <title>Meeting Deadlines</title>
-        <sidebyside width="50%">
-            <image source="images/clock"/>
-        </sidebyside>
+            <image source="images/clock" width="50%"/>
         <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). <custom item="AC-resources-deadlines"/> Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
         <p>However, you may find yourself reading this section after it is too late for a well-developed plan or <custom item="AC-appointment"/>. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
         <p>Also, especially if you’re running late due to illness or other circumstances out of your control, remember that you can always (politely!) <xref ref="asking-for-extension" text="custom">ask for an extension </xref>. Still, you should never expect an extension and even if you sent that email you should start writing as soon as possible! </p>
@@ -873,9 +829,7 @@
             </blockquote>
         </observation>
         <p>A few University of Puget Sound professors shared with us their own experiences of struggling with the transition to American academic writing. Watch this video to hear their thoughts… and remember that you’re not alone.</p>
-        <sidebyside width="70%">
-            <video youtube="20hJdiQN51Q" xml:id="video-faculty-american-academic-writing"/>
-        </sidebyside>
+            <video youtube="20hJdiQN51Q" xml:id="video-faculty-american-academic-writing" width="70%"/>
     </subsection>
     </section>
 </chapter>

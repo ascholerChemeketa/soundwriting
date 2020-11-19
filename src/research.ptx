@@ -170,9 +170,7 @@
                 </li>
             </ul>
         </list>
-        <sidebyside width="50%">
-            <image source="images/RM_KeywordsSearchTerms"/>
-        </sidebyside>
+            <image source="images/RM_KeywordsSearchTerms" width="50%"/>
         <list xml:id="list-research-database-search">
             <title>Tips for Searching a Database</title>
             <dl>

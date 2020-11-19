@@ -19,9 +19,7 @@
         <title>Elements of an Argument</title>
         <introduction>
             <p>After hours of poring over books and sifting through documents in <custom item="library"/> (and many cups of coffee from <custom item="coffee-shop"/>), you finally hit upon an idea. The evidence corroborates it, and the logic is sound; your ideas align to form a stance that is at once distinctive and supportable.</p>
-            <sidebyside width="50%">
-                <image source="images/AD-Coffee"/>
-            </sidebyside>
+                <image source="images/AD-Coffee" width="50%"/>
             <p>Congrats! You have the beginnings of an argument. But how do you begin to articulate this argument in an effective and logical way? How do you use the evidence or findings to support your argument? How do you address the concerns of potential naysayers? How do you know if your argument is too specific or too broad to be arguable?</p>
             <p>Developing your argument to fulfill all of these requirements is a difficult process and may even seem insurmountable at times. But don't despair! Here are some basic things that every argument should have, regardless of writing type or discipline.</p>
         </introduction>
@@ -110,22 +108,16 @@
                 </li>
             </ul>
         </list>
-        <sidebyside width="50%">
-            <image source="images/AD-Rain"/>
-        </sidebyside>
+            <image source="images/AD-Rain" width="50%"/>
     </section>
     <section xml:id="thesis-development">
         <title>Developing a Thesis</title>
         <introduction>
             <p>So you've been given a writing assignment. You've read <xref ref="how-to-read-writing-prompts" text="title"/>, and you've begun thinking about the components of a good argument, but now what? In order to structure your paper effectively and to know what supporting claims it needs, you need to have a <xref ref="main-claim" text="title"/> or <term>thesis<idx>thesis</idx></term>. A thesis is an argumentative, contestable statement that tells an audience exactly what a writer intends to argue (for more information, see <xref ref="the-bubble-map" text="title"/>).</p>
-            <sidebyside width="50%">
-                <image source="images/AD-Car"/>
-            </sidebyside>
+                <image source="images/AD-Car" width="50%"/>
             <p>The thesis is thus the main point of your paper. Writing a paper without a thesis is like trying to drive a car without tires; the body will be there, but you certainly won't be taking your reader anywhere important. Good theses do everything good tires should do: they get you moving smoothly, give you traction, and make your arguments a lot more appealing and convincing to audiences. It's difficult to start writing without a working thesis, but once you have an idea of your main argument, you'll be writing in no time. The thesis also provides you with the foundation of and traction for your argument. If you ever find yourself asking, <q>Wait, what am I even writing about?</q> you can refer back to your thesis. Alternatively, you might realize that what you're saying doesn't align with your thesis, so you might rewrite your thesis<mdash/>change your tires<mdash/>altogether! Finally, a good, thorough thesis indicates to the audience that you are an authoritative and careful writer, one who establishes an argument outright and has evidence to support it. Just like a car without tires, a paper without a thesis is odd and ineffective.</p>
             <p>As a scholar in training, your theses represent your contributions to the broader academic conversations in which they take part. Just as with spoken conversations, you don't want the contributions you make to scholarly conversations to be repetitions of what other people have said. Your thesis must therefore be a new, interesting idea that you've come up with. While this endeavor sounds near impossible<mdash/>how can I, as a mere scholar in training, contribute to a conversation with professional and practiced scholars?<mdash/>you needn't worry. You don't have to make a life-changing contribution, and you surely don't need to know every argument that has ever been made on your topic. What you <em>do</em> need to do is develop a research question, research that question, and form a thesis that crystallizes your ideas and findings. Although your paper may be simply another writing assignment that you hope to finish and forget, you might consider thinking about your thesis as an opportunity to develop an idea that legitimately falls within a scholarly conversation.</p>
-            <sidebyside width="50%">
-                <image source="images/AD-CuteCat"/>
-            </sidebyside>
+                <image source="images/AD-CuteCat" width="50%"/>
             <p>Now, how do you go about writing your thesis? Since your thesis is the main point of your argument, you may find it difficult and time consuming to construct the perfect sentence (or two!). Strategies to develop your thesis are therefore very important. Let's start from the beginning.</p>
             <note>
                 <p>It is important that you write down <alert>every version</alert> of your thesis. You don't want to have a brilliant idea only to forget it five minutes later; sometimes old versions of your thesis can be useful in crafting newer versions.</p>
@@ -133,9 +125,7 @@
         </introduction>
         <subsection xml:id="thesis-dev-six-steps">
             <title>The Six-Step Process</title>
-            <sidebyside width="50%">
-                <image source="images/AD-ThesisDevelopment"/>
-            </sidebyside>
+                <image source="images/AD-ThesisDevelopment" width="50%"/>
             <list xml:id="list-argument-six-step">
                 <title>The Six-Step Process</title>
                 <ol>
@@ -170,9 +160,7 @@
                     </li>
                 </ol>
             </list>
-            <sidebyside width="50%">
-                <image source="images/AD-WorkingThesisResearch"/>
-            </sidebyside>
+                <image source="images/AD-WorkingThesisResearch" width="50%"/>
             <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready? You can ask yourself if your thesis is doing <acro>MORE</acro>.</p>
             <list xml:id="list-argument-MORE">
                 <title><acro>MORE</acro></title>
@@ -195,9 +183,7 @@
                     </li>
                 </dl>
             </list>
-            <sidebyside width="50%">
-                <image source="images/AD-IsItReadyYet"/>
-            </sidebyside>
+                <image source="images/AD-IsItReadyYet" width="50%"/>
             <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the <custom item="tutoring-center"/> (<custom item="tutoring-center-acronym"/>)!</p>
             <p>Consider the following example theses from student papers. In what ways do they or do they not do <xref ref="list-argument-MORE" text="title"/>?</p>
             <example xml:id="ex-argument-women-odyssey">
@@ -258,9 +244,9 @@
             <title>Poorly Reasoned Analysis</title>
             <p>It is possible to write a claim and then throw in some evidence without connecting the two. Consider the following construction:</p>
             <p><alert>Claim:</alert> Though they are in the same geographic space, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
-            <sidebyside><tabular><row><cell>+</cell></row></tabular></sidebyside>
+            <tabular><row><cell>+</cell></row></tabular>
             <p><alert>Evidence:</alert> In <q>Hello,</q> Adele sings, <q>I'm in California dreaming<nbsp/><ellipsis/><nbsp/>/<nbsp/><ellipsis/><nbsp/>/ There's such a difference between us / And a million miles</q> (10<ndash/>11).</p>
-            <sidebyside><tabular><row><cell>=</cell></row></tabular></sidebyside>
+            <tabular><row><cell>=</cell></row></tabular>
             <p>In <q>Hello,</q> Adele sings, <q>I'm in California dreaming<nbsp/><ellipsis/><nbsp/>/<nbsp/><ellipsis/><nbsp/>/ There's such a difference between us / And a million miles</q> (10-11). Though they are in the same geographic space, Adele and her addressee are separated on a nonspatial level by an otherworldly emotional distance.</p>
             <p>Okay, what's going on? Though the intuitive reader may be able to follow the writer's logic, this argument lacks the analysis necessary to explicitly connect the evidence to the claim; because it lacks this analysis, the argument is not as convincing as it could be. How can the writer better analyze the text to make their point? Let's consider the following three-step principle.</p>
         </warning>
@@ -289,10 +275,7 @@
             <p>And you're done! By following this simple, three-step process, the writer comes up with a coherent and thoroughly reasoned analysis that connects evidence to claim in a convincing way.</p>
         </paragraphs>
         <p>Take some time to practice the above strategies on your own. When you're done, take a quick break and watch everyone's favorite nature video personality, Sir David Attenborough, narrate the beginning of the <q>Hello</q> music video.</p>
-        <sidebyside width="70%">
-            <video youtube="enu-qR0H_uk" xml:id="attenborough"/>
-        </sidebyside>
-
+            <video youtube="enu-qR0H_uk" xml:id="attenborough" width="70%"/>
     </section>
     <section xml:id="using-quote-sandwiches">
         <title>Using Quote Sandwiches</title>
@@ -305,9 +288,7 @@
                     <li>The bottom bun of your sandwich consists of your thorough analysis of the evidence.</li>
                 </ul>
             </p>
-            <sidebyside width="50%">
-                <image source="images/AD-QuoteSandwich.png"/>
-            </sidebyside>
+                <image source="images/AD-QuoteSandwich.png" width="50%"/>
             <p>You may have noticed that the written analysis (see <xref ref="Adele-quote-sandwich" text="title"/>) in the previous section was rendered in three different colors. These colors represent different parts of the quote sandwich. The clause in green introduces the quotation that follows it and anticipates the argument that will be made about the evidence in the section in purple. The text in red is the quotation introduced by the clause in green and commented on by the text in purple. The text in purple analyzes the text in red and elaborates on the claim forecasted by the text in green.</p>
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
             <insight>

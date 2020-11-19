@@ -20,9 +20,7 @@
         <title>Finding, Skimming, and Reading Sources</title>
         <introduction>
             <p>Congratulations on finding some sources (see <xref ref="BEAM" text="title"/>)! Now what? Take a picture of all your books and post it to Instagram or Twitter so everyone knows that you're taking college seriously! It can be intimidating to have collected piles of useful sources only to realize how much time it will take you to read through them. But do you really need to read all of them completely? The way you approach any source will depend on the nature of the source, the amount of time you have, and the information you seek.</p>
-            <sidebyside width="50%">
-                <image source="images/HR-StackOfBooks.png"/>
-            </sidebyside>
+                <image source="images/HR-StackOfBooks.png" width="50%"/>
             <p>Of the sources you'll be working with, many will be primary and secondary. Sometimes it can be difficult to determine whether a source is primary or secondary. For instance, if you're writing an essay for a literature course on Shakespeare's <pubtitle>King Lear</pubtitle>, then <pubtitle>King Lear</pubtitle> would likely be your primary source. However, if you're writing a paper analyzing patterns in the critical reception of <pubtitle>King Lear</pubtitle>, then you may find yourself working with what would otherwise be considered secondary sources<mdash/>critical interpretations of the play, for instance<mdash/>and analyzing those. (For more information on the types of sources, see this <url href="http://collins.pugetsound.edu/Research_Fundamentals_Sources/story.html">Research Fundamentals guide</url>) That said, in order to find any source, it's important to know what kind of source you're looking for. Think about the kind of information you need, and come up with a list of search terms<mdash/>particular words and concepts you think would return helpful titles (see <xref ref="research-tips-tricks"/> for advice on refining search terms).</p>
         </introduction>
         <subsection xml:id="reading-finding-primary">
@@ -103,9 +101,7 @@
             <title>Active Reading</title>
             <p><alert>All reading you do should be active reading!</alert> In order to read critically, you must read actively. Active reading requires you to be active<mdash/>to actually do things while you read. No, you don't need to run on a treadmill while you read <pubtitle>The Odyssey</pubtitle> (although that would be interesting). Instead, your mind needs to be active doing things that keep you engaged in the reading, including (but not at all limited to!) writing marginal notes, underlining, using a symbolic system, asking questions, and summarizing thoughts or sections.</p>
             <!-- This image is missing, uncomment these lines after replaced -->
-            <!-- <sidebyside width="50%"> -->
              <!--   <image source="images/HR-ActiveReading"/> -->
-            <!-- </sidebyside> -->
             <p>You might be muttering to yourself, <q>But reading is enough work!</q> But know that active reading helps you understand and remember what a text says the first time you read it, so you don't have to waste your time reading the same paragraph over and over again. Plus, having a pen in your hand as you read makes it easier for you to write funny comments in the margins as you get frustrated (we all do it). Just be careful not to fall asleep with your pen uncapped. <ellipsis/></p>
         </subsection>
         <subsection xml:id="reading-types-critical">
@@ -165,9 +161,7 @@
             <paragraphs>
                 <title>Close Reading</title>
                 <p>Close reading most frequently occurs in literary studies, but you can also use close reading skills for other disciplines, such as history or sociology. Like reading critically and actively, reading closely enables you to engage with the text on a much deeper level than if you simply skimmed or scanned it. Using the critical and active reading skills you've developed, you now need to add in an additional component: close analysis. You perform a close analysis of a formal text in the same way you would agonize over the meaning of the word <q>okay</q> in a text message from your new romantic interest. In both cases, <q>close analysis</q> means that you are reading a relatively small portion of text in extreme detail. Perhaps the most important thing to remember about close readings is that you are not only trying to describe the text. While describing the text may be an important part of your analysis, you need to do just that<mdash/>analyze! Your analysis extends beyond the literal meaning of the words on the page to the underlying meaning the writer is conveying.</p>
-                <sidebyside width="50%">
-                    <image source="images/HR-NewRomanticInterest"/>
-                </sidebyside>
+                    <image source="images/HR-NewRomanticInterest" width="50%"/>
                 <p>The text that you have read closely is your evidence. To convince your audience of your argument, you must take careful and detailed notes (<ie/>, doing careful and detailed active reading). By including all of the necessary analysis and textual examples, you can tell your reader exactly how you've interpreted a passage.</p>
                 <convention>
                     <title>Reading Closely</title>
@@ -262,9 +256,7 @@
             </ul>
         </list>
         <custom item="AC-notes-insight"/>
-        <sidebyside width="50%">
-            <image source="images/HR-Highlighter"/>
-        </sidebyside>
+            <image source="images/HR-Highlighter" width="50%"/>
         <p>Highlight and underline enough, but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
         <insight>
             <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you think they are interesting and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>
