@@ -22,13 +22,10 @@
         </introduction>
         <subsection>
             <title>Spell-Check Errors</title>
-            <sidebyside width="50%">
-                <image source="images/LM-Spellcheck"/>
-            </sidebyside>
+                <image source="images/LM-Spellcheck" width="50%"/>
             <p>Computer technologies have undeniably improved the speed and accuracy of our writing abilities, particularly through the use of automatic spelling and grammar checkers in many word processors. While these checkers can be useful, it is easy to become over-reliant on these technologies as a replacement of individual proofreading. We often forget that computers can't read our minds. In fact, many simple spelling and grammar errors actually can be <em>caused</em> by an over-dependence on auto-checkers, with word processors replacing your misspelled words with incorrect suggestions based on common Web word-distortions. For instance, a sentence stating, <q>I definantly saw something fishy going on</q> would be auto-corrected to <q>I defiantly saw something fishy going on,</q> which has a meaning different than what the writer originally intended (<q>definitely</q>). If you use spell-check or grammar-check, look individually at the suggestions your word processor makes, rather than accepting all the corrections at once. It's also important to remember that computer auto-checkers, while useful, should not be used as a replacement for manual proofreading. Carefully read through your document, give it to a friend, and/or take it to the <custom item="tutoring-center-url"/> for some help with proofreading strategies (though don't expect the <custom item="tutoring-center-acronym"/> to actually do all the proofreading for you). Below is a list of commonly misspelled words that often are auto-corrected to very different words.</p>
-            <sidebyside width="100%">
-                <!-- <image source="images/LM-SpellingAutoCorrect"/> -->
-                <tabular>
+                <!-- <image source="images/LM-SpellingAutoCorrect" width="100%"/> -->
+                <tabular width="50">
                     <col/><col/><col/>
                     <row bottom="major">
                         <cell>Intended Word</cell>
@@ -96,93 +93,54 @@
                         <cell>perpetrate</cell>
                     </row>
                 </tabular>
-            </sidebyside>
         </subsection>
         <subsection xml:id="inserting-footnotes">
             <title>Inserting Footnotes</title>
             <p>Let's face it: footnotes can be a pain. Luckily, your word processor has some handy tricks for making adding footnotes relatively pain free!</p>
             <p>Let's say you have a couple paragraphs with some source evidence you'd like to cite using footnotes.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-39.png"/>
-            </sidebyside>
+                <image source="images/tech-39.png" width="100%"/>
             <p>To add a footnote, simply place your cursor at the end of the sentence containing that piece of evidence (AFTER THE PERIOD), open the <q>References</q> tab, and select <q>Insert Footnote.</q></p>
-            <sidebyside width="100%">
-                <image source="images/tech-40.png"/>
-            </sidebyside>
+                <image source="images/tech-40.png" width="100%"/>
             <p>A small superscript number will appear after the period corresponding with the footnote sequence. At the same time, a line will appear at the bottom of the page with a small number beneath it corresponding to that footnote. You can then write the footnote citation according to the appearance order of the citation (for more on how to write footnotes, see <xref ref="citations"/>).</p>
-            <sidebyside width="100%">
-                <image source="images/tech-41.png"/>
-            </sidebyside>
+                <image source="images/tech-41.png" width="100%"/>
             <p>Every time you add a new piece of evidence, you can add subsequent footnotes by using the <q>Insert Footnote</q> function and the citations will stack sequentially at the footer of the page. However, keep in mind that if you delete the superscript number in the text, you will also delete its corresponding footnote and change the numbering sequence of subsequent footnotes (but this is also nice because it keeps track of the order for you).</p>
-            <sbsgroup>
-                <sidebyside width="100%">
-                    <image source="images/tech-42.png"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/tech-43.png"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/tech-42.png" width="100%"/>
+            <image source="images/tech-43.png" width="100%" />
             <p>Easy-peasy!</p>
         </subsection>
         <subsection>
             <title>Formatting Reference Lists, Bibliographies, and Works Cited</title>
             <p>Whether you are writing using <init>APA</init>, Chicago, or <init>MLA</init> citation style, you will most likely be required to include a reference list, bibliography, or works cited (respectively) at the end of your paper. While keeping track of your sources and writing up references can be a daunting task (see <xref ref="citations"/> and <xref ref="zotero"/> for some very helpful tricks), formatting them using a word processor is actually less painful than it might seem. We won't go into the specific details of each citation style (again, see <xref ref="citations"/> for this), but we will talk about how to create hanging indents and how to format each source list using Word.</p>
             <p>I used to have to tab over a million times to try to create hanging indents in my works cited<mdash/>until I learned this method, and my life <em>literally</em> changed. To create a reference list, bibliography, or works cited page using hanging indents, begin with centering a References (or Bibliography or Works Cited, depending on what citation style you're using) title at the top of your page and entering your first citation beneath it (remember to keep everything double-spaced in <init>APA</init> and <init>MLA</init> and single-spaced with a blank line after each entry in Chicago).</p>
-            <sidebyside width="60%">
-                <image source="images/tech-72.png"/>
-            </sidebyside>
+                <image source="images/tech-72.png" width="60%"/>
             <p>Next, place your cursor at the very beginning of the second line of your citation, right-click, and select the <q>Paragraph</q> option.</p>
-            <sidebyside width="60%">
-                <image source="images/tech-73.png"/>
-            </sidebyside>
+                <image source="images/tech-73.png" width="60%"/>
             <p>In the <q>Indentations</q> category, change the <q>Special:</q> option to <q>Hanging.</q> When you do this, the <q>By:</q> should automatically change to 0.5" (and if it doesn't, increase it to 0.5"). Click <q>OK</q><nbsp/><ellipsis/></p>
-            <sidebyside width="60%">
-                <image source="images/tech-74.png"/>
-            </sidebyside>
+                <image source="images/tech-74.png" width="60%"/>
             <p><ellipsis/><nbsp/>and your source magically scoots over half an inch, creating a hanging indent!!</p>
-            <sidebyside width="60%">
-                <image source="images/tech-75.png"/>
-            </sidebyside>
+                <image source="images/tech-75.png" width="60%"/>
             <p>But what's really nice about this feature is that you only need to set a hanging indent for the first citation; all subsequent citations will automatically indent over to mirror the hanging indent of Source A.</p>
             <p>LIFE=CHANGED.</p>
         </subsection>
         <subsection>
             <title>Peer Editing Tools</title>
             <p>One of the cooler features of word processors is that many of them allow you to comment, offer suggestions, and even directly overlay changes onto a document. This can be particularly useful when you are peer reviewing another person's document, which you will undoubtedly be doing a lot of throughout your college career. Keep in mind that it's generally more constructive to use the comment function to offer suggestions rather than editing the document directly. That said, tracking changes directly can be useful for smaller errors or editing suggestions. (For more tips on peer review etiquette, see <xref ref="peer-review"/>.)</p>
-            <sidebyside width="100%">
-                <image source="images/tech-17.png"/>
-            </sidebyside>
+                <image source="images/tech-17.png" width="100%"/>
             <p>To comment on a specific part of someone's writing, open the <q>Review</q> tab, highlight the desired phrase, and select <q>New Comment</q> in the toolbar.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-18.png"/>
-            </sidebyside>
+                <image source="images/tech-18.png" width="100%"/>
             <p>A red-outlined box will appear to the right with a line indicating the section being discussed by the comment. In this box, you can write friendly suggestions, observations, and questions about the text, which your peer may then reply to or check off as resolved.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-19.png"/>
-            </sidebyside>
+                <image source="images/tech-19.png" width="100%"/>
             <p>You can also edit the other's person's writing directly using Track Changes. Open the <q>Review</q> tab, select <q>Track Changes</q> in the toolbar, and scroll down to select the <q>Track Changes</q> option.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-20.png"/>
-            </sidebyside>
+                <image source="images/tech-20.png" width="100%"/>
             <p>When using Track Changes, feel free to edit the document as you would any other (deleting portions, adding new ones, <etc/>) and all of the changes you make will be in red overlaid on top of the original document. Track Changes is useful because it allows you to work directly with the text while saving the original. However, try to keep the revisions you make using Track Changes to a minimum while reviewing peers' work; if you change, add, or remove too much from the text, you could inadvertently start to take control of the document, making it less of a mutual collaboration between you and your peer and more of a copy editing session.</p>
             <sbsgroup>
-                <sidebyside width="100%">
-                    <image source="images/tech-21.png"/>
-                </sidebyside>
+                    <image source="images/tech-21.png" width="100%"/>
             </sbsgroup>
             <p>If you are being reviewed, you can accept or reject tracked changes by placing your cursor over a particular change and clicking <q>Accept Change</q> or <q>Reject Change,</q> which will replace the original work with the edit or ignore the change altogether, respectively.</p>
-            <sbsgroup>
-                <sidebyside width="100%">
-                    <image source="images/tech-23.png"/>
-                </sidebyside>
-                <sidebyside width="100%">
-                    <image source="images/tech-24.png"/>
-                </sidebyside>
-            </sbsgroup>
+                    <image source="images/tech-23.png" width="100%"/>
+                    <image source="images/tech-24.png" width="100%"/>
             <p>After reviewing your peer's comments and tracked changes, your sentences (and those of your peer) will likely be even stronger than before.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-25.png"/>
-            </sidebyside>
+                <image source="images/tech-25.png" width="100%"/>
         </subsection>
         <subsection>
             <title>Adding a Cover Page</title>
@@ -191,37 +149,25 @@
                 <title><init>APA</init></title>
                 <p><init>APA</init>-style cover pages require your title, name, university affiliation, an author note, a page number, and a header that runs along the top of every page of the document. Generally this running header provides a short synopsis of the topic of your paper (but does not exactly copy your title).</p>
                 <p>To begin, place your double-spaced title, name, and university affiliation about one-third of the way down the page. If an author's note is required, place this about two-thirds of the way down (and centered). An author's note includes the departmental and institutional information of the student, any grants or funding associated with the project, and contact information by which to contact them.</p>
-                <sidebyside width="60%">
-                    <image source="images/tech-32.png"/>
-                </sidebyside>
+                    <image source="images/tech-32.png" width="60%"/>
                 <p>To add the page number and running header, select the <q>Insert</q> tab, click <q>Page Number,</q> <q>Top of Page,</q> and <q>Plain Number 3.</q></p>
-                <sidebyside width="100%">
-                    <image source="images/tech-33.png"/>
-                </sidebyside>
+                    <image source="images/tech-33.png" width="100%"/>
                 <p>Next, you can add your running header in front of the page number by writing <q>Running head: TITLE.</q> To right-justify your running header, hit the <q>tab</q> key once. Keep in mind that your running header should not be more than 50 characters long.</p>
-                <sidebyside width="60%">
-                    <image source="images/tech-34.png"/>
-                </sidebyside>
+                    <image source="images/tech-34.png" width="60%"/>
                 <p>Next, keeping your cursor on the header you just created, uncheck the <q>Different First Page</q> box in the <q>Design</q> tab. This will allow you to delete the term <q>Running head:</q> on subsequent pages.</p>
                 <p>When you have written subsequent pages, the running header will automatically be added to the top of each page. However, you no longer want the term <q>Running head:</q> to preface each subsequent header. To delete this from the following pages, place your cursor on the page 2 header, re-check the <q>Different First Page</q> box in the <q>Design</q> tab, and delete the <q>Running head:</q> from the header on page 2.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-36.png"/>
-                </sidebyside>
+                    <image source="images/tech-36.png" width="100%"/>
                 <p>This will allow you to keep the <q>Running head:</q> title on the cover page, but will delete it from subsequent pages.</p>
             </paragraphs>
             <paragraphs>
                 <title>Chicago</title>
                 <p>For a Chicago-style cover page, your title, name, course name and number, and assignment due date are single-spaced. You do not need to add your professor's name (although doing so likely would not hurt). Your title is centered one-third of the way down the page; if it has a subtitle, separate it with a colon and place the subtitle on the next line. Your name, course name/number, and due date should all go about two-thirds of the way down and should be single-spaced.</p>
-                <sidebyside width="60%">
-                    <image source="images/tech-38.png"/>
-                </sidebyside>
+                    <image source="images/tech-38.png" width="60%"/>
             </paragraphs>
             <paragraphs>
                 <title><init>MLA</init></title>
                 <p>To add an <init>MLA</init>-style cover page, simply shift down until your paper begins on the second page of the document (if you click <q>Different First Page</q> using the guidelines above for the <init>APA</init> cover page, a page number will not appear on this first page). Include your double-spaced title about one-third of the way down the page, followed by your name, course name and number, professor name, and due date about two-thirds of the way down (all double-spaced).</p>
-                <sidebyside width="60%">
-                    <image source="images/tech-31.png"/>
-                </sidebyside>
+                    <image source="images/tech-31.png" width="60%"/>
             </paragraphs>
         </subsection>
         <subsection>
@@ -230,29 +176,17 @@
             <paragraphs>
                 <title>Finding</title>
                 <p>Say you would like to find all instances in your paper where you use a certain word or phrase.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-44.png"/>
-                </sidebyside>
+                    <image source="images/tech-44.png" width="100%"/>
                 <p>Simply highlight the word or phrase you want to find, open the <q>Home</q> tab, select the <q>Find</q> option on the far right of the toolbar (it is often accompanied by a magnifying glass), and select <q>Find</q> on the scroll-down menu.</p>
-                <sbsgroup>
-                    <sidebyside width="100%">
-                        <image source="images/tech-45.png"/>
-                    </sidebyside>
-                    <sidebyside width="100%">
-                        <image source="images/tech-46.png"/>
-                    </sidebyside>
-                </sbsgroup>
+                        <image source="images/tech-45.png" width="100%"/>
+                        <image source="images/tech-46.png" width="100%"/>
                 <p>When you do this, all of the instances of the word or phrase are highlighted in the text and a navigation dialogue box will appear on the left-hand side of the screen displaying all instances of use. You can go to a certain instance by clicking on the text boxes under the <q>Results</q> column.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-47.png"/>
-                </sidebyside>
+                    <image source="images/tech-47.png" width="100%"/>
             </paragraphs>
             <paragraphs>
                 <title>Replacing</title>
                 <p>If you'd like to replace a word or phrase with another word or phrase, highlight the desired text you'd like to change, open the <q>Home</q> tab, and find the <q>Replace</q> option to the far left beneath <q>Find.</q> When you select <q>Replace,</q> a dialogue box will appear with the original text and give you the option to write in what you would like to replace it with. You may then hit <q>Replace</q> if you'd like to replace that one instance, <q>Replace All</q> if you'd like to replace all instances in your document, or <q>Find Next</q> to go through all instances until you find the one you want to replace.</p>
-                <sidebyside width="100%">
-                    <image source="images/tech-49.png"/>
-                </sidebyside>
+                    <image source="images/tech-49.png" width="100%"/>
                 <p>Here we replaced all <q>IMPORTANT WORD</q>s with <q>CRITICAL WORD</q>s, but keep in mind that it's often better to use a mix of important AND critical words to enhance your vocab diversity. If you use the same important word in every single sentence, your paper will get really repetitive really quickly.</p>
             </paragraphs>
         </subsection>
@@ -281,56 +215,32 @@
         <paragraphs>
             <title>Step 3: Tell Zotero which sources you want it to save</title>
             <p>This will look a little different depending on what browser you're using; here's an example:</p>
-            <sidebyside width="100%">
-                <image source="images/Zotero_01_edited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_01_edited.png" width="100%"/>
             <p>The sources will then appear in your Zotero library! You can put them in folders to stay organized.</p>
-            <sidebyside width="100%">
-                <image source="images/Zotero_02_edited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_02_edited.png" width="100%"/>
             </paragraphs>
             <paragraphs>
             <title>Step 4: Cite some sources</title>
             <p>Go into your word processor of choice and start writing! You should notice a new tab along the top ribbon titled <quote>Zotero</quote>. When it comes time to cite your source, click on the <quote>Zotero</quote> tab and select <q>Add/Edit Citation</q>.</p>
-            <sidebyside width="100%">
-                <image source="images/Zotero_03_edited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_03_edited.png" width="100%"/>
             <p>You'll have to select what style of citation you want:</p>
-            <sidebyside width="60%">
-                <image source="images/Zotero_04_unedited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_04_unedited.png" width="60%"/>
             <p>And then search for the source you want to cite!</p>
-            <sbsgroup>
-            <sidebyside width="100%">
-                <image source="images/Zotero_05_unedited.png"/>
-            </sidebyside>
-            <sidebyside width="100%">
-                <image source="images/Zotero_06_unedited.png"/>
-            </sidebyside>
-            <sidebyside width="100%">
-                <image source="images/Zotero_07_unedited.png"/>
-            </sidebyside>
-            </sbsgroup>
+                <image source="images/Zotero_05_unedited.png" width="100%"/>
+                <image source="images/Zotero_06_unedited.png" width="100%"/>
+                <image source="images/Zotero_07_unedited.png" width="100%"/>
             <p>There it is! A citation!</p>
-            <sidebyside width="100%">
-                <image source="images/Zotero_08_unedited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_08_unedited.png" width="100%"/>
             <p>You can keep writing and citing as you go.</p>
-            <sidebyside width="100%">
-                <image source="images/Zotero_09_unedited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_09_unedited.png" width="100%"/>
             </paragraphs>
             <paragraphs>
             <title>Step 5: Make your bibliography</title>
             <p>Once you have all necessary sources saved in Zotero, you can ask it (nicely) to make your bibliography. Get ready to be amazed.</p>
             <p>In your document, go back to that <q>Zotero</q> tab and click <q>Add/Edit Bibliography</q>. This will generate a bibliography in your chosen style with all the sources you've sighted in your paper.</p>
-            <sidebyside width="100%">
-                <image source="images/Zotero_10_edited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_10_edited.png" width="100%"/>
             <p>And there it is, just like that!</p>
-            <sidebyside width="100%">
-                <image source="images/Zotero_11_unedited.png"/>
-            </sidebyside>
+                <image source="images/Zotero_11_unedited.png" width="100%"/>
             <p>Magic! Still, Zotero can get things wrong, so always check over the bibliography. If anything is missing you can edit the metadata stored in Zotero.</p>
     </paragraphs>
     </section>
@@ -348,15 +258,9 @@
         <paragraphs>
             <title>Step 3: Download your source</title>
             <p>When you find a source you want, download it and save it to your research folder or desktop.</p>
-            <sbsgroup>
-                <sidebyside width="100%">
-                    <image source="images/tech-80.png"/>
-                </sidebyside>
-            </sbsgroup>
+                    <image source="images/tech-80.png" width="100%"/>
             <p>If you have installed Adobe Acrobat Reader, your document should be automatically saved as an Adobe Acrobat <init>PDF</init> file. After it's saved, you can then open it, and it should open with Adobe Acrobat.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-82.png"/>
-            </sidebyside>
+                <image source="images/tech-82.png" width="100%"/>
             <p>Yay! Now you can begin exploring all of the annotation capabilities Adobe has to offer.</p>
         </paragraphs>
         <paragraphs>
@@ -365,19 +269,13 @@
                 <li>
                     <title>Commenting</title>
                     <p>You can easily comment on certain parts of the source document by selecting the small speech bubble icon on the right side of the toolbar and clicking on the part you want to comment on. A small window text box will appear wherein you may leave notes/questions to yourself about the text, observations about how to use a certain piece of information, or reminders to do more research elsewhere. You can also engage in a dialogue with yourself (or others if you are collaboratively examining a source) by replying to these comments later on.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-83.png"/>
-                    </sidebyside>
-                    <sidebyside width="100%">
-                        <image source="images/tech-83_2.png"/>
-                    </sidebyside>
+                        <image source="images/tech-83.png" width="100%"/>
+                        <image source="images/tech-83_2.png" width="100%"/>
                 </li>
                 <li>
                     <title>Highlighting</title>
                     <p>You can also easily highlight sections of the text using the highlighter function, making it easier for you to go back later and identify significant pieces of information. To do this, click on the highlighter icon on the far right of the toolbar (next to the comment icon) and select the section of the text you'd like to highlight (but try not to over-highlight!). See <xref ref="note-taking-strategies"/> for tips on how to annotate effectively).</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-84.png"/>
-                    </sidebyside>
+                        <image source="images/tech-84.png" width="100%"/>
                 </li>
             </dl></p>
         </paragraphs>
@@ -388,116 +286,78 @@
         <paragraphs>
             <title>Unlocking More Annotation Tools</title>
             <p>To unlock a host of other annotation functions, select the <q>Tools</q> tab at the top left of the screen; a screen of icons will appear. Select the <q>Comment</q> option at the top left of the screen.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-85.png"/>
-            </sidebyside>
+                <image source="images/tech-85.png" width="100%"/>
             <p>The source document will reappear with a new toolbar below the original. Here you'll notice the commenting and highlighting icons along with a slew of other editing features.</p>
-            <sidebyside width="100%">
-                <image source="images/tech-86.png"/>
-            </sidebyside>
+                <image source="images/tech-86.png" width="100%"/>
             <p>These features include the following:<dl>
                 <li>
                     <title>Underlining</title>
                     <p>To underline a section of text, select the third icon from the left (<q>T</q> with a line underneath) and highlight the section of text you want underlined. A green line will appear beneath the section of text.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-86_2.png"/>
-                    </sidebyside>
+                        <image source="images/tech-86_2.png" width="100%"/>
                 </li>
                 <li>
                     <title>Strike-Through</title>
                     <p>If you'd like to strike-through a section of text (particularly useful if you're editing one of your own pieces or if you want to identify a part of the source document with which you do not agree), select the icon fourth from the left (<q>T</q> with a strike-through) and highlight the desired section of text. A red line will strike through this section of text.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-87.png"/>
-                    </sidebyside>
+                        <image source="images/tech-87.png" width="100%"/>
                 </li>
                 <li>
                     <title>Replacing Text</title>
                     <p>If you'd like to replace text (not so useful for annotating published source documents, but especially useful if you're editing yours or another's paper), select the fifth icon from the left (<q>T</q> with a strike-through and a speech bubble) and highlight the section of desired text. A blue line will strike through this section of the original text and a window text box will appear allowing you to write the text you want to replace it with.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-88.png"/>
-                    </sidebyside>
+                        <image source="images/tech-88.png" width="100%"/>
                 </li>
                 <li>
                     <title>Inserting Text</title>
                     <p>If you'd like to insert text (again, more useful for documents you are actively editing than source documents you are annotating), select the sixth icon from the left (<q>T</q> with a subscript carrot) and place your cursor in the place in the text where you'd like to insert new text. A small blue box with a carrot will appear in the text, while a window text box will allow you to write the text you'd like to insert.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-89.png"/>
-                    </sidebyside>
+                        <image source="images/tech-89.png" width="100%"/>
                 </li>
                 <li>
                     <title>Adding Text Directly</title>
                     <p>If you'd like to add text directly onto the document (useful if you want to more easily view your comments), select the seventh icon from the left (plain <q>T</q>) and highlight the area you'd like the text to go. Begin writing and your comment will appear directly onto the document.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-90.png"/>
-                    </sidebyside>
+                        <image source="images/tech-90.png" width="100%"/>
                 </li>
                 <li>
                     <title>Adding a Text Box</title>
                     <p>Another way to add text directly onto a source document is to create a text box. To do this, select the eighth icon from the left (<q>T</q> within a box) and create the text box where you want it on the document. A red text box will appear in which you can write your comment.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-91.png"/>
-                    </sidebyside>
+                        <image source="images/tech-91.png" width="100%"/>
                 </li>
                 <li>
                     <title>Drawing Free-form</title>
                     <p>You can also draw free-form on the document to emphasize certain sections or (if you're good at drawing using a mouse or touchpad, which I am not) even draw pictures or write comments to annotate the document. To do this, select the ninth icon from the left (pen) and begin to write/draw in red pen anywhere on the document.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-92.png"/>
-                    </sidebyside>
+                        <image source="images/tech-92.png" width="100%"/>
                     <p>(Like I said, I'm not that artistically savvy.)</p>
                 </li>
                 <li>
                     <title>Erasing</title>
                     <p>If you'd like to erase something you've drawn, you can also do this by selecting the tenth icon from the left (eraser) and moving it over your drawing to erase it.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-93.png"/>
-                    </sidebyside>
+                        <image source="images/tech-93.png" width="100%"/>
                 </li>
                 <li>
                     <title>Adding Shapes</title>
                     <p>If you're more artistically/visually inclined, you can also add pre-formed shapes to your document to draw emphasis to certain sections or have fun while you annotate. To do this, select the thirteenth icon from the left on the toolbar (cluster of shapes), and use the drop-down menu to select which shape you'd like to draw.</p>
-                    <sbsgroup>
-                        <sidebyside width="100%">
-                            <image source="images/tech-94.png"/>
-                        </sidebyside>
-                        <sidebyside width="100%">
-                            <image source="images/tech-95.png"/>
-                        </sidebyside>
-                    </sbsgroup>
+                            <image source="images/tech-94.png" width="100%"/>
+                            <image source="images/tech-95.png" width="100%"/>
                     <p>You can also change the color, opacity, and line thickness of your drawing tools by selecting paint bucket and line-thickness icons at the far right of the toolbar.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-96.png"/>
-                    </sidebyside>
-                    <sidebyside width="100%">
-                        <image source="images/tech-96_2.png"/>
-                    </sidebyside>
+                        <image source="images/tech-96.png" width="100%"/>
+                        <image source="images/tech-96_2.png" width="100%"/>
                     <p>Go wild! (But not too wild.)</p>
                 </li>
                 <li>
                     <title>Keeping Track of Your Comments</title>
                     <p>Adobe is also really great because it keeps track of each of your comments as you add them and provides a running list of them along the right side of the screen. If you want to jump to a certain comment, simply click on the desired comment in the list and the document will take you to that comment. You can also arrange these comments by page, author, date, type, checkmark status, and color or filter them by reviewer, type, status, and color.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-97.png"/>
-                    </sidebyside>
+                        <image source="images/tech-97.png" width="100%"/>
                 </li>
                 <li>
                     <title>Changing the Page Viewer</title>
                     <p>There are also useful page-viewing capabilities to the left side of the screen under the <q>Page Thumbnails,</q> <q>Bookmarks,</q> and <q>Attachments</q> icons. <q>Page Thumbnails</q> will allow you to see which page of the document you are currently viewing:</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-98.png"/>
-                    </sidebyside>
+                        <image source="images/tech-98.png" width="100%"/>
                     <p>Or you can switch to <q>Bookmarks</q> to view an outline of the source document and click to go to a certain section:</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-99.png"/>
-                    </sidebyside>
+                        <image source="images/tech-99.png" width="100%"/>
                     <p>If there are attachments that were included in the source document, selecting the <q>Attachments</q> option will allow you to view them.</p>
                 </li>
                 <li>
                     <title>Searching the Document Source</title>
                     <p>Finally, you can search for key words and phrases in the document by selecting the <q>Find text</q> icon (magnifying glass) in the upper left of the original toolbar. A window will appear in which you can type in the word or phrase you'd like to find; selecting <q>previous</q> or <q>next</q> will bring you to each instance in the document where that term was used.</p>
-                    <sidebyside width="100%">
-                        <image source="images/tech-100.png"/>
-                    </sidebyside>
+                        <image source="images/tech-100.png" width="100%"/>
                 </li>
             </dl></p>
         </paragraphs>
