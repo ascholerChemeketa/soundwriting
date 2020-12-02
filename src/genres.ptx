@@ -18,7 +18,7 @@
     <section xml:id="email-etiquette">
         <title>Writing Emails</title>
         <p>Emailing faculty, staff, and off-campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. But formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply (see <xref ref="talking-to-profs"/>). Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
-            <image source="images/genres-dear-professor" width="50%"/>
+            <image source="images/genres-dear-professor" width="80%"/>
             <paragraphs xml:id="par-genres-email-greetings">
                 <title>Greetings</title>
                 <p>(from most formal to least)
@@ -58,7 +58,7 @@
                 </ul>
             </p>
         </paragraphs>
-            <image source="images/genres-greetings" width="50%"/>
+            <image source="images/genres-greetings" width="80%"/>
             <list xml:id="list-genres-email-responses">
                 <title>Strategies for Responding to Emails</title>
                 <ul>
@@ -197,7 +197,7 @@
         <paragraphs xml:id="par-genres-resume">
             <title>What is a Resume?</title>
             <p>A resume is a list of your education history, past employment, professional skills/knowledge, and any other qualifications that are relevant to the job to which you are applying. Even if you are applying for many jobs within a similar field, you will likely need to revise your resume for every job application you submit (for instance, if you are applying for a computer tech position, you probably wouldn't include your cat-sitting experience). However, there are some basic things you need to include in every resume to make it as strong as possible.</p>
-                <image source="images/awesomeresume.png" width="50%"/>
+                <image source="images/awesomeresume.png" width="70%"/>
         </paragraphs>
         <paragraphs xml:id="par-genres-resume-contact">
             <title>Contact</title>
@@ -212,11 +212,11 @@
                 </ul>
             </p>
         </paragraphs>
-            <image source="images/contactinfo.png" width="50%"/>
+            <image source="images/contactinfo.png" width="80%"/>
         <paragraphs xml:id="par-genres-resume-education">
             <title>Education</title>
             <p>In the education section, include your degree, graduation month and year, where you went to college/university, your GPA, awards won (month and year), and relevant cocurricular activities (include date range, or month and year). Remember to list only those awards and activities that may be relevant to the job application.</p>
-                <image source="images/education.png" width="50%"/>
+                <image source="images/education.png" width="80%"/>
         </paragraphs>
         <paragraphs xml:id="par-genres-resume-past-experience">
             <title>Past Relevant Experience</title>
@@ -231,7 +231,7 @@
             </p>
             <p>Keep in mind that these experiences do not necessarily need be paid employment, but should rather reflect your qualifications and accomplishments working in a relevant or related field. Use fragment bullet points to list the duties you performed in each position and try to be as specific as possible when describing these duties, limiting yourself to two to four bullet points per position. For instance, rather than <q>honed social skills</q> as a campus visit host, you could describe how you <q>greeted, engaged with, and answered questions for prospective students and their families during one-hour informational tours.</q> Try to highlight only the most important duties of a particular position and to avoid repeating similar tasks and skills; for instance, if you <q>conducted scheduling and administrative and office support</q> for multiple positions, you may want to include this only for the positions in which this was a critical part of the job. Remember that your resume should have an overarching focus but that different positions may emphasize different aspects of your qualifications.</p>
         </paragraphs>
-            <image source="images/relevantexperience.png" width="50%"/>
+            <image source="images/relevantexperience.png" width="80%"/>
             <p>If you have independent research that you would like to showcase, for each research project, include the:
                 <ul>
                     <li>name of your project (bolded and in quotes)</li>
@@ -247,7 +247,7 @@
        <paragraphs xml:id="par-genres-resume-relevant-skills">
             <title>Relevant Skills</title>
             <p>Many resumes have a relevant skills section that allows potential employers (or a computerized application tracking system) to easily scan your abilities and qualifications. It offers a list of terms for skills that you have accumulated and gained proficiency in during your work/research experiences and that you will likely utilize in the position to which you are applying. It can include more umbrella terms like <q>public speaking</q> or <q>presentation experience</q> as well as more specific names for particular programs or techniques, such as <q>R- statistical programs</q> or <q>Microsoft Excel.</q> You can include as many skills as you like, but limit yourself to only those skills that are relevant to the specific job. Bold those skills that are more pertinent than others, and use two-column formatting to save space.</p>
-                <image source="images/relevantskills.png" width="50%"/>
+                <image source="images/relevantskills.png" width="80%"/>
         </paragraphs>
         <list xml:id="list-genres-resumes-tips">
             <title>Strategies for Writing Resumes</title>

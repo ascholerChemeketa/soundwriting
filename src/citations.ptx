@@ -25,7 +25,7 @@
             <title>Background</title>
             <p>In this chapter, we'll discuss the three major citation styles you'll encounter during your time at Puget Sound: <init>MLA</init> (Modern Language Association), <init>CMS</init> (Chicago Manual of Style), and <init>APA</init> (American Psychological Association).</p>
             <p>In general, here are some differences between the styles:</p>
-                <tabular valign="top" width="70%">
+                <tabular valign="top" width="50%">
                     <col halign="right"/><col/><col/><col/>
                     <row bottom="major">
                         <cell/>
@@ -294,7 +294,7 @@
         <subsection xml:id="book-one-author">
             <title>Citing a Book with One Author</title>
             <introduction>
-                    <image source="images/Citations-BookOneAuthor" width="50%"/>
+                    <image source="images/Citations-BookOneAuthor" width="90%"/>
             </introduction>
             <subsubsection xml:id="book-on-author-apa">
                 <title>APA</title>

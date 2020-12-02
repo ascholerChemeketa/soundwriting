@@ -127,7 +127,7 @@
                         </ul>
                     </p>
                 </convention>
-                    <image source="images/WP-Mindmap" width="50%"/>
+                    <image source="images/WP-Mindmap" width="70%"/>
             </subsubsection>
             <subsubsection xml:id="planning-freewrite">
                 <title>Freewriting</title>
@@ -171,17 +171,17 @@
             <subsubsection xml:id="outlining-classic">
                 <title>The Classic Outline</title>
                     <p>The <term>classic outline<idx>classic outline</idx></term> is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
-                        <image source="images/WP-ClassicOutline" width="50%"/>
+                        <image source="images/WP-ClassicOutline" width="80%"/>
             </subsubsection>
             <subsubsection xml:id="the-bubble-map">
                 <title>The Bubble Map</title>
                 <p>The <term>bubble map<idx>bubble map</idx></term> is a great option for writers who prefer a less-structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
-                    <image source="images/WP-BubbleMap" width="50%"/>
+                    <image source="images/WP-BubbleMap" width="80%"/>
             </subsubsection>
             <subsubsection xml:id="outlining-flowchart">
                 <title>The Flowchart</title>
                 <p><term>Flowcharts<idx>flowcharts</idx></term> work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
-                    <image source="images/WP-Flowchart" width="50%"/>
+                    <image source="images/WP-Flowchart" width="80%"/>
             </subsubsection>
         </subsection>
     </section>
@@ -197,7 +197,7 @@
                 <paragraphs xml:id="par-intros-road-map">
                     <title>The Road Map</title>
                     <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not your audience will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience members why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
-                        <image source="images/WP-RoadMap" width="50%"/>
+                        <image source="images/WP-RoadMap" width="80%"/>
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="introuductions-anatomy">
@@ -383,7 +383,7 @@
             <paragraphs xml:id="par-process-signposts">
                 <title>The Signposts</title>
                 <p>Whether you are expressing a similar idea or introducing a completely new one, transitions can be useful when you want to move from one thought to another. Transitions act as the signposts for your paper, guiding the reader from one thought to another while minimizing unexpected surprises. Below are some examples of transitional expressions and how to use them.</p>
-                <image source="images/WP-TransitionSignpost.png" width="50%"/>
+                <image source="images/WP-TransitionSignpost.png" width="70%"/>
                     <tabular>
                         <col width="30%"/>
                         <col width="70%"/>
@@ -498,7 +498,7 @@
                     </ul>
                 </list>
                 <sidebyside width="50%">
-                    <image source="images/WP-ButWhy" width="50%"/>
+                    <image source="images/WP-ButWhy" width="80%"/>
                 </sidebyside>
                 <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from student papers:</p>
                 <example>
@@ -518,7 +518,7 @@
         </subsection>
         <subsection xml:id="research-process-while-writing">
             <title>Researching while Writing</title>
-                <image source="images/research-process-not-linear" width="50%"/>
+                <image source="images/research-process-not-linear" width="80%"/>
             <p>The process of researching, writing, and revising is not linear. You don't stop researching when you start writing, and you don't stop researching or writing when you begin revising. As was mentioned in <xref ref="forming-your-argument"/>, it is best to think of your initial thesis as a <term>working thesis<idx>working thesis</idx></term>. During your research, writing, and revising process, your argument will (and should) change based on what you read and write. You may end up writing a completely different paper than you had originally envisioned, or your final thesis may simply be a revised and refined version of your working thesis. Regardless, as you write your first draft, it is important that you don't stop doing research. How, then, does your research process evolve with your writing?</p>
             <p>Research is initially very broad. You're trying to figure out what scholarship on your topic exists and where you might contribute to the scholarly conversation regarding that topic. As you work toward a thesis, that research will become increasingly specific because you have a better idea of what kind of sources and evidence you need and what kind of background your reader will need to make sense of your argument. Figuring out when to write, when to research, and when to revise can be difficult, so below are some tips and tricks to help you determine what to do and when to do it.</p>
             <paragraphs>
@@ -589,7 +589,7 @@
         <title>Revising</title>
         <introduction>
             <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the <custom item="tutoring-center"/> (<custom item="tutoring-center-acronym"/>), we focus largely on <acro>HOC</acro>s. After addressing the <acro>HOC</acro>s covered in this chapter, see <xref ref="writing-sentence-level"/> for a more in-depth overview of <acro>LOC</acro>s.</p>
-                <image source="images/WP-GoodThings" width="50%"/>
+                <image source="images/WP-GoodThings" width="100%"/>
             <p>As you're revising, pay attention to these <acro>HOC</acro>s:</p>
             <paragraphs xml:id="par-revising-thesis">
                 <title>Thesis</title>
@@ -630,7 +630,7 @@
             <figure xml:id="revision-checklist">
                 <title>Revision Checklist</title>
                 <caption>Revision Checklist</caption>
-                <image source="images/revision-checklist" width="50%"/>
+                <image source="images/revision-checklist" width="100%"/>
             </figure>
         </introduction>
         <subsection xml:id="reverse-outlining">

@@ -19,7 +19,7 @@
         <title>Elements of an Argument</title>
         <introduction>
             <p>After hours of poring over books and sifting through documents in <custom item="library"/> (and many cups of coffee from <custom item="coffee-shop"/>), you finally hit upon an idea. The evidence corroborates it, and the logic is sound; your ideas align to form a stance that is at once distinctive and supportable.</p>
-                <image source="images/AD-Coffee" width="50%"/>
+                <image source="images/AD-Coffee" width="70%"/>
             <p>Congrats! You have the beginnings of an argument. But how do you begin to articulate this argument in an effective and logical way? How do you use the evidence or findings to support your argument? How do you address the concerns of potential naysayers? How do you know if your argument is too specific or too broad to be arguable?</p>
             <p>Developing your argument to fulfill all of these requirements is a difficult process and may even seem insurmountable at times. But don't despair! Here are some basic things that every argument should have, regardless of writing type or discipline.</p>
         </introduction>
@@ -108,7 +108,7 @@
                 </li>
             </ul>
         </list>
-            <image source="images/AD-Rain" width="50%"/>
+            <image source="images/AD-Rain" width="70%"/>
     </section>
     <section xml:id="thesis-development">
         <title>Developing a Thesis</title>
@@ -288,7 +288,7 @@
                     <li>The bottom bun of your sandwich consists of your thorough analysis of the evidence.</li>
                 </ul>
             </p>
-                <image source="images/AD-QuoteSandwich.png" width="50%"/>
+                <image source="images/AD-QuoteSandwich.png" width="80%"/>
             <p>You may have noticed that the written analysis (see <xref ref="Adele-quote-sandwich" text="title"/>) in the previous section was rendered in three different colors. These colors represent different parts of the quote sandwich. The clause in green introduces the quotation that follows it and anticipates the argument that will be made about the evidence in the section in purple. The text in red is the quotation introduced by the clause in green and commented on by the text in purple. The text in purple analyzes the text in red and elaborates on the claim forecasted by the text in green.</p>
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
             <insight>

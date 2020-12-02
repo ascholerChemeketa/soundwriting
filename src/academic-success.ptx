@@ -130,11 +130,11 @@
         <statement>
             <p>Can you figure find all the reasons you would not want to send this email to a professor?</p>
             <sidebyside>
-                <image source="images/AS-sorryimissedclass"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image>
+                <image source="images/AS-sorryimissedclass" width="100%"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image>
             </sidebyside>
         </statement>
         <solution>
-                <image source="images/AS-sampleEditedEmail.png" width="50%"/>
+                <image source="images/AS-sampleEditedEmail.png" width="100%"/>
         </solution>
     </problem>
     <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it's easy to be familiar or informal with <custom item="university-name-full"/> professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a student ask them for an exception to a rule might not bother them at all; however, they're also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn't good for anyone!</p> 
@@ -271,7 +271,7 @@
     <subsection xml:id="time-management-productive-procrastination">
         <title>Productive Procrastination</title>
             <p>Procrastination is especially easy when there's an easily accessible distraction we can use to put off work. Some of the most common distractions are social media, imageboard websites, phone or computer games, TV, and socializing. Sometimes, though, the tasks we perform to procrastinate <em>seem</em> important, and this is called <term>productive procrastination<idx>productive procrastination</idx></term>. Symptoms of productive procrastination include cleaning, doing less-intimidating homework, sending emails, or otherwise taking care of day-to-day tasks that are important but that are clearly not urgent. One way of assessing whether you're allocating your time well is to use a the flowchart below. If there's anything on your plate that falls into the top box, <em>do that first</em>. The hard part to remember is <em>to do the middle box after that</em>. The categorization into urgent and not urgent is useful, but the nature of time means that anything that's important and not urgent will soon be both important and urgent! Not procrastinating means taking care of stuff in the middle box whenever you can, especially <em>before</em> it moves into the top box. Thinking in terms of both importance and urgency is a good way to stay out of the trap of feeling productive by doing less important or less urgent work.</p>
-                <image source="images/AS-PriorityMatrixModified2" width="50%"/>
+                <image source="images/AS-PriorityMatrixModified2" width="100%"/>
             <paragraphs xml:id="productive-procrastination">
                 <title>Productive Procrastination Practices</title>
                     <p><ul>
@@ -424,7 +424,7 @@
         <title>Making and Using a Time Chart</title>
         <p>All right. Approach big problems with small goals. Great. But how do you then follow through on those smaller goals? As you start breaking down your bigger projects, you'll find the strategies that work well for you, and tweaking the strategies that we recommend here to be most effective for you is important! That being said, one of the most tried-and-true approaches to managing daily work is the <term>time chart<idx>time chart</idx></term>. The point of a time chart is to give you an action plan for each day. It accounts for where you have to be when, but it also includes what work you're going to do when. A time chart isn't a planner or a calendar, but making a good time chart requires that you have a good sense of both what you need to do on a given day and what your time commitments are on a given day, which planners and calendars, respectively, help you keep track of. Finally, time charts are useful because they force you to assign priority to the tasks you want to accomplish.</p>
         <p>So how should you use a time chart? As is the case with everything we've discussed in the academic success section, everyone develops slight variations on the underlying strategies for staying organized and managing time, but the steps we lay out here are a great way to start if you've never made a time chart before. Many people like to use a paper planner, which is what we present first, but there are great digital options for making a time chart as well, such as Google Calendar. First, take a look at the time chart below. <custom item="CWLT-time-chart"/>. </p>
-                <image source="images/AS-timechart_sample.png" width="50%"/>
+                <image source="images/AS-timechart_sample.png" width="80%"/>
         <p>With your own time chart in hand, fill it out following the following guidelines.</p>
         <list xml:id="list-time-chart">
             <title>Strategies for Making a Time Chart</title>
@@ -563,7 +563,7 @@
                 </li>
                 <li><title>Put your semester into deep storage</title>
                     <p>At the end of each semester, make a new folder and place all the classes from the past semester there, so you can access them again if you need to but so that they don't clutter up your day-to-day life. Label this folder something obvious, like Spring 2018 Courses, or <custom item="university-name-acro"/> Semester 1. Here's an example:</p>
-                        <image source="images/AS-deepstorageicloudscreenshot.png" width="50%"><description>iCloud drive Deep Storage</description></image>
+                        <image source="images/AS-deepstorageicloudscreenshot.png" width="90%"><description>iCloud drive Deep Storage</description></image>
                 </li>
             </ul>
         </list>
