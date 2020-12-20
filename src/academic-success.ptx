@@ -129,9 +129,7 @@
         <title>What's Wrong with this Email?</title>
         <statement>
             <p>Can you figure find all the reasons you would not want to send this email to a professor?</p>
-            <sidebyside>
                 <image source="images/AS-sorryimissedclass" width="100%"><description>Hey, Sorry I missed the exam review yesterday. It's been a super busy week and I had to finish a paper for another class. I'm worried about the test tomorrow because you gave me a bad grade on the last one, and I want to know what I can do to do better this time. Did you post any notes from the review session on Moodle? Can we meet tomorrow before the test to go over the material?</description></image>
-            </sidebyside>
         </statement>
         <solution>
                 <image source="images/AS-sampleEditedEmail.png" width="100%"/>

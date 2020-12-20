@@ -147,7 +147,7 @@
             <subsubsection xml:id="planning-draw">
                 <title>Drawing</title>
                 <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
-                    <custom item="wp-chalkboard-image" width="50%"/>
+                    <custom item="wp-chalkboard-image" width="40%"/>
             </subsubsection>
         </subsection>
         <subsection xml:id="outlining">
@@ -197,7 +197,7 @@
                 <paragraphs xml:id="par-intros-road-map">
                     <title>The Road Map</title>
                     <p>While first impressions are not always accurate, you usually don't get a second chance to impress your audience in writing. This is why the introduction of your paper is just as important as the body paragraphs and conclusion; it is the <q>road map</q> of your argument, the first thing your audience will read, and the part that will determine whether or not your audience will continue reading. Therefore, it's important to have a strong introduction to introduce your argument, lay out the expectations of your paper, and convince your audience members why they should care enough to read on. To this end, there are a few things you should include in your introduction to make it as effective as possible.</p>
-                        <image source="images/WP-RoadMap" width="80%"/>
+                        <image source="images/WP-RoadMap" width="60%"/>
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="introuductions-anatomy">
@@ -497,9 +497,7 @@
                         </li>
                     </ul>
                 </list>
-                <sidebyside width="50%">
                     <image source="images/WP-ButWhy" width="80%"/>
-                </sidebyside>
                 <p>If you want some more ideas for writing effective conclusions, take a look at the following examples from student papers:</p>
                 <example>
                     <title>Conclusion: Women in the <pubtitle>Odyssey</pubtitle></title>

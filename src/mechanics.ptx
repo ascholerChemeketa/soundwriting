@@ -436,7 +436,7 @@
                     <p><q><un s="1">To understand</un> infinitives <em>fully</em>, one should learn when to use them.</q></p>
                 </blockquote>
                 <p>In this sentence, the modifying adverb <q>fully</q> is placed outside of the verb form <q>to understand.</q> While this placement does not interfere with the meaning or fluency of the sentence, it breaks up the logical unit of thought; one must refer back to the intact verb form <q>to understand</q> in order to identify what <q>fully</q> is modifying. Therefore, it might be better to split the infinitive so the reader has a clearer idea of what kind of understanding the sentence is promising (full understanding).</p>
-                    <image source="images/LM-SplitInfinitives" width="100%"/>
+                    <image source="images/LM-SplitInfinitives" width="80%"/>
                 <p>
                     Below are some more examples of infinitives that are probably okay to leave split:
                 </p>
@@ -933,7 +933,7 @@
                 <title>Mixing Word Forms</title>
                 <p>The above sentence is an example of mixing word forms (to read, to drink, and petting). If you have a verb that applies to two or more of the items in the series, it must apply to all items equally in order to preserve correct parallel structure. Take the following example of mixing word forms:</p>
                 <custom item="parallelism-example"/>
-                    <custom item="oppenheimer-image" width="50%"/>
+                    <custom item="oppenheimer-image" width="40%"/>
             </subsubsection>
             <subsubsection xml:id="parallelism-mixing-clause-forms">
                 <title>Mixing Clause Forms</title>
