@@ -73,7 +73,7 @@
                         </li>
                     </dl>
                 </list>
-                <image source="images/LM-PartsofSpeech" width="100%"/>
+                <image source="images/LM-PartsofSpeech" width="100%"><description>A colorful graphic displays definitions and examples for each part of speech. The definitions are the same as in the list above and the examples are as follows. Noun: president, car, house; verb: run, sing, jump; adjective: pretty, cool, nosy; adverb: fast, quickly, miraculously; pronoun: he, she, they, it; preposition: at, on, before; conjunction: and, but, yet, because; interjection: yikes, oh!, huh? Below the types of speech is a phrase with the parts of speech color coded. The phrase is "The cute [adjective] cat [noun] quickly [adverb] jumped [verb] over [preposition] the fence [noun], but [conjunction], sadly [adverb], he [pronoun] missed [verb] dinner [noun]. Egads! [interjection]"</description></image>
         </subsection>
         <subsection xml:id="basic-sentence-structure">
             <title>Basic Sentence Structure</title>
@@ -97,7 +97,8 @@
                 <p>A complete sentence always has a <xref ref="definition-subject" text="title"/> and a <xref ref="definition-predicate" text="title"/>. A predicate can include both direct and indirect objects.</p>
                 <p>A <term>direct object<idx>direct object</idx></term> is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs.</p>
                 <p>An <term>indirect object<idx>indirect object</idx></term> is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
-                    <image source="images/LM-Direct-Indirect" width="80%"/>
+                    <image source="images/LM-Direct-Indirect" width="80%"><description>This diagram displays the difference between direct and indirect nouns. The top half has the label, "You bought a present." A graphic of money is labeled "action=bought" and a graphic of a present is labeled "direct object= present." An arrow from the money to the present shows that the action is acting on the present. The bottom half of the diagram changes to the sentence, "You bought a present for me." The same images are replicated, and additional graphic of a happy person is labeled "indirect object: for me." An arrow points from the present to the person, showing the relationship between direct and indirect objects.
+</description></image>
             </subsubsection>
             <subsubsection xml:id="clauses">
                 <title>Clauses</title>
@@ -436,7 +437,7 @@
                     <p><q><un s="1">To understand</un> infinitives <em>fully</em>, one should learn when to use them.</q></p>
                 </blockquote>
                 <p>In this sentence, the modifying adverb <q>fully</q> is placed outside of the verb form <q>to understand.</q> While this placement does not interfere with the meaning or fluency of the sentence, it breaks up the logical unit of thought; one must refer back to the intact verb form <q>to understand</q> in order to identify what <q>fully</q> is modifying. Therefore, it might be better to split the infinitive so the reader has a clearer idea of what kind of understanding the sentence is promising (full understanding).</p>
-                    <image source="images/LM-SplitInfinitives" width="80%"/>
+                    <image source="images/LM-SplitInfinitives" width="80%"><description>A label reads "fun fact." The graphic contains the text, "What’s the deal with split infinitives? In Latin, it’s impossible to split infinitives because infinitives are always one word (like nager in French or nadar in Spanish). So, way back in the day when people in power were standardizing English, they decided it should be like Latin and not split infinitives, even though English technically can while Latin technically can’t."</description></image>
                 <p>
                     Below are some more examples of infinitives that are probably okay to leave split:
                 </p>
@@ -562,7 +563,7 @@
                     <p><q>The <em>number</em> of on-campus trees <alert>grows</alert> each year.</q></p>
                     <p><q>The <em>orientation leader</em>, alongside all of their orientees, <alert>was</alert> excited to reach the end of the trail.</q></p>
                 </example>
-                    <image source="images/LM-SubjectVerbAgreement.png" width="100%"/>
+                    <image source="images/LM-SubjectVerbAgreement.png" width="100%"><description>This graphic points out subject verb agreement in the sentence, "The number of on-campus trees grows each year." Arrows point from the noun "number" and the verb "grows" to the text "Subject-verb agreement!" to indicate that these are the subject and verb that agree. The noun "tree" is circled and accompanied by the following text: "While it may be tempting to write 'grow' because of the plural 'trees,'' remember that the SUBJECT of the sentence is singular: the number!"</description></image>
                 <p>There are also some English words, especially in the sciences, that have tricky plural forms, so you might not even realize that the word you're using is actually plural. One great example is the word <em>data</em>, which is plural (<em><q>The data suggest that<ellipsis/></q></em>).</p>
                 <p>Other examples include criteria/criterion, media/medium, and phenomena/phenomenon.</p>
                 <note>
@@ -1177,7 +1178,7 @@
                     <p><q>The actor who played Hamlet fell five times on stage, broke poor Yorick's skull, and forgot his lines during the <q>To be, or not to be<ellipsis/></q> speech. The directors of the play should have chosen a better actor to play Hamlet.</q></p>
                 </blockquote>
                 <p>The first sentence isn't <em>bad,</em> but the second sentences uses specific verbs that are widely known to paint a rich picture about why the actor who played Hamlet should get the hook.</p>
-                    <image source="images/LM-Hamlet" width="50%"/>
+                    <image source="images/LM-Hamlet" width="50%"><description>A stick figure person holds up a cartoon skull in one hand.</description></image>
             </example>
             <p>Here are some synonyms that you might consider using to replace common or boring words. Remember to search for the definition of the synonym if you're uncertain of its meaning or connotations to ensure that it correctly conveys the meaning of your sentence.</p>
             <list xml:id="list-mechanics-overused-words">
@@ -1282,7 +1283,7 @@
                     </dl>
                 </p>
             </example>
-                <image source="images/LM-PassiveVoice" width="100%"/>
+                <image source="images/LM-PassiveVoice" width="100%"><description>In the lower-right corner of this graphic is the title "Active" and the sentence, "Sally hugged Barbara." A curved arrow connects "Sally" to "Barbara." In the upper right corner is the title "Passive" and the sentence, "Barbara was hugged by Sally." A curved arrow connects the word "was" and the word "by." </description></image>
             <list xml:id="list-mechanics-passive-voice-strategies">
                 <title>Strategies for Identifying Passive Voice</title>
                 <introduction>
@@ -1355,7 +1356,7 @@
                 <p>Try using a thesaurus to find alternative words, <alert>but use caution!</alert> Sometimes thesauruses mislead writers when the writer doesn't fully understand the connotation or typical uses of a synonym.</p>
             </warning>
             <p>Here's a list of <xref ref="example-strong-verbs" text="title"/> to consider using. There are short definitions to give you an idea of what the word means, but be sure to look up any words you use to make sure that the contexts in which you're using them align with their meaning. There may also be alternative meanings that aren't listed here, so the dictionary and thesaurus will still be your friends.</p>
-                <image source="images/LM-HerbTheStrongVerb" width="50%"/>
+                <image source="images/LM-HerbTheStrongVerb" width="50%"><description>A nametag sticker bears the text, "Hello my name is Herb the Strong Verb." Below it is a black-and-white graphic of a shirtless retro wrestler.</description></image>
             <example xml:id="example-strong-verbs">
                 <title>Some Strong Verbs</title>
                 <p>
@@ -1741,7 +1742,7 @@
             </subsubsection>
             <subsubsection xml:id="homophones-its-its">
                 <title>Incorrect Use of Its and It's</title>
-                    <image source="images/LM-ItAndRain" width="100%"/>
+                    <image source="images/LM-ItAndRain" width="100%"><description>The text "Its = possessive" has the following example below it: "My raincoat is missing its hood." The text "It’s = it is" is flanked by this example: "It’s unfortunate because it’s really rainy today." On the left side of the image is a comic of an umbrella with the text "Is it possessive or a contraction?" Raindrops falling onto the umbrella bear a mix of the word "its" and the word "it’s."</description></image>
                 <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on <custom item="quad"/>.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on <custom item="quad"/>,</q> does not make very much sense, so this may be an indication that the correct form to use is <q>its.</q></p>
                 <p>Below are some sentence examples of <q>its</q> and <q>it's</q> to help you distinguish which form to use.</p>
                 <example>
@@ -1882,7 +1883,7 @@
                             </li>
                         </ul>
                     </list>
-                        <image source="images/LM-CatCommaSplices" width="80%"/>
+                        <image source="images/LM-CatCommaSplices" width="80%"><description>This graphic is titled "Commas aren’t for splicing" with a picture of a cat. It begins with the sentence "I like cats, they are cute," labeled "Example: SPLICE." The next line bears the text, "Fix 1, semicolon: I like cats; they are cute." The next line says, "Fix 2, period: I like cats. They are cute." The third line says, "Fix 3, coordinating conjunction: I like cats, and they are cute." Next is, "Fix 4, subordinating conduction: I like cats because they are cute." The final line reads, "Fix 5, combine into one sentence: I like cute cats." </description></image>
                 </paragraphs>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-semicolon">
@@ -1961,7 +1962,7 @@
             <subsubsection xml:id="punctuation-capitalization-quotations">
                 <title>Quotation Marks</title>
                 <p>When you quote something, you are exactly replicating the words, phrases, and sentences of another source. Therefore, whenever you are quoting something directly, it's always a good idea to make sure you copy the quotation exactly as it appears in the source. Otherwise, you're inadvertently changing what the quote is saying! But sometimes when you write longer and more complicated quotes, you may forget to insert commas or emphases, type a wrong word, or end the quote incorrectly. Besides simply trying to copy the quote exactly, there are a few other guidelines to keep in mind while incorporating quotes into your writing.</p>
-                    <image source="images/LM-CircleLogoAmpersand" width="50%"/>
+                    <image source="images/LM-CircleLogoAmpersand" width="50%"><description>A large white ampersand is on a circular maroon background, flanked by the smaller yellow text "It’s for everyone."</description></image>
                 <list xml:id="list-mechanics-quoting-sentences-strategies">
                     <title>Strategies for Quoting Complete Sentences</title>
                     <ul>
@@ -2059,7 +2060,7 @@
             <subsubsection xml:id="punctuation-capitalization-apostrophes">
                 <title>Apostrophes</title>
                 <p>Apostrophes, or single quotation marks, most often mark possession. However, due to the inconsistent nature of English morphology, the task of marking possession is rather complicated.</p>
-                    <image source="images/LM-TurtlesAndWomen" width="100%"/>
+                    <image source="images/LM-TurtlesAndWomen" width="100%"><description>This diagram illustrates use of plurals and apostrophes. In the upper left is the text "1 woman = 1 woman." An arrow points to the "a" in the right-hand "woman." In the lower left is the text "1 woman" with a plus sign and a graphic of a turtle. On the other side of an equals sign is the text "Woman’s turtle," with a small arrow pointing to the "a" in "woman." On the upper right is the text "1 woman + 1 woman = 2 women," with an arrow pointing to the "e" in "women." In the lower left is the text "1 woman + 1 woman +" a picture of a turtle. On the other side of an equals sign is the text "women’s turtle," with an arrow pointing to "e" in "women’s."</description></image>
                 <list>
                     <title>Ways you can Indicate Possession with an Apostrophe</title>
                     <introduction>
@@ -2121,7 +2122,7 @@
                         </li>
                     </dl>
                 </list>
-                    <image source="images/LM-GiraffeTree" width="100%"/>
+                    <image source="images/LM-GiraffeTree" width="100%"><description>On the left is a tree with a single giraffe in front of it. The tree is labeled "Giraffe’s tree." On the right is a tree with two giraffes in front of it. This tree is labeled, "Giraffes’ tree." </description></image>
                 <p>
                     Apostrophes are also used to mark contractions, or two words combined, such as <q>could</q> and <q>have,</q> which can be contracted, or shortened, to <q>could've.</q> A single apostrophe takes the place of omitted letters.
                 </p>

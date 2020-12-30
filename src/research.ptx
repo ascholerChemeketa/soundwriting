@@ -170,7 +170,7 @@
                 </li>
             </ul>
         </list>
-            <image source="images/RM_KeywordsSearchTerms" width="70%"/>
+            <image source="images/RM_KeywordsSearchTerms" width="70%"><description>A colorful list of the same keywords and search terms found in the list "Tips for Searching a Database"</description></image>
         <list xml:id="list-research-database-search">
             <title>Tips for Searching a Database</title>
             <dl>
