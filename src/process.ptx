@@ -171,17 +171,19 @@
             <subsubsection xml:id="outlining-classic">
                 <title>The Classic Outline</title>
                     <p>The <term>classic outline<idx>classic outline</idx></term> is potentially the one you're most familiar with. Many people prefer to outline in this structure because it is very linear, organized, and clear. After constructing a thorough outline in this format, virtually all a writer needs to do is fill in the gaps with prose. If you think linearly, need more structure when organizing your ideas, or prefer to have the skeleton of your paper completed before you begin writing, the classic outline might be the outline for you.</p>
-                        <image source="images/WP-ClassicOutline" width="80%"/>
+                        <image source="images/WP-ClassicOutline" width="80%"><description>A piece of paper with text is an example of a classic outline. The text and formatting is as follows: "I. Introduction: The Classic Outline [line break, indent] A. Thesis: This is what a classic outline looks like [line break] II. You have your main points [line break, indent] A. And your supporting claims [line break, double indent] 1. And your evidence [line break] III. Because topic sentences are so useful, you might even put a topic sentence conveying your main point. [line break, indent] A. Some more supporting claims [line break, double indent] 1. And more evidence [line break] IV. WOW - another great point [line break, indent] A. More claims and evidence [line break, indent] V. Such a strong point A. Solid, convincing claims and evidence VI. Conclusion: Isn’t the classic outline so linear, organized, and clear?"
+</description></image>
             </subsubsection>
             <subsubsection xml:id="the-bubble-map">
                 <title>The Bubble Map</title>
                 <p>The <term>bubble map<idx>bubble map</idx></term> is a great option for writers who prefer a less-structured organization or a more organic relationship between ideas. Bubble maps also enable you to conceptualize your claims in a dynamic way, which can be beneficial for papers or topics that have several claims that can be connected to each other differently.</p>
-                    <image source="images/WP-BubbleMap" width="80%"/>
+                    <image source="images/WP-BubbleMap" width="80%"><description> This diagram shows an example bubble map. In the center, circled with a bold black line, is the text "Thesis: I don’t like to think linearly, so I’m going to make a bubble map." Around this central bubble are other bubbles connected to it with arrows, with text like "A great claim" and "My greatest claim?" Some of these bubbles are also connected to each other with arrows. Finally, bubbles with jagged borders are attached to the claim bubbles with text like "Evidence for that great claim" and "Need more evidence!"
+</description></image>
             </subsubsection>
             <subsubsection xml:id="outlining-flowchart">
                 <title>The Flowchart</title>
                 <p><term>Flowcharts<idx>flowcharts</idx></term> work well for people who like (or papers that require) the organization and structure of a classic outline but need the organic, concept-based connections of a bubble map. Flowcharts show both linear and more circular connections between points. You can begin with your thesis at the top of the chart, or you may opt to do a mini-flowchart for each paragraph with topic sentences at the top. Your argument progresses with each descending bubble on the chart, but you still have the flexibility to show connections between claims and pieces of evidence in concert with the linear flow of your argument.</p>
-                    <image source="images/WP-Flowchart" width="80%"/>
+                    <image source="images/WP-Flowchart" width="80%"><description>This diagram shows an example flowchart. A series of gray bubbles filled with text progress down the page, with red arrows leading from top to bottom but also connecting bubbles that are next to each other. The top bubble reads "Thesis: A flow chart is a great way to achieve the organization of a classic outline while maintaining the flexibility of a bubble map." A series of bubbles have text like "A great claim and evidence" and "WOW- a claim!" and the final bubble reads "Conclusion."</description></image>
             </subsubsection>
         </subsection>
     </section>
