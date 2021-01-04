@@ -145,7 +145,7 @@
     <!-- Sentence from acknoledgements revised for generic edition -->
     <school-custom type="goals">Our goal is to promote the socially conscious and <q>sound writing</q> that is at the heart of a Puget Sound education. As writing advisors at the Center for Writing, Learning, and Teaching and as students who have faced challenges similar to those that you will face, we have tailored this book to the needs of Puget Sound students.</school-custom>
      <!-- loggers live green image, remove for generic -->
-    <school-custom type="green-image"><image source="images/WP-LoggersLiveGreen"/></school-custom>
+    <school-custom type="green-image"><image source="images/WP-LoggersLiveGreen"><description>Maroon text reads "Loggers Live Green" with a small green leaf below it</description></image></school-custom>
      <!-- A list of ideas on finding your ideal study spot from the Overcoming Procrastination section -->
     <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try Diversions, the piano lounge, the rotunda, upstairs in the <init>SUB</init>, a study room in the basement or second floor of the library, empty classrooms in Thompson, study areas in Thompson/Harned, Oppenheimer (the cafe), the <init>CWLT</init>, common spaces in your residence hall, study spaces around Wyatt or Weyerhaeuser, or (if the weather is nice) even somewhere outside (hint: the courtyard outside Oppenheimer Cafe has outdoor outlets!).</school-custom>
     <!-- Name of student body identifier (tied to mascot) like "Loggers" or "Beavers" -->
@@ -229,7 +229,7 @@ Library website</url></school-custom>
         </insight>
             </school-custom>
      <!-- oppenheimer image, remove for generic -->
-    <school-custom type="oppenheimer-image"><image source="images/LM-Oppenheimer"/></school-custom>
+    <school-custom type="oppenheimer-image"><image source="images/LM-Oppenheimer"><description>A photo of one of the tall brick towers of Thompson Hall, seen through the ceiling windows of Oppenheimer Cafe. Below the photo is the following text: "Oppenheimer is a relaxing place to study; it is calm, quiet, and has lots of windows." The text "has lots of windows" has a wavy red line through it, and the replacement text "Airy" is below it with a green check mark.</description></image></school-custom>
     <!-- An example of parallelism problems. Has some tricky formatting, other schools should use generic unless pretext-savvy -->
     <school-custom type="parallelism-example">
                 <blockquote>
@@ -334,7 +334,7 @@ Library website</url></school-custom>
     <!-- This section of a paragraph suggests resources for students looking to learn more about issues related to writing with awareness. -->
     <school-custom type="waw-resources">Looking for courses that fulfill the <url href="https://www.pugetsound.edu/academics/curriculum-courses/knowledge-identity-and-power">Knowledge, Identity, and Power</url> (<acro>KNOW</acro>) graduation requirement is another good way to find relevant courses. Get involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs offered through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>).</school-custom>
     <!-- This image references UPS study spots and should be removed from generic version -->
-    <school-custom type="wp-chalkboard-image"><image source="images/WP-ChalkboardTip"/></school-custom>
+    <school-custom type="wp-chalkboard-image"><image source="images/WP-ChalkboardTip"><description>A small cartoon of a chalkboard bears the word "Tip." Below it is the text, "Use whiteboards in the CWLT or chalkboards in Thompson to plan or outline. They have a lot of space, and it's easy to erase!"</description></image></school-custom>
      <!-- Name of writing tutors offered through the university. Capitalized. -->
     <school-custom type="writing-tutor">Writing Advisor</school-custom>
     <!-- This sentence from chapter two mentions UPS professors specifically -->
