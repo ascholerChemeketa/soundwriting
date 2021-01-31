@@ -11,52 +11,55 @@
 <!-- Source:  https://github.com/UPS-CWLT/soundwriting                  -->
 <!--                                                                    -->
 
-<school-customizations>
+<!-- The "pi" namespace is necessary for the "internal" -->
+<!-- markup at the outer level of this file.            -->
+
+<pi:customizations xmlns:pi="http://pretextbook.org/2020/pretext/internal">
      <!-- The way this is used generic won't make sense -->
-    <school-custom type="a-capella">a capella group</school-custom>
-        <school-custom type="academic-building">the lecture hall</school-custom>
-        <school-custom type="AC-appointment">tutoring appointment</school-custom>
-        <school-custom type="AC-deadlines-2">
+    <custom name="a-capella">a capella group</custom>
+        <custom name="academic-building">the lecture hall</custom>
+        <custom name="AC-appointment">tutoring appointment</custom>
+        <custom name="AC-deadlines-2">
         <title>Make a tutoring appointment</title>
                     <p>Making an appointment at your tutoring center can give you an intermediate deadline to work towards and is a great way to practice scheduling and time management.</p>
-                </school-custom>
-        <school-custom type="AC-identity"></school-custom>
-        <school-custom type="AC-notes-insight"></school-custom>
-    <school-custom type="AC-online-success"></school-custom>
-    <school-custom type="AC-overcoming-procrastination"></school-custom>
-        <school-custom type="AC-resources-deadlines">If you often find yourself writing papers at the last minute, read this section or try making an appointment at your tutoring center to practice scheduling and time management.</school-custom>
-        <school-custom type="AC-resources-time-management"></school-custom>
-        <school-custom type="and-agreement">Mango, pineapple, and strawberry are the best flavors of smoothie.</school-custom>
-        <school-custom type="art-building">the art studio</school-custom>
-        <school-custom type="biology-resources"></school-custom>
-     <school-custom type="block-quote-example"><p>According to its website, the Washington Trails Association believes that:</p>
+                </custom>
+        <custom name="AC-identity"></custom>
+        <custom name="AC-notes-insight"></custom>
+    <custom name="AC-online-success"></custom>
+    <custom name="AC-overcoming-procrastination"></custom>
+        <custom name="AC-resources-deadlines">If you often find yourself writing papers at the last minute, read this section or try making an appointment at your tutoring center to practice scheduling and time management.</custom>
+        <custom name="AC-resources-time-management"></custom>
+        <custom name="and-agreement">Mango, pineapple, and strawberry are the best flavors of smoothie.</custom>
+        <custom name="art-building">the art studio</custom>
+        <custom name="biology-resources"></custom>
+     <custom name="block-quote-example"><p>According to its website, the Washington Trails Association believes that:</p>
                     <blockquote>
                         <p><ul>
                             <li><p>That exploring nature is good for people’s hearts, minds and bodies, and that hiking is a powerful way for everyone to connect with Washington’s natural wonders.</p></li>
                             <li><p>That people will protect the places they love to hike, from local parks to remote wilderness.</p></li>
                             <li><p>It is vitally important for everyone to have the opportunity to access the outdoors, and we are committed to reducing barriers to hiking trails and lands.</p></li>
                             </ul></p>
-                    </blockquote></school-custom>
-     <school-custom type="bracket-example"><p>The subject tutor asked the class, <q>Y'all [sic] going to the review session tonight in the library?</q></p>
-                        <p>The class responded, <q><em>Of course</em> we're going to the review session [emphasis in original].</q></p></school-custom>
-    <school-custom type="capitalized-quote-example"><p>The tutor said, <q>At the tutoring center we want to provide opportunities for all students to acheive their academic goals.</q></p>
-        <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></school-custom>
-     <school-custom type="career-office">career services office</school-custom>
-    <school-custom type="career-office-email">the career services email</school-custom>
+                    </blockquote></custom>
+     <custom name="bracket-example"><p>The subject tutor asked the class, <q>Y'all [sic] going to the review session tonight in the library?</q></p>
+                        <p>The class responded, <q><em>Of course</em> we're going to the review session [emphasis in original].</q></p></custom>
+    <custom name="capitalized-quote-example"><p>The tutor said, <q>At the tutoring center we want to provide opportunities for all students to acheive their academic goals.</q></p>
+        <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></custom>
+     <custom name="career-office">career services office</custom>
+    <custom name="career-office-email">the career services email</custom>
     <!-- This won't work generic -->
-    <school-custom type="career-office-phone">career services phone number</school-custom>
+    <custom name="career-office-phone">career services phone number</custom>
     <!-- This won't work generic -->
-    <school-custom type="career-office-rm">the career services office location</school-custom>
-    <school-custom type="career-office-short">career services office</school-custom>
-    <school-custom type="career-office-url">career services website</school-custom>
-    <school-custom type="CES-interview">We won't go into the process of helping you prepare for an interview here, although your career services office should be able to help with that.</school-custom>
-    <school-custom type="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url>. Remember that you can always bring your resume to your career services office for more editing ideas!</school-custom>
-    <school-custom type="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see this <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">Resume Guide</url></q> and this <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url></q> designed for college students. When in doubt, visit your career services office!</p></school-custom>
-    <school-custom type="CES-thanks">For more on the benefits and limitations of each format, see this handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide for college students.</school-custom>
-    <school-custom type="chapter-five">we compile guidelines from faculty members to help you navigate within and between the different disciplines you will encounter over the course of your education, as you fulfill your graduation requirements and generally become a more well-rounded, inquisitive, boundary-crossing liberal arts version of yourself.</school-custom>
-     <school-custom type="chemistry-professor">one chemistry professor</school-custom>
-   <school-custom type="chemistry-resources"></school-custom>
-     <school-custom type="clear-split-infinitive">
+    <custom name="career-office-rm">the career services office location</custom>
+    <custom name="career-office-short">career services office</custom>
+    <custom name="career-office-url">career services website</custom>
+    <custom name="CES-interview">We won't go into the process of helping you prepare for an interview here, although your career services office should be able to help with that.</custom>
+    <custom name="CES-job-resources">For more tips and tricks on how to write a great cover letter, see this <url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url>. Remember that you can always bring your resume to your career services office for more editing ideas!</custom>
+    <custom name="CES-resume-resources"><p>For more tips and tricks on how to write a great cover letter and resume, see this <q><url href="https://www.pugetsound.edu/files/resources/ces-resume-guide-201920.pdf">Resume Guide</url></q> and this <q><url href="https://www.pugetsound.edu/files/resources/ces-cover-letter-guide.pdf">Cover Letter Guide</url></q> designed for college students. When in doubt, visit your career services office!</p></custom>
+    <custom name="CES-thanks">For more on the benefits and limitations of each format, see this handy <q><url href="https://www.pugetsound.edu/files/resources/ces-professional-email-thank-you-note-guide.pdf">Professional Emails and Thank-You Notes</url></q> guide for college students.</custom>
+    <custom name="chapter-five">we compile guidelines from faculty members to help you navigate within and between the different disciplines you will encounter over the course of your education, as you fulfill your graduation requirements and generally become a more well-rounded, inquisitive, boundary-crossing liberal arts version of yourself.</custom>
+     <custom name="chemistry-professor">one chemistry professor</custom>
+   <custom name="chemistry-resources"></custom>
+     <custom name="clear-split-infinitive">
         <title>Clear Split Infinitive: Backpacking Trip</title>
                     <p><dl>
                             <li>
@@ -68,49 +71,49 @@
                                 <p><q>In order <em>properly</em> <un s="1">to plan</un> for a backpacking trip, you must get all the right gear ahead of time.</q> [infinitive is intact, but sentence is just plain awkward]</p>
                                 <p><q>In order <un s="1">to plan</un> for a backpacking trip <em>properly</em>, you must get all the right gear ahead of time.</q> [infinitive is intact and the sentence is acceptable, but the modifier <q>properly</q> is somewhat removed from the verb form <q>to plan</q>]</p>
                             </li>
-                        </dl></p></school-custom>
-    <school-custom type="city">the city</school-custom>
-    <school-custom type="craft-of-research"></school-custom>
-    <school-custom type="coffee-shop">the coffee shop</school-custom>
-    <school-custom type="compound-sentence-1">I have always loved <pubtitle>Harry Potter</pubtitle>, and I'm so excited to go to the movie marathon next month!</school-custom>
-    <school-custom type="compound-sentence-2">I always need coffee when I study early in the morning, so I'm grateful that the coffee shop opens at 6am.</school-custom>
-    <school-custom type="covid-resources">resources</school-custom>
-     <school-custom type="counseling-resources">If you're really feeling overwhelmed, schedule a counseling appointment at your university health center.</school-custom>
-    <school-custom type="course-guides">Your library likely has course guides or subject guides that are created by the research librarians for you to use. They have a lot of great information that can be very helpful for you in your research process. For instance, they can help you figure out whether your source is scholarly or popular, and whether it's primary, secondary, or tertiary. They also can point you to which databases you should be using and give you tips on how to use them. If you get stuck in your process, the course guides also have the contact information of the librarian working with your class, as well as that of peer research advisors.</school-custom>
-    <school-custom type="CWLT-time-chart"></school-custom>
-    <school-custom type="database-info">The general library search engine may seem like it has every source you could possibly need. While it can be very helpful, there are many databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would with a general search. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases.</school-custom>
-    <school-custom type="dining-hall">dining hall</school-custom>
-    <school-custom type="diversity-center">student diversity center</school-custom>
-    <school-custom type="diversity-plan"></school-custom>
-    <school-custom type="either-or-agreement">Either the home team or their rival is going to win the Ultimate frisbee championship this year.</school-custom>
-     <school-custom type="english-resources">Ask a librarian if you have access to the OED through your library!</school-custom>
-    <school-custom type="fountain">the fountain</school-custom>
-    <school-custom type="generic-disciplines-note">Because disciplinary expectations are similar between institutions, this chapter is a useful reference point at any university; however, it was developed specifically through close partnership with departments at the University of Puget Sound and the names and specifics of departments may differ somewhat at your university.</school-custom>
-    <school-custom type="gender-resources">Taking courses in Gender Studies, Queer Studies, or Women's Studies or looking into programs offered by your university's diversity center are great places to start.</school-custom>
-    <school-custom type="goals">Our goal is to promote socially conscious and “sound writing." As writing advisors and as students who have faced challenges similar to those that you will face, we have tailored this book to the needs of students.</school-custom>
-    <school-custom type="green-image"></school-custom>
-    <school-custom type="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try a coffee shop, a study room in the library, the tutoring center, an empty classroom, study spaces in academic buildings, common spaces in your residence hall, or (if the weather is nice) even somewhere outside.</school-custom>
-    <school-custom type="identity">student</school-custom>
-    <school-custom type="intro-writing">first-year writing course</school-custom>
-    <school-custom type="intro-writing-student">first-year writing student</school-custom>
-    <school-custom type="IPE-resources"></school-custom>
-    <school-custom type="is-agreement">The old part of town is a cool place to explore.</school-custom>
-    <school-custom type="learning-management">your professor's online learning management system</school-custom>
-    <school-custom type="learning-management-lib">At your university library you can likely access learning management tools like RefWorks and Zotero, and any librarian would be more than happy to help you get started.</school-custom>
+                        </dl></p></custom>
+    <custom name="city">the city</custom>
+    <custom name="craft-of-research"></custom>
+    <custom name="coffee-shop">the coffee shop</custom>
+    <custom name="compound-sentence-1">I have always loved <pubtitle>Harry Potter</pubtitle>, and I'm so excited to go to the movie marathon next month!</custom>
+    <custom name="compound-sentence-2">I always need coffee when I study early in the morning, so I'm grateful that the coffee shop opens at 6am.</custom>
+    <custom name="covid-resources">resources</custom>
+     <custom name="counseling-resources">If you're really feeling overwhelmed, schedule a counseling appointment at your university health center.</custom>
+    <custom name="course-guides">Your library likely has course guides or subject guides that are created by the research librarians for you to use. They have a lot of great information that can be very helpful for you in your research process. For instance, they can help you figure out whether your source is scholarly or popular, and whether it's primary, secondary, or tertiary. They also can point you to which databases you should be using and give you tips on how to use them. If you get stuck in your process, the course guides also have the contact information of the librarian working with your class, as well as that of peer research advisors.</custom>
+    <custom name="CWLT-time-chart"></custom>
+    <custom name="database-info">The general library search engine may seem like it has every source you could possibly need. While it can be very helpful, there are many databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would with a general search. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases.</custom>
+    <custom name="dining-hall">dining hall</custom>
+    <custom name="diversity-center">student diversity center</custom>
+    <custom name="diversity-plan"></custom>
+    <custom name="either-or-agreement">Either the home team or their rival is going to win the Ultimate frisbee championship this year.</custom>
+     <custom name="english-resources">Ask a librarian if you have access to the OED through your library!</custom>
+    <custom name="fountain">the fountain</custom>
+    <custom name="generic-disciplines-note">Because disciplinary expectations are similar between institutions, this chapter is a useful reference point at any university; however, it was developed specifically through close partnership with departments at the University of Puget Sound and the names and specifics of departments may differ somewhat at your university.</custom>
+    <custom name="gender-resources">Taking courses in Gender Studies, Queer Studies, or Women's Studies or looking into programs offered by your university's diversity center are great places to start.</custom>
+    <custom name="goals">Our goal is to promote socially conscious and “sound writing." As writing advisors and as students who have faced challenges similar to those that you will face, we have tailored this book to the needs of students.</custom>
+    <custom name="green-image"></custom>
+    <custom name="ideal-study-spot">Depending on your noise-level and spatial preferences and the time of day (or night), you might try a coffee shop, a study room in the library, the tutoring center, an empty classroom, study spaces in academic buildings, common spaces in your residence hall, or (if the weather is nice) even somewhere outside.</custom>
+    <custom name="identity">student</custom>
+    <custom name="intro-writing">first-year writing course</custom>
+    <custom name="intro-writing-student">first-year writing student</custom>
+    <custom name="IPE-resources"></custom>
+    <custom name="is-agreement">The old part of town is a cool place to explore.</custom>
+    <custom name="learning-management">your professor's online learning management system</custom>
+    <custom name="learning-management-lib">At your university library you can likely access learning management tools like RefWorks and Zotero, and any librarian would be more than happy to help you get started.</custom>
     <!-- No URL available in generic case, so just text again -->
-    <school-custom type="librarian">librarian</school-custom>
-    <school-custom type="library">your university library</school-custom>
-    <school-custom type="library-as-url">your university library</school-custom>
-    <school-custom type="library-url">library website</school-custom>
-    <school-custom type="local-needs">Though our text grows out of the particular local needs of students and faculty members at the University of Puget Sound, it is our hope that audiences beyond our campus will find the writing advice in this text to be useful. This edition has been revised to facilitate wider use by audiences outside of the University of Puget Sound. We also encourage other campuses to contact us about developing their own custom editions with their own local references.</school-custom>
-    <school-custom type="mascot"> mascot</school-custom>
-    <school-custom type="microsoft-word">Microsoft Word is the word processor we'll be exploring here.</school-custom>
-   <school-custom type="neuro-phys-diversity-resources">Look for courses in Disability Studies and educational resources offered by your school's office of accessibility and accommodation</school-custom>
-    <school-custom type="nice-dorm">the nice dorm</school-custom>
-    <school-custom type="off-campus-study-list"></school-custom>
-    <school-custom type="on-campus-study-list"></school-custom>
-    <school-custom type="oppenheimer-image"></school-custom>
-    <school-custom type="parallelism-example">
+    <custom name="librarian">librarian</custom>
+    <custom name="library">your university library</custom>
+    <custom name="library-as-url">your university library</custom>
+    <custom name="library-url">library website</custom>
+    <custom name="local-needs">Though our text grows out of the particular local needs of students and faculty members at the University of Puget Sound, it is our hope that audiences beyond our campus will find the writing advice in this text to be useful. This edition has been revised to facilitate wider use by audiences outside of the University of Puget Sound. We also encourage other campuses to contact us about developing their own custom editions with their own local references.</custom>
+    <custom name="mascot"> mascot</custom>
+    <custom name="microsoft-word">Microsoft Word is the word processor we'll be exploring here.</custom>
+   <custom name="neuro-phys-diversity-resources">Look for courses in Disability Studies and educational resources offered by your school's office of accessibility and accommodation</custom>
+    <custom name="nice-dorm">the nice dorm</custom>
+    <custom name="off-campus-study-list"></custom>
+    <custom name="on-campus-study-list"></custom>
+    <custom name="oppenheimer-image"></custom>
+    <custom name="parallelism-example">
                 <blockquote>
         <p><q>My favorite coffeeshop is a relaxing place to study; it is calm, quiet, and has lots of windows.</q></p>
                 </blockquote>
@@ -121,41 +124,41 @@
                         <li><p><q>My favorite coffeeshop is a relaxing place to study; it is calm and quiet and has lots of windows.</q></p></li>
                         <li><p><q>My favorite coffeeshop is a relaxing place to study; it is calm, quiet, and airy.</q></p></li>
                     </ul>
-                </p></school-custom>
-    <school-custom type="park">the park</school-custom>
-    <school-custom type="personal-statement-resources">For more tips and tricks on how to write a personal statement, see this <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page. Remember that you can bring in your personal statement drafts to your university fellowship office and tutoring center, likely even after you graduate.</school-custom>
-    <school-custom type="philosophy-resources"></school-custom>
-    <school-custom type="pizza-place">Dominos</school-custom>
-    <school-custom type="plagiarism-policy">For more information on your university's plagiarism policy, check out your student academic handbook.</school-custom>
-    <school-custom type="printing">printer money</school-custom>
-    <school-custom type="pronoun-resources">Taking courses in Gender and Queer Studies would be a good way to continue learning, as would getting involved in programs through your school's diversity center.</school-custom>
-    <school-custom type="quad">the quad</school-custom>
-    <school-custom type="quote-example"><p>After their meeting with the assistant director of the tutoring center, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></school-custom>
-    <school-custom type="race-resources">Taking courses in African American Studies, Asian Studies, Hispanic Studies, Latin American Studies, Latina/o Studies, French and Francophone Studies, and similar disciplines would be a good way to continue learning, as would getting involved in programs provided by your school's diversity center. Your university also likely has an Office of Diversity that engages with these issues within the institution.</school-custom>
-    <school-custom type="rain-productivity-1">On the other hand, the argument <q>Rain influences the walking rates of students at my univeristy differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</school-custom>
-    <school-custom type="rain-productivity-2">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of students at your university. You go to the library, talk to a librarian, look through the shelves, skim around the website, and even peek into the archives, but the only thing you can find is a couple of articles published in school newspaper in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the library search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</school-custom>
-    <school-custom type="religion-resources">Taking courses in Religious Studies would be a good way to continue learning, as would getting involved in programs and clubs through your school's student diversity center.</school-custom>
-    <school-custom type="research-help">There are people whose job it is to help you make the best out of your research paper<mdash/>use them! Librarians and student library employees love when students ask them for help. All of their contact information is available on the library website, so you can call or email them to make an appointment or ask a question. Whether you're just starting to think of a topic or nearing the end of your process, the librarians can get you the help you need.</school-custom>
-    <school-custom type="s-ending-1">The ballet students dance across the stage.</school-custom>
-    <school-custom type="s-ending-2">I'm going to the bakery with my friend, Keegan. They promise to split a cookie with me.</school-custom>
-    <school-custom type="SAE-resources">Taking an English course on the history of English, or courses in African American Studies, Asian Studies, Hispanic Studies, Latin American Studies, and Latino/a Studies would be a good way to continue learning, as would getting involved in programs through your university's diversity center.</school-custom>
-    <school-custom type="science-hall">the science building</school-custom>
-    <school-custom type="sickness">illness</school-custom>
-    <school-custom type="socioeconomic-resources">Taking courses in Sociology, Anthropology, or Social Psychology would be a good way to continue learning, as would getting involved in programs through your school's student diversity center.</school-custom>
-    <school-custom type="state">the state</school-custom>
-    <school-custom type="student-government">student government</school-custom>
-    <school-custom type="subtle-antisemitism">More subtle forms of discrimination are also ongoing: Jewish Student Union members described in an interview how campus members continue to make assumptions about them, such as that they eat kosher, speak Hebrew, attend a synagogue, or are good with money, because of their Jewish identity.</school-custom>
-    <school-custom type="tutoring-center">tutoring center</school-custom>
+                </p></custom>
+    <custom name="park">the park</custom>
+    <custom name="personal-statement-resources">For more tips and tricks on how to write a personal statement, see this <q><url href="http://www.pugetsound.edu/academics/academic-resources/fellowships-scholarships/application-process2/essay-hints/">Hints for a Successful Essay</url></q> page. Remember that you can bring in your personal statement drafts to your university fellowship office and tutoring center, likely even after you graduate.</custom>
+    <custom name="philosophy-resources"></custom>
+    <custom name="pizza-place">Dominos</custom>
+    <custom name="plagiarism-policy">For more information on your university's plagiarism policy, check out your student academic handbook.</custom>
+    <custom name="printing">printer money</custom>
+    <custom name="pronoun-resources">Taking courses in Gender and Queer Studies would be a good way to continue learning, as would getting involved in programs through your school's diversity center.</custom>
+    <custom name="quad">the quad</custom>
+    <custom name="quote-example"><p>After their meeting with the assistant director of the tutoring center, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></custom>
+    <custom name="race-resources">Taking courses in African American Studies, Asian Studies, Hispanic Studies, Latin American Studies, Latina/o Studies, French and Francophone Studies, and similar disciplines would be a good way to continue learning, as would getting involved in programs provided by your school's diversity center. Your university also likely has an Office of Diversity that engages with these issues within the institution.</custom>
+    <custom name="rain-productivity-1">On the other hand, the argument <q>Rain influences the walking rates of students at my univeristy differently between the months of January and February</q> might be too specific a topic to gather substantive research on or make a meaningful claim about. Consider instead the argument <q>Rain has both positive and negative effects on students<rsq/> physical and emotional well-being.</q> This statement is both researchable and takes a clear stance about the influence of rain on student behavior.</custom>
+    <custom name="rain-productivity-2">In order to make a strong argument, you generally need a substantial amount of strong evidence to back it up. But let's say you want to write about the negative effects of rainfall on the emotional well-being of students at your university. You go to the library, talk to a librarian, look through the shelves, skim around the website, and even peek into the archives, but the only thing you can find is a couple of articles published in school newspaper in the early 2000s. This probably won't be enough to substantiate your claim. Instead, you might try refining your argument to the negative effects of rainfall on the emotional well-being of college students in general. Suddenly, a mass of published scholarly sources on the subject appear on the library search engine. Hooray! You may now have enough evidence to substantiate your argument<mdash/>and you'll be creating new knowledge by considering how the general research applies in your particular context.</custom>
+    <custom name="religion-resources">Taking courses in Religious Studies would be a good way to continue learning, as would getting involved in programs and clubs through your school's student diversity center.</custom>
+    <custom name="research-help">There are people whose job it is to help you make the best out of your research paper<mdash/>use them! Librarians and student library employees love when students ask them for help. All of their contact information is available on the library website, so you can call or email them to make an appointment or ask a question. Whether you're just starting to think of a topic or nearing the end of your process, the librarians can get you the help you need.</custom>
+    <custom name="s-ending-1">The ballet students dance across the stage.</custom>
+    <custom name="s-ending-2">I'm going to the bakery with my friend, Keegan. They promise to split a cookie with me.</custom>
+    <custom name="SAE-resources">Taking an English course on the history of English, or courses in African American Studies, Asian Studies, Hispanic Studies, Latin American Studies, and Latino/a Studies would be a good way to continue learning, as would getting involved in programs through your university's diversity center.</custom>
+    <custom name="science-hall">the science building</custom>
+    <custom name="sickness">illness</custom>
+    <custom name="socioeconomic-resources">Taking courses in Sociology, Anthropology, or Social Psychology would be a good way to continue learning, as would getting involved in programs through your school's student diversity center.</custom>
+    <custom name="state">the state</custom>
+    <custom name="student-government">student government</custom>
+    <custom name="subtle-antisemitism">More subtle forms of discrimination are also ongoing: Jewish Student Union members described in an interview how campus members continue to make assumptions about them, such as that they eat kosher, speak Hebrew, attend a synagogue, or are good with money, because of their Jewish identity.</custom>
+    <custom name="tutoring-center">tutoring center</custom>
     <!-- The way this is right now we often have tutoring center (tutoring center) where the acronym would appear -->
-    <school-custom type="tutoring-center-acronym">tutoring center</school-custom>
+    <custom name="tutoring-center-acronym">tutoring center</custom>
     <!-- No URL for generic so just text again -->
-    <school-custom type="tutoring-center-url">tutoring center</school-custom>
+    <custom name="tutoring-center-url">tutoring center</custom>
      <!-- This won't make sense generic -->
-    <school-custom type="tutoring-center-rm">tutoring center location</school-custom>
+    <custom name="tutoring-center-rm">tutoring center location</custom>
      <!-- This one doesn't really work generic -->
-    <school-custom type="tutoring-center-phone">tutoring center phone number</school-custom>
-    <school-custom type="ultimate-team">our ultimate frisbee team</school-custom>
-    <school-custom type="unclear-split-infinitive"><example>
+    <custom name="tutoring-center-phone">tutoring center phone number</custom>
+    <custom name="ultimate-team">our ultimate frisbee team</custom>
+    <custom name="unclear-split-infinitive"><example>
                     <title>Unclear Split Infinitive: Backpacking trip</title>
                     <p>
                         <dl>
@@ -169,17 +172,17 @@
                             </li>
                         </dl>
                     </p>
-                </example></school-custom>
-    <school-custom type="university-name-acro">university</school-custom>
-    <school-custom type="university-name-full">university</school-custom>
-    <school-custom type="university-name-short">the university</school-custom>
-    <school-custom type="university-newspaper">the university paper</school-custom>
-    <school-custom type="university-president">the university president</school-custom>
-    <school-custom type="vdesk"></school-custom>
-    <school-custom type="version-name">Universal</school-custom>
-    <school-custom type="waw-resources">Look for courses that address identity, power, and education, as well as programs offered through your campus diversity center.</school-custom>
-    <school-custom type="wp-chalkboard-image"></school-custom>
-    <school-custom type="writing-tutor">Writing Tutor</school-custom>
-    <school-custom type="yay-professors">Professors sincerely want you to succeed.</school-custom>
-    <school-custom type="zotero-resources"></school-custom>
-</school-customizations>
+                </example></custom>
+    <custom name="university-name-acro">university</custom>
+    <custom name="university-name-full">university</custom>
+    <custom name="university-name-short">the university</custom>
+    <custom name="university-newspaper">the university paper</custom>
+    <custom name="university-president">the university president</custom>
+    <custom name="vdesk"></custom>
+    <custom name="version-name">Universal</custom>
+    <custom name="waw-resources">Look for courses that address identity, power, and education, as well as programs offered through your campus diversity center.</custom>
+    <custom name="wp-chalkboard-image"></custom>
+    <custom name="writing-tutor">Writing Tutor</custom>
+    <custom name="yay-professors">Professors sincerely want you to succeed.</custom>
+    <custom name="zotero-resources"></custom>
+</pi:customizations>
