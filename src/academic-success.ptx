@@ -13,8 +13,8 @@
 <chapter xml:id="academic-success">
     <title>Strategies for Academic Success</title>
     <introduction>
-        <p>By the time you're reading this, you've probably been at <custom item="university-name-short"/> long enough to realize that college looked easier on paper than it has turned out to be. Taking <em>only</em> four classes at a time and <em>only</em> being in class twelve hours a week sounded great, but it sounded great because seeing college on paper didn't show you how much work you'd have to do outside of class, how many other activities you'd want to get involved in, and how much less structured your life would be than it was in high school. This freedom and independence is one of the things that makes college such an awesome experience and such a great chance to grow as a person, but it also takes some adapting to, and most graduating seniors could tell you a story off the top of their heads about how they didn't manage their time, got disorganized, or said something inappropriate to a professor or another student in the midst of some unforeseen college calamity.</p>
-        <p>Sometimes, it will feel like your life is falling apart around you. We don't know a single college student who hasn't had moments that were incredibly hard, emotionally as much as intellectually, in the course of their time at <custom item="university-name-short"/>. Maybe assignments are late. Maybe a friend or family member has needed your help with life-stuff. Maybe your own personal health, mental or physical, is making school difficult. Maybe it's just been raining and grey outside for a week straight and you're tired of being cold and wet every time you leave your room. College is exciting in new, unique ways, but it's also difficult in new, unique ways. New challenges require new approaches, and though we can't say how to fix everything, chapter provides baseline suggestions for how to manage your time, stay organized, and talk to professors, <em>especially</em> when life gets hard.</p>
+        <p>By the time you're reading this, you've probably been at <custom ref="university-name-short"/> long enough to realize that college looked easier on paper than it has turned out to be. Taking <em>only</em> four classes at a time and <em>only</em> being in class twelve hours a week sounded great, but it sounded great because seeing college on paper didn't show you how much work you'd have to do outside of class, how many other activities you'd want to get involved in, and how much less structured your life would be than it was in high school. This freedom and independence is one of the things that makes college such an awesome experience and such a great chance to grow as a person, but it also takes some adapting to, and most graduating seniors could tell you a story off the top of their heads about how they didn't manage their time, got disorganized, or said something inappropriate to a professor or another student in the midst of some unforeseen college calamity.</p>
+        <p>Sometimes, it will feel like your life is falling apart around you. We don't know a single college student who hasn't had moments that were incredibly hard, emotionally as much as intellectually, in the course of their time at <custom ref="university-name-short"/>. Maybe assignments are late. Maybe a friend or family member has needed your help with life-stuff. Maybe your own personal health, mental or physical, is making school difficult. Maybe it's just been raining and grey outside for a week straight and you're tired of being cold and wet every time you leave your room. College is exciting in new, unique ways, but it's also difficult in new, unique ways. New challenges require new approaches, and though we can't say how to fix everything, chapter provides baseline suggestions for how to manage your time, stay organized, and talk to professors, <em>especially</em> when life gets hard.</p>
     </introduction>
     <section xml:id="talking-to-profs">
         <title>Talking to Professors</title>
@@ -121,7 +121,7 @@
             </li>
             <li><title>Don't ask the professor to do more work in responding than you've already done to send the email</title>
             </li>
-            <li><title>Use your <custom item="university-name-full"/> email address</title>
+            <li><title>Use your <custom ref="university-name-full"/> email address</title>
             </li>
         </ul>
     </list>
@@ -135,7 +135,7 @@
                 <image source="images/AS-sampleEditedEmail.png" width="100%"><description>This image shows a screenshot of an email with the text above, with the following annotations. The greeting "HEy" has this correction: "Some professors are okay with being addressed with 'hey,' but some are not. It’s better to use 'Hi Professor Lastname' until you know how they like to be addressed. Pro-tip: look at how the professor ends their emails--they’ll probably be fine being addressed however they sign off." The text "super busy week" has this annotation: "Your professor probably did too--most weeks are busy!" The text "finish a paper for another class" is annotated "This sends the message that another class is more important than the class that the professor you’re emailing teaches! It might be, but it’s not a nice thing to say to the professor." The text "you gave me a bad grade" has this annotation: "Don’t blame the professor for your grade. If you think it was unfair, explain why specifically, don’t bring it up tangentially." The text "Did you post any notes" is annotated with "This is something you can--and should--figure out yourself. That’s why they use services like Moodle!" The text "Can we meet tomorrow before the test" has this annotation: "When tomorrow? This is probably too soon for a busy professor to be able to help, but it also doesn’t tell the professor when you want to meet." Finally, the following annotation has arrows pointing to the lack of sign-off and the fact that the email is written in Gmail: "If you don’t use your UPS email address, professors may not be sure who you are--especially if you don’t sign off. Professors will also try to contact you via your UPS email, so it’s worth getting used to using your school email for school stuff." </description></image>
         </solution>
     </problem>
-    <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it's easy to be familiar or informal with <custom item="university-name-full"/> professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a student ask them for an exception to a rule might not bother them at all; however, they're also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn't good for anyone!</p> 
+    <p>Professors have different preferences and policies on what they consider respectful or acceptable communication, and often, it's easy to be familiar or informal with <custom ref="university-name-full"/> professors because they are approachable, kind, and often genuinely interested in knowing and talking with their students. Depending on the professor, being addressed informally or having a student ask them for an exception to a rule might not bother them at all; however, they're also professionals, which means that even if they are annoyed, they might not tell you. Nevertheless, if a student does something that they perceive as disrespectful many times, intentionally or otherwise, they may start to associate the student with negative interactions, which isn't good for anyone!</p> 
     </subsection>
 </section>
 
@@ -282,11 +282,11 @@
                         <li><p>Organize your documents/make a folder for your research</p></li>
                         <li><p>Look at classes for next semester</p></li>
                         <li><p>Make a good essay-writing playlist on Spotify</p></li>
-                        <li><p>Go to the <custom item="dining-hall"/> and get something healthy but good to snack on</p></li>
+                        <li><p>Go to the <custom ref="dining-hall"/> and get something healthy but good to snack on</p></li>
                         <li><p>There's a huge <q>study</q> genre on YouTube. Go watch a couple videos to get inspired!</p></li>
                         <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
                         <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>
-                        <li><p>Make a writing appointment at the <custom item="tutoring-center-url"/>!</p></li>
+                        <li><p>Make a writing appointment at the <custom ref="tutoring-center-url"/>!</p></li>
                     </ul></p>
             </paragraphs>
     </subsection>
@@ -321,7 +321,7 @@
     </subsection>
      <subsection xml:id="overcoming-procrastination">
     <title>Overcoming Procrastination</title>
-    <p>So you have a problem with procrastination. Every time you sit down to work, you struggle to get anything done. You’ve acknowledged it. You want to fix it. But how? Everyone’s brain works differently, so there’s no one-size-fits-all approach to making yourself work. Still, these strategies work for many students and are worth a try. <custom item="AC-overcoming-procrastination"/></p>
+    <p>So you have a problem with procrastination. Every time you sit down to work, you struggle to get anything done. You’ve acknowledged it. You want to fix it. But how? Everyone’s brain works differently, so there’s no one-size-fits-all approach to making yourself work. Still, these strategies work for many students and are worth a try. <custom ref="AC-overcoming-procrastination"/></p>
     <list xml:id="list-process-strategies-procrastination">
             <title>Strategies for Fighting off Procrastination</title>
             <ul>
@@ -332,7 +332,7 @@
                     <p>That's it. It may sound crazy, but this is actually a really good way to lie to<mdash/>I mean, to <q>encourage</q><mdash/>yourself in order to get work done. Once you've begun working, your anxiety about starting (or your desire to Internet surf to avoid working) will hopefully diminish, and you will likely find yourself able to work for much longer than five minutes.</p>
                 </li>
                 <li><title>Create your ideal work environment</title>
-                    <p>You're finally away from home, you have your own (<nbsp/><ellipsis/> shared) space, and you've instituted a moratorium on any type of cleaning or organizing. Although you might be living the cleaning-free dream (perhaps to the dismay of your roommate), consider throwing away some of those granola bar wrappers and taking your <custom item="dining-hall"/> dishes back to the <custom item="dining-hall"/> (seriously, take them back to the <custom item="dining-hall"/>). Having a clean working space might help you focus. If not, try studying in different places around campus until you find a space that you can work in. <custom item="ideal-study-spot"/> Your study preferences might be different for each of your classes, so experiment!</p>
+                    <p>You're finally away from home, you have your own (<nbsp/><ellipsis/> shared) space, and you've instituted a moratorium on any type of cleaning or organizing. Although you might be living the cleaning-free dream (perhaps to the dismay of your roommate), consider throwing away some of those granola bar wrappers and taking your <custom ref="dining-hall"/> dishes back to the <custom ref="dining-hall"/> (seriously, take them back to the <custom ref="dining-hall"/>). Having a clean working space might help you focus. If not, try studying in different places around campus until you find a space that you can work in. <custom ref="ideal-study-spot"/> Your study preferences might be different for each of your classes, so experiment!</p>
                 </li>
                 <li><title>List your tasks, and break them down into parts</title>
                     <p>While pretending your work doesn't exist may seem like the ideal solution, we assure you that it is not. You can lay all of your books, folders, or syllabi on the ground or your bed and organize them by priority or amount of work. Alternatively, you can make a list with all of your classes and write out the week's assignments for each class. Once you've faced the harsh reality of all the work you have to do, take a breath! Now, split up each task into manageable parts. Have 100 pages of reading? Can you split it up into groups of 20 or 25? Have six math problems? Do them in sets of two or three. Have a ten-page paper to write? Try writing two pages a day. By splitting something into its components, you'll likely feel less overwhelmed and therefore less desperate to procrastinate.</p>
@@ -350,7 +350,7 @@
                     </p>
                 </li>
                 <li><title>If you need to, try treating yourself like a small child</title>
-                    <p>You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to <custom item="dining-hall"/> for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch that <em>Game of Thrones</em> episode.</q></p>
+                    <p>You can try encouragements like, <q>I know you don't want to finish your essay, but you need to. Once you're done, you can go to <custom ref="dining-hall"/> for some ice cream!</q> Alternatively, you can create consequences for yourself if you keep procrastinating on your task: <q>Well, [your name here], since you just spent ten minutes working and fifty minutes watching Netflix, you have to wait until tomorrow to watch that <em>Game of Thrones</em> episode.</q></p>
                 </li>
                 <li><title>Remind yourself of what you're excited about</title>
                     <p>Sometimes we get so caught up in the tediousness of the work we have to do that we forget why we're here. Even if you're procrastinating on work for a class you don't enjoy, try to think about the bigger picture<mdash/>completing your assignment means that you're one step closer to fulfilling a requirement and moving on to classes you're more interested in. But hey, the assignment might also surprise you, and you might end up learning something that you find fascinating. You never know!</p>
@@ -362,7 +362,7 @@
                     <p>You'd be surprised at how much you can get done during the little chunks of time you have throughout the day, be it five minutes before class, an awkward hour in between classes, or extra time in the morning or before bed. Even if you can only read a couple of pages, write a paragraph, or finish a math problem during a small break, that's still less work you'll have to do later. Plan ahead and bring along any materials you might need to be as productive as possible.</p>
                 </li>
                 <li><title>Make your breaks productive</title>
-                    <p>It’s hard to work when your brain is tired. Schedule in breaks that actually make you feel refreshed, like dinner with a friend, throwing a Frisbee on <custom item="quad"/> for ten minutes, or half an episode of your favorite show. Keep yourself off Instagram by looking forward to the break instead. Getting up, socializing, or changing pace occasionally will make you feel more refreshed than mindlessly scrolling through Instagram when you’re struggling to piece words together. </p>
+                    <p>It’s hard to work when your brain is tired. Schedule in breaks that actually make you feel refreshed, like dinner with a friend, throwing a Frisbee on <custom ref="quad"/> for ten minutes, or half an episode of your favorite show. Keep yourself off Instagram by looking forward to the break instead. Getting up, socializing, or changing pace occasionally will make you feel more refreshed than mindlessly scrolling through Instagram when you’re struggling to piece words together. </p>
                 </li>
             </ul>
         </list>
@@ -422,7 +422,7 @@
     <subsection xml:id="time-chart">
         <title>Making and Using a Time Chart</title>
         <p>All right. Approach big problems with small goals. Great. But how do you then follow through on those smaller goals? As you start breaking down your bigger projects, you'll find the strategies that work well for you, and tweaking the strategies that we recommend here to be most effective for you is important! That being said, one of the most tried-and-true approaches to managing daily work is the <term>time chart<idx>time chart</idx></term>. The point of a time chart is to give you an action plan for each day. It accounts for where you have to be when, but it also includes what work you're going to do when. A time chart isn't a planner or a calendar, but making a good time chart requires that you have a good sense of both what you need to do on a given day and what your time commitments are on a given day, which planners and calendars, respectively, help you keep track of. Finally, time charts are useful because they force you to assign priority to the tasks you want to accomplish.</p>
-        <p>So how should you use a time chart? As is the case with everything we've discussed in the academic success section, everyone develops slight variations on the underlying strategies for staying organized and managing time, but the steps we lay out here are a great way to start if you've never made a time chart before. Many people like to use a paper planner, which is what we present first, but there are great digital options for making a time chart as well, such as Google Calendar. First, take a look at the time chart below. <custom item="CWLT-time-chart"/>. </p>
+        <p>So how should you use a time chart? As is the case with everything we've discussed in the academic success section, everyone develops slight variations on the underlying strategies for staying organized and managing time, but the steps we lay out here are a great way to start if you've never made a time chart before. Many people like to use a paper planner, which is what we present first, but there are great digital options for making a time chart as well, such as Google Calendar. First, take a look at the time chart below. <custom ref="CWLT-time-chart"/>. </p>
                 <image source="images/AS-timechart_sample.png" width="80%"><description>This image shows a filled-out time chart for Monday, Tuesday, and Wednesday. A column on the left is titled "To do this week" and includes sections for "Must get done…" and "Ideally get done…" At the base of this column is the ampersand logo for the Center for Writing, Learning, and Teaching. The next column to the right is labeled "Monday" and includes a line for every half-hour time slot from 6:00AM to 11:30PM. Many are filled out with class and extracurricular activities. To the right of Monday is a column for Tuesday and then one for Wednesday, with the same format and different activities filled in. At the bottom of each column is a box titled "Must do today."</description></image>
         <p>With your own time chart in hand, fill it out following the following guidelines.</p>
         <list xml:id="list-time-chart">
@@ -475,7 +475,7 @@
     <subsection xml:id="time-management-final-thoughts">
         <title>A Few Final Thoughts</title>
         <p>It's difficult to remember all the classes, office hours, athletic practices, club meetings, and social events of college. Even more difficult is remembering all the assignments, due-dates, and special club events, that go along with those responsibilities, let alone the relative priority that each item has. More than difficult, though, it's <em>stressful</em>. It detracts from your ability to focus on and enjoy the content of what you're learning when you have to spend mental energy constantly keeping track of what's the highest priority task you have to do next. The <q>weight</q> that comes from mentally juggling so many different tasks is even worse for projects that are large, important, and ambiguous. When you create a time chart and schedule time to do a specific task, you're effectively relieving yourself of one ball that you were juggling by giving the tasks specific time and place on your schedule.</p>
-        <custom item="AC-resources-time-management"/>
+        <custom ref="AC-resources-time-management"/>
     </subsection>
 </section>
 <section xml:id="academic-success-getting-organized">
@@ -525,21 +525,21 @@
                                 </p>
                             </li>
                             <li>
-                                <p><em>Assignments.</em> You may receive a paper copy of assignments in class, but it's helpful also to download each assignment from <custom item="learning-management"/> and add it to the digital folder corresponding to that class.</p>
+                                <p><em>Assignments.</em> You may receive a paper copy of assignments in class, but it's helpful also to download each assignment from <custom ref="learning-management"/> and add it to the digital folder corresponding to that class.</p>
                             </li>
                         </ul>
                     </p>
                 </li>
                 <li><title>Collect contact information from at least one person in each class</title>
-                    <p>Everyone ends up suffering from <custom item="sickness"/> at one point or another, but it doesn't have to make you fall behind in classes. Your week will be a lot easier if you can get the notes and new assignments from a classmate the day of, rather than having to wait until you're recovered to set up a time to meet with your professor. This also gives you a go-to person to study with when exams and papers start coming up.</p>
+                    <p>Everyone ends up suffering from <custom ref="sickness"/> at one point or another, but it doesn't have to make you fall behind in classes. Your week will be a lot easier if you can get the notes and new assignments from a classmate the day of, rather than having to wait until you're recovered to set up a time to meet with your professor. This also gives you a go-to person to study with when exams and papers start coming up.</p>
                 </li>
                 <li><title>Designate a study space that you will always have available</title>
                     <p>This may take a week or two to figure out, but it is really helpful to have at least one place that is accessible and where you can always work, free of clutter. This could be your desk in your room, but that desk always has to have space to work. So if you don't think you can maintain that or if you keep a lot on your desk, maybe it's the library or a study room in an academic building. Just find a place that you can always (or almost always) access, where you are able to get into a productive study <q>zone.</q></p>
                 </li>
             </ol>
         </list>
-        <custom item="on-campus-study-list"/>
-        <custom item="off-campus-study-list"/>
+        <custom ref="on-campus-study-list"/>
+        <custom ref="off-campus-study-list"/>
     </subsection>
     <subsection xml:id="getting-organized-staying-organized">
         <title>Keeping your School Life Organized</title>
@@ -557,11 +557,11 @@
                 </li> 
                 <li><title>Keep your technology updated, and <em>back up your files</em></title>
                     <p>This important step is often overlooked or put off, but it's easy to do and helps avoid a student's worst nightmare: your computer crashes right before a major paper is due, when you lose the file and have to beg your professor for an extension and wallow as you contemplate whether technology is destroying society. This means a lot of stress for you, and your professor is likely to see this kind of predicament as a poor planning problem rather than a technology problem. So, with better planning, you can avoid this!</p>
-                    <p>There are lots of cloud-based options for storage, including iCloud, GoogleDrive, Dropbox, and OneDrive<custom item="vdesk"/>. Even if your computer crashes or gets stolen, you can still access your documents in the cloud.</p> 
+                    <p>There are lots of cloud-based options for storage, including iCloud, GoogleDrive, Dropbox, and OneDrive<custom ref="vdesk"/>. Even if your computer crashes or gets stolen, you can still access your documents in the cloud.</p> 
                     <p>You could also back up to an external hard drive. If these things are still confusing, just go to Tech Services and ask for help! They will be happy to restore you with a sense of academic calm.</p>
                 </li>
                 <li><title>Put your semester into deep storage</title>
-                    <p>At the end of each semester, make a new folder and place all the classes from the past semester there, so you can access them again if you need to but so that they don't clutter up your day-to-day life. Label this folder something obvious, like Spring 2018 Courses, or <custom item="university-name-acro"/> Semester 1. Here's an example:</p>
+                    <p>At the end of each semester, make a new folder and place all the classes from the past semester there, so you can access them again if you need to but so that they don't clutter up your day-to-day life. Label this folder something obvious, like Spring 2018 Courses, or <custom ref="university-name-acro"/> Semester 1. Here's an example:</p>
                         <image source="images/AS-deepstorageicloudscreenshot.png" width="90%"><description>This image shows a screenshot of well-organized computer folders in iCloud deep storage. The outer folder is called "UPS" with a folder inside of it for each semester, and a folder inside of each semester labeled with the name of each class. For example, the "UPS/S2" has folders within it labeled "Piano," "Calculus (180)," "Dev Econ (268)," "Gershwin SSI2," and "Spanish (212)."
 </description></image>
                 </li>
@@ -575,11 +575,11 @@
         <list xml:id="list-organizing-email">
             <title>Strategies for Organizing Email</title>
             <introduction>
-                <p>Once you start college, you'll likely have at least two email addresses: your personal one and your <custom item="university-name-full"/> account, and having multiple accounts means that it's helpful to have a plan for keeping on top of those new demands.</p>
+                <p>Once you start college, you'll likely have at least two email addresses: your personal one and your <custom ref="university-name-full"/> account, and having multiple accounts means that it's helpful to have a plan for keeping on top of those new demands.</p>
             </introduction>
             <ul>
                 <li><title>Decide how you want to use your different accounts<mdash/>there are different approaches</title>
-                    <p>Some people prefer to keep things strictly school vs. personal, and that makes it easier when you graduate and don't use your <custom item="university-name-full"/> account any more. Some people like everything being mixed together, because that makes it easier to just check one account. Regardless of your strategy, you'll need to check your <custom item="university-name-full"/> email, since you'll get emails from professors and from the school there.</p>
+                    <p>Some people prefer to keep things strictly school vs. personal, and that makes it easier when you graduate and don't use your <custom ref="university-name-full"/> account any more. Some people like everything being mixed together, because that makes it easier to just check one account. Regardless of your strategy, you'll need to check your <custom ref="university-name-full"/> email, since you'll get emails from professors and from the school there.</p>
                 </li> 
                 <li><title>Don't keep thousands of unread messages in your inbox</title>
                     <p>If this is already the state of your email, clear/mark as read your unread messages. Before you do this, make sure there are no important unread messages, because it's easy to forget about them once they're marked <q>read.</q> It's different for each type of email, but a quick online search will get you step-by-step instructions.</p>
@@ -602,11 +602,11 @@
                     <p>Organize forms you need for taxes, scholarship information, really anything having to do with money or your health.</p>
                 </li>
                 <li><title>Keep track of <em>miscellaneous activities</em> you've participated in</title>
-                    <p>Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in <custom item="student-government"/> club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p>
+                    <p>Toss programs and other evidence from things you've done in college into a folder so that you can reference them later on. Being in clubs and sports and music and plays and organizations in college is fun, but it also helps you develop skills that are helpful later on. Who knows? Maybe it'll be useful to say in a job application that you have rehearsed and performed in 43 orchestral pieces or that you managed $3700 in <custom ref="student-government"/> club funds. You never know what you might want to use as evidence later on in a job application, but you definitely can't reference something you can't remember!</p>
                 </li>
             </ul>
             <conclusion>
-                <p>Then, do the same with your physical documents. If you don't want to hang on to the paper copy, you can scan things for free at <custom item="library"/>. Your filing system doesn't have to be anything overly complicated. Label the files with the same names as on your computer and add any additional categories you need.</p> 
+                <p>Then, do the same with your physical documents. If you don't want to hang on to the paper copy, you can scan things for free at <custom ref="library"/>. Your filing system doesn't have to be anything overly complicated. Label the files with the same names as on your computer and add any additional categories you need.</p> 
             </conclusion>
         </list>
     </subsection>
@@ -614,8 +614,8 @@
     <section xml:id="online-success">
 	<title>Succeeding During Remote Learning</title>
 		<introduction>
-			<p>Taking online classes is challenging, and it is different than the small liberal arts environment that we love about <custom item="university-name-short"/>. Without the place- and community-based learning environment on campus, new academic struggles can arise and old ones manifest in new ways. But it is also possible to thrive and perhaps to develop good habits that might be harder to establish in normal times.</p> 
-			<p>This section includes some suggestions for creating a successful environment for online learning. Like all success strategies, these will work differently for different learners. Take time to experiment and don’t feel bad if something doesn’t work for you! For more resources, check out the tips for success in the rest of this chapter (see <xref ref="academic-success"/>).<custom item="AC-online-success"/></p>
+			<p>Taking online classes is challenging, and it is different than the small liberal arts environment that we love about <custom ref="university-name-short"/>. Without the place- and community-based learning environment on campus, new academic struggles can arise and old ones manifest in new ways. But it is also possible to thrive and perhaps to develop good habits that might be harder to establish in normal times.</p> 
+			<p>This section includes some suggestions for creating a successful environment for online learning. Like all success strategies, these will work differently for different learners. Take time to experiment and don’t feel bad if something doesn’t work for you! For more resources, check out the tips for success in the rest of this chapter (see <xref ref="academic-success"/>).<custom ref="AC-online-success"/></p>
 		</introduction>
 		<list xml:id="list-success-remote-learning">
 			<title>Strategies for Success During Remote Learning</title>
@@ -636,7 +636,7 @@
 					<p>It’s really easy to do other things during an online class, but lectures and discussion are still important to your learning! Close other tabs before class so you aren’t tempted to write emails or check social media and don’t keep your phone nearby. If you’re struggling with this, try a productivity app from the Apple App Store or Google Play Store. Apps use strategies from helping you set time goals to disabling distracting websites while you’re working. It is also important to find workspaces where you can focus during class and talk to your housemates about norms during class times.</p>
 				</li>
 				<li><title>Continue to take advantage of resources</title>
-					<p>You’re not alone in this! Using resources can help you find connection to the campus community. Your teachers would love to see you in office hours. The <custom item="tutoring-center-url"/> is also still available, along with online versions of many important campus <custom item="covid-resources"/>. If you feel alone in your academic work you can always just chat with a tutor to feel connected! We’re all in this together.</p>
+					<p>You’re not alone in this! Using resources can help you find connection to the campus community. Your teachers would love to see you in office hours. The <custom ref="tutoring-center-url"/> is also still available, along with online versions of many important campus <custom ref="covid-resources"/>. If you feel alone in your academic work you can always just chat with a tutor to feel connected! We’re all in this together.</p>
 				</li>
 				<li><title>Communicate your needs</title>
 					<p>Remote learning during the COVID-19 outbreak isn’t the same as choosing to take courses online. Everyone’s circumstances are different and if you’re dealing with a challenging home situation or virus-related stress, your professors will likely make accommodations they wouldn’t otherwise. Still, you have to communicate these needs to them in order to make a plan for success!</p>

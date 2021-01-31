@@ -116,7 +116,7 @@
                 </li>
             </ul>
         </list>
-        <p><custom item="personal-statement-resources"/></p>
+        <p><custom ref="personal-statement-resources"/></p>
     </section>
     <section xml:id="cover-letters">
         <title>Writing Cover Letters</title>
@@ -153,7 +153,7 @@
         </paragraphs>
         <paragraphs xml:id="par-genres-first-paragraph">
             <title>First Paragraph</title>
-            <p>Your first paragraph should introduce yourself, specify which job you are applying for and why you are interested, and provide a brief summation of your qualifications. For instance, you might begin with something as straightforward as <q>I am writing to apply for the position of <fillin/>.</q> You may also mention where you found out about the position (on the agency's website, through a professional connection, <etc/>). You might then mention a little bit about yourself and your experience (<q>As a graduate in neuroscience at the <custom item="university-name-full"/><nbsp/><ellipsis/><nbsp/>,</q> <q>As a raft river guide in Alaska last summer<nbsp/><ellipsis/></q>). You can finish the paragraph with a brief list of the qualifications you feel are pertinent to the available position (<q>I believe my <fillin/>, <fillin/>, and  <fillin/> have prepared me particularly well for the position of <fillin/>.</q>) Remember that it's also important to show interest in the position: Why are you applying? Why are you excited for this opportunity? What contributions can you bring to the position? What will you get out of it (though, keep in mind that the employer is probably not as interested in what you will gain from the position as what you will bring to it)?</p>
+            <p>Your first paragraph should introduce yourself, specify which job you are applying for and why you are interested, and provide a brief summation of your qualifications. For instance, you might begin with something as straightforward as <q>I am writing to apply for the position of <fillin/>.</q> You may also mention where you found out about the position (on the agency's website, through a professional connection, <etc/>). You might then mention a little bit about yourself and your experience (<q>As a graduate in neuroscience at the <custom ref="university-name-full"/><nbsp/><ellipsis/><nbsp/>,</q> <q>As a raft river guide in Alaska last summer<nbsp/><ellipsis/></q>). You can finish the paragraph with a brief list of the qualifications you feel are pertinent to the available position (<q>I believe my <fillin/>, <fillin/>, and  <fillin/> have prepared me particularly well for the position of <fillin/>.</q>) Remember that it's also important to show interest in the position: Why are you applying? Why are you excited for this opportunity? What contributions can you bring to the position? What will you get out of it (though, keep in mind that the employer is probably not as interested in what you will gain from the position as what you will bring to it)?</p>
         </paragraphs>
         <paragraphs xml:id="par-genres-third-paragraph">
             <title>Second-Third Paragraphs</title>
@@ -192,7 +192,7 @@
                 </li>
             </ul>
         </list>
-        <custom item="CES-resume-resources"/>
+        <custom ref="CES-resume-resources"/>
     </section>
     <section xml:id="section-resume">
         <title>Writing Resumes</title>
@@ -268,7 +268,7 @@
                 </li>
             </ul>
         </list>
-        <p><custom item="CES-job-resources"/> Remember that you can always bring your resume drafts to <custom item="career-office"/> (<custom item="career-office-rm"/>) for editing and revising ideas!</p>
+        <p><custom ref="CES-job-resources"/> Remember that you can always bring your resume drafts to <custom ref="career-office"/> (<custom ref="career-office-rm"/>) for editing and revising ideas!</p>
     </section>
     <section xml:id="genres-addition-cv">
         <title>Writing Curriculum Vitae</title>
@@ -332,7 +332,7 @@
         <title>Writing Thank-You Notes</title>
         <paragraphs xml:id="par-genres-why-thank-you">
             <title>Why a Thank-You Note?</title>
-            <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! <custom item="CES-interview"/>However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
+            <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! <custom ref="CES-interview"/>However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
                 <image source="images/thankyou.png" width="50%"><description>This graphic shows a small comic of a letter sticking out of an envelope, with the following text below it: "Dear interviewer, THANK YOU! Best Regards, Your Future Employee."</description></image>
         </paragraphs>
         <paragraphs xml:id="par-genres-ty-include">
@@ -350,7 +350,7 @@
         <paragraphs xml:id="par-genres-ty-timing">
             <title>Timing and Medium</title>
             <p>Hopefully, you will have obtained a business card or email addresses from your interviewer(s) during the interview. If you haven't, try to find their contact information on the company's website or directory. Try to get your thank-you note to your interviewers as quickly as possible (within 24 hours) after your interview. This way, they will likely still remember you and you can refresh yourself in their memory by referring back to the interview. Writing a thank-you note shortly after your interview will also allow you to recall specific details about the experience that you wouldn't be able to remember weeks or even a few days afterwards.</p>
-            <p>You have a few different formatting options when it comes to writing your thank-you note. You can 1) hand-write it, 2) type it up and print it out, or 3) email it to your interviewers. There are benefits and drawbacks to each format, and you should choose the one that makes the most sense given convenience and the type of company to which you are applying. For instance, handwritten notes are more personalized and can demonstrate your passion for the position. However, for a very time-sensitive situation, an immediate and polite email might be most appropriate (for more on email etiquette, see <xref ref="email-etiquette"/>). <custom item="CES-thanks"/></p>
+            <p>You have a few different formatting options when it comes to writing your thank-you note. You can 1) hand-write it, 2) type it up and print it out, or 3) email it to your interviewers. There are benefits and drawbacks to each format, and you should choose the one that makes the most sense given convenience and the type of company to which you are applying. For instance, handwritten notes are more personalized and can demonstrate your passion for the position. However, for a very time-sensitive situation, an immediate and polite email might be most appropriate (for more on email etiquette, see <xref ref="email-etiquette"/>). <custom ref="CES-thanks"/></p>
         </paragraphs>
     </section>
 </chapter>

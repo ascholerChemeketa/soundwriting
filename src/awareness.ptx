@@ -13,11 +13,11 @@
 <chapter xml:id="writing-with-awareness">
     <title>Writing with Awareness</title>
     <introduction>
-        <custom item="diversity-plan"/>
+        <custom ref="diversity-plan"/>
         <p>Language use is part of this work of diversity; as writers, we are also part of that work. While the impacts of language on individual feelings and circumstances may, on the surface, seem insignificant (<q>sticks and stones,</q> as the adage goes), language can embody prejudice, discrimination, and status hierarchies. Words, like people and societies, have histories. Some words, such as racial slurs, are overtly bigoted, while others more subtly express longstanding stereotypes or attitudes about particular groups of people. For instance, patronizing and parochial treatment of specific languages or linguistic types derives from discrimination and intolerance of groups who speak those languages.</p>
         <p>By acknowledging the role language plays in reinforcing inequalities, we recognize the privileges and disadvantages of different groups of people. Additionally, using words rooted in hate and oppression perpetuates hate and oppression and denies groups of people opportunities to reclaim their individual and collective agency. However, if we are unfamiliar with such histories, it can sometimes be difficult to identify terminologies of oppression.</p>
         <p>This chapter aims to offer different ways for us, as scholars and citizens of the world, to be intentional about and ethical in the language we use. We have attempted to clarify terms and provide more inclusive, equality-based alternatives, and we hope that these will help us all as writers to be aware of and attentive to the diversity of experiences that our audiences will have.</p>
-        <p>Because terms and preferences vary and change, we have compiled only general guidelines, and our suggestions should be considered in the contexts of their usages. Please also note that each section deals with a complex subject, and there are excellent resources here on campus for learning more. We make suggestions in each section below about departments and programs that offer relevant courses, but our suggestions are not comprehensive. <custom item="waw-resources"/></p>
+        <p>Because terms and preferences vary and change, we have compiled only general guidelines, and our suggestions should be considered in the contexts of their usages. Please also note that each section deals with a complex subject, and there are excellent resources here on campus for learning more. We make suggestions in each section below about departments and programs that offer relevant courses, but our suggestions are not comprehensive. <custom ref="waw-resources"/></p>
         <p>We've tried to be as nuanced as possible in a short space, but, there are surely things we have missed and things we still need to learn. However, just as language can change, so, too, can this handbook. If you would like to suggest any improvements to the guidelines that follow, please email us at <url href="mailto:soundwriting@pugetsound.edu"><c>soundwriting@pugetsound.edu</c></url>.</p>
     </introduction>
     <section xml:id="writewithequity">
@@ -161,7 +161,7 @@
 
                 </dl>
             </list>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="gender-resources"/></p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom ref="gender-resources"/></p>
         </subsection>
         <subsection xml:id="inclusivity-neurophysical">
             <title>Language Toward Neurological and Physical Inclusivity</title>
@@ -235,7 +235,7 @@
                     </li>
                 </ul>
             </list>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="neuro-phys-diversity-resources"/></p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom ref="neuro-phys-diversity-resources"/></p>
         </subsection>
         <subsection xml:id="inclusivity-racial">
             <title>Language Toward Racial and Ethnic Inclusivity</title>
@@ -325,7 +325,7 @@
                     </li>
                 </dl>
             </list>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="race-resources"/></p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom ref="race-resources"/></p>
         </subsection>
         <subsection xml:id="lgbtq-inclusivity">
             <title>Language Toward <init>LGBTQ+</init> Inclusivity</title>
@@ -422,12 +422,12 @@
                     </li>
                 </dl>
             </list>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="socioeconomic-resources"/></p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom ref="socioeconomic-resources"/></p>
         </subsection>
         <subsection xml:id="inclusivity-religious">
             <title>Language Toward Religious Inclusivity</title>
             <p>The majority of people in the world identify with a religion, and most religions spans huge swaths of the globe and encompass very diverse groups of people. Additionally, religions are often interpreted and practiced very differently depending on the cultural context, and people may identify with a religion religiously, culturally and/or ethnically. All of these factors make it complicated to write about religion inclusively and without over-generalization.</p>
-            <p>Despite this complexity, it is important to take the time to learn about the nuances of religion in order to avoid perpetuating stereotypes and spreading misinformation that contributes to religious discrimination or persecution. Both religious discrimination (the treatment of a person or group differently because of their religion) and religious persecution (the systematic mistreatment or discrimination of an individual or group because of their religion) have long and persisting histories. From the forced conversion of Native Americans to Christianity by European Americans in the late 19th century, to the murder of millions of Jewish people during the Holocaust, to modern U.S. immigration policies that disproportionately affect Muslim people, the histories of systematic religious oppression are extensive. <custom item="subtle-antisemitism"/> As writers and people, we all have a sphere of influence in which we can bring awareness about the complexity of religious identity in order to foster a culture of religious inclusivity. Writing about a religion without being informed about it can unknowingly fuel religious discrimination. Therefore, although complex, it's is vital to take the steps to learn about the nuances of religion before writing about it.</p>
+            <p>Despite this complexity, it is important to take the time to learn about the nuances of religion in order to avoid perpetuating stereotypes and spreading misinformation that contributes to religious discrimination or persecution. Both religious discrimination (the treatment of a person or group differently because of their religion) and religious persecution (the systematic mistreatment or discrimination of an individual or group because of their religion) have long and persisting histories. From the forced conversion of Native Americans to Christianity by European Americans in the late 19th century, to the murder of millions of Jewish people during the Holocaust, to modern U.S. immigration policies that disproportionately affect Muslim people, the histories of systematic religious oppression are extensive. <custom ref="subtle-antisemitism"/> As writers and people, we all have a sphere of influence in which we can bring awareness about the complexity of religious identity in order to foster a culture of religious inclusivity. Writing about a religion without being informed about it can unknowingly fuel religious discrimination. Therefore, although complex, it's is vital to take the steps to learn about the nuances of religion before writing about it.</p>
             <observation>
                 <title>Anti-Semitism Beyond the Holocaust</title>
                 <blockquote>
@@ -486,13 +486,13 @@
                     </attribution>
                 </blockquote>
             </observation>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="religion-resources"/></p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom ref="religion-resources"/></p>
         </subsection> 
     </section>
     <section xml:id="awareness-writing-correctness">
         <title>Writing and Correctness</title>
         <introduction>
-            <p>At the beginning of this chapter, we note that language use is part of the work of equity and inclusion. One way we advance equity is by supporting linguistic diversity on our campus. Linguistic diversity refers to the many varieties of English that people use to communicate and  which are intimately connected to writers' and speakers' identities. Members of the <custom item="university-name-full"/> community come from multiple geographic locations and cultures that use a variety of linguistic structures to communicate ideas. These structures may overlap in some ways and diverge in others. These structures also overlap and diverge from specific varieties of English that are used in academic settings. By supporting linguistic diversity, we acknowledge the expansive nature of language, we avoid reproducing inequities inherent in a linguistic monoculture, and we encourage the inclusion of minoritized voices in academic discourse on our campus.</p>
+            <p>At the beginning of this chapter, we note that language use is part of the work of equity and inclusion. One way we advance equity is by supporting linguistic diversity on our campus. Linguistic diversity refers to the many varieties of English that people use to communicate and  which are intimately connected to writers' and speakers' identities. Members of the <custom ref="university-name-full"/> community come from multiple geographic locations and cultures that use a variety of linguistic structures to communicate ideas. These structures may overlap in some ways and diverge in others. These structures also overlap and diverge from specific varieties of English that are used in academic settings. By supporting linguistic diversity, we acknowledge the expansive nature of language, we avoid reproducing inequities inherent in a linguistic monoculture, and we encourage the inclusion of minoritized voices in academic discourse on our campus.</p>
         </introduction>
         <subsection xml:id="SAE">
             <title>Standard American English</title>
@@ -522,7 +522,7 @@
                     <li>Strouse, A.W. (2017, September 8) <articletitle>How to Cultivate Greater Linguistic Diversity.</articletitle> <pubtitle>Inside Higher Education.</pubtitle>, Retrieved from <url href="https://www.insidehighered.com/advice/2017/09/08/advice-embracing-linguistic-diversity-classroom-essay"></url></li>
                 </ul>
             </p>
-            <p>There are also excellent resources on these topics here on campus. Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="SAE-resources"/></p>
+            <p>There are also excellent resources on these topics here on campus. Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom ref="SAE-resources"/></p>
         </subsection>
         <subsection xml:id="pronoun-identity">
             <title>Pronouns and Correctness</title>
@@ -537,7 +537,7 @@
                     <p>In this book, we use <q>they</q> as a gender-neutral pronoun in circumstances when the gender of a person is unknown (for example, <q>Please ask each of the students what they would like for dessert</q>) or when that person identifies as neither male nor female (for example, <q>Do you know my friend Ari? They are a math major</q>).</p>
             </note>
             <p>Pronouns are important representations of people's gender identity. If you don't know what pronouns someone uses, simply ask them, <q>What pronouns do you use?</q> If you accidentally use the wrong pronoun, apologize, correct yourself, and remember for next time.</p>
-            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom item="pronoun-resources"/></p>
+            <p>Please consider this section as a starting point rather than a comprehensive guide, and please continue to grow your awareness in your life and education outside this book! <custom ref="pronoun-resources"/></p>
         </subsection>
     </section>
 </chapter>

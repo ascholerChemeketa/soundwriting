@@ -15,7 +15,7 @@
     <introduction>
         <p>In the previous chapters, we have discussed general traits of all (or most?) academic writing and all academic writing processes. But, as you will no doubt notice, there are some significant differences between writing in different disciplines. It may sometimes seem like faculty members just want you to keep changing your writing to fit their individual preferences. While we all have our own preferences, faculty members also are trained specialists within their own disciplinary backgrounds, and part of their job is to teach you about those disciplinary backgrounds<mdash/>including the writing conventions of those disciplines.</p>
         <p>To help you navigate the discipline-specific writing conventions you encounter in your courses, we have consulted with faculty in departments at the University of Puget Sound. Based on our conversations with them, we have compiled the following guidelines. Try using these guidelines when you write your next paper; you may find that that seemingly quirky assignment makes more sense than you initially thought!</p>
-        <custom item="generic-disciplines-note"/>
+        <custom ref="generic-disciplines-note"/>
     </introduction>
     <section xml:id="writing-for-african-american-studies">
         <title>Writing for African American Studies</title>
@@ -143,7 +143,7 @@
         <paragraphs xml:id="writing-biology-additional-resources">
             <title>Additional Resources</title>
             <p><pubtitle>A Student Handbook for Writing in Biology</pubtitle> by Karin Knisely; <pubtitle>The Science of Scientific Writing</pubtitle> by Kathleen Fisher; and <pubtitle>The Art of Scientific Writing</pubtitle>  by Claus Bliefert, Hans Friedrich Ebel, and William E. Russey are all great resources for additional writing guidelines.</p>
-            <custom item="biology-resources"/>
+            <custom ref="biology-resources"/>
         </paragraphs>
     </section>
     <section xml:id="writing-for-business">
@@ -186,7 +186,7 @@
     </section>
     <section xml:id="writing-for-chemistry">
         <title>Writing for Chemistry</title>
-        <p>Writing can sometimes seem like an obstacle for science students. Within scientific culture, the importance of effective communication is often underemphasized. This under emphasis leads many students entering college to see science writing as, at best, a necessary evil, and at worst, a tangled mess of jargon and arbitrary formatting. So far from being true, the exact opposite is the case. In the wise words of <custom item="chemistry-professor"/>, <q>Science is in the communication. Science doesn't exist in someone's head. The science <em>is</em> the communication.</q> To learn more about how to be an effective science writer, read this guide!</p>
+        <p>Writing can sometimes seem like an obstacle for science students. Within scientific culture, the importance of effective communication is often underemphasized. This under emphasis leads many students entering college to see science writing as, at best, a necessary evil, and at worst, a tangled mess of jargon and arbitrary formatting. So far from being true, the exact opposite is the case. In the wise words of <custom ref="chemistry-professor"/>, <q>Science is in the communication. Science doesn't exist in someone's head. The science <em>is</em> the communication.</q> To learn more about how to be an effective science writer, read this guide!</p>
         <note>
             <p>Unless otherwise stated, all italicized quotes throughout this section are excerpted from the interview with Chemistry faculty members at the University of Puget Sound that informed this section.</p>
         </note>
@@ -229,7 +229,7 @@
         <paragraphs xml:id="writing-chemistry-additional-resources">
             <title>Additional Resources</title>
             <p>The <i>Journal of the American Chemical Society</i> is a great place to look for examples of excellent writing in chemistry. The more papers you read the more successfully you will be able to write one.</p>
-            <custom item="chemistry-resources"/>
+            <custom ref="chemistry-resources"/>
         </paragraphs>
     </section>
     <section xml:id="writing-for-computer-science">
@@ -360,7 +360,7 @@
         </paragraphs>
         <paragraphs xml:id="writing-english-additional-resources">
             <title>Additional Resources</title>
-            <p>The Oxford English Dictionary (or the <init>OED</init>, for short) is a great place to look for the history and meaning of words. When you encounter words in older texts that seem to have different meanings, you can see if the meaning of those words has changed over time. You can also use the <init>OED</init> to make a point about the double meaning of a particular word. And, of course, you can look for words whose meanings you don't know. <custom item="english-resources"/></p>
+            <p>The Oxford English Dictionary (or the <init>OED</init>, for short) is a great place to look for the history and meaning of words. When you encounter words in older texts that seem to have different meanings, you can see if the meaning of those words has changed over time. You can also use the <init>OED</init> to make a point about the double meaning of a particular word. And, of course, you can look for words whose meanings you don't know. <custom ref="english-resources"/></p>
         </paragraphs>
     </section>
     <section xml:id="writing-for-geology">
@@ -511,7 +511,7 @@
         </paragraphs>
         <paragraphs xml:id="par-ipe-writing-resources">
             <title>Additional Resources</title>
-            <p>Check out <pubtitle>They Say / I Say</pubtitle> by Gerald Graff and Cathy Birkenstein for tips and practice putting authors in conversation with each other in your writing. <custom item="IPE-resources"/></p>
+            <p>Check out <pubtitle>They Say / I Say</pubtitle> by Gerald Graff and Cathy Birkenstein for tips and practice putting authors in conversation with each other in your writing. <custom ref="IPE-resources"/></p>
         </paragraphs>
     </section>
     <section xml:id="writing-for-mathematics">
@@ -662,7 +662,7 @@
 				</paragraphs>
 				<paragraphs>
 					<title>Additional Resources</title>
-					<p><pubtitle><q>They Say / I Say</q>: The Moves That Matter in Academic Writing</pubtitle> by Gerald Graff and Cathy Birkenstein is a great resource for language and structure in academic writing.<custom item="philosophy-resources"/> <pubtitle>Writing to Learn: An Introduction to Writing Philosophical Essays</pubtitle> by Anne Michaels Edwards is another great book aimed at first <dash/>time philosophy students.</p>
+					<p><pubtitle><q>They Say / I Say</q>: The Moves That Matter in Academic Writing</pubtitle> by Gerald Graff and Cathy Birkenstein is a great resource for language and structure in academic writing.<custom ref="philosophy-resources"/> <pubtitle>Writing to Learn: An Introduction to Writing Philosophical Essays</pubtitle> by Anne Michaels Edwards is another great book aimed at first <dash/>time philosophy students.</p>
 					<p>Check out this <url href="http://www.jimpryor.net/teaching/guidelines/writing.html">very useful guide</url> from Dr. Jim Pryor at <init>NYU</init> for a more in<dash/>depth resource on writing philosophy papers. The guidelines provided by your professor in the prompt or other class materials are also a vital source of information.</p>
 				</paragraphs>
 		</section>

@@ -13,24 +13,24 @@
 <chapter xml:id="good-to-know">
     <title>Good to Know</title>
     <!-- GENERIC these lists probably lack titles, clean that up -->
-    <custom item="on-campus-study-list"/>
-    <custom item="off-campus-study-list"/>
+    <custom ref="on-campus-study-list"/>
+    <custom ref="off-campus-study-list"/>
     <list xml:id="productive-procrastination">
         <caption>Productive Procrastination</caption>
         <ul>
             <li><p>Work on citations</p></li>
-            <li><p>Take the <custom item="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
+            <li><p>Take the <custom ref="tutoring-center-acronym"/>'s <url href="https://www.buzzfeed.com/newu4a0ad4b43/what-kind-of-writer-are-you-298ez">Buzzfeed quiz</url> to figure out what kind of writer you are!</p></li>
             <li><p>Type up your notes/evidence</p></li>
             <li><p>Make to-do lists</p></li>
             <li><p>Make an assignment timeline</p></li>
             <li><p>Organize your documents/make a folder for your research</p></li>
             <li><p>Look at classes for next semester</p></li>
             <li><p>Make a good essay-writing playlist on Spotify</p></li>
-            <li><p>Go to the <custom item="dining-hall"/> or The Cellar, and get something healthy but good to snack on</p></li>
+            <li><p>Go to the <custom ref="dining-hall"/> or The Cellar, and get something healthy but good to snack on</p></li>
             <li><p>There's a huge <q>study</q> genre on YouTube. Go watch a couple videos to get inspired!</p></li>
             <li><p>Make some coffee/tea to get you in the (writing) mood</p></li>
             <li><p>Explore and familiarize yourself with the <pubtitle>Sound Writing</pubtitle> online guidebook (good job!)</p></li>
-            <li><p>Make a writing appointment at the <custom item="tutoring-center-acronym"/>!</p></li>
+            <li><p>Make a writing appointment at the <custom ref="tutoring-center-acronym"/>!</p></li>
         </ul>
     </list>
    </chapter>

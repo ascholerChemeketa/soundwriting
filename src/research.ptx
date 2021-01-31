@@ -15,10 +15,10 @@
     <section xml:id="research-research-methods">
         <title>Research Essentials</title>
         <p>The word <q>research</q> can seem daunting, but doing independent research can be some of the most exciting work you'll do in college.</p>
-        <p>At <custom item="library"/> you have access to rich collections, engaging learning environments, innovative instruction, and high-quality service in support of teaching, learning, civic engagement, and diversity. We encourage you to familiarize yourself early on with the scope of materials and the types of services available to you in an academic library, as they may differ markedly from those available in most school and public libraries. In close partnership with the faculty and other campus departments, <custom item="library"/> is always working to support your development as a scholar.</p>
-        <p>Knowing that <custom item="library"/> is there to help you is the first step, but you'll also need to get going on your own. Here are some guidelines that will help you not only do research successfully but enjoy doing it.</p>
+        <p>At <custom ref="library"/> you have access to rich collections, engaging learning environments, innovative instruction, and high-quality service in support of teaching, learning, civic engagement, and diversity. We encourage you to familiarize yourself early on with the scope of materials and the types of services available to you in an academic library, as they may differ markedly from those available in most school and public libraries. In close partnership with the faculty and other campus departments, <custom ref="library"/> is always working to support your development as a scholar.</p>
+        <p>Knowing that <custom ref="library"/> is there to help you is the first step, but you'll also need to get going on your own. Here are some guidelines that will help you not only do research successfully but enjoy doing it.</p>
         <insight>
-            <p>The first thing to know is that a university library is probably a bit different than other libraries you've encountered in the past. This is because it's designed for people like yourself who are doing research, more than for people who are looking for a book to read or a movie to watch at home (though <custom item="library"/> has those things, too!).</p>
+            <p>The first thing to know is that a university library is probably a bit different than other libraries you've encountered in the past. This is because it's designed for people like yourself who are doing research, more than for people who are looking for a book to read or a movie to watch at home (though <custom ref="library"/> has those things, too!).</p>
         </insight>
 
         <list xml:id="list-research-strategies-undertaking">
@@ -31,17 +31,17 @@
                 </li>
                 <li><title>Find the right search tools</title>
                     <p>
-                        <custom item="database-info"/>
+                        <custom ref="database-info"/>
                     </p>
                 </li>
                 <li><title>Use your library course or subject guide</title>
                     <p>
-                        <custom item="course-guides"/>
+                        <custom ref="course-guides"/>
                     </p>
                 </li>
                 <li><title>Get help</title>
                     <p>
-                        <custom item="research-help"/>
+                        <custom ref="research-help"/>
                     </p>
                 </li>
                 <li><title>Start early</title>
@@ -63,7 +63,7 @@
         <paragraphs>
             <title>Organizing and Analyzing Sources</title>
             <p>Research is a creative, recursive process, and it's likely that you'll encounter dozens of potentially relevant sources. It's easy to get overwhelmed, but here are two surefire strategies for handling information overload:</p>
-            <p>Consider learning how to use a knowledge-management tool. <custom item="learning-management-lib"/> These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p>
+            <p>Consider learning how to use a knowledge-management tool. <custom ref="learning-management-lib"/> These tools do so much more than just format citations; they let you organize and reorganize your sources as your research question develops, and they support extensive note-taking.</p>
             <p>Your research assignment prompt likely will indicate what kinds of (and often how many) sources you should aim for. But a source is not a source is not a source! <em>How</em> are you using sources? Take things one step further by analyzing precisely how you will use each source when building your argument so that you're able to use your sources in the most appropriate way. One helpful framework is <url href="http://www.tandfonline.com/doi/pdf/10.1080/07350190701738858">Joseph Bizup's <acro>BEAM</acro> model</url>. <acro>BEAM</acro> is an acronym intended to help us think about the various ways we <em>use</em> sources when writing a researched argument. Understanding how you're using a source is essential to using it correctly and effectively.</p>
         </paragraphs>
         <list xml:id="BEAM">
@@ -108,7 +108,7 @@
             <title>Strategies for Finding a Research Question</title>
             <ol>
                 <li><title>Begin by asking as many open-ended <q>why?</q> or <q>how?</q> questions as you can think of</title>
-                    <p>Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Chapter 3 of <pubtitle>The Craft of Research</pubtitle><custom item="craft-of-research"/>.</p>
+                    <p>Your topic should be rich enough to generate at least three potential research questions. If you have difficulty generating more than one research question, it's likely that you need to include another variable or otherwise broaden the scope of your inquiry. An excellent guide to getting from a topic to a question can be found in Chapter 3 of <pubtitle>The Craft of Research</pubtitle><custom ref="craft-of-research"/>.</p>
                 </li>
                 <li><title>Begin to evaluate your research questions</title>
                     <p>Which question interests you the most? Why?</p>
@@ -132,7 +132,7 @@
                     <p>will give you a ready sense of whether or not your question is clear and interesting.</p>
                 </li>
                 <li>
-                    <title><custom item="writing-tutor"/>s</title>
+                    <title><custom ref="writing-tutor"/>s</title>
                     <p>will ask you lots of clarifying questions and help you develop the best possible formulation of your research question.</p>
                 </li>
                 <li>

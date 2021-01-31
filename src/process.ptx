@@ -147,7 +147,7 @@
             <subsubsection xml:id="planning-draw">
                 <title>Drawing</title>
                 <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
-                    <custom item="wp-chalkboard-image" width="40%"/>
+                    <custom ref="wp-chalkboard-image" width="40%"/>
             </subsubsection>
         </subsection>
         <subsection xml:id="outlining">
@@ -455,7 +455,7 @@
                 <title>Role of the Conclusion</title>
                 <paragraphs xml:id="par-process-album">
                     <title>The Photo Album</title>
-                    <p>When it's 1:59 a.m. in <custom item="library"/> and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
+                    <p>When it's 1:59 a.m. in <custom ref="library"/> and you're nearing the end of your paper, it may be tempting for you to throw up your hands in desperation and exclaim, <q>I don't need a conclusion! I've said everything I need to say!</q> While we've all been in that position, it's definitely worth it to stay up a little later or get up a little earlier to write a strong conclusion. An effective conclusion <em>restates the argument</em> to remind the audience where they have been, and <em>offers some greater implications or applications</em> of your proposed resolution.</p>
                         <image source="images/WP-ConclusionCamera" width="50%"><description>A black and white cartoon of a camera.</description></image>
                     <p>Just as the introduction is the first thing your audience will read, the conclusion will be the last thing they remember before they put your paper down. In this way, the conclusion can be conceptualized as the photo scrapbook or Facebook album containing all the images from the reader's journey, with a few new trip ideas or future destinations thrown in. For this reason, the conclusion can be a great opportunity for you to reach beyond the scope of the prompt and make connections to greater issues or concepts that were not discussed in your paper.</p>
                 </paragraphs>
@@ -497,7 +497,7 @@
                             <p>Don't just copy and paste your thesis from the introduction, hoping that your audience won't notice. They will notice, because the introduction and conclusion fulfill very different functions, and you introduction should emphasize different parts of your argument than your conclusion does. Your argument likely will have evolved or grown somewhat over the course of writing your paper; while you may have to revise your thesis to reflect this, the way you present your argument in your conclusion will likely be slightly different from how you wrote it in the introduction. To avoid simply restating your thesis using the same language, try writing your conclusion without looking at your thesis at all. As you should now be intimately acquainted with your topic (having just written several pages on it), doing so will likely enable you to restate your thesis to reflect a more evolved and sophisticated understanding of your argument.</p>
                         </li>
                         <li><title>Play the <q>But, why?</q> game with a friend</title>
-                            <p>If you've ever spent time around young children, you are likely familiar with the <q>But, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer, <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say, <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a <custom item="writing-tutor"/> read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
+                            <p>If you've ever spent time around young children, you are likely familiar with the <q>But, why?</q> game. It starts with an innocuous question like <q>Why is the sky blue?</q> You might answer, <q>Because of the way molecules scatter blue light from the sun.</q> But far from satisfying the inquisitive youth, your answer simply prompts another question: <q>But, why?</q> After a few rounds you likely give up and say, <q>Just because.</q> While it can be an irritating game to play with children, the <q>But, why?</q> game can actually be incredibly useful if you are having difficulty coming up with the greater implications or applications of your argument. Have your friend or a <custom ref="writing-tutor"/> read over the first part of your conclusion (the summary of your argument), and then have them drill you with <q>But, why?</q>s. Eventually, you will get to a point where you have to think about the greater significance or future implications of your paper in order to answer their questions (needless to say, answering a question with <q>Just because</q> is not allowed).</p>
                         </li>
                     </ul>
                 </list>
@@ -578,20 +578,20 @@
                         <p>So you have done some research, started figuring out your ideas, and finally gotten into a groove when, all of a sudden, you stumble across something that you need to research more. But the thing is, you don't want to stop writing because you might lose your groove! What do you do? Fear not! You can always leave a note to yourself (like this! <q>Research more about penguins.</q> You might even <highlight>highlight</highlight> the note OR PUT IT IN ALL CAPS to remind yourself to go back and address it!), and continue your sentence as if you've already done the research. Especially since you can always go back and revise your sentence based on the new evidence you find, if you're mid thought and don't want to interrupt yourself, then don't!</p>
                     </li>
                     <li><title>Color-code</title>
-                        <p>If you like to color-code, you might try using different-colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: <alert>never</alert> write in books from <custom item="library"/>! Save your sticky notes for those.)</p>
+                        <p>If you like to color-code, you might try using different-colored sticky notes, pens, or highlighters to track your research in different ways. One color might, for example, indicate background information, another might be for quotes you want to use, and yet another could mark research you do while you're writing. This coding system is especially useful for doing research in books because you can lose a quote so easily! (But remember: <alert>never</alert> write in books from <custom ref="library"/>! Save your sticky notes for those.)</p>
                     </li>
                     <li><title>Use technology</title>
-                        <p>Since most articles are quite long and you probably won't use every page from every article, save your <custom item="printing"/> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
+                        <p>Since most articles are quite long and you probably won't use every page from every article, save your <custom ref="printing"/> for printing out your class readings and look into online <init>PDF</init>-readers like Adobe Acrobat, Foxit Reader, or ReadCube for articles you collect independently. Tools like these enable you to store, organize, highlight, and annotate a large number of articles without a single trip to the printer. Online research tools make it especially easy for you to add new research as you write because you can add completely new folders, move or delete articles that are no longer useful, or note differences between your new and old articles.</p>
                     </li>
                 </ul>
             </list>
-                <custom item="green-image" width="50%"/>
+                <custom ref="green-image" width="50%"/>
         </subsection>
     </section>
     <section xml:id="process-revising">
         <title>Revising</title>
         <introduction>
-            <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the <custom item="tutoring-center"/> (<custom item="tutoring-center-acronym"/>), we focus largely on <acro>HOC</acro>s. After addressing the <acro>HOC</acro>s covered in this chapter, see <xref ref="writing-sentence-level"/> for a more in-depth overview of <acro>LOC</acro>s.</p>
+            <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the <custom ref="tutoring-center"/> (<custom ref="tutoring-center-acronym"/>), we focus largely on <acro>HOC</acro>s. After addressing the <acro>HOC</acro>s covered in this chapter, see <xref ref="writing-sentence-level"/> for a more in-depth overview of <acro>LOC</acro>s.</p>
                 <image source="images/WP-GoodThings" width="100%"><description>A list titled "Things that are good for you." The list items are, "1. Revising 2. Eating broccoli 3. Revising again." The list is stylized with a cartoon head of broccoli and purple and green accents.</description></image>
             <p>As you're revising, pay attention to these <acro>HOC</acro>s:</p>
             <paragraphs xml:id="par-revising-thesis">
@@ -626,9 +626,9 @@
                     <p>Does it encapsulate the argument of the paper in a new way? Is there a sense of broader significance or application?</p>
                     <p>For instance, the conclusion</p>
                     <blockquote>
-                        <p><q>Recorded student reactions to eating broccoli indicate that broccoli is an unpopular food choice among college students. These findings suggest that broccoli should be excised from the <custom item="dining-hall"/> menu.</q></p>
+                        <p><q>Recorded student reactions to eating broccoli indicate that broccoli is an unpopular food choice among college students. These findings suggest that broccoli should be excised from the <custom ref="dining-hall"/> menu.</q></p>
                     </blockquote>
-                    <p>suggests the practical removal of broccoli from the <custom item="dining-hall"/> menu.</p>
+                    <p>suggests the practical removal of broccoli from the <custom ref="dining-hall"/> menu.</p>
             </paragraphs>
             <figure xml:id="revision-checklist">
                 <title>Revision Checklist</title>
@@ -644,7 +644,7 @@
         </subsection>
         <subsection xml:id="peer-review">
             <title>Peer Review</title>
-            <p>Few are more familiar with peer review than <custom item="writing-tutor"/>s. It's a lot of what we do! And it's likely that in some of your classes, your professor will also hold a peer review session at some point. That said, there are some keys to mastering the art of peer review.</p>
+            <p>Few are more familiar with peer review than <custom ref="writing-tutor"/>s. It's a lot of what we do! And it's likely that in some of your classes, your professor will also hold a peer review session at some point. That said, there are some keys to mastering the art of peer review.</p>
 
             <list xml:id="list-peer-review-principles">
                 <title>Strategies for Engaging in Peer Review</title>
@@ -659,7 +659,7 @@
                         <p>Even though you should be friendly, you aren't doing your peer any favors when you notice something but don't point it out. Contrary to common belief, it is possible to be both friendly and critical.</p>
                     </li>
                     <li><title>Be efficient</title>
-                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the <custom item="university-name-full"/> alumni fund.</p>
+                        <p>Don't mark every typo or instance of non standard language usage. Look for patterns and identify one or two instances of these patterns. Focus on Higher Order Concerns relating to argument, organization, and the ideas expressed in the paper. The <xref ref="revision-checklist" text="title"/> provides a way to hone in on some of the more systemic aspects of a paper. Save your ink for more important things, like writing checks to the <custom ref="university-name-full"/> alumni fund.</p>
                     </li>
                     <li><title>Be open</title>
                         <p>Having your writing read<mdash/>whether by a peer, or a professor, or an employer<mdash/>will always entail some degree of vulnerability. Trust that your reviewer is not out to hurt you or your feelings. Remind yourself that the best revision comes about as a result of communication between parties mutually interested and invested in the success of the paper. Friends often find things that we cannot, especially those issues we have learned to overlook after reading our paper over and over again.</p>
@@ -717,7 +717,7 @@
                         <p>You will survive writing this paper. Although grades, improvement, and learning are important, your worth as a human being and as a student does not revolve around one college assignment.</p>
                     </li>
                     <li><title>Use your resources</title>
-                        <p>You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the <custom item="tutoring-center-url"/>, or visiting a <custom item="librarian"/></p>
+                        <p>You go to a great school with great resources for students. Try going to your professor's office hours, making an appointment at the <custom ref="tutoring-center-url"/>, or visiting a <custom ref="librarian"/></p>
                     </li>
                     <li><title>Remember what interests you about your topic</title>
                         <p>Whether your paper is due for your favorite or least favorite class, you can always find a way to invest yourself in your topic. Focusing on the interesting parts of the topic itself may help you focus less on the stress of writing a paper and more on the intellectual conversation in which you, a scholar in training, are participating.</p>
@@ -753,19 +753,19 @@
         <subsection xml:id="overcoming-managing-time">
             <title>Meeting Deadlines</title>
             <image source="images/clock" width="50%"><description>A simple line drawing of a clock.</description></image>
-        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). <custom item="AC-resources-deadlines"/> Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
-        <p>However, you may find yourself reading this section after it is too late for a well-developed plan or <custom item="AC-appointment"/>. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
+        <p>Good time management helps prevent frustration. Since one of the greatest sources of stress during the writing process is being pressed for time, try to manage your time wisely by planning your time well in advance. Because this is such an important part of succeeding as a student, a whole section of this handbook, <xref ref="academic-success-time-management"/>, is dedicated to overcoming procrastination and developing good time management practices (including SMART goals and time charts). <custom ref="AC-resources-deadlines"/> Time management is a skill we as students have to learn and you shouldn’t feel like a failure if you don’t have it completely figured out, but taking these steps will set you up for success in the future. </p>
+        <p>However, you may find yourself reading this section after it is too late for a well-developed plan or <custom ref="AC-appointment"/>. Don’t despair! This happens to the best of us, and it’s still way better to turn in a rushed paper than none at all. The following strategies can help you through your last-minute writing marathon.</p>
         <p>Also, especially if you’re running late due to illness or other circumstances out of your control, remember that you can always (politely!) <xref ref="asking-for-extension" text="custom">ask for an extension </xref>. Still, you should never expect an extension and even if you sent that email you should start writing as soon as possible! </p>
         <list xml:id="list-process-managing-time-strategies" text="title">
             <title>Strategies for Meeting Deadlines</title>
             <ul>
                 <li><title>Create a schedule</title>
-                    <p>Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the <custom item="tutoring-center-acronym"/> or <custom item="library"/> early enough to get an appointment time that works best for you.</p>
+                    <p>Figure out how much time you have until your assignment is due, and plan accordingly. How much time will you need to do the initial research or data collection? Even if you're short on time, make sure to save time for planning<mdash/>it will save you time in the long run! Aim to have time to complete a rough draft, to revise, and to polish a final draft. Planning ahead also enables you to schedule an appointment at the <custom ref="tutoring-center-acronym"/> or <custom ref="library"/> early enough to get an appointment time that works best for you.</p>
                 </li>
                 <li><title>Start early</title>
                     <p>If planning a timeline is too structured for your personal writing process, you should at least plan to start early!</p>
                 </li>
-                <li><custom item="AC-deadlines-2"/></li>
+                <li><custom ref="AC-deadlines-2"/></li>
             </ul>
         </list>
         <list xml:id="list-process-strategies-too-late">
@@ -820,7 +820,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>Many successful people, including <custom item="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out the <custom item="diversity-center"/> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. At the <custom item="tutoring-center-url"/>, <custom item="writing-tutor"/>s <custom item="AC-identity"/>can also help you get started and get organized.</p>
+        <p>Many successful people, including <custom ref="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out the <custom ref="diversity-center"/> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. At the <custom ref="tutoring-center-url"/>, <custom ref="writing-tutor"/>s <custom ref="AC-identity"/>can also help you get started and get organized.</p>
         <observation>
             <title>Writing as a Multilingual Student</title>
             <blockquote>

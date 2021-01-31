@@ -30,7 +30,7 @@
                         <li xml:id="definition-noun">
                             <title>noun</title>
                             <p>person, place, or thing</p>
-                            <p>Examples: book, cat, dog, I, me, <custom item="university-name-full"/></p>
+                            <p>Examples: book, cat, dog, I, me, <custom ref="university-name-full"/></p>
                         </li>
                         <li xml:id="definition-verb">
                             <title>verb</title>
@@ -85,7 +85,7 @@
                     <p>
                         Below you can find a few example sentences showing the subject (<em>italicized</em>) and predicate (regular typeface):
                         <ul>
-                            <li><p><em>Ollie</em> studied in <custom item="coffee-shop"/>.</p></li>
+                            <li><p><em>Ollie</em> studied in <custom ref="coffee-shop"/>.</p></li>
                             <li><p><em>The Economics professor</em> told the class to turn the assignment in by the end of the day.</p></li>
                             <li><p><em>The a capella group <q>What She Said</q></em> will perform at the spring concert.</p></li>
                         </ul>
@@ -171,11 +171,11 @@
                     </p>
                 </paragraphs> -->
                     <example>
-                        <title>Adjective/Relative Clause: <custom item="mascot"/></title>
+                        <title>Adjective/Relative Clause: <custom ref="mascot"/></title>
                         <p>
-                            <q>The <custom item="mascot"/> costume, <em>which belongs to the school</em>, is to be used only at official school events.</q>
+                            <q>The <custom ref="mascot"/> costume, <em>which belongs to the school</em>, is to be used only at official school events.</q>
                             <ul>
-                                <li>Subject: the <custom item="mascot"/> costume</li>
+                                <li>Subject: the <custom ref="mascot"/> costume</li>
                                 <li>Question: which one?</li>
                                 <li>Answer: the one that belongs to the school</li>
                             </ul>
@@ -263,7 +263,7 @@
             </subsubsection>
             <subsubsection xml:id="phrases">
                 <title>Phrases</title>
-                <p>Phrases are to sentences what landscaping is to <custom item="university-name-short"/>. Just as <custom item="university-name-short"/>'s landscaping makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar related, though, there are far too many phrases with overly confusing names. To remember and understand each type of phrase, it might be helpful for you to review <xref ref="eight-parts-of-speech"/>. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
+                <p>Phrases are to sentences what landscaping is to <custom ref="university-name-short"/>. Just as <custom ref="university-name-short"/>'s landscaping makes the campus beautiful, interesting, and informative, so too do phrases add beauty, interest, and information to sentences. Like clauses and almost everything else grammar related, though, there are far too many phrases with overly confusing names. To remember and understand each type of phrase, it might be helpful for you to review <xref ref="eight-parts-of-speech"/>. Since phrases function as single parts of speech, you can figure out which type of phrase a particular phrase is by identifying its role in a sentence.</p>
                 <note>
                     <title>Distinguishing a Phrase from a Clause</title>
                     <p>Whereas a clause has both a <xref ref="definition-noun" text="title"/> <em>and</em> a <xref ref="definition-verb" text="title"/>, a phrase has either a noun <em>or</em> a verb, but <em>not both</em>. Phrases are groups of words that function as a single part of speech (<eg/>, a noun or an <xref ref="definition-adjective" text="title"/>).</p>
@@ -278,7 +278,7 @@
                             <title>infinitive phrase</title>
                             <p>Infinitive phrases feature our good friend, the infinitive verb.</p>
                             <p><q><em>To include</em> all types of phrases in this list would be too boring.</q></p>
-                            <p><q><em>To pull</em> an all-nighter, I need to stop by <custom item="coffee-shop"/> <em>to get</em> my usual: a nitro cold brew with a shot of espresso.</q></p>
+                            <p><q><em>To pull</em> an all-nighter, I need to stop by <custom ref="coffee-shop"/> <em>to get</em> my usual: a nitro cold brew with a shot of espresso.</q></p>
                         </li>
                         <li xml:id="definition-prepositional-phrases" text="title">
                             <title>prepositional phrase</title>
@@ -295,14 +295,14 @@
                         <li xml:id="definition-participial-phrases">
                             <title>participial phrase</title>
                             <p>You'll frequently run across phrases that contain present or past participles. Present participles usually end in -ing (<q>I am running, jumping, swimming, and talking</q>), and past participles end in -ed or take an irregular form (<q>I ran, jumped, swam, and talked</q>).</p>
-                            <p><q>I like my eggs from the <custom item="dining-hall"/> <em>covered in ketchup</em>.</q></p>
+                            <p><q>I like my eggs from the <custom ref="dining-hall"/> <em>covered in ketchup</em>.</q></p>
                             <p><q>The student ran to catch up with her friends, <em>slipping in the puddles</em> along the sidewalk.</q></p>
                         </li>
                         <li xml:id="definition-gerund-phrases">
                             <title>gerund phrase</title>
                             <p>A gerund is a verb that ends in <q>-ing</q> and acts as a noun. Examples of gerunds include: studying, reading, working, crying, whining, whimpering, and napping. Just like these words, a gerund phrase adds some spice (<ie/>, -ing) to a sentence.</p>
                             <p><q><em>Crying while studying</em> is not recommended.</q></p>
-                            <p><q>Although it may seem like a good idea, <em>having pizza from <custom item="pizza-place"/> for every meal</em> probably isn't the way to go.</q></p>
+                            <p><q>Although it may seem like a good idea, <em>having pizza from <custom ref="pizza-place"/> for every meal</em> probably isn't the way to go.</q></p>
                         </li>
                     </dl>
                </list>
@@ -334,7 +334,7 @@
                         <li xml:id="definition-simple-sentence">
                             <title>simple sentence</title>
                             <p>one <xref ref="definition-independent-clause" text="title"/></p>
-                            <p><q>I love <custom item="university-name-short"/>.</q></p>
+                            <p><q>I love <custom ref="university-name-short"/>.</q></p>
                             <p><q>My RA is so cool.</q></p>
                             <p><q>The Grand Canyon is in Arizona.</q></p>
                         </li>
@@ -342,13 +342,13 @@
                             <title>compound sentence</title>
                             <p>at least two <xref ref="definition-independent-clause" text="custom">independent clauses</xref> connected via a coordinating <xref ref="definition-conjunction" text="title"/></p>
                             <p><q>I miss my high school friends, but I'm excited to make new friends.</q></p>
-                            <p><q><custom item="compound-sentence-1"/></q></p>
-                            <p><q><custom item="compound-sentence-2"/></q></p>
+                            <p><q><custom ref="compound-sentence-1"/></q></p>
+                            <p><q><custom ref="compound-sentence-2"/></q></p>
                         </li>
                         <li xml:id="definition-complex-sentence">
                             <title>complex sentence</title>
                             <p><xref ref="definition-independent-clause" text="title"/> and one or more <xref ref="definition-dependent-clause" text="custom"> dependent/subordinate clauses</xref></p>
-                            <p><q>When the <custom item="dining-hall"/> runs out of hummus, I want to cry.</q></p>
+                            <p><q>When the <custom ref="dining-hall"/> runs out of hummus, I want to cry.</q></p>
                             <p><q>If you feel unsafe walking back to campus alone, Security Services provides a free escort service.</q></p>
                             <p><q>I need to drink coffee when I'm tired.</q></p>
                             <p>When the dependent clause goes in front of the independent clause, we separate the two clauses with a comma. When the dependent clause goes second, though, we do not use a comma.</p>
@@ -397,18 +397,18 @@
                 <example>
                     <title>Imperative Sentences</title>
                     <p><q>Go tell him that it's imperative that he knows what an imperative sentence is.</q></p>
-                    <p><q>Grab me a Greek yogurt from the <custom item="dining-hall"/>, please.</q></p>
+                    <p><q>Grab me a Greek yogurt from the <custom ref="dining-hall"/>, please.</q></p>
                 </example>
                 <example>
                     <title>Exclamatory Sentences</title>
-                    <p>I love <custom item="university-name-short"/>!</p>
+                    <p>I love <custom ref="university-name-short"/>!</p>
                     <p>I love writing!</p>
                 </example>
             </subsubsection>
             <subsubsection xml:id="subordination-coordination">
                 <title>Subordination and Coordination</title>
                 <p>Because each <xref ref="definition-clause" text="title"/> in a <xref ref="definition-compound-sentence" text="title"/> is independent, neither one is obviously foregrounded in relation to the other (as in a <xref ref="definition-complex-sentence" text="title"/>). That's because the relation between the clauses of a compound sentence is only conveyed lexically (through the coordinating <xref ref="definition-conjunction" text="title"/>), as opposed to lexically and syntactically (in a complex sentence). Nonetheless, a compound sentence can serve various purposes. A compound sentence that conjoins clauses using <em><q>and</q></em> can provide extra information (<q>I want to go to the park and I want to search for Pokemon</q>). A compound sentence that conjoins clauses using <em><q>or</q></em> or <em><q>nor</q></em> can provide alternatives (<q>I want to go to the park or I want to stay home and play Pokemon</q>). A compound sentence that conjoins clauses using <em><q>so</q></em> or <em><q>for</q></em> can provide justification (<q>I want to go to the park so I can search for Pokemon; I want to go to the park for I love to search for Pokemon</q>).</p>
-                <p>As its name implies, a <xref ref="definition-dependent-clause" text="title"/> must always be subordinated to the <xref ref="definition-independent-clause" text="title"/> independent clause in a <xref ref="definition-complex-sentence" text="title"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <custom item="dining-hall"/> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <custom item="dining-hall"/> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <custom item="dining-hall"/> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
+                <p>As its name implies, a <xref ref="definition-dependent-clause" text="title"/> must always be subordinated to the <xref ref="definition-independent-clause" text="title"/> independent clause in a <xref ref="definition-complex-sentence" text="title"/>. The effect of this subordination is the backgrounding of the subordinate clause and the foregrounding of the independent clause. In the example <q>When the <custom ref="dining-hall"/> runs out of hummus, I want to cry,</q> the subordinate clause <q>When the <custom ref="dining-hall"/> runs out of hummus</q> is backgrounded in relation to the independent clause <q>I want to cry.</q> This relativization places different emphasis on the clauses. The independent clause <q>I want to cry</q> is more important than the subordinate clause <q>When the <custom ref="dining-hall"/> runs out of hummus</q> because it conveys a complete thought, while the subordinate clause only modifies that thought. As the backgrounded clause, the subordinate clause specifies the context (provides the background) of the independent clause. The picture would be coherent without the background, but not nearly as robust. When constructing a complex sentence, then, consider what the most important part of that sentence is and foreground it.</p>
                 <note xml:id="note-mechanics-compound-sentences">
                     <!-- <title></title> -->
                     <p> A <xref ref="definition-compound-sentence" text="title"/> can easily be transformed into a <xref ref="definition-complex-sentence" text="title"/>. For instance, the example <q>I miss my high school friends, but I'm excited to make new friends.</q> could be reconstructed to read <q>Although I miss my high school friends, I'm excited to make new friends.</q> Consider what meaning you want to convey in your sentence and construct them accordingly.</p>
@@ -441,7 +441,7 @@
                 <p>
                     Below are some more examples of infinitives that are probably okay to leave split:
                 </p>
-                <custom item="clear-split-infinitive"/>
+                <custom ref="clear-split-infinitive"/>
                 <example>
                     <title>Clear Split Infinitive: Tea</title>
                     <p>
@@ -465,12 +465,12 @@
                         <dl>
                             <li>
                             <title>Clear</title>
-                            <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the <custom item="diversity-center"/></q> [infinitive <q>to involve</q> is split]</p>
+                            <p><q>If you'd like <un s="1">to</un> <em>actively</em> <un s="1">involve</un> yourself in social justice opportunities on campus, you can visit the <custom ref="diversity-center"/></q> [infinitive <q>to involve</q> is split]</p>
                             </li>
                             <li>
                                 <title>Confusing</title>
-                                <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the <custom item="diversity-center"/>.</q> [infinitive intact, but sentence is awkward]</p>
-                                <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the <custom item="diversity-center"/>.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
+                                <p><q>If you'd like <em>actively</em> <un s="1">to involve</un> yourself in social justice opportunities on campus, you can visit the <custom ref="diversity-center"/>.</q> [infinitive intact, but sentence is awkward]</p>
+                                <p><q>If you'd like <un s="1">to involve</un> yourself in social justice opportunities on campus <em>actively</em>, you can visit the <custom ref="diversity-center"/>.</q> [infinitive intact, but modifier <q>actively</q> far removed from the verb form <q>to involve</q>]</p>
                             </li>
                         </dl>
                     </p>
@@ -496,7 +496,7 @@
                     <p><q>I would like <un s="1">to</un> <em>clearly and concisely</em> <un s="1">write</un> sentences with infinitives.</q></p>
                 </blockquote>
                 <p>Similarly, the infinitive verb form <q>to write</q> in this sentence is split by the modifying phrase <q>clearly and concisely.</q> In this case, splitting the infinitive with the modifier disrupts sentence fluency and expression of the verb form <q>to write</q>; therefore, it's probably better to keep the infinitive phrase intact.</p>
-                <custom item="unclear-split-infinitive"/>
+                <custom ref="unclear-split-infinitive"/>
                 <example>
                     <title>Unclear Split Infinitive: Club Fair</title>
                     <p>
@@ -546,12 +546,12 @@
                 </list>
                 <example>
                     <title>Agreement with Multiple Subjects</title>
-                    <p><q>Professors <em>and</em> <custom item="university-president"/> <alert>meet</alert> with students frequently.</q></p>
+                    <p><q>Professors <em>and</em> <custom ref="university-president"/> <alert>meet</alert> with students frequently.</q></p>
                 </example>
                 <example>
                     <title>Agreement with Multiple Possible Subjects</title>
-                    <p><q><em>Either</em> <custom item="university-president"/> <em>or</em> professors <alert>meet</alert> with students frequently.</q></p>
-                    <p><q><em>Either</em> professors <em>or</em> <custom item="university-president"/> <alert>meets</alert> with students frequently.</q></p>
+                    <p><q><em>Either</em> <custom ref="university-president"/> <em>or</em> professors <alert>meet</alert> with students frequently.</q></p>
+                    <p><q><em>Either</em> professors <em>or</em> <custom ref="university-president"/> <alert>meets</alert> with students frequently.</q></p>
                 </example>
                 <example>
                     <title>Agreement with a Collective Noun</title>
@@ -609,12 +609,12 @@
                     <p><q>Each of the research students has access to the lab.</q></p>
                 </example>
                 <example>
-                    <title>Each as a Pronoun: Experience <custom item="university-name-short"/></title>
-                    <p><q>Each and every one of you is in for a new experience here at <custom item="university-name-short"/>.</q></p>
+                    <title>Each as a Pronoun: Experience <custom ref="university-name-short"/></title>
+                    <p><q>Each and every one of you is in for a new experience here at <custom ref="university-name-short"/>.</q></p>
                 </example>
                 <example>
                     <title>Each as a Pronoun: Coffee Flavors</title>
-                    <p><q>Each of the coffee flavors at <custom item="coffee-shop"/> sounds enticing.</q></p>
+                    <p><q>Each of the coffee flavors at <custom ref="coffee-shop"/> sounds enticing.</q></p>
                 </example>
                 <p><q>All,</q> <q>some,</q> and <q>none</q> can be either singular or plural depending on the subject. <q>All</q> and <q>some</q> are singular or plural depending on the plurality of the subject and therefore require an accompanying verb.</p>
                 <example>
@@ -648,9 +648,9 @@
                     <p>
                         <ul>
                             <li><p><q>It sits, she sits, he sits, they sit<ellipsis/></q></p></li>
-                            <li><p><q>The <custom item="intro-writing-student"/> studies in the library.</q></p></li>
-                            <li><p><q><custom item="s-ending-1"/></q></p></li>
-                            <li><p><q><custom item="s-ending-2"/></q></p></li>
+                            <li><p><q>The <custom ref="intro-writing-student"/> studies in the library.</q></p></li>
+                            <li><p><q><custom ref="s-ending-1"/></q></p></li>
+                            <li><p><q><custom ref="s-ending-2"/></q></p></li>
                         </ul>
                     </p>
                 </example>
@@ -667,7 +667,7 @@
                     <p>
                         <ul>
                             <li><p><q>It is, she is, he is, they are<ellipsis/></q></p></li>
-                            <li><p><q><custom item="is-agreement"/></q></p></li>
+                            <li><p><q><custom ref="is-agreement"/></q></p></li>
                             <li><p><q>The students are going to the open-mic night in the piano lounge.</q></p></li>
                             <li><p><q>The resident is running for Residence Hall Association president of their hall; they are a strong candidate for the position.</q></p></li>
                         </ul>
@@ -685,7 +685,7 @@
                     <p>
                         <ul>
                             <li><p><q>Would you prefer a drip coffee or caffeinated tea?</q> <q>Either is fine with me.</q></p></li>
-                            <li><p><q>Neither of the two coffee machines in <custom item="coffee-shop"/> is working.</q></p></li>
+                            <li><p><q>Neither of the two coffee machines in <custom ref="coffee-shop"/> is working.</q></p></li>
                         </ul>
                     </p>
                 </example>
@@ -720,8 +720,8 @@
                     <title>More Agreement with <q>Either/Or</q> and <q>Neither/Nor</q></title>
                     <p>
                         <ul>
-                            <li><p><q><custom item="either-or-agreement"/></q></p></li>
-                            <li><p><q>Neither the tables nor the couches in <custom item="coffee-shop"/> are open.</q></p></li>
+                            <li><p><q><custom ref="either-or-agreement"/></q></p></li>
+                            <li><p><q>Neither the tables nor the couches in <custom ref="coffee-shop"/> are open.</q></p></li>
                         </ul>
                     </p>
                 </example>
@@ -749,7 +749,7 @@
                     <title>Agreement with <q>And/Or</q></title>
                     <p>
                         <ul>
-                            <li><p><q><custom item="and-agreement"/></q></p></li>
+                            <li><p><q><custom ref="and-agreement"/></q></p></li>
                             <li><p><q>My sister or my brothers are coming to visit me on campus.</q></p></li>
                             <li><p><q>My brothers or my sister is coming to visit me on campus.</q></p></li>
                         </ul>
@@ -763,7 +763,7 @@
                     <ul>
                         <li><p><q><un s="1">The student body president</un>, along with the first-year students, <em>is attending</em> Convocation.</q></p></li>
                         <li><p><q>The <un s="1">first-year resident</un>, who was feeling <acro>FOMO</acro> and who chose to hang out with friends and watch movies instead of study for his test, <em>now regrets</em> the decision after seeing his test score.</q></p></li>
-                        <li><p><q><un s="1"><custom item="coffee-shop"/></un> (and its baristas) <em>provides</em> a great space to study and socialize.</q></p></li>
+                        <li><p><q><un s="1"><custom ref="coffee-shop"/></un> (and its baristas) <em>provides</em> a great space to study and socialize.</q></p></li>
                     </ul>
                 </p>
                 <warning>
@@ -780,7 +780,7 @@
                 <title>Collective Nouns</title>
                 <p>There are some <xref ref="definition-subject" text="custom">subjects</xref> that may be singular or plural depending on how you use them.</p>
                 <p>In order to determine whether to use a singular or a plural <xref ref="definition-verb" text="title"/>, ask yourself: Are the people in the group acting as a single unit, or is each individual in the group acting individually? If the group is acting as a single unit, use singular. If each individual in the group is acting individually, use plural. (To help with the plural instances, try seeing if it would make sense to write <q><fillin/> members,</q> like <q>jury members</q> or <q>council members.</q>)</p>
-                <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room is silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at <custom item="coffee-shop"/>.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
+                <p>So with the collective noun <q>class</q> you could say, <q>The class <em>is</em> silent during the test.</q> In this sentence, you're talking about the room of people as one and saying that as one the room is silent. You can also <em>correctly</em> say <q>After tests, the class <em>buy</em> their celebratory smoothies at <custom ref="coffee-shop"/>.</q> In this case, you're emphasizing the individual action of each member of the group.</p>
                 <p>A list of some collective nouns and example uses may be found below.</p>
                 <example>
                     <title>Sample Sentences with Collective Nouns</title>
@@ -793,7 +793,7 @@
                             </li>
                             <li>
                                 <title>team</title>
-                                <p><q>The <custom item="university-name-full"/> women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
+                                <p><q>The <custom ref="university-name-full"/> women's soccer <un s="1">team</un> <em>has</em> had a very successful season.</q></p>
                                 <p><q>This year, the women's soccer <un s="1">team</un> <em>are</em> going home to visit their families after their NCAA win.</q></p>
                             </li>
                             <li>
@@ -847,7 +847,7 @@
                                 <p><q>Some of us are ready to eat.</q></p>
                             </li>
                             <li>
-                                <p><q>The majority of <custom item="university-name-short"/> baseball fans buy <custom item="identity"/> hats at the bookstore.</q></p>
+                                <p><q>The majority of <custom ref="university-name-short"/> baseball fans buy <custom ref="identity"/> hats at the bookstore.</q></p>
                             </li>
                             <li>
                                 <p><q>All students on campus are really cool.</q></p>
@@ -900,11 +900,11 @@
                     <dl>
                         <li>
                             <title>fragment</title>
-                            <p><q>To the <custom item="dining-hall"/>.</q></p>
+                            <p><q>To the <custom ref="dining-hall"/>.</q></p>
                         </li>
                         <li>
                             <title>revision</title>
-                            <p><q>You should take your <custom item="dining-hall"/> dishes back to the <custom item="dining-hall"/>.</q></p>
+                            <p><q>You should take your <custom ref="dining-hall"/> dishes back to the <custom ref="dining-hall"/>.</q></p>
                         </li>
                     </dl>
                     By sticking the fragment on an independent clause, we not only get rid of the fragment, but we also add more specificity to the sentence.
@@ -933,18 +933,18 @@
             <subsubsection xml:id="parallelism-mixing-word-forms">
                 <title>Mixing Word Forms</title>
                 <p>The above sentence is an example of mixing word forms (to read, to drink, and petting). If you have a verb that applies to two or more of the items in the series, it must apply to all items equally in order to preserve correct parallel structure. Take the following example of mixing word forms:</p>
-                <custom item="parallelism-example"/>
-                    <custom item="oppenheimer-image" width="40%"/>
+                <custom ref="parallelism-example"/>
+                    <custom ref="oppenheimer-image" width="40%"/>
             </subsubsection>
             <subsubsection xml:id="parallelism-mixing-clause-forms">
                 <title>Mixing Clause Forms</title>
                 <p>The same rule may be applied to a series of complex clauses. If you have a verb that applies to two or more clauses in the series, it must apply equally to all clauses in order to maintain parallel structure. Take the following example of mixing clause forms:</p>
                 <blockquote>
-                    <p><q>This year, <custom item="coffee-shop"/> has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, more <q>for-here</q> options, and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+                    <p><q>This year, <custom ref="coffee-shop"/> has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, more <q>for-here</q> options, and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
                 </blockquote>
-                <p>In this sentence, <custom item="coffee-shop"/> has cut a lot of waste by doing two things: 1) offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and 2) encouraging people to recycle. While the first three clauses in the series (discounts, drinks, and options) all share the verb <q>offering</q> equally, the fourth clause (recycling lids and sleeves) only uses the verb <q>encouraging.</q> To correct this sentence to preserve parallel structure, you have to insert the conjunction <q>and</q> between the second and third clauses to distinguish what <custom item="coffee-shop"/> is <q>offering</q> from what it is <q>encouraging.</q> Take the corrected revision:</p>
+                <p>In this sentence, <custom ref="coffee-shop"/> has cut a lot of waste by doing two things: 1) offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and 2) encouraging people to recycle. While the first three clauses in the series (discounts, drinks, and options) all share the verb <q>offering</q> equally, the fourth clause (recycling lids and sleeves) only uses the verb <q>encouraging.</q> To correct this sentence to preserve parallel structure, you have to insert the conjunction <q>and</q> between the second and third clauses to distinguish what <custom ref="coffee-shop"/> is <q>offering</q> from what it is <q>encouraging.</q> Take the corrected revision:</p>
                 <blockquote>
-                    <p><q>This year, <custom item="coffee-shop"/> has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
+                    <p><q>This year, <custom ref="coffee-shop"/> has cut a lot of paper waste by offering mug discounts, free Cup Karma drinks, and more <q>for-here</q> options and by encouraging people to recycle their coffee cup lids and sleeves.</q></p>
                 </blockquote>
             </subsubsection>
             <subsubsection xml:id="parallelism-two-nouns">
@@ -976,11 +976,11 @@
                 <title>Lists After a Colon</title>
                 <p>When you have a list after a colon, the parallel structure rule should be equally applied to all items in that list. Take this example of a list that does not follow parallel structure:</p>
                 <blockquote>
-                    <p><q>The sandwich station at the <custom item="dining-hall"/> has the following spread options: hummus, pesto, mayo, mustard, and it also has relish.</q></p>
+                    <p><q>The sandwich station at the <custom ref="dining-hall"/> has the following spread options: hummus, pesto, mayo, mustard, and it also has relish.</q></p>
                 </blockquote>
                 <p>This list breaks parallel structure with the last item, <q>it also has relish,</q> which adds both a subject (<q>it</q>) and verb (<q>has</q>) to the list item (<q>relish</q>). To make this sentence adhere to parallel structure, the list item must be in the same form as the other items in the list:</p>
                 <blockquote>
-                    <p><q>The sandwich station at the <custom item="dining-hall"/> has the following spread options: hummus, pesto, mayo, mustard, and relish.</q></p>
+                    <p><q>The sandwich station at the <custom ref="dining-hall"/> has the following spread options: hummus, pesto, mayo, mustard, and relish.</q></p>
                 </blockquote>
                 <p>To avoid these and other parallel structure errors, here are some things to keep in mind while writing and proofreading:</p>
                 <list>
@@ -1018,23 +1018,23 @@
                 <example>
                     <title>Misplaced Modifier: Tired Liam</title>
                     <blockquote>
-                        <p><q>Liam sprinted up the staircase to his class on the top floor of <custom item="academic-building"/>, which was steep and exhausting.</q></p>
+                        <p><q>Liam sprinted up the staircase to his class on the top floor of <custom ref="academic-building"/>, which was steep and exhausting.</q></p>
                     </blockquote>
-                    <p>The placement of this modifier makes it seem like the top floor of <custom item="academic-building"/> is <q>steep and exhausting.</q></p>
+                    <p>The placement of this modifier makes it seem like the top floor of <custom ref="academic-building"/> is <q>steep and exhausting.</q></p>
                     <p>Revision:</p>
                     <blockquote>
-                        <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of <custom item="academic-building"/>.</q></p>
+                        <p><q>Liam sprinted up the staircase, which was steep and exhausting, to his class on the top floor of <custom ref="academic-building"/>.</q></p>
                     </blockquote>
                 </example>
                 <example>
-                    <title>Misplaced Modifier: Dogs of <custom item="university-name-short"/></title>
+                    <title>Misplaced Modifier: Dogs of <custom ref="university-name-short"/></title>
                     <blockquote>
-                        <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into <custom item="fountain"/>.</q></p>
+                        <p><q>Whining pleadingly, the owner tried to restrain the dog from jumping excitedly into <custom ref="fountain"/>.</q></p>
                     </blockquote>
                     <p>This sentence makes it seem like the owner was the one <q>whining pleadingly,</q> not the dog!</p>
                     <p>Revision:</p>
                     <blockquote>
-                        <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into <custom item="fountain"/>.</q></p>
+                        <p><q>The owner tried to restrain the dog, which was whining pleadingly, from jumping excitedly into <custom ref="fountain"/>.</q></p>
                     </blockquote>
                 </example>
             </subsubsection>
@@ -1046,18 +1046,18 @@
                 </blockquote>
                 <p>In this sentence, <q>after writing for hours</q> is a participle phrase modifying <q>the paper.</q> But a paper can't write itself! Instead, the participle phrase should modify the subject doing the action (in this case, the student writing the paper):</p>
                 <blockquote>
-                    <p><q>After writing for hours in <custom item="library"/>, the exhausted student finally finished their paper.</q></p>
+                    <p><q>After writing for hours in <custom ref="library"/>, the exhausted student finally finished their paper.</q></p>
                 </blockquote>
                 <p>Here are a few more examples of dangling modifiers and their possible revisions:</p>
                 <example>
                     <title>Dangling Modifier: Lost in Wyatt</title>
                     <blockquote>
-                        <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in <custom item="academic-building"/>.</q></p>
+                        <p><q>Unfamiliar with the campus layout, it was difficult to find their classroom in <custom ref="academic-building"/>.</q></p>
                     </blockquote>
                     <p>This sentence is confusing because the modifier, <q>Unfamiliar with the campus layout,</q> is modifying a noun that doesn't exist. To fix this problem, we need to add a noun.</p>
                     <p>Revision:</p>
                     <blockquote>
-                        <p><q>Unfamiliar with the campus layout, the first-year student found it difficult to find their classroom in <custom item="academic-building"/>.</q></p>
+                        <p><q>Unfamiliar with the campus layout, the first-year student found it difficult to find their classroom in <custom ref="academic-building"/>.</q></p>
                     </blockquote>
                 </example>
                 <example>
@@ -1348,8 +1348,8 @@
             <p>While we use <q>to be</q> frequently in our every day speech, the verb is often too weak as the main verb in formal writing. Uses of <q>to be</q> include: <em>to be, being, am, is, are, was, and were.</em></p>
             <p>Writers prefer not to overuse <q>to be</q> because English contains plenty of stronger (<ie/>, more active, informative, and interesting) verbs. <q>To be</q> also frequently indicates that you are using <xref ref="style-using-passive-cautiously" text="custom">passive voice</xref>. Using <q>to be</q> too much thus makes your writing boring or too passive. Which passage below do you prefer?</p>
             <blockquote>
-                <p><q>I was going to <custom item="coffee-shop"/> when I saw something that was interesting. It was my friend, Sally. Sally was outside and was sleeping on her chemistry textbook.</q></p>
-                <p><q>On my way to <custom item="coffee-shop"/>, I happened upon an interesting (and funny) sight: my friend, Sally, had fallen asleep outside, using her chemistry textbook as a pillow!</q></p>
+                <p><q>I was going to <custom ref="coffee-shop"/> when I saw something that was interesting. It was my friend, Sally. Sally was outside and was sleeping on her chemistry textbook.</q></p>
+                <p><q>On my way to <custom ref="coffee-shop"/>, I happened upon an interesting (and funny) sight: my friend, Sally, had fallen asleep outside, using her chemistry textbook as a pillow!</q></p>
             </blockquote>
             <warning xml:id="warning-mechanics-using-thesauruses">
                 <title>Thesaurus Use</title>
@@ -1456,7 +1456,7 @@
                             <p>are</p>
                             <p>our</p>
                         </stack>
-                        <p>We <em>are</em> <custom item="identity"/>s!</p>
+                        <p>We <em>are</em> <custom ref="identity"/>s!</p>
                         <p><ellipsis/>but <em>our</em> favorite thing is chocolate<ellipsis/>.</p>
                     </sidebyside>
                     <sidebyside>
@@ -1480,7 +1480,7 @@
                             <p>break</p>
                             <p>brake</p>
                         </stack>
-                        <p>Learning how to <em>brake</em> in the <custom item="student-government"/> vans can be tricky.</p>
+                        <p>Learning how to <em>brake</em> in the <custom ref="student-government"/> vans can be tricky.</p>
                          <p>After studying for my biology exam, working through my music theory homework, and reading my articles for religion class, I’m ready for a <em>break</em>.</p>
                     </sidebyside>
                     <sidebyside>
@@ -1496,7 +1496,7 @@
                             <p>concious</p>
                             <p>conscience</p>
                         </stack>
-                         <p>We are very environmentally <em>conscious</em> at <custom item="university-name-short"/>.</p>
+                         <p>We are very environmentally <em>conscious</em> at <custom ref="university-name-short"/>.</p>
                          <p>My <em>conscience</em> keeps me from doing unethical science because I know that unethical science is bad.</p>
                     </sidebyside>
                     <sidebyside>
@@ -1520,8 +1520,8 @@
                             <p>grate</p>
                             <p>great</p>
                         </stack>
-                        <p>The first-year student accidentally dropped their key-card into the rainwater <em>grate</em> by the <custom item="dining-hall"/>.</p>
-                        <p>I've heard <custom item="library"/> has some <em>great</em> study spaces.</p>
+                        <p>The first-year student accidentally dropped their key-card into the rainwater <em>grate</em> by the <custom ref="dining-hall"/>.</p>
+                        <p>I've heard <custom ref="library"/> has some <em>great</em> study spaces.</p>
                     </sidebyside>
                     <sidebyside>
                         <stack>
@@ -1529,7 +1529,7 @@
                             <p>here</p>
                         </stack>
                         <p>I <em>hear</em> that the view from the astronomy tower is a sight to behold.</p>
-                        <p>I’ve really made a home for myself <em>here</em> at <custom item="university-name-short"/>.</p>
+                        <p>I’ve really made a home for myself <em>here</em> at <custom ref="university-name-short"/>.</p>
                     </sidebyside>
                     <sidebyside>
                         <stack>
@@ -1544,8 +1544,8 @@
                             <p>hole</p>
                             <p>whole</p>
                         </stack>
-                        <p>The <custom item="university-name-full"/> Golf Team won the tournament by making a <em>hole</em> in one.</p>
-                        <p>I was so hungry, I ate the <em>whole</em> <custom item="pizza-place"/> pizza by myself.</p>
+                        <p>The <custom ref="university-name-full"/> Golf Team won the tournament by making a <em>hole</em> in one.</p>
+                        <p>I was so hungry, I ate the <em>whole</em> <custom ref="pizza-place"/> pizza by myself.</p>
                     </sidebyside>
                     <sidebyside>
                         <stack>
@@ -1553,7 +1553,7 @@
                             <p>its</p>
                         </stack>
                         <p><em>It’s</em> no wonder the school spends so much money on landscaping<mdash/>the campus is beautiful!</p>
-                        <p>The <custom item="university-name-full"/> is known for <em>its</em> beautiful landscaping.</p>
+                        <p>The <custom ref="university-name-full"/> is known for <em>its</em> beautiful landscaping.</p>
                     </sidebyside>
                     <sidebyside>
                         <stack>
@@ -1601,14 +1601,14 @@
                             <p>past</p>
                         </stack>
                         <p>I need to call my mom to tell her that I <em>passed</em> my math class!</p>
-                        <p>The <em>past</em> few years at <custom item="university-name-short"/> have been some of the best years of my life.</p>
+                        <p>The <em>past</em> few years at <custom ref="university-name-short"/> have been some of the best years of my life.</p>
                     </sidebyside>
                     <sidebyside>
                         <stack>
                             <p>perspective</p>
                             <p>prospective</p>
                         </stack>
-                        <p>Volunteering is a great way to introduce yourself to new <em>perspectives</em> in the <custom item="city"/> community.</p>
+                        <p>Volunteering is a great way to introduce yourself to new <em>perspectives</em> in the <custom ref="city"/> community.</p>
                         <p>The <em>prospective</em> student asked the tour guide if the weather was always this sunny.</p>
                     </sidebyside>
                     <sidebyside>
@@ -1624,7 +1624,7 @@
                             <p>rain</p>
                             <p>reign</p>
                         </stack>
-                        <p>It <em>rains</em> on occasion in <custom item="city"/>.</p>
+                        <p>It <em>rains</em> on occasion in <custom ref="city"/>.</p>
                         <p>President Obama was our <em>reigning</em> president between 2009-2017.</p>
                     </sidebyside>
                     <sidebyside>
@@ -1632,7 +1632,7 @@
                             <p>since</p>
                             <p>sense</p>
                         </stack>
-                        <p><em>Since</em> it rains a lot in <custom item="city"/>, continuing students recommend that new students bring good raincoats when they move in.</p>
+                        <p><em>Since</em> it rains a lot in <custom ref="city"/>, continuing students recommend that new students bring good raincoats when they move in.</p>
                         <p>Does this sentence make <em>sense</em>?</p>
                     </sidebyside>
                     <sidebyside>
@@ -1640,7 +1640,7 @@
                             <p>than</p>
                             <p>then</p>
                         </stack>
-                        <p>Is <custom item="coffee-shop"/> better than Starbucks?</p>
+                        <p>Is <custom ref="coffee-shop"/> better than Starbucks?</p>
                         <p>If all you need is caffeine, <em>then</em> it really doesn’t matter where you get your coffee!</p>
                     </sidebyside>
                     <sidebyside>
@@ -1648,7 +1648,7 @@
                             <p>weather</p>
                             <p>whether</p>
                         </stack>
-                        <p>The <em>weather</em> in <custom item="city"/> can be fickle; I’ve seen rain, hail, sunshine, snow, and clouds in one day.</p>
+                        <p>The <em>weather</em> in <custom ref="city"/> can be fickle; I’ve seen rain, hail, sunshine, snow, and clouds in one day.</p>
                         <p>My favorite footwear for the day will depend on <em>whether</em> or not it’s raining.</p>
                     </sidebyside>
                     <sidebyside>
@@ -1695,8 +1695,8 @@
                             <p>palette</p>
                         </stack>
                         <p>I didn’t bring my bed frame when I moved to campus, so I was worried I might have to build one from wooden <em>pallets</em>. Luckily, the University supplied a bed in my room.</p>
-                        <p>After finishing a scrumptious garden tortellini dinner in the <custom item="dining-hall"/>, I cleaned my <em>palate</em> with a mango smoothie.</p>
-                        <p>The art major carefully arranged their color <em>palette</em> before beginning a new project in <custom item="art-building"/>.</p>
+                        <p>After finishing a scrumptious garden tortellini dinner in the <custom ref="dining-hall"/>, I cleaned my <em>palate</em> with a mango smoothie.</p>
+                        <p>The art major carefully arranged their color <em>palette</em> before beginning a new project in <custom ref="art-building"/>.</p>
                     </sidebyside>
                     <sidebyside>
                         <stack>
@@ -1724,7 +1724,7 @@
                             <p>too</p>
                             <p>two</p>
                         </stack>
-                        <p>I like <em>to</em> go <em>to</em> <custom item="park"/>.</p>
+                        <p>I like <em>to</em> go <em>to</em> <custom ref="park"/>.</p>
                         <p>Sometimes it’s <em>too</em> cold to stay there long, though.</p>
                         <p>When it is too cold, I usually wear <em>two</em> coats to keep warm.</p>
                     </sidebyside>
@@ -1735,15 +1735,15 @@
                             <p>yore</p>
                         </stack>
                         <p><em>Your</em> residence hall is beautiful.</p>
-                        <p><em>You’re</em> lucky to live in <custom item="nice-dorm"/>.</p>
-                        <p>In the days of <em>yore</em>, <custom item="university-name-short"/> tuition was only $20!</p>
+                        <p><em>You’re</em> lucky to live in <custom ref="nice-dorm"/>.</p>
+                        <p>In the days of <em>yore</em>, <custom ref="university-name-short"/> tuition was only $20!</p>
                     </sidebyside>
                 </sbsgroup>
             </subsubsection>
             <subsubsection xml:id="homophones-its-its">
                 <title>Incorrect Use of Its and It's</title>
                     <image source="images/LM-ItAndRain" width="100%"><description>The text "Its = possessive" has the following example below it: "My raincoat is missing its hood." The text "It’s = it is" is flanked by this example: "It’s unfortunate because it’s really rainy today." On the left side of the image is a comic of an umbrella with the text "Is it possessive or a contraction?" Raindrops falling onto the umbrella bear a mix of the word "its" and the word "it’s."</description></image>
-                <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on <custom item="quad"/>.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on <custom item="quad"/>,</q> does not make very much sense, so this may be an indication that the correct form to use is <q>its.</q></p>
+                <p>One of the more common homophone errors writers make is between <q>its</q> and <q>it's.</q> While they sound the same, <q>its</q> is the possessive pronoun of <q>it</q> and <q>it's</q> is the contraction of <q>it is.</q> One way to differentiate them is to identify why you are using one version or the other. <q>Its</q> is used to convey possession by an inanimate object, action, idea, animal, group, or person whose gender is overlooked, as in the sentence <q>The dog bounded happily toward its owner on <custom ref="quad"/>.</q> <q>It's</q> with an apostrophe is used to indicate <q>it is</q> or the past tense <q>it was,</q> as in the sentences <q>It's [it is] a universally acknowledged belief that a dog is a human's best friend,</q> or <q>It's [it has] been great getting to know all the dogs that frequent campus.</q> If you are trying to figure out which form to use, try splitting <q>its</q> into <q>it is</q> or <q>it was</q> and see if the sentence still makes sense. For instance, the sentence <q>The dog bounded happily toward it is owner on <custom ref="quad"/>,</q> does not make very much sense, so this may be an indication that the correct form to use is <q>its.</q></p>
                 <p>Below are some sentence examples of <q>its</q> and <q>it's</q> to help you distinguish which form to use.</p>
                 <example>
                     <title>Appropriate Usage of <q>Its</q></title>
@@ -1806,8 +1806,8 @@
                 <p>Use four periods when you omit a quote that contains the end of a sentence. The fourth period indicates to the reader that the sentence has ended and that the next portion of the quoted material comes from a different sentence.</p>
                 <example>
                     <title>Ellipsis: Sunbutter</title>
-                    <p>Original quote<mdash/><q>I love that the <custom item="dining-hall"/> has sunbutter and bananas. It's great because I'm allergic to peanuts.</q></p>
-                    <p>Quoted portion<mdash/><q>I love that the <custom item="dining-hall"/> has sunbutter <ellipsis/> . It's great because I'm allergic to peanuts.</q></p>
+                    <p>Original quote<mdash/><q>I love that the <custom ref="dining-hall"/> has sunbutter and bananas. It's great because I'm allergic to peanuts.</q></p>
+                    <p>Quoted portion<mdash/><q>I love that the <custom ref="dining-hall"/> has sunbutter <ellipsis/> . It's great because I'm allergic to peanuts.</q></p>
                 </example>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-exclamation">
@@ -1840,7 +1840,7 @@
                         </li>
                         <li>
                             <p>to separate an <em>introductory</em> or <em>explanatory</em> phrase from the rest of the sentence.</p>
-                            <p><q>Having finished her last final, Shelly skipped with joy across <custom item="quad"/>.</q></p>
+                            <p><q>Having finished her last final, Shelly skipped with joy across <custom ref="quad"/>.</q></p>
                             <p><q>The dog, who had gotten in the habit of walking every day at 3 p.m., grabbed his leash and ran to his owner.</q></p>
                         </li>
                         <li>
@@ -1849,7 +1849,7 @@
                         </li>
                         <li>
                             <p>to separate items in a list or series.</p>
-                            <p><q>My favorite foods from the <custom item="dining-hall"/> include hummus, Greek yogurt, and apples.</q></p>
+                            <p><q>My favorite foods from the <custom ref="dining-hall"/> include hummus, Greek yogurt, and apples.</q></p>
                         </li>
                         <li>
                             <p>with coordinate adjectives (<ie/>, adjectives that you could combine with <q>and</q>).</p>
@@ -1927,7 +1927,7 @@
             <subsubsection xml:id="punctuation-capitalization-parentheses">
                 <title>Parentheses <dblbrackets>(these)</dblbrackets></title>
                 <p>Aside from citations (see <xref ref="citations"/>), parentheses are used in writing to separate words, phrases, or sentences from the main text. When you want to add additional information that doesn't fit well within the main part of a sentence, you can use parentheses to inform your reader while simultaneously keeping your sentence flowing (like this). (Or you can just use parentheses on their own to indicate that something is an aside or afterthought.) For more details on how to use other types of punctuation with parentheses (<eg/>, where does the period go?!), see <xref ref="period-inside-or-outside"/>!</p>
-                <p>You can also use parentheses in area codes, like <custom item="tutoring-center-phone"/> (which is, coincidentally, the phone number to the <custom item="tutoring-center"/>).</p>
+                <p>You can also use parentheses in area codes, like <custom ref="tutoring-center-phone"/> (which is, coincidentally, the phone number to the <custom ref="tutoring-center"/>).</p>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-brackets">
                 <title>Brackets <dblbrackets>[these]</dblbrackets></title>
@@ -1995,38 +1995,38 @@
                 </list>
                 <example xml:id="example-punctuation-using-quotations">
                     <title>Using Quotation Marks</title>
-                    <p>According to the <custom item="intro-writing-student"/>, <q>The <custom item="tutoring-center-acronym"/> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
-                    <p>In the <custom item="intro-writing-student"/>'s reaction to going to the <custom item="tutoring-center-acronym"/>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
+                    <p>According to the <custom ref="intro-writing-student"/>, <q>The <custom ref="tutoring-center-acronym"/> is a great place to share your ideas, receive feedback on drafts, and improve your editing skills.</q></p>
+                    <p>In the <custom ref="intro-writing-student"/>'s reaction to going to the <custom ref="tutoring-center-acronym"/>, the phrase <q>share your ideas</q> evokes a sense of collaboration and engagement with the writing process.</p>
                 </example>
                 <example xml:id="example-punctuation-prefacing-quotations">
                     <title>Prefacing Quotes with a Comma</title>
-                    <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <custom item="tutoring-center-acronym"/>, then!</q></p>
+                    <p>Riley said in response to the student, <q>Wow, I guess I had better make an appointment at the <custom ref="tutoring-center-acronym"/>, then!</q></p>
                 </example>
                 <example xml:id="example-punctuation-capitalizing-quoted">
                     <title>Capitalizing a Quoted Sentence</title>
-                    <custom item="capitalized-quote-example"/>
+                    <custom ref="capitalized-quote-example"/>
                 </example>
                 <example xml:id="example-punctuation-integrating-quotes">
                     <title>Integrating Quotes</title>
                     <p><q>I'm kind of scared to make a writing appointment,</q> the first-year student acknowledged, <q>but I think I will anyway.</q></p>
-                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the <custom item="writing-tutor"/>s at the <custom item="tutoring-center-acronym"/> are very nice and accommodating.</q></p>
+                    <p><q>While sharing your writing with another person can feel intimidating,</q> the professor reassured, <q>the <custom ref="writing-tutor"/>s at the <custom ref="tutoring-center-acronym"/> are very nice and accommodating.</q></p>
                 </example>
                 <example xml:id="example-punctuation-ellipses-replacing">
                     <title>Using an Ellipses to Replace Source Material</title>
-                    <p>According to the director of the <custom item="tutoring-center-acronym"/>, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
+                    <p>According to the director of the <custom ref="tutoring-center-acronym"/>, <q>The center offers a safe space for collaborative engagement with the writing process, creative and intellectual exploration, <ellipsis/> and interdisciplinary interaction between peers, faculty, and staff.</q></p>
                 </example>
                 <example xml:id="example-punctuation-ellipses-honestly">
                     <title>Using Ellipses to Quote Honestly</title>
-                    <p>If the original sentence were, <q>I have never seen <custom item="ultimate-team"/> play a game, but I really enjoy watching ultimate games because the players have so many cool Frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
+                    <p>If the original sentence were, <q>I have never seen <custom ref="ultimate-team"/> play a game, but I really enjoy watching ultimate games because the players have so many cool Frisbee throws!</q> then you would need an ellipsis if you cut the introductory or concluding clause: <q><ellipsis/> I really enjoy watching ultimate games <ellipsis/> .</q></p>
                 </example>
                 <example xml:id="example-punctuation-brackets-changes">
                     <title>Using Brackets to Indicate Changes</title>
-                <custom item="bracket-example"/>
+                <custom ref="bracket-example"/>
                 </example>
                 <example xml:id="example-punctuation-brackets-insertion">
                     <title>Using Brackets to Insert Nouns</title>
-                    <p>The <custom item="writing-tutor"/> emphasized, <q>[The <custom item="tutoring-center-acronym"/>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
-                    <p><q>Additionally, if you need a coffee or tea break, it [the <custom item="tutoring-center-acronym"/>] is located conveniently close to <custom item="coffee-shop"/>,</q> continued the <custom item="writing-tutor"/>.</p>
+                    <p>The <custom ref="writing-tutor"/> emphasized, <q>[The <custom ref="tutoring-center-acronym"/>] is a great place to work collaboratively on essay ideas or subject material as well as independently on homework.</q></p>
+                    <p><q>Additionally, if you need a coffee or tea break, it [the <custom ref="tutoring-center-acronym"/>] is located conveniently close to <custom ref="coffee-shop"/>,</q> continued the <custom ref="writing-tutor"/>.</p>
                 </example>
                 <list xml:id="list-mechanics-quoting-fragments-strategies">
                     <title>Strategies for Quoting Sentence Fragments</title>
@@ -2050,11 +2050,11 @@
                 </example>
                 <example xml:id="example-mechanics-quotes-sentences">
                     <title>Incorporating Quotes into Syntax of Sentence</title>
-                    <custom item="quote-example"/>
+                    <custom ref="quote-example"/>
                 </example>
                 <example xml:id="example-mechanics-block-quotes">
                     <title>Using Block Quotes for Large Excerpts</title>
-                    <custom item="block-quote-example"/>
+                    <custom ref="block-quote-example"/>
                 </example>
             </subsubsection>
             <subsubsection xml:id="punctuation-capitalization-apostrophes">
@@ -2316,17 +2316,17 @@
                         <ul>
                             <li>
                                 <p>If it's part of a sentence, put the period outside the parentheses:</p>
-                                <p><q>I like to go to the <custom item="dining-hall"/> for sandwiches (and cookies).</q></p>
+                                <p><q>I like to go to the <custom ref="dining-hall"/> for sandwiches (and cookies).</q></p>
                             </li>
                             <li>
                                 <p>If it stands alone, put the period inside the parentheses:</p>
-                                <p><q>I like to go to the <custom item="dining-hall"/>. (There are really good cookies there.)</q></p>
+                                <p><q>I like to go to the <custom ref="dining-hall"/>. (There are really good cookies there.)</q></p>
                             </li>
                         </ul>
                     </p>
                     <p>
                         <note>
-                            <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <custom item="dining-hall"/> for sandwiches (and cookies!).</q></p>
+                            <p>If the remark inside the parentheses requires an exclamation or a question mark but is part of the sentence, then you do both: <q>I like to go to the <custom ref="dining-hall"/> for sandwiches (and cookies!).</q></p>
                         </note>
                     </p>
                 </li>
