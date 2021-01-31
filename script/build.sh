@@ -146,7 +146,7 @@ function build_htmlups {
     rm -rf knowl/* images/* ${SCRATCH}/htmlups
     cp -a ${IMAGES}/*.svg ./images/
     cp -a ${IMAGES}/*.png ./images/
-    xsltproc --stringparam school ${UPS} --stringparam publisher publication-pugetsound.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --stringparam publisher publication-pugetsound.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
     mv ../html/ ../htmlups
 }
 
@@ -165,7 +165,7 @@ function build_htmluniversal {
     rm -rf knowl/* images/* ${SCRATCH}/htmluniversal
     cp -a ${IMAGES}/*.svg ./images/
     cp -a ${IMAGES}/*.png ./images/
-    xsltproc --stringparam school ${UNIV} --stringparam publisher publication-universal.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --stringparam publisher publication-universal.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
     mv ../html/ ../htmluniversal
 }
 
@@ -178,7 +178,7 @@ function build_pdfups {
     echo
     echo "BUILD: Building UPS PDF Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    xsltproc --xinclude --stringparam school ${UPS} -o soundwriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam publisher publication-pugetsound.xml -o soundwriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
     xelatex soundwriting.tex
     xelatex soundwriting.tex
     mv soundwriting.pdf ${SCRATCH}/soundwriting-${DATE}-pugetsound.pdf
@@ -193,7 +193,7 @@ function build_pdfuniversal {
     echo
     echo "BUILD: Building Universal PDF Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    xsltproc --xinclude --stringparam school ${UNIV} -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
+    xsltproc --xinclude --stringparam publisher publication-universal.xml -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
     xelatex SoundWriting.tex
     xelatex SoundWriting.tex
     mv SoundWriting.pdf ${SCRATCH}/soundwriting-${DATE}-universal.pdf

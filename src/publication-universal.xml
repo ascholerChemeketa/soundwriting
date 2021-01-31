@@ -14,6 +14,8 @@
 
 <publication>
 
+    <source customizations="customizations/generic.ptx"/>
+
     <!-- HTML-Specific Options -->
     <html>
         <!-- Custom CSS (developed by Oscar Levin, David Farmer)   -->
