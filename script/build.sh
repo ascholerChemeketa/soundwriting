@@ -22,8 +22,6 @@ declare SOURCE=${SRC}/src
 declare IMAGES=${SOURCE}/images
 declare CSS=${SRC}/css
 declare ASSETS=${SRC}/assets
-declare UPS=pugetsound
-declare UNIV=generic
 
 
 # convenience for rsync command, hopefully not OS dependent
@@ -193,10 +191,10 @@ function build_pdfuniversal {
     echo
     echo "BUILD: Building Universal PDF Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    xsltproc --xinclude --stringparam publisher publication-universal.xml -o SoundWriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
-    xelatex SoundWriting.tex
-    xelatex SoundWriting.tex
-    mv SoundWriting.pdf ${SCRATCH}/soundwriting-${DATE}-universal.pdf
+    xsltproc --xinclude --stringparam publisher publication-universal.xml -o soundwriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
+    xelatex soundwriting.tex
+    xelatex soundwriting.tex
+    mv soundwriting.pdf ${SCRATCH}/soundwriting-${DATE}-universal.pdf
 }
 
 function view_pdfuniversal {
@@ -205,10 +203,10 @@ function view_pdfuniversal {
 
 # Subroutine to build the print PDF version
 function build_print {
-    xsltproc --xinclude --stringparam school ${UPS} --stringparam latex.print yes -o SoundWriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
-    xelatex SoundWriting.tex
-    xelatex SoundWriting.tex
-    mv SoundWriting.pdf ${SCRATCH}/soundwriting-print.pdf
+    xsltproc --xinclude --stringparam publisher publication-pugetsound.xml --stringparam latex.print yes -o soundwriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
+    xelatex soundwriting.tex
+    xelatex soundwriting.tex
+    mv soundwriting.pdf ${SCRATCH}/soundwriting-print.pdf
 }
 
 function view_print {
