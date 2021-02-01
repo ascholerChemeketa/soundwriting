@@ -16,11 +16,17 @@
 
     <source customizations="customizations/pugetsound.ptx"/>
 
+    <common>
+        <chunking level="3"/>
+    </common>
+
     <!-- HTML-Specific Options -->
     <html>
         <!-- Custom CSS (developed by Oscar Levin, David Farmer)   -->
         <!-- Also, a UPS color option (David Farmer)               -->
         <css style="soundwriting" colors="maroon_grey"/>
+        <!-- examples are knowled by default, we turn that off -->
+        <knowl example="no"/>
         <!-- Google search, via masthead textbox is switched on    -->
         <!-- and associated with a Google account via CX number    -->
         <search google-cx="22390bf9541aaa585"/>

@@ -27,10 +27,6 @@
 
 <xsl:output method="html" />
 
-<xsl:param name="html.knowl.example" select="'yes'"/>
-
-<xsl:param name="chunk.level" select="'3'" />
-
 <!-- Make marked <p>s hanging indented for citiation chapter. -->
 <xsl:template match="p[@indent='hanging']" mode="body">
     <xsl:param name="block-type" />
