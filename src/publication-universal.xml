@@ -14,7 +14,7 @@
 
 <publication>
 
-    <source customizations="customizations/generic.ptx"/>
+    <source customizations="customizations/universal.ptx"/>
 
     <common>
         <chunking level="3"/>
