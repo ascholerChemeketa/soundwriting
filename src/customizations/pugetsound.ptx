@@ -36,7 +36,7 @@
     <custom name="AC-identity">or Academic Consultants</custom>
     <!-- This insight about taking notes references academic consulting and should be left blank in generic -->
     <custom name="AC-notes-insight"><insight>
-            <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <custom ref="tutoring-center-url"/>!</p>
+        <p>If you want some assistance figuring out your favorite note-taking style(s), make an academic consulting appointment at the <init>CWLT</init>!</p>
         </insight></custom>
     <!-- This note on academic consulting is from the remote learning section -->
     <custom name="AC-online-success">If you want some advice from someone else who is dealing with this right now, consider making an <url href="https://www.pugetsound.edu/academics/academic-resources/cwlt/request-an-appointment/">appointment</url> with an Academic Consultant at the <init>CWLT</init>.</custom>
@@ -58,7 +58,7 @@
     <custom name="bracket-example"><p>The subject tutor asked the SSI, <q>Y'all [sic] going to the <q><url href="http://www.pugetsound.edu/academics/academic-resources/cwlt/events">Long Night Against Procrastination</url></q> at the <init>CWLT</init>?</q></p>
                         <p>The class responded, <q><em>Of course</em> we're going to the <q>Long Night Against Procrastination</q> [emphasis in original].</q></p></custom>
     <!-- An example of capitalization in a quoted sentence -->
-    <custom name="capitalized-quote-example"><p>The <custom ref="tutoring-center-acronym"/> states on its webpage, <q>The mission of the <custom ref="tutoring-center"/> is to provide opportunities for all <custom ref="university-name-full"/> students to achieve their academic goals.</q></p>
+    <custom name="capitalized-quote-example"><p>The <init>CWLT</init> states on its webpage, <q>The mission of the Center for Writing, Learning, and Teaching is to provide opportunities for all Puget Sound students to achieve their academic goals.</q></p>
         <p>Kaden exclaimed, <q>My paper is due next week and I haven't even started thinking about it! Maybe I should make a writing appointment<ellipsis/></q></p></custom>
     <!-- Name of University career services office -->
     <custom name="career-office">Career and Employment Serices</custom>
@@ -122,7 +122,7 @@
      <!-- This sentence adds a reference to this specific time chart found in the tutoring center. It goes in the section on time charts -->
     <custom name="CWLT-time-chart">If you like what you see here, you can pick up a time charts like this one at the <init>CWLT</init>.</custom>
      <!-- This list item provides info on general search databases and more specific ones -->
-    <custom name="database-info">Primo<mdash/>the search engine that shows up first when you click on the <custom ref="library-url"/><mdash/>may seem like it has every source you could possibly need. While Primo can be very helpful, there are more than 200 other databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would in Primo. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases. To figure out which database you need, try checking out <url href="https://research.pugetsound.edu/?b=t">research and course guides</url><fn><c>research.pugetsound.edu</c></fn>.</custom>
+    <custom name="database-info">Primo<mdash/>the search engine that shows up first when you click on the Collins Library website<mdash/>may seem like it has every source you could possibly need. While Primo can be very helpful, there are more than 200 other databases to which the library provides access. Each of these databases is specifically catered to a particular topic (or topics), which means that you won't find as many unrelated articles as you would in Primo. For the same reason, you may also find sources more pertinent to your research topic by using more specific databases. To figure out which database you need, try checking out <url href="https://research.pugetsound.edu/?b=t">research and course guides</url><fn><c>research.pugetsound.edu</c></fn>.</custom>
     <!-- Name of the dining hall or a popular one -->
     <custom name="dining-hall"><acro>SUB</acro></custom>
     <!-- Name of the student diversity or engagement center -->
@@ -166,7 +166,7 @@
     <!-- This references specific learning management tools available at UPS -->
     <custom name="learning-management-lib">At Collins Memorial Library you can access RefWorks and <xref ref="zotero" text="title"/>, and any librarian would be more than happy to help you get started.</custom>
     <!-- Liaison librarian, linked -->
-    <custom name="librarian"><url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. <custom ref="counseling-resources"/></custom>
+    <custom name="librarian"><url href="http://research.pugetsound.edu/c.php?g=304177&amp;p=2031209">liaison librarian</url>. </custom>
     <!-- Full name of University library -->
     <custom name="library">Collins Memorial Library</custom>
     <!-- Name of the library, as an active hyperlink                    -->
@@ -263,7 +263,7 @@ Library website</url></custom>
     <!-- The name of a campus quad with a large grassy area -->
     <custom name="quad">Todd Field</custom>
      <!-- An example of incorporating quotes into sentence syntax -->
-    <custom name="quote-example"><p>After their meeting with Rachael Shelden, assistant director of the <custom ref="tutoring-center-acronym"/>, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></custom>
+    <custom name="quote-example"><p>After their meeting with Rachael Shelden, assistant director of the CWLT, the student remarked that they felt more <q>calm,</q> <q>confident,</q> and <q>empowered</q> and left feeling <q>motivated to become more organized.</q></p></custom>
     <!-- This section provides resources for students interested in learning more about racial diversity and inclusion -->
     <custom name="race-resources">Taking courses in <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/african-american-studies">African American Studies</url> (<acro>AFAM</acro>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/asian-studies">Asian Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/hispanic-studies">Hispanic Studies</url>, <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latin-american-studies">Latin American Studies</url> (<acro>LAS</acro>), <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/latino-studies">Latina/o Studies</url> and <url href="https://www.pugetsound.edu/academics/departments-and-programs/undergraduate/french-studies/"> French and Francophone Studies</url> would be a good way to continue learning, as would getting involved in the <url href="https://www.pugetsound.edu/academics/academic-resources/race-pedagogy-institute">Race and Pedagogy Institute</url> (<init>RPI</init>) or in programs through the <url href="https://www.pugetsound.edu/student-life/cice/">Center for Intercultural and Civic Engagement</url> (<init>CICE</init>). The Office of Diversity and Inclusion also engages with these issues throughout our university.</custom>
     <!-- This is part of the example argument about rain with lots of UPS details -->
