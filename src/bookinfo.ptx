@@ -13,6 +13,7 @@
 <docinfo>
     <brandlogo url="https://soundwriting.pugetsound.edu" source="images/logo.svg"/>
     <cross-references text="type-global"/>
+    <document-id>pugetsound-SW</document-id>
     <initialism>SW</initialism>
     <!-- Three REMARK-LIKE re-purposed, these may need internationalization -->
     <rename element="insight">Tip</rename>
