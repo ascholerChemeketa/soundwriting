@@ -15,6 +15,11 @@
     <cross-references text="type-global"/>
     <document-id>pugetsound-SW</document-id>
     <initialism>SW</initialism>
+    <!-- survey placed 2021-03-31 -->
+    <feedback>
+        <url>https://pugetsoundir.co1.qualtrics.com/jfe/form/SV_eaOcwhsgrT7HZNY</url>
+        <text>Survey</text>
+    </feedback>
     <!-- Three REMARK-LIKE re-purposed, these may need internationalization -->
     <rename element="insight">Tip</rename>
     <rename element="convention">Helpful Questions</rename>
