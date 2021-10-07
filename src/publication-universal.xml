@@ -20,6 +20,11 @@
         <chunking level="3"/>
     </common>
 
+    <numbering>
+        <!-- Stop numbering after subsections (2019-01-27: about 46 subsubsections) -->
+        <divisions level="3"/>
+    </numbering>
+
     <!-- HTML-Specific Options -->
     <html>
         <!-- Custom CSS (developed by Oscar Levin, David Farmer)   -->

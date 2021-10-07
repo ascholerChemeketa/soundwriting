@@ -22,8 +22,6 @@
 <!-- Import the usual HTML conversion templates          -->
 <!-- Place ups-writers-html.xsl file into  mathbook/user -->
 <xsl:import href="../xsl/pretext-html.xsl" />
-<!-- Assumes next file can be found in mathbook/user, so it must be copied there -->
-<xsl:import href="ups-writers-common.xsl" />
 
 <xsl:output method="html" />
 
