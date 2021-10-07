@@ -70,7 +70,9 @@ function setup_pdf {
     install -d ${SCRATCH}/pdf # Create the pdf scratch directory
     rm -rf ${SCRATCH}/pdf/*.aux ${SCRATCH}/pdf/*.log ${SCRATCH}/pdf/*.tex ${SCRATCH}/pdf/*.toc # Clear the pdf scratch directory
     install -d ${SCRATCH}/pdf/images # Create pdf images directory
+    install -d ${SCRATCH}/pdf/images/covers # Create pdf covers directory
     cp -a ${IMAGES}/* ${SCRATCH}/pdf/images # Fill pdf images directory
+    cp -a ${IMAGES}/covers/* ${SCRATCH}/pdf/images/covers # Fill pdf covers directory
     cd ${SCRATCH}/pdf # Change directory to pdf scratch directory
 }
 
