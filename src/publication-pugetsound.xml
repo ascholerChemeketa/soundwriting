@@ -32,9 +32,8 @@
         <css style="soundwriting" colors="maroon_grey"/>
         <!-- examples are knowled by default, we turn that off -->
         <knowl example="no"/>
-        <!-- Google search, via masthead textbox is switched on    -->
-        <!-- and associated with a Google account via CX number    -->
-        <search google-cx="22390bf9541aaa585"/>
+        <!-- Native (Javascript) search -->
+        <search variant="default"/>
         <!-- ID numbers for analytics services            -->
         <!-- Do not use these numbers for other projects! -->
         <analytics statcounter-project="12421807" statcounter-security="122e8e86" google-gst="G-CQG9X44H61"/>
