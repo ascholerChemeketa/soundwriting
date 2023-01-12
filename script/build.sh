@@ -40,12 +40,6 @@ declare DATE=`date +%Y-%m-%d`
 
 # Common setup
 function setup {
-    # not necessary, but always build scratch directory first
-    echo
-    echo "BUILD: Setup Scratch Directory :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH}
-
     # Always place/update `ups-writers` in "user" XSL directory
     echo
     echo "BUILD: Update Custom XSL :BUILD"
@@ -63,30 +57,6 @@ function build_you_tube_thumbnail {
     ${MBXSCRIPT} -c youtube -d ${IMAGES} ${SOURCE}/SoundWriting.ptx
 }
 
-function setup_pdf {
-    echo
-    echo "BUILD: Preparing for a PDF Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH}/pdf # Create the pdf scratch directory
-    rm -rf ${SCRATCH}/pdf/*.aux ${SCRATCH}/pdf/*.log ${SCRATCH}/pdf/*.tex ${SCRATCH}/pdf/*.toc # Clear the pdf scratch directory
-    install -d ${SCRATCH}/pdf/images # Create pdf images directory
-    install -d ${SCRATCH}/pdf/images/covers # Create pdf covers directory
-    cp -a ${IMAGES}/* ${SCRATCH}/pdf/images # Fill pdf images directory
-    cp -a ${IMAGES}/covers/* ${SCRATCH}/pdf/images/covers # Fill pdf covers directory
-    cd ${SCRATCH}/pdf # Change directory to pdf scratch directory
-}
-
-function setup_print {
-    echo
-    echo "BUILD: Building Print Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH}/print # Create the print scratch directory
-    rm -rf ${SCRATCH}/print/*.aux ${SCRATCH}/print/*.log ${SCRATCH}/print/*.tex ${SCRATCH}/print/*.toc # Clear the print scratch directory
-    install -d ${SCRATCH}/print/images # Create print images directory
-    cp -a ${IMAGES}/* ${SCRATCH}/print/images # Fill print images directory
-    cd ${SCRATCH}/print # Change directory to print scratch directory
-}
-
 # Validation using RELAX-NG
 # Colors, 3 other elements, and one attribute,
 # are all non-standard extensions
@@ -94,6 +64,7 @@ function schema-validate {
     echo
     echo "BUILD: RELAX-NG Validation :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    install -d ${SCRATCH}
     java\
         -classpath ${JINGTRANG}\
         -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration\
@@ -139,14 +110,10 @@ function build_htmlups {
     echo
     echo "BUILD: Building Puget Sound HTML Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
-    cd ${SCRATCH}/html
-    rm *.html *.css
-    rm -rf knowl/* images/* ${SCRATCH}/htmlups
-    cp -a ${IMAGES}/*.svg ./images/
-    cp -a ${IMAGES}/*.png ./images/
-    xsltproc --stringparam publisher publication-pugetsound.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
-    mv ../html/ ../htmlups
+    # create directory, and cleanout previous runs
+    install -d ${SCRATCH}/htmlups
+    rm ${SCRATCH}/htmlups/*.html ${SCRATCH}/htmlups/*.js ${SCRATCH}/htmlups/knowl/*  ${SCRATCH}/htmlups/images/*
+    ${MBX}/pretext/pretext -vv -c all -f html -X ${MBUSER}/ups-writers-html.xsl -p ${SOURCE}/publication-pugetsound.xml -d ${SCRATCH}/htmlups ${SOURCE}/SoundWriting.ptx
 }
 
 function view_htmlups {
@@ -158,14 +125,10 @@ function build_htmluniversal {
     echo
     echo "BUILD: Building Universal HTML Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH}/html ${SCRATCH}/html/images ${SCRATCH}/html/knowl
-    cd ${SCRATCH}/html
-    rm *.html *.css
-    rm -rf knowl/* images/* ${SCRATCH}/htmluniversal
-    cp -a ${IMAGES}/*.svg ./images/
-    cp -a ${IMAGES}/*.png ./images/
-    xsltproc --stringparam publisher publication-universal.xml --xinclude ${MBUSER}/ups-writers-html.xsl ${SOURCE}/SoundWriting.ptx
-    mv ../html/ ../htmluniversal
+    # create directory, and cleanout previous runs
+    install -d ${SCRATCH}/htmluniversal
+    rm ${SCRATCH}/htmluniversal/*.html ${SCRATCH}/htmluniversal/*.js ${SCRATCH}/htmluniversal/knowl/*  ${SCRATCH}/htmluniversal/images/* 
+    ${MBX}/pretext/pretext -vv -c all -f html -X ${MBUSER}/ups-writers-html.xsl -p ${SOURCE}/publication-pugetsound.xml -d ${SCRATCH}/htmluniversal ${SOURCE}/SoundWriting.ptx
 }
 
 function view_htmluniversal {
@@ -177,10 +140,8 @@ function build_pdfups {
     echo
     echo "BUILD: Building UPS PDF Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    xsltproc --xinclude --stringparam publisher publication-pugetsound.xml -o soundwriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
-    xelatex soundwriting.tex
-    xelatex soundwriting.tex
-    mv soundwriting.pdf ${SCRATCH}/soundwriting-${DATE}-pugetsound.pdf
+    install -d ${SCRATCH} # Create the scratch directory
+    ${MBX}/pretext/pretext -vv -c all -f pdf -X ${MBUSER}/ups-writers-latex-styled.xsl -p ${SOURCE}/publication-pugetsound.xml -o ${SCRATCH}/soundwriting-${DATE}-pugetsound.pdf ${SOURCE}/SoundWriting.ptx
 }
 
 function view_pdfups {
@@ -192,10 +153,8 @@ function build_pdfuniversal {
     echo
     echo "BUILD: Building Universal PDF Version :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    xsltproc --xinclude --stringparam publisher publication-universal.xml -o soundwriting.tex ${MBUSER}/ups-writers-latex-styled.xsl ${SOURCE}/SoundWriting.ptx
-    xelatex soundwriting.tex
-    xelatex soundwriting.tex
-    mv soundwriting.pdf ${SCRATCH}/soundwriting-${DATE}-universal.pdf
+    install -d ${SCRATCH} # Create the scratch directory
+    ${MBX}/pretext/pretext -vv -c all -f pdf -X ${MBUSER}/ups-writers-latex-styled.xsl -p ${SOURCE}/publication-universal.xml -o ${SCRATCH}/soundwriting-${DATE}-universal.pdf ${SOURCE}/SoundWriting.ptx
 }
 
 function view_pdfuniversal {
@@ -203,15 +162,16 @@ function view_pdfuniversal {
 }
 
 # Subroutine to build the print PDF version
+# Use of deprecated string parameter is a small
+# hack to avoid creating an entirely new publication
+# file for just this one difference. (2023-01-12)
 function build_print {
-    xsltproc --xinclude --stringparam publisher publication-pugetsound.xml --stringparam latex.print yes -o soundwriting.tex ${MBUSER}/ups-writers-latex.xsl ${SOURCE}/SoundWriting.ptx
-    xelatex soundwriting.tex
-    xelatex soundwriting.tex
-    mv soundwriting.pdf ${SCRATCH}/soundwriting-print.pdf
+    install -d ${SCRATCH} # Create the scratch directory
+    ${MBX}/pretext/pretext -vv -c all -f pdf -x latex.print yes -X ${MBUSER}/ups-writers-latex-styled.xsl -p ${SOURCE}/publication-pugetsound.xml -o ${SCRATCH}/soundwriting-${DATE}-print.pdf ${SOURCE}/SoundWriting.ptx
 }
 
 function view_print {
-    ${PDFVIEWER} ${SCRATCH}/soundwriting-print.pdf &
+    ${PDFVIEWER} ${SCRATCH}/soundwriting-${DATE}-print.pdf &
 }
 
 # Check to make sure we have a username
@@ -243,10 +203,8 @@ case "$1" in
     setup
     build_htmlups
     build_htmluniversal
-    setup_pdf
     build_pdfups
     build_pdfuniversal
-    setup_print
     build_print
     ;;
     "youtube")
@@ -268,7 +226,6 @@ case "$1" in
     ;;
     "pdfuniversal")
     setup
-    setup_pdf
     build_pdfuniversal
     ;;
     "viewpdfuniversal")
@@ -276,7 +233,6 @@ case "$1" in
     ;;
     "pdfups")
     setup
-    setup_pdf
     build_pdfups
     ;;
     "viewpdfups")
@@ -284,7 +240,6 @@ case "$1" in
     ;;
     "print")
     setup
-    setup_print
     build_print
     ;;
     "viewprint")
@@ -305,6 +260,6 @@ case "$1" in
     website
     ;;
     *)
-    echo "Supply an option: all|htmlups|viewhtmlups|htmluniversal|viewhtmluniversal|pdfuniversal|viewpdfuniversal|pdfups|viewpdfups|print|viewprint|validate|viewerrors|website <username>"
+    echo "Supply an option: all|youtube|htmlups|viewhtmlups|htmluniversal|viewhtmluniversal|pdfuniversal|viewpdfuniversal|pdfups|viewpdfups|print|viewprint|validate|viewerrors|website <username>"
     ;;
 esac
