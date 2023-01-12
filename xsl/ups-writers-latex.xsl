@@ -108,155 +108,155 @@
 
 <!-- Bibliography Colors -->
 <xsl:template match="black">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{black}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="red">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{red}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="lightblue">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{LightBlue}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="lightgreen">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{LightGreen}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="lightpurple">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{Lavender}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="maroon">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{Maroon}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="pink">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{pink}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="darkred">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{DarkRed}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="blue">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{blue}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="orange">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{orange}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="teal">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{teal}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="darkpurple">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{DarkViolet}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="lightpink">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{LightPink}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="green">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{green}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="darkgreen">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{DarkGreen}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="navy">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{Navy}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
 <xsl:template match="gray">
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>\textcolor{gray}{</xsl:text>
     </xsl:if>
     <xsl:apply-templates/>
-    <xsl:if test="$latex.print='no'">
+    <xsl:if test="$latex-print='no'">
         <xsl:text>}</xsl:text>
     </xsl:if>
 </xsl:template>
