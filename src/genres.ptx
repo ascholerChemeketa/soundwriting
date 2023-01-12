@@ -18,7 +18,7 @@
     <section xml:id="email-etiquette">
         <title>Writing Emails</title>
         <p>Emailing faculty, staff, and off-campus professionals can be daunting because it is unfamiliar. What kind of language is appropriate? What should I call them? How do I write formally without sounding weird? Although an email to a professor doesn't require the same level of formality that a letter to the Queen of England does, using formal conventions and style is a valuable way to show respect for your professors and communicate your own maturity. But formality becomes especially tricky because different professors often have different preferences about the type of language they use and expect to receive. As a general guideline, it is better to err on the side of formality than to risk coming across as disrespectful. With this in mind, it's a good idea to be relatively formal in your first email to a professor and then alter or not alter your style depending on the professor's level of formality in their reply (see <xref ref="talking-to-profs"/>). Much like an academic essay, formal emails contain an introduction (or a greeting), a body, and a conclusion (or a closing). Below are some tips to keep in mind when sending and receiving emails.</p>
-            <image source="images/genres-dear-professor" width="80%"><description>This is a cartoon of a letter sticking halfway out of an envelope, with the words "Dear Professor" at the top.</description></image>
+            <image source="genres-dear-professor" width="80%"><description>This is a cartoon of a letter sticking halfway out of an envelope, with the words "Dear Professor" at the top.</description></image>
             <paragraphs xml:id="par-genres-email-greetings">
                 <title>Greetings</title>
                 <p>(from most formal to least)
@@ -58,7 +58,7 @@
                 </ul>
             </p>
         </paragraphs>
-            <image source="images/genres-greetings" width="80%"><description>This is a list of greetings and closings for emails. From most to least formal, the greetings are: "Dear Professor; Dear Professor Jones; Professor Jones; Hello, Professor Jones; Hi, Professor Jones; Hi Professor Jones." From most to least formal, the closings are: "Sincerely; Regards; Best; Best wishes; Thank you; Cheers." </description></image>
+            <image source="genres-greetings" width="80%"><description>This is a list of greetings and closings for emails. From most to least formal, the greetings are: "Dear Professor; Dear Professor Jones; Professor Jones; Hello, Professor Jones; Hi, Professor Jones; Hi Professor Jones." From most to least formal, the closings are: "Sincerely; Regards; Best; Best wishes; Thank you; Cheers." </description></image>
             <list xml:id="list-genres-email-responses">
                 <title>Strategies for Responding to Emails</title>
                 <ul>
@@ -84,7 +84,7 @@
             <title>What is a Personal Statement?</title>
             <p>A personal statement is just that<mdash/>a statement about you! While that sounds simple, writing about yourself in a succinct, honest, humble, and articulate way can actually be some of the most difficult writing you will do. Personal statements are generally written for graduate or professional school applications and include a narrative-style account of your professional interests, intellectual strengths, and any other background information that highlights your ambitions and qualifications for that program. Personal statements will likely be read quickly by admissions committee members who are also reading a slew of other applications, so consider the statement as a personal story that highlights a few important and (ideally) distinctive aspects about yourself rather than a mere list of your academic merits and accomplishments. Nonetheless, remember that because your personal statement will likely respond to a question specific to that application, it's important to organize and articulate your statement accordingly.</p>
         </paragraphs>
-            <image source="images/whoami.png" width="50%"><description>A stick figure in a thoughtful stance has a purple thought bubble that reads "Who am I?" and also has a pencil next to their head.</description></image>
+            <image source="whoami.png" width="50%"><description>A stick figure in a thoughtful stance has a purple thought bubble that reads "Who am I?" and also has a pencil next to their head.</description></image>
         <convention>
             <title>Writing Personal Statements</title>
             <p>
@@ -123,7 +123,7 @@
         <paragraphs xml:id="par-genres-cover-letter">
             <title>What is a Cover Letter?</title>
             <p>Chances are, if you are applying for a job or internship, you will be required to write a cover letter. Cover letters are short, one-page letters in which you introduce yourself, identify which position you are applying for, and explain why you are interested in and qualified for that position. Cover letters can be a crucial part of an application because in many cases it is the one place where you will be able to present yourself as a person rather than just a list of past experiences and jobs (as is the case with your resume). A cover letter will be among the first things a potential employer will read, so it's important to put some time and effort into the crafting of your cover letter.</p>
-                <image source="images/pleasehire.png" width="50%"><description>This graphic shows clouds and a paper airplane, with the text "Dear hiring manager… please hire me."</description></image>
+                <image source="pleasehire.png" width="50%"><description>This graphic shows clouds and a paper airplane, with the text "Dear hiring manager… please hire me."</description></image>
         </paragraphs>
         <paragraphs xml:id="par-genres-address">
             <title>Address</title>
@@ -145,7 +145,7 @@
             </p>
         </paragraphs>
         <p>Here's an example of how all of the above fits together:</p>
-            <image source="images/coverletter.png" width="50%"><description>This image shows the heading and greeting on a cover letter. It contains the following text and formatting: "Abigail Apple [line break] 1111 Orchard Lane [line break] Tacoma, WA 98416 [line break and blank line] April 11, 2016 [line break and blank line] Olivia Orange, Human Resources Director [line break] Fruitful THinking Health Foods [line break] 1234 Cherry Blossom Ave. [line break] Tacoma, WA 98416 [line break and blank line] Dear Ms. Orange:"
+            <image source="coverletter.png" width="50%"><description>This image shows the heading and greeting on a cover letter. It contains the following text and formatting: "Abigail Apple [line break] 1111 Orchard Lane [line break] Tacoma, WA 98416 [line break and blank line] April 11, 2016 [line break and blank line] Olivia Orange, Human Resources Director [line break] Fruitful THinking Health Foods [line break] 1234 Cherry Blossom Ave. [line break] Tacoma, WA 98416 [line break and blank line] Dear Ms. Orange:"
 </description></image>
         <paragraphs xml:id="par-genres-body">
             <title>Body</title>
@@ -166,7 +166,7 @@
         <paragraphs xml:id="par-genres-closing">
             <title>Closing</title>
             <p>Closings for cover letters should be formal. <q>Sincerely</q> and <q>Thank you</q> are good go-to closings. Below this, sign your full name in ink (if you can), with your name typed below the signature.</p>
-                <image source="images/sincerely.png" width="50%"><description>This image shows a closing for a cover letter. The word "Sincerely," is followed by a signature that reads "Abigail Apple," with the name repeated below the signature in print.
+                <image source="sincerely.png" width="50%"><description>This image shows a closing for a cover letter. The word "Sincerely," is followed by a signature that reads "Abigail Apple," with the name repeated below the signature in print.
 </description></image>
         </paragraphs>
         <list xml:id="list-genres-cover-letter-tips">
@@ -199,7 +199,7 @@
         <paragraphs xml:id="par-genres-resume">
             <title>What is a Resume?</title>
             <p>A resume is a list of your education history, past employment, professional skills/knowledge, and any other qualifications that are relevant to the job to which you are applying. Even if you are applying for many jobs within a similar field, you will likely need to revise your resume for every job application you submit (for instance, if you are applying for a computer tech position, you probably wouldn't include your cat-sitting experience). However, there are some basic things you need to include in every resume to make it as strong as possible.</p>
-                <image source="images/awesomeresume.png" width="70%">This image includes the text "How to write an awesome resume" and a cartoon of a piece of paper that reads "Resume" sticking out of an envelope, with a cartoon pencil next to it.</image>
+                <image source="awesomeresume.png" width="70%">This image includes the text "How to write an awesome resume" and a cartoon of a piece of paper that reads "Resume" sticking out of an envelope, with a cartoon pencil next to it.</image>
         </paragraphs>
         <paragraphs xml:id="par-genres-resume-contact">
             <title>Contact</title>
@@ -214,11 +214,11 @@
                 </ul>
             </p>
         </paragraphs>
-            <image source="images/contactinfo.png" width="80%"><description>This graphic shows a professional heading for a resume, which includes the following text, centered: “"Abigail Apple [large, all-caps font, followed by a line break] 1111 Orchard Lane, Tacoma, WA 98416 [line break] Email: aapple@pugetsound.edu [line break] Cell: (253) 555-5555 [line break] LinkedIn profile: www.linkedin.com/in/aapple"</description></image>
+            <image source="contactinfo.png" width="80%"><description>This graphic shows a professional heading for a resume, which includes the following text, centered: “"Abigail Apple [large, all-caps font, followed by a line break] 1111 Orchard Lane, Tacoma, WA 98416 [line break] Email: aapple@pugetsound.edu [line break] Cell: (253) 555-5555 [line break] LinkedIn profile: www.linkedin.com/in/aapple"</description></image>
         <paragraphs xml:id="par-genres-resume-education">
             <title>Education</title>
             <p>In the education section, include your degree, graduation month and year, where you went to college/university, your GPA, awards won (month and year), and relevant cocurricular activities (include date range, or month and year). Remember to list only those awards and activities that may be relevant to the job application.</p>
-                <image source="images/education.png" width="80%"><description>This graphic shows the education section of an example resume. At the top is the heading "Education" in a larger, all-caps font. Below the heading is the following text: "Bachelor of Science (B.S.)--Horticulture [several spaces] May 2016 [line break] University of Puget Sound (Tacoma WA) [line break] Magna Cum Laude, GPA: 3.80 [line break] Awards Won: Dean’s List (Fall 2013-Spring 2016); Outstanding Senior in Horticultural and Earth Sciences (Spring 2016); Summer Science Scholar (Summer 2015) [line break] Relevant Co-Curricular Activities: Horticultural Sciences Honor Society (March 2015--); Gardening Club (Jan. 2013-May 2016); Environmental Campus Outreach Club (Aug. 2013-May 2016)"</description></image>
+                <image source="education.png" width="80%"><description>This graphic shows the education section of an example resume. At the top is the heading "Education" in a larger, all-caps font. Below the heading is the following text: "Bachelor of Science (B.S.)--Horticulture [several spaces] May 2016 [line break] University of Puget Sound (Tacoma WA) [line break] Magna Cum Laude, GPA: 3.80 [line break] Awards Won: Dean’s List (Fall 2013-Spring 2016); Outstanding Senior in Horticultural and Earth Sciences (Spring 2016); Summer Science Scholar (Summer 2015) [line break] Relevant Co-Curricular Activities: Horticultural Sciences Honor Society (March 2015--); Gardening Club (Jan. 2013-May 2016); Environmental Campus Outreach Club (Aug. 2013-May 2016)"</description></image>
         </paragraphs>
         <paragraphs xml:id="par-genres-resume-past-experience">
             <title>Past Relevant Experience</title>
@@ -233,7 +233,7 @@
             </p>
             <p>Keep in mind that these experiences do not necessarily need be paid employment, but should rather reflect your qualifications and accomplishments working in a relevant or related field. Use fragment bullet points to list the duties you performed in each position and try to be as specific as possible when describing these duties, limiting yourself to two to four bullet points per position. For instance, rather than <q>honed social skills</q> as a campus visit host, you could describe how you <q>greeted, engaged with, and answered questions for prospective students and their families during one-hour informational tours.</q> Try to highlight only the most important duties of a particular position and to avoid repeating similar tasks and skills; for instance, if you <q>conducted scheduling and administrative and office support</q> for multiple positions, you may want to include this only for the positions in which this was a critical part of the job. Remember that your resume should have an overarching focus but that different positions may emphasize different aspects of your qualifications.</p>
         </paragraphs>
-            <image source="images/relevantexperience.png" width="80%"><description>This graphic shows the relevant experience section of an example resume, continuing from the previous examples. At the top is the heading "Relevant Experience," in a larger, all-caps font. The first item has the heading "President, Environmental Campus Outreach Aug. 2015--May 2016 University of Puget Sound, Tacoma, WA." This is followed by three bullet points with the following text: "Scheduled weekly club meetings to facilitate discussions about environmental activism and student-led outreach campaigns on campus; Coordinated and hosted several sustainable-focused events for University students by communicating with on-campus departments and Tacoma entrepreneurs, including a Fall Harvest Festival where local farmers showcased their products to the campus community to spread awareness of Farm-to-Table days; Facilitated relationship between University students and Swan Creek Food Forest workers, establishing a durable volunteering opportunity for current and future classes." The second item has the heading "Food Caretaker and Salesperson June 2014--Aug. 2015 Tacoma Boys Food Co-op, Tacoma, WA." This is followed by two bullet points with the following text: "Watered, handled, and packaged organic food products for consumer use, enhancing knowledge of proper food care and locally-sourced food products; Provided customer service to consumers by answering questions about food sourcing and conducting monetary transactions."</description></image>
+            <image source="relevantexperience.png" width="80%"><description>This graphic shows the relevant experience section of an example resume, continuing from the previous examples. At the top is the heading "Relevant Experience," in a larger, all-caps font. The first item has the heading "President, Environmental Campus Outreach Aug. 2015--May 2016 University of Puget Sound, Tacoma, WA." This is followed by three bullet points with the following text: "Scheduled weekly club meetings to facilitate discussions about environmental activism and student-led outreach campaigns on campus; Coordinated and hosted several sustainable-focused events for University students by communicating with on-campus departments and Tacoma entrepreneurs, including a Fall Harvest Festival where local farmers showcased their products to the campus community to spread awareness of Farm-to-Table days; Facilitated relationship between University students and Swan Creek Food Forest workers, establishing a durable volunteering opportunity for current and future classes." The second item has the heading "Food Caretaker and Salesperson June 2014--Aug. 2015 Tacoma Boys Food Co-op, Tacoma, WA." This is followed by two bullet points with the following text: "Watered, handled, and packaged organic food products for consumer use, enhancing knowledge of proper food care and locally-sourced food products; Provided customer service to consumers by answering questions about food sourcing and conducting monetary transactions."</description></image>
             <p>If you have independent research that you would like to showcase, for each research project, include the:
                 <ul>
                     <li>name of your project (bolded and in quotes)</li>
@@ -245,11 +245,11 @@
             </p>
             <p>Remember to include only research that appropriately showcases your qualifications for the job to which you are applying. Like your past experiences section, keep the bullet-point descriptions of your research simple and to a minimum.</p>
         <!-- This image is missing, can be put back in when replaced -->
-      <!--     <image source="images/independentresearch.png" width="50%"/> -->
+      <!--     <image source="independentresearch.png" width="50%"/> -->
        <paragraphs xml:id="par-genres-resume-relevant-skills">
             <title>Relevant Skills</title>
             <p>Many resumes have a relevant skills section that allows potential employers (or a computerized application tracking system) to easily scan your abilities and qualifications. It offers a list of terms for skills that you have accumulated and gained proficiency in during your work/research experiences and that you will likely utilize in the position to which you are applying. It can include more umbrella terms like <q>public speaking</q> or <q>presentation experience</q> as well as more specific names for particular programs or techniques, such as <q>R- statistical programs</q> or <q>Microsoft Excel.</q> You can include as many skills as you like, but limit yourself to only those skills that are relevant to the specific job. Bold those skills that are more pertinent than others, and use two-column formatting to save space.</p>
-                <image source="images/relevantskills.png" width="80%"><description>This image shows the relevant skills section of an example resume continued from the previous two examples. At the top is the heading "Relevant Skills," in a larger, all-caps font. Skills are listed in two columns of bullet points. Skills in the left column are bolded to indicate they are more pertinent, and are as follows: "Horticultural research; Field data collection; Plant classification; Plant caretaking; R- statistical program." Fields in the right column are not bolded and are as follows: "Public speaking; Scientific writing; Microsoft Office; Group management."</description></image>
+                <image source="relevantskills.png" width="80%"><description>This image shows the relevant skills section of an example resume continued from the previous two examples. At the top is the heading "Relevant Skills," in a larger, all-caps font. Skills are listed in two columns of bullet points. Skills in the left column are bolded to indicate they are more pertinent, and are as follows: "Horticultural research; Field data collection; Plant classification; Plant caretaking; R- statistical program." Fields in the right column are not bolded and are as follows: "Public speaking; Scientific writing; Microsoft Office; Group management."</description></image>
         </paragraphs>
         <list xml:id="list-genres-resumes-tips">
             <title>Strategies for Writing Resumes</title>
@@ -333,7 +333,7 @@
         <paragraphs xml:id="par-genres-why-thank-you">
             <title>Why a Thank-You Note?</title>
             <p>After you've sent in your cover letter and resume (and any other application materials required), all that's left to do is wait to hear from your potential employer. Chances are, if you spent time crafting a strong cover letter and resume, you'll be approved for an interview! <custom ref="CES-interview"/>However, there are some things you can do immediately after an interview to increase your likelihood of moving on in the hiring process. One of these things is writing a thank-you note to each of your interviewers thanking them for their time and consideration of your application and reiterating your interest in the position.</p>
-                <image source="images/thankyou.png" width="50%"><description>This graphic shows a small comic of a letter sticking out of an envelope, with the following text below it: "Dear interviewer, THANK YOU! Best Regards, Your Future Employee."</description></image>
+                <image source="thankyou.png" width="50%"><description>This graphic shows a small comic of a letter sticking out of an envelope, with the following text below it: "Dear interviewer, THANK YOU! Best Regards, Your Future Employee."</description></image>
         </paragraphs>
         <paragraphs xml:id="par-genres-ty-include">
             <title>What to Include</title>

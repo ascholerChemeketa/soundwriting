@@ -19,7 +19,7 @@
         <title>Elements of an Argument</title>
         <introduction>
             <p>After hours of poring over books and sifting through documents in <custom ref="library"/> (and many cups of coffee from <custom ref="coffee-shop"/>), you finally hit upon an idea. The evidence corroborates it, and the logic is sound; your ideas align to form a stance that is at once distinctive and supportable.</p>
-                <image source="images/AD-Coffee" width="70%"><description>A cup of coffee flanked by two speech bubbles. The first reads, "Coffee keeps me alive," and the second responds, "But how? What’s your argument for that?"</description></image>
+                <image source="AD-Coffee" width="70%"><description>A cup of coffee flanked by two speech bubbles. The first reads, "Coffee keeps me alive," and the second responds, "But how? What’s your argument for that?"</description></image>
             <p>Congrats! You have the beginnings of an argument. But how do you begin to articulate this argument in an effective and logical way? How do you use the evidence or findings to support your argument? How do you address the concerns of potential naysayers? How do you know if your argument is too specific or too broad to be arguable?</p>
             <p>Developing your argument to fulfill all of these requirements is a difficult process and may even seem insurmountable at times. But don't despair! Here are some basic things that every argument should have, regardless of writing type or discipline.</p>
         </introduction>
@@ -108,16 +108,16 @@
                 </li>
             </ul>
         </list>
-            <image source="images/AD-Rain" width="70%"><description>A comic of a cloud with falling rain has one speech bubble on each side. The first reads, "I’m condensed moisture falling from the sky!!!" and the second responds, "I mean, yeah, that’s true… not a very interesting argument, but true…"</description></image>
+            <image source="AD-Rain" width="70%"><description>A comic of a cloud with falling rain has one speech bubble on each side. The first reads, "I’m condensed moisture falling from the sky!!!" and the second responds, "I mean, yeah, that’s true… not a very interesting argument, but true…"</description></image>
     </section>
     <section xml:id="thesis-development">
         <title>Developing a Thesis</title>
         <introduction>
             <p>So you've been given a writing assignment. You've read <xref ref="how-to-read-writing-prompts" text="title"/>, and you've begun thinking about the components of a good argument, but now what? In order to structure your paper effectively and to know what supporting claims it needs, you need to have a <xref ref="main-claim" text="title"/> or <term>thesis<idx>thesis</idx></term>. A thesis is an argumentative, contestable statement that tells an audience exactly what a writer intends to argue (for more information, see <xref ref="the-bubble-map" text="title"/>).</p>
-                <image source="images/AD-Car" width="50%"><description>A simple line drawing of a car, with tires.</description></image>
+                <image source="AD-Car" width="50%"><description>A simple line drawing of a car, with tires.</description></image>
             <p>The thesis is thus the main point of your paper. Writing a paper without a thesis is like trying to drive a car without tires; the body will be there, but you certainly won't be taking your reader anywhere important. Good theses do everything good tires should do: they get you moving smoothly, give you traction, and make your arguments a lot more appealing and convincing to audiences. It's difficult to start writing without a working thesis, but once you have an idea of your main argument, you'll be writing in no time. The thesis also provides you with the foundation of and traction for your argument. If you ever find yourself asking, <q>Wait, what am I even writing about?</q> you can refer back to your thesis. Alternatively, you might realize that what you're saying doesn't align with your thesis, so you might rewrite your thesis<mdash/>change your tires<mdash/>altogether! Finally, a good, thorough thesis indicates to the audience that you are an authoritative and careful writer, one who establishes an argument outright and has evidence to support it. Just like a car without tires, a paper without a thesis is odd and ineffective.</p>
             <p>As a scholar in training, your theses represent your contributions to the broader academic conversations in which they take part. Just as with spoken conversations, you don't want the contributions you make to scholarly conversations to be repetitions of what other people have said. Your thesis must therefore be a new, interesting idea that you've come up with. While this endeavor sounds near impossible<mdash/>how can I, as a mere scholar in training, contribute to a conversation with professional and practiced scholars?<mdash/>you needn't worry. You don't have to make a life-changing contribution, and you surely don't need to know every argument that has ever been made on your topic. What you <em>do</em> need to do is develop a research question, research that question, and form a thesis that crystallizes your ideas and findings. Although your paper may be simply another writing assignment that you hope to finish and forget, you might consider thinking about your thesis as an opportunity to develop an idea that legitimately falls within a scholarly conversation.</p>
-                <image source="images/AD-CuteCat" width="50%"><description>A comic of a cute cat, with a speech bubble that reads, "Your thesis looks purrr-fect!"</description></image>
+                <image source="AD-CuteCat" width="50%"><description>A comic of a cute cat, with a speech bubble that reads, "Your thesis looks purrr-fect!"</description></image>
             <p>Now, how do you go about writing your thesis? Since your thesis is the main point of your argument, you may find it difficult and time consuming to construct the perfect sentence (or two!). Strategies to develop your thesis are therefore very important. Let's start from the beginning.</p>
             <note>
                 <p>It is important that you write down <alert>every version</alert> of your thesis. You don't want to have a brilliant idea only to forget it five minutes later; sometimes old versions of your thesis can be useful in crafting newer versions.</p>
@@ -125,7 +125,7 @@
         </introduction>
         <subsection xml:id="thesis-dev-six-steps">
             <title>The Six-Step Process</title>
-                <image source="images/AD-ThesisDevelopment" width="70%"><description>This diagram illustrates the thesis development process. A text box at the top, labeled "question," reads "Why should I be able to own as many cats as I want?" A second box, labeled "evidence," contains the following list: "1. Rampant cat homelessness, 2. Cats=consumer goods, 3. Americans value a right to consumer goods." This box is connected to the question box with a double-ended arrow, representing the iterative relationship between question and evidence. I final bubble at the bottom of the diagram is labeled "claim" and contains the text, "I should be able to own as many cats as I want BECAUSE I have the American right to consumer goods, and there are millions of stray cats that need homes." Arrows coming from both the "question" box and the "evidence" box point to the claim box, indicating that the question and evidence combine to build a strong thesis claim.</description></image>
+                <image source="AD-ThesisDevelopment" width="70%"><description>This diagram illustrates the thesis development process. A text box at the top, labeled "question," reads "Why should I be able to own as many cats as I want?" A second box, labeled "evidence," contains the following list: "1. Rampant cat homelessness, 2. Cats=consumer goods, 3. Americans value a right to consumer goods." This box is connected to the question box with a double-ended arrow, representing the iterative relationship between question and evidence. I final bubble at the bottom of the diagram is labeled "claim" and contains the text, "I should be able to own as many cats as I want BECAUSE I have the American right to consumer goods, and there are millions of stray cats that need homes." Arrows coming from both the "question" box and the "evidence" box point to the claim box, indicating that the question and evidence combine to build a strong thesis claim.</description></image>
             <list xml:id="list-argument-six-step">
                 <title>The Six-Step Process</title>
                 <ol>
@@ -160,7 +160,7 @@
                     </li>
                 </ol>
             </list>
-                <image source="images/AD-WorkingThesisResearch" width="50%"><description>A bubble with the text "Working thesis" and a bubble with the text "research" are connected with two arrows in a neverending circular cycle.</description></image>
+                <image source="AD-WorkingThesisResearch" width="50%"><description>A bubble with the text "Working thesis" and a bubble with the text "research" are connected with two arrows in a neverending circular cycle.</description></image>
             <p>If my working thesis and my research form an unending cycle, then how do I know when my thesis is ready? You can ask yourself if your thesis is doing <acro>MORE</acro>.</p>
             <list xml:id="list-argument-MORE">
                 <title><acro>MORE</acro></title>
@@ -183,7 +183,7 @@
                     </li>
                 </dl>
             </list>
-                <image source="images/AD-IsItReadyYet" width="50%"><description>A loaf of bread with the word "thesis" on it sits in a microwave oven. A speech bubble above the image reads, "Is it ready yet?"</description></image>
+                <image source="AD-IsItReadyYet" width="50%"><description>A loaf of bread with the word "thesis" on it sits in a microwave oven. A speech bubble above the image reads, "Is it ready yet?"</description></image>
             <p>Sometimes, one sentence isn't enough space to contain all of these things. If your thesis has depth and complexity, you likely will find yourself needing two or three sentences, or even a small paragraph, to fully explicate your thesis. Take this space and make it yours! However, if you find your thesis is taking up paragraphs, this may be an indication that you need to pare it down to make it more manageable. If you have more questions about thesis development and whether or not yours is <q>ready,</q> make an appointment at the <custom ref="tutoring-center"/> (<custom ref="tutoring-center-acronym"/>)!</p>
             <p>Consider the following example theses from student papers. In what ways do they or do they not do <xref ref="list-argument-MORE" text="title"/>?</p>
             <example xml:id="ex-argument-women-odyssey">
@@ -288,7 +288,7 @@
                     <li>The bottom bun of your sandwich consists of your thorough analysis of the evidence.</li>
                 </ul>
             </p>
-                <image source="images/AD-QuoteSandwich.png" width="80%"><description>A simple cartoon image of a sandwich has the title "Recipe for a quote sandwich." On the bread is text that reads, "1. Introduce the evidence. 2. Add your quote. 3. Thoroughly analyse the evidence."</description></image>
+                <image source="AD-QuoteSandwich.png" width="80%"><description>A simple cartoon image of a sandwich has the title "Recipe for a quote sandwich." On the bread is text that reads, "1. Introduce the evidence. 2. Add your quote. 3. Thoroughly analyse the evidence."</description></image>
             <p>You may have noticed that the written analysis (see <xref ref="Adele-quote-sandwich" text="title"/>) in the previous section was rendered in three different colors. These colors represent different parts of the quote sandwich. The clause in green introduces the quotation that follows it and anticipates the argument that will be made about the evidence in the section in purple. The text in red is the quotation introduced by the clause in green and commented on by the text in purple. The text in purple analyzes the text in red and elaborates on the claim forecasted by the text in green.</p>
             <p>Quote sandwiches are exceedingly accessible (and tasteful!) ways to structure your in-paragraph arguments.</p>
             <insight>
