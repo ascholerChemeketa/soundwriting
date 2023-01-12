@@ -45,8 +45,9 @@ function setup {
     echo "BUILD: Update Custom XSL :BUILD"
     echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     install -d ${MBUSER}
-    cp ${SWXSL}/ups-writers-html.xsl    ${MBUSER}/ups-writers-html.xsl
-    cp ${SWXSL}/ups-writers-latex.xsl   ${MBUSER}/ups-writers-latex.xsl
+    cp ${SWXSL}/ups-writers-html-common.xsl    ${MBUSER}/ups-writers-html-common.xsl
+    cp ${SWXSL}/ups-writers-html.xsl           ${MBUSER}/ups-writers-html.xsl
+    cp ${SWXSL}/ups-writers-latex.xsl          ${MBUSER}/ups-writers-latex.xsl
     cp ${SWXSL}/ups-writers-latex-styled.xsl   ${MBUSER}/ups-writers-latex-styled.xsl
 }
 
