@@ -30,23 +30,6 @@
 
 <xsl:output method="text" />
 
-<!-- 10pt type, Julie Christoph email 2018-11-28 -->
-<xsl:param name="latex.font.size" select="'10pt'"/>
-
-<!-- 9-inch text height, so 1-inch top and bottom margins      -->
-<!-- (inclusive of header/footer); 10pt type creates a 340pt   -->
-<!-- text width as of 2018-11-30, so we fix that here for      -->
-<!-- page-fitting exercise.  Yielding approximately 287 pages. -->
-<!-- Julie Christoph email 2018-11-28                          -->
-<!-- Update (2020-02-27):  341 pages, at 0.14mm per 170        -->
-<!-- sheets, gives 23.8mm binding, and suggestion is up to     -->
-<!-- half that for binding offset, hence 12mm (~0.47in).       -->
-<!-- geometry package divides inner/outer margins in 2:3       -->
-<!-- ratio.  Ignoring binding, this gives 1.75in inner,        -->
-<!-- 2.0in outer (roughly).                                    -->
-<xsl:param name="latex.geometry" select="'total={340pt,9.0in}, bindingoffset=12mm'"/>
-
-
 <!-- Make marked <p>s hanging indented for citiation chapter. -->
 <xsl:template match="p[@indent='hanging']">
     <xsl:if test="preceding-sibling::*[not(&SUBDIVISION-METADATA-FILTER;)][1][self::p or self::paragraphs or self::sidebyside]">
