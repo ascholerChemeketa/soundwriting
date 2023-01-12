@@ -14,7 +14,9 @@
 
 <publication>
 
-    <source customizations="customizations/pugetsound.ptx"/>
+    <source customizations="customizations/pugetsound.ptx">
+        <directories external="images" generated="generated"/>
+    </source>
 
     <common>
         <chunking level="3"/>

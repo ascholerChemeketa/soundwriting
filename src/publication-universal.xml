@@ -14,7 +14,9 @@
 
 <publication>
 
-    <source customizations="customizations/universal.ptx"/>
+    <source customizations="customizations/universal.ptx">
+        <directories external="images" generated="generated"/>
+    </source>
 
     <common>
         <chunking level="3"/>
