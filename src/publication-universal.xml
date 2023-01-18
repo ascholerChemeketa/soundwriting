@@ -41,6 +41,10 @@
         <analytics statcounter-project="12421811" statcounter-security="aca7d284" google-gst="G-LRFLZFQHP3"/>
     </html>
 
+    <epub>
+        <cover front="covers/soundwriting_final_epub.jpg"/>
+    </epub>
+
     <!-- LaTeX Options and decisions -->
 
     <!-- 10pt type, Julie Christoph email 2018-11-28 -->
