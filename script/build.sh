@@ -130,7 +130,7 @@ function build_htmluniversal {
     # create directory, and cleanout previous runs
     install -d ${SCRATCH}/htmluniversal
     rm ${SCRATCH}/htmluniversal/*.html ${SCRATCH}/htmluniversal/*.js ${SCRATCH}/htmluniversal/knowl/*  ${SCRATCH}/htmluniversal/images/* 
-    ${MBX}/pretext/pretext -vv -c all -f html -X ${MBUSER}/ups-writers-html.xsl -p ${SOURCE}/publication-pugetsound.xml -d ${SCRATCH}/htmluniversal ${SOURCE}/SoundWriting.ptx
+    ${MBX}/pretext/pretext -vv -c all -f html -X ${MBUSER}/ups-writers-html.xsl -p ${SOURCE}/publication-universal.xml -d ${SCRATCH}/htmluniversal ${SOURCE}/SoundWriting.ptx
 }
 
 function view_htmluniversal {
