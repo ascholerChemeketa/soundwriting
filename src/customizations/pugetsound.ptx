@@ -85,7 +85,7 @@
     <!-- This attributes a quote to a specific UPS professor; generic version should just mention a chemistry professor -->
     <custom name="chemistry-professor">Professor Steven Neshyba</custom>
     <!-- This references internal Puget Sound resources for chemistry -->
-    <custom name="chemistry-resources"><p>Collins Memorial Library provides a very helpful online <q>Chemistry: Subject Guide</q> at <url href="http://.pugetsound.edu/chem"/><mdash/>there's even a tab on <q>Writing and Citing</q>!</p></custom>
+    <custom name="chemistry-resources"><p>Collins Memorial Library provides a very helpful online <q>Chemistry: Subject Guide</q> at <url href="http://pugetsound.edu/chem"/><mdash/>there's even a tab on <q>Writing and Citing</q>!</p></custom>
     <!-- An example illustrating clear split infinitives. Has some formatting, other schools should use generic unless pretext-savvy. -->
     <custom name="clear-split-infinitive"> <example>
                     <title>Clear Split Infinitive: Puget Sound Outdoors</title>
