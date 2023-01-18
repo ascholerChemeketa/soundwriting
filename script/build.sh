@@ -163,6 +163,16 @@ function view_pdfuniversal {
     ${PDFVIEWER} ${SCRATCH}/soundwriting-${DATE}-universal.pdf &
 }
 
+# Subroutine to build the Puget Sound HTML version
+function build_epubups {
+    echo
+    echo "BUILD: Building Puget Sound EPUB Version :BUILD"
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    # create directory
+    install -d ${SCRATCH}
+    ${MBX}/pretext/pretext -vv -c all -f epub-svg -X ${MBUSER}/ups-writers-epub.xsl -p ${SOURCE}/publication-pugetsound.xml -o ${SCRATCH}/soundwriting-${DATE}-pugetsound.epub ${SOURCE}/SoundWriting.ptx
+}
+
 # Subroutine to build the print PDF version
 # Use of deprecated string parameter is a small
 # hack to avoid creating an entirely new publication
@@ -240,6 +250,10 @@ case "$1" in
     "viewpdfups")
     view_pdfups
     ;;
+    "epubups")
+    setup
+    build_epubups
+    ;;
     "print")
     setup
     build_print
@@ -262,6 +276,6 @@ case "$1" in
     website
     ;;
     *)
-    echo "Supply an option: all|youtube|htmlups|viewhtmlups|htmluniversal|viewhtmluniversal|pdfuniversal|viewpdfuniversal|pdfups|viewpdfups|print|viewprint|validate|viewerrors|website <username>"
+    echo "Supply an option: all|youtube|htmlups|viewhtmlups|htmluniversal|viewhtmluniversal|pdfuniversal|viewpdfuniversal|pdfups|viewpdfups|epubups|print|viewprint|validate|viewerrors|website <username>"
     ;;
 esac
