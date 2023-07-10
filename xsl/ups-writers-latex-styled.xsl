@@ -24,7 +24,7 @@
 
 <!-- Place ups-writers-latex-styled.xsl file into  mathbook/user -->
 <!-- Assumes next file can be found in mathbook/user, so it must be copied there -->
-<xsl:import href="ups-writers-latex.xsl" />
+<xsl:import href="./ups-writers-latex.xsl" />
 
 <xsl:output method="text" />
 

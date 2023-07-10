@@ -17,7 +17,7 @@
 <!-- 2019/10/10  R. Beezer, ellipsis with spacing is back  -->
 
 <!DOCTYPE xsl:stylesheet [
-    <!ENTITY % entities SYSTEM "../xsl/entities.ent">
+    <!ENTITY % entities SYSTEM "./core/entities.ent">
     %entities;
 ]>
 
@@ -26,7 +26,7 @@
 
 <!-- Import the usual LaTeX conversion templates          -->
 <!-- Place ups-writers-latex.xsl file into  mathbook/user -->
-<xsl:import href="../xsl/pretext-latex.xsl" />
+<xsl:import href="./core/pretext-latex.xsl" />
 
 <xsl:output method="text" />
 

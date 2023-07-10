@@ -26,12 +26,14 @@
       <source>source/SoundWriting.ptx</source>
       <publication>publication/publication-pugetsound.xml</publication>
       <output-dir>output/print-ps</output-dir>
+      <xsl>./xsl/ups-writers-latex-styled.xsl</xsl>
     </target>
     <target name="print-univ" pdf-method="xelatex">
       <format>pdf</format>
       <source>source/SoundWriting.ptx</source>
       <publication>publication/publication-universal.xml</publication>
       <output-dir>output/print-univ</output-dir>
+      <xsl>./xsl/ups-writers-latex-styled.xsl</xsl>
     </target>
     <target name="subset">
       <!-- Usage: to build starting at XMLID, -->
