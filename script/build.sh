@@ -107,32 +107,6 @@ function view_errors {
     Less ${SCRATCH}/errors.txt
 }
 
-# Subroutine to build the electronic PDF version, styled in color
-function build_pdfups {
-    echo
-    echo "BUILD: Building UPS PDF Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH} # Create the scratch directory
-    ${MBX}/pretext/pretext -vv -c all -f pdf -X ${MBUSER}/ups-writers-latex-styled.xsl -p ${SOURCE}/publication-pugetsound.xml -o ${SCRATCH}/soundwriting-${DATE}-pugetsound.pdf ${SOURCE}/SoundWriting.ptx
-}
-
-function view_pdfups {
-    ${PDFVIEWER} ${SCRATCH}/soundwriting-${DATE}-pugetsound.pdf &
-}
-
-# Subroutine to build the electronic PDF version
-function build_pdfuniversal {
-    echo
-    echo "BUILD: Building Universal PDF Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    install -d ${SCRATCH} # Create the scratch directory
-    ${MBX}/pretext/pretext -vv -c all -f pdf -X ${MBUSER}/ups-writers-latex-styled.xsl -p ${SOURCE}/publication-universal.xml -o ${SCRATCH}/soundwriting-${DATE}-universal.pdf ${SOURCE}/SoundWriting.ptx
-}
-
-function view_pdfuniversal {
-    ${PDFVIEWER} ${SCRATCH}/soundwriting-${DATE}-universal.pdf &
-}
-
 # Subroutine to build the Puget Sound HTML version
 function build_epubups {
     echo
@@ -191,20 +165,6 @@ case "$1" in
     ;;
     "youtube")
     build_you_tube_thumbnail
-    ;;
-    "pdfuniversal")
-    setup
-    build_pdfuniversal
-    ;;
-    "viewpdfuniversal")
-    view_pdfuniversal
-    ;;
-    "pdfups")
-    setup
-    build_pdfups
-    ;;
-    "viewpdfups")
-    view_pdfups
     ;;
     "epubups")
     setup
