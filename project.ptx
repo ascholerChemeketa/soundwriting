@@ -21,18 +21,18 @@
       <output-dir>output/web-univ</output-dir>
       <xsl>./xsl/ups-writers-html.xsl</xsl>
     </target>
-    <target name="print-ps" pdf-method="xelatex">
+    <target name="pdf-ps" pdf-method="xelatex">
       <format>pdf</format>
       <source>source/SoundWriting.ptx</source>
       <publication>publication/publication-pugetsound.xml</publication>
-      <output-dir>output/print-ps</output-dir>
+      <output-dir>output/pdf-ps</output-dir>
       <xsl>./xsl/ups-writers-latex-styled.xsl</xsl>
     </target>
-    <target name="print-univ" pdf-method="xelatex">
+    <target name="pdf-univ" pdf-method="xelatex">
       <format>pdf</format>
       <source>source/SoundWriting.ptx</source>
       <publication>publication/publication-universal.xml</publication>
-      <output-dir>output/print-univ</output-dir>
+      <output-dir>output/pdf-univ</output-dir>
       <xsl>./xsl/ups-writers-latex-styled.xsl</xsl>
     </target>
     <target name="subset">
