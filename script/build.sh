@@ -107,36 +107,6 @@ function view_errors {
     Less ${SCRATCH}/errors.txt
 }
 
-# Subroutine to build the Puget Sound HTML version
-function build_htmlups {
-    echo
-    echo "BUILD: Building Puget Sound HTML Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    # create directory, and cleanout previous runs
-    install -d ${SCRATCH}/htmlups
-    rm ${SCRATCH}/htmlups/*.html ${SCRATCH}/htmlups/*.js ${SCRATCH}/htmlups/knowl/*  ${SCRATCH}/htmlups/images/*
-    ${MBX}/pretext/pretext -vv -c all -f html -X ${MBUSER}/ups-writers-html.xsl -p ${SOURCE}/publication-pugetsound.xml -d ${SCRATCH}/htmlups ${SOURCE}/SoundWriting.ptx
-}
-
-function view_htmlups {
-    ${HTMLVIEWER} ${SCRATCH}/htmlups/index.html
-}
-
-# Subroutine to build the Universal HTML version
-function build_htmluniversal {
-    echo
-    echo "BUILD: Building Universal HTML Version :BUILD"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-    # create directory, and cleanout previous runs
-    install -d ${SCRATCH}/htmluniversal
-    rm ${SCRATCH}/htmluniversal/*.html ${SCRATCH}/htmluniversal/*.js ${SCRATCH}/htmluniversal/knowl/*  ${SCRATCH}/htmluniversal/images/* 
-    ${MBX}/pretext/pretext -vv -c all -f html -X ${MBUSER}/ups-writers-html.xsl -p ${SOURCE}/publication-universal.xml -d ${SCRATCH}/htmluniversal ${SOURCE}/SoundWriting.ptx
-}
-
-function view_htmluniversal {
-    ${HTMLVIEWER} ${SCRATCH}/htmluniversal/index.html
-}
-
 # Subroutine to build the electronic PDF version, styled in color
 function build_pdfups {
     echo
@@ -222,20 +192,6 @@ case "$1" in
     "youtube")
     build_you_tube_thumbnail
     ;;
-    "htmlups")
-    setup
-    build_htmlups
-    ;;
-    "viewhtmlups")
-    view_htmlups
-    ;;
-    "htmluniversal")
-    setup
-    build_htmluniversal
-    ;;
-    "viewhtmluniversal")
-    view_htmluniversal
-    ;;
     "pdfuniversal")
     setup
     build_pdfuniversal
@@ -276,6 +232,6 @@ case "$1" in
     website
     ;;
     *)
-    echo "Supply an option: all|youtube|htmlups|viewhtmlups|htmluniversal|viewhtmluniversal|pdfuniversal|viewpdfuniversal|pdfups|viewpdfups|epubups|print|viewprint|validate|viewerrors|website <username>"
+    echo "Supply an option: all|youtube|pdfuniversal|viewpdfuniversal|pdfups|viewpdfups|epubups|print|viewprint|validate|viewerrors|website <username>"
     ;;
 esac
