@@ -7,11 +7,17 @@
 <project>
   <targets>
     <!-- To build this target, run `pretext build web` -->
-    <target name="web">
+    <target name="web-ps">
       <format>html</format>
       <source>source/SoundWriting.ptx</source>
       <publication>publication/publication-pugetsound.xml</publication>
-      <output-dir>output/web</output-dir>
+      <output-dir>output/web-ps</output-dir>
+    </target>
+    <target name="web-univ">
+      <format>html</format>
+      <source>source/SoundWriting.ptx</source>
+      <publication>publication/publication-universal.xml</publication>
+      <output-dir>output/web-univ</output-dir>
     </target>
     <target name="print" pdf-method="xelatex">
       <format>pdf</format>
