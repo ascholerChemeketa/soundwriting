@@ -18,9 +18,7 @@
 
 <!-- This is a collection of templates to support extensions peculiar to -->
 <!-- the UPS writer's handbook, Sound Writing.  It needs to be imported  -->
-<!-- *after* a conversion based on HTML (HTML, EPUB, braille, etc), and  -->
-<!-- thus likely needs to be copied to the "user" directory meant for    -->
-<!-- this purpose.                                                       -->
+<!-- *after* a conversion based on HTML (HTML, EPUB, braille, etc).      -->
 
 <!-- Identify as a stylesheet -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">

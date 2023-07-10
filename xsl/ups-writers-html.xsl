@@ -21,10 +21,9 @@
 
 <!-- Import the usual HTML conversion, then enhance it with the "common" -->
 <!-- extras split out for all conversions based ultimately on HTML.      -->
-<!-- Place ups-writers-html-common.xsl file into  pretext/user -->
 
-<xsl:import href="../xsl/pretext-html.xsl" />
-<xsl:import href="../user/ups-writers-html-common.xsl" />
+<xsl:import href="./core/pretext-html.xsl" />
+<xsl:import href="./ups-writers-html-common.xsl" />
 
 <xsl:output method="html"/>
 
