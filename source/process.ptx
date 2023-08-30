@@ -832,7 +832,7 @@
                 </attribution>
             </blockquote>
         </observation>
-        <p>Many successful people, including <custom ref="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out the <custom ref="diversity-center"/> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. At the <custom ref="tutoring-center-url"/>, <custom ref="writing-tutor"/>s <custom ref="AC-identity"/>can also help you get started and get organized.</p>
+        <p>Many successful people, including <custom ref="university-name-acro"/> professors, once believed that they would not get through their undergrad education. Check out the <custom ref="diversity-center"/> or identity-based groups on campus to connect with people who may be going through the same things you are. Professors who share some part of your identity may also be able to provide support and advice on how they’ve navigated academia. Likewise, enriching your understanding through courses that explore identity and power may contextualize your experience. In the end, writing is writing, and experimenting with strategies from this handbook (see <xref ref="process-overcoming-obstacles"/> and <xref ref="academic-success"/>) can help you get off the ground. At the <custom ref="tutoring-center-url"/>, <custom ref="writing-tutor"/>s <custom ref="AC-identity"/> can also help you get started and get organized.</p>
         <observation>
             <title>Writing as a Multilingual Student</title>
             <blockquote>
@@ -849,9 +849,9 @@
     </subsection>
 
         <subsection xml:id="AI">
-            <title>On AI and Essay Writing</title>
+            <title>Navigating Writing and AI</title>
             <introduction>
-                <p>So<mdash/>you have an essay due at midnight, and you've barely begun to think about how you might answer the prompt. You’re stressed, a little over-caffeinated, and can't remember anything about the book/historical event/case study/experiment/poem that you’re supposed to be writing about. Desperate for inspiration, you turn to the Internet and begin frantically scrolling for ideas. Still nothing. And then you have an idea: you open up Chat GPT and begin typing in your essay prompt.</p>
+                <p>So<mdash/>you have an essay due at midnight, and you've barely begun to think about how you might answer the prompt. You’re stressed, a little over-caffeinated, and at a loss about the book/historical event/case study/experiment/poem that you’re supposed to be writing about. Desperate for inspiration, you turn to the Internet and begin frantically scrolling for ideas. Still nothing. And then you have an idea: you open up Chat GPT and begin typing in your essay prompt.</p>
                 <p>Now, on the surface there’s nothing terribly wrong with this. At this stage, you’ve essentially Googled your own essay prompt. At some point, you just need to get the gears turning!</p>
                 <p>But remember to tread with caution when it comes to using AI tools as aids in your drafting process. Technology is constantly changing, and so are the rules regarding which tools are acceptable to use and which ones aren’t. Beyond that, there are things about yourself, about learning, and about AI itself that may actually make using AI as a writing aid much less useful than it might seem!</p>
                 <p>Err on the side of caution. Note that <url href="https://www.pugetsound.edu/academic-integrity">Puget Sound’s policy on academic integrity</url> explicitly states that “Plagiarism is appropriating and representing the words, ideas, research, images, music, video, or computer programs of others as one’s own, whether created by another human or by artificial intelligence.” Here are some things to consider before you start typing your prompt into a chatbot.</p>
@@ -859,7 +859,7 @@
             </introduction>
             <subsubsection xml:id="why-essays">
                 <title>Why We Write Essays</title>
-                <p>High school essays are often designed to be <em>evaluative</em>: teachers assign them in order to assess how you have retained and applied the information they taught you inside the classroom. By contrast, college essays are <em>explorative</em>.</p>
+                <p>High school essays are often designed to be primarily <em>evaluative</em>: teachers assign them in order to assess how you have retained and applied the information they taught you inside the classroom. By contrast, college essays are primarily <em>explorative</em>.</p>
                 <p>In the college classroom, you are given the tools you need to engage with important discussions in your field or discipline. Your professor will give you the context you need to understand what other professionals in your field are saying about a particular topic by introducing you to relevant names, theories, arguments, and concepts. Once you have these things in your tool belt, you are expected to <em>make</em> something with them. That's what the essay is for<mdash/>to give you an occasion to advance your own thinking and perhaps even the scholarly discussion in some way!</p>
                 <list xml:id="starting-without-AI">
                     <title>Strategies for getting started (without AI)</title>
@@ -872,14 +872,17 @@
                         </li>
                         <li><title>Explain how one theory applies somewhere else</title>
                         </li>
+                        <li><title>Consider rhetorical approaches specific to your discipline</title>
+                            <p>(see <xref ref="discipline-specific-writing"/>)</p>
+                        </li>                    
                     </ul>
                 </list>
-                <p>In this way, you can see that college essays aren't designed to test how much you know about something. Rather, they're designed to make you kick around ideas, explore various lines of reasoning, figure out which argument you agree with, and identify the broader implications of what you discussed in class. (Note: the bot hasn't been attending your class, so it can't possibly represent those discussions as well as you can!)</p>
+                <p>In general, college essays are designed not to see if you can produce a single correct answer; they're designed to make you kick around ideas, explore various lines of reasoning, figure out which argument you agree with, and identify the broader implications of what you discussed in class. (Note: the bot hasn't been attending your class, so it can't possibly represent those discussions as well as you can!)</p>
             </subsubsection>
             <subsubsection xml:id="writing-for-yourself">
                 <title>How Essays Trick You Into Learning (And Why YOU Have to Write Them YOURSELF)</title>
                 <p>If you've ever journaled, you know that the act of writing can be incredibly introspective and revelatory. The act of having to choose each word before you put it down on paper requires you to be attentive to your feelings<mdash/>which is why people write in a journal when they need to process their emotions. Writing requires attention and intention, so writing about emotions often helps people identify their feelings (and what's causing them in the first place).</p>
-                <p>The same applies for writing academically as well. Because the act of writing academically almost always requires explanation<mdash/>explanation of your ideas, of other people’s ideas, and the synthesis of the two<mdash/>professors assign you essays in order to let you really get inside an idea. Essay-writing works a different scholarly muscle than reading theory and attending lectures does, because it  forces you to really process and analyze concepts that you were introduced to in class instead of just remembering them. A chatbot might be able to generate writing, but it can’t do this kind of cognitive work for you. Using Chat GPT to write your essay, in other words, diminishes the benefit of the essay as a learning tool.</p>
+                <p>The same applies for writing academically. Because the act of writing academically almost always requires explanation<mdash/>explanation of your ideas, of other people’s ideas, and the synthesis of the two<mdash/>professors assign you essays in order to let you really get inside an idea. Essay-writing works a different scholarly muscle than reading theory and attending lectures does; it  forces you to really process and analyze concepts that you were introduced to in class instead of just remembering them. A chatbot might be able to generate writing, but it can’t do this kind of cognitive work for you. Using Chat GPT to write your essay, in other words, diminishes the benefit of the essay as a learning tool.</p>
                 <p>You can’t learn from an essay unless you take the time to generate your own ideas and figure out how to explain them in your own words.</p>
             </subsubsection>
             <subsubsection xml:id="chatbot-effectiveness">
@@ -891,17 +894,17 @@
                         <ul>
                             <li><p>Where is the text generator drawing from? Is it drawing from sponsored articles? Reputable sites? Try Googling sections of the bot’s response and seeing what phrases have been lifted directly from various websites. What are those websites?</p></li>
                             <li><p>Is there any nuance that the bot might be missing?</p></li>
+                            <li><p>Has the bot misinterpreted your prompt (taken it too literally or not understood a reference)? Seeing this may help you to clarify what you, yourself, want to write in the essay.</p></li>
                             <li><p>What kinds of biases might be perpetuated by the bot, based on what inputs were used to train it?</p></li>
-                            <li><p> Has the bot misinterpreted your prompt (taken it too literally or not understood a reference)? Seeing this may help you to clarify what you, yourself, want to write in the essay.</p></li>
-                            <li><p> If you are using the bot to generate citations, have you made sure that the style is correct and up to date?</p></li>
+                            <li><p>If you are using the bot to generate citations, have you made sure that the style is correct and up to date?</p></li>
                         </ul>
                     </p>
                 </convention>
 
-                <p>At some point, you will likely wonder, is the bot actually saving you time?</p>
+                <p>At some point, you will likely wonder, is the bot actually helping you meet your deadline (see <xref ref="overcoming-managing-time"/>)?</p>
                 <p>You might find that it will actually be faster to get a brainstorming appointment with a writing advisor to talk through your ideas and get some sense of how to interpret the prompt. The Center for Writing and Learning offers many appointments throughout the week, including in the evenings. To schedule, see the <url href="https://www.pugetsound.edu/cwl">Center for Writing and Learning webpage</url>.</p>
                 <!-- CUSTOM <p>You might find that it will actually be faster to get a brainstorming appointment with a writing tutor at your campus writing center to talk through your ideas and get some sense of how to interpret the prompt.</p>-->
-                <p>If you are in doubt about what to do in a particular situation, check in with your faculty member, and make sure to refer to the <url href="https://www.pugetsound.edu/academic-integrity">Academic Integrity Policy</url> <mdash/>paying special attention to what it says about plagiarism.</p>
+                <p>If you are in doubt about what to do in a particular situation, check in with your faculty member, and make sure to refer to the <url href="https://www.pugetsound.edu/academic-integrity">Academic Integrity Policy</url> <mdash/>paying special attention to what it says about plagiarism (see also <xref ref="plagiarism"/>).</p>
                 <!-- CUSTOM <p>If you are in doubt about what to do in a particular situation, check in with your faculty member, and make sure to refer to the your university's academic integrity policy, paying special attention to what it says about plagiarism.</p>-->
             </subsubsection>
         </subsection>
