@@ -147,7 +147,10 @@
             <subsubsection xml:id="planning-draw">
                 <title>Drawing</title>
                 <p>If you're a more artistic person, you might also experiment with illustrating your argument. Depending on the type of argument you're making and the class you're writing for, you could draw the main characters, historical figures, or events and then make the appropriate connections between them. Similarly, if your argument is more linear, sequential, or chronological, you could draw a different, comic-stylized picture for each step of your argument. You do you!</p>
-                    <custom ref="wp-chalkboard-image" width="40%"/>
+                <insight>
+                    <p>Use a whiteboard in the CWL or chalkboard in Thompson to plan or outline. They have a lot of space, and it's easy to erase!</p>
+                    <!-- CUSTOM <p>Use a whiteboard or chalkboard to plan or outline. They have a lot of space, and it's easy to erase!</p>-->
+                </insight>
             </subsubsection>
         </subsection>
         <subsection xml:id="outlining">
@@ -843,6 +846,7 @@
                 <p>Now, on the surface there’s nothing terribly wrong with this. At this stage, you’ve essentially Googled your own essay prompt. At some point, you just need to get the gears turning!</p>
                 <p>But remember to tread with caution when it comes to using AI tools as aids in your drafting process. Technology is constantly changing, and so are the rules regarding which tools are acceptable to use and which ones aren’t. Beyond that, there are things about yourself, about learning, and about AI itself that may actually make using AI as a writing aid much less useful than it might seem!</p>
                 <p>Err on the side of caution. Note that <url href="https://www.pugetsound.edu/academic-integrity">Puget Sound’s policy on academic integrity</url> explicitly states that “Plagiarism is appropriating and representing the words, ideas, research, images, music, video, or computer programs of others as one’s own, whether created by another human or by artificial intelligence.” Here are some things to consider before you start typing your prompt into a chatbot.</p>
+                <!-- CUSTOM <p>Err on the side of caution. Note that your university's policies may state explicitly that using AI violates academic integrity. Here are some things to consider before you start typing your prompt into a chatbot.</p>-->
             </introduction>
             <subsubsection xml:id="why-essays">
                 <title>Why We Write Essays</title>
@@ -887,7 +891,9 @@
 
                 <p>At some point, you will likely wonder, is the bot actually saving you time?</p>
                 <p>You might find that it will actually be faster to get a brainstorming appointment with a writing advisor to talk through your ideas and get some sense of how to interpret the prompt. The Center for Writing and Learning offers many appointments throughout the week, including in the evenings. To schedule, see the <url href="https://www.pugetsound.edu/cwl">Center for Writing and Learning webpage</url>.</p>
+                <!-- CUSTOM <p>You might find that it will actually be faster to get a brainstorming appointment with a writing tutor at your campus writing center to talk through your ideas and get some sense of how to interpret the prompt.</p>-->
                 <p>If you are in doubt about what to do in a particular situation, check in with your faculty member, and make sure to refer to the <url href="https://www.pugetsound.edu/academic-integrity">Academic Integrity Policy</url> <mdash/>paying special attention to what it says about plagiarism.</p>
+                <!-- CUSTOM <p>If you are in doubt about what to do in a particular situation, check in with your faculty member, and make sure to refer to the your university's academic integrity policy, paying special attention to what it says about plagiarism.</p>-->
             </subsubsection>
         </subsection>
     </section>
