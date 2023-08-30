@@ -256,8 +256,9 @@
             </ul>
         </list>
         <custom ref="AC-notes-insight"/>
-            <image source="HR-Highlighter" width="50%"><description>A highlighter highlighting a line of text, which reads "This line of text is VERY important."
-</description></image>
+            <image source="HR-Highlighter" width="50%">
+                <description>A highlighter highlighting a line of text, which reads "This line of text is VERY important."</description>
+            </image>
         <p>Highlight and underline enough, but not too much. We know that you've heard this a million times before, but don't waste your highlighter ink by highlighting unnecessarily! The point of highlighting is to tell yourself what's important, so highlighting everything doesn't do you much good.</p>
         <insight>
             <p>If you just can't resist highlighting, then make sure you have a way to indicate to your future self (who will inevitably be reading the highlighted work) which pieces of information are simply highlighted because you think they are interesting and which ones are highlighted because they're important. You might use underlining, asterisks, or other symbols to denote this difference.</p>

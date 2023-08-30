@@ -97,8 +97,9 @@
                 <p>A complete sentence always has a <xref ref="definition-subject" text="title"/> and a <xref ref="definition-predicate" text="title"/>. A predicate can include both direct and indirect objects.</p>
                 <p>A <term>direct object<idx>direct object</idx></term> is the noun on which the action occurs. In the sentence, <q>You bought a present,</q> <em><q>the present</q></em> is the direct object because it is the noun on which the action <em><q>bought</q></em> occurs.</p>
                 <p>An <term>indirect object<idx>indirect object</idx></term> is the secondary object, or the object secondarily affected by the action, which is to say that a sentence can only have an indirect object if it also has a direct object. An indirect object is either explicitly or implicitly prepositional. In the sentence, <q>You bought a present for me,</q> <em><q>me</q></em> is the indirect object because it is the recipient of the object originally acted on. In this case, it is marked by the preposition <em><q>for.</q></em> The sentence could also be constructed <q>You bought me a present.</q> Here, the direct and indirect objects are the same, only the indirect object is not indicated by the preposition <em><q>for.</q></em> An easy way to identify the direct and indirect object of a sentence is to ask yourself: On what is the action occurring? (This is the direct object.) And what is being affected by the action having already occurred on something else? (This is the indirect object.)</p>
-                    <image source="LM-Direct-Indirect" width="80%"><description>This diagram displays the difference between direct and indirect nouns. The top half has the label, "You bought a present." A graphic of money is labeled "action=bought" and a graphic of a present is labeled "direct object= present." An arrow from the money to the present shows that the action is acting on the present. The bottom half of the diagram changes to the sentence, "You bought a present for me." The same images are replicated, and additional graphic of a happy person is labeled "indirect object: for me." An arrow points from the present to the person, showing the relationship between direct and indirect objects.
-</description></image>
+                    <image source="LM-Direct-Indirect" width="80%">
+                        <description>This diagram displays the difference between direct and indirect nouns. The top half has the label, "You bought a present." There is a person and a graphic of money that is labeled "action - bought" and a graphic of a present that is labeled "direct object - present." An arrow from the money to the present shows that the action is acting on the present. The bottom half of the diagram is labeled "You bought a present for me." The same images are replicated, and additional graphic of a happy person is labeled "indirect object - me." An arrow points from the present to the person, showing the relationship between direct and indirect objects.</description>
+                    </image>
             </subsubsection>
             <subsubsection xml:id="clauses">
                 <title>Clauses</title>
@@ -437,7 +438,9 @@
                     <p><q><un s="1">To understand</un> infinitives <em>fully</em>, one should learn when to use them.</q></p>
                 </blockquote>
                 <p>In this sentence, the modifying adverb <q>fully</q> is placed outside of the verb form <q>to understand.</q> While this placement does not interfere with the meaning or fluency of the sentence, it breaks up the logical unit of thought; one must refer back to the intact verb form <q>to understand</q> in order to identify what <q>fully</q> is modifying. Therefore, it might be better to split the infinitive so the reader has a clearer idea of what kind of understanding the sentence is promising (full understanding).</p>
-                    <image source="LM-SplitInfinitives" width="80%"><description>A label reads "fun fact." The graphic contains the text, "What’s the deal with split infinitives? In Latin, it’s impossible to split infinitives because infinitives are always one word (like nager in French or nadar in Spanish). So, way back in the day when people in power were standardizing English, they decided it should be like Latin and not split infinitives, even though English technically can while Latin technically can’t."</description></image>
+                    <image source="LM-SplitInfinitives" width="80%">
+                        <description>A label reads "fun fact." The graphic contains the text, "What’s the deal with split infinitives? In Latin, it’s impossible to split infinitives because infinitives are always one word (like nager in French or nadar in Spanish). So, way back in the day when people in power were standardizing English, they decided it should be like Latin and not split infinitives, even though English technically can while Latin technically can’t."</description>
+                    </image>
                 <p>
                     Below are some more examples of infinitives that are probably okay to leave split:
                 </p>
@@ -1178,7 +1181,9 @@
                     <p><q>The actor who played Hamlet fell five times on stage, broke poor Yorick's skull, and forgot his lines during the <q>To be, or not to be<ellipsis/></q> speech. The directors of the play should have chosen a better actor to play Hamlet.</q></p>
                 </blockquote>
                 <p>The first sentence isn't <em>bad,</em> but the second sentences uses specific verbs that are widely known to paint a rich picture about why the actor who played Hamlet should get the hook.</p>
-                    <image source="LM-Hamlet" width="50%"><description>A stick figure person holds up a cartoon skull in one hand.</description></image>
+                    <image source="LM-Hamlet" width="50%">
+                        <description>A person in Elizabethan clothing holds a skull in one hand.</description>
+                    </image>
             </example>
             <p>Here are some synonyms that you might consider using to replace common or boring words. Remember to search for the definition of the synonym if you're uncertain of its meaning or connotations to ensure that it correctly conveys the meaning of your sentence.</p>
             <list xml:id="list-mechanics-overused-words">

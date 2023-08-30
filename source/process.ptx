@@ -22,7 +22,9 @@
         <subsection xml:id="brainstorming">
             <title>Brainstorming</title>
             <p>Before you begin to write, first think about how you like to think. Do you prefer talking through your ideas? Writing down everything that's going through your mind? Drawing? Mapping? There is no right or wrong way to brainstorm. Figure out what works best for you, and then use that knowledge to develop brainstorming skills that are specific to <em>you</em>.</p>
-                <image source="WP-Brain" width="50%"><description>A simple line drawing of a brain, along with a pencil, an ink blot, and two clouds or abstract thoughts. A speech bubble coming from the brain reads "here’s what I’m thinking…"</description></image>
+                <image source="WP-Brain" width="50%">
+                    <description>A cartoon image of a brain with gears in it--5 people are working around the brain--one is carrying a lightbulb, one is looking pensive, one is reading, one is typing on a computer, one is pointing at the lightbulb.</description>
+                </image>
             <list>
                 <title>Strategies for Brainstorming:</title>
                 <ul>
@@ -37,13 +39,17 @@
                     <li>Think about your topic while you are doing something else, like yoga, cooking, or reading a book for pleasure.</li>
                 </ul>
             </list>
-                <image source="WP-Yoga" width="50%"><description>A silhouette of a person in a seated yoga position with their hands over their head. Text in a thought bubble reads, "What were the social and political causes of the Russian Revolution?"</description></image>
+                <image source="WP-Yoga" width="50%">
+                    <description>A silhouette of a person in a seated yoga position with their hands over their head. Text in a thought bubble reads, "What were the social and political causes of the Russian Revolution?"</description>
+                </image>
         </subsection>
         <subsection xml:id="planning">
             <title>Planning</title>
             <introduction>
                 <p>So now that you have a ton of ideas all jockeying for attention in your brain, it's time to sit down, consolidate those thoughts, and plan out what you are going to write. But before you can begin, there are a few things you'll need to address that will help make the planning process go as smoothly and productively as possible.</p>
-                    <image source="WP-Question" width="50%"><description>A small stick-figure person with a large round head with a question mark on it. A thought bubble coming from the head also holds a question mark.</description></image>
+                    <image source="WP-Question" width="50%">
+                        <description>A person sits typing on a computer at a desk that has a plant as well as the computer on it. There is a large clock on the wall looming over the person.</description>
+                    </image>
             </introduction>
             <subsubsection xml:id="planning-pre-planning">
                 <title>Some Planning Strategies</title>
@@ -94,7 +100,9 @@
                         </li>
                     </ul>
                 </list>
-                    <image source="WP-PlanningHead" width="50%"><description>A simple outline of a human head in profile. A white circle where the brain would be holds the word "planning" and a cartoon cloud and lightbulb. They are connected in a circular cycle by two arrows.</description></image>
+                    <image source="WP-PlanningHead" width="50%">
+                        <description>Two hands are pulling delicately at a thread that connects a box labeled Important Idea #1 with another labeled Important Idea #2. Between those idea boxes, also attached to the thread, there are two text boxes with blank lines on them.</description>
+                    </image>
             </subsubsection>
             <subsubsection xml:id="planning-mind-map">
                 <title>Mind Map</title>
@@ -276,8 +284,7 @@
                         </li>
                     </ul>
                 </list>
-                    <image source="WP-AccentTree" width="50%"><description>A simple cartoon of a tree with three branches and green leaves</description></image>
-                <example xml:id="example-process-revising-opening">
+                    <example xml:id="example-process-revising-opening">
                     <title>Revising an Opening Statement</title>
                     <p>For example, you probably shouldn't start a research paper about the destruction of the Sundarbans mangrove forest with the opening statements, <q>Forests are inherently valuable to mankind</q> or <q>Mankind is destroying the Earth's natural resources.</q> Both of these statements are too broad to generate much interest and don't really indicate what the paper will be about. Consider instead the opening statement:</p>
                     <blockquote>
@@ -595,7 +602,9 @@
         <title>Revising</title>
         <introduction>
             <p>When we revise, we deal with both Higher Order Concerns (<acro>HOC</acro>s) and Lower Order Concerns (<acro>LOC</acro>s). <acro>HOC</acro>s include things such as the thesis, organization, topic sentences, and the use of evidence. <acro>LOC</acro>s include things like grammar and syntax. At the <custom ref="tutoring-center"/> (<custom ref="tutoring-center-acronym"/>), we focus largely on <acro>HOC</acro>s. After addressing the <acro>HOC</acro>s covered in this chapter, see <xref ref="writing-sentence-level"/> for a more in-depth overview of <acro>LOC</acro>s.</p>
-                <image source="WP-GoodThings" width="100%"><description>A list titled "Things that are good for you." The list items are, "1. Revising 2. Eating broccoli 3. Revising again." The list is stylized with a cartoon head of broccoli and purple and green accents.</description></image>
+                <image source="WP-GoodThings" width="100%">
+                    <description>A list titled "Things that are good for you." The list items are, "1. Revising 2. Eating broccoli 3. Revising again." The list is stylized with a cartoon head of broccoli and a pencil with an eraser on the end.</description>
+                </image>
             <p>As you're revising, pay attention to these <acro>HOC</acro>s:</p>
             <paragraphs xml:id="par-revising-thesis">
                 <title>Thesis</title>
