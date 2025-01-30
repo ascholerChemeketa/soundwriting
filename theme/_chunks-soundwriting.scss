@@ -1,0 +1,87 @@
+// Styles for "chunks" of content.
+
+$border-radius: 4px !default;
+
+// One stop include for default style content blocks
+@use 'components/chunks/asides-floating';
+@use 'components/chunks/codelike';
+@use 'components/chunks/exercises';
+@use 'components/chunks/solutions';
+@use 'components/chunks/sidebyside';
+@use 'components/chunks/discussion-inline';
+@use 'components/chunks/knowls' with ($border-radius: $border-radius);
+
+// Use the box mixin for various chunks of content below
+@use 'components/chunks/helpers/box-mixin' with (
+  $border-radius: $border-radius,
+);
+
+// Colors for the chunks
+:root {
+  --listbackground: hsl(140, 15%, 96%);
+
+  --insightbackground: hsl(120, 23%, 94%);
+  --observationbackground: hsl(255, 11%, 93%);
+  --notebackground: hsl(260, 19%, 94%);
+
+  --conventionbackground: hsl(120, 23%, 94%);
+  --examplebackground: hsl(190, 18%, 94%);
+
+  --warningbackground: hsl(0, 26%, 92%);
+}
+
+.ptx-content .list {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--listbackground)
+  );
+}
+
+.ptx-content .insight {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--insightbackground)
+  );
+}
+
+.ptx-content .convention {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--conventionbackground)
+  );
+}
+
+.ptx-content .warning {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--warningbackground)
+  );
+}
+
+.ptx-content .note {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--notebackground)
+  );
+}
+
+.ptx-content .example {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--examplebackground)
+  );
+}
+
+.ptx-content .warning {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--warningbackground)
+  );
+}
+
+.ptx-content .observation {
+  @include box-mixin.box(
+    $border-color: var(--body-text-color),
+    $background-color: var(--observationbackground)
+  );
+}
