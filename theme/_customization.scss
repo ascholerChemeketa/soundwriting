@@ -1,0 +1,11 @@
+
+// underlines to headings
+@use 'components/elements/extras/heading-underlines';
+
+.ptx-toc {
+  border: 1px solid var(--page-border-color);
+}
+
+.ptx-toc .toc-item .toc-item {
+  border-bottom: 1px solid var(--page-border-color);
+}
