@@ -39,9 +39,6 @@ jobs:
                     echo "PreTeXt version is less than 2.5, using old build command"
                     pretext build
                 fi
-            - name: stage deployment
-              run: pretext deploy --stage-only
-
             - name: Bundle output/stage as artifact
               uses: actions/upload-artifact@v4
               with:
