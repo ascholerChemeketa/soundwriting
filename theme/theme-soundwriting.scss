@@ -1,0 +1,146 @@
+// Variables used by theme. CSSBuilder overrides these by prepending
+// different definitions for these variables to this file before the theme
+// is compiled.
+
+$palette: 'blue-red' !default;
+$primary-color: null !default;
+$secondary-color: null !default;
+$primary-color-dark: #698aa8 !default;
+$background-color-dark: #23241f !default;
+
+// Let default modern do most of the work...
+@use 'targets/html/default-modern/theme-default-modern' with (
+  $palette: $palette,
+  $primary-color: $primary-color,
+  $secondary-color: $secondary-color,
+  $primary-color-dark: $primary-color-dark,
+  $background-color-dark: $background-color-dark,
+);
+
+//Add customizations to what it produced
+
+:root {
+  --listbackground: hsl(47, 17%, 78%);
+  --insightbackground: hsl(52, 26%, 76%);
+  --conventionbackground: hsl(51, 8%, 64%);
+  --notebackground: hsl(132, 10%, 69%);
+  --examplebackground: hsl(197, 16%, 78%);
+  --warningbackground: hsl(57, 57%, 57%);
+  --observationbackground: hsl(189, 30%, 66%);
+}
+
+:root:not(.dark-mode) {
+  --doc-title-color: var(--secondary-color);
+  --border-color: var(--secondary-color);
+}
+
+
+
+
+.ptx-content section.chapter h2.heading {
+  color: var(--chaptertitle);
+  border-color: var(--secondary-color);
+}
+
+.ptx-content section.chapter h2.heading .title {
+  display:block;
+  font-size:larger;
+  margin-top: 5pt;
+}
+
+.ptx-content section.section h2.heading {
+  color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  border-top: 1pt solid var(--secondary-color);
+  border-bottom: 1pt solid var(--secondary-color);
+  margin-bottom: 20pt;
+  width: 100%;
+}
+.ptx-content section.subsection h2.heading {
+  color: var(--secondary-color);
+  border-bottom: 1pt solid var(--secondary-color);
+  margin-bottom: 20pt;
+  width: 90%;
+}
+
+/* frontmatter headings: */
+.ptx-content section.frontmatter h2.heading {
+  color: var(--chaptertitle);
+  font-size:2em;
+}
+
+.ptx-content section.preface h2.heading, 
+.ptx-content section.acknowledgement h2.heading, 
+.ptx-content section.colophon h2.heading {
+  color: var(--chaptertitle);
+  margin-bottom: 15pt;
+  font-size: 1.75em;
+}
+
+.ptx-content section.preface h2.heading .title {
+  display:block;
+  font-size:larger;
+}
+
+/* Blocks: */
+
+/* set background colors */
+.ptx-content .list {
+  background-color: var(--listbackground);
+}
+.ptx-content .insight {
+  background-color: var(--insightbackground);
+}
+.ptx-content .convention {
+  background-color: var(--conventionbackground);
+}
+.ptx-content .note {
+  background-color: var(--notebackground);
+}
+.ptx-content .example {
+  background-color: var(--examplebackground);
+}
+.ptx-content .warning {
+  background-color: var(--warningbackground);
+}
+.ptx-content .observation {
+  background-color: var(--observationbackground);
+}
+
+/* set titles and borders */
+.ptx-content .remark-like,
+.ptx-content .example-like,
+.ptx-content .list {
+    padding: 1em;
+    border-radius: 10px;
+    margin-bottom: 1em;
+    border: 2px solid var(--border-color);
+}
+
+.ptx-content .example-like .example-like {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background: inherit;
+}
+
+article:after {
+  display: none !important; //turn off bottom of L's from default modern
+}
+
+/* override list margins */
+.ptx-content .list {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.ptx-content .remark-like .heading,
+/* .ptx-content .example-like .heading, */
+.ptx-content .list figcaption {
+  display: block;
+  margin-top: -0.5em !important;
+  padding-bottom: 1em;
+  font-size: large; /*sets font caption size to match h6*/
+}
+
+

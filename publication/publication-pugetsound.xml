@@ -31,7 +31,7 @@
     <html>
         <!-- Custom CSS (developed by Oscar Levin, David Farmer)   -->
         <!-- Also, a UPS color option (David Farmer)               -->
-        <css style="soundwriting" colors="maroon_grey"/>
+        <css theme="custom" entry-point="../theme/theme-soundwriting.scss" secondary-color="#116aad" primary-color="#505050"/>
         <!-- examples are knowled by default, we turn that off -->
         <knowl example="no"/>
         <!-- Native (Javascript) search -->
